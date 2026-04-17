@@ -1,0 +1,15 @@
+[
+  {
+    "paper_title": "Polity Custom",
+    "year": null,
+    "marks": 10,
+    "question_text": "Explain the significance of the 42nd Amendment Act in the Indian Constitution.",
+    "is_structured": 1,
+    "origin": "CUSTOM",
+    "points": [
+      {"section": "Intro", "text": "Enacted in 1976 during the Emergency, often called the 'Mini-Constitution'.", "order": 0},
+      {"section": "Body", "text": "Added words 'Socialist', 'Secular', and 'Integrity' to the Preamble.", "order": 1},
+      {"section": "Conclusion", "text": "Despite controversies, it remains a fundamental shift in constitutional balance.", "order": 2}
+    ]
+  }
+]
