@@ -1,0 +1,40 @@
+[
+  {
+    "uid": "CST_IR_20260418_161501",
+    "paper_title": null,
+    "year": null,
+    "exam": "UPSC",
+    "origin": "CUSTOM",
+    "vault_path": ["International Relations", "India & Neighborhood", "Connectivity"],
+    "marks": 15,
+    "importance": 3,
+    "question_text": "Discuss how international connectivity initiatives impact India's regional position.",
+    "is_structured": 1,
+    "points": [
+      {"section": "Intro", "text": "Strategic shift from 'Look East' to 'Act East' and the necessity of physical connectivity.", "order": 1},
+      {"section": "Body", "text": "Countering the 'Belt and Road Initiative' (BRI) with projects like IMEC and INSTC.", "order": 2},
+      {"section": "Body", "text": "Leveraging BIMSTEC and the India-Myanmar-Thailand Trilateral Highway for regional integration.", "order": 3},
+      {"section": "Conclusion", "text": "Connectivity as a catalyst for strategic autonomy and economic leadership in South Asia.", "order": 4}
+    ]
+  }
+]
+[
+  {
+    "uid": "CST_IR_20260418_161502",
+    "paper_title": null,
+    "year": null,
+    "exam": "UPSC",
+    "origin": "CUSTOM",
+    "vault_path": ["International Relations", "Geopolitics", "West Asia"],
+    "marks": 12,
+    "importance": 3,
+    "question_text": "Analyze the impact of West Asian geopolitical shifts on India’s strategic autonomy.",
+    "is_structured": 1,
+    "points": [
+      {"section": "Intro", "text": "West Asia as the 'Extended Neighborhood' and its role in India's energy and maritime security.", "order": 1},
+      {"section": "Body", "text": "Impact of Abraham Accords on India's 'Link West' policy and the formation of I2U2.", "order": 2},
+      {"section": "Body", "text": "Managing the Iran-Saudi-Israel triangle while preserving independent foreign policy.", "order": 3},
+      {"section": "Conclusion", "text": "Strategic autonomy through 'de-hyphenated' engagement in a multipolar West Asian order.", "order": 4}
+    ]
+  }
+]
