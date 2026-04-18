@@ -1,0 +1,37 @@
+[
+  {
+    "uid": "UPPSC_2025_GS1_Q01",
+    "vault_path": ["History", "Art and Culture"],
+    "importance": 3,
+    "date_added": "2026-04-18",
+    "paper_title": "GS1",
+    "year": 2025,
+    "origin": "PYQ",
+    "marks": 8,
+    "question_text": "Comment briefly on the development of art and technology during the Maurya period.",
+    "is_structured": 0,
+    "points": [
+      {"section": "General", "text": "Stupa architecture (e.g., Sanchi) and the development of stone masonry.", "order": 1},
+      {"section": "General", "text": "Polished stone pillars and animal capitals showcasing advanced lapidary art.", "order": 2},
+      {"section": "General", "text": "Terracotta art and Northern Black Polished Ware (NBPW) technological progress.", "order": 3}
+    ]
+  },
+  {
+    "uid": "UPPSC_2025_GS1_Q11",
+    "vault_path": ["History", "Post-Independence"],
+    "importance": 3,
+    "date_added": "2026-04-18",
+    "paper_title": "GS1",
+    "year": 2025,
+    "origin": "PYQ",
+    "marks": 12,
+    "question_text": "Critically analyse the role of Sardar Patel in the Unification of India after Independence.",
+    "is_structured": 1,
+    "points": [
+      {"section": "Intro", "text": "Sardar Patel as the 'Iron Man' and his leadership in integrating 562 princely states.", "order": 1},
+      {"section": "Body", "text": "Use of 'Carrot and Stick' policy and the Instrument of Accession.", "order": 2},
+      {"section": "Body", "text": "Specific cases: Junagadh, Hyderabad (Operation Polo), and Bhopal.", "order": 3},
+      {"section": "Conclusion", "text": "Establishment of a unified political map and administrative stability.", "order": 4}
+    ]
+  }
+]
