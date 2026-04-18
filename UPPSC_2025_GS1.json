@@ -1,6 +1,7 @@
 [
   {
     "uid": "UPPSC_2025_GS1_Q01",
+    "paper_title": "GS Paper 5",
     "vault_path": ["History", "Art and Culture"],
     "importance": 3,
     "date_added": "2026-04-18",
@@ -18,6 +19,7 @@
   },
   {
     "uid": "UPPSC_2025_GS1_Q11",
+    "paper_title": "GS Paper 5",
     "vault_path": ["History", "Post-Independence"],
     "importance": 3,
     "date_added": "2026-04-18",
