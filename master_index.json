@@ -1,0 +1,7 @@
+{
+  "last_updated": "2026-04-18",
+  "files_to_sync": [
+    "https://raw.githubusercontent.com/YourUser/YourRepo/main/UPPSC_2025_GS1.json",
+    "https://raw.githubusercontent.com/YourUser/YourRepo/main/POLITY_CUSTOM.json"
+  ]
+}
