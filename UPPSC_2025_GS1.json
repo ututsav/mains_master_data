@@ -1,37 +1,342 @@
 [
   {
-  "uid": "UPPSC_2025_GSP1_Q01",
-  "paper_title": "GS Paper 1",
-  "year": 2025,
-  "exam": "UPPSC",
-  "origin": "PYQ",
-  "vault_path": null,
-  "marks": 8,
-  "importance": 3,
+    "uid": "UPPSC_2025_GSP1_01",
+    "paper_title": "GS Paper 1",
+    "year": 2025,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": 2,
     "question_text": "Comment briefly on the development of art and technology during the Maurya period.",
-    "is_structured": 0,
+    "is_structured": 1,
     "points": [
-      {"section": "General", "text": "Stupa architecture (e.g., Sanchi) and the development of stone masonry.", "order": 1},
-      {"section": "General", "text": "Polished stone pillars and animal capitals showcasing advanced lapidary art.", "order": 2},
-      {"section": "General", "text": "Terracotta art and Northern Black Polished Ware (NBPW) technological progress.", "order": 3}
+      {
+        "section": "Intro",
+        "text": "The Mauryan period marked a paradigm shift in Indian art and technology, moving from wood to stone and showcasing sophisticated engineering under imperial patronage[cite: 1].",
+        "order": 1
+      },
+      {
+        "section": "Body",
+        "text": "Artistic achievements include the polished sandstone Ashokan pillars, the evolution of stupa architecture (e.g., Sanchi), and the lifelike Yaksha/Yakshini sculptures[cite: 1].",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Technological advancements are evident in the rock-cut architecture of Barabar caves and the mastery of Northern Black Polished Ware (NBPW) pottery techniques[cite: 1].",
+        "order": 3
+      },
+      {
+        "section": "Conclusion",
+        "text": "Mauryan art and technology established a foundation for monumental Indian architecture and reflected the administrative strength of the empire[cite: 1].",
+        "order": 4
+      }
     ]
   },
   {
-   "uid": "UPPSC_2025_GSP1_Q11",
-  "paper_title": "GS Paper 1",
-  "year": 2025,
-  "exam": "UPPSC",
-  "origin": "PYQ",
-  "vault_path": null,
-  "marks": 12,
-  "importance": 3,
-    "question_text": "Critically analyse the role of Sardar Patel in the Unification of India after Independence.",
+    "uid": "UPPSC_2025_GSP1_02",
+    "paper_title": "GS Paper 1",
+    "year": 2025,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": 3,
+    "question_text": "\"Women's issue was a major concern in the socio-religious reform movements of 19th century India\". Explain.",
     "is_structured": 1,
     "points": [
-      {"section": "Intro", "text": "Sardar Patel as the 'Iron Man' and his leadership in integrating 562 princely states.", "order": 1},
-      {"section": "Body", "text": "Use of 'Carrot and Stick' policy and the Instrument of Accession.", "order": 2},
-      {"section": "Body", "text": "Specific cases: Junagadh, Hyderabad (Operation Polo), and Bhopal.", "order": 3},
-      {"section": "Conclusion", "text": "Establishment of a unified political map and administrative stability.", "order": 4}
+      {
+        "section": "Intro",
+        "text": "The 19th-century Indian Renaissance centered on dismantling patriarchal customs that hindered women's progress, led by reformers like Raja Ram Mohan Roy and Jyotiba Phule[cite: 1].",
+        "order": 1
+      },
+      {
+        "section": "Body",
+        "text": "Key concerns included the abolition of Sati, legalization of widow remarriage, and the eradication of child marriage and the Purdah system[cite: 1].",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Education was utilized as a primary tool for empowerment, exemplified by the opening of schools for girls and the work of Savitribai Phule[cite: 1].",
+        "order": 3
+      },
+      {
+        "section": "Conclusion",
+        "text": "These movements laid the groundwork for modern gender equality and legal protections for women in independent India[cite: 1].",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2025_GSP1_03",
+    "paper_title": "GS Paper 1",
+    "year": 2025,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": 2,
+    "question_text": "'Extremism was a reaction against the ideas and modus operandi of the moderates'. Critically explain this statement.",
+    "is_structured": 1,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The rise of Extremism (Lal-Bal-Pal) in the early 20th century was a direct response to the perceived failure of the Moderates' '3P' (Prayer, Petition, Protest) policy[cite: 1].",
+        "order": 1
+      },
+      {
+        "section": "Body",
+        "text": "Extremists rejected the Moderates' faith in British justice, advocating for Swaraj (Self-rule) and mass mobilization through Boycott and Swadeshi[cite: 1].",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "While Moderates sought constitutional reforms within the empire, Extremists demanded total independence and were willing to use more assertive methods[cite: 1].",
+        "order": 3
+      },
+      {
+        "section": "Conclusion",
+        "text": "Despite their differences, both factions played complementary roles in expanding the social base of the Indian national movement[cite: 1].",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2025_GSP1_04",
+    "paper_title": "GS Paper 1",
+    "year": 2025,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": 2,
+    "question_text": "Does globalization lead to both cultural integration and cultural conflict? Elucidate.",
+    "is_structured": 1,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Globalization creates a dual impact: it connects cultures through technology and trade (integration) but can also spark friction as local identities feel threatened (conflict)[cite: 1].",
+        "order": 1
+      },
+      {
+        "section": "Body",
+        "text": "Integration is seen in the 'Global Village' effect—shared media, cuisine (Glocalization), and universal values like human rights[cite: 1].",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Conflict arises through 'Cultural Imperialism' and the fear of homogenization, leading to a revival of regionalism and fundamentalism[cite: 1].",
+        "order": 3
+      },
+      {
+        "section": "Conclusion",
+        "text": "The challenge lies in fostering a global consciousness while preserving the unique 'salad bowl' of diverse cultural identities[cite: 1].",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2025_GSP1_05",
+    "paper_title": "GS Paper 1",
+    "year": 2025,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": 2,
+    "question_text": "What is the relationship between illiteracy and poverty in the context of developmental issues in rural India? Critically evaluate.",
+    "is_structured": 1,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Illiteracy and poverty form a vicious cycle in rural India, where lack of education restricts economic opportunities and financial hardship prevents access to learning[cite: 1].",
+        "order": 1
+      },
+      {
+        "section": "Body",
+        "text": "Illiteracy leads to low skill levels, confining rural labor to low-paying agricultural work and making them vulnerable to exploitation[cite: 1].",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Conversely, poverty forces children out of school to help with family income, ensuring that the next generation remains illiterate and economically stagnant[cite: 1].",
+        "order": 3
+      },
+      {
+        "section": "Conclusion",
+        "text": "Breaking this cycle requires integrated interventions that combine skill-based education with social security and rural employment schemes[cite: 1].",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2025_GSP1_06",
+    "paper_title": "GS Paper 1",
+    "year": 2025,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": 2,
+    "question_text": "Regionalism in modern India is both a challenge and an opportunity. Clarify.",
+    "is_structured": 1,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Regionalism, or strong attachment to one's own region, acts as a double-edged sword in India’s diverse democratic landscape[cite: 1].",
+        "order": 1
+      },
+      {
+        "section": "Body",
+        "text": "As a challenge, it can fuel secessionist tendencies, inter-state disputes (like water sharing), and the growth of 'son-of-the-soil' ideologies[cite: 1].",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "As an opportunity, it promotes competitive federalism, protects linguistic diversity, and ensures that local developmental needs are voiced in national politics[cite: 1].",
+        "order": 3
+      },
+      {
+        "section": "Conclusion",
+        "text": "Balanced regional development and the principle of 'Unity in Diversity' are essential to channel regional aspirations toward national growth[cite: 1].",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2025_GSP1_07",
+    "paper_title": "GS Paper 1",
+    "year": 2025,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": 1,
+    "question_text": "Examine the variations in nature of glaciers in India.",
+    "is_structured": 1,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's glaciers, primarily located in the Himalayan ranges, exhibit significant variations in size, movement, and retreat patterns based on their geographical location[cite: 1].",
+        "order": 1
+      },
+      {
+        "section": "Body",
+        "text": "Glaciers in the Karakoram (like Siachen) are generally longer and show a slower rate of retreat compared to those in the Central and Eastern Himalayas[cite: 1].",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Variation is influenced by altitude, precipitation types (monsoon vs. western disturbances), and local topography, affecting their roles as perennial water sources[cite: 1].",
+        "order": 3
+      },
+      {
+        "section": "Conclusion",
+        "text": "Monitoring these variations is crucial for water security and assessing the impact of climate change on the Indian subcontinent[cite: 1].",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2025_GSP1_08",
+    "paper_title": "GS Paper 1",
+    "year": 2025,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": 2,
+    "question_text": "How do India's mangroves and corals reefs contribute to marine resource management?",
+    "is_structured": 1,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Mangroves and coral reefs act as vital coastal ecosystems that sustain biodiversity and protect India's shoreline from natural disasters[cite: 1].",
+        "order": 1
+      },
+      {
+        "section": "Body",
+        "text": "Mangroves serve as carbon sinks and nursery grounds for fish, while their root systems prevent coastal erosion and buffer against storm surges[cite: 1].",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Coral reefs provide habitats for diverse marine life and support tourism, while also acting as natural breakwaters for coastal communities[cite: 1].",
+        "order": 3
+      },
+      {
+        "section": "Conclusion",
+        "text": "Effective management of these 'blue carbon' ecosystems is essential for the economic and environmental resilience of India’s coastal regions[cite: 1].",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2025_GSP1_09",
+    "paper_title": "GS Paper 1",
+    "year": 2025,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": 3,
+    "question_text": "Examine the origin, dimensions and implications of Sino-Indian border dispute.",
+    "is_structured": 1,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Sino-Indian border dispute is a complex legacy of colonial-era boundary definitions, involving disagreements over the Line of Actual Control (LAC)[cite: 1].",
+        "order": 1
+      },
+      {
+        "section": "Body",
+        "text": "Dimensions include the Western Sector (Aksai Chin), Middle Sector, and Eastern Sector (Arunachal Pradesh), each with differing claims and historical interpretations[cite: 1].",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Implications extend beyond territorial gain, impacting regional security, bilateral trade, and the geopolitical balance in the Indo-Pacific[cite: 1].",
+        "order": 3
+      },
+      {
+        "section": "Conclusion",
+        "text": "A peaceful resolution remains critical for Asian stability, requiring sustained diplomatic engagement and adherence to existing border protocols[cite: 1].",
+        "order": 4
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2025_GSP1_10",
+    "paper_title": "GS Paper 1",
+    "year": 2025,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": 3,
+    "question_text": "Examine critically the recent theories of the origin of monsoon and discuss the effects of El-nino on monsoon.",
+    "is_structured": 1,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Modern understanding of the Indian monsoon has evolved from simple thermal theories to dynamic models involving the Jet Stream and the Indian Ocean Dipole[cite: 1].",
+        "order": 1
+      },
+      {
+        "section": "Body",
+        "text": "Recent theories emphasize the role of the Tibetan Plateau as a heat source and the influence of the Intertropical Convergence Zone (ITCZ) shift[cite: 1].",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "El-Nino—the warming of surface waters in the Eastern Pacific—generally correlates with a weaker Indian monsoon and drought conditions in the subcontinent[cite: 1].",
+        "order": 3
+      },
+      {
+        "section": "Conclusion",
+        "text": "As climate patterns become more erratic, integrating these complex variables into forecasting is vital for India's agricultural and economic planning[cite: 1].",
+        "order": 4
+      }
     ]
   }
 ]
