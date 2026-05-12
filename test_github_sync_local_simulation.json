@@ -1,0 +1,20 @@
+[
+  {
+    "uid": "TEST_GITHUB_001",
+    "origin": "PYQ",
+    "paper_title": "GS Paper 1",
+    "year": 2025,
+    "question_text": "Updated from GitHub (newer timestamp).",
+    "marks": 10,
+    "importance": 2,
+    "is_structured": 1,
+    "last_updated": 2000000000,
+    "points": [
+      {
+        "section": "Body",
+        "text": "Local version has older timestamp, so this should overwrite during sync.",
+        "order": 1
+      }
+    ]
+  }
+]
