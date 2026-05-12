@@ -8,11 +8,11 @@
     "marks": 10,
     "importance": 2,
     "is_structured": 1,
-    "last_updated": 3000000000,
+    "last_updated": 4000000000,
     "points": [
       {
         "section": "Body",
-        "text": "Local version has older timestamp, so this should overwrite during sync.",
+        "text": "Testing github sync with updated time stamp.",
         "order": 1
       }
     ]
