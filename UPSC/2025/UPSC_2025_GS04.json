@@ -408,5 +408,350 @@
         "cite": "U4"
       }
     ]
+  },
+  {
+    "uid": "UPSC_2025_GSP4_05b",
+    "paper_title": "GS Paper 4",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "To achieve holistic development goal, a civil servant acts as an enabler and active facilitator of growth rather than a regulator. What specific measures will you suggest to achieve this goal? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747468800,
+    "cite": "U4",
+    "q_number": "Q5.b",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The transition from a 'regulatory' to a 'facilitatory' role marks a shift from a command-and-control bureaucracy to a collaborative and citizen-centric administration.",
+        "order": 1,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "Specific measures include adopting a 'Single Window' approach for industrial and social clearances, and utilizing technology to ensure 'Minimum Government, Maximum Governance'.",
+        "order": 2,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "A facilitator must also engage in 'active listening' through community-led planning (PRIs) and act as a bridge between the private sector, NGOs, and the marginalized to leverage diverse resources for development.",
+        "order": 3,
+        "cite": "U4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "By evolving into an enabler, a civil servant reduces administrative friction and empowers citizens to become active participants in their own economic and social growth.",
+        "order": 4,
+        "cite": "U4"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP4_06a",
+    "paper_title": "GS Paper 4",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "It is said that for an ethical work culture, there must be code of ethics in place in every organisation. To ensure value-based and compliance-based work culture, what suitable measures would you adopt in your work place ? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747468800,
+    "cite": "U4",
+    "q_number": "Q6.a",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "An ethical work culture is built on the dual pillars of clear normative standards (Code of Ethics) and a robust enforcement mechanism (Code of Conduct).",
+        "order": 1,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "To ensure compliance, I would implement transparent reporting systems and regular ethics audits; to ensure a 'value-based' culture, I would institutionalize periodic sensitivity training and lead by personal example.",
+        "order": 2,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "Fostering an 'Open-Door' policy and protecting whistleblowers are essential to ensure that ethical concerns are addressed before they escalate into systemic failures.",
+        "order": 3,
+        "cite": "U4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Ultimately, an ethical culture is maintained when integrity is rewarded and ethical considerations are treated as integral to the organization's success.",
+        "order": 4,
+        "cite": "U4"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP4_06b",
+    "paper_title": "GS Paper 4",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 3,
+    "question_text": "India is an emerging economic power of the world as it has recently secured the status of fourth largest economy of the world as per IMF projection. However, it has been observed that in some sectors, allocated funds remain either under-utilised or misutilised. What specific measures would you recommend for ensuring accountability in this regard to stop leakages and gaining the status of third largest economy of the world in near future? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747468800,
+    "cite": "U4",
+    "q_number": "Q6.b",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Maximizing the impact of public expenditure is critical for India to sustain its growth momentum and bridge the developmental gap required for its next economic milestone.",
+        "order": 1,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "Specific measures include the mandatory use of the Public Financial Management System (PFMS) to track funds in real-time and 'Social Auditing' to ensure that projects meet ground-level needs.",
+        "order": 2,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "I also recommend 'Outcome-Based Budgeting' to shift focus from mere financial outlays to tangible results, and utilizing AI-driven tools to identify patterns of leakage or fraud in large-scale procurement.",
+        "order": 3,
+        "cite": "U4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "By ensuring that every rupee allocated translates into public value, India can optimize its capital and accelerate its transition to the world's third-largest economy.",
+        "order": 4,
+        "cite": "U4"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP4_07",
+    "paper_title": "GS Paper 4",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 20,
+    "importance": 3,
+    "question_text": "Vijay was Deputy Commissioner of remote district of Hilly Northern State... (Full Case Study on disaster vs. personal loss)... (a) What are the options available with Vijay? (b) What are the ethical dilemma being faced by Vijay? (c) Critically evaluate and examine each of these options identified by Vijay. (d) Which of the options, do you think, would be most appropriate for Vijay to adopt and why? (250 words)",
+    "is_structured": 0,
+    "last_updated": 1747472400,
+    "cite": "U4",
+    "q_number": 7,
+    "points": [
+      {
+        "section": "General",
+        "text": "(a) Options: 1. Leave immediately for last rites, handing over charge to a junior. 2. Stay at the post until the immediate rescue phase is over (approx. 2-3 days) and then leave. 3. Perform rites remotely or through a proxy while continuing to lead the crisis management.",
+        "order": 1,
+        "cite": "U4"
+      },
+      {
+        "section": "General",
+        "text": "(b) Ethical Dilemmas: 'Duty to Family vs. Duty to State' is the primary conflict. There is a dilemma of 'Personal Grief vs. Professional Responsibility' in a life-and-death situation for 5000+ injured citizens.",
+        "order": 2,
+        "cite": "U4"
+      },
+      {
+        "section": "General",
+        "text": "(c) Evaluation: Option 1 risks administrative paralysis during a critical disaster period, potentially leading to more deaths. Option 2 balances duty but may cause irreversible emotional regret. Option 3 prioritizes public service but at a high personal emotional cost.",
+        "order": 3,
+        "cite": "U4"
+      },
+      {
+        "section": "General",
+        "text": "(d) Final Choice: Vijay should adopt Option 2. As the DC, his presence is irreplaceable for decision-making during the first 48-72 hours of a disaster. He must prioritize the 'Greatest Good for the Greatest Number' (Utilitarianism) before attending to personal bereavement.",
+        "order": 4,
+        "cite": "U4"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP4_08",
+    "paper_title": "GS Paper 4",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 20,
+    "importance": 3,
+    "question_text": "In line with the Directive Principles of State Policy... (Full Case Study on housing for homeless vs. ecologically sensitive forest zone)... (a) Can deforestation be ethically justified in the pursuit of social welfare objectives like, housing for the homeless ? (b) What are the socio-economic, administrative and ethical challenges in balancing environmental conservation with human development ? (c) What substantial alternatives or policy interventions can be proposed to ensure that both environmental integrity and human dignity are protected ? (250 words)",
+    "is_structured": 0,
+    "last_updated": 1747476000,
+    "cite": "U4",
+    "q_number": 8,
+    "points": [
+      {
+        "section": "General",
+        "text": "(a) Ethical Justification: Deforestation for housing is hard to justify ethically when the land is 'ecologically sensitive.' While providing shelter is a DPSP mandate, destroying an ecosystem that regulates climate and sustains tribal livelihoods violates the rights of future generations and indigenous communities.",
+        "order": 1,
+        "cite": "U4"
+      },
+      {
+        "section": "General",
+        "text": "(b) Challenges: Socio-economic challenges involve the immediate survival needs of the poor vs. long-term ecological stability. Administratively, there is a conflict between achieving departmental housing targets and enforcing forest conservation laws. Ethically, it is a conflict between 'Anthropocentrism' (human-centric growth) and 'Ecocentrism'.",
+        "order": 2,
+        "cite": "U4"
+      },
+      {
+        "section": "General",
+        "text": "(c) Alternatives: 1. Identify non-forest degraded lands or vertical housing models in urban areas. 2. Implement 'In-situ' slum redevelopment to avoid land diversion. 3. Adopt 'Green Construction' technologies. 4. Policy intervention: Mandatory 'Environmental-Social Impact Assessment' before any land diversion to prioritize ecological integrity.",
+        "order": 3,
+        "cite": "U4"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP4_09",
+    "paper_title": "GS Paper 4",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 20,
+    "importance": 3,
+    "question_text": "Subash is Secretary, PWD... (Full Case Study on conflict of interest/insider information for son and Minister's nephew)... (a) Discuss the ethical issues involved in the case. (b) Critically examine the options available to Subash in the above situation. (c) Which of the above would be most appropriate and why? (250 words)",
+    "is_structured": 0,
+    "last_updated": 1747476000,
+    "cite": "U4",
+    "q_number": 9,
+    "points": [
+      {
+        "section": "General",
+        "text": "(a) Ethical Issues: 1. Conflict of Interest: Personal family gain vs. professional integrity. 2. Breach of Trust: Using 'insider information' for private profit. 3. Political Pressure: Nepotism and favoritism encouraged by the Minister. 4. Violation of Civil Service Conduct Rules regarding confidentiality.",
+        "order": 1,
+        "cite": "U4"
+      },
+      {
+        "section": "General",
+        "text": "(b) Options: 1. Share information with his son and the Minister's nephew (Unethical/Illegal). 2. Refuse both firmly (Ethical but may cause family and professional friction). 3. Recuse himself from the project due to conflict of interest (Transparent but might not be feasible for a Secretary).",
+        "order": 2,
+        "cite": "U4"
+      },
+      {
+        "section": "General",
+        "text": "(c) Most Appropriate: Subash must follow Option 2. He should explain to his son the legal and ethical implications of 'insider trading' and firmly decline the Minister's hint regarding the nephew. As a senior officer, his primary loyalty is to the public trust and the law, not to personal or political favoritism.",
+        "order": 3,
+        "cite": "U4"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP4_10",
+    "paper_title": "GS Paper 4",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 20,
+    "importance": 3,
+    "question_text": "Rajesh is a Group A officer... (Full Case Study on procurement/GFR rules vs. boss's pressure and promotion)... (a) What are the options available with Rajesh in the above situation? (b) What are the ethical issues involved in this case ? (c) Which would be the most appropriate option for Rajesh and why? (250 words)",
+    "is_structured": 0,
+    "last_updated": 1747476000,
+    "cite": "U4",
+    "q_number": 10,
+    "points": [
+      {
+        "section": "General",
+        "text": "(a) Options: 1. Follow the 'splitting of expenditure' practice to avoid higher sanction (Illegal/Against GFR). 2. Process the file as a single procurement and send it to the boss for formal sanction. 3. Request the boss for a written order for the specific vendor/splitting.",
+        "order": 1,
+        "cite": "U4"
+      },
+      {
+        "section": "General",
+        "text": "(b) Ethical Issues: 1. Integrity vs. Careerism: Risking a bad ACR for following rules. 2. Rule of Law vs. 'Common Practice': Resistance to systemic corruption. 3. Accountability: Financial proprietary vs. pleasing the superior.",
+        "order": 2,
+        "cite": "U4"
+      },
+      {
+        "section": "General",
+        "text": "(c) Most Appropriate: Rajesh should choose Option 2. He must process the procurement as a single 35-lakh order according to GFR. He should politely point out the GFR limit to his boss. If the boss insists on a specific vendor, Rajesh must ensure a transparent bidding process (GeM portal) to protect himself from future audit objections and maintain his integrity.",
+        "order": 3,
+        "cite": "U4"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP4_11",
+    "paper_title": "GS Paper 4",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 20,
+    "importance": 3,
+    "question_text": "You have been appointed as an Administrator... (Full Case Study on MGNREGA mismanagement/siphoning of funds by predecessor)... (a) What is your reaction to the above situation and how do you restore the proper functioning of MGNREGA Program in this regard? (b) What actions would you initiate to solve the various issues listed above? (c) How would you deal with the above situation ? (250 words)",
+    "is_structured": 0,
+    "last_updated": 1747476000,
+    "cite": "U4",
+    "q_number": 11,
+    "points": [
+      {
+        "section": "General",
+        "text": "(a) Reaction and Restoration: The reaction is one of 'Zero Tolerance' for corruption. Restoration involves a total 'System Audit,' cleaning the database of fictitious job cards, and establishing a transparent, biometric-linked attendance and payment system (Aadhaar-based).",
+        "order": 1,
+        "cite": "U4"
+      },
+      {
+        "section": "General",
+        "text": "(b) Specific Actions: 1. Immediate suspension of officials involved in siphoning. 2. Physical verification of all 'ghost' projects. 3. Re-issuing job cards after grassroots verification. 4. Initiating recovery proceedings for misappropriated funds. 5. Strengthening 'Social Audit' committees with local participation.",
+        "order": 2,
+        "cite": "U4"
+      },
+      {
+        "section": "General",
+        "text": "(c) Dealing with the situation: I would adopt a 'Correction and Prosecution' model. While fixing the future system with digital transparency (NMMS app), I would simultaneously file FIRs against the predecessor and staff responsible for fraudulent payments and non-existent works to deter future corruption.",
+        "order": 3,
+        "cite": "U4"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP4_12",
+    "paper_title": "GS Paper 4",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 20,
+    "importance": 3,
+    "question_text": "Ashok is Divisional Commissioner of one of the border districts... (Full Case Study on border crisis/refugees/soldiers)... (a) What are the options available with Ashok to cope with the situation? (b) What are the ethical and legal dilemmas being faced by Ashok ? (c) Which of the options, do you think would be more appropriate for Ashok to adopt and why? (d) In the present situation, what are the extra precautionary measures to be taken by the Border Guarding Police in dealing with soldiers in uniform? (250 words)",
+    "is_structured": 0,
+    "last_updated": 1747472400,
+    "cite": "U4",
+    "q_number": 12,
+    "points": [
+      {
+        "section": "General",
+        "text": "(a) Options: 1. Deny entry based on border protocols. 2. Admit women and children on humanitarian grounds but arrest/disarm the soldiers. 3. Admit all and provide immediate medical care while reporting to the MHA.",
+        "order": 1,
+        "cite": "U4"
+      },
+      {
+        "section": "General",
+        "text": "(b) Ethical/Legal Dilemmas: 'Humanitarian Compassion vs. National Security.' Legally, admitting foreign soldiers violates sovereignty and international protocols, while denying medical aid to the bleeding violates basic human rights.",
+        "order": 2,
+        "cite": "U4"
+      },
+      {
+        "section": "General",
+        "text": "(c) Final Choice: Ashok should admit the civilians for immediate medical aid in a secured perimeter. The soldiers must be disarmed and detained according to international law (Refugee Convention/Geneva principles) to prevent any security breach.",
+        "order": 3,
+        "cite": "U4"
+      },
+      {
+        "section": "General",
+        "text": "(d) Precautionary Measures: Border Police must verify identities, conduct a thorough weapons check, maintain strict segregation between the soldiers and the civilians, and keep a direct line to central intelligence for further instructions on the foreign personnel.",
+        "order": 4,
+        "cite": "U4"
+      }
+    ]
   }
 ]
