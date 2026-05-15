@@ -10,7 +10,8 @@
     "importance": 2,
     "question_text": "Identify the critical challenges faced by the handicraft industries in India and discuss their challenges.",
     "is_structured": 1,
-    "last_updated": 1778718505,
+    "last_updated": 1778718600,
+    "q_number": 1,
     "cite": "3",
     "points": [
       {
@@ -49,8 +50,9 @@
     "marks": 8,
     "importance": 2,
     "question_text": "\"Construction of new airports will facilitate industrialization and development in India.\" Examine.",
-    "is_structured": 1,
-    "last_updated": 1778718505,
+    "is_structured": 2,
+    "last_updated": 1778718600,
+    "q_number": 2,
     "cite": "3",
     "points": [
       {
@@ -90,7 +92,8 @@
     "importance": 3,
     "question_text": "Discuss the concept of unemployment in India as developed by National Sample Survey Office (NSSO).",
     "is_structured": 1,
-    "last_updated": 1778718505,
+    "last_updated": 1778718600,
+    "q_number": 3,
     "cite": "3",
     "points": [
       {
@@ -130,7 +133,8 @@
     "importance": 3,
     "question_text": "How are digital payment systems promoting financial inclusion in India?",
     "is_structured": 1,
-    "last_updated": 1778718505,
+    "last_updated": 1778718600,
+    "q_number": 4,
     "cite": "3",
     "points": [
       {
@@ -170,7 +174,8 @@
     "importance": 3,
     "question_text": "\"Jobless Growth\" is a major concern for the Indian economy. In this backdrop, analyze the reasons behind the \"stagnation of employment elasticity\" in the manufacturing sector.",
     "is_structured": 1,
-    "last_updated": 1778718505,
+    "last_updated": 1778718600,
+    "q_number": 5,
     "cite": "3",
     "points": [
       {
@@ -210,7 +215,8 @@
     "importance": 2,
     "question_text": "How can inclusive and sustainable industrialization (SDG 9) drive economic growth (SDG 8), while ensuring environmental sustainability (SDG 12, 13) in India?",
     "is_structured": 1,
-    "last_updated": 1778718505,
+    "last_updated": 1778718600,
+    "q_number": 6,
     "cite": "3",
     "points": [
       {
@@ -250,7 +256,8 @@
     "importance": 3,
     "question_text": "Examine how the recent developments in biotechnology, particularly genome editing, are reshaping India's agricultural productivity and climate resilience, citing specific examples from 2024 - 2025.",
     "is_structured": 1,
-    "last_updated": 1778718505,
+    "last_updated": 1778718600,
+    "q_number": 7,
     "cite": "3",
     "points": [
       {
@@ -290,7 +297,8 @@
     "importance": 2,
     "question_text": "Evaluate the role of social media in radicalization across the borders.",
     "is_structured": 1,
-    "last_updated": 1778718505,
+    "last_updated": 1778718600,
+    "q_number": 8,
     "cite": "3",
     "points": [
       {
@@ -330,7 +338,8 @@
     "importance": 2,
     "question_text": "Discuss the major causes of human trafficking and describe with examples, the role of the government in ensuring the protection and rehabilitation of the victims.",
     "is_structured": 1,
-    "last_updated": 1778718505,
+    "last_updated": 1778718600,
+    "q_number": 9,
     "cite": "3",
     "points": [
       {
@@ -370,7 +379,8 @@
     "importance": 2,
     "question_text": "\"Despite all efforts, 'Nuclear Proliferation' still poses a challenge to international security.\" Critically analyze this statement.",
     "is_structured": 1,
-    "last_updated": 1778718505,
+    "last_updated": 1778718600,
+    "q_number": 10,
     "cite": "3",
     "points": [
       {
@@ -410,7 +420,8 @@
     "importance": 3,
     "question_text": "Rainfall and irrigation systems are complementary to each other as agriculture sector is highly vulnerable to weather variability. Justify with supportive data.",
     "is_structured": 1,
-    "last_updated": 1778718505,
+    "last_updated": 1778718600,
+    "q_number": 11,
     "cite": "3",
     "points": [
       {
@@ -450,7 +461,8 @@
     "importance": 2,
     "question_text": "What is meant by income inequality? How can income inequality be minimised in India?",
     "is_structured": 1,
-    "last_updated": 1778718505,
+    "last_updated": 1778718600,
+    "q_number": 12,
     "cite": "3",
     "points": [
       {
@@ -490,7 +502,8 @@
     "importance": 3,
     "question_text": "Analyze the impact of global economic tensions and import-export obstacles on the Indian economy.",
     "is_structured": 1,
-    "last_updated": 1778718505,
+    "last_updated": 1778718600,
+    "q_number": 13,
     "cite": "3",
     "points": [
       {
@@ -530,7 +543,8 @@
     "importance": 3,
     "question_text": "\"Investment in health and education forms the foundation of economic development.\" Explain the views of the Government of India in this context.",
     "is_structured": 1,
-    "last_updated": 1778718505,
+    "last_updated": 1778718600,
+    "q_number": 14,
     "cite": "3",
     "points": [
       {
@@ -570,7 +584,8 @@
     "importance": 2,
     "question_text": "\"Land reforms in India remain an unfinished agenda.\" Explain how the lack of proper land records and tenancy reforms act as hurdles in the industrialization and modernisation of agriculture in India.",
     "is_structured": 1,
-    "last_updated": 1778718505,
+    "last_updated": 1778718600,
+    "q_number": 15,
     "cite": "3",
     "points": [
       {
@@ -610,7 +625,8 @@
     "importance": 3,
     "question_text": "Assess the contribution of Startup schemes of the Government of India in technology transfer, economic growth and overall development of India.",
     "is_structured": 1,
-    "last_updated": 1778718505,
+    "last_updated": 1778718600,
+    "q_number": 16,
     "cite": "3",
     "points": [
       {
@@ -650,7 +666,8 @@
     "importance": 3,
     "question_text": "Information technology, Space technology and Biotechnology are playing important roles in transforming India into a developed nation. Discuss with examples.",
     "is_structured": 1,
-    "last_updated": 1778718505,
+    "last_updated": 1778718600,
+    "q_number": 17,
     "cite": "3",
     "points": [
       {
@@ -690,7 +707,8 @@
     "importance": 2,
     "question_text": "What type of threats do drugs and organized crime pose to India's internal security? What measures can be taken to control these challenges?",
     "is_structured": 1,
-    "last_updated": 1778718505,
+    "last_updated": 1778718600,
+    "q_number": 18,
     "cite": "3",
     "points": [
       {
@@ -730,7 +748,8 @@
     "importance": 3,
     "question_text": "\"Security is development and development is security.\" Analyze the symbiotic relationship from India's security perspective.",
     "is_structured": 1,
-    "last_updated": 1778718505,
+    "last_updated": 1778718600,
+    "q_number": 19,
     "cite": "3",
     "points": [
       {
@@ -770,7 +789,8 @@
     "importance": 2,
     "question_text": "Suggest some effective strategies for reducing the risk of man-made disasters like industrial accidents, terrorist attacks and fires.",
     "is_structured": 1,
-    "last_updated": 1778718505,
+    "last_updated": 1778718600,
+    "q_number": 20,
     "cite": "3",
     "points": [
       {
