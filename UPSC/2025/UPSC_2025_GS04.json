@@ -1,0 +1,412 @@
+[
+  {
+    "uid": "UPSC_2025_GSP4_01a",
+    "paper_title": "GS Paper 4",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 3,
+    "question_text": "In the present digital age, social media has revolutionised our way of communication and interaction. However, it has raised several ethical issues and challenges. Describe the key ethical dilemmas in this regard. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747461600,
+    "cite": "U4",
+    "q_number": "Q1.a",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Social media has transformed from a simple communication tool into a pervasive digital infrastructure that significantly influences social behavior and public discourse.",
+        "order": 1,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "Key ethical dilemmas include the conflict between 'Privacy vs. Data Monetization,' where personal user data is harvested for profit, and 'Freedom of Speech vs. Harassment,' where the right to expression is used to facilitate cyber-bullying and hate speech.",
+        "order": 2,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "Furthermore, 'Algorithmic Neutrality vs. Engagement' creates 'echo chambers' that prioritize polarizing content over diverse viewpoints, undermining the shared objective reality necessary for a healthy democracy.",
+        "order": 3,
+        "cite": "U4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Navigating these dilemmas requires a robust digital ethics framework that balances technological innovation with the protection of individual dignity and democratic integrity.",
+        "order": 4,
+        "cite": "U4"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP4_01b",
+    "paper_title": "GS Paper 4",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 3,
+    "question_text": "\"Constitutional morality is not a natural sentiment but a product of civil education and adherance of the rule of law.\" Examine the significance of constitutional morality for public servant highlighting the role in promoting good governance and ensuring accountability in public administration. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747461600,
+    "cite": "U4",
+    "q_number": "Q1.b",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Constitutional morality, as envisioned by Dr. B.R. Ambedkar, is the commitment to the spirit and values of the Constitution above mere majoritarian or personal impulses.",
+        "order": 1,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "For a public servant, it acts as a compass for objective decision-making, ensuring that the 'Rule of Law' prevails over individual biases or political pressure, thereby promoting impartiality in service delivery.",
+        "order": 2,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "It ensures accountability by fostering a sense of duty toward the public, making the administrator a guardian of constitutional rights rather than just a bureaucratic functionary.",
+        "order": 3,
+        "cite": "U4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Fostering constitutional morality through civil education is essential to transform the administrative culture into one that is inherently inclusive, ethical, and people-centric.",
+        "order": 4,
+        "cite": "U4"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP4_02a",
+    "paper_title": "GS Paper 4",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Carl von Clausewitz once said, \"War is a diplomacy by other means.\" Critically analyse the above statement in the present context of contemporary geo-political conflict. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747461600,
+    "cite": "U4",
+    "q_number": "Q2.a",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Clausewitz’s dictum posits that war is not an independent act but a political instrument used to achieve specific diplomatic objectives when negotiation fails.",
+        "order": 1,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "In contemporary conflicts, this is seen in 'Hybrid Warfare,' where conventional military force is integrated with economic sanctions and cyber-offensives to force political concessions.",
+        "order": 2,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "However, the statement is criticized today as the destructive nature of modern warfare often makes the original diplomatic goal unattainable, leading to protracted 'forever wars' that serve no clear political purpose.",
+        "order": 3,
+        "cite": "U4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "While war remains tied to political intent, the focus must shift back to diplomacy as the primary means to resolve conflicts in a globalized, nuclear-armed world.",
+        "order": 4,
+        "cite": "U4"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP4_02b",
+    "paper_title": "GS Paper 4",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Keeping the national security in mind, examine the ethical dilemmas related to controversies over environmental clearance of development projects in ecologically sensitive border areas in the country. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747461600,
+    "cite": "U4",
+    "q_number": "Q2.b",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Infrastructure development in border areas often creates a sharp ethical tension between the state's duty to provide security and its responsibility to protect fragile ecosystems.",
+        "order": 1,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "The primary dilemma is 'National Security vs. Environmental Integrity,' where rapid road or airstrip construction is vital for troop mobility but leads to irreversible deforestation and biodiversity loss.",
+        "order": 2,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "There is also a social dilemma regarding the 'Rights of Indigenous Communities,' whose traditional livelihoods and sacred lands are often sacrificed for broad strategic objectives without their informed consent.",
+        "order": 3,
+        "cite": "U4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Resolving these controversies requires an 'eco-sensitive defense' policy that utilizes sustainable engineering and robust compensatory afforestation to balance these competing imperatives.",
+        "order": 4,
+        "cite": "U4"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP4_03a",
+    "paper_title": "GS Paper 4",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "\"Those who in trouble untroubled are, Will trouble trouble itself.\" - Thiruvalluvar (Answer in 150 words)",
+    "is_structured": 1,
+    "last_updated": 1747461600,
+    "cite": "U4",
+    "q_number": "Q3.a",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "This Kural emphasizes the virtue of equanimity, suggesting that maintaining a calm mind in the face of adversity is the ultimate strategy to overcome it.",
+        "order": 1,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "In a professional context, a 'troubled' mind leads to panic and poor judgment, which exacerbates a crisis; conversely, a steady mind allows for objective analysis and the identification of logical solutions.",
+        "order": 2,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "This stoic approach 'troubles trouble itself' because it removes the psychological power that a crisis holds over an individual, transforming a daunting obstacle into a manageable task.",
+        "order": 3,
+        "cite": "U4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "For a civil servant, cultivating such mental resilience is indispensable for leading under pressure and ensuring stable governance during times of extreme uncertainty.",
+        "order": 4,
+        "cite": "U4"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP4_03b",
+    "paper_title": "GS Paper 4",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "\"The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.\" - William James (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747465200,
+    "cite": "U4",
+    "q_number": "Q3.b",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "This quote highlights the power of 'Attitude' as a psychological construct that shapes our perception of reality and dictates our subsequent actions.",
+        "order": 1,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "While circumstances are often external and uncontrollable, our internal attitude—whether positive, resilient, or empathetic—determines how we respond to those circumstances and the quality of our outcomes.",
+        "order": 2,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "In public service, shifting from a 'bureaucratic' to a 'service-oriented' attitude can transform a routine administrative task into a meaningful social intervention.",
+        "order": 3,
+        "cite": "U4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Ultimately, the mastery over one's attitude is the most potent tool for self-transformation and for creating a positive impact on society.",
+        "order": 4,
+        "cite": "U4"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP4_03c",
+    "paper_title": "GS Paper 4",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "\"The strength of a society is not in its laws, but in the morality of its people.\" - Swami Vivekananda (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747465200,
+    "cite": "U4",
+    "q_number": "Q3.c",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Swami Vivekananda posits that while laws provide a formal structure for order, the true resilience and character of a nation are derived from the collective ethical values of its citizens.",
+        "order": 1,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "Laws can be bypassed or manipulated if the underlying morality is weak; however, a society with a strong moral fabric remains stable even in the absence of stringent regulation.",
+        "order": 2,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "Morality fosters voluntary compliance and social trust, which are the essential 'social capital' required for any sustainable democratic and economic progress.",
+        "order": 3,
+        "cite": "U4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "True social reform must therefore focus on character-building and value-based education rather than just the mere multiplication of legislative rules.",
+        "order": 4,
+        "cite": "U4"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP4_04a",
+    "paper_title": "GS Paper 4",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "\"For any kind of social re-engineering by successfully implementing welfare schemes, a civil servant must use reason and critical thinking in an ethical framework.\" Justify this statement with suitable examples. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747465200,
+    "cite": "U4",
+    "q_number": "Q4.a",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Social re-engineering involves the deliberate modification of social structures, which requires more than just administrative efficiency—it requires a deep ethical commitment.",
+        "order": 1,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "Reason and critical thinking allow a civil servant to identify the root causes of social issues and adapt schemes to local realities, ensuring they are not just 'top-down' mandates.",
+        "order": 2,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "An 'ethical framework' ensures that these changes are inclusive and respect human dignity, such as using data analytics to eliminate 'leakages' in DBT schemes while protecting beneficiary privacy.",
+        "order": 3,
+        "cite": "U4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "The successful implementation of projects like 'Beti Bachao Beti Padhao' demonstrates how a combination of data-driven reason and empathetic ethics can drive lasting social change.",
+        "order": 4,
+        "cite": "U4"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP4_04b",
+    "paper_title": "GS Paper 4",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "What are the major teachings of Mahavir? Explain their relevance in the contemporary world. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747465200,
+    "cite": "U4",
+    "q_number": "Q4.b",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Lord Mahavir, the 24th Tirthankara, provided a profound ethical system centered on non-violence and the plurality of truth.",
+        "order": 1,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "His core teachings include 'Ahimsa' (non-violence in thought, word, and deed) and 'Anekantavada' (the principle of many-sided reality), which promote tolerance and peaceful co-existence.",
+        "order": 2,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "In the contemporary world, 'Aparigraha' (non-attachment/non-possession) is vital to address the crisis of overconsumption and environmental degradation.",
+        "order": 3,
+        "cite": "U4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Mahavir's philosophy remains a powerful antidote to global conflict and ecological crisis, advocating for a life based on restraint and mutual respect.",
+        "order": 4,
+        "cite": "U4"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP4_05a",
+    "paper_title": "GS Paper 4",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "\"One who is devoted to one's duty attains highest perfection in life.\" Analyse this statement with reference to sense of responsibility and personal fulfilment as a civil servant. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747465200,
+    "cite": "U4",
+    "q_number": "Q5.a",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "This principle, rooted in the philosophy of 'Nishkama Karma,' suggests that the dedicated performance of duty is its own spiritual and professional reward.",
+        "order": 1,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "For a civil servant, a 'sense of responsibility' ensures that public service is viewed not just as a job, but as a sacred trust to serve the last person in the line.",
+        "order": 2,
+        "cite": "U4"
+      },
+      {
+        "section": "Body",
+        "text": "True 'personal fulfilment' comes from the tangible impact of one's work on society, providing a deeper sense of purpose that transcends career progression or material rewards.",
+        "order": 3,
+        "cite": "U4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "By aligning personal excellence with the public good, a civil servant achieves the highest 'perfection'—a legacy of integrity and social transformation.",
+        "order": 4,
+        "cite": "U4"
+      }
+    ]
+  }
+]
