@@ -688,33 +688,21 @@
     "vault_path": null,
     "marks": 12,
     "importance": 2,
-    "question_text": "Our attitude towards life, work, other people and society are generally shaped unconsciously by family and social surroundings in which we grow up. Some of these unconsciously acquired attitudes and values are often undesirable in the citizens of a modern democratic and egalitarian society. (a) Discuss such undesirable values prevalent in today's educated Indians. (b) How can such undesirable attitudes be changed and socio-ethical values considered necessary in public services be cultivated in the aspiring and serving public servant? Discuss.",
-    "is_structured": 1,
-    "last_updated": 1747214200,
+    "question_text": "Our attitude towards life, work, other people and society are generally shaped unconsciously by family and social surroundings in which we grow up. Some of these unconsciously acquired attitudes and values are often undesirable in the citizens of a modern democratic and egalitarian society.\n\n(a) Discuss such undesirable values prevalent in today's educated Indians.\n(b) How can such undesirable attitudes be changed and socio-ethical values considered necessary in public services be cultivated in the aspiring and serving public servant? Discuss.",
+    "is_structured": 0,
+    "last_updated": 1747225800,
     "cite": "4",
     "points": [
       {
-        "section": "Intro",
-        "text": "Unconscious socialization often embeds 'pre-modern' values that contradict the 'modern' constitutional ideals of equality and fraternity.",
+        "section": "General",
+        "text": "(a) Undesirable values among educated Indians often include persistent patriarchal mindsets, caste-based elitism, and communal biases that contradict the egalitarian principles of the Indian Constitution.",
         "order": 1,
         "cite": "4"
       },
       {
-        "section": "Body",
-        "text": "Undesirable values include deep-seated patriarchy, caste-based elitism, and a narrow 'communal' identity that prioritizes one's own group over the national interest.",
+        "section": "General",
+        "text": "(b) Changing attitudes and cultivating values: These can be transformed through 'unlearning' sessions during professional training, exposure to diverse social realities (such as 'Bharat Darshan'), and the consistent reinforcement of constitutional morality in administrative culture.",
         "order": 2,
-        "cite": "4"
-      },
-      {
-        "section": "Body",
-        "text": "These can be changed through 'unlearning' sessions in training, exposure to diverse social realities (Bharat Darshan), and rewarding conduct that mirrors egalitarian values.",
-        "order": 3,
-        "cite": "4"
-      },
-      {
-        "section": "Conclusion",
-        "text": "The cultivation of 'constitutional morality' must be a continuous process, starting from school curricula to the lifelong professional development of public servants.",
-        "order": 4,
         "cite": "4"
       }
     ]
@@ -760,31 +748,31 @@
     ]
   },
   {
-  "uid": "UPPSC_2025_GSP4_20",
-  "paper_title": "GS Paper 4",
-  "year": 2025,
-  "exam": "UPPSC",
-  "origin": "PYQ",
-  "vault_path": null,
-  "marks": 15,
-  "importance": 3,
-  "question_text": "Case Study: You hold a responsible position in district. One day in the morning you received a call from the school of your 11-year-old son that you are required to come and meet the principal. You proceed to the school and find your son in the principal's office. The principal informs you that your son had been found wandering aimlessly in the ground during the time classes were in progress. The class teacher further informs you that your son has lately become a loner and did not respond to the questions in the class, he has also been unable to perform well in the football trials held recently. You bring your son back from the school and in the evening along with your wife try to find out the reasons for your son's changed behaviour. After repeated cajoling your son shares that some children had been making fun of him in the class as well as in the WhatsApp group of the student by calling him stunted, stupid and frog. He tells you the names of a few children who were the main culprits but pleaded with you to let the matter rest. After a few day, during a sporting event, where you and your wife have gone to watch your son play. One of your colleague's son shows you a video in which students have caricatured your son. Further he also points out to the perpetrators who were sitting in the stand. You purposefully walk past them with your son and go home. Next day you find on social media, a video denigrating you, your son and even your wife, stating that you were engaged in physical bullying of children on the sports field. The video became viral on social media. Your friend and colleagues began calling you to find out the details. One of your juniors advised you to make counter video giving the background and explaining that nothing had happened on the field. You, in turn posted a video which you have captured during the sports event, identifying the likely perpetrators who were responsible for son's predicament. You have also narrated what has actually happened in the field and made attempts to bring out the adverse effects of the misuse of social media.\n\n(a) Based on the above case study, discuss the ethical issues involved in the use of social media.\n(b) Discuss the pros and cons of using social media by you to put across facts to counter the fake propaganda against your family.",
-  "is_structured": 0,
-  "last_updated": 1747214200,
-  "cite": "4",
-  "points": [
-    {
-      "section": "General",
-      "text": "Ethical issues in social media use: The case involves grave ethical violations including cyber-bullying and caricaturing of a minor, which infringe upon the right to privacy and dignity. The 'digital bystander effect' is evident as the harassment continued unchecked in student groups, alongside the unethical spread of unverified, viral 'fake news' that caused professional and personal harm to a public official.",
-      "order": 1,
-      "cite": "4"
-    },
-    {
-      "section": "General",
-      "text": "Countering propaganda via social media: The 'pros' include immediate reach to the same viral audience with factual evidence to restore reputation. However, the 'cons' involve the risk of escalating the situation, potentially exposing the juvenile perpetrators to digital vigilantism, and the ethical dilemma of a public servant bypassing formal institutional or legal channels for a personal grievance.",
-      "order": 2,
-      "cite": "4"
-    }
-  ]
-}
+    "uid": "UPPSC_2025_GSP4_20",
+    "paper_title": "GS Paper 4",
+    "year": 2025,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 3,
+    "question_text": "Case Study: You hold a responsible position in district. One day in the morning you received a call from the school of your 11-year-old son that you are required to come and meet the principal. You proceed to the school and find your son in the principal's office. The principal informs you that your son had been found wandering aimlessly in the ground during the time classes were in progress. The class teacher further informs you that your son has lately become a loner and did not respond to the questions in the class, he has also been unable to perform well in the football trials held recently. You bring your son back from the school and in the evening along with your wife try to find out the reasons for your son's changed behaviour. After repeated cajoling your son shares that some children had been making fun of him in the class as well as in the WhatsApp group of the student by calling him stunted, stupid and frog. He tells you the names of a few children who were the main culprits but pleaded with you to let the matter rest. After a few day, during a sporting event, where you and your wife have gone to watch your son play. One of your colleague's son shows you a video in which students have caricatured your son. Further he also points out to the perpetrators who were sitting in the stand. You purposefully walk past them with your son and go home. Next day you find on social media, a video denigrating you, your son and even your wife, stating that you were engaged in physical bullying of children on the sports field. The video became viral on social media. Your friend and colleagues began calling you to find out the details. One of your juniors advised you to make counter video giving the background and explaining that nothing had happened on the field. You, in turn posted a video which you have captured during the sports event, identifying the likely perpetrators who were responsible for son's predicament. You have also narrated what has actually happened in the field and made attempts to bring out the adverse effects of the misuse of social media.\n\n(a) Based on the above case study, discuss the ethical issues involved in the use of social media.\n(b) Discuss the pros and cons of using social media by you to put across facts to counter the fake propaganda against your family.",
+    "is_structured": 0,
+    "last_updated": 1747225800,
+    "cite": "4",
+    "points": [
+      {
+        "section": "General",
+        "text": "(a) Ethical issues in social media use: The case highlights grave concerns such as cyber-bullying and caricaturing of a minor, the violation of privacy and human dignity, and the unethical spread of unverified, viral misinformation to damage a family's reputation.",
+        "order": 1,
+        "cite": "4"
+      },
+      {
+        "section": "General",
+        "text": "(b) Countering propaganda via social media: The 'pros' include the ability to immediately reach the same audience with factual evidence to restore reputation. The 'cons' involve the risk of escalating the conflict, potentially exposing the juvenile perpetrators to digital vigilantism, and the ethical dilemma of a public servant bypassing formal institutional channels.",
+        "order": 2,
+        "cite": "4"
+      }
+    ]
+  }
 ]
