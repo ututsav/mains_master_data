@@ -1,0 +1,330 @@
+[
+  {
+    "uid": "UPSC_2025_ESSAY_A1",
+    "paper_title": "Essay",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 3,
+    "question_text": "Truth knows no color. (1000-1200 words)",
+    "is_structured": 1,
+    "last_updated": 1747480800,
+    "cite": "UE",
+    "q_number": "QA.1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Truth represents an absolute and objective reality that remains constant regardless of the subjective perceptions, biases, or identities of those who observe it[cite: 1228].",
+        "order": 1,
+        "cite": "UE"
+      },
+      {
+        "section": "Body",
+        "text": "The universality of truth is evident in science and ethics, where fundamental laws and moral imperatives do not change based on cultural or racial 'color'[cite: 1228].",
+        "order": 2,
+        "cite": "UE"
+      },
+      {
+        "section": "Body",
+        "text": "Selective or 'colored' truths often serve narrow interests, yet historical progress consistently demonstrates that unvarnished truth eventually overcomes systemic deception[cite: 1228].",
+        "order": 3,
+        "cite": "UE"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Embracing the colorblind nature of truth is essential for building a society grounded in integrity and justice, where evidence prevails over prejudice[cite: 1228].",
+        "order": 4,
+        "cite": "UE"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_ESSAY_A2",
+    "paper_title": "Essay",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 3,
+    "question_text": "The supreme art of war is to subdue the enemy without fighting. (1000-1200 words)",
+    "is_structured": 1,
+    "last_updated": 1747480800,
+    "cite": "UE",
+    "q_number": "QA.2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Rooted in Sun Tzu’s 'Art of War,' this principle elevates strategic wisdom and diplomatic finesse above the raw application of physical force[cite: 1230].",
+        "order": 1,
+        "cite": "UE"
+      },
+      {
+        "section": "Body",
+        "text": "Modern subdual occurs through 'Soft Power,' economic statecraft, and information dominance, which aim to align the enemy's will with one's own objectives[cite: 1230].",
+        "order": 2,
+        "cite": "UE"
+      },
+      {
+        "section": "Body",
+        "text": "Strategic deterrence and psychological maneuvering allow a state to achieve national security goals while avoiding the catastrophic human and economic costs of open conflict[cite: 1230].",
+        "order": 3,
+        "cite": "UE"
+      },
+      {
+        "section": "Conclusion",
+        "text": "True victory lies in the preservation of life and resources; thus, subduing an opponent through intellect remains the pinnacle of strategic success[cite: 1230].",
+        "order": 4,
+        "cite": "UE"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_ESSAY_A3",
+    "paper_title": "Essay",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 3,
+    "question_text": "Thought finds a world and creates one also. (1000-1200 words)",
+    "is_structured": 1,
+    "last_updated": 1747480800,
+    "cite": "UE",
+    "q_number": "QA.3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Human thought possesses a dual capability: it acts as a lens to discover existing realities and as a forge to create entirely new ones[cite: 1232].",
+        "order": 1,
+        "cite": "UE"
+      },
+      {
+        "section": "Body",
+        "text": "Thought 'finds' the world through scientific inquiry and philosophical observation, mapping the inherent laws of nature and society[cite: 1232].",
+        "order": 2,
+        "cite": "UE"
+      },
+      {
+        "section": "Body",
+        "text": "Simultaneously, thought 'creates' the world through innovation, art, and ideology, transforming abstract concepts into the physical and social infrastructure of civilization[cite: 1232].",
+        "order": 3,
+        "cite": "UE"
+      },
+      {
+        "section": "Conclusion",
+        "text": "The power of thought carries the heavy responsibility of ensuring that the worlds we create are as ethical and sustainable as the ones we find[cite: 1232].",
+        "order": 4,
+        "cite": "UE"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_ESSAY_A4",
+    "paper_title": "Essay",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 3,
+    "question_text": "Best lessons are learnt through bitter experiences. (1000-1200 words)",
+    "is_structured": 1,
+    "last_updated": 1747480800,
+    "cite": "UE",
+    "q_number": "QA.4",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Adversity often acts as the most effective teacher, as 'bitter experiences' leave an indelible mark on human consciousness that routine success cannot replicate[cite: 1234].",
+        "order": 1,
+        "cite": "UE"
+      },
+      {
+        "section": "Body",
+        "text": "Failure and hardship build resilience and force critical self-reflection, leading to a deeper understanding of one's limitations and latent strengths[cite: 1234].",
+        "order": 2,
+        "cite": "UE"
+      },
+      {
+        "section": "Body",
+        "text": "Historically, major social and technological advancements have often emerged from crises, demonstrating that collective wisdom is frequently forged in the fire of struggle[cite: 1234].",
+        "order": 3,
+        "cite": "UE"
+      },
+      {
+        "section": "Conclusion",
+        "text": "While bitterness is avoided by many, it remains the essential ingredient for the wisdom required to navigate a complex and unpredictable life[cite: 1234].",
+        "order": 4,
+        "cite": "UE"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_ESSAY_B5",
+    "paper_title": "Essay",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 2,
+    "question_text": "Muddy water is best cleared by leaving it alone. (1000-1200 words)",
+    "is_structured": 1,
+    "last_updated": 1747484400,
+    "cite": "UE",
+    "q_number": "QB.5",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "This Taoist-inspired principle advocates for the power of non-interference and patience, suggesting that excessive action often prevents natural clarity[cite: 1237].",
+        "order": 1,
+        "cite": "UE"
+      },
+      {
+        "section": "Body",
+        "text": "In conflict resolution and decision-making, 'leaving it alone' allows heightened emotions to settle, revealing the objective truth beneath the 'mud' of immediate chaos[cite: 1237].",
+        "order": 2,
+        "cite": "UE"
+      },
+      {
+        "section": "Body",
+        "text": "This philosophy applies to ecology and mental health, where restoration often requires a withdrawal of human interference to allow for natural healing cycles[cite: 1237].",
+        "order": 3,
+        "cite": "UE"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Patience is not passivity; it is a strategic choice to let time provide the clarity that force never can[cite: 1237].",
+        "order": 4,
+        "cite": "UE"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_ESSAY_B6",
+    "paper_title": "Essay",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 2,
+    "question_text": "The years teach much which the days never know. (1000-1200 words)",
+    "is_structured": 1,
+    "last_updated": 1747484400,
+    "cite": "UE",
+    "q_number": "QB.6",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "This aphorism highlights the distinction between the frantic, localized information of a single 'day' and the comprehensive, integrated wisdom of 'years'[cite: 1239].",
+        "order": 1,
+        "cite": "UE"
+      },
+      {
+        "section": "Body",
+        "text": "Time provides the perspective required to recognize patterns in history, nature, and personal growth that remain invisible when viewed through the narrow window of the present[cite: 1239].",
+        "order": 2,
+        "cite": "UE"
+      },
+      {
+        "section": "Body",
+        "text": "Maturity is a temporal process; certain realizations regarding character and consequence only reveal themselves after multiple cycles of seasonal and social change[cite: 1239].",
+        "order": 3,
+        "cite": "UE"
+      },
+      {
+        "section": "Conclusion",
+        "text": "While the day offers action, only the years offer wisdom; valuing the long-term over the immediate is vital for lasting human progress[cite: 1239].",
+        "order": 4,
+        "cite": "UE"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_ESSAY_B7",
+    "paper_title": "Essay",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 2,
+    "question_text": "It is best to see life as a journey, not as a destination. (1000-1200 words)",
+    "is_structured": 1,
+    "last_updated": 1747484400,
+    "cite": "UE",
+    "q_number": "QB.7",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "A destination-focused mindset often leads to persistent dissatisfaction, whereas viewing life as a 'journey' shifts focus to the intrinsic value of current experiences[cite: 1241].",
+        "order": 1,
+        "cite": "UE"
+      },
+      {
+        "section": "Body",
+        "text": "The 'journey' perspective promotes growth through the process of movement—learning from detours, setbacks, and the evolving scenery of life’s phases[cite: 1241].",
+        "order": 2,
+        "cite": "UE"
+      },
+      {
+        "section": "Body",
+        "text": "Modern stress is frequently linked to an obsession with future goals; reclaiming the journey allows for mindfulness and finding meaning in everyday occurrences[cite: 1241].",
+        "order": 3,
+        "cite": "UE"
+      },
+      {
+        "section": "Conclusion",
+        "text": "The richness of life is found in the travel, not just the arrival; living for the process is the ultimate path to contentment[cite: 1241].",
+        "order": 4,
+        "cite": "UE"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_ESSAY_B8",
+    "paper_title": "Essay",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 2,
+    "question_text": "Contentment is natural wealth; luxury is artificial poverty. (1000-1200 words)",
+    "is_structured": 1,
+    "last_updated": 1747484400,
+    "cite": "UE",
+    "q_number": "QB.8",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "True wealth is a state of mind characterized by 'contentment,' while the pursuit of luxury often creates a psychological 'poverty' defined by never-ending desire[cite: 1242].",
+        "order": 1,
+        "cite": "UE"
+      },
+      {
+        "section": "Body",
+        "text": "Natural wealth is found in self-sufficiency and emotional peace, which remain immune to economic fluctuations or social comparison[cite: 1242].",
+        "order": 2,
+        "cite": "UE"
+      },
+      {
+        "section": "Body",
+        "text": "Luxury becomes 'artificial poverty' when it fosters dependence on external status markers, leaving the individual perpetually feeling incomplete without the next acquisition[cite: 1242].",
+        "order": 3,
+        "cite": "UE"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Choosing contentment is a revolutionary act in a consumerist world, allowing for a life of genuine abundance and freedom[cite: 1242].",
+        "order": 4,
+        "cite": "UE"
+      }
+    ]
+  }
+]
