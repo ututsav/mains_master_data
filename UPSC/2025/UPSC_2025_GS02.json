@@ -1,0 +1,822 @@
+[
+  {
+    "uid": "UPSC_2025_GSP2_01",
+    "paper_title": "GS Paper 2",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 3,
+    "question_text": "Discuss the 'corrupt practices' for the purpose of the Representation of the People Act, 1951. Analyze whether the increase in the assets of the legislators and/or their associates, disproportionate to their known sources of income, would constitute 'undue influence' and consequently a corrupt practice. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747447200,
+    "cite": "U2",
+    "q_number": 1,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Representation of the People Act (RPA), 1951, defines 'corrupt practices' to ensure the purity of the electoral process and uphold the democratic ideal of free and fair elections.",
+        "order": 1,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "Corrupt practices under Section 123 include bribery, appeal to communal sentiments, and 'undue influence,' which is defined as any direct or indirect interference with the free exercise of electoral rights.",
+        "order": 2,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "Disproportionate asset growth can be analyzed as 'undue influence' because it suggests the use of illicit resources to manipulate voter choice or gain an unfair advantage, thereby violating the level playing field.",
+        "order": 3,
+        "cite": "U2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Strict judicial interpretation and robust enforcement by the Election Commission are essential to treat such financial irregularities as corrupt practices and maintain public trust in the legislature.",
+        "order": 4,
+        "cite": "U2"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP2_02",
+    "paper_title": "GS Paper 2",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Comment on the need of administrative tribunals as compared to the court system. Assess the impact of the recent tribunal reforms through rationalization of tribunals made in 2021. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747447200,
+    "cite": "U2",
+    "q_number": 2,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Administrative tribunals were established under Articles 323A and 323B to provide a specialized, quasi-judicial mechanism for speedy and technical dispute resolution outside the traditional court hierarchy.",
+        "order": 1,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "Unlike the formal court system, tribunals offer flexibility in procedure, lower costs, and expertise in specific domains like taxation or environment, effectively reducing the burden on the judiciary.",
+        "order": 2,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "The 2021 reforms aimed at 'rationalization' by abolishing redundant tribunals and merging others to improve administrative efficiency and address the chronic issue of vacancies.",
+        "order": 3,
+        "cite": "U2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "While rationalization streamlines the system, the impact depends on ensuring the independence of these bodies and providing them with adequate infrastructure to deliver timely justice.",
+        "order": 4,
+        "cite": "U2"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP2_03",
+    "paper_title": "GS Paper 2",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Compare and contrast the President's power to pardon in India and in the USA. Are there any limits to it in both the countries? What are 'preemptive pardons'? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747447200,
+    "cite": "U2",
+    "q_number": 3,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The power to pardon is a sovereign executive prerogative intended to correct judicial errors and provide a 'human touch' to the legal system, granted under Article 72 in India and Article II in the USA.",
+        "order": 1,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "In India, the President acts on the 'aid and advice' of the Cabinet and decisions are subject to limited judicial review; in the USA, the President's power is largely independent and nearly absolute for federal crimes.",
+        "order": 2,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "'Preemptive pardons,' common in the USA but not in India, allow a President to pardon an individual for crimes that may have been committed but for which no charges have yet been filed.",
+        "order": 3,
+        "cite": "U2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Despite differences, both systems limit the power to specific domains—federal laws in the USA and specific union/military laws in India—ensuring it does not become a tool for arbitrary rule.",
+        "order": 4,
+        "cite": "U2"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP2_04",
+    "paper_title": "GS Paper 2",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 3,
+    "question_text": "Discuss the nature of Jammu and Kashmir Legislative Assembly after the Jammu and Kashmir Reorganization Act, 2019. Briefly describe the powers and functions of the Assembly of the Union Territory of Jammu and Kashmir. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747447200,
+    "cite": "U2",
+    "q_number": 4,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The 2019 Reorganization Act transformed Jammu and Kashmir from a state into a Union Territory (UT) with a legislature, significantly altering its constitutional and administrative nature.",
+        "order": 1,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "The Assembly is modeled on the Puducherry pattern, where its legislative competence is limited by the ultimate authority of the Lieutenant Governor and the Union Parliament.",
+        "order": 2,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "Key powers include legislating on State and Concurrent list subjects, excluding 'Public Order' and 'Police,' which remain under the direct control of the Central Government.",
+        "order": 3,
+        "cite": "U2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "This framework balances regional democratic aspirations with national security imperatives, marking a new chapter in the federal integration of the region.",
+        "order": 4,
+        "cite": "U2"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP2_05",
+    "paper_title": "GS Paper 2",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "\"The Attorney General of India plays a crucial role in guiding the legal framework of the Union Government and ensuring sound governance through legal counsel.\" Discuss his responsibilities, rights and limitations in this regard. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747447200,
+    "cite": "U2",
+    "q_number": 5,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Attorney General (AG), appointed under Article 76, is the highest law officer in the country and serves as the chief legal advisor to the Union Government.",
+        "order": 1,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "Responsibilities include representing the government in the Supreme Court and high courts, and advising the President on legal matters referred to the office.",
+        "order": 2,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "The AG has the right to speak in both Houses of Parliament but lacks the right to vote; limitations include the inability to advise against the government or defend an accused without permission.",
+        "order": 3,
+        "cite": "U2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "As a vital link between the law and executive action, the AG ensures that government policies remain within the bounds of constitutional and legal propriety.",
+        "order": 4,
+        "cite": "U2"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP2_06",
+    "paper_title": "GS Paper 2",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Women's social capital complements in advancing empowerment and gender equity. Explain. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747447200,
+    "cite": "U2",
+    "q_number": 6,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Social capital—the networks, norms, and trust within a community—is a powerful non-economic resource that women leverage to overcome systemic gender barriers.",
+        "order": 1,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "Empowerment is advanced through Self-Help Groups (SHGs) and community networks that provide access to informal credit, skill-sharing, and collective bargaining power.",
+        "order": 2,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "Gender equity is enhanced as these social networks foster awareness of legal rights, encourage participation in local governance, and provide support against domestic violence.",
+        "order": 3,
+        "cite": "U2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Strengthening women's social capital is therefore essential to transform individual agency into a collective movement for sustainable socio-economic development.",
+        "order": 4,
+        "cite": "U2"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP2_07",
+    "paper_title": "GS Paper 2",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "e-governance projects have a built-in bias towards technology and back-end integration than user-centric designs. Examine. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747447200,
+    "cite": "U2",
+    "q_number": 7,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "While e-governance aims to revolutionize service delivery, many projects focus more on the 'digitization' of processes rather than the 'experience' of the end-user.",
+        "order": 1,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "The bias toward technology is seen in the prioritization of complex back-end databases and inter-departmental integration, which often results in interfaces that are difficult for the average citizen to navigate.",
+        "order": 2,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "A lack of user-centric design often overlooks the digital divide, language barriers, and the need for simple, 'one-stop' mobile interfaces that cater to rural and less tech-savvy populations.",
+        "order": 3,
+        "cite": "U2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "To achieve true good governance, e-governance must shift from being 'technology-led' to 'citizen-centric,' ensuring that digital tools are inclusive and accessible to all.",
+        "order": 4,
+        "cite": "U2"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP2_08",
+    "paper_title": "GS Paper 2",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 3,
+    "question_text": "Civil Society Organizations are often perceived as being anti-State actors than non-State actors. Do you agree? Justify. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747447200,
+    "cite": "U2",
+    "q_number": 8,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Civil Society Organizations (CSOs) act as the 'third pillar' of democracy, providing a vital link between the individual citizen and the powerful state machinery.",
+        "order": 1,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "The perception of CSOs as 'anti-state' often arises when they challenge government policies on environment or human rights, leading to friction with the executive.",
+        "order": 2,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "However, they are primarily constructive 'non-state' actors that complement the state by filling gaps in welfare delivery, promoting grassroots awareness, and ensuring administrative accountability.",
+        "order": 3,
+        "cite": "U2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "A healthy democracy requires a collaborative relationship where the state views CSOs as partners in development rather than adversaries to its authority.",
+        "order": 4,
+        "cite": "U2"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP2_09",
+    "paper_title": "GS Paper 2",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 3,
+    "question_text": "India-Africa digital partnership is achieving mutual respect, co-development and long-term institutional partnerships. Elaborate. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747447200,
+    "cite": "U2",
+    "q_number": 9,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's engagement with Africa has transitioned from traditional aid to a modern partnership centered on digital public infrastructure and South-South cooperation.",
+        "order": 1,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "Co-development is exemplified by the 'e-VidyaBharati and e-AarogyaBharati' project, which provides tele-education and tele-medicine to African nations using Indian technology.",
+        "order": 2,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "Mutual respect is maintained by offering 'open-source' digital stacks (like UPI and Aadhaar models) that African nations can adapt to their unique local socio-economic contexts.",
+        "order": 3,
+        "cite": "U2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "This digital synergy builds long-term institutional ties, establishing India as a reliable technological partner and a champion of the Global South.",
+        "order": 4,
+        "cite": "U2"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP2_10",
+    "paper_title": "GS Paper 2",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 3,
+    "question_text": "\"With the waning of globalization, post-Cold War world is becoming a site of sovereign nationalism.\" Elucidate. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747447200,
+    "cite": "U2",
+    "q_number": 10,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The era of hyper-globalization is being challenged by a resurgence of 'sovereign nationalism,' where states prioritize national identity and domestic security over global integration.",
+        "order": 1,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "Waning globalization is evident in the rise of protectionist trade policies, the 'weaponization' of global supply chains, and a retreat from multilateralism by major powers.",
+        "order": 2,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "This shift is driven by a desire for 'strategic autonomy' and a reaction against the perceived loss of cultural and economic control inherent in globalized structures.",
+        "order": 3,
+        "cite": "U2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "The resulting global order is increasingly multipolar and fragmented, requiring a new form of diplomacy that balances national interests with collective global challenges.",
+        "order": 4,
+        "cite": "U2"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP2_11",
+    "paper_title": "GS Paper 2",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 3,
+    "question_text": "\"Constitutional morality is the fulcrum which acts as an essential check upon the high functionaries and citizens alike....\" In view of the above observation of the Supreme Court, explain the concept of constitutional morality and its application to ensure balance between judicial independence and judicial accountability in India. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747450800,
+    "cite": "U2",
+    "q_number": 11,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Constitutional morality refers to the adherence to the core values and spirit of the Constitution—such as liberty, equality, and the rule of law—rather than just its literal text.",
+        "order": 1,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "It acts as a 'fulcrum' by ensuring that judicial independence is used to protect citizen rights from executive overreach, while simultaneously demanding judicial accountability to the people.",
+        "order": 2,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "The application of this concept involves self-restraint by judges to avoid judicial overreach and the institutionalization of transparent mechanisms for handling judicial misconduct without compromising the court's autonomy.",
+        "order": 3,
+        "cite": "U2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Ultimately, constitutional morality provides the ethical framework necessary to maintain a 'balance' that prevents either the judiciary or the executive from becoming absolute in their powers.",
+        "order": 4,
+        "cite": "U2"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP2_12",
+    "paper_title": "GS Paper 2",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 3,
+    "question_text": "Indian Constitution has conferred the amending power on the ordinary legislative institutions with a few procedural hurdles. In view of this statement, examine the procedural and substantive limitations on the amending power of the Parliament to change the Constitution. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747450800,
+    "cite": "U2",
+    "q_number": 12,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Under Article 368, the Parliament holds the power to amend the Constitution, reflecting a balance between a 'rigid' and 'flexible' governing document.",
+        "order": 1,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "Procedural limitations include the requirement for a special majority in both Houses and, for federal matters, ratification by at least half of the state legislatures.",
+        "order": 2,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "Substantive limitations are defined by the 'Basic Structure Doctrine,' which prohibits the Parliament from altering the essential features of the Constitution, such as secularism and democracy.",
+        "order": 3,
+        "cite": "U2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "These limitations ensure that while the Constitution remains a 'living document,' its foundational democratic values remain beyond the reach of temporary political majorities.",
+        "order": 4,
+        "cite": "U2"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP2_13",
+    "paper_title": "GS Paper 2",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 3,
+    "question_text": "Discuss the evolution of collegium system in India. Critically examine the advantages and disadvantages of the system of appointment of the Judges of the Supreme Court of India and that of the USA. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747450800,
+    "cite": "U2",
+    "q_number": 13,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Collegium system in India evolved through the 'Three Judges Cases' to ensure that the judiciary has the final word in its own appointments to protect its independence.",
+        "order": 1,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "Advantages of the Indian system include maximum independence from political bias; however, disadvantages include a lack of transparency and 'nepotism' in selections.",
+        "order": 2,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "In contrast, the USA uses an executive nomination and legislative confirmation process, which is highly transparent but often leads to deep political polarization within the court.",
+        "order": 3,
+        "cite": "U2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Neither system is perfect; India may benefit from a more transparent, institutionalized mechanism that balances judicial independence with executive input.",
+        "order": 4,
+        "cite": "U2"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP2_14",
+    "paper_title": "GS Paper 2",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms impacted the fiscal federalism in India? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747450800,
+    "cite": "U2",
+    "q_number": 14,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Financial relations between the Centre and States have shifted from a centralized model under the Planning Commission to a more devolved approach through the Finance Commission.",
+        "order": 1,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "The 14th and 15th Finance Commissions significantly increased the vertical devolution of taxes to states, providing them with more 'untied' funds for local developmental needs.",
+        "order": 2,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "Recent reforms like the GST have promoted 'Cooperative Federalism' but have also led to concerns regarding 'fiscal autonomy' as states have lost the power to levy most indirect taxes.",
+        "order": 3,
+        "cite": "U2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "While reforms have increased transparency and efficiency, the challenge remains to ensure that states have adequate resources to meet their growing social and infrastructure responsibilities.",
+        "order": 4,
+        "cite": "U2"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP2_15",
+    "paper_title": "GS Paper 2",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "What are environmental pressure groups? Discuss their role in raising awareness, influencing policies and advocating for environmental protection in India. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747450800,
+    "cite": "U2",
+    "q_number": 15,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Environmental pressure groups are organized non-state actors that use advocacy and social movements to ensure that ecological concerns are integrated into national development.",
+        "order": 1,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "They raise awareness through grassroots mobilization (e.g., Chipko movement) and scientific research that highlights the long-term impacts of industrial projects.",
+        "order": 2,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "By engaging in public interest litigation (PIL) and lobbying, they have successfully influenced policies regarding forest conservation and air quality standards in India.",
+        "order": 3,
+        "cite": "U2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "In a developing economy like India, these groups are essential to provide a 'green check' on rapid industrialization and protect the rights of nature-dependent communities.",
+        "order": 4,
+        "cite": "U2"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP2_16",
+    "paper_title": "GS Paper 2",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Inequality in the ownership pattern of resources is one of the major causes of poverty. Discuss in the context of 'paradox of poverty'. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747450800,
+    "cite": "U2",
+    "q_number": 16,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The 'paradox of poverty' refers to the coexistence of extreme wealth and widespread deprivation within a nation that possesses abundant natural resources.",
+        "order": 1,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "Inequality in resource ownership—such as land, capital, and technology—prevents the 'trickle-down' effect of GDP growth, leaving marginalized communities trapped in cycles of poverty.",
+        "order": 2,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "This concentration of resources often results in 'elite capture' of state welfare, where those with the most influence benefit disproportionately from public infrastructure and subsidies.",
+        "order": 3,
+        "cite": "U2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Addressing poverty requires structural reforms in ownership patterns, including land redistribution and equitable access to credit and digital capital.",
+        "order": 4,
+        "cite": "U2"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP2_17",
+    "paper_title": "GS Paper 2",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "\"In contemporary development models, decision-making and problem-solving responsibilities are not located close to the source of information and execution defeating the objectives of development.\" Critically evaluate. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747450800,
+    "cite": "U2",
+    "q_number": 17,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Development models often suffer from 'top-down' centralization, where policies are designed in capital cities far from the ground realities of the villages they aim to serve.",
+        "order": 1,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "This disconnect leads to 'information asymmetry,' resulting in projects that are technically sound but culturally or socially ill-suited to local needs, thereby wasting public resources.",
+        "order": 2,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "Objectives are better met through 'Subsidiarity'—devolving power to local bodies (PRIs) who have the best access to local information and the greatest stake in the project's success.",
+        "order": 3,
+        "cite": "U2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Sustainable development requires a shift toward 'bottom-up' planning that empowers local communities to be the architects of their own progress.",
+        "order": 4,
+        "cite": "U2"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP2_18",
+    "paper_title": "GS Paper 2",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 3,
+    "question_text": "The National Commission for Protection of Child Rights has to address the challenges faced by children in the digital era. Examine the existing policies and suggest measures the Commission can initiate to tackle the issue. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747450800,
+    "cite": "U2",
+    "q_number": 18,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The digital era has exposed children to new vulnerabilities, including cyber-bullying, online grooming, and data privacy risks that require proactive institutional intervention.",
+        "order": 1,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "Existing policies like POCSO and the IT Rules provide a basic framework, but they often struggle to keep pace with the rapid technological evolution and the anonymity of the internet.",
+        "order": 2,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "The NCPCR should initiate measures such as mandatory digital literacy in schools, promoting 'Child-Safe' internet standards, and creating a dedicated 24/7 helpline for cyber-crimes against minors.",
+        "order": 3,
+        "cite": "U2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Protecting child rights in the virtual world is as critical as in the physical one; it requires a collaborative effort between the state, tech companies, and parents.",
+        "order": 4,
+        "cite": "U2"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP2_19",
+    "paper_title": "GS Paper 2",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 3,
+    "question_text": "\"Energy security constitutes the dominant kingpin of India's foreign policy, and is linked with India's overarching influence in Middle Eastern countries.\" How would you integrate energy security with India's foreign policy trajectories in the coming years? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747450800,
+    "cite": "U2",
+    "q_number": 19,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Energy security is a matter of national survival for India, making its relations with oil and gas-rich Middle Eastern nations a primary pillar of its foreign policy.",
+        "order": 1,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "India's overarching influence is maintained through the 'Link West' policy, leveraging the diaspora and bilateral trade to secure long-term energy supply contracts.",
+        "order": 2,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "Future integration involves diversifying toward Green Hydrogen and Renewables with Middle Eastern partners and utilizing strategic oil reserves to hedge against global price volatility.",
+        "order": 3,
+        "cite": "U2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "As the world transitions to cleaner fuels, India must redefine its Middle East engagement as a 'Comprehensive Energy Partnership' that includes technology and transition fuels.",
+        "order": 4,
+        "cite": "U2"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP2_20",
+    "paper_title": "GS Paper 2",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 3,
+    "question_text": "\"The reform process in the United Nations remains unresolved, because of the delicate imbalance of East and West and entanglement of the USA vs. Russo-Chinese alliance.\" Examine and critically evaluate the East-West policy confrontations in this regard. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747450800,
+    "cite": "U2",
+    "q_number": 20,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The United Nations is currently in a state of 'institutional paralysis' as its reform—especially the expansion of the Security Council—is caught in the middle of a new Cold War-like rivalry.",
+        "order": 1,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "East-West confrontations, particularly regarding Ukraine and the Indo-Pacific, have turned the UNSC into a site of frequent vetoes, preventing collective action on global crises.",
+        "order": 2,
+        "cite": "U2"
+      },
+      {
+        "section": "Body",
+        "text": "The reform process is stalled as major powers are unwilling to share veto power or accept new permanent members who might align with their strategic rivals.",
+        "order": 3,
+        "cite": "U2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Unless the UN reflects the contemporary geopolitical reality, it risks losing its legitimacy and being replaced by smaller, more effective regional and 'minilateral' alliances.",
+        "order": 4,
+        "cite": "U2"
+      }
+    ]
+  }
+]
