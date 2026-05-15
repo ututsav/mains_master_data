@@ -1,13 +1,13 @@
 {
   "last_updated": "2026-05-16",
   "files_to_sync": [
-    "https://raw.githubusercontent.com/ututsav/mains_master_data/refs/heads/main/UPPSC_2025_GS01.json",    
-    "https://raw.githubusercontent.com/ututsav/mains_master_data/refs/heads/main/UPPSC_2025_GS02.json",
-    "https://raw.githubusercontent.com/ututsav/mains_master_data/refs/heads/main/UPPSC_2025_GS03.json",
-    "https://raw.githubusercontent.com/ututsav/mains_master_data/refs/heads/main/UPPSC_2025_GS04.json",
-    "https://raw.githubusercontent.com/ututsav/mains_master_data/refs/heads/main/UPPSC_2025_GS05.json",
-    "https://raw.githubusercontent.com/ututsav/mains_master_data/refs/heads/main/UPPSC_2025_GS06.json",
-    "https://raw.githubusercontent.com/ututsav/mains_master_data/refs/heads/main/UPPSC_2025_GeneralHindi.json",
-    "https://raw.githubusercontent.com/ututsav/mains_master_data/refs/heads/main/UPPSC_2025_Essay.json"
+    "https://raw.githubusercontent.com/ututsav/mains_master_data/refs/heads/main/UPPSC/2025/UPPSC_2025_GS01.json",    
+    "https://raw.githubusercontent.com/ututsav/mains_master_data/refs/heads/main/UPPSC/2025/UPPSC_2025_GS02.json",
+    "https://raw.githubusercontent.com/ututsav/mains_master_data/refs/heads/main/UPPSC/2025/UPPSC_2025_GS03.json",
+    "https://raw.githubusercontent.com/ututsav/mains_master_data/refs/heads/main/UPPSC/2025/UPPSC_2025_GS04.json",
+    "https://raw.githubusercontent.com/ututsav/mains_master_data/refs/heads/main/UPPSC/2025/UPPSC_2025_GS05.json",
+    "https://raw.githubusercontent.com/ututsav/mains_master_data/refs/heads/main/UPPSC/2025/UPPSC_2025_GS06.json",
+    "https://raw.githubusercontent.com/ututsav/mains_master_data/refs/heads/main/UPPSC/2025/UPPSC_2025_GeneralHindi.json",
+    "https://raw.githubusercontent.com/ututsav/mains_master_data/refs/heads/main/UPPSC/2025/UPPSC_2025_Essay.json"
   ]
 }
