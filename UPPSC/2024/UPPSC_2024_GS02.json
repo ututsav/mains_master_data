@@ -1,0 +1,618 @@
+[
+  {
+    "q_number": 1,
+    "is_structured": 1,
+    "question_text": "Write a short note on the composition of the Constituent Assembly. (125 words)",
+    "points": [
+      {
+        "node": "Intro",
+        "text": "The Constituent Assembly of India was constituted in November 1946 under the framework formulated by the Cabinet Mission Plan to draft the Constitution of independent India."
+      },
+      {
+        "node": "Body",
+        "text": "Total Strength and Allocation: The total strength was fixed at 389, where 296 seats were allotted to British India and 93 seats to the Princely States."
+      },
+      {
+        "node": "Body",
+        "text": "Nature of Election: It was a partly elected and partly nominated body. Members from British provinces were indirectly elected by the provincial legislative assemblies, while rulers nominated representatives of Princely States."
+      },
+      {
+        "node": "Body",
+        "text": "Plural Representation: Although not elected through universal adult franchise, the assembly maintained a highly representative character, enclosing members from all major communities—Hindus, Muslims, Sikhs, Parsis, Anglo-Indians, Christians, SCs, and STs."
+      },
+      {
+        "node": "Conclusion",
+        "text": "Despite structural limitations and a reduction in seats to 299 post-partition, the Assembly functioned as a highly democratic, consensual body that successfully laid down India's constitutional foundations."
+      }
+    ],
+    "cite": "UPPSC Mains 2024 GS Paper 2",
+    "last_updated": 1778936446
+  },
+  {
+    "q_number": 2,
+    "is_structured": 1,
+    "question_text": "Write the role of NITI Aayog in the development of India. (125 words)",
+    "points": [
+      {
+        "node": "Intro",
+        "text": "Established in 2015 to replace the Planning Commission, NITI Aayog (National Institution for Transforming India) serves as the apex public policy think tank of the Government of India, driving directional and policy inputs."
+      },
+      {
+        "node": "Body",
+        "text": "Fostering Cooperative Federalism: Moves away from top-down central planning by providing structured support initiatives and mechanisms to engage state governments continuously, recognizing that strong states make a strong nation."
+      },
+      {
+        "node": "Body",
+        "text": "Formulating Strategic Frameworks: Designs long-term strategic policy and program frameworks, monitoring their progress and efficacy through data-driven indices like the SDG India Index and State Health Index."
+      },
+      {
+        "node": "Body",
+        "text": "Think Tank and Knowledge Hub: Generates cutting-edge research, promotes innovation through initiatives like the Atal Innovation Mission (AIM), and disseminates best practices across governance sectors."
+      },
+      {
+        "node": "Conclusion",
+        "text": "By emphasizing a bottom-up developmental approach, competitive federalism, and technological integration, NITI Aayog steers India towards sustainable and inclusive growth."
+      }
+    ],
+    "cite": "UPPSC Mains 2024 GS Paper 2",
+    "last_updated": 1778936446
+  },
+  {
+    "q_number": 3,
+    "is_structured": 1,
+    "question_text": "What are the special legislative powers of the Council of States (Rajya Sabha)? Discuss. (125 words)",
+    "points": [
+      {
+        "node": "Intro",
+        "text": "While the Lok Sabha enjoys preeminence in financial matters, the Rajya Sabha is endowed with unique legislative powers under the Indian Constitution to protect the federal character of the polity."
+      },
+      {
+        "node": "Body",
+        "text": "Legislation on State List (Article 249): The Rajya Sabha can pass a resolution supported by not less than two-thirds of members present and voting, authorizing Parliament to make laws with respect to any matter enumerated in the State List in the national interest."
+      },
+      {
+        "node": "Body",
+        "text": "Creation of All-India Services (Article 312): It can pass a resolution by a similar two-thirds majority to empower Parliament to create one or more All-India Services common to both the Union and the States."
+      },
+      {
+        "node": "Body",
+        "text": "Approval of Proclamations during Lok Sabha Dissolution: If a proclamation of emergency (Articles 352, 356, or 360) is issued when the Lok Sabha is dissolved, the Rajya Sabha holds the exclusive power to approve and sustain it."
+      },
+      {
+        "node": "Conclusion",
+        "text": "These special provisions position the Rajya Sabha not merely as a second chamber, but as a vital institutional constitutional guardian of states' rights within the federal structure."
+      }
+    ],
+    "cite": "UPPSC Mains 2024 GS Paper 2",
+    "last_updated": 1778936446
+  },
+  {
+    "q_number": 4,
+    "is_structured": 1,
+    "question_text": "How does the Indian Constitution ensure the independence of the judiciary? Discuss the importance of the basic structure doctrine. (125 words)",
+    "points": [
+      {
+        "node": "Intro",
+        "text": "The Indian Constitution establishes a structurally independent judiciary to uphold the rule of law and safeguard citizens' fundamental liberties against legislative or executive overreach."
+      },
+      {
+        "node": "Body",
+        "text": "Constitutional Safeguards: Judicial independence is maintained through security of tenure for judges, fixed service conditions, salaries drawn from the Consolidated Fund of India, power to punish for contempt, and the separation of the judiciary from the executive (Article 50)."
+      },
+      {
+        "node": "Body",
+        "text": "Role of Basic Structure Doctrine: Formulated in the landmark Kesavananda Bharati case (1973), this judicial doctrine prevents Parliament from abusing its amending power under Article 368 to alter core features of the Constitution."
+      },
+      {
+        "node": "Body",
+        "text": "Importance of the Doctrine: By declaring judicial review and the independence of the judiciary as immutable components of this basic structure, the Supreme Court successfully insulated itself from political interference."
+      },
+      {
+        "node": "Conclusion",
+        "text": "Together, explicit constitutional protections and the basic structure doctrine ensure that the judiciary remains a fearless arbiter of constitutional values."
+      }
+    ],
+    "cite": "UPPSC Mains 2024 GS Paper 2",
+    "last_updated": 1778936446
+  },
+  {
+    "q_number": 5,
+    "is_structured": 1,
+    "question_text": "Review the contribution of the public distribution system in poverty alleviation. (125 words)",
+    "points": [
+      {
+        "node": "Intro",
+        "text": "The Public Distribution System (PDS), scaled further under the National Food Security Act (NFSA), operates as a cornerstone institutional mechanism for achieving food security and alleviating poverty across India."
+      },
+      {
+        "node": "Body",
+        "text": "Ensuring Food Security and Nutrition: By providing heavily subsidized food grains to over 80 crore citizens, it directly combats absolute hunger, starvation, and severe nutritional deficiencies among low-income households."
+      },
+      {
+        "node": "Body",
+        "text": "Income Transfer and Economic Support: Subsidized provisioning functions as an indirect income transfer, freeing up a household's scarce disposable financial resources to spend on health, education, and micro-enterprises."
+      },
+      {
+        "node": "Body",
+        "text": "Price Stabilization during Crises: The PDS, backed by central buffer stocks, stabilizes retail food prices during agricultural market shocks, droughts, or economic disruptions like the COVID-19 pandemic via targeted programs."
+      },
+      {
+        "node": "Conclusion",
+        "text": "While challenges like leakages and storage inefficiencies persist, structural transitions toward automation and biometric authentication have enhanced the PDS's impact on systemic poverty reduction."
+      }
+    ],
+    "cite": "UPPSC Mains 2024 GS Paper 2",
+    "last_updated": 1778936446
+  },
+  {
+    "q_number": 6,
+    "is_structured": 1,
+    "question_text": "What is the role of self help groups in rural development? (125 words)",
+    "points": [
+      {
+        "node": "Intro",
+        "text": "Self-Help Groups (SHGs) are small, voluntary, grassroots associations of rural individuals who pool resources to achieve economic self-reliance and drive holistic rural development."
+      },
+      {
+        "node": "Body",
+        "text": "Financial Inclusion and Microcredit: SHGs effectively bridge the institutional credit gap in rural economies, liberating small farmers and artisans from exploitative local moneylenders through bank linkage programs."
+      },
+      {
+        "node": "Body",
+        "text": "Women Empowerment and Livelihoods: By offering self-employment avenues in agri-processing, dairy farming, and traditional crafts, SHGs enhance the financial autonomy and social standing of rural women."
+      },
+      {
+        "node": "Body",
+        "text": "Grassroots Social Change: Beyond economics, SHGs provide collective platforms to combat rural social challenges like open defecation, maternal malnutrition, child marriage, and domestic violence."
+      },
+      {
+        "node": "Conclusion",
+        "text": "As demonstrated by missions like NRLM, SHGs act as foundational pillars of rural transformation, converting passive beneficiaries into active agents of decentralized governance."
+      }
+    ],
+    "cite": "UPPSC Mains 2024 GS Paper 2",
+    "last_updated": 1778936446
+  },
+  {
+    "q_number": 7,
+    "is_structured": 1,
+    "question_text": "Examine the role of civil society in Indian administrative development. (125 words)",
+    "points": [
+      {
+        "node": "Intro",
+        "text": "Civil society organizations (CSOs), including NGOs, citizen groups, and activist networks, play a vital democratic role in making Indian public administration more transparent, accountable, and citizen-centric."
+      },
+      {
+        "node": "Body",
+        "text": "Driving Rights-Based Legislative Reforms: CSOs have been central to advocating historic administrative transformations, leading directly to the enactment of the Right to Information (RTI) Act, MGNREGA, and the Forest Rights Act."
+      },
+      {
+        "node": "Body",
+        "text": "Enhancing Accountability and Feedback: Through mechanisms like social audits, citizen report cards, and public interest litigation (PIL), civil society continuously scrutinizes bureaucratic functioning and exposes systemic service delivery leakages."
+      },
+      {
+        "node": "Body",
+        "text": "Last-Mile Public Delivery Partner: CSOs complement state administrative capacity by operating flexibly at the grassroots level to implement government welfare programs in remote tribal or disaster-prone areas."
+      },
+      {
+        "node": "Conclusion",
+        "text": "By giving voice to marginalized demographics and insisting on transparency, civil society functions as a necessary constructive catalyst for democratic administrative development."
+      }
+    ],
+    "cite": "UPPSC Mains 2024 GS Paper 2",
+    "last_updated": 1778936446
+  },
+  {
+    "q_number": 8,
+    "is_structured": 1,
+    "question_text": "India-Maldives relations are linked to mutual interests. Explain. (125 words)",
+    "points": [
+      {
+        "node": "Intro",
+        "text": "The bilateral relationship between India and the Maldives is anchored firmly in geographic proximity, historical ties, and deeply intertwined geopolitical, maritime, and economic mutual interests."
+      },
+      {
+        "node": "Body",
+        "text": "Maritime Security and Net Security Provider: Located centrally across critical Indian Ocean sea lines of communication (SLOCs), a stable Maldives is essential for India's maritime domain awareness and counter-piracy framework under its SAGAR vision."
+      },
+      {
+        "node": "Body",
+        "text": "Development Assistance and Tourism: India remains a primary economic partner for Male, providing financial lines of credit for critical infrastructure (e.g., Greater Male Connectivity Project), alongside crucial medical, educational, and tourism-driven support."
+      },
+      {
+        "node": "Body",
+        "text": "Disaster Relief and Humanitarian Response: India has consistently acted as the first responder during crises in the Maldives, notably during the 1988 coup attempt (Operation Cactus), the 2004 Tsunami, and acute water shortages."
+      },
+      {
+        "node": "Conclusion",
+        "text": "Despite transient political shifts, the core reality of regional geography ensures that sustained cooperation remains indispensable to the mutual long-term interests of both nations."
+      }
+    ],
+    "cite": "UPPSC Mains 2024 GS Paper 2",
+    "last_updated": 1778936446
+  },
+  {
+    "q_number": 9,
+    "is_structured": 0,
+    "question_text": "Describe the organisational structure and funding of the World Health Organisation (WHO). (125 words)",
+    "points": [
+      {
+        "node": "Point",
+        "text": "Organisational Structure - World Health Assembly (WHA): The supreme decision-making body comprised of representatives from all 194 member states, meeting annually to determine policies, appoint the Director-General, and approve the program budget."
+      },
+      {
+        "node": "Point",
+        "text": "Organisational Structure - Executive Board & Secretariat: The Executive Board consists of 34 technically qualified health experts who facilitate the work of the WHA. The Secretariat executes day-to-day operations through its Geneva headquarters and six regional offices."
+      },
+      {
+        "node": "Point",
+        "text": "Funding Structure - Assessed Contributions: These are predictable, mandatory dues paid by member states calculated relative to their country's wealth and population size, though they now constitute a minority share of the budget."
+      },
+      {
+        "node": "Point",
+        "text": "Funding Structure - Voluntary Contributions: Earmarked or flexible financial donations provided by member governments, philanthropic foundations (e.g., Bill & Melinda Gates Foundation), and international organizations, which currently form the vast bulk of WHO funding."
+      }
+    ],
+    "cite": "UPPSC Mains 2024 GS Paper 2",
+    "last_updated": 1778936446
+  },
+  {
+    "q_number": 10,
+    "is_structured": 1,
+    "question_text": "Discuss India's regional policy towards South-East Asia. (125 words)",
+    "points": [
+      {
+        "node": "Intro",
+        "text": "India's regional approach toward South-East Asia forms a foundational pillar of its foreign policy, evolving from the defensive stance of the 1990s Look East policy into a robust, strategic Act East framework."
+      },
+      {
+        "node": "Body",
+        "text": "Strengthening Connectivity: Centers on executing mega-infrastructure links like the India-Myanmar-Thailand Trilateral Highway and the Kaladan Multi-Modal Transit Transport Project to tie India's Northeast to ASEAN markets."
+      },
+      {
+        "node": "Body",
+        "text": "Economic and Institutional Integration: Driven by institutional engagements via the ASEAN-led architectural framework (EAS, ADMM-Plus, ARF) and comprehensive operational operational free trade agreements in goods and services."
+      },
+      {
+        "node": "Body",
+        "text": "Maritime Strategic Cooperation: Focuses on joint naval maneuvers, coordinated maritime patrols, and asserting a shared vision for an open, inclusive, rules-based Indo-Pacific, emphasizing ASEAN centrality as a counterweight to regional hegemony."
+      },
+      {
+        "node": "Conclusion",
+        "text": "By merging commerce, connectivity, culture, and security, India's South-East Asian policy cements its position as a reliable strategic and economic anchor in the region."
+      }
+    ],
+    "cite": "UPPSC Mains 2024 GS Paper 2",
+    "last_updated": 1778936446
+  },
+  {
+    "q_number": 11,
+    "is_structured": 1,
+    "question_text": "Analyze the statement, \"State legislatures are often seen as the voice of the states within India's federal structure.\" (200 words)",
+    "points": [
+      {
+        "node": "Intro",
+        "text": "Under the Indian constitutional matrix, State Legislatures are designed as primary institutions of regional representative democracy, serving as formal vehicles to articulate and defend localized aspirations within India's quasi-federal ecosystem."
+      },
+      {
+        "node": "Body",
+        "text": "Exclusive Legislative Competence: In line with the Seventh Schedule, state assemblies possess the exclusive sovereign authority to legislate on vital subjects within the State List (such as public order, police, public health, and agriculture), reflecting the specific needs of their regional populations."
+      },
+      {
+        "node": "Body",
+        "text": "Constitutional Amendment Role: State legislatures act as crucial checks on federal alterations. Amendments impacting federal characteristics (under Article 368) require ratification by at least half of the state assemblies before becoming law."
+      },
+      {
+        "node": "Body",
+        "text": "Representation in Parliament: The elected members of state legislative assemblies (MLAs) form the electoral college that votes for representatives to the Rajya Sabha, directly shaping how state interests are voiced at the federal center."
+      },
+      {
+        "node": "Body",
+        "text": "Structural and Political Vulnerabilities: Despite this structural mandate, their voice is often constrained. The expansive application of concurrent jurisdiction, fiscal over-dependence on central devolutions post-GST, and the unilateral deployment of executive powers by the Governor under Article 356 frequently dilute regional autonomy."
+      },
+      {
+        "node": "Conclusion",
+        "text": "While state legislatures are constitutionally ordained as the true institutional voice of regional diversity, their practical efficacy relies on a political culture that respects cooperative federalism and avoids excessive centralizing tendencies."
+      }
+    ],
+    "cite": "UPPSC Mains 2024 GS Paper 2",
+    "last_updated": 1778936446
+  },
+  {
+    "q_number": 12,
+    "is_structured": 1,
+    "question_text": "What are the implications of the revised appointment process of Election Commission for ensuring its independence? (200 words)",
+    "points": [
+      {
+        "node": "Intro",
+        "text": "The enactment of the Chief Election Commissioner and Other Election Commissioners (Appointment, Conditions of Service and Term of Office) Act has structurally realigned the selection framework, carrying profound implications for the institutional independence of the Election Commission of India (ECI)."
+      },
+      {
+        "node": "Body",
+        "text": "Transition from Executive Discretion: Historically, appointments were made entirely at the discretion of the executive branch under Article 324(2). The revised process introduces a formalized, multi-tiered statutory selection committee, introducing explicit legislative criteria for candidate eligibility."
+      },
+      {
+        "node": "Body",
+        "text": "Composition Inefficiencies and Central Dominance: The primary implication stems from the committee's composition, which includes the Prime Minister, a Cabinet Minister, and the Leader of the Opposition. Because the political executive retains a decisive 2:1 structural majority, critics argue it fails to fully decouple the process from executive control."
+      },
+      {
+        "node": "Body",
+        "text": "Judicial Exclusion: The legislative shift bypassed the Supreme Court's interim ruling in the Anoop Baranwal case (2023), which had recommended including the Chief Justice of India (CJI) in the selection triumvirate to ensure perfect institutional neutrality."
+      },
+      {
+        "node": "Body",
+        "text": "Strengthening Procedural Transparency: Conversely, the inclusion of a formal Search Committee headed by the Cabinet Secretary ensures a structured, transparent shortlisting of candidates based on administrative experience, minimizing ad-hoc appointments."
+      },
+      {
+        "node": "Conclusion",
+        "text": "While the revised process introduces welcome statutory transparency and ends unilateral executive appointment habits, the structural dominance of the ruling executive leaves the ideal of an entirely insulated and non-partisan umpire partially unfulfilled."
+      }
+    ],
+    "cite": "UPPSC Mains 2024 GS Paper 2",
+    "last_updated": 1778936446
+  },
+  {
+    "q_number": 13,
+    "is_structured": 1,
+    "question_text": "How does the Indian Constitution compare with other modern constitutions in terms of flexibility and rigidity? (200 words)",
+    "points": [
+      {
+        "node": "Intro",
+        "text": "The Indian Constitution stands out globally because it avoids the extremes of absolute rigidity seen in the United States Constitution and total structural flexibility found in the unwritten British constitutional system."
+      },
+      {
+        "node": "Body",
+        "text": "The Synthesized Amending Matrix (Article 368): It combines flexibility and rigidity through a three-tier amending process. Simple legislative majorities handle minor administrative reorganizations (like altering state boundaries under Articles 3 and 4), mirroring British flexibility."
+      },
+      {
+        "node": "Body",
+        "text": "Special Majority Rigidity: For core constitutional adjustments impacting Fundamental Rights or Directive Principles, Article 368 requires a strict special majority—two-thirds of members present and voting, representing more than 50% of the total house strength."
+      },
+      {
+        "node": "Body",
+        "text": "Federal Guardrails vs. US Model: Structural items involving federal features require a special majority plus formal ratification by at least half of the state legislatures. While highly rigid, this remains more accessible than the arduous US system, which demands approval from three-fourths of all states."
+      },
+      {
+        "node": "Body",
+        "text": "Organic Evolution over Time: This unique synthesis has prevented the text from becoming an obsolete document, allowing it to adapt to modern developments (such as the introduction of GST and EWS reservations) while protecting its essential legal values."
+      },
+      {
+        "node": "Conclusion",
+        "text": "Ultimately, the Indian Constitution's balance between flexibility and rigidity ensures it can evolve organically over time while protecting its core identity from passing political majorities."
+      }
+    ],
+    "cite": "UPPSC Mains 2024 GS Paper 2",
+    "last_updated": 1778936446
+  },
+  {
+    "q_number": 14,
+    "is_structured": 1,
+    "question_text": "What role can the Finance Commission play in addressing regional disparities in India and what measures has it taken so far? (200 words)",
+    "points": [
+      {
+        "node": "Intro",
+        "text": "The Finance Commission (FC), constituted under Article 280, functions as a vital constitutional instrument for balancing fiscal federalism, tasked with correcting vertical and horizontal fiscal imbalances to minimize widening regional disparities."
+      },
+      {
+        "node": "Body",
+        "text": "Correcting Horizontal Fiscal Disparities: The FC designs a balanced formula for horizontal tax devolution among states. By assigning significant statistical weight to equity indicators like 'Income Distance' and 'Demographic Performance', it ensures that fiscally weaker or less developed states receive proportionally higher revenue shares."
+      },
+      {
+        "node": "Body",
+        "text": "Targeted Grants-in-Aid: Under Article 275, the commission recommends specific revenue deficit grants, local body allocations, and sector-specific grants (targeting healthcare, primary education, and roads) tailored to help lagging states build baseline infrastructure."
+      },
+      {
+        "node": "Body",
+        "text": "Evolving Criteria Measures (15th FC): The recent Fifteenth Finance Commission utilized specific horizontal criteria: Income Distance (45%), Area (15%), Population (15%), Demographic Performance (12.5%), Forest & Ecology (10%), and Tax & Fiscal Efforts (2.5%)."
+      },
+      {
+        "node": "Body",
+        "text": "The Fiscal Efficiency Challenge: Balancing equity with efficiency remains a persistent challenge. While poorer states receive critical resource handholding, economically advanced southern states often raise structural concerns that the formula penalizes their successful demographic and fiscal management efforts."
+      },
+      {
+        "node": "Conclusion",
+        "text": "The Finance Commission remains an indispensable fiscal equalizer, but closing the regional disparity gap ultimately requires pairing financial transfers with improved local governance and investment absorption capacity."
+      }
+    ],
+    "cite": "UPPSC Mains 2024 GS Paper 2",
+    "last_updated": 1778936446
+  },
+  {
+    "q_number": 15,
+    "is_structured": 1,
+    "question_text": "What challenges is the Government facing in the implementing of welfare schemes for the most vulnerable sections? (200 words)",
+    "points": [
+      {
+        "node": "Intro",
+        "text": "While India allocates considerable fiscal resources toward designing an expansive social safety net, translating welfare schemes for vulnerable groups (such as SCs, STs, women, and unorganized labor) into successful grassroots outcomes faces persistent structural hurdles."
+      },
+      {
+        "node": "Body",
+        "text": "Identification Errors and Weak Data: The lack of real-time, dynamic household data leads to significant inclusion and exclusion errors. Deserving beneficiaries are frequently left out due to archaic documentation mandates, while non-vulnerable households inappropriately access benefits."
+      },
+      {
+        "node": "Body",
+        "text": "Last-Mile Delivery and Digital Divides: As welfare infrastructure shifts toward cash transfers (DBT) and biometric tracking (Aadhaar), rural areas encounter challenges like weak internet connectivity, authentication failures, and low digital literacy."
+      },
+      {
+        "node": "Body",
+        "text": "Administrative Fragmentation: Social schemes are often managed across siloed government departments, resulting in duplicative efforts, high administrative overhead, and a lack of integrated tracking for individual beneficiaries."
+      },
+      {
+        "node": "Body",
+        "text": "Inadequate Grassroots Awareness: Deep-seated socio-cultural barriers, low literacy rates, and a lack of localized awareness campaigns prevent the most marginalized communities from actively claiming their legal welfare entitlements."
+      },
+      {
+        "node": "Conclusion",
+        "text": "Overcoming these delivery challenges requires shift from centralized bureaucratic planning toward localized, community-led monitoring, simplified documentation, and stable digital infrastructure."
+      }
+    ],
+    "cite": "UPPSC Mains 2024 GS Paper 2",
+    "last_updated": 1778936446
+  },
+  {
+    "q_number": 16,
+    "is_structured": 1,
+    "question_text": "The labour class of the country has been significantly affected by the New Economic Policy. Explain. (200 words)",
+    "points": [
+      {
+        "node": "Intro",
+        "text": "The introduction of the New Economic Policy (NEP) in 1991, centered on Liberalisation, Privatisation, and Globalisation (LPG), fundamentally restructured the domestic industrial landscape and reshaped the Indian labor class."
+      },
+      {
+        "node": "Body",
+        "text": "Informalization of the Workforce: Increased global competition led industries to prioritize corporate flexibility, driving a notable trend toward contract employment and casual labor over permanent, secure hiring."
+      },
+      {
+        "node": "Body",
+        "text": "The Gig Economy Shift: Market deregulation accelerated service-sector growth, creating a modern gig and platform economy. While this expanded employment numbers, it often left workers without traditional social security benefits like provident funds, health insurance, or regulated hours."
+      },
+      {
+        "node": "Body",
+        "text": "Skill-Biased Demand and Widening Wage Gaps: Global technology integration significantly increased the premium on highly skilled technical labor, expanding the income gap between formal tech workers and the vast low-skilled manual workforce."
+      },
+      {
+        "node": "Body",
+        "text": "Consolidation of Labor Laws: To improve ease of doing business and attract foreign capital, the state consolidated numerous complex labor laws into four simplified Labor Codes, adjusting provisions around factory closures and retrenchment limits."
+      },
+      {
+        "node": "Conclusion",
+        "text": "While the NEP generated vast employment avenues and boosted industrial productivity, it demands a parallel evolution of comprehensive social safety nets to protect the economic security of the contemporary labor class."
+      }
+    ],
+    "cite": "UPPSC Mains 2024 GS Paper 2",
+    "last_updated": 1778936446
+  },
+  {
+    "q_number": 17,
+    "is_structured": 1,
+    "question_text": "What is India's progress on hunger and poverty after 2014? Explain. (200 words)",
+    "points": [
+      {
+        "node": "Intro",
+        "text": "Post-2014, India’s strategy against hunger and poverty shifted toward programmatic, technology-driven interventions, producing positive macro-reductions in multidimensional deprivation alongside persistent nutritional challenges."
+      },
+      {
+        "node": "Body",
+        "text": "Multidimensional Poverty Decline: According to NITI Aayog's Multidimensional Poverty Index (MPI), India witnessed a significant decline in deprivation, with over 24 crore individuals escaping multidimensional poverty, driven by improvements in sanitation, cooking fuel, electricity, and housing access."
+      },
+      {
+        "node": "Body",
+        "text": "The JAM-DBT Welfare Architecture: The combination of Jan Dhan bank accounts, Aadhaar tracking, and Mobile connectivity minimized systemic administrative leakages, ensuring direct, transparent delivery of financial assistance and welfare benefits."
+      },
+      {
+        "node": "Body",
+        "text": "Food Security and PM-GKAY: Initiatives like the Poshan Abhiyaan targeted maternal and child malnutrition, while the rollout of the Pradhan Mantri Garib Kalyan Anna Yojana (PM-GKAY) secured free grain distribution for over 80 crore people, establishing a baseline shield against extreme hunger."
+      },
+      {
+        "node": "Body",
+        "text": "Persistent Global Index Discrepancies: Despite these structural expansions, India continues to score low on international rankings like the Global Hunger Index (GHI), which frequently highlights high national rates of child wasting and stunting."
+      },
+      {
+        "node": "Conclusion",
+        "text": "While India has made commendable progress in alleviating absolute material poverty, transitioning from basic food security to comprehensive, life-cycle nutritional security remains its primary challenge."
+      }
+    ],
+    "cite": "UPPSC Mains 2024 GS Paper 2",
+    "last_updated": 1778936446
+  },
+  {
+    "q_number": 18,
+    "is_structured": 0,
+    "question_text": "Examine the major issues of dispute between India and Bangladesh and give suggestions for improving bilateral relations. (200 words)",
+    "points": [
+      {
+        "node": "Point",
+        "text": "Major Issue - Teesta River Water Sharing: The long-delayed agreement on sharing the dry-season flows of the common Teesta River remains a key diplomatic hurdle, primarily due to domestic political sensitivities and water security concerns within West Bengal."
+      },
+      {
+        "node": "Point",
+        "text": "Major Issue - Border Management and Security: Challenges include irregular migration, cross-border cattle smuggling, and occasional border friction, which complicate security coordination along their shared 4,096 km border."
+      },
+      {
+        "node": "Point",
+        "text": "Major Issue - Geopolitical and Trade Inbalances: Trade deficits and the shifting political alignments inside Bangladesh create periodic diplomatic friction points that require consistent bilateral management."
+      },
+      {
+        "node": "Point",
+        "text": "Suggestion - Institutional Hydro-Diplomacy: Accelerate joint technical discussions through the Joint Rivers Commission to finalize water-sharing treaties for the Teesta and other shared cross-border rivers."
+      },
+      {
+        "node": "Point",
+        "text": "Suggestion - Non-Lethal Border Security: Enhance cross-border security coordination by strictly implementing non-lethal border management strategies and increasing joint patrolling to minimize casualties."
+      },
+      {
+        "node": "Point",
+        "text": "Suggestion - Sub-Regional Connectivity: Boost mutual trade investments by upgrading land customs ports, concluding the Comprehensive Economic Partnership Agreement (CEPA), and utilizing sub-regional frameworks like BBIN."
+      }
+    ],
+    "cite": "UPPSC Mains 2024 GS Paper 2",
+    "last_updated": 1778936446
+  },
+  {
+    "q_number": 19,
+    "is_structured": 0,
+    "question_text": "What are the consequences of the ongoing Israel-Palestine conflict? How should India address the emerging challenges? (200 words)",
+    "points": [
+      {
+        "node": "Point",
+        "text": "Consequences - Regional Geopolitical Instability: The escalation of violence risks turning the conflict into a broader regional war, drawing in external state and non-state actors and undermining recent normalization initiatives like the Abraham Accords."
+      },
+      {
+        "node": "Point",
+        "text": "Consequences - Global Economic Disruption: Disruptions across vital West Asian transit routes, particularly the Red Sea shipping lanes, drive up global maritime freight costs, impact energy market prices, and threaten international supply chains."
+      },
+      {
+        "node": "Point",
+        "text": "Consequences - Severe Humanitarian Crisis: The ongoing war has led to unprecedented civilian casualties, widespread destruction of urban infrastructure, and massive displacement, intensifying international polarization."
+      },
+      {
+        "node": "Point",
+        "text": "How India Should Address Challenges - Principled Hydro-Diplomacy and Balance: Sustain a balanced diplomatic posture that firmly rejects terrorism while consistently advocating for an immediate ceasefire, unhindered humanitarian corridors, and a negotiated two-state solution."
+      },
+      {
+        "node": "Point",
+        "text": "How India Should Address Challenges - Securing Economic Corridors: Actively safeguard its maritime trade and economic investments, such as the proposed India-Middle East-Europe Economic Corridor (IMEC), by working with international partners to secure regional shipping routes."
+      },
+      {
+        "node": "Point",
+        "text": "How India Should Address Challenges - Energy Security Diversification: Protect the domestic economy against West Asian energy shocks by diversifying crude oil and natural gas import sources and expanding long-term strategic petroleum reserves."
+      }
+    ],
+    "cite": "UPPSC Mains 2024 GS Paper 2",
+    "last_updated": 1778936446
+  },
+  {
+    "q_number": 20,
+    "is_structured": 1,
+    "question_text": "\"United Nations Organisation has failed in its objective of maintaining international peace and security.\" Describe with example. (200 words)",
+    "points": [
+      {
+        "node": "Intro",
+        "text": "The United Nations Organisation (UNO), established post-WWII to save succeeding generations from the scourge of war, faces structural challenges in its mandate as deep geopolitical rivalries increasingly hinder its collective security mechanisms."
+      },
+      {
+        "node": "Body",
+        "text": "Structural Paralysis of the P5 Veto: The core institutional vulnerability lies in the absolute veto power held by the five permanent members of the UN Security Council (UNSC). This design consistently paralyzes the council whenever a P5 nation or its direct strategic ally is involved in a conflict."
+      },
+      {
+        "node": "Body",
+        "text": "Example of the Russia-Ukraine War: The ongoing conflict in Ukraine highlights this institutional limitation. Because Russia holds an absolute veto, the UNSC has been unable to pass any binding resolutions to enforce a ceasefire, restore territorial integrity, or maintain international law."
+      },
+      {
+        "node": "Body",
+        "text": "Example of the West Asian Conflict: Similarly, the escalating crisis in Gaza and the broader Israel-Palestine theater demonstrates how frequent, competitive veto deployments by major powers stall decisive, unified international enforcement actions."
+      },
+      {
+        "node": "Body",
+        "text": "Failure to Prevent Contemporary Aggressions: Beyond recent conflicts, the UN's inability to stop unilateral military interventions over past decades (such as the 2003 invasion of Iraq) or halt complex civil wars in Syria and Yemen underscores its enforcement limitations."
+      },
+      {
+        "node": "Conclusion",
+        "text": "While the UN remains a vital global forum for humanitarian relief and functional diplomacy, its collective security architecture requires urgent structural reform—including expanding the UNSC and modifying veto usage—to remain relevant in a multipolar world."
+      }
+    ],
+    "cite": "UPPSC Mains 2024 GS Paper 2",
+    "last_updated": 1778936446
+  }
+]
