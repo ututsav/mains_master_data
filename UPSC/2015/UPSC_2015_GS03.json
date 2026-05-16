@@ -1,0 +1,852 @@
+[
+  {
+    "uid": "UPSC_2015_GSP3_01",
+    "paper_title": "GS Paper 3",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "The nature of economic growth in India in recent times is often described as jobless growth. Do you agree with this view? Give arguments in favour of your answer. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Jobless growth – GDP growth without corresponding employment generation; India's growth post-2000s showed this trend.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Arguments agreeing: employment elasticity of growth declined from 0.4 (1980s) to 0.1 (2000s); manufacturing sector failed to absorb labour (share of employment stagnant ~12%); services-led growth capital-intensive; informal sector undercounted but low-quality jobs; NSSO surveys show unemployment rate rising (6.1% in 2017-18).",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Counter-arguments: PLFS data shows employment increased post-2017; gig economy creating new jobs (Zomato, Ola, Urban Company); MGNREGA provides safety net; agriculture still employs 42% but disguised unemployment; measurement issues (unpaid family labour, informal sector not captured fully).",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Largely agree – India faces jobless growth challenge; need labour-intensive manufacturing, skilling, MSME promotion, and ease of doing business reforms.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP3_02",
+    "paper_title": "GS Paper 3",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Livestock rearing has a big potential for providing non-farm employment and income in rural areas. Discuss suggesting suitable measures to promote this sector in India. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Livestock sector contributes 4.5% to GDP, 25% to agri-GDP; provides employment to 8.8% of rural workforce (mostly women and landless).",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Potential: dairy (largest milk producer), poultry (2nd largest egg producer), goat/sheep, piggery, fisheries; backward integration with food processing; export potential (buffalo meat).",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Measures: improve breed through artificial insemination (National Livestock Mission); veterinary services and disease control (FMD, Brucellosis); fodder development (cultivation of high-yield varieties); credit access (Kisan Credit Card for livestock); value addition (milk chilling plants, meat processing); marketing support (e-NAM for livestock).",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Livestock can supplement farm income and provide year-round employment; need integrated approach with infrastructure and skill development.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP3_03",
+    "paper_title": "GS Paper 3",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "In view of the declining average size of land holdings in India which has made agriculture non-viable for a majority of farmers, should contract farming and land leasing be promoted in agriculture? Critically evaluate the pros and cons. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Average land holding declined to 1.08 ha (2015-16); 86% farmers marginal (<1 ha). Viability questioned. Contract farming and land leasing proposed as solutions.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Pros: contract farming provides assured market, inputs, technology, price; reduces risk; large-scale production. Land leasing allows optimal use, consolidation, rental income for absentee owners.",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Cons: contract farming may favour large farmers, exploit small farmers (delayed payment, rejection of produce), promote monoculture. Land leasing risks insecure tenancy (short-term leases discourage investment), tenant exploitation, bypass of land ceiling laws.",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Promote with safeguards: model contract farming law (2021 Act but repealed? Actually Farm Laws 2020 repealed; states can enact their own) and Model Land Leasing Act (2016) with security of tenure, dispute resolution, and registration. Needs political consensus.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP3_04",
+    "paper_title": "GS Paper 3",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "How can the 'Digital India' programme help farmers to improve farm productivity and income? What steps has the Government taken in this regard? (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q4",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Digital India aims to transform agriculture through ICT: access to information, markets, weather, credit.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "How it helps: soil health cards (digital), crop advisories through SMS (Kisan SMS Portal), weather forecasts (IMD), market prices (e-NAM), digital land records (DILRMP), satellite-based crop insurance (Pradhan Mantri Fasal Bima Yojana), mobile-based agri-apps (Kisan Suvidha).",
+        "order": 2",
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Government steps: e-NAM (electronic National Agriculture Market) integrating 1000+ mandis; National e-Governance Plan in Agriculture (NeGP-A); Pusa Krishi app; Direct Benefit Transfer (DBT) for subsidies; Kisan Credit Card digitization; Common Service Centres (CSCs) in villages; Agri-Stack (farmer database).",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Digital tools improve productivity and price realization, but digital divide (internet access, literacy) remains a challenge; need last-mile connectivity and capacity building.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP3_05",
+    "paper_title": "GS Paper 3",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "In what way could replacement of price subsidy with Direct Benefit Transfer (DBT) change the scenario of subsidies in India? Discuss. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q5",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's subsidies (food, fertiliser, fuel) have high fiscal cost (2-3% GDP) and suffer from leakages, inefficiency.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "How DBT changes: cash transfer directly to beneficiary bank account (Jan Dhan-Aadhaar-Mobile trinity); eliminates middlemen, ghost beneficiaries; improves targeting (exclusion of ineligible). Examples: LPG subsidy (PAHAL) saved ₹21,000 crore; fertilizer DBT started; PDS partially digitised (One Nation One Ration Card).",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Challenges: price subsidy ensures consumption (food security) – cash may be diverted; inflation erosion; banking access in remote areas; Aadhaar linkage issues; exclusion errors (genuine poor left out).",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "DBT improves efficiency, reduces fiscal burden, but need robust grievance redressal, financial literacy, and careful design for essential commodities (e.g., food security). Hybrid approach (part subsidy, part cash) may be optimal.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP3_06",
+    "paper_title": "GS Paper 3",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "What are the impediments in marketing and supply chain management in developing the food processing industry in India? Can e-commerce help in overcoming these bottlenecks? (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q6",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Food processing industry (FPI) has 13% of GDP but faces marketing and supply chain bottlenecks.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Impediments: fragmented supply chain (multiple intermediaries), lack of cold storage (30% post-harvest losses), poor road/transport infrastructure, seasonality, quality standards, fragmented landholdings limiting contract farming, APMC restrictions (though eased).",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "E-commerce solutions: direct farm-to-fork (BigBasket, Amazon Fresh) reduces intermediaries; real-time price discovery; access to wider markets; cold chain logistics by e-tailers; data analytics for demand forecasting; blockchain for traceability.",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "E-commerce can significantly reduce supply chain inefficiencies, but needs investment in rural digital infrastructure, last-mile delivery, and farmer digital literacy. Complement with traditional reforms.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP3_07",
+    "paper_title": "GS Paper 3",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Craze for gold in Indians has led to a surge in import of gold in recent years and put pressure on balance of payments and external value of rupee. In view of this, examine the merits of the Gold Monetization Scheme. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q7",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India imports 800-1000 tonnes gold annually (2nd largest importer); contributes to CAD (~$30 bn). Gold Monetization Scheme (GMS) launched 2015.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Merits of GMS: mobilises idle gold (~20,000 tonnes) held by households/temples; reduces imports; lends gold to jewellers (saves interest); earns interest for depositors; reduces current account deficit; rupee stability; develops gold as financial asset (Gold Bonds).",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Drawbacks: low public awareness; purity testing issues; short deposit tenure not attractive; tax treatment unclear; small quantities not feasible; banks reluctant due to handling costs. Scheme had limited success.",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "GMS conceptually sound but needs simplification, tax incentives, and aggressive marketing. Also promote Sovereign Gold Bonds (SGB) as alternative to physical gold.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP3_08",
+    "paper_title": "GS Paper 3",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "\"Success of 'Make in India' programme depends on the success of 'Skill India' programme and radical labour reforms.\" Discuss with logical arguments. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q8",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Make in India (2014) aims for 25% manufacturing GDP; faces skill and labour law hurdles.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Role of Skill India: only 2-3% formally skilled (vs 60% in Germany); Industry 4.0 requires advanced skills; without skilled workforce, manufacturing will be low-value; Skill India (PMKVY, NSDC, ITIs) must align with industry needs.",
+        "order": 2",
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Role of labour reforms: rigid laws (Industrial Disputes Act, Contract Labour Act) discourage hiring; small firms stay small to avoid regulations; recent labour codes (2020) consolidate 29 laws – simplify compliance, fixed-term employment, threshold for layoff increased; but implementation pending.",
+        "order": 3",
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Indeed, success of Make in India requires skilled labour and flexible labour laws. Labour codes a step forward; need state adoption and continuous skilling reforms.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP3_09",
+    "paper_title": "GS Paper 3",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "To what factors can the recent dramatic fall in equipment costs and tariff of solar energy be attributed? What implications does the trend have for the thermal power producers and the related industry? (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q9",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Solar tariff fell from ₹15/unit (2010) to under ₹2.5/unit (2020-21); equipment costs declined 80%.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Factors: global oversupply of Chinese modules (price war); economies of scale; technological improvements (efficiency from 15% to 22%); cheaper financing; competitive bidding (reverse auctions); domestic manufacturing PLI scheme (though early).",
+        "order": 2",
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Implications for thermal power: reduced competitiveness (coal power tariff ₹3-4/unit); under-utilisation of thermal plants (PLF dropped); stranded assets risk; future capacity addition shifts to renewables; stress on coal mining and related industries (railways, equipment).",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Solar's fall is disruptive but beneficial for energy security and climate goals. Thermal must adapt (flexible operation, retirement of old plants, or repurposing).",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP3_10",
+    "paper_title": "GS Paper 3",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "There is a clear acknowledgement that Special Economic Zones (SEZs) are a tool of industrial development, manufacturing and exports. Recognizing this potential, the whole instrumentality of SEZs requires augmentation. Discuss the issues plaguing the success of SEZs with respect to taxation, governing laws and administration. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q10",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "SEZ policy (2005) attracted investment, generated exports, but underperformed relative to China's Shenzhen. Issues persist.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Taxation issues: Minimum Alternate Tax (MAT) imposed on SEZ units (2011) – reduced attractiveness; sunset clause for tax benefits (phased out after 15 years); GST complexities (exports zero-rated but domestic sales suffer); uncertainty on continuation of concessions.",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Governing laws: SEZ Act 2005 conflicts with labour laws; land acquisition issues; environmental clearances delayed; multiple approvals (Board of Approval).",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Administration: poor infrastructure (roads, power) outside zones; lack of single-window clearance; states not proactive; occupancy low (many SEZs remain vacant).",
+        "order": 4,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Need reforms: revive tax incentives, simplify approvals, develop industrial corridors, and convert non-performing SEZs into industrial parks.",
+        "order": 5,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP3_11",
+    "paper_title": "GS Paper 3",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "What do you understand by 'Standard Positioning Systems' and 'Precision Positioning Systems' in the GPS era? Discuss the advantages India perceives from its ambitious IRNSS programme employing just seven satellites. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q11",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "GPS provides Standard Positioning Service (SPS) – civilian, accuracy ~10 m; Precision (PPS) – military, encrypted, accuracy ~1 m.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "IRNSS (NavIC) – India's regional navigation system; 7 satellites (3 geostationary, 4 geosynchronous); covers Indian Ocean region up to 1500 km beyond borders. Advantages: SPS and PPS (dual frequency) with accuracy 5-10 m for civilian, better for military; not reliant on GPS (vulnerable to denial during conflict); used for terrestrial, aerial, marine navigation; timing (power grids, banking).",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Benefits: strategic autonomy (no dependency on US); disaster management (cyclone, flood tracking); vehicle tracking (commercial fleets); precision agriculture; defence applications (missile guidance).",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "NavIC provides regional capability with fewer satellites; cost-effective; complements GPS. India is self-reliant in navigation; plans to expand global coverage.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP3_12",
+    "paper_title": "GS Paper 3",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "What are the areas of prohibitive labour that can be sustainably managed by robots? Discuss the initiatives that can propel research in premier research institutes for substantive and gainful innovation. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q12",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Robots excel in 3D (dull, dirty, dangerous) tasks: hazardous environments (mining, firefighting, nuclear waste handling), repetitive assembly (automotive, electronics), precision surgery, agriculture (weeding, picking), disaster response.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Initiatives to propel research: National Robotics Mission (proposed); Atal Innovation Mission (tinkering labs); IMPRINT (research in robotics); funding through DST, DRDO, DBT; robotics challenge grants (e.g., SRISTI).",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Premier institutes: IITs (robotics labs), IISc, IIITs, DRDO labs. Collaborate with industry (Make in India for robotics components).",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Robotics can improve productivity and safety; need sustained funding, industry-academia partnerships, and skilling for robotics workforce.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP3_13",
+    "paper_title": "GS Paper 3",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Discuss the advantages and security implications of cloud hosting of servers vis-a-vis in-house machine-based hosting for government businesses. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q13",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Government moving to cloud (MeghRaj, GI Cloud) vs traditional in-house data centres.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Advantages of cloud: cost savings (no hardware purchase, maintenance), scalability, disaster recovery, remote access, automatic updates, data redundancy, energy efficiency.",
+        "order": 2",
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Security implications of cloud: data sovereignty (servers located abroad for public cloud), risk of breach (third-party provider), regulatory compliance (IT Act, data protection law), vendor lock-in, surveillance risks (CIA, foreign government access).",
+        "order": 3",
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "In-house hosting advantages: physical control, tailored security, no external dependency. Disadvantages: high capex, maintenance, limited scalability, disaster recovery costly.",
+        "order": 4,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Hybrid model: sensitive data on private government cloud (NIC), non-sensitive on public cloud; strong encryption, access controls, audit. MeghRaj guidelines provide security framework.",
+        "order": 5,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP3_14",
+    "paper_title": "GS Paper 3",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "India's Traditional Knowledge Digital Library (TKDL), which has a database containing formatted information on more than 2 million medicinal formulations is proving a powerful weapon in the country's fight against erroneous patents. Discuss the pros and cons of making this database publicly available under open-source licensing. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q14",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "TKDL (2001) documents Ayurveda, Unani, Siddha, Yoga formulations in 5 languages; prevents biopiracy (patents on neem, turmeric).",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Pros of open-source: wider access for researchers, public scrutiny, faster prior art search, global innovation (modify traditional knowledge), transparency, reduces patent office workload.",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Cons: piracy risk (companies commercialize without benefit sharing), loss of control over sacred knowledge (IP rights of communities), trivialization of traditional medicine, threat to patents already granted (but prior art already public? TKDL confidential to patent offices now).",
+        "order": 3",
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Currently TKDL accessible only to patent offices under non-disclosure agreement. Open-source may harm indigenous rights; better to have tiered access (open for research, restricted for commercial) with benefit-sharing mechanism (Nagoya Protocol).",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP3_15",
+    "paper_title": "GS Paper 3",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Discuss the Namami Gange and National Mission for Clean Ganga (NMCG) programmes and causes of mixed results from the previous schemes. What quantum leaps can help preserve the river Ganga better than incremental inputs? (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q15",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Ganga action plan (1985) failed; Namami Gange (2014) and NMCG integrated approach.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Previous causes of mixed results: sewage treatment capacity inadequate (only 40% of sewage treated), intermittent funding, poor operation & maintenance, lack of river flow (dams reduce dilution), enforcement gaps, industrial discharge, religious waste.",
+        "order": 2",
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Namami Gange features: hybrid annuity model for STPs, rural sanitation (SBM), industrial effluent monitoring (real-time), afforestation, river surface cleaning, biodiversity conservation (dolphins).",
+        "order": 3",
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Quantum leaps: ensure minimum ecological flow (e-f low) through dam regulation; treat 100% sewage (decentralized STPs); ban river bed mining; create Ganga rejuvenation mission with statutory authority (like Cauvery).",
+        "order": 4,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Incremental approach fails; need circular economy (treated water reuse), strict penalties, and public participation. Target: continuous flow, clean water, healthy ecosystem.",
+        "order": 5,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP3_16",
+    "paper_title": "GS Paper 3",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "The frequency of earthquakes appears to have increased in the Indian subcontinent. However, India's preparedness for mitigating their impact has significant gaps. Discuss various aspects. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q16",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India lies in high seismic zones (IV, V) – Himalayan region, Northeast, Gujarat, Bihar. Apparent increase in frequency may be due to better detection, but also real (plate tectonics activity).",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Preparedness gaps: building codes not enforced (most buildings non-engineered); lack of seismic retrofitting; poor construction quality (urban sprawl); unplanned urbanisation on soft soil; early warning systems limited (Japan has nationwide); public awareness low (mock drills rare).",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Positive steps: National Disaster Management Authority (NDMA) guidelines; National Building Code (2016) mandatory for new structures; earthquake risk mapping; seismic microzonation (Delhi, Kolkata); early warning prototype (Uttarakhand).",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Need strict enforcement of building codes, retrofitting of critical infrastructure (hospitals, schools), community preparedness, and investment in early warning systems (cost-effective).",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP3_17",
+    "paper_title": "GS Paper 3",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Human rights activists constantly highlight the view that the Armed Forces (Special Powers) Act, 1958 (AFSPA) is a draconian act leading to cases of human rights abuses by the security forces. What sections of AFSPA are opposed by the activists? Critically evaluate the requirement with reference to the view held by the Apex Court. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q17",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "AFSPA gives special powers to armed forces in 'disturbed areas' (J&K, Northeast). Activists oppose Section 4, 5, 6.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Sections opposed: Section 4 – force can fire after warning (causing death) for maintenance of public order; Section 5 – arrest without warrant, use force; Section 6 – protection from prosecution without Central government sanction (impunity).",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Supreme Court view: In Naga People's Movement for Human Rights (1997), SC upheld AFSPA as constitutional, but cautioned against misuse; in Extrajudicial Execution Victim Families Association (2016), SC said 'fear of law is necessary' and protection from prosecution (Section 6) not absolute; Court directed compensation for victims, recommended review of AFSPA.",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Requirement: AFSPA needed in areas with active insurgency, but safeguards required (independent inquiry, mandatory magisterial probe, amendment of Section 6 to allow prosecution on recommendation of review committee).",
+        "order": 4,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "AFSPA necessary but not sufficient remedy; need human rights oversight, periodic review of 'disturbed area' status, and balance between security and liberty.",
+        "order": 5,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP3_18",
+    "paper_title": "GS Paper 3",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Religious indoctrination via digital media has resulted in Indian youth joining the ISIS. What is ISIS and its mission? How can ISIS be dangerous for the internal security of our country? (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q18",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "ISIS (Islamic State of Iraq and Syria) – terrorist organization proclaiming caliphate; mission: establish global Islamic state through violence, enforce Sharia.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "How dangerous for India: recruits Indian youth (20-30 known cases from Kerala, Maharashtra, Telangana) via social media (Telegram, Twitter, WhatsApp); radicalisation through online propaganda, videos; potential for lone-wolf attacks (like 2020 Delhi riots? ISIS inspired); sleeper cells; targeting vulnerable youth (identity crisis, unemployment, ideological confusion).",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Counter measures: monitoring social media (CERT-In), counter-narrative campaigns (digital de-radicalisation), community engagement, arrest of recruiters (NIA), and rehabilitation (Kerala model).",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "ISIS threat real but contained so far; need preventive vigilance, cyber surveillance, and counter-radicalisation programs.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP3_19",
+    "paper_title": "GS Paper 3",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "The persisting drives of the Government for development of large industries in backward areas have resulted in isolating the tribal population and the farmers who face multiple displacements. With Malkangiri and Naxalbari foci, discuss the corrective strategies needed to win the Left Wing Extremism (LWE) doctrine affected citizens back into the mainstream of social and economic growth. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q19",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "LWE affected areas (Malkangiri, Naxalbari) have rich resources but tribal displacement due to mining, industry; alienation fuels insurgency.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Corrective strategies: ensure Forest Rights Act (FRA) implementation; prior informed consent for land acquisition; rehabilitation package as per LARR Act; tribal land rights recognition; livelihood support (MGNREGA, forest produce MSP).",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Other strategies: infrastructure development (roads, electricity, mobile connectivity) – Aspirational Districts programme; skill development and employment (local industries, MSMEs); education (Eklavya schools); health services; police reforms (sensitive policing, surrender-cum-rehabilitation policy).",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Development must be inclusive, not extractive. Win hearts by delivering entitlements, respecting tribal culture, and addressing grievances (Samadhan approach).",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP3_20",
+    "paper_title": "GS Paper 3",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Considering the threats cyberspace poses for the country, India needs a \"Digital Armed Force\" to prevent crimes. Critically evaluate the National Cyber Security Policy, 2013 outlining the challenges perceived in its effective implementation. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q20",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "National Cyber Security Policy (NCSP) 2013 aims to protect critical infrastructure, reduce vulnerabilities, build workforce.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Key elements: establishing National Critical Information Infrastructure Protection Centre (NCIIPC); CERT-In as nodal agency; cyber security awareness; R&D; 5 million trained professionals. But no budget, no dedicated 'Digital Armed Force', no legal teeth.",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Challenges in implementation: shortage of skilled professionals; no mandatory data protection law (DPDP Act 2023 recent); slow adoption of standards; lack of sectoral CERTs; low public-private information sharing; fragmented institutional architecture (NCIIPC, CERT-In, National Cyber Coordination Centre).",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Need for Digital Armed Force: Defence Cyber Agency (DCA) established in 2017 – but only tri-services, not civil. Need national cyber command with offensive and defensive capabilities.",
+        "order": 4,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "NCSP 2013 obsolete; new policy needed (2020 draft not finalised). Cyberspace threats require integrated approach, dedicated force, and legal framework.",
+        "order": 5,
+        "cite": "U15"
+      }
+    ]
+  }
+]
