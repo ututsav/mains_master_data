@@ -1,0 +1,468 @@
+[
+  {
+    "uid": "UPSC_2014_ESSAY_A1",
+    "paper_title": "Essay",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 3,
+    "question_text": "With greater power comes greater responsibility.",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "QA.1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Power – ability to influence outcomes; responsibility – accountability for consequences. Spider-Man principle: power without responsibility is dangerous.",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Political power: elected representatives (MPs/MLAs) – must serve constituents, not personal gain; failure leads to corruption (2G, Commonwealth scams).",
+        "order": 2,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Judicial power: higher judiciary (basic structure doctrine, contempt) – responsibility to uphold Constitution, protect rights; misuse leads to judicial overreach.",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Bureaucratic power: civil servants – handle public funds, discretionary powers; must be impartial, accountable (RTI, social audits). Example: T.N. Seshan as CEC.",
+        "order": 4,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Corporate power: CEOs, board members – responsible to shareholders, employees, society; failures lead to Satyam, IL&FS crises; need for CSR (Companies Act 2013).",
+        "order": 5,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Technological power: social media platforms, AI developers – responsible for privacy, misinformation, algorithmic bias. Cambridge Analytica, deepfakes examples.",
+        "order": 6,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Individual power: each citizen has power of vote, speech – responsibility to vote wisely, not spread hate speech, protect environment (Article 51A).",
+        "order": 7,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Great power demands checks, balances, and ethical grounding; institutions like Lokpal, CVC, media, judiciary ensure accountability. Power is a trust, not a privilege.",
+        "order": 8,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_ESSAY_A2",
+    "paper_title": "Essay",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 3,
+    "question_text": "Is the growing level of competition good for the youth?",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "QA.2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Competition – driver of progress (survival of the fittest) but also source of stress. Growing competition in education, jobs, sports – mixed impact on youth.",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Positive aspects: pushes excellence (JEE, NEET, UPSC produce top talent); fosters innovation (startup ecosystem); prepares for global market; builds resilience; meritocracy (reduces nepotism to some extent). Examples: Indian youth winning global olympiads, coding competitions.",
+        "order": 2,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Negative aspects: mental health crisis (anxiety, depression, suicide – Kota suicides); cut-throat competition leads to unethical practices (cheating, coaching scams); narrow definition of success (marks, ranks); inequality of opportunity (rich access better coaching).",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Social consequences: erosion of cooperation, empathy, collaboration; unhealthy peer pressure; parents pushing unrealistic expectations; loss of childhood.",
+        "order": 4",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Economic perspective: India's demographic dividend requires skilled workforce; competition can be constructive if complemented with quality education and opportunities (Skill India, NEP 2020). Example: Finland – low competition, high outcomes.",
+        "order": 5",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Alternative models: holistic education (multiple intelligences), value-based competition (sportsmanship), mental health support, focus on learning rather than ranking.",
+        "order": 6",
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Competition good but not in excess; need balance – healthy competition with supportive environment, equal opportunity, and focus on overall well-being. Quality over quantity of competition.",
+        "order": 7,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_ESSAY_A3",
+    "paper_title": "Essay",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 3,
+    "question_text": "Are the standardized tests good measure of academic ability or progress?",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "QA.3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Standardized tests (SAT, JEE, NEET, Board exams) – designed for uniform assessment; debate on validity as measure of true academic ability.",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Arguments in favour: objective comparison (same questions, same marking); identifies talent at scale (millions of students); reduces teacher bias; helps in college admissions; measures certain cognitive skills (logical reasoning, memory, speed).",
+        "order": 2",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Arguments against: promotes rote learning, not understanding; ignores creativity, critical thinking, problem-solving; test anxiety affects performance; coaching culture dominates; socio-economic bias (access to resources, coaching).",
+        "order": 3",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Alternative abilities: emotional intelligence, leadership, teamwork, artistic talent, practical skills – not captured by tests. Example: Einstein, Edison were poor test-takers.",
+        "order": 4",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Progressive reforms: continuous and comprehensive evaluation (CCE), portfolio-based assessment, project work, adaptive testing, open-book exams, skill-based assessments (e.g., PM Vidyalaxmi, Atal Tinkering Labs).",
+        "order": 5",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "NEP 2020 focus: competency-based, formative assessment, board exams twice a year, flexibility, integration of vocational skills. International examples: Finland (no standardized tests till high school), IB program (coursework + exams).",
+        "order": 6",
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Standardized tests useful but not sufficient; should be one of multiple measures. Need holistic assessment that values diverse intelligences and real-world application.",
+        "order": 7,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_ESSAY_A4",
+    "paper_title": "Essay",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 3,
+    "question_text": "Words are sharper than the two-edged sword.",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "QA.4",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Proverb – words can cause more lasting damage than physical weapons; also can heal and inspire. Power of speech as double-edged sword.",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Destructive power: hate speech incites violence (communal riots, lynchings); cyberbullying (teen suicides); rumour mongering (WhatsApp lynchings); verbal abuse damages mental health; political rhetoric divides society. Examples: Nazi propaganda, Rwandan genocide radio.",
+        "order": 2",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Constructive power: motivational speeches (Martin Luther King 'I Have a Dream'); courtroom arguments ensure justice; diplomatic negotiations prevent wars; literature and poetry shape culture; education transforms lives. Example: Gandhi's words mobilized millions.",
+        "order": 3",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Media and social media: fake news spreads faster than truth; but also investigative journalism exposes corruption (Watergate, 2G scam). Responsibility of speakers (Article 19(2) reasonable restrictions).",
+        "order": 4",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Freedom vs regulation: hate speech laws (IPC 153A, 295A), IT Rules 2021 for social media; but risk of censorship. Need for self-regulation and media literacy.",
+        "order": 5",
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Words are indeed sharper – wield them with care. Promote ethical speech: truth, non-violence, constructive criticism. Power of words lies in choice of user.",
+        "order": 6,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_ESSAY_B1",
+    "paper_title": "Essay",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 3,
+    "question_text": "Was it the policy paralysis or the paralysis of implementation which slowed the growth of our country?",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "QB.1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's growth slowdown (2008-2014 period debated) – attributed to policy paralysis (UPA-II) or implementation paralysis (bureaucratic, political). Both intertwined.",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Policy paralysis: delayed decisions (coal block allocation, telecom pricing); flip-flops (retail FDI); populist measures (food security bill without funding); coalition constraints; scams (2G, coal, Commonwealth) eroded investor confidence. Examples: no GST, no land acquisition bill for years.",
+        "order": 2",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Implementation paralysis: bureaucratic red-tapism (clearances take years); corruption at delivery level (bribes for licenses); lack of coordination between Centre-state; infrastructure bottlenecks (power, roads, ports); judiciary delays (project clearances tied in courts). Example: Land acquisition stalled many industrial projects.",
+        "order": 3",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Interplay: poor policy design leads to implementation gaps; poor implementation discourages further policy reforms. Both feed each other. Real issue: governance deficit.",
+        "order": 4",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Post-2014 reforms: GST, IBC, RERA, FDI liberalisation – show policy action; but implementation still challenging (GST IT glitches, IBC delays). Growth recovery visible but not sustained due to external shocks (COVID, Ukraine war).",
+        "order": 5",
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Neither alone; both paralysis contributed. Need end-to-end governance reform – clear policy, robust implementation framework, accountability, digital infrastructure, and ease of doing business.",
+        "order": 6,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_ESSAY_B2",
+    "paper_title": "Essay",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 3,
+    "question_text": "Is sting operation an invasion on privacy?",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "QB.2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Sting operation – undercover journalism to expose wrongdoing. Debate: public right to know vs individual right to privacy. Landmark cases: Tehelka (Defence scam), Operation West End.",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Arguments for legitimacy: exposes corruption, crime, hypocrisy (public figures); serves as fourth estate watchdog; deterrence against wrongdoing; public interest overrides privacy (Nirbhaya case sting on convicts? – debated). Examples: Cash-for-query (MPs), IPL betting.",
+        "order": 2",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Arguments against: violates privacy (Article 21); may entrap innocent (manufactured sting); endangers journalists (Rajesh Mishra murder); can be misused for personal vendetta, political agenda; selective editing distorts truth. Legal issues: admissibility of evidence (R Malkani case – trap evidence admissible but with safeguards).",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Supreme Court guidelines: sting operation should be genuine, not fabricated; must not violate law (no use of illegal methods like hacking); public interest must be established; identity of vulnerable individuals (victims of crime, minors) protected. Puttaswamy privacy judgment (2017) – privacy is fundamental right, but not absolute.",
+        "order": 4,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Balancing: Need for regulation of sting operations (Press Council guidelines, News Broadcasting Standards Authority). Self-regulation by media houses; pre-publication verification; no sting for trivial matters.",
+        "order": 5,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Sting operation not per se invasion of privacy; legitimate if public interest outweighs privacy, conducted ethically, and not entrapment. Need clear legal framework (proposed Privacy Bill had provisions).",
+        "order": 6,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_ESSAY_B3",
+    "paper_title": "Essay",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 3,
+    "question_text": "Fifty Golds in Olympics: Can this be a reality for India?",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "QB.3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's Olympic performance historically poor (1 gold pre-2008; 10 medals total in 2020 Tokyo). Target of 50 golds unrealistic in near future but aspirational.",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Current state: limited infrastructure, poor grassroots talent identification, lack of sports culture (academics priority), inadequate funding (sports budget 0.1% of GDP vs China 0.4%), coaching deficit, corruption in federations.",
+        "order": 2",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Success stories: Neeraj Chopra (javelin gold, 2021) – exposure to foreign coaching, Khelo India funding, Target Olympic Podium Scheme (TOPS); shooting, wrestling, badminton have shown medals. Bright spots: hockey resurgence, Paralympics success.",
+        "order": 3",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "What needs to change: massive investment in grassroots (Khelo India expanded), professional coaching (foreign experts), sports science and nutrition, sports medicine, talent scouting from rural areas, build sports academies, incentivize sports careers (jobs, cash awards).",
+        "order": 4",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Comparison with China: China's 'Project 119' targeted specific sports, invested billions, hosted Olympics (2008) – won 51 golds in 2008. India can aim for 10-15 golds by 2036 if hosts Games, but 50 requires decades of systematic change (population alone insufficient).",
+        "order": 5,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Realistic target: improve from 7 to 15-20 medals (including 5-7 golds) in next 10-15 years. 50 golds possible only if India becomes sports superpower with culture shift (like US, China, Russia).",
+        "order": 6,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "50 golds currently a dream, not reality. But with sustained effort (Khelo India, Target Olympic Podium Scheme, private-public partnership, sports education), India can become top-10 in medal tally by 2040s. Short-term: aim for double-digit golds in 2036 if hosts.",
+        "order": 7,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_ESSAY_B4",
+    "paper_title": "Essay",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 3,
+    "question_text": "Tourism: Can this be the next big thing for India?",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "QB.4",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Tourism contributes 9% to GDP, 40 million jobs (pre-COVID). Potential to be major economic driver given India's cultural, natural, medical, and heritage wealth.",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Strengths: diverse attractions (heritage – Taj Mahal, Khajuraho; spiritual – Varanasi, Amritsar; nature – Kerala backwaters, Himalayas; wildlife – tigers; medical tourism – affordable treatment; wellness – Ayurveda, Yoga).",
+        "order": 2",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Government initiatives: Incredible India campaign, e-Visa (expanded to 160+ countries), Swadesh Darshan (thematic circuits), PRASHAD (pilgrimage sites), UDAN (air connectivity to remote areas), Dekho Apna Desh (domestic promotion).",
+        "order": 3",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Challenges: infrastructure (roads, airports, toilets, hotels – especially at remote sites); safety and security (rape cases affecting foreign tourist confidence); cleanliness (Swachh Bharat improving but still issue); high taxes (GST 5-12% on hotels, 18% on airlines; many countries lower); visa hassles (e-Visa improved but can be smoother).",
+        "order": 4",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Competition: Thailand, Malaysia, Indonesia, Sri Lanka – better marketing, infrastructure, price points. India loses to these despite superior attractions.",
+        "order": 5",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Potential: post-COVID revenge travel; rise of domestic tourism (tier-2 cities); MICE tourism (Meetings, Incentives, Conferences, Exhibitions); adventure tourism; homestays (rural tourism); film tourism (3 Idiots in Ladakh).",
+        "order": 6,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Recommendations: single-window clearance for hotels; tourism infrastructure fund (low-interest loans); skill development (guides, hospitality); aggressive global marketing; preserve heritage sites; sustainable tourism (eco-certification).",
+        "order": 7,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Yes, tourism can be next big thing with focused policy (National Tourism Policy 2022), infrastructure push, and private sector partnership. Target 5-6% of GDP and 50 million foreign tourists by 2030 achievable.",
+        "order": 8,
+        "cite": "U14"
+      }
+    ]
+  }
+]
