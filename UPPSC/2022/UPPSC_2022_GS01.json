@@ -1,0 +1,822 @@
+[
+  {
+    "uid": "UPPSC_2022_GS1_Q1",
+    "paper_title": "General Studies Paper 1",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Describe the salient features of Mauryan Art and Architecture.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "q_number": 1,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the Mauryan period as a watershed in Indian art, marking the transition from the use of wood to stone.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Describe Court Art: The monumental stone pillars of Ashoka (bearing edicts and highly polished animal capitals), stupas (Sanchi), and the grand wooden palace of Pataliputra.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Describe Popular Art: Rock-cut architecture (Barabar caves), terracotta figurines, and stone sculptures like the Yaksha and Yakshini (e.g., Didarganj Yakshini) noted for their remarkable polish.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that Mauryan art set the foundational aesthetic and structural benchmarks for subsequent Indian classical architecture.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_GS1_Q2",
+    "paper_title": "General Studies Paper 1",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Throw light on the nature of Renaissance in Uttar Pradesh in the 19th Century.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "q_number": 2,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define the 19th-century renaissance in UP as a socio-cultural and literary awakening that sought to reform traditional practices while fostering modern education and national consciousness.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the Islamic reform movements: The Aligarh Movement led by Sir Syed Ahmed Khan promoting modern, scientific Western education, contrasting with the orthodox revivalist Deoband movement.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss literary and Hindu reform movements: The monumental role of Bharatendu Harishchandra in modernizing Hindi literature to reflect social realities, alongside the deep influence of the Arya Samaj in promoting education and opposing untouchability.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that this multi-faceted renaissance successfully laid the intellectual groundwork for the political mobilization seen in the 20th-century national movement.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_GS1_Q3",
+    "paper_title": "General Studies Paper 1",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Illustrate the contributions of nationalist leader Bal Gangadhar Tilak in the struggle for the freedom of press.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "q_number": 3,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce Bal Gangadhar Tilak as a pioneer who utilized journalism as a primary weapon for mass political awakening against British rule.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Illustrate his journalistic ventures: The establishment of 'Kesari' (Marathi) and 'Mahratta' (English), which shifted the press from elite intellectual discourse to vernacular mass communication.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss his sacrifices for press freedom: Tilak faced severe sedition charges (in 1897 and 1908) for his bold writings defending revolutionary activities and criticizing colonial policies, enduring years of imprisonment.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that Tilak's defiance established the press as a formidable institution of dissent, intertwining the demand for free speech with the demand for Swaraj.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_GS1_Q4",
+    "paper_title": "General Studies Paper 1",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Discuss the causes of population explosion in India and give suggestion to combat this problem.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "q_number": 4,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define population explosion as a scenario where the population growth outstrips the carrying capacity and economic resources of the country.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the causes: Rapidly declining mortality rates (due to better healthcare and disease eradication) while birth rates remained comparatively high, driven by poverty, illiteracy, early marriages, and son meta-preference.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Provide suggestions: Promoting female education and workforce participation, expanding access to reproductive healthcare and contraceptives, and strictly enforcing the legal age of marriage.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that stabilizing the population is critical for transforming India's demographic growth into a true demographic dividend.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_GS1_Q5",
+    "paper_title": "General Studies Paper 1",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Evaluate the role of Information Technology and Internet in social empowerment.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "q_number": 5,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce Information Technology and the Internet as major equalizers that dismantle traditional barriers to information, resources, and representation.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Evaluate the positive role: Facilitates financial inclusion (UPI, Direct Benefit Transfers), democratizes education (EdTech, MOOCs), provides access to healthcare (telemedicine), and empowers women and marginalized groups through awareness and gig economy opportunities.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Evaluate the limitations: The persistent digital divide (rural-urban, gender), risks of misinformation, cyber-harassment, and data privacy concerns.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while IT is a powerful catalyst for social mobility, targeted infrastructure development and digital literacy are required to ensure equitable empowerment.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_GS1_Q6",
+    "paper_title": "General Studies Paper 1",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "When poverty is transmitted over generations it becomes a culture. Elucidate.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "q_number": 6,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the concept of the 'Culture of Poverty' (coined by Oscar Lewis), which suggests that sustained deprivation breeds a specific set of values and behaviors.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Elucidate the mechanisms of transmission: Generations trapped in poverty often develop traits like fatalism, low aspirations, immediate gratification over long-term planning, and a deep distrust of formal institutions.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the structural context: This cultural adaptation is largely a reaction to systemic marginalization, chronic unemployment, and lack of access to quality education or healthcare.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that breaking this intergenerational cycle requires holistic interventions that go beyond financial aid, focusing heavily on behavioral change, education, and social integration.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_GS1_Q7",
+    "paper_title": "General Studies Paper 1",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "What is 'Heritage Arch'? Underline its importance in Uttar Pradesh in terms of tourism potential.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "q_number": 7,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define the 'Heritage Arc' as a strategic tourism initiative by the UP government connecting three major cultural hubs: Agra, Lucknow, and Varanasi.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Describe the regions: It encompasses the Mughal architectural splendor of Agra, the Awadhi culture and cuisine of Lucknow, and the ancient spiritual/religious heritage of Varanasi.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Underline its importance: It creates a structured, multi-day tourism circuit encouraging longer tourist stays, spurs infrastructural development (expressways, aviation), and generates massive local employment in hospitality and handicrafts.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the Heritage Arc successfully brands UP's diverse historical identity, significantly amplifying the state's global tourism footprint and revenue.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_GS1_Q8",
+    "paper_title": "General Studies Paper 1",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "What is 'Smart City Mission'? Discuss the main characteristics of cities of Eastern Uttar Pradesh selected under this scheme.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "q_number": 8,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define the Smart City Mission as an urban renewal and retrofitting program by the Government of India aimed at developing citizen-friendly, sustainable cities.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Identify the selected Eastern UP cities: Cities like Varanasi, Prayagraj, and Gorakhpur.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss their main characteristics under the mission: A strong focus on heritage conservation (temple corridor developments), riverfront rejuvenation, solid waste management, smart traffic control, and promoting local traditional economies.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the mission in Eastern UP uniquely blends profound historical/religious identity with modern technological urban management.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_GS1_Q9",
+    "paper_title": "General Studies Paper 1",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Give an account of Irrigation Projects of Uttar Pradesh in detail with suitable examples.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "q_number": 9,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "State that Uttar Pradesh relies heavily on its vast irrigation network to sustain its status as India's leading agrarian state.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Detail Canal Irrigation: Extensive systems like the Eastern Yamuna Canal, the Upper and Lower Ganga Canals, and the Sharda Canal (the longest in the state).",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Detail other projects: Mention the high reliance on tubewell irrigation (dominating western UP), and multi-purpose dam projects like the Rihand Dam (Govind Ballabh Pant Sagar) and Matatila Dam which provide both irrigation and hydroelectricity.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while these projects ensure food security, modernizing them to prevent waterlogging and promoting micro-irrigation is necessary for sustainable water management.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_GS1_Q10",
+    "paper_title": "General Studies Paper 1",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Mention various festivals which are celebrated in Uttar Pradesh.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "q_number": 10,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce Uttar Pradesh as a cultural mosaic where festivals reflect its rich religious diversity and agrarian traditions.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Mention major Hindu festivals: Kumbh Mela and Magh Mela (Prayagraj), Deepotsav/Diwali (Ayodhya), Lathmar Holi (Barsana/Mathura), and Krishna Janmashtami.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Mention other significant festivals: Islamic festivals like Eid-ul-Fitr, Eid-ul-Zuha, and Muharram (prominent in Lucknow); Buddhist festivals like Buddha Purnima (Sarnath/Kushinagar); and cultural fairs like the Taj Mahotsav.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that these celebrations not only foster communal harmony and the 'Ganga-Jamuni Tehzeeb' but also act as massive drivers for regional tourism.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_GS1_Q11",
+    "paper_title": "General Studies Paper 1",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Why Gupta period is considered as the 'Golden-Age' of Ancient Indian History?",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "q_number": 11,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the Gupta Empire (c. 319–543 CE) as the classical period of Indian history, marked by extensive political unification, peace, and unprecedented prosperity.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the flourishing of arts and literature: The era saw the zenith of Sanskrit literature (Kalidasa's works), the compilation of Puranas, and extraordinary artistic achievements in the Ajanta cave paintings and Mathura/Sarnath sculptures.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss advancements in science, math, and architecture: Monumental contributions by scholars like Aryabhata (heliocentrism, zero) and Varahamihira, advanced metallurgy (Mehrauli Iron Pillar), and the genesis of structural Hindu temple architecture (Dashavatara Temple).",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the all-round intellectual, scientific, and cultural advancements justify its designation as the Golden Age, leaving an indelible legacy on Indian civilization.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_GS1_Q12",
+    "paper_title": "General Studies Paper 1",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Throw light on the 'Revolutionary Philosophy' formulated by Bhagat Singh.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "q_number": 12,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce Bhagat Singh not merely as a martyr of violent action, but as a profound intellectual who redefined the ideology of the revolutionary movement in India.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss his shift to Socialism and Mass Mobilization: Moving away from individual heroic terrorism, he founded the Naujawan Bharat Sabha, realizing that true revolution required organizing workers, peasants, and students against systemic exploitation.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss anti-imperialism, anti-capitalism, and rationalism: He equated British imperialism with global capitalism, fiercely opposed religious communalism (promoting atheism and scientific temper), and stated that revolution meant systemic change, not just a transfer of power.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that his philosophy transformed the national struggle by providing a clear, egalitarian vision for a post-independence India.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_GS1_Q13",
+    "paper_title": "General Studies Paper 1",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Explain the points of Ancient Indian Knowledge on the basis of which India was designated as 'Vishwaguru'.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "q_number": 13,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define 'Vishwaguru' (Teacher of the World) as a title reflecting ancient India's position as a global epicenter of learning, philosophy, and science.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Explain institutional and philosophical leadership: The existence of the world's earliest universities like Nalanda and Takshashila attracting global scholars, alongside profound philosophical systems (Vedanta, Buddhism, Yoga) focusing on inner consciousness.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Explain scientific and medical advancements: Pioneering breakthroughs in mathematics (the concept of zero, decimal system), astronomy (Aryabhata), metallurgy, and comprehensive healthcare systems like Ayurveda (Sushruta and Charaka).",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that this holistic integration of spiritual wisdom and empirical science made ancient India the preeminent intellectual guiding force for global civilizations.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_GS1_Q14",
+    "paper_title": "General Studies Paper 1",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Throw light on the factors of continuity and change in Indian Society.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "q_number": 14,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Describe Indian society as highly resilient, characterized by a unique amalgamation of deep-rooted traditions (continuity) and dynamic modern adaptations (change).",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss factors of continuity: The enduring influence of religion and festivals, the structural persistence of caste identities (often repurposed in politics), and the core value system centered around family and kinship networks.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss factors of change: Industrialization, rapid urbanization, westernization, constitutional mandates (equality, affirmative action), female empowerment, and the digital revolution altering social mobility and interactions.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that Indian society does not discard its past for the future; instead, it synthesizes the old with the new, creating a distinct, evolving modernity.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_GS1_Q15",
+    "paper_title": "General Studies Paper 1",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Define Globalization and Privatization. Discuss their objectives.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "q_number": 15,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce Globalization and Privatization as core pillars of the 1991 LPG economic reforms that fundamentally restructured the Indian economy.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Define and state objectives of Globalization: It is the integration of the domestic economy with the world economy. Objectives include increasing foreign exchange, attracting Foreign Direct Investment (FDI), facilitating technology transfer, and providing domestic consumers access to global markets.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Define and state objectives of Privatization: It is the transfer of ownership, management, or control of public sector enterprises to the private sector. Objectives include reducing the fiscal burden of loss-making PSUs, increasing operational efficiency, fostering market competition, and improving service delivery.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while these policies successfully accelerated economic growth, ensuring equitable distribution of their wealth remains a continuing challenge.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_GS1_Q16",
+    "paper_title": "General Studies Paper 1",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Caste alliances emanate from secular and political factors and do not spring from primordial identities. Discuss.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "q_number": 16,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Address the transformation of the caste system in post-independence India from a strict ritualistic hierarchy to an instrument of modern political mobilization.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Argue the secular and political factors: Universal adult franchise made numerical strength crucial, leading disparate castes to form alliances (vote banks) to capture state power, secure government resources, and demand affirmative action (reservations).",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the departure from primordial identities: Traditional ritual barriers (like inter-dining restrictions) are often bypassed to form broad secular coalitions (e.g., Dalit-OBC alliances) based on shared economic grievances rather than ancient religious kinship.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that caste in modern Indian politics functions largely as an interest group seeking secular benefits, demonstrating a profound democratic adaptation of a primordial identity.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_GS1_Q17",
+    "paper_title": "General Studies Paper 1",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Describe the causes of origin, structure and weather associated with tropical cyclones.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "q_number": 17,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define tropical cyclones as intense, rotating low-pressure weather systems that originate over warm tropical oceans.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Describe causes of origin: Requirements include a sea surface temperature above 26.5°C (to supply latent heat), the presence of the Coriolis force (to create rotation), low vertical wind shear, and a pre-existing low-pressure disturbance.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Describe structure and associated weather: The structure consists of a calm, cloud-free 'Eye' at the center, surrounded by the violent 'Eyewall' (maximum wind speed and rainfall), and outer spiral rainbands. The associated weather brings torrential rain, destructive winds, and highly damaging coastal storm surges.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while they are highly destructive natural hazards, advancements in satellite tracking and early warning systems have significantly reduced the associated loss of life.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_GS1_Q18",
+    "paper_title": "General Studies Paper 1",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Discuss the factors affecting rural settlement pattern in India.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "q_number": 18,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define rural settlements as the spatial distribution of villages, which vary from clustered to dispersed across India's diverse landscape.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss physical/geographical factors: Availability of water (leading to clustered settlements around ponds/rivers), terrain and altitude (leading to dispersed settlements in hilly regions), and soil fertility dictating agricultural capacity.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss cultural and security factors: Caste and religious segregation heavily influence the micro-geography of a village (hamleted settlements), while historical defense needs against invasions led to compact, walled settlements.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that rural settlement patterns in India represent a complex, historical adaptation to environmental constraints and socio-cultural stratification.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_GS1_Q19",
+    "paper_title": "General Studies Paper 1",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Describe earthquake belts in India.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "q_number": 19,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce India's high vulnerability to earthquakes, driven primarily by the tectonic collision of the Indian Plate moving northward into the Eurasian Plate.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Describe the Himalayan Belt (Zone IV & V): The most active macro-seismic region, encompassing the entire Himalayan arc from Kashmir to the North-East, highly prone to catastrophic earthquakes.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Describe the Indo-Gangetic and Peninsular Belts: The Indo-Gangetic plain (Zone III & IV) acts as a transition zone facing collateral damage. The Peninsular shield (Zone II & III), once considered stable, is experiencing intra-plate seismicity (e.g., Latur, Bhuj quakes).",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that this wide-ranging seismic zonation dictates the urgent need for stringent enforcement of disaster-resilient building codes across the country.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_GS1_Q20",
+    "paper_title": "General Studies Paper 1",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Presenting the details of the popular folk songs in the 'Purvanchal region' of Uttar Pradesh. Mention their salient features.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "q_number": 20,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Identify the Purvanchal region of UP as a rich repository of oral traditions, where folk songs deeply reflect the agrarian lifestyle, seasons, and social emotions.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Detail popular folk songs: 'Kajri' sung during the monsoons expressing love and separation; 'Chaiti' celebrating the spring harvest; 'Birha' highlighting the pangs of separation and tales of local heroism; and 'Sohar' sung during childbirth.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Mention their salient features: Primarily sung in the Bhojpuri dialect, characterized by high emotional intensity, deep connections to nature and seasons, and accompaniment by local instruments like the Dholak and Manjira.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that these folk songs are not merely entertainment but vital cultural archives preserving the historical and social consciousness of Purvanchal.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 GS Paper 1"
+      }
+    ]
+  }
+]
