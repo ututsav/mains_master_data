@@ -752,181 +752,181 @@
     ]
   },
   {
-    "uid": "UPSC_2013_GSP3_16a",
-    "paper_title": "GS Paper 3",
-    "year": 2013,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 5,
-    "importance": 2,
-    "question_text": "What is a digital signature? What does its authentication mean? Give various salient built-in features of a digital signature. (100 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
-    "cite": "U13",
-    "q_number": "Q16a",
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Digital signature – electronic equivalent of physical signature using asymmetric cryptography (public-private key pair)",
-        "order": 1,
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Authentication means: verifies sender identity (non-repudiation), ensures document integrity (no tampering after signing), provides timestamping, confirms sender's consent",
-        "order": 2,
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Built-in features: hash function (creates message digest), private key encryption, public key decryption, certificate authority (CA) issued digital certificate, tamper-evident, legally valid under IT Act 2000, globally recognized",
-        "order": 3,
-        "cite": "U13"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Essential for e-governance, secure electronic transactions, and paperless authentication",
-        "order": 4,
-        "cite": "U13"
-      }
-    ]
-  },
+  "uid": "UPSC_2013_GSP3_16a",
+  "paper_title": "GS Paper 3",
+  "year": 2013,
+  "exam": "UPSC",
+  "origin": "PYQ",
+  "vault_path": null,
+  "marks": 5,
+  "importance": 2,
+  "question_text": "What is a digital signature? What does its authentication mean? Give various salient built-in features of a digital signature. (100 words)",
+  "is_structured": 1,
+  "last_updated": 1747488000,
+  "cite": "U13",
+  "q_number": "Q16a",
+  "points": [
+    {
+      "section": "Intro",
+      "text": "Digital signature – electronic equivalent of physical signature using asymmetric cryptography (public-private key pair)",
+      "order": 1,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "Authentication means: verifies sender identity (non-repudiation), ensures document integrity (no tampering after signing), provides timestamping, confirms sender's consent",
+      "order": 2,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "Built-in features:\n- hash function (creates message digest)\n- private key encryption\n- public key decryption\n- certificate authority (CA) issued digital certificate\n- tamper-evident\n- legally valid under IT Act 2000\n- globally recognized",
+      "order": 3,
+      "cite": "U13"
+    },
+    {
+      "section": "Conclusion",
+      "text": "Essential for e-governance, secure electronic transactions, and paperless authentication",
+      "order": 4,
+      "cite": "U13"
+    }
+  ]
+},
   {
-    "uid": "UPSC_2013_GSP3_16b",
-    "paper_title": "GS Paper 3",
-    "year": 2013,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 5,
-    "importance": 2,
-    "question_text": "How does the 3D printing technology work? List out the advantages and disadvantages of the technology. (100 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
-    "cite": "U13",
-    "q_number": "Q16b",
-    "points": [
-      {
-        "section": "Intro",
-        "text": "3D printing (additive manufacturing) builds objects layer by layer from digital 3D models (CAD files)",
-        "order": 1,
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Working: CAD design → slicing software → material deposition (plastic filament, metal powder, resin) → layer curing/adhesion (by laser, UV, heat) → post-processing",
-        "order": 2",
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Advantages: rapid prototyping, customization (medical implants), minimal waste (additive vs subtractive), complex geometries, distributed manufacturing, reduced inventory",
-        "order": 3",
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Disadvantages: slow for mass production, limited material options, high cost for metal printing, post-processing needed, intellectual property issues, quality consistency",
-        "order": 4",
-        "cite": "U13"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Transformative for prototyping and niche applications (aerospace, medical) but not yet mainstream manufacturing",
-        "order": 5,
-        "cite": "U13"
-      }
-    ]
-  },
+  "uid": "UPSC_2013_GSP3_16b",
+  "paper_title": "GS Paper 3",
+  "year": 2013,
+  "exam": "UPSC",
+  "origin": "PYQ",
+  "vault_path": null,
+  "marks": 5,
+  "importance": 2,
+  "question_text": "How does the 3D printing technology work? List out the advantages and disadvantages of the technology. (100 words)",
+  "is_structured": 1,
+  "last_updated": 1747488000,
+  "cite": "U13",
+  "q_number": "Q16b",
+  "points": [
+    {
+      "section": "Intro",
+      "text": "3D printing (additive manufacturing) builds objects layer by layer from digital 3D models (CAD files)",
+      "order": 1,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "Working:\n- CAD design\n- slicing software\n- material deposition (plastic filament, metal powder, resin)\n- layer curing/adhesion (by laser, UV, heat)\n- post-processing",
+      "order": 2,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "Advantages:\n- rapid prototyping\n- customization (medical implants)\n- minimal waste (additive vs subtractive)\n- complex geometries\n- distributed manufacturing\n- reduced inventory",
+      "order": 3,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "Disadvantages:\n- slow for mass production\n- limited material options\n- high cost for metal printing\n- post-processing needed\n- intellectual property issues\n- quality consistency challenges",
+      "order": 4,
+      "cite": "U13"
+    },
+    {
+      "section": "Conclusion",
+      "text": "Transformative for prototyping and niche applications (aerospace, medical) but not yet mainstream manufacturing",
+      "order": 5,
+      "cite": "U13"
+    }
+  ]
+},
   {
-    "uid": "UPSC_2013_GSP3_17a",
-    "paper_title": "GS Paper 3",
-    "year": 2013,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 5,
-    "importance": 2,
-    "question_text": "What is an FRP composite material? How are they manufactured? Discuss their applications in aviation and automobile industries. (100 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
-    "cite": "U13",
-    "q_number": "Q17a",
-    "points": [
-      {
-        "section": "Intro",
-        "text": "FRP (Fiber Reinforced Polymer) – composite of polymer matrix (epoxy, polyester) reinforced with fibers (glass, carbon, aramid)",
-        "order": 1,
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Manufacturing methods: hand lay-up, compression molding, filament winding, pultrusion, resin transfer molding (RTM), autoclave curing",
-        "order": 2,
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Aviation applications: aircraft fuselage (Boeing 787 Dreamliner, Airbus A350), wings, tail, interior panels – weight reduction (20-30%), fuel efficiency, corrosion resistance",
-        "order": 3,
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Automobile applications: body panels, chassis components, leaf springs (mono-leaf), battery enclosures for EVs, drive shafts – design flexibility, crash energy absorption",
-        "order": 4,
-        "cite": "U13"
-      },
-      {
-        "section": "Conclusion",
-        "text": "FRPs enable lightweighting, improving fuel economy and performance in transport sectors",
-        "order": 5,
-        "cite": "U13"
-      }
-    ]
-  },
+  "uid": "UPSC_2013_GSP3_17a",
+  "paper_title": "GS Paper 3",
+  "year": 2013,
+  "exam": "UPSC",
+  "origin": "PYQ",
+  "vault_path": null,
+  "marks": 5,
+  "importance": 2,
+  "question_text": "What is an FRP composite material? How are they manufactured? Discuss their applications in aviation and automobile industries. (100 words)",
+  "is_structured": 1,
+  "last_updated": 1747488000,
+  "cite": "U13",
+  "q_number": "Q17a",
+  "points": [
+    {
+      "section": "Intro",
+      "text": "FRP (Fiber Reinforced Polymer) – composite of polymer matrix (epoxy, polyester) reinforced with fibers (glass, carbon, aramid)",
+      "order": 1,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "Manufacturing methods:\n- hand lay-up\n- compression molding\n- filament winding\n- pultrusion\n- resin transfer molding (RTM)\n- autoclave curing",
+      "order": 2,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "Aviation applications:\n- aircraft fuselage (Boeing 787 Dreamliner, Airbus A350)\n- wings, tail, interior panels\n- weight reduction (20-30%)\n- fuel efficiency\n- corrosion resistance",
+      "order": 3,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "Automobile applications:\n- body panels\n- chassis components\n- leaf springs (mono-leaf)\n- battery enclosures for EVs\n- drive shafts\n- design flexibility\n- crash energy absorption",
+      "order": 4,
+      "cite": "U13"
+    },
+    {
+      "section": "Conclusion",
+      "text": "FRPs enable lightweighting, improving fuel economy and performance in transport sectors",
+      "order": 5,
+      "cite": "U13"
+    }
+  ]
+},
   {
-    "uid": "UPSC_2013_GSP3_17b",
-    "paper_title": "GS Paper 3",
-    "year": 2013,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 5,
-    "importance": 2,
-    "question_text": "What do you understand by Run-of-river hydroelectricity project? How is it different from any other hydroelectricity project? (100 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
-    "cite": "U13",
-    "q_number": "Q17b",
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Run-of-river (RoR) hydro project – diverts a portion of river flow through a channel/tunnel to turbines, without large reservoir storage",
-        "order": 1,
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Key features: minimal storage (pondage only), lower environmental footprint, seasonal power generation dependent on river flow, smaller land submergence",
-        "order": 2",
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Differences from conventional storage hydro: no large dam, no reservoir, less displacement, lower capital cost but lower capacity factor (30-40% vs 50-60%), limited peaking capability, no irrigation/flood control benefits",
-        "order": 3",
-        "cite": "U13"
-      },
-      {
-        "section": "Conclusion",
-        "text": "RoR preferred in ecologically sensitive Himalayan regions (e.g., Teesta, Sikkim projects) but less reliable for base load",
-        "order": 4,
-        "cite": "U13"
-      }
-    ]
-  },
+  "uid": "UPSC_2013_GSP3_17b",
+  "paper_title": "GS Paper 3",
+  "year": 2013,
+  "exam": "UPSC",
+  "origin": "PYQ",
+  "vault_path": null,
+  "marks": 5,
+  "importance": 2,
+  "question_text": "What do you understand by Run-of-river hydroelectricity project? How is it different from any other hydroelectricity project? (100 words)",
+  "is_structured": 1,
+  "last_updated": 1747488000,
+  "cite": "U13",
+  "q_number": "Q17b",
+  "points": [
+    {
+      "section": "Intro",
+      "text": "Run-of-river (RoR) hydro project – diverts a portion of river flow through a channel/tunnel to turbines, without large reservoir storage",
+      "order": 1,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "Key features:\n- minimal storage (pondage only)\n- lower environmental footprint\n- seasonal power generation dependent on river flow\n- smaller land submergence",
+      "order": 2,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "Differences from conventional storage hydro:\n- no large dam\n- no reservoir\n- less displacement\n- lower capital cost\n- lower capacity factor (30-40% vs 50-60%)\n- limited peaking capability\n- no irrigation/flood control benefits",
+      "order": 3,
+      "cite": "U13"
+    },
+    {
+      "section": "Conclusion",
+      "text": "RoR preferred in ecologically sensitive Himalayan regions (e.g., Teesta, Sikkim projects) but less reliable for base load",
+      "order": 4,
+      "cite": "U13"
+    }
+  ]
+},
   {
     "uid": "UPSC_2013_GSP3_18",
     "paper_title": "GS Paper 3",
@@ -1022,52 +1022,46 @@
     ]
   },
   {
-    "uid": "UPSC_2013_GSP3_20",
-    "paper_title": "GS Paper 3",
-    "year": 2013,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 10,
-    "importance": 2,
-    "question_text": "Enumerate the National Water Policy of India. Taking river Ganges as an example, discuss the strategies which may be adopted for river water pollution control and management. What are the legal provisions of management and handling of hazardous wastes in India? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
-    "cite": "U13",
-    "q_number": "Q20",
-    "points": [
-      {
-        "section": "Intro",
-        "text": "National Water Policy (2012 updated) – framework for water governance: integrated water resources management, demand management, pricing, groundwater regulation, water quality, inter-state basins",
-        "order": 1,
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Ganga pollution control strategies: Namami Gange (sewage treatment capacity, industrial effluent monitoring, riverfront development), zero liquid discharge (ZLD) for industries, real-time water quality monitoring, ghat cleaning, biodiversity conservation (dolphins), afforestation",
-        "order": 2",
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Legal provisions for hazardous waste management: Hazardous and Other Wastes (Management and Transboundary Movement) Rules, 2016 (under EP Act 1986); Basel Convention compliance; authorization for generators, transporters, recyclers; disposal in TSDF (Treatment, Storage, Disposal Facilities)",
-        "order": 3,
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Also: E-waste Management Rules, Bio-medical Waste Rules, Batteries Rules; liability for damage; State Pollution Control Boards as implementing agencies",
-        "order": 4,
-        "cite": "U13"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Effective implementation, public-private partnership, and behavior change critical for river rejuvenation and waste management",
-        "order": 5,
-        "cite": "U13"
-      }
-    ]
-  },
+  "uid": "UPSC_2013_GSP3_20",
+  "paper_title": "GS Paper 3",
+  "year": 2013,
+  "exam": "UPSC",
+  "origin": "PYQ",
+  "vault_path": null,
+  "marks": 10,
+  "importance": 2,
+  "question_text": "Enumerate the National Water Policy of India. Taking river Ganges as an example, discuss the strategies which may be adopted for river water pollution control and management. What are the legal provisions of management and handling of hazardous wastes in India? (200 words)",
+  "is_structured": 1,
+  "last_updated": 1747488000,
+  "cite": "U13",
+  "q_number": "Q20",
+  "points": [
+    {
+      "section": "Intro",
+      "text": "National Water Policy (2012 updated) – framework for water governance: integrated water resources management, demand management, pricing, groundwater regulation, water quality, inter-state basins",
+      "order": 1,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "Ganga pollution control strategies:\n- Namami Gange (sewage treatment capacity, industrial effluent monitoring, riverfront development)\n- zero liquid discharge (ZLD) for industries\n- real-time water quality monitoring\n- ghat cleaning\n- biodiversity conservation (dolphins)\n- afforestation",
+      "order": 2,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "Legal provisions for hazardous waste management:\n- Hazardous and Other Wastes (Management and Transboundary Movement) Rules, 2016 (under EP Act 1986)\n- Basel Convention compliance\n- authorization for generators, transporters, recyclers\n- disposal in TSDF (Treatment, Storage, Disposal Facilities)\n- E-waste Management Rules\n- Bio-medical Waste Rules\n- Batteries Rules\n- liability for damage\n- State Pollution Control Boards as implementing agencies",
+      "order": 3,
+      "cite": "U13"
+    },
+    {
+      "section": "Conclusion",
+      "text": "Effective implementation, public-private partnership, and behavior change critical for river rejuvenation and waste management",
+      "order": 4,
+      "cite": "U13"
+    }
+  ]
+},
   {
     "uid": "UPSC_2013_GSP3_21",
     "paper_title": "GS Paper 3",
@@ -1116,99 +1110,99 @@
     ]
   },
   {
-    "uid": "UPSC_2013_GSP3_22",
-    "paper_title": "GS Paper 3",
-    "year": 2013,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 10,
-    "importance": 2,
-    "question_text": "What are social networking sites and what security implications do these sites present? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
-    "cite": "U13",
-    "q_number": "Q22",
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Social networking sites (SNS) – online platforms for creating, sharing, and exchanging user-generated content and building social networks (Facebook, X, Instagram, LinkedIn)",
-        "order": 1,
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Security implications for individuals: identity theft, cyber-stalking, phishing, reputation damage (revenge porn), online grooming of minors, doxxing, account hacking",
-        "order": 2",
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "National security implications: spread of fake news and misinformation (communal tension), radicalization and terror recruitment, espionage via fake profiles, data harvesting (Cambridge Analytica), social engineering attacks",
-        "order": 3",
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Organizational implications: corporate espionage, data leaks, brand reputation damage, ransomware propagation",
-        "order": 4",
-        "cite": "U13"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Need digital literacy, robust privacy settings, IT Act provisions (Section 66A struck down but 69A for blocking), CERT-In advisories, and platform accountability (Intermediary Guidelines 2021)",
-        "order": 5,
-        "cite": "U13"
-      }
-    ]
-  },
+  "uid": "UPSC_2013_GSP3_22",
+  "paper_title": "GS Paper 3",
+  "year": 2013,
+  "exam": "UPSC",
+  "origin": "PYQ",
+  "vault_path": null,
+  "marks": 10,
+  "importance": 2,
+  "question_text": "What are social networking sites and what security implications do these sites present? (200 words)",
+  "is_structured": 1,
+  "last_updated": 1747488000,
+  "cite": "U13",
+  "q_number": "Q22",
+  "points": [
+    {
+      "section": "Intro",
+      "text": "Social networking sites (SNS) – online platforms for creating, sharing, and exchanging user-generated content and building social networks (Facebook, X, Instagram, LinkedIn)",
+      "order": 1,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "Security implications for individuals:\n- identity theft\n- cyber-stalking\n- phishing\n- reputation damage (revenge porn)\n- online grooming of minors\n- doxxing\n- account hacking",
+      "order": 2,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "National security implications:\n- spread of fake news and misinformation (communal tension)\n- radicalization and terror recruitment\n- espionage via fake profiles\n- data harvesting (Cambridge Analytica)\n- social engineering attacks",
+      "order": 3,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "Organizational implications:\n- corporate espionage\n- data leaks\n- brand reputation damage\n- ransomware propagation",
+      "order": 4,
+      "cite": "U13"
+    },
+    {
+      "section": "Conclusion",
+      "text": "Need digital literacy, robust privacy settings, IT Act provisions (Section 66A struck down but 69A for blocking), CERT-In advisories, and platform accountability (Intermediary Guidelines 2021)",
+      "order": 5,
+      "cite": "U13"
+    }
+  ]
+},
   {
-    "uid": "UPSC_2013_GSP3_23",
-    "paper_title": "GS Paper 3",
-    "year": 2013,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 10,
-    "importance": 2,
-    "question_text": "Cyber warfare is considered by some defense analysts to be a larger threat than even Al Qaeda or terrorism. What do you understand by Cyber warfare? Outline the cyber threats which India is vulnerable to and bring out the state of the country's preparedness to deal with the same. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
-    "cite": "U13",
-    "q_number": "Q23",
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Cyber warfare – politically motivated hacking targeting critical infrastructure, military systems, and government networks to disrupt, damage, or gain advantage",
-        "order": 1,
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Cyber threats to India: nation-state attacks (China, Pakistan), critical infrastructure (power grid, banking, railways, nuclear plants, UPI systems), data breaches (Aadhaar, health records), supply chain attacks, ransomware (e.g., AIIMS 2022), disinformation campaigns",
-        "order": 2,
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "State of preparedness: National Cyber Security Policy (2013, updated 2020), CERT-In as nodal agency, National Critical Information Infrastructure Protection Centre (NCIIPC), Cyber Command (Defence Cyber Agency – DCA, tri-services), Cyber Swachhta Kendra",
-        "order": 3,
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Gaps: shortage of trained cybersecurity professionals, legacy systems, limited public-private info sharing, no comprehensive data protection law (DPDP Act 2023 recent), patchy implementation across states",
-        "order": 4,
-        "cite": "U13"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Need increased investment, cyber hygiene awareness, international cooperation, and offensive cyber capabilities",
-        "order": 5,
-        "cite": "U13"
-      }
-    ]
-  },
+  "uid": "UPSC_2013_GSP3_23",
+  "paper_title": "GS Paper 3",
+  "year": 2013,
+  "exam": "UPSC",
+  "origin": "PYQ",
+  "vault_path": null,
+  "marks": 10,
+  "importance": 2,
+  "question_text": "Cyber warfare is considered by some defense analysts to be a larger threat than even Al Qaeda or terrorism. What do you understand by Cyber warfare? Outline the cyber threats which India is vulnerable to and bring out the state of the country's preparedness to deal with the same. (200 words)",
+  "is_structured": 1,
+  "last_updated": 1747488000,
+  "cite": "U13",
+  "q_number": "Q23",
+  "points": [
+    {
+      "section": "Intro",
+      "text": "Cyber warfare – politically motivated hacking targeting critical infrastructure, military systems, and government networks to disrupt, damage, or gain advantage",
+      "order": 1,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "Cyber threats to India:\n- nation-state attacks (China, Pakistan)\n- critical infrastructure (power grid, banking, railways, nuclear plants, UPI systems)\n- data breaches (Aadhaar, health records)\n- supply chain attacks\n- ransomware (e.g., AIIMS 2022)\n- disinformation campaigns",
+      "order": 2,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "State of preparedness:\n- National Cyber Security Policy (2013, updated 2020)\n- CERT-In as nodal agency\n- National Critical Information Infrastructure Protection Centre (NCIIPC)\n- Cyber Command (Defence Cyber Agency – DCA, tri-services)\n- Cyber Swachhta Kendra",
+      "order": 3,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "Gaps:\n- shortage of trained cybersecurity professionals\n- legacy systems\n- limited public-private info sharing\n- no comprehensive data protection law (DPDP Act 2023 recent)\n- patchy implementation across states",
+      "order": 4,
+      "cite": "U13"
+    },
+    {
+      "section": "Conclusion",
+      "text": "Need increased investment, cyber hygiene awareness, international cooperation, and offensive cyber capabilities",
+      "order": 5,
+      "cite": "U13"
+    }
+  ]
+},
   {
     "uid": "UPSC_2013_GSP3_24",
     "paper_title": "GS Paper 3",
@@ -1257,50 +1251,50 @@
     ]
   },
   {
-    "uid": "UPSC_2013_GSP3_25",
-    "paper_title": "GS Paper 3",
-    "year": 2013,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 10,
-    "importance": 2,
-    "question_text": "How far are India's internal security challenges linked with border management particularly in view of the long porous borders with most countries of South Asia and Myanmar? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
-    "cite": "U13",
-    "q_number": "Q25",
-    "points": [
-      {
-        "section": "Intro",
-        "text": "India shares 15,106 km land border with 7 countries; much of it porous and unfenced, especially with Nepal, Bhutan, Bangladesh, and Myanmar",
-        "order": 1,
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Internal security challenges linked to porous borders: illegal immigration (Bangladesh infiltration into Assam, West Bengal), trans-border smuggling (arms, narcotics, fake currency), cross-border terrorism (Pakistan, Bangladesh based groups), human trafficking",
-        "order": 2,
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Myanmar border (1643 km, unfenced): insurgent groups (NSCN-K, ULFA, KYKL) have camps; arms flow; drug route (Golden Triangle); free movement regime (FMR) abused",
-        "order": 3,
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Steps taken: Integrated Check Posts, border fencing (Indo-Bangla almost complete), CIBMS (smart fences), riverine patrolling, BSF/SSB/ITBP deployment, FMR regulation, border infrastructure development, coordination with neighboring countries (Joint Working Groups)",
-        "order": 4,
-        "cite": "U13"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Comprehensive border management (technological surveillance, community engagement, and diplomatic push for border demarcation) is vital for internal security",
-        "order": 5,
-        "cite": "U13"
-      }
-    ]
-  }
+  "uid": "UPSC_2013_GSP3_25",
+  "paper_title": "GS Paper 3",
+  "year": 2013,
+  "exam": "UPSC",
+  "origin": "PYQ",
+  "vault_path": null,
+  "marks": 10,
+  "importance": 2,
+  "question_text": "How far are India's internal security challenges linked with border management particularly in view of the long porous borders with most countries of South Asia and Myanmar? (200 words)",
+  "is_structured": 1,
+  "last_updated": 1747488000,
+  "cite": "U13",
+  "q_number": "Q25",
+  "points": [
+    {
+      "section": "Intro",
+      "text": "India shares 15,106 km land border with 7 countries; much of it porous and unfenced, especially with Nepal, Bhutan, Bangladesh, and Myanmar",
+      "order": 1,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "Internal security challenges linked to porous borders:\n- illegal immigration (Bangladesh infiltration into Assam, West Bengal)\n- trans-border smuggling (arms, narcotics, fake currency)\n- cross-border terrorism (Pakistan, Bangladesh based groups)\n- human trafficking",
+      "order": 2,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "Myanmar border (1643 km, unfenced):\n- insurgent groups (NSCN-K, ULFA, KYKL) have camps\n- arms flow\n- drug route (Golden Triangle)\n- free movement regime (FMR) abused",
+      "order": 3,
+      "cite": "U13"
+    },
+    {
+      "section": "Body",
+      "text": "Steps taken:\n- Integrated Check Posts\n- border fencing (Indo-Bangla almost complete)\n- CIBMS (smart fences)\n- riverine patrolling\n- BSF/SSB/ITBP deployment\n- FMR regulation\n- border infrastructure development\n- coordination with neighboring countries (Joint Working Groups)",
+      "order": 4,
+      "cite": "U13"
+    },
+    {
+      "section": "Conclusion",
+      "text": "Comprehensive border management (technological surveillance, community engagement, and diplomatic push for border demarcation) is vital for internal security",
+      "order": 5,
+      "cite": "U13"
+    }
+  ]
+}
 ]
