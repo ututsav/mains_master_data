@@ -1,0 +1,888 @@
+[
+  {
+    "uid": "UPSC_2014_GSP3_01",
+    "paper_title": "GS Paper 3",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Normally countries shift from agriculture to industry and then later to services, but India shifted directly from agriculture to services. What are the reasons for the huge growth of services vis-à-vis industry in the country? Can India become a developed country without a strong industrial base? (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "Q1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Classical development path: agriculture → industry → services. India leapfrogged industry; services now ~55% of GDP, industry ~25%",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Reasons for growth of services:\n- IT/ITeS boom (global outsourcing, Y2K, English-speaking workforce)\n- Financial services growth (banking, insurance, capital markets)\n- Telecom revolution (mobile penetration, data services)\n- Education, health, tourism expansion\n- Policy liberalization (1991) favoring services over manufacturing\n- Low capital requirement compared to industry\n- Global demand for services (BPO, KPO, legal, accounting)",
+        "order": 2,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Why industry lagged:\n- License Raj and protectionism (pre-1991)\n- Infrastructure deficits (power, logistics)\n- Labor laws rigidity\n- Complex land acquisition\n- Competition from China and other manufacturing hubs\n- Lack of FDI in manufacturing (post-1991 still restricted in many sectors)",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Can India become developed without strong industrial base?\n- Unlikely; services employ only 30% of workforce, industry needed for mass employment\n- Examples: China, South Korea, Germany industrialized first\n- Manufacturing essential for value addition, exports, innovation\n- But post-industrial economies exist (US, UK still have manufacturing though; Luxembourg, Singapore small population)\n- India needs 'Make in India', PLI schemes to build industry alongside services",
+        "order": 4,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Services growth beneficial but insufficient; developed status requires robust industrial base for employment, trade balance, and technological self-reliance",
+        "order": 5,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP3_02",
+    "paper_title": "GS Paper 3",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "\"While we flaunt India's demographic dividend, we ignore the dropping rates of employability.\" What are we missing while doing so? Where will the jobs that India desperately needs come from? Explain. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "Q2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's demographic dividend – median age 28, 65% population under 35; but employability (skills mismatch) remains a challenge",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "What we are missing:\n- Quality of education (rote learning, outdated curriculum)\n- Skill gap (only 2-3% formally skilled, National Employability Report shows 80% engineers not employable)\n- Mismatch between education and industry needs\n- Underinvestment in vocational training (ITI capacity, quality)\n- Low female labor force participation (20% vs global 47%)\n- Focus on formal sector while jobs are in informal (90% workforce)",
+        "order": 2,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Where jobs will come from:\n- Manufacturing (Make in India, PLI schemes) – target 100 million jobs by 2030\n- Services – IT, healthcare, tourism, financial services, logistics\n- Construction – infrastructure push (Gati Shakti, PMAY, Bharatmala)\n- MSMEs – largest employer, needs credit and technology support\n- Green economy – renewable energy (500 GW by 2030), electric vehicles\n- Gig economy – e-commerce, delivery, ride-hailing, freelancing\n- Agriculture – value addition, food processing, allied activities",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Demographic dividend not automatic; requires skill development (Skill India, NEP 2020), industry-academia linkage, and job-creating growth (8-10% GDP with high employment elasticity)",
+        "order": 4,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP3_03",
+    "paper_title": "GS Paper 3",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "There is also a point of view that Agricultural Produce Market Committees (APMCs) set up under the State Acts have not only impeded the development of agriculture but also have been the cause of food inflation in India. Critically examine. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "Q3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "APMCs – regulated market yards under state APMC Acts (first in 1920s); aim to protect farmers from exploitation by intermediaries",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "How APMCs impeded agriculture development:\n- Monopsony – single market area, farmers cannot sell outside\n- Multiple layers of commission agents (mandi fees, taxes)\n- Lack of competition leads to lower price realization\n- Limited infrastructure (storage, grading) – post-harvest losses 10-15%\n- Restriction on direct marketing (e-NAM bypasses but still within APMC jurisdiction)\n- License raj for traders – barriers to entry",
+        "order": 2,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "APMCs as cause of food inflation:\n- High marketing margins (10-15% of consumer price)\n- Price spread between farm gate and retail high\n- Inefficient supply chain leads to wastage → price rise\n- Collusive pricing by commission agents\n- Lack of competition prevents price discovery",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Counter-argument:\n- APMCs provide assured payment (no delayed payment)\n- Auction system better than direct negotiation\n- e-NAM integration improving transparency\n- Reforms: Model APMC Act (2003) encouraged contract farming, private markets; three farm laws 2020 (repealed 2021) tried to bypass APMC",
+        "order": 4,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "APMCs in current form have outlived purpose; need reforms – open licensing, single market area, integration with e-NAM, allowing direct marketing while retaining safety net for farmers",
+        "order": 5,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP3_04",
+    "paper_title": "GS Paper 3",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "\"In the villages itself no form of credit organization will be suitable except the cooperative society.\" -All India Rural Credit Survey. Discuss this statement in the background of agricultural finance in India. What constraints and challenges do financial institutions supplying agricultural finance face? How can technology be used to better reach and serve rural clients? (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "Q4",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "All India Rural Credit Survey (1954) recommended cooperative societies as main rural credit agency; cooperatives still important but not sole",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Agricultural finance institutions today:\n- Cooperatives (PACS, DCCBs, SCBs) – share 15-20% of agri credit\n- Commercial banks (public, private) – dominant (60%+)\n- RRBs (Regional Rural Banks) – 10-15%\n- MFIs, NBFCs, SHG bank linkage\n- Kisan Credit Cards (KCC) – universal scheme",
+        "order": 2",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Constraints and challenges:\n- High transaction costs (small loans, remote areas)\n- Information asymmetry (farmer creditworthiness assessment)\n- Loan default culture (waiver expectations) – leads to high NPAs\n- Lack of collateral (marginal farmers)\n- Dependence on informal moneylenders (20-30% still)\n- Seasonal income leading to repayment issues\n- Inadequate branch penetration in remote areas",
+        "order": 3",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Technology solutions:\n- Aadhaar-based e-KYC for quick account opening\n- Mobile banking (USSD, BHIM) for remote access\n- Direct Benefit Transfer (DBT) for subsidies\n- Satellite/remote sensing for crop assessment (insurance, credit)\n- Digital land records (DILRMP) for collateral\n- Payment banks and India Post Payments Bank\n- AI/ML for credit scoring using non-traditional data (land records, monsoon patterns, crop history)\n- Biometric ATMs in villages",
+        "order": 4,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Cooperatives still relevant but need professionalization; technology can bridge gaps; multi-institutional approach (cooperatives + banks + fintech) ideal for rural credit",
+        "order": 5,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP3_05",
+    "paper_title": "GS Paper 3",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 has come into effect from 1st January, 2014. What are the key issues which would get addressed with the Act in place? What implications would it have on industrialization and agriculture in India? (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "Q5",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "LARR Act 2013 replaced colonial Land Acquisition Act 1894; aims to balance development needs with landowner rights and rehabilitation",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Key issues addressed:\n- Compensation: market value × multiple (2x in rural, 4x for land acquired for urbanization) + solatium (100%) + interest\n- Consent clause: 80% consent for private projects, 70% for PPP; govt projects exempt but Social Impact Assessment (SIA) mandatory\n- Rehabilitation and Resettlement (R&R) provisions: employment (1 job/family) or annuity, house, basic amenities\n- SIA mandatory for all acquisitions (except emergencies)\n- Retrospective clause: projects not started within 5 years of 1894 Act revert to new Act\n- Return of unutilized land after 5 years",
+        "order": 2,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Implications for industrialization:\n- Positive: reduces litigation, faster approvals (if consent/SIA done), social acceptance increases\n- Negative: higher land cost (2-4x) increases project cost, may deter investment; consent requirement creates uncertainty; some states amended to dilute (e.g., Gujarat, Tamil Nadu) to attract industry",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Implications for agriculture:\n- Protection of multi-cropped irrigated land (requires approval of state legislature if acquired)\n- But loss of agricultural land inevitable for industrialization; may lead to fragmentation of remaining farms\n- Compensation can enable farmers to invest in non-farm activities",
+        "order": 4,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "LARR Act balances rights with development; but amendments by states and slow implementation weaken it; need for time-bound SIA, transparent R&R, and land use planning",
+        "order": 5,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP3_06",
+    "paper_title": "GS Paper 3",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Capitalism has guided the world economy to unprecedented prosperity. However, it often encourages short-sightedness and contributes to wide disparities between the rich and the poor. In this light, would it be correct to believe and adopt capitalism for bringing inclusive growth in India? Discuss. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "Q6",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Capitalism – private ownership, market-driven, profit motive; led to innovation, growth, but also inequality (Piketty), environmental degradation, financial crises",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Strengths of capitalism for India:\n- Incentivizes entrepreneurship (startup ecosystem)\n- Efficient resource allocation\n- Wealth creation (India 5th largest economy)\n- Competitive industries (IT, pharma, auto)\n- Reduced poverty (from 45% to 10% post-liberalization)",
+        "order": 2",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Weaknesses:\n- Rising inequality (top 10% own 80% wealth, Oxfam)\n- Short-termism (quarterly earnings focus, neglecting R&D, environment)\n- Exploitation of labor (informal sector, low wages, gig economy precarity)\n- Regional disparities (richer states attract capital)\n- Financial instability (2008 crisis, NPAs in banking)",
+        "order": 3",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "India's mixed economy model:\n- Not pure capitalism; state-owned enterprises (railways, defense, banking), welfare schemes (MGNREGA, PDS, PM-KISAN), regulations (FDI caps, labour laws)\n- 'Pro-business' not 'pro-market' – crony capitalism risk\n- Need for inclusive capitalism: stakeholder model, ESG norms, CSR (Companies Act 2013), social safety nets",
+        "order": 4",
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Pure capitalism unsuitable for inclusive growth; India needs 'capitalism with a human face' – market mechanisms with strong redistribution, regulation, and social protection",
+        "order": 5,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP3_07",
+    "paper_title": "GS Paper 3",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Explain how Private Public Partnership arrangements, in long gestation infrastructure projects, can transfer unsustainable liabilities to the future. What arrangements need to be put in place to ensure that successive generations' capacities are not compromised? (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "Q7",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "PPP in infrastructure (roads, ports, airports) involves private investment with government support; long gestation (20-30 years) creates intergenerational liability concerns",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "How unsustainable liabilities transfer to future:\n- Government guarantees (minimum revenue guarantee, sovereign guarantee) – future taxpayers pay if traffic shortfall\n- Concession periods extend to 30-40 years, locking future generations into contract terms\n- Viability Gap Funding (VGF) – upfront government grant reduces future capacity for other projects\n- Re-negotiation costs (change in scope, force majeure) often borne by government\n- Termination payments (if early termination) can be huge liability\n- Foregone future revenues (toll rights assigned for decades)",
+        "order": 2,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Arrangements to protect future generations:\n- Independent PPP regulator with long-term perspective\n- Fiscal responsibility legislation limiting contingent liabilities (FRBM Act)\n- Transparent disclosure of all guarantees (public debt database)\n- Standardized contracts with fair risk allocation (political, force majeure risks on government; demand risk on private sector or shared)\n- Independent social and environmental impact assessment before approval\n- Caps on VGF and guarantees as % of GDP\n- Parliamentary oversight for large PPPs\n- Hybrid Annuity Model (HAM) – reduces risk for both sides\n- Avoid opaque re-negotiations; competitive bidding with clear terms",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "PPPs essential for infrastructure but must be designed with intergenerational equity; robust institutions, transparency, and fiscal discipline required",
+        "order": 4,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP3_08",
+    "paper_title": "GS Paper 3",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "National Urban Transport Policy emphasises on 'moving people' instead of 'moving vehicles'. Discuss critically the success of the various strategies of the Government in this regard. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "Q8",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "National Urban Transport Policy (NUTP) 2006 – shift from vehicle-centric to people-centric mobility; focus on public transport, non-motorized transport (NMT), integrated land use",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Strategies and their success:\n- Metro rail (Delhi, Bengaluru, Mumbai, Kolkata, Chennai, Hyderabad, Pune etc.) – successful in Delhi (reducing congestion, pollution), but high cost, low ridership in some cities\n- Bus Rapid Transit (BRTS) – Ahmedabad (Janmarg) successful; others (Delhi, Pune) failed due to poor design, enforcement\n- National Mission on Sustainable Habitat – green building codes, hybrid vehicles\n- Atal Mission for Rejuvenation and Urban Transformation (AMRUT) – public transport component\n- FAME India scheme – electric vehicles (3-wheelers, buses) success limited due to charging infrastructure\n- Cycle sharing schemes (public bicycle sharing) – limited success (no dedicated lanes, safety issues)\n- Integrated ticketing (common mobility card) – launched but not yet universal\n- Transit Oriented Development (TOD) – implemented in Delhi, Ahmedabad, but land use integration slow",
+        "order": 2,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Critical assessment:\n- Success partial: private vehicle ownership still rising (cars, two-wheelers), congestion worsening in most cities\n- Lack of last-mile connectivity, poor pedestrian infrastructure\n- Funding constraints (metro costs high, less for bus systems)\n- Enforcement weak (lane discipline, bus lanes encroached)\n- Urban planning still vehicle-centric (wide roads, flyovers encourage more vehicles – induced demand)",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "NUTP strategies partially successful; need stronger push for multi-modal integration, pedestrian/cycling infrastructure, congestion pricing, and land use planning (density along transit corridors)",
+        "order": 4,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP3_09",
+    "paper_title": "GS Paper 3",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Foreign Direct Investment (FDI) in the defence sector is now set to be liberalized. What influence this is expected to have on Indian defence and economy in the short and long run? (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "Q9",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "FDI in defence was 26% (automatic), 49% (government route), raised to 74% (automatic) in 2020, and 100% in some cases through government route",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Short-run impact on defence:\n- Increased foreign collaboration, joint ventures\n- Faster induction of technology (radars, missiles, aircraft components)\n- Reduction in import dependency (currently 60% import)\n- Access to global supply chains\n- But technology transfer may still be restricted\n- Potential security risks (sensitive technology leakage)",
+        "order": 2,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Long-run impact on defence:\n- Build domestic defence industrial base (DIB)\n- Self-reliance (Atmanirbhar in defence)\n- Export potential (India exported $1.5 bn in 2022)\n- Innovation through R&D partnerships\n- However, over-reliance on foreign OEMs may stifle indigenous R&D (DRDO, HAL) if not balanced",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Economic impact:\n- Short-run: FDI inflow (capital investment), employment (direct and indirect), backward linkages\n- Long-run: defence manufacturing hub, export revenues, MSME development\n- Risk: foreign majority ownership may lead to profit repatriation, limited value addition within India unless mandatory offsets (indigenization) enforced",
+        "order": 4,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Liberalized FDI beneficial if accompanied by strict technology transfer agreements, indigenization (DAP 2020), and security safeguards; must not undermine domestic R&D",
+        "order": 5,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP3_10",
+    "paper_title": "GS Paper 3",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Scientific research in Indian universities is declining, because a career in science is not as attractive as are business professions, engineering or administration, and the universities are becoming consumer-oriented. Critically comment. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "Q10",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Indian universities once produced great scientists (C.V. Raman, S. Chandrasekhar, Homi Bhabha); now research output (papers, patents, citations) declining relative to global peers",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Reasons for decline:\n- Career attractiveness – low pay in academia vs private sector (engineering, finance, IT); prestige of administrative services (IAS, IPS) higher\n- Lack of research funding (UGC, DST grants insufficient; universities spend <1% of GDP on R&D; China 2.4%)\n- Poor infrastructure (old equipment, labs, libraries)\n- Teaching load heavy, leaving little time for research\n- Bureaucracy in research grants, procurement\n- Consumer-oriented education – students choose degrees for employability (B.Tech, MBA), not research; universities focus on enrollment, not research output\n- Lack of international collaboration, brain drain",
+        "order": 2,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Counter-arguments (improvements):\n- Institutions of Eminence (IoEs) – 20 universities given autonomy and funding\n- DST's PURSE, FIST, CURIE programs for research infrastructure\n- INSPIRE program for PhD fellowships\n- Atal Innovation Mission, PRISM for student research\n- Increasing industry-academia linkage (CSIR labs, joint PhDs)",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Decline real but reversible; need more PhD fellowships, research incentives (cash awards, promotions), industry funding, and changing societal perception of science careers. NEP 2020's emphasis on research universities positive step",
+        "order": 4,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP3_11",
+    "paper_title": "GS Paper 3",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Can overuse and free availability of antibiotics without Doctor's prescription, be contributors to the emergence of drug-resistant diseases in India? What are the available mechanisms for monitoring and control? Critically discuss the various issues involved. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "Q11",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Antimicrobial Resistance (AMR) – major global health threat; India among highest antibiotic consumption (overuse, misuse, self-medication)",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Contributors to AMR in India:\n- Over-the-counter (OTC) antibiotics without prescription (common in chemists, even Schedule H drugs)\n- Incomplete courses (patients stop when symptoms improve)\n- Irrational use in livestock (growth promoters in poultry, aquaculture)\n- Excessive use in hospitals (broad-spectrum for viral infections)\n- Poor infection control leads to nosocomial infections\n- Lack of awareness among patients and even prescribers",
+        "order": 2,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Monitoring mechanisms:\n- National AMR Surveillance Network (ICMR) – 30 labs\n- National Action Plan on AMR (2017) – One Health approach\n- Red Line campaign (awareness)\n- Schedule H1 (prescription only) and Schedule X (restricted)\n- National Drug Regulatory Authority for quality monitoring\n- WHO's GLASS (Global Antimicrobial Resistance Surveillance System)",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Control mechanisms and challenges:\n- Regulation of OTC sales poorly enforced (chemists violate)\n- Need for prescription audit, digital prescriptions\n- Antibiotic stewardship programs in hospitals (weak)\n- Ban on colistin as growth promoter (2019) but enforcement weak\n- Lack of new antibiotics in pipeline (market failure)\n- Over-prescription by doctors (diagnostic uncertainty, patient pressure)",
+        "order": 4,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "AMR crisis real; requires strict enforcement of prescription-only regime, public awareness, infection control, and R&D incentives for new antibiotics",
+        "order": 5,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP3_12",
+    "paper_title": "GS Paper 3",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "In a globalized world, Intellectual Property Rights assume significance and are a source of litigation. Broadly distinguish between the terms Copyrights, Patents and Trade Secrets. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "Q12",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Intellectual Property Rights (IPR) protect creations of mind; governed by TRIPS, national laws; different forms protect different types of IP",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Copyrights:\n- Protects literary, artistic, musical, dramatic works (books, music, films, software)\n- Automatic upon creation (no registration needed in Berne Convention countries)\n- Duration: life + 60 years (India) / life + 70 years (many countries)\n- Rights: reproduction, distribution, performance, adaptation\n- Fair use/dealing exception for education, criticism\n- Examples: book copyright, song lyrics, movie script, source code",
+        "order": 2,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Patents:\n- Protects inventions (products or processes) – new, inventive, industrially applicable\n- Requires registration (examination, grant), disclosure of invention\n- Duration: 20 years from filing\n- Exclusive rights: prevent others from making, using, selling\n- Not for: abstract ideas, mathematical methods, natural phenomena (Section 3(d) of Indian Patents Act prevents evergreening)\n- Examples: drug molecule, machine, chemical process",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Trade Secrets:\n- Protects confidential business information (formula, method, customer list)\n- No registration, no time limit; protection as long as kept secret\n- Rights against misappropriation (theft, breach of confidentiality)\n- No reverse engineering protection if discovered independently\n- Not protected by TRIPS but by unfair competition laws\n- Examples: Coca-Cola formula, Google search algorithm, KFC recipe",
+        "order": 4,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Each IPR type serves different purpose; copyright for expression, patent for invention, trade secret for confidential know-how; litigation arises due to infringement, validity disputes, and licensing",
+        "order": 5,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP3_13",
+    "paper_title": "GS Paper 3",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Should the pursuit of carbon credits and clean development mechanisms set up under UNFCCC be maintained even though there has been a massive slide in the value of a carbon credit? Discuss with respect to India's energy needs for economic growth. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "Q13",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Carbon credits – tradeable permit to emit 1 ton CO2; Clean Development Mechanism (CDM) under Kyoto Protocol allows developed countries to offset emissions by funding projects in developing countries",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Value slide: price crashed from €30/t (2008) to €0.50/t (2013) due to oversupply, EU withdrawal, uncertain post-Kyoto regime; Paris Agreement replaced with Article 6 (new market mechanisms, not yet operational)",
+        "order": 2",
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Should India continue?\n- Yes, but with revised strategy: participate in Article 6 (ITMOs – Internationally Transferred Mitigation Outcomes)\n- India was 2nd largest CDM beneficiary (2,000+ projects, 600 million CERs) – renewable, energy efficiency\n- Benefits: additional revenue, technology transfer, green investment\n- Low price currently makes CDM unattractive; but voluntary carbon markets (corporate net-zero pledges) offer higher prices ($5-15/t)",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "India's energy needs vs carbon markets:\n- India needs to grow (per capita energy 1/3 of global average)\n- Coal still dominant (55% of electricity)\n- Carbon markets should not constrain growth (India's emissions intensity already decreasing, NDC target met)\n- India can use voluntary markets for renewable energy (REC, carbon credits) to attract investment\n- India should push for fair accounting (avoid double counting) under Article 6 and for climate finance from developed countries",
+        "order": 4,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Maintain engagement but shift focus to Article 6 and voluntary markets; use carbon revenues to fund green transition; not a panacea but useful supplementary mechanism",
+        "order": 5,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP3_14",
+    "paper_title": "GS Paper 3",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Drought has been recognized as a disaster in view of its spatial expanse, temporal duration, slow onset and lasting effects on vulnerable sections. With a focus on the September 2010 guidelines from the National Disaster Management Authority (NDMA), discuss the mechanisms for preparedness to deal with likely El Niño and La Niña fallouts in India. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "Q14",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Drought – slow-onset disaster affecting large areas, prolonged, impacting agriculture, water, livelihoods; NDMA guidelines 2010 comprehensive",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "NDMA guidelines (2010) key mechanisms:\n- Early warning: IMD forecasts (El Niño/La Niña, monsoon prediction), satellite data, rainfall deficiency maps\n- Drought declaration criteria: 20% deficiency (moderate), 40% (severe)\n- Integrated Drought Management: water conservation (rainwater harvesting, watershed management), crop planning (drought-resistant varieties, contingency cropping)\n- Relief measures: fodder camps, drinking water supply (tankers), wage employment (MGNREGA wage increase), food security (PDS)\n- Long-term: groundwater recharge (Jal Shakti Abhiyan), micro-irrigation (PMKSY), crop insurance (PMFBY)",
+        "order": 2,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "El Niño/La Niña specific preparedness:\n- El Niño typically weakens monsoon (drought); La Niña usually good monsoon but flood risk\n- Preparedness: reservoir storage monitoring, contingency crop plan (short-duration varieties), advance advisory to farmers (agromet services), livestock feed storage\n- State and district drought management plans, drought control rooms\n- Inter-basin water transfer contingency, cloud seeding (limited effectiveness)\n- Sensitization of vulnerable communities (especially rain-fed areas)",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "NDMA guidelines provide framework; implementation gaps persist (funding, coordination); need proactive measures, climate-smart agriculture, and community participation",
+        "order": 4,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP3_15",
+    "paper_title": "GS Paper 3",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Environmental Impact Assessment studies are increasingly undertaken before a project is cleared by the Government. Discuss the environmental impacts of coal-fired thermal plants located at coal pitheads. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "Q15",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "EIA – process to identify, predict, evaluate environmental consequences; mandatory for thermal power plants under EIA Notification 2006 (amended)",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Coal pithead plants (located near mines, e.g., Singrauli, Korba, Talcher) – specific impacts:\n- Air pollution: SO2, NOx, PM (fly ash) – respiratory diseases, acid rain, visibility reduction\n- Water pollution: thermal discharge (heated water), ash slurry (heavy metals: arsenic, mercury, lead) contaminating groundwater and rivers\n- Land degradation: open-cast mining (mine voids), deforestation, loss of topsoil\n- Ash pond: occupies large land area (fly ash, bottom ash), dust emissions, leachate contamination, risk of breach (e.g., 2014 collapse in Singrauli)\n- Coal handling: fugitive dust, noise\n- Biodiversity loss: forest fragmentation, wildlife habitat destruction (e.g., Hasdeo Aranya forest in Chhattisgarh)\n- Health impacts on local communities: respiratory, skin, cancer clusters\n- Carbon emissions: coal-fired plants major GHG contributor",
+        "order": 2,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "EIA role and challenges:\n- Baseline data collection often inadequate\n- Public hearings weak, affected communities not properly consulted\n- Post-project monitoring ineffective\n- Cumulative impact of multiple plants in a region not assessed\n- Some impacts (heavy metals, groundwater) need long-term monitoring",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Pithead plants necessary for cheaper electricity but environmental costs high; need stricter emission norms (SO2, NOx), ash utilization (100% target), mine closure plans, and shift to supercritical/ultra-supercritical technology",
+        "order": 4,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP3_16",
+    "paper_title": "GS Paper 3",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "\"The diverse nature of India as a multi-religious and multi-ethnic society is not immune to the impact of radicalism which is seen in her neighbourhood.\" Discuss along with strategies to be adopted to counter this environment. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "Q16",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's neighbourhood (Pakistan, Afghanistan, Bangladesh) has seen religious radicalism (Taliban, ISIS-K, sectarian groups); India's pluralistic society vulnerable to spillover",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Impact of radicalism on India:\n- Cross-border terrorism (LeT, JeM, HM) – attacks (Mumbai 2008, Pathankot, Pulwama)\n- Radicalization of youth (online propaganda, social media recruitment)\n- Communal polarization (riots, hate speech) – exploited by radical elements\n- Spread of extremist ideology through sleeper cells\n- Radicalization in prisons (lone wolf attacks)\n- Threat to internal security (IEDs, fidayeen attacks)\n- Economic disruption (tourism, investment)",
+        "order": 2,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Strategies to counter:\n- Security: strengthen border management, intelligence coordination (Multi Agency Centre, IB, RAW), anti-terror operations (special forces, NIA)\n- De-radicalization: community engagement (counter-narrative campaigns), rehabilitation programs (e.g., Kerala's model for returnees from ISIS), deradicalization in prisons\n- Legal: strict laws (UAPA), ban on terrorist organizations, financial tracking (FIU)\n- Social: promote communal harmony (Sachar Committee, interfaith dialogues), education reform (modern madrasas, critical thinking)\n- Cyber: monitor online radicalization, take down hate speech, social media regulation\n- Diplomatic: isolate Pakistan for supporting terror (Financial Action Task Force), bilateral cooperation with Bangladesh, Sri Lanka, Nepal",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Radicalism a threat but India's social resilience, democratic institutions, and robust security response contain it; sustained community-level engagement essential",
+        "order": 4,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP3_17",
+    "paper_title": "GS Paper 3",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "International civil aviation laws provide all countries complete and exclusive sovereignty over the airspace above their territory. What do you understand by 'airspace'? What are the implications of these laws on the space above this airspace? Discuss the challenges which this poses and suggest ways to contain the threat. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "Q17",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Chicago Convention (1944) – sovereignty over airspace up to outer space (no defined upper limit). Airspace: vertical column above territory and territorial waters (12 nautical miles)",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Implications for space above airspace (outer space):\n- Outer space is res communis (common heritage) – no national sovereignty (Outer Space Treaty 1967)\n- Boundary between airspace and outer space not legally defined (debated at 100 km – Kármán line)\n- States can launch satellites and spacecraft that overfly other countries' territory (orbit above airspace)\n- However, unauthorized overflight of ballistic missiles, sub-orbital vehicles may pass through sovereign airspace, violating sovereignty\n- Space debris re-entering through airspace – whose jurisdiction?",
+        "order": 2,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Challenges posed:\n- ASAT (anti-satellite weapons) tests – debris causes hazard; India's Mission Shakti (2019) created debris\n- Hypersonic weapons – fly through airspace at altitudes beyond standard radars, ambiguous status\n- Surveillance satellites – high-resolution imaging of territory (sovereignty issue but legal in outer space)\n- Space-based weapons (directed energy, kinetic) – escalation risk\n- Commercial sub-orbital tourism (Virgin Galactic, Blue Origin) – do they need permission from overflown countries?",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Ways to contain threat:\n- Define upper limit of airspace (e.g., 100 km) through international agreement\n- Strengthen Outer Space Treaty (Prevention of Arms Race in Outer Space – PAROS)\n- Transparency and confidence-building measures (TCBM) on space launches, debris\n- International code of conduct for outer space activities (India supports)\n- Improve surveillance (Space Situational Awareness – SSA) for objects entering airspace\n- Bilateral/regional agreements on overflight of sub-orbital vehicles",
+        "order": 4,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Ambiguity between airspace and outer space needs legal clarity; India should lead efforts for peaceful uses and prevention of weaponization of space",
+        "order": 5,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP3_18",
+    "paper_title": "GS Paper 3",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "How does illegal transborder migration pose a threat to India's security? Discuss the strategies to curb this, bringing out the factors which give impetus to such migration. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "Q18",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Illegal migration into India primarily from Bangladesh (estimated 15-20 million), Myanmar, Nepal (open border), and Pakistan; major security threat",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Security threats:\n- Demographic change (especially Assam, West Bengal, Tripura) – electoral implications, social tension\n- Resource pressure (land, water, jobs) – conflicts with locals\n- Trans-border smuggling (arms, narcotics, fake currency) – funding anti-national activities\n- Support to insurgencies (ULFA, NDFB, NSCN) via safe havens\n- Radicalization – cross-border links with extremist groups\n- Overstretch of border security forces\n- Citizenship disputes (NRC in Assam) – law and order challenges",
+        "order": 2,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Factors giving impetus to migration:\n- Push factors: poverty, lack of employment, climate change (sea level rise in Bangladesh), political instability, persecution (e.g., Rohingya from Myanmar)\n- Pull factors: economic opportunities (informal sector), better law and order, porous borders (Indo-Bangladesh border 4,096 km, partially unfenced), cultural/linguistic similarities, family networks",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Strategies to curb:\n- Border management: fencing (Indo-Bangla almost complete), CIBMS (smart surveillance), riverine patrolling, floodlighting\n- Identity verification: NRC (National Register of Citizens) – Assam NRC 2019 updated, pending for other states\n- Bilateral diplomacy: India-Bangladesh Coordinated Border Management Plan (CBMP), extradition treaties, development assistance to address push factors\n- Legal: Foreigners Tribunals (Assam), Citizenship Amendment Act (controversial), deportation agreements\n- Community vigilance, biometric identification (Aadhaar linked), regular border meetings (BSF-BGB)",
+        "order": 4,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Need multi-pronged approach: secure borders, address root causes through development in neighbourhood, legal reforms, and humane handling of refugees (persecution cases)",
+        "order": 5,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP3_19",
+    "paper_title": "GS Paper 3",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "In 2012, the longitudinal marking for high-risk areas for piracy was moved from 65 degrees east to 78 degrees east in the Arabian Sea by the International Maritime Organization. What impact does this have on India's maritime security concerns? (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "Q19",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "IMO High Risk Area (HRA) for piracy – originally Gulf of Aden, Somali basin (west of 65°E). Shifted to 78°E in 2012, extending eastward into Arabian Sea",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Impact on India's maritime security:\n- HRA now includes waters west of 78°E – essentially Arabian Sea up to Indian coast (Lakshadweep, Kochi, Mumbai)\n- Increased risk of piracy attacks on Indian-flagged vessels (cargo, oil tankers, fishing boats)\n- Indian Navy and Coast Guard have to extend patrols further west (beyond 65°E), increasing operational burden\n- Vessels passing through HRA require armed guards (PMSCs), increased insurance premiums for Indian shipping (higher costs)\n- Threat to India's energy security (crude oil from Gulf through Arabian Sea)\n- Somali pirates may target merchant vessels closer to Indian Exclusive Economic Zone (EEZ)",
+        "order": 2,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Positive aspects:\n- IMO recognition prompts coordinated international patrols (EU NAVFOR, NATO, Combined Task Force 151) – India is active participant\n- India's proactive anti-piracy operations (e.g., rescue of MV Albedo, MV Iceberg) enhanced regional leadership\n- India's Information Fusion Centre – Indian Ocean Region (IFC-IOR) in Gurugram coordinates maritime domain awareness\n- Shift did not cause actual increase in piracy incidents near India (piracy declined overall after 2012 due to armed guards, patrols)",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "HRA shift increased awareness and international cooperation; India's response (naval deployments, IFC-IOR, regional exercises) effective; need continued vigilance against resurgent piracy",
+        "order": 4,
+        "cite": "U14"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP3_20",
+    "paper_title": "GS Paper 3",
+    "year": 2014,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "China and Pakistan have entered into an agreement for development of an economic corridor. What threat does this pose for India's security? Critically examine. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U14",
+    "q_number": "Q20",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "China-Pakistan Economic Corridor (CPEC) – $60 billion flagship of Belt and Road Initiative (BRI); connects Gwadar port (Balochistan) to Xinjiang via Karakoram Highway and various infrastructure projects",
+        "order": 1,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Threats to India's security:\n- Territorial sovereignty violation: CPEC passes through Pakistan-occupied Kashmir (PoK) – India's claim over Kashmir; China's involvement legitimizes Pakistan's occupation\n- Strategic encirclement: CPEC gives China access to Arabian Sea (Gwadar), India's western flank; naval base 700 km from India's coast\n- Military implications: China can deploy PLA troops, submarines, warships in Arabian Sea (dual-use infrastructure)\n- Economic: China's access to Central Asian markets via CPEC bypasses India; India's connectivity to Afghanistan via Chabahar (Iran) counter, but CPEC larger scale\n- Terrorism: CPEC projects target of Baloch separatists, but may increase Chinese presence near Indian border",
+        "order": 2,
+        "cite": "U14"
+      },
+      {
+        "section": "Body",
+        "text": "Counter-arguments (critical examination):\n- CPEC facing financial challenges (debt trap, delays), security threats (attacks on Chinese workers), Baloch resistance\n- India's countermeasures: Chabahar port (Iran) – connectivity to Afghanistan, Central Asia; International North-South Transport Corridor (INSTC) with Russia, Iran\n- Quad (India-US-Japan-Australia) – alternative infrastructure in Indo-Pacific (Asia-Africa Growth Corridor)\n- India's Act East Policy, SAGAR (Security and Growth for All in Region) to balance China's influence in IOR\n- CPEC not fully operational (Gwadar port capacity limited, road network incomplete)",
+        "order": 3,
+        "cite": "U14"
+      },
+      {
+        "section": "Conclusion",
+        "text": "CPEC poses real security threats but India can counter through diplomatic engagement, strategic partnerships, infrastructure projects (Chabahar, INSTC), and bolstering maritime capabilities",
+        "order": 4,
+        "cite": "U14"
+      }
+    ]
+  }
+]
