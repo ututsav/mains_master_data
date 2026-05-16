@@ -1,0 +1,570 @@
+[
+  {
+    "uid": "UPSC_2013_GSP4_01",
+    "paper_title": "GS Paper 4",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "What do you understand by 'values' and 'ethics'? In what way is it important to be ethical along with being professionally competent? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U13",
+    "q_number": "Q1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Values – core beliefs guiding behavior (honesty, integrity); Ethics – systematic study of right/wrong, applied moral principles",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Difference: values are personal/individual; ethics are contextual, professional codes of conduct",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Importance of being ethical + competent: competence without ethics leads to misuse (e.g., cybercrime, financial fraud); ethics without competence leads to inefficiency; public trust requires both (Nolan principles)",
+        "order": 3,
+        "cite": "U13"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Ethical competence ensures decisions are both effective and morally defensible; essential for good governance",
+        "order": 4,
+        "cite": "U13"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP4_02",
+    "paper_title": "GS Paper 4",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 25,
+    "importance": 2,
+    "question_text": "(a) What do you understand by the following terms in the context of public service? (250 words)\n(i) Integrity\n(ii) Perseverance\n(iii) Spirit of service\n(iv) Commitment\n(v) Courage of conviction\n\n(b) Indicate two more attributes which you consider important for public service. Justify your answer. (100 words)",
+    "is_structured": 0,
+    "last_updated": 1747488000,
+    "cite": "U13",
+    "q_number": "Q2",
+    "points": [
+      {
+        "section": "General",
+        "text": "(a)(i) Integrity – consistency of actions with values, honesty, incorruptibility; essential for public trust; includes financial, intellectual, professional integrity",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "(a)(ii) Perseverance – steadfastness despite obstacles; completing tasks even under pressure; critical for long-term policy implementation (e.g., disaster management, poverty alleviation)",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "(a)(iii) Spirit of service – putting public interest above self; empathy, volunteerism; distinguishes public servant from private employee (Lokseva paramo dharma)",
+        "order": 3,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "(a)(iv) Commitment – dedication to organizational goals and constitutional values; willingness to go beyond call of duty; ensures accountability and reliability",
+        "order": 4,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "(a)(v) Courage of conviction – standing by ethical principles even under pressure; whistleblowing; resisting political or monetary pressure (e.g., Ashok Khemka)",
+        "order": 5,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "(b) Two more attributes: Empathy – understanding citizens' plight, essential for citizen-centric governance; Impartiality – equal treatment regardless of caste, religion, class; foundation of rule of law",
+        "order": 6,
+        "cite": "U13"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP4_03",
+    "paper_title": "GS Paper 4",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Some people feel that values keep changing with time and situation, while others strongly believe that there are certain universal and eternal human values. Give your perception in this regard with due justification. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U13",
+    "q_number": "Q3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Debate between value relativism (change with context) and value absolutism (universal truths)",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Values that change: social customs (dowry, sati abolition), technological ethics (privacy in digital age), organizational culture",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Universal values: truth, non-violence (ahimsa), compassion, justice, human dignity – recognized across cultures and religions (Universal Declaration of Human Rights)",
+        "order": 3,
+        "cite": "U13"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Core eternal values exist, but their application evolves with context (e.g., truth-telling vs. confidentiality in public service)",
+        "order": 4,
+        "cite": "U13"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP4_04",
+    "paper_title": "GS Paper 4",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "What is 'emotional intelligence' and how can it be developed in people? How does it help an individual in taking ethical decisions? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U13",
+    "q_number": "Q4",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Emotional Intelligence (EI) – ability to recognize, understand, manage one's own emotions and others' (Goleman: self-awareness, self-regulation, motivation, empathy, social skills)",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Development: mindfulness practices, feedback-seeking, empathy training, active listening, stress management techniques, role-playing scenarios",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "EI in ethical decisions: prevents impulsive reactions (anger, greed), enables perspective-taking (empathy for stakeholders), balances head and heart; e.g., civil servant resisting bribe by managing emotional pressure",
+        "order": 3,
+        "cite": "U13"
+      },
+      {
+        "section": "Conclusion",
+        "text": "EI complements moral reasoning; essential for ethical leadership and handling moral dilemmas",
+        "order": 4,
+        "cite": "U13"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP4_05",
+    "paper_title": "GS Paper 4",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 20,
+    "importance": 2,
+    "question_text": "(a) What do you understand by the term 'voice of conscience'? How do you prepare yourself to heed to the voice of conscience? (150 words)\n(b) What is meant by 'crisis of conscience'? Narrate one incident in your life when you were faced with such a crisis and how you resolved the same. (150 words)",
+    "is_structured": 0,
+    "last_updated": 1747488000,
+    "cite": "U13",
+    "q_number": "Q5",
+    "points": [
+      {
+        "section": "General",
+        "text": "(a) Voice of conscience – internal moral compass (intuition of right/wrong); rooted in upbringing, values, ethics; manifests as guilt or moral distress when violating principles",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "(a) Preparation: self-reflection (meditation, journaling), study of ethical frameworks, role models, practice of moral courage, reducing cognitive dissonance",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "(b) Crisis of conscience – conflict between inner moral values and external pressures (rules, authority, self-interest); ethical dilemma where no clear right path",
+        "order": 3,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "(b) Example incident: [candidate to narrate personal – e.g., witnessing cheating in exam, reporting vs staying quiet; resolved by following conscience despite social cost]",
+        "order": 4,
+        "cite": "U13"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP4_06",
+    "paper_title": "GS Paper 4",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 30,
+    "importance": 2,
+    "question_text": "Given below are three quotations of great moral thinkers/philosophers. For each of these quotations, bring out what it means to you in the present context:\n(a) \"There is enough on this earth for every one's need but for no one's greed.\" -Mahatma Gandhi (150 words)\n(b) \"Nearly all men can withstand adversity, but if you want to test a man's character, give him power.\" -Abraham Lincoln (150 words)\n(c) \"I count him braver who overcomes his desires than him who overcomes his enemies.\" - Aristotle (150 words)",
+    "is_structured": 0,
+    "last_updated": 1747488000,
+    "cite": "U13",
+    "q_number": "Q6",
+    "points": [
+      {
+        "section": "General",
+        "text": "(a) Gandhi's quote: sustainable consumption vs. unlimited greed; present context – climate crisis, resource depletion, inequality; need for circular economy, sufficiency lifestyle (SDG 12), corporate greed (black money, hoarding)",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "(b) Lincoln's quote: adversity reveals resilience, power reveals integrity; present context – corruption among politicians/bureaucrats (power corrupts); authority tested in discretionary powers, conflict of interest; need for transparency, accountability",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "(c) Aristotle's quote: self-mastery greater than military conquest; present context – addiction (substance, social media), impulse control, consumerism; virtue of temperance; overcoming internal enemies (greed, anger, lust) foundation of ethical character",
+        "order": 3,
+        "cite": "U13"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP4_07",
+    "paper_title": "GS Paper 4",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "\"The good of an individual is contained in the good of all.\" What do you understand by this statement? How can this principle be implemented in public life? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U13",
+    "q_number": "Q7",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Holistic ethical principle – individual well-being cannot be separated from community welfare; echoes utilitarianism (greatest good of greatest number) and Indian philosophy (Vasudhaiva Kutumbakam)",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Implementation in public life: inclusive policies (universal schemes not just elite), participatory governance (Gram Sabha), social justice (reservations, affirmative action), environmental protection (individual comfort vs. collective climate action)",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Example: civil servant sacrificing personal ease for public service; collective good as guiding principle for resource allocation",
+        "order": 3,
+        "cite": "U13"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Enlightened self-interest aligns with common good; foundational for ethical governance",
+        "order": 4,
+        "cite": "U13"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP4_08",
+    "paper_title": "GS Paper 4",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "It is often said that 'politics' and 'ethics' do not go together. What is your opinion in this regard? Justify your answer with illustrations. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U13",
+    "q_number": "Q8",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Common perception – Machiavellian view: politics is about power, ends justify means; ethics seen as constraint",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Counter-argument: ethics is essential for sustainable democracy; unethical politics leads to corruption, populism, instability; examples: Watergate, 2G scam, Adarsh housing; ethical leaders like Lal Bahadur Shastri, N. Vittal",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Need for ethical politics: accountability, transparency, trust; political ethics codes (MPs' code of conduct), anti-defection law, electoral reforms",
+        "order": 3,
+        "cite": "U13"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Politics and ethics must go together; otherwise democracy degenerates into tyranny of majority or kleptocracy",
+        "order": 4,
+        "cite": "U13"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP4_09",
+    "paper_title": "GS Paper 4",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 20,
+    "importance": 2,
+    "question_text": "A Public Information Officer has received an application under RTI Act... (full case study).\nThe following are some suggested options... Also indicate what you would like to advise, giving proper reasons. (250 words)",
+    "is_structured": 0,
+    "last_updated": 1747488000,
+    "cite": "U13",
+    "q_number": "Q9",
+    "points": [
+      {
+        "section": "General",
+        "text": "Option (i) – Refer to superior and follow advice. Merits: follows hierarchy, avoids personal risk. Demerits: abdicates own responsibility, may perpetuate wrong decision, violates RTI spirit (transparency), moral cowardice",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Option (ii) – Go on leave or transfer application. Merits: temporary escape, avoids immediate conflict. Demerits: unethical evasion of duty, misconduct under conduct rules, problem remains for successor, betrays public trust",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Option (iii) – Disclose partially to protect career. Merits: avoids worst consequences, expedient. Demerits: illegal (RTI requires full disclosure), undermines rule of law, sets wrong precedent, compromises integrity",
+        "order": 3,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Option (iv) – Consult colleagues. Merits: collective responsibility, shared risk. Demerits: colleagues are party to wrong decision – potential cover-up, no guarantee of ethical advice, groupthink",
+        "order": 4,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Suggested advice: Disclose fully as per RTI Act (Section 7). Take responsibility for past wrong decision but rectify by being transparent. Face disciplinary action if warranted. Use lawful remedies (appeal to CIC if pressured). Uphold constitutional morality over career. Reason: RTI is for transparency; nondisclosure perpetuates corruption and violates oath of office",
+        "order": 5,
+        "cite": "U13"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP4_10",
+    "paper_title": "GS Paper 4",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 20,
+    "importance": 2,
+    "question_text": "You are working as an Executive Engineer... (full case study on flyover safety).\nWhat will you do? Evaluate options and suggest course of action. (250 words)",
+    "is_structured": 0,
+    "last_updated": 1747488000,
+    "cite": "U13",
+    "q_number": "Q10",
+    "points": [
+      {
+        "section": "General",
+        "text": "Option (i) – Follow Chief Engineer's advice. Merits: obeys superior, avoids conflict, project completes on time. Demerits: compromises public safety, violation of engineering ethics, potential collapse risk, criminal negligence, personal liability",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Option (ii) – Make exhaustive report, seek written orders. Merits: documents dissent, shifts responsibility to superior, protects self in audit/inquiry. Demerits: may still cause delay, but written orders create evidence; safest ethical option",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Option (iii) – Call JE explanation, order contractor rectification. Merits: directly addresses safety issue. Demerits: overrides Chief Engineer, insubordination, contractor may refuse without CE approval",
+        "order": 3,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Option (iv) – Escalate above Chief Engineer. Merits: bypasses corrupt/non-cooperative superior, alerts higher authorities. Demerits: risks career retaliation, may violate hierarchy norms",
+        "order": 4,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Option (v) – Seek transfer or report sick. Merits: avoids dilemma. Demerits: abdication of duty, problem persists, unethical evasion",
+        "order": 5,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Recommended: Option (ii) – Prepare detailed report with facts, photos, technical analysis. Submit to Chief Engineer with request for written orders. Simultaneously, record proceedings in file. If written order to ignore, forward to next level with note of dissent. Uphold public safety as paramount (engineering ethics code)",
+        "order": 6,
+        "cite": "U13"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP4_11",
+    "paper_title": "GS Paper 4",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 25,
+    "importance": 2,
+    "question_text": "Sivakasi firecracker cluster case study (child labour).\n(a) Bring out and discuss the ethical issues involved.\n(b) What would be your reaction after your above visit? (300 words)",
+    "is_structured": 0,
+    "last_updated": 1747488000,
+    "cite": "U13",
+    "q_number": "Q11",
+    "points": [
+      {
+        "section": "General",
+        "text": "(a) Ethical issues: exploitation of children (denial of education, health hazards), legal evasion (household-work projection despite employing non-relatives), conflict between economic development and child rights, complicity of owners, inadequate enforcement (14 vs 18 years ILO norm), moral hazard of cheap labor incentivizing child labour, right to dignity vs. poverty-driven choice",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "(b) Reaction: immediate concern for children's welfare. Steps: 1) Document evidence (photos, statements) discreetly. 2) Report to District Magistrate, Labour Department, NCPCR. 3) Advocate for stricter enforcement of Child Labour (Prohibition & Regulation) Act (amended 2016 banning all work under 14). 4) Suggest rehabilitation: education via NCLP schools, financial support for families (PM Cares for children), skill training for adults. 5) Raise awareness about hazards (firecracker industry – burns, respiratory diseases). 6) Engage with industry associations for compliance and alternative livelihoods. Ensure no immediate confrontation that endangers children or yourself; follow legal protocol",
+        "order": 2,
+        "cite": "U13"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP4_12",
+    "paper_title": "GS Paper 4",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 20,
+    "importance": 2,
+    "question_text": "You are heading a leading technical institute... (case study on interview selection and funding).\n(a) What are the options available to you?\n(b) Evaluate each of these options and choose the option which you would adopt, giving reasons. (250 words)",
+    "is_structured": 0,
+    "last_updated": 1747488000,
+    "cite": "U13",
+    "q_number": "Q12",
+    "points": [
+      {
+        "section": "General",
+        "text": "Options: (i) Succumb to pressure and favor the relative – unethical, illegal, compromises merit. (ii) Refuse outright and risk funding denial. (iii) Report the matter to anti-corruption body / higher authority. (iv) Proceed with fair selection but document the call for future reference. (v) Seek intervention of institute's Board of Governors or Ethics Committee",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Evaluation: (i) – gains funding but destroys institution's reputation, violates UGC norms, sets bad precedent, personal liability. (ii) – ethically correct but may harm institute's development. (iii) – exposes corruption but may burn bridges. (iv) – conducts fair interview but leaves threat alive. (v) – collective decision, shared responsibility",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Recommended: Option (v) combined with (iv). Inform Board of Governors about the call without naming (to protect identity) and seek institutional protection. Conduct selection strictly on merit with transparent evaluation criteria. Record the call details confidentially. If the relative is selected on merit, no issue; if not, reject. Simultaneously, pursue funding through proper channels. If funding denied, raise the matter officially through RTI/media as last resort. Uphold institutional integrity over personal gain",
+        "order": 3,
+        "cite": "U13"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP4_13",
+    "paper_title": "GS Paper 4",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 20,
+    "importance": 2,
+    "question_text": "As a senior officer in the Finance Ministry... (case study on insider information to builder).\n(a) What are the options available to you?\n(b) Evaluate each of these options and choose the option which you would adopt, giving reasons. (250 words)",
+    "is_structured": 0,
+    "last_updated": 1747488000,
+    "cite": "U13",
+    "q_number": "Q13",
+    "points": [
+      {
+        "section": "General",
+        "text": "Options: (i) Disclose information to builder as asked – insider trading, illegal under SEBI Act, violation of Official Secrets Act. (ii) Refuse politely and explain legal/ethical reasons. (iii) Report the superior's request to Central Vigilance Commission or Cabinet Secretary. (iv) Seek written order from superior before disclosure. (v) Resign/seek transfer to avoid conflict",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Evaluation: (i) – personal gain (promotion/bonus?) but criminal offense, loss of career, jail term, damage to public trust. (ii) – maintains integrity but risks displeasing superior, possible retaliation. (iii) – whistleblowing may lead to departmental action against superior, but also personal risk. (iv) – creates evidence, but superior may not give written order. (v) – avoids direct confrontation but abdicates responsibility",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Recommended: Option (ii) – Clearly refuse, citing Civil Service Conduct Rules (Rule 11 – confidentiality), SEBI (Prohibition of Insider Trading) Regulations, and personal ethics. Explain that disclosure would harm market integrity. Advise superior to follow proper procedures. If pressured, escalate to Secretary/ Cabinet Secretary with documented evidence. Maintain confidentiality of policy until official announcement. Uphold constitutional morality and public interest over career concerns",
+        "order": 3,
+        "cite": "U13"
+      }
+    ]
+  },
+  {
+  "uid": "UPSC_2013_GSP4_14",
+  "paper_title": "GS Paper 4",
+  "year": 2013,
+  "exam": "UPSC",
+  "origin": "PYQ",
+  "vault_path": null,
+  "marks": 20,
+  "importance": 2,
+  "question_text": "You are the Executive Director of an Infotech Company... (case study on sexual harassment at workplace).\n(a) What are the options available to you?\n(b) Evaluate each of these options and choose the option you would adopt, giving reasons. (250 words)",
+  "is_structured": 0,
+  "last_updated": 1747488000,
+  "cite": "U13",
+  "q_number": "Q14",
+  "points": [
+    {
+      "section": "General",
+      "text": "Options available:\n(i) Ignore complaint to retain star performer – unethical, illegal under POSH Act.\n(ii) Counsel Mr. A informally and warn him – inadequate, may repeat.\n(iii) Accept Mrs. X's resignation without action – fails duty of care.\n(iv) Initiate formal inquiry under POSH Act (Internal Complaints Committee).\n(v) Suspend Mr. A pending inquiry, transfer him, or terminate after proven misconduct.\n(vi) Offer mediation if complainant agrees.",
+      "order": 1,
+      "cite": "U13"
+    },
+    {
+      "section": "General",
+      "text": "Evaluation of options:\n(i) Ignore – violates law (POSH Act 2013), exposes company to liability, demoralizes workforce, sets toxic culture.\n(ii) Counseling – insufficient deterrent, does not protect potential future victims, trivializes serious misconduct.\n(iii) Accept resignation – abdication of duty, tacit approval of harassment, fails to provide safe workplace.\n(iv) Formal inquiry – lawful, fair, protects both parties; may lose performer but upholds ethics and legal compliance.\n(v) Suspension/termination – strong action if proven; may be seen as harsh but justified for physical misconduct.\n(vi) Mediation – unsuitable for severe cases (physical touch, unwanted advances); undermines severity.",
+      "order": 2,
+      "cite": "U13"
+    },
+    {
+      "section": "General",
+      "text": "Recommended option: (iv) – Initiate formal inquiry under POSH Act.\nSteps:\n- Immediately form Internal Complaints Committee (ICC) as per POSH Act 2013.\n- Get written complaint from Mrs. X (if she withdraws resignation, encourage her to stay).\n- Notify Mr. A, conduct inquiry with confidentiality and natural justice.\n- Ensure no retaliation against complainant.\n- Pending inquiry, separate Mr. A from Mrs. X's team.\n- If misconduct proven, take disciplinary action (warning, transfer, or termination based on severity).\n- Conduct company-wide POSH training.\nReason: Prioritize women's safety and legal compliance over short-term business interests. True leadership values ethics over profits. Allows due process for both parties.",
+      "order": 3,
+      "cite": "U13"
+    }
+  ]
+}
+]
