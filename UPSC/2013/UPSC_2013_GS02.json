@@ -640,52 +640,52 @@
     ]
   },
   {
-    "uid": "UPSC_2013_GSP2_15",
-    "paper_title": "GS Paper 2",
-    "year": 2013,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 10,
-    "importance": 2,
-    "question_text": "Identify the Millennium Development Goals (MDGs) that are related to health. Discuss the success of the actions taken by the Government for achieving the same. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
-    "cite": "U13",
-    "q_number": "Q15",
-    "points": [
-      {
-        "section": "Intro",
-        "text": "MDGs (2000-2015) – 8 goals; health-related: Goal 4 (child mortality), Goal 5 (maternal health), Goal 6 (HIV/AIDS, malaria, TB)",
-        "order": 1,
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Government actions: NRHM (now NHM), JSY (cash incentive for institutional delivery), Janani Shishu Suraksha Karyakram, RBSK, National AIDS Control Programme, Revised National TB Control Programme",
-        "order": 2,
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Successes: MMR reduced from 398 (1997-98) to 167 (2011-13); IMR from 66 to 40; TB incidence declined; malaria mortality reduced",
-        "order": 3,
-        "cite": "U13"
-      },
-      {
-        "section": "Body",
-        "text": "Shortfalls: malnutrition remained high, some states lagged, MDG 5 target (109) missed",
-        "order": 4,
-        "cite": "U13"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Significant progress but uneven; lessons inform SDG health targets (3)",
-        "order": 5,
-        "cite": "U13"
-      }
-    ]
-  },
+  "uid": "UPSC_2013_GSP2_15",
+  "paper_title": "GS Paper 2",
+  "year": 2013,
+  "exam": "UPSC",
+  "origin": "PYQ",
+  "vault_path": null,
+  "marks": 10,
+  "importance": 2,
+  "question_text": "Identify the Millennium Development Goals (MDGs) that are related to health. Discuss the success of the actions taken by the Government for achieving the same. (200 words)",
+  "is_structured": 0,
+  "last_updated": 1747488000,
+  "cite": "U13",
+  "q_number": "Q15",
+  "points": [
+    {
+      "section": "General",
+      "text": "Health-related Millennium Development Goals (MDGs): Goal 4 – Reduce child mortality; Goal 5 – Improve maternal health; Goal 6 – Combat HIV/AIDS, malaria and other diseases",
+      "order": 1,
+      "cite": "U13"
+    },
+    {
+      "section": "General",
+      "text": "Government actions: National Rural Health Mission (NRHM, now NHM), Janani Suraksha Yojana (JSY) for institutional deliveries, Janani Shishu Suraksha Karyakram (JSSK), Rashtriya Bal Swasthya Karyakram (RBSK), National AIDS Control Programme (NACP), Revised National Tuberculosis Control Programme (RNTCP), National Vector Borne Disease Control Programme (NVBDCP)",
+      "order": 2,
+      "cite": "U13"
+    },
+    {
+      "section": "General",
+      "text": "Success indicators: Maternal Mortality Ratio (MMR) reduced from 398 (1997-98) to 167 (2011-13); Infant Mortality Rate (IMR) from 66 to 40; Under-5 mortality declined; TB incidence and mortality reduced; Malaria deaths decreased significantly",
+      "order": 3,
+      "cite": "U13"
+    },
+    {
+      "section": "General",
+      "text": "Shortfalls: MDG 5 target (MMR 109) missed; malnutrition remained high (stunting, wasting); regional disparities persisted (UP, Bihar, MP lagged); HIV targets partially met",
+      "order": 4,
+      "cite": "U13"
+    },
+    {
+      "section": "General",
+      "text": "Key takeaways: Significant progress but uneven; lessons inform SDG 3 (Good Health and Well-being) targets; need focus on quality, equity, and social determinants",
+      "order": 5,
+      "cite": "U13"
+    }
+  ]
+},
   {
     "uid": "UPSC_2013_GSP2_16",
     "paper_title": "GS Paper 2",
