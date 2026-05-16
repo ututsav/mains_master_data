@@ -1,0 +1,1026 @@
+[
+  {
+    "uid": "UPPSC_2024_GSP3_01",
+    "paper_title": "GS Paper 3",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": 4,
+    "question_text": "Highlight the key components of upstream and downstream activities in food processing supply chain management with suitable examples. (125 words)",
+    "is_structured": 0,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "q_number": 1,
+    "points": [
+      {
+        "section": "Body",
+        "text": "Upstream Components - Inputs and Sourcing: Involves the procurement of raw materials, seed supply, fertilizers, and initial farm-level management. Examples include Contract farming agreements by firms like ITC with potato farmers for its Bingo brand.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Upstream Components - Primary Processing and Logistics: Encompasses initial post-harvest steps including cleaning, sorting, grading, and raw material transport from fields to collection hubs. An example is the aggregation of raw milk at village-level cooperative collection centres by Amul.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Downstream Components - Manufacturing and Secondary Processing: Focuses on converting raw agricultural commodities into value-added, stable consumable goods. Examples include transforming raw tomatoes into purees and ketchups within processing units.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Downstream Components - Distribution and Retail Marketing: Handles final storage, cold-chain transport logistics, wholesale distribution networks, and final retail sales. An example is distributing packaged juices or frozen foods to supermarkets and quick-commerce dark stores.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_GSP3_02",
+    "paper_title": "GS Paper 3",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": 4,
+    "question_text": "Give a brief account of measures adopted by the Government to provide adequate credit to the farmers. (125 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "q_number": 2,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "To break the cycle of exploitative informal money lending and improve crop yields, the Government of India has instituted a series of institutional and tech-driven rural credit measures.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Kisan Credit Card (KCC) Scheme: Provides farmers with timely, flexible, and simplified credit access from commercial banks to meet cultivation expenses, post-harvest costs, and asset maintenance.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Priority Sector Lending (PSL) Mandates: The Reserve Bank of India forces commercial banks to allocate a mandatory 18% of their Adjusted Net Bank Credit specifically to agriculture, ensuring continuous institutional funding.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Interest Subvention Scheme (ISS): Subsidizes short-term crop loans up to 3 lakh rupees, providing credit at an effective concessionary rate of 4% per year upon prompt repayment by the borrower.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Institutional Strengthening: Expanding the reaching capacity of Regional Rural Banks (RRBs), Primary Agricultural Credit Societies (PACS), and the Refinancing support operations managed by NABARD.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "While financial inclusion metrics have scaled significantly, transitioning from generic crop loans toward long-term capital investment credit remains essential for sustainable farm growth.",
+        "order": 6,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_GSP3_03",
+    "paper_title": "GS Paper 3",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": 3,
+    "question_text": "Was the 'Bhoodan Movement' a part of land reforms in India? Discuss its major effects. (125 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "q_number": 3,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Initiated by Acharya Vinoba Bhave in 1951 at Pochampally, the Bhoodan Movement functioned as a unique, voluntary, and non-governmental dimension of broader post-independence land reform efforts.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Integration with Land Reform Pillars: While state-led land reforms relied on legislative compulsion (such as zamindari abolition, tenancy protection, and land ceilings), Bhoodan complemented these efforts via persuasive moral appeal to achieve voluntary land redistribution.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Major Effect - Land Accumulation: The movement successfully collected over 40 lakh acres of land through voluntary donations from large landholders, highlighting an alternative path toward peaceful agrarian restructuring.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Major Effect - Operational Failures: A vast percentage of the donated land turned out to be legally disputed, uncultivable waste, or barren tracts, and actual distribution to landless Scheduled Castes remained administratively slow.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Major Effect - Evolution to Gramdan: The movement expanded into 'Gramdan', persuading entire villages to pool landownership, which directly fostered early decentralized, cooperative community development models.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Although its structural targets fell short, Bhoodan successfully reduced immediate rural class tensions and highlighted moral suasion as a tool for economic justice.",
+        "order": 6,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_GSP3_04",
+    "paper_title": "GS Paper 3",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": 4,
+    "question_text": "How does the New Economic Policy change the structure of employment in India? Evaluate. (125 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "q_number": 4,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The New Economic Policy (NEP) of 1991, driven by Liberalisation, Privatisation, and Globalisation, shifted the domestic labor marketplace from state-led industrial models to market-oriented systems.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Accelerated Tertiary Sector Dominance: Bypassed the classic structural transition from agriculture directly into manufacturing, moving labor demand into fast-growing service sectors like IT, banking, telecom, and hospitality.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Informalization and Casualization: Intensified industrial cost competition pushed formal enterprises to outsource operations, driving up the share of contract workers and informal labor lacking stable social security protection.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Emergence of the Gig and Platform Economy: Deregulation and digital adoption led to modern platform employment ecosystems, providing flexible, high-volume entry-level jobs but challenging traditional labor safety nets.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Skill-Biased Labor Sorting: Created a sharp wage premium for highly skilled, English-speaking technical talent, widening the economic divide relative to low-skilled rural manual workers.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "While the NEP broke formal stagnation and created diverse service-sector jobs, it left India with an employment mismatch, needing urgent manufacturing expansions to absorb surplus low-skilled labor.",
+        "order": 6,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_GSP3_05",
+    "paper_title": "GS Paper 3",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": 4,
+    "question_text": "'India is experiencing the phase of population-dividend'. In this context, discuss the measures adopted by the Government to tackle appropriately the problem of unemployment in the country. (125 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "q_number": 5,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "With over 65% of its population within the working-age bracket, India is navigating a vital demographic window, requiring structured state action to convert this manpower into economic growth rather than an unemployment crisis.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Skill Upgradation Initiatives: Programs like Skill India and the Pradhan Mantri Kaushal Vikas Yojana (PMKVY) aim to standardize vocational training and align youth skills with modern industrial requirements.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Fostering Self-Employment and Startups: Financial credit interventions such as the PM Mudra Yojana and Stand-Up India provide collateral-free capital to first-generation entrepreneurs, transforming job-seekers into job-creators.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Promoting Job-Intensive Manufacturing: Schemes like Production Linked Incentives (PLI) and Make in India target industrial capacity building in electronics, textiles, and auto-components to absorb mass semi-skilled labor.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Public Infrastructure Employment: Massive budgetary expansions in physical asset building (via PM Gati Shakti, highways, and housing) serve as primary immediate cyclical employment anchors for the construction workforce.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Successfully utilizing this demographic asset relies on combining immediate public employment options with deeper educational and labor market structural reforms.",
+        "order": 6,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_GSP3_06",
+    "paper_title": "GS Paper 3",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": 4,
+    "question_text": "What are major initiatives of Government of India for promoting technology-based solutions for rural upliftment? (125 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "q_number": 6,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Government of India deploys targeted digital and technology-driven interventions to revitalize the rural economy, bridging infrastructure, financial, and informational divides.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Digital Agricultural Market Integration: The e-NAM (National Agriculture Market) platform provides an online pan-India trading network for agricultural commodities, improving price transparency and cutting middleman dependencies.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Precision Farming and Spatial Tracking: The PM Fasal Bima Yojana leverages satellite imagery, remote sensing, and drone technology to accurately assess crop damage, accelerating processing.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Securing Rural Property Rights: The SVAMITVA scheme uses advanced drone surveying to map village inhabited areas, issuing formal property cards that enable rural households to leverage assets for bank credit.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Broadband and Digital Literacy Hubs: The BharatNet project lays optic fiber cables across Gram Panchayats, supported by PM-WANI and Common Service Centres (CSCs) to deliver e-governance and telehealth services.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "By digitizing records, finances, and trading networks, tech solutions turn traditional villages into connected, economically empowered hubs.",
+        "order": 6,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_GSP3_07",
+    "paper_title": "GS Paper 3",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": 4,
+    "question_text": "What is digital arrest? Which are the States most effected by the problem of digital arrest in India in the last three years? Mention the effective measures taken by the Government of India in this direction. (125 words)",
+    "is_structured": 0,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "q_number": 7,
+    "points": [
+      {
+        "section": "Body",
+        "text": "Definition of Digital Arrest: A sophisticated cyber fraud technique where criminals impersonate law enforcement officers (CBI, Customs, or Police) via video calls, falsely accusing victims of illegal packages or money laundering, and forcing them into continuous isolation while demanding ransom.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Most Affected States: Cybercrime tracking metrics identify Maharashtra, Karnataka, Telangana, Tamil Nadu, and Delhi NCR as the regional clusters experiencing the highest volumes of targeted digital arrest scams over the last three years.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Government Measure - I4C Coordination: The Indian Cyber Crime Coordination Centre (I4C) under the MHA actively tracks, coordinates across states, and blocks thousands of mule bank accounts and international skype handles used by syndicate networks.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Government Measure - Portal and Telecom Crackdown: Establishing the National Cyber Crime Reporting Portal (cybercrime.gov.in) for immediate financial freezing, alongside the Chakshu facility on Sanchar Saathi to block fraudulent SIM cards.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_GSP3_08",
+    "paper_title": "GS Paper 3",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": 4,
+    "question_text": "Describe the role of Artificial Intelligence in the safety and security during disaster management. (125 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "q_number": 8,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Artificial Intelligence (AI) transforms traditional reactive disaster handling into proactive, data-driven management models, mitigating human and economic losses.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Early Warning and Predictive Analytics: AI algorithms process real-time meteorological and seismic datasets to forecast extreme weather hazards, modeling flood propagation paths or hurricane paths with precision.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Automated Rescue Coordination: During active disasters, AI-powered computer vision scans drone footage to identify stranded individuals in flooded or debris-covered areas, optimizing emergency team deployments.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Intelligent Critical Infrastructure Defense: Smart monitoring tools predict localized power grid vulnerabilities, automate gas line shutdowns to prevent secondary fires, and optimize emergency evacuation routes.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Post-Disaster Structural Review: Machine learning models compare pre- and post-event satellite imagery to instantly map damaged buildings, helping administrative bodies deploy rehabilitation resources.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Fusing AI tools into state disaster response frameworks significantly minimizes human error, shortens search-and-rescue timelines, and builds safer urban spaces.",
+        "order": 6,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_GSP3_09",
+    "paper_title": "GS Paper 3",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": 3,
+    "question_text": "Mention the role of Indian Defence Research and Development Organisation in India's security set-up. (125 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "q_number": 9,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Defence Research and Development Organisation (DRDO) serves as the primary scientific anchor of India's national security setup, driving self-reliance across strategic military domains.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Strategic Nuclear Deterrence: DRDO anchors India’s nuclear triad by developing the Agni series of ballistic missiles and the K-series submarine-launched ballistic missiles (SLBMs).",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Missile Defense and Aerospace Progress: Designed the indigenous Akash and MR-SAM air defense systems, alongside weapon systems like the Light Combat Aircraft (LCA) Tejas and the Pinaka multi-barrel rocket launcher.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Naval and Tactical Systems: Develops sonar arrays, advanced torpedoes (e.g., Varunastra), combat vehicles like the Arjun Main Battle Tank, and electronic warfare suites for naval vessels.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Indigenous Defense Manufacturing Hub: Facilitates domestic military production under 'Aatmanirbhar Bharat' by transferring core technologies to local public and private entities.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "By shifting defense procurement from import dependence to indigenous innovation, DRDO strengthens India's sovereign defense posture.",
+        "order": 6,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_GSP3_10",
+    "paper_title": "GS Paper 3",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": 3,
+    "question_text": "Outline the major challenges faced by the coast guard of India and explain the efforts taken to deal with them. (125 words)",
+    "is_structured": 0,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "q_number": 10,
+    "points": [
+      {
+        "section": "Body",
+        "text": "Challenge - Expansive Maritime Jurisdiction: Monitoring a vast 7,516 km coastline and an Exclusive Economic Zone (EEZ) exceeding 20 million square kilometers creates continuous enforcement strains on surveillance assets.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Challenge - Asymmetric Transnational Threats: Tracking irregular maritime migration, multi-state drug smuggling syndicates, illegal unregulated fishing by foreign trawlers, and localized coastal infiltration vulnerabilities.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Effort - Coastal Radar Chain Network: Executing the National Command Control Communication and Intelligence Network (NC3I) to provide continuous, real-time radar tracking across the entire country's shoreline.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Effort - Inter-Agency Coordination and Automation: Standardizing joint coastal security exercises (like 'Sagar Kavach'), distributing biometric identity cards to artisanal fishermen, and matching tracking systems through the Information Management and Analysis Centre (IMAC).",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_GSP3_11",
+    "paper_title": "GS Paper 3",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": 4,
+    "question_text": "Does inclusive growth ensure social justice? Discuss. What steps have been taken by the Government of India for bringing inclusive growth with social justice? Elucidate your answer. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "q_number": 11,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Inclusive growth goes beyond simple GDP expansion to ensure that benefits are distributed equitably across all societal segments, acting as a structural prerequisite for achieving constitutional social justice.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "The Link to Social Justice: Pure economic growth can worsen wealth disparity without deliberate state intervention. Inclusive growth provides marginalized groups with access to education, healthcare, and equal opportunities, shifting social justice from a legal ideal into an accessible reality.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Financial Inclusion Steps: The Pradhan Mantri Jan Dhan Yojana (PMJDY) dismantled banking exclusion by bringing over 50 crore low-income citizens into the formal financial ecosystem, establishing the framework for direct assistance.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Social Safety Infrastructure: Programs like Ayushman Bharat (PM-JAY) provide secondary and tertiary healthcare covers to vulnerable families, protecting low-income households from health-related economic shocks.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Targeted Asset Creation: Interventions such as PM Awas Yojana (rural and urban housing), PM Ujjwala Yojana (clean cooking gas), and the Jal Jeevan Mission address multi-dimensional poverty by delivering vital household utilities.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "While structural delivery has expanded, ensuring equitable job growth and closing quality gaps in public education remain critical to fully realizing inclusive growth with social justice.",
+        "order": 6,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_GSP3_12",
+    "paper_title": "GS Paper 3",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": 4,
+    "question_text": "\"Budgets are half used if they serve only as planning device\". Critically examine this statement. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "q_number": 12,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The statement emphasizes that while fiscal planning and resource allocation are foundational, a budget's success ultimately depends on its execution, transparency, and output management.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Limitations of Pure Planning Focus: When administrative focus shifts exclusively to allocations, budgets risk becoming rigid financial exercises. High targeted allocations look impressive on paper but can result in under-utilization or end-of-year rush spending if delivery systems are weak.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "The Need for Accountability: A comprehensive budget must function as a tool for public accountability. Without robust tracking, performance reviews, and financial monitoring, planned resources can be lost to systemic leakages.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Transition to Outcome Budgeting: To address this challenge, India introduced formal Outcome Budgeting. This model shifts the administrative focus from tracking nominal financial inputs to measuring tangible physical outcomes, ensuring public funds deliver measurable community benefits.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Macroeconomic Management and Stability: Beyond planning, active budgetary implementation serves as a vital tool for mid-year adjustments, allowing the state to respond dynamically to economic shocks, manage inflation, and stabilize revenue collections.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Treating a budget as an evolving operational guide rather than a rigid planning ledger ensures that fiscal policies translate directly into transparent economic development.",
+        "order": 6,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_GSP3_13",
+    "paper_title": "GS Paper 3",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": 4,
+    "question_text": "Assess the role of States and Central Government in developing irrigation infrastructure in India. How has Pradhan Mantri Krishi Sinchayee Yojana (P.M.K.S.Y.) helped in improving irrigation access across the country? (200 words)",
+    "is_structured": 0,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "q_number": 13,
+    "points": [
+      {
+        "section": "Body",
+        "text": "Constitutional Roles - Center and States: Water falls under the State List of the Seventh Schedule, making state governments primarily responsible for executing physical irrigation projects, canal maintenance, and local water distribution networks.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Central Government Capital and Strategy: The Central Government provides overarching policy direction, financial assistance, and long-term capital support through agencies like NABARD, managing interstate water basin projects and national missions.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "PMKSY Component - Accelerated Irrigation Benefits Programme (AIBP): Focuses on accelerating the completion of delayed major and medium irrigation projects, expanding physical canal networks to clear long-standing project backlogs.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "PMKSY Component - Har Khet Ko Pani (HKKP): Expands cultivable land under institutional command through groundwater management, restoring traditional water bodies, and building new small-scale irrigation structures.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "PMKSY Component - Per Drop More Crop: Promotes precision water management by subsidizing micro-irrigation systems (drip and sprinkler networks) to improve water-use efficiency and reduce waste.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "PMKSY Component - Watershed Development: Emphasizes rainwater harvesting and localized soil moisture conservation to recharge groundwater levels across rain-fed agricultural zones.",
+        "order": 6,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_GSP3_14",
+    "paper_title": "GS Paper 3",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": 4,
+    "question_text": "Critically evaluate the strategy of poverty alleviation programmes in India, in recent years. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "q_number": 14,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "In recent years, India’s approach to poverty alleviation has transitioned from broad subsidization models toward targeted asset creation, financial inclusion, and technology-driven direct benefit transfers.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "The JAM-DBT Efficiency Gain: The combination of Jan Dhan accounts, Aadhaar verification, and Mobile connectivity successfully reduced administrative leakages, ensuring that social assistance reaches designated beneficiaries directly.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Shifting to Tangible Asset Creation: Giving priority to providing durable assets—such as houses under PM Awas Yojana, electricity connections via Saubhagya, and piped water via Jal Jeevan Mission—has structurally reduced multidimensional poverty metrics.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Rural Employment Safeguards: The MGNREGA program continue to serve as a vital rural safety net, providing crucial minimum wage support during agricultural off-seasons and periods of economic distress.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Persistent Structural Limitations: Despite positive macro shifts, challenges remain. High inclusion and exclusion errors persist due to outdated data, while many programs focus on short-term relief rather than creating sustainable, high-paying jobs in rural areas.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Sustaining poverty reduction progress requires moving beyond safety-net provisions toward building high-quality public health and education systems that improve economic mobility.",
+        "order": 6,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_GSP3_15",
+    "paper_title": "GS Paper 3",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": 4,
+    "question_text": "What do you understand by buffer stock? Is it essential for food security in India? Explain clearly. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "q_number": 15,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "A buffer stock refers to a strategic reserve of essential food grains—primarily wheat and rice—procured and maintained by the government through the Food Corporation of India (FCI) to stabilize supplies and manage market fluctuations.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Managing Production Shocks: Given India's reliance on monsoons, buffer stocks are crucial for national food security. They provide a vital safety reserve during droughts, crop failures, or unexpected weather disruptions.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Sustaining the Social Safety Net: These reserves supply the continuous grain requirements for the National Food Security Act (NFSA) and the Pradhan Mantri Garib Kalyan Anna Yojana (PM-GKAY), which support over 80 crore beneficiaries.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Market Price Stabilization: When retail food prices spike due to hoarding or production deficits, the government can release grain into the open market via the Open Market Sale Scheme (OMSS) to check food inflation.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Storage and Management Challenges: However, keeping excessive reserves leads to financial challenges, including high storage costs, grain rotting risk in open yards, and capital locking that impacts fiscal management.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "While buffer stocks remain essential to protect India from hunger and supply shocks, upgrading to modern silo networks and rationalizing buffer limits are critical to reducing administrative waste.",
+        "order": 6,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_GSP3_16",
+    "paper_title": "GS Paper 3",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": 3,
+    "question_text": "Compare Indian Knowledge Tradition based aeronautics with modern aeronautics. Mention the policies of the Department of Science and Technology for the research in this field. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "q_number": 16,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Comparing historical perspectives from the Indian Knowledge System (IKS) with contemporary aerospace engineering offers unique insights into the evolution of flight concepts and material sciences.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Conceptual and Structural Comparison: Ancient Indian texts, such as discussions on Vaimanika Shastra, approach flight through qualitative philosophies, emphasizing unique aerodynamics, complex multi-metal alloys, and energy generation concepts. Modern aeronautics operates on empirical, mathematical engineering, relying on fluid dynamics, thermodynamics, and composite materials.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Metallurgical Insights: Ancient records describe complex material processing and corrosion-resistant metal mixtures. Modern aerospace engineering applies specialized computational metallurgy, developing lightweight titanium alloys and carbon fiber composites to survive extreme atmospheric stress.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "DST Policy - Formal IKS Research Support: The Department of Science and Technology (DST) manages dedicated funding lines to scientifically validate classical insights through modern experimental testing.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "DST Policy - Interdisciplinary Integration: DST policies emphasize collaboration between traditional Sanskrit scholars and modern institutional engineers (such as IITs and IISc) to study historical manufacturing, chemical treatments, and materials science applications.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Systematic scientific evaluation allows India to bridge historical knowledge traditions with modern aerospace research, discovering new paths for material innovation.",
+        "order": 6,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_GSP3_17",
+    "paper_title": "GS Paper 3",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": 4,
+    "question_text": "What are the ecologically sensitive areas in India? Mention the policies of the Government of India for their protection. (200 words)",
+    "is_structured": 0,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "q_number": 17,
+    "points": [
+      {
+        "section": "Body",
+        "text": "Ecologically Sensitive Area - The Western Ghats: A global biodiversity hotspot facing threats from infrastructure development and mining, with conservation guidelines shaped by the Madhav Gadgil and K. Kasturirangan committee reports.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Ecologically Sensitive Area - The Himalayan Ecosystem: A highly fragile alpine terrain vulnerable to climate-induced glacial lake outbursts, landslides, and unsustainable tourism construction.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Ecologically Sensitive Area - Coastal Mangroves and Coral Reefs: Includes fragile marine areas like the Sundarbans, the Gulf of Mannar, and the Lakshadweep coral ecosystems, which are vulnerable to climate change and industrial pollution.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Policy Measure - Section 3 of the Environment (Protection) Act: The Ministry of Environment, Forest and Climate Change (MoEFCC) notifies explicit Ecologically Sensitive Zones (ESZs) around National Parks and Wildlife Sanctuaries to act as transition buffers.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Policy Measure - Coastal Regulation Zone (CRZ) Notifications: Restricts industrial setups, commercial construction, and waste disposal within designated distances from the high tide line to protect marine ecosystems.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Policy Measure - National Mission for Sustaining the Himalayan Ecosystem (NMSHE): A dedicated policy framework under the NAPCC designed to track glacial health, preserve mountain biodiversity, and guide sustainable infrastructure planning.",
+        "order": 6,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_GSP3_18",
+    "paper_title": "GS Paper 3",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": 4,
+    "question_text": "What are 'Social Networking Sites' and how does their uncontrolled use increase the possibilities of cyber attacks ? (200 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "q_number": 18,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Social Networking Sites (SNS) are digital platforms that enable users to construct public profiles, interact with networks, and share content, transforming global communication but also creating significant cyber security vulnerabilities.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Facilitating Advanced Social Engineering: Uncontrolled personal sharing provides hackers with detailed insights into user habits, family linkages, and locations. Cybercriminals leverage this data to draft highly targeted phishing emails or spear-phishing messages.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Identity Theft and Profile Cloning: Lax privacy controls allow malicious actors to clone legitimate user accounts, using them to defraud network connections or damage personal and professional reputations.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Malware Distribution Networks: Malicious URLs, corrupted links, and fake advertisements spread rapidly across social timelines, tricking users into downloading ransomware or spyware onto unsecured personal devices.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Corporate and Infrastructure Risks: When employees reuse corporate credentials across personal social accounts or post sensitive workplace photos, they expose organizational networks to corporate espionage or systemic data breaches.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Mitigating social media cyber risks requires pairing robust data privacy legislation with regular user awareness campaigns focused on digital hygiene and secure account management.",
+        "order": 6,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_GSP3_19",
+    "paper_title": "GS Paper 3",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": 5,
+    "question_text": "Narco-terrorism has emerged as a serious threat across the country. Suggest suitable measures to counter it. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "q_number": 19,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Narco-terrorism represents a dangerous security challenge where syndicates merge illegal drug trafficking with established terrorist networks to fund insurgencies and destabilize the country.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "The Geopolitical Vulnerability: India's location between major illicit opium production hubs—the Golden Crescent to the west and the Golden Triangle to the east—leaves its borders highly vulnerable to drug transit and arms smuggling.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Border Surveillance Upgrades: Strengthening border defenses through Comprehensive Integrated Border Management Systems (CIBMS) that deploy anti-drone technologies, thermal trackers, and underground sensors to stop cross-border shipments.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Inter-Agency Financial Inquiries: Strengthening intelligence sharing between the Narcotics Control Bureau (NCB), National Investigation Agency (NIA), and Enforcement Directorate (ED) to track and freeze hawala channels and crypto transactions used to launder drug wealth.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "International Maritime Cooperation: Expanding joint naval and coast guard operations with Indian Ocean neighbors to intercept deep-sea drug shipments along the western maritime trading route.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Successfully countering narco-terrorism requires pairing strict border enforcement and financial intelligence with localized demand-reduction programs to protect vulnerable youth groups.",
+        "order": 6,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_GSP3_20",
+    "paper_title": "GS Paper 3",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": 4,
+    "question_text": "Discuss the functions of National Security Council of India. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "q_number": 20,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Established in 1998, the National Security Council (NSC) functions as the apex institutional body advising the Prime Minister’s Office on national security strategy, geopolitical challenges, and strategic threats.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Three-Tier Structure Foundation: The NSC operates through a specialized three-tiered organization: the Strategic Policy Group (SPG), the National Security Advisory Board (NSAB), and the Joint Intelligence Committee (JIC) secretariat.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Strategic Policy Formulation: The Strategic Policy Group (SPG), chaired by the Cabinet Secretary, coordinates inter-ministerial security reviews, integrating inputs from defense, home affairs, foreign relations, and finance to address long-term strategic vulnerabilities.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Comprehensive Intelligence Integration: The National Security Council Secretariat (NSCS) reviews and combines raw intelligence from domestic and international monitoring bodies (like RAW and IB), converting it into actionable national security briefs.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Emerging Security Protections: The NSC creates dedicated strategic policies to secure critical information infrastructure, manage space defense programs, and counter hybrid warfare, cyber warfare, and cross-border maritime challenges.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "By centralizing intelligence assessment and strategic planning, the NSC ensures that India's military, diplomatic, and economic policies align against evolving security challenges.",
+        "order": 6,
+        "cite": "UPPSC Mains 2024 GS Paper 3"
+      }
+    ]
+  }
+]
