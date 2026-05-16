@@ -333,106 +333,106 @@
       }
     ]
   },
+ {
+  "uid": "UPSC_2013_GSP4_09",
+  "paper_title": "GS Paper 4",
+  "year": 2013,
+  "exam": "UPSC",
+  "origin": "PYQ",
+  "vault_path": null,
+  "marks": 20,
+  "importance": 2,
+  "question_text": "A Public Information Officer has received an application under RTI Act... (full case study).\nThe following are some suggested options... Also indicate what you would like to advise, giving proper reasons. (250 words)",
+  "is_structured": 0,
+  "last_updated": 1747488000,
+  "cite": "U13",
+  "q_number": "Q9",
+  "points": [
+    {
+      "section": "General",
+      "text": "Option (i) – Refer to superior and follow advice.\nMerits: follows hierarchy, avoids personal risk.\nDemerits: abdicates own responsibility, may perpetuate wrong decision, violates RTI spirit (transparency), moral cowardice.",
+      "order": 1,
+      "cite": "U13"
+    },
+    {
+      "section": "General",
+      "text": "Option (ii) – Go on leave or transfer application.\nMerits: temporary escape, avoids immediate conflict.\nDemerits: unethical evasion of duty, misconduct under conduct rules, problem remains for successor, betrays public trust.",
+      "order": 2,
+      "cite": "U13"
+    },
+    {
+      "section": "General",
+      "text": "Option (iii) – Disclose partially to protect career.\nMerits: avoids worst consequences, expedient.\nDemerits: illegal (RTI requires full disclosure), undermines rule of law, sets wrong precedent, compromises integrity.",
+      "order": 3,
+      "cite": "U13"
+    },
+    {
+      "section": "General",
+      "text": "Option (iv) – Consult colleagues.\nMerits: collective responsibility, shared risk.\nDemerits: colleagues are party to wrong decision – potential cover-up, no guarantee of ethical advice, groupthink.",
+      "order": 4,
+      "cite": "U13"
+    },
+    {
+      "section": "General",
+      "text": "Suggested advice: Disclose fully as per RTI Act (Section 7).\nTake responsibility for past wrong decision but rectify by being transparent.\nFace disciplinary action if warranted.\nUse lawful remedies (appeal to CIC if pressured).\nUphold constitutional morality over career.\nReason: RTI is for transparency; nondisclosure perpetuates corruption and violates oath of office.",
+      "order": 5,
+      "cite": "U13"
+    }
+  ]
+},
   {
-    "uid": "UPSC_2013_GSP4_09",
-    "paper_title": "GS Paper 4",
-    "year": 2013,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 20,
-    "importance": 2,
-    "question_text": "A Public Information Officer has received an application under RTI Act... (full case study).\nThe following are some suggested options... Also indicate what you would like to advise, giving proper reasons. (250 words)",
-    "is_structured": 0,
-    "last_updated": 1747488000,
-    "cite": "U13",
-    "q_number": "Q9",
-    "points": [
-      {
-        "section": "General",
-        "text": "Option (i) – Refer to superior and follow advice. Merits: follows hierarchy, avoids personal risk. Demerits: abdicates own responsibility, may perpetuate wrong decision, violates RTI spirit (transparency), moral cowardice",
-        "order": 1,
-        "cite": "U13"
-      },
-      {
-        "section": "General",
-        "text": "Option (ii) – Go on leave or transfer application. Merits: temporary escape, avoids immediate conflict. Demerits: unethical evasion of duty, misconduct under conduct rules, problem remains for successor, betrays public trust",
-        "order": 2,
-        "cite": "U13"
-      },
-      {
-        "section": "General",
-        "text": "Option (iii) – Disclose partially to protect career. Merits: avoids worst consequences, expedient. Demerits: illegal (RTI requires full disclosure), undermines rule of law, sets wrong precedent, compromises integrity",
-        "order": 3,
-        "cite": "U13"
-      },
-      {
-        "section": "General",
-        "text": "Option (iv) – Consult colleagues. Merits: collective responsibility, shared risk. Demerits: colleagues are party to wrong decision – potential cover-up, no guarantee of ethical advice, groupthink",
-        "order": 4,
-        "cite": "U13"
-      },
-      {
-        "section": "General",
-        "text": "Suggested advice: Disclose fully as per RTI Act (Section 7). Take responsibility for past wrong decision but rectify by being transparent. Face disciplinary action if warranted. Use lawful remedies (appeal to CIC if pressured). Uphold constitutional morality over career. Reason: RTI is for transparency; nondisclosure perpetuates corruption and violates oath of office",
-        "order": 5,
-        "cite": "U13"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2013_GSP4_10",
-    "paper_title": "GS Paper 4",
-    "year": 2013,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 20,
-    "importance": 2,
-    "question_text": "You are working as an Executive Engineer... (full case study on flyover safety).\nWhat will you do? Evaluate options and suggest course of action. (250 words)",
-    "is_structured": 0,
-    "last_updated": 1747488000,
-    "cite": "U13",
-    "q_number": "Q10",
-    "points": [
-      {
-        "section": "General",
-        "text": "Option (i) – Follow Chief Engineer's advice. Merits: obeys superior, avoids conflict, project completes on time. Demerits: compromises public safety, violation of engineering ethics, potential collapse risk, criminal negligence, personal liability",
-        "order": 1,
-        "cite": "U13"
-      },
-      {
-        "section": "General",
-        "text": "Option (ii) – Make exhaustive report, seek written orders. Merits: documents dissent, shifts responsibility to superior, protects self in audit/inquiry. Demerits: may still cause delay, but written orders create evidence; safest ethical option",
-        "order": 2,
-        "cite": "U13"
-      },
-      {
-        "section": "General",
-        "text": "Option (iii) – Call JE explanation, order contractor rectification. Merits: directly addresses safety issue. Demerits: overrides Chief Engineer, insubordination, contractor may refuse without CE approval",
-        "order": 3,
-        "cite": "U13"
-      },
-      {
-        "section": "General",
-        "text": "Option (iv) – Escalate above Chief Engineer. Merits: bypasses corrupt/non-cooperative superior, alerts higher authorities. Demerits: risks career retaliation, may violate hierarchy norms",
-        "order": 4,
-        "cite": "U13"
-      },
-      {
-        "section": "General",
-        "text": "Option (v) – Seek transfer or report sick. Merits: avoids dilemma. Demerits: abdication of duty, problem persists, unethical evasion",
-        "order": 5,
-        "cite": "U13"
-      },
-      {
-        "section": "General",
-        "text": "Recommended: Option (ii) – Prepare detailed report with facts, photos, technical analysis. Submit to Chief Engineer with request for written orders. Simultaneously, record proceedings in file. If written order to ignore, forward to next level with note of dissent. Uphold public safety as paramount (engineering ethics code)",
-        "order": 6,
-        "cite": "U13"
-      }
-    ]
-  },
+  "uid": "UPSC_2013_GSP4_10",
+  "paper_title": "GS Paper 4",
+  "year": 2013,
+  "exam": "UPSC",
+  "origin": "PYQ",
+  "vault_path": null,
+  "marks": 20,
+  "importance": 2,
+  "question_text": "You are working as an Executive Engineer... (full case study on flyover safety).\nWhat will you do? Evaluate options and suggest course of action. (250 words)",
+  "is_structured": 0,
+  "last_updated": 1747488000,
+  "cite": "U13",
+  "q_number": "Q10",
+  "points": [
+    {
+      "section": "General",
+      "text": "Option (i) – Follow Chief Engineer's advice.\nMerits: obeys superior, avoids conflict, project completes on time.\nDemerits: compromises public safety, violation of engineering ethics, potential collapse risk, criminal negligence, personal liability.",
+      "order": 1,
+      "cite": "U13"
+    },
+    {
+      "section": "General",
+      "text": "Option (ii) – Make exhaustive report, seek written orders.\nMerits: documents dissent, shifts responsibility to superior, protects self in audit/inquiry.\nDemerits: may still cause delay, but written orders create evidence; safest ethical option.",
+      "order": 2,
+      "cite": "U13"
+    },
+    {
+      "section": "General",
+      "text": "Option (iii) – Call JE explanation, order contractor rectification.\nMerits: directly addresses safety issue.\nDemerits: overrides Chief Engineer, insubordination, contractor may refuse without CE approval.",
+      "order": 3,
+      "cite": "U13"
+    },
+    {
+      "section": "General",
+      "text": "Option (iv) – Escalate above Chief Engineer.\nMerits: bypasses corrupt/non-cooperative superior, alerts higher authorities.\nDemerits: risks career retaliation, may violate hierarchy norms.",
+      "order": 4,
+      "cite": "U13"
+    },
+    {
+      "section": "General",
+      "text": "Option (v) – Seek transfer or report sick.\nMerits: avoids dilemma.\nDemerits: abdication of duty, problem persists, unethical evasion.",
+      "order": 5,
+      "cite": "U13"
+    },
+    {
+      "section": "General",
+      "text": "Recommended: Option (ii)\n- Prepare detailed report with facts, photos, technical analysis.\n- Submit to Chief Engineer with request for written orders.\n- Simultaneously, record proceedings in file.\n- If written order to ignore, forward to next level with note of dissent.\n- Uphold public safety as paramount (engineering ethics code).",
+      "order": 6,
+      "cite": "U13"
+    }
+  ]
+},
   {
     "uid": "UPSC_2013_GSP4_11",
     "paper_title": "GS Paper 4",
@@ -463,75 +463,75 @@
     ]
   },
   {
-    "uid": "UPSC_2013_GSP4_12",
-    "paper_title": "GS Paper 4",
-    "year": 2013,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 20,
-    "importance": 2,
-    "question_text": "You are heading a leading technical institute... (case study on interview selection and funding).\n(a) What are the options available to you?\n(b) Evaluate each of these options and choose the option which you would adopt, giving reasons. (250 words)",
-    "is_structured": 0,
-    "last_updated": 1747488000,
-    "cite": "U13",
-    "q_number": "Q12",
-    "points": [
-      {
-        "section": "General",
-        "text": "Options: (i) Succumb to pressure and favor the relative – unethical, illegal, compromises merit. (ii) Refuse outright and risk funding denial. (iii) Report the matter to anti-corruption body / higher authority. (iv) Proceed with fair selection but document the call for future reference. (v) Seek intervention of institute's Board of Governors or Ethics Committee",
-        "order": 1,
-        "cite": "U13"
-      },
-      {
-        "section": "General",
-        "text": "Evaluation: (i) – gains funding but destroys institution's reputation, violates UGC norms, sets bad precedent, personal liability. (ii) – ethically correct but may harm institute's development. (iii) – exposes corruption but may burn bridges. (iv) – conducts fair interview but leaves threat alive. (v) – collective decision, shared responsibility",
-        "order": 2,
-        "cite": "U13"
-      },
-      {
-        "section": "General",
-        "text": "Recommended: Option (v) combined with (iv). Inform Board of Governors about the call without naming (to protect identity) and seek institutional protection. Conduct selection strictly on merit with transparent evaluation criteria. Record the call details confidentially. If the relative is selected on merit, no issue; if not, reject. Simultaneously, pursue funding through proper channels. If funding denied, raise the matter officially through RTI/media as last resort. Uphold institutional integrity over personal gain",
-        "order": 3,
-        "cite": "U13"
-      }
-    ]
-  },
+  "uid": "UPSC_2013_GSP4_12",
+  "paper_title": "GS Paper 4",
+  "year": 2013,
+  "exam": "UPSC",
+  "origin": "PYQ",
+  "vault_path": null,
+  "marks": 20,
+  "importance": 2,
+  "question_text": "You are heading a leading technical institute... (case study on interview selection and funding).\n(a) What are the options available to you?\n(b) Evaluate each of these options and choose the option which you would adopt, giving reasons. (250 words)",
+  "is_structured": 0,
+  "last_updated": 1747488000,
+  "cite": "U13",
+  "q_number": "Q12",
+  "points": [
+    {
+      "section": "General",
+      "text": "Options available:\n(i) Succumb to pressure and favor the relative – unethical, illegal, compromises merit.\n(ii) Refuse outright and risk funding denial.\n(iii) Report the matter to anti-corruption body / higher authority.\n(iv) Proceed with fair selection but document the call for future reference.\n(v) Seek intervention of institute's Board of Governors or Ethics Committee.",
+      "order": 1,
+      "cite": "U13"
+    },
+    {
+      "section": "General",
+      "text": "Evaluation:\n(i) – gains funding but destroys institution's reputation, violates UGC norms, sets bad precedent, personal liability.\n(ii) – ethically correct but may harm institute's development.\n(iii) – exposes corruption but may burn bridges.\n(iv) – conducts fair interview but leaves threat alive.\n(v) – collective decision, shared responsibility.",
+      "order": 2,
+      "cite": "U13"
+    },
+    {
+      "section": "General",
+      "text": "Recommended: Option (v) combined with (iv).\n- Inform Board of Governors about the call without naming (to protect identity) and seek institutional protection.\n- Conduct selection strictly on merit with transparent evaluation criteria.\n- Record the call details confidentially.\n- If the relative is selected on merit, no issue; if not, reject.\n- Simultaneously, pursue funding through proper channels.\n- If funding denied, raise the matter officially through RTI/media as last resort.\n- Uphold institutional integrity over personal gain.",
+      "order": 3,
+      "cite": "U13"
+    }
+  ]
+},
   {
-    "uid": "UPSC_2013_GSP4_13",
-    "paper_title": "GS Paper 4",
-    "year": 2013,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 20,
-    "importance": 2,
-    "question_text": "As a senior officer in the Finance Ministry... (case study on insider information to builder).\n(a) What are the options available to you?\n(b) Evaluate each of these options and choose the option which you would adopt, giving reasons. (250 words)",
-    "is_structured": 0,
-    "last_updated": 1747488000,
-    "cite": "U13",
-    "q_number": "Q13",
-    "points": [
-      {
-        "section": "General",
-        "text": "Options: (i) Disclose information to builder as asked – insider trading, illegal under SEBI Act, violation of Official Secrets Act. (ii) Refuse politely and explain legal/ethical reasons. (iii) Report the superior's request to Central Vigilance Commission or Cabinet Secretary. (iv) Seek written order from superior before disclosure. (v) Resign/seek transfer to avoid conflict",
-        "order": 1,
-        "cite": "U13"
-      },
-      {
-        "section": "General",
-        "text": "Evaluation: (i) – personal gain (promotion/bonus?) but criminal offense, loss of career, jail term, damage to public trust. (ii) – maintains integrity but risks displeasing superior, possible retaliation. (iii) – whistleblowing may lead to departmental action against superior, but also personal risk. (iv) – creates evidence, but superior may not give written order. (v) – avoids direct confrontation but abdicates responsibility",
-        "order": 2,
-        "cite": "U13"
-      },
-      {
-        "section": "General",
-        "text": "Recommended: Option (ii) – Clearly refuse, citing Civil Service Conduct Rules (Rule 11 – confidentiality), SEBI (Prohibition of Insider Trading) Regulations, and personal ethics. Explain that disclosure would harm market integrity. Advise superior to follow proper procedures. If pressured, escalate to Secretary/ Cabinet Secretary with documented evidence. Maintain confidentiality of policy until official announcement. Uphold constitutional morality and public interest over career concerns",
-        "order": 3,
-        "cite": "U13"
-      }
-    ]
-  },
+  "uid": "UPSC_2013_GSP4_13",
+  "paper_title": "GS Paper 4",
+  "year": 2013,
+  "exam": "UPSC",
+  "origin": "PYQ",
+  "vault_path": null,
+  "marks": 20,
+  "importance": 2,
+  "question_text": "As a senior officer in the Finance Ministry... (case study on insider information to builder).\n(a) What are the options available to you?\n(b) Evaluate each of these options and choose the option which you would adopt, giving reasons. (250 words)",
+  "is_structured": 0,
+  "last_updated": 1747488000,
+  "cite": "U13",
+  "q_number": "Q13",
+  "points": [
+    {
+      "section": "General",
+      "text": "Options available:\n(i) Disclose information to builder as asked – insider trading, illegal under SEBI Act, violation of Official Secrets Act.\n(ii) Refuse politely and explain legal/ethical reasons.\n(iii) Report the superior's request to Central Vigilance Commission or Cabinet Secretary.\n(iv) Seek written order from superior before disclosure.\n(v) Resign/seek transfer to avoid conflict.",
+      "order": 1,
+      "cite": "U13"
+    },
+    {
+      "section": "General",
+      "text": "Evaluation:\n(i) – personal gain (promotion/bonus?) but criminal offense, loss of career, jail term, damage to public trust.\n(ii) – maintains integrity but risks displeasing superior, possible retaliation.\n(iii) – whistleblowing may lead to departmental action against superior, but also personal risk.\n(iv) – creates evidence, but superior may not give written order.\n(v) – avoids direct confrontation but abdicates responsibility.",
+      "order": 2,
+      "cite": "U13"
+    },
+    {
+      "section": "General",
+      "text": "Recommended: Option (ii)\n- Clearly refuse, citing Civil Service Conduct Rules (Rule 11 – confidentiality), SEBI (Prohibition of Insider Trading) Regulations, and personal ethics.\n- Explain that disclosure would harm market integrity.\n- Advise superior to follow proper procedures.\n- If pressured, escalate to Secretary/Cabinet Secretary with documented evidence.\n- Maintain confidentiality of policy until official announcement.\n- Uphold constitutional morality and public interest over career concerns.",
+      "order": 3,
+      "cite": "U13"
+    }
+  ]
+},
   {
   "uid": "UPSC_2013_GSP4_14",
   "paper_title": "GS Paper 4",
