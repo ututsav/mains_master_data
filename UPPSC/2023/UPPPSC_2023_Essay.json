@@ -1,0 +1,371 @@
+[
+  {
+    "uid": "UPPSC_2023_Essay_QA1",
+    "paper_title": "Essay",
+    "year": 2023,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Role of literature in character building.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2023 Essay",
+    "q_number": "QA.1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define literature not merely as written art, but as the mirror of society and a profound instrument for instilling human values and ethics.",
+        "order": 1,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the historical and psychological impact: How mythological epics, historical biographies, and classical fiction provide moral dilemmas and role models that shape personal integrity and empathy.",
+        "order": 2,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Analyze the role of contemporary literature: Its power to broaden perspectives, challenge prejudices, and foster modern civic virtues like environmental consciousness, equality, and social justice.",
+        "order": 3,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that a society engaged with good literature cultivates a strong, ethical citizenry capable of critical thinking and compassionate leadership.",
+        "order": 4,
+        "cite": "UPPSC Mains 2023 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2023_Essay_QA2",
+    "paper_title": "Essay",
+    "year": 2023,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "The problem of old peoples in metropolitan cities.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2023 Essay",
+    "q_number": "QA.2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Highlight the demographic shift towards an aging population globally and in India, juxtaposed against rapid, isolating urbanization.",
+        "order": 1,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the socio-psychological problems: The breakdown of joint families into nuclear units, the widening generation gap, and profound loneliness/alienation in fast-paced metropolitan environments.",
+        "order": 2,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss physical and infrastructural challenges: Financial insecurity post-retirement, lack of accessible geriatric healthcare, and urban infrastructure that is often hostile or unsafe for senior citizens.",
+        "order": 3,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Suggest comprehensive measures such as community-based elder care, robust social security networks, and inclusive urban planning to ensure the elderly age with dignity and security.",
+        "order": 4,
+        "cite": "UPPSC Mains 2023 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2023_Essay_QA3",
+    "paper_title": "Essay",
+    "year": 2023,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Meaning of G-20 leadership for India.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2023 Essay",
+    "q_number": "QA.3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Contextualize India's G-20 presidency in 2023, driven by the guiding philosophy of 'Vasudhaiva Kutumbakam' (One Earth, One Family, One Future).",
+        "order": 1,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Explain the diplomatic and geopolitical meaning: It positioned India as the undisputed voice of the Global South, enabling it to bridge the polarized East-West and North-South divides amidst global conflicts.",
+        "order": 2,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Detail the economic and developmental implications: India's success in pushing for multilateral institution reforms, climate finance, debt restructuring, and showcasing its Digital Public Infrastructure (DPI) to the world.",
+        "order": 3,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that this leadership cemented India's transition from a rule-taker to a leading global rule-maker, marking its arrival as a pivotal global power.",
+        "order": 4,
+        "cite": "UPPSC Mains 2023 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2023_Essay_QB1",
+    "paper_title": "Essay",
+    "year": 2023,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Space science and India.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2023 Essay",
+    "q_number": "QB.1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Trace the inspirational journey of the Indian Space Research Organisation (ISRO) from its modest beginnings to becoming a cost-effective global space powerhouse.",
+        "order": 1,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Highlight technological milestones: The historic success of the Chandrayaan missions (specifically landing on the lunar south pole), Mangalyaan (Mars Orbiter Mission), and the indigenous NavIC satellite navigation system.",
+        "order": 2,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss socio-economic and commercial benefits: The application of space technology in disaster management, agriculture, tele-education, and the opening of the sector to private players through IN-SPACe to capture the global commercial space market.",
+        "order": 3,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that India's space program exemplifies 'Aatmanirbhar Bharat', acting not just as an exploration endeavor but as a critical driver for national development.",
+        "order": 4,
+        "cite": "UPPSC Mains 2023 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2023_Essay_QB2",
+    "paper_title": "Essay",
+    "year": 2023,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "New possibilities in the agricultural sector.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2023 Essay",
+    "q_number": "QB.2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Acknowledge agriculture as the bedrock of the Indian economy and highlight the urgent necessity to transition from traditional subsistence farming to modern, sustainable agri-business.",
+        "order": 1,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss technological innovations: The integration of precision farming, Artificial Intelligence for crop monitoring, IoT-based micro-irrigation, and the deployment of Kisan Drones for pesticide spraying and yield estimation.",
+        "order": 2,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss structural and economic shifts: The rise of Agri-tech startups, the push towards organic and natural farming, expansion of food processing clusters, and digital market integrations like e-NAM.",
+        "order": 3,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that capitalizing on these possibilities is paramount for achieving long-term food security, climate resilience, and the goal of doubling farmers' incomes.",
+        "order": 4,
+        "cite": "UPPSC Mains 2023 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2023_Essay_QB3",
+    "paper_title": "Essay",
+    "year": 2023,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Globalization and cottage industry.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2023 Essay",
+    "q_number": "QB.3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define globalization and establish the historical, cultural, and economic significance of the cottage industry in providing decentralized rural employment in India.",
+        "order": 1,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Analyze the negative impacts of globalization: The influx of cheap, mass-produced foreign goods leading to unequal market competition, the decline of traditional artisan livelihoods, and the threat of cultural homogenization.",
+        "order": 2,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Analyze the positive opportunities: How digital globalization and e-commerce platforms allow local artisans direct access to international markets, the rising global premium on sustainable/handmade products, and supportive schemes like ODOP.",
+        "order": 3,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that rather than being swept away, the cottage industry can thrive in a globalized world if fortified with credit access, technological literacy, and strong branding.",
+        "order": 4,
+        "cite": "UPPSC Mains 2023 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2023_Essay_QC1",
+    "paper_title": "Essay",
+    "year": 2023,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "The effect of economic crisis in Sri Lanka on whole world.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2023 Essay",
+    "q_number": "QC.1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Outline the unprecedented 2022 sovereign default and economic collapse of Sri Lanka, triggered by severe debt mismanagement, policy missteps, and external shocks.",
+        "order": 1,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the regional and geopolitical effects: The immediate humanitarian spillover (refugee influx into India), the shifting strategic balance in the Indian Ocean, and the exposure of 'debt-trap' diplomacy vulnerabilities.",
+        "order": 2,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the broader global economic lessons: It served as a stark cautionary tale for other debt-distressed developing nations, highlighting the risks of over-reliance on single sectors (tourism) and the urgent need for international financial institution (IMF) reforms.",
+        "order": 3,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the Sri Lankan crisis underscores the deep interconnectedness of the global economy, emphasizing the need for fiscal prudence and proactive multilateral debt-relief mechanisms.",
+        "order": 4,
+        "cite": "UPPSC Mains 2023 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2023_Essay_QC2",
+    "paper_title": "Essay",
+    "year": 2023,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Melting glaciers danger for human beings.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2023 Essay",
+    "q_number": "QC.2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Highlight the alarming rate of glacial retreat across the globe (including the Polar ice caps and the Himalayan 'Third Pole') driven by anthropogenic climate change.",
+        "order": 1,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Examine the immediate environmental dangers: Accelerating global sea-level rise threatening coastal megacities and island nations, and the drastically increased risk of Glacial Lake Outburst Floods (GLOFs) devastating mountain communities.",
+        "order": 2,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Examine the socio-economic and survival threats: The disruption of perennial river systems leading to acute freshwater scarcity, the subsequent collapse of agricultural belts, and the massive displacement of populations (climate refugees).",
+        "order": 3,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Call for an urgent, unified global commitment to the Paris Agreement targets and a rapid transition to renewable energy to mitigate this existential threat to humanity.",
+        "order": 4,
+        "cite": "UPPSC Mains 2023 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2023_Essay_QC3",
+    "paper_title": "Essay",
+    "year": 2023,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "P.M. Annadata Aay Sanrakshan Abhiyan.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2023 Essay",
+    "q_number": "QC.3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce PM-AASHA (Pradhan Mantri Annadata Aay SanraksHan Abhiyan) as an umbrella scheme launched to ensure remunerative prices to farmers and shield them from market volatility.",
+        "order": 1,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Detail the three core components: The Price Support Scheme (PSS) for physical procurement, the Price Deficiency Payment Scheme (PDPS) for direct cash transfers covering market losses, and the Pilot of Private Procurement and Stockist Scheme (PPSS).",
+        "order": 2,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Analyze its significance and ongoing challenges: It specifically boosts the production of oilseeds and pulses by ensuring income security, though hurdles remain regarding state implementation capacity, procurement infrastructure, and fiscal burden.",
+        "order": 3,
+        "cite": "UPPSC Mains 2023 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that PM-AASHA represents a vital policy evolution—shifting the state's agricultural focus from merely maximizing output to actively guaranteeing farmer income stability.",
+        "order": 4,
+        "cite": "UPPSC Mains 2023 Essay"
+      }
+    ]
+  }
+]
