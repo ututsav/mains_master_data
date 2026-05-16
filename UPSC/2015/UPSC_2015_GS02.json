@@ -1,0 +1,852 @@
+[
+  {
+    "uid": "UPSC_2015_GSP2_01",
+    "paper_title": "GS Paper 2",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Discuss the possible factors that inhibit India from enacting for its citizens a uniform civil code as provided for in the Directive Principles of State Policy. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Uniform Civil Code (UCC) – Article 44 of DPSP; aims for common personal laws; opposed due to diversity and politics.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Factors inhibiting UCC:\n- Religious diversity – Muslims fear erosion of Sharia; Christians, Parsis have distinct laws\n- Political mobilization – vote bank politics; parties use issue to polarize\n- Lack of consensus among communities – Shah Bano case (1985) led to Muslim Women Act\n- Constitutional protection of religious freedom (Article 25-30) – minority rights perceived under threat\n- Tribal customary laws (Scheduled Areas, North-East) – separate systems\n- Fear of majoritarianism – UCC seen as Hindu code imposition by minorities\n- Complexity of reforms – uniform age of marriage, divorce, succession across religions difficult",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Progressive steps: Goa has common civil code; Supreme Court has repeatedly urged UCC (Sarla Mudgal, John Vallamattom). Law Commission (2018) said UCC not necessary at present; suggested reforms within communities.",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Religious opposition and political unwillingness inhibit UCC. Need gradual, consultative approach starting with gender-just reforms (marriage age, inheritance) rather than blanket code.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP2_02",
+    "paper_title": "GS Paper 2",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "The concept of cooperative federalism has been increasingly emphasized in recent years. Highlight the drawbacks in the existing structure and the extent to which cooperative federalism would answer the shortcomings. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Cooperative federalism – Centre and states jointly resolve national issues; contrasts with competitive federalism.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Drawbacks in existing structure:\n- Fiscal imbalance – states heavily dependent on Centre (vertical imbalance)\n- Governor's role – perceived as Centre's agent\n- Article 356 misuse (historically)\n- Centrally Sponsored Schemes (CSS) with rigid conditions\n- GST Council dominated by Centre (one-third voting share for Centre)\n- Lack of state autonomy in many subjects",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "How cooperative federalism answers shortcomings:\n- Inter-State Council revived, NITI Aayog replaces Planning Commission (bottom-up planning)\n- GST Council – joint decision-making (though weighted voting)\n- Finance Commission devolution increased to 42% (14th FC)\n- Aspirational Districts programme – Centre-state collaboration\n- Disaster management, COVID response – cooperative mechanisms\n- But still limited by political dominance of one party at Centre",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Cooperative federalism has improved mechanisms (NITI, GST Council) but structural biases remain. True cooperation requires more state autonomy in policy, resources, and reduced political interference.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP2_03",
+    "paper_title": "GS Paper 2",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "In absence of a well-educated and organized local level government system, 'Panchayats' and 'Samitis' have remained mainly political institutions and not effective instruments of governance. Critically discuss. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "73rd and 74th Amendments (1992) gave constitutional status to Panchayats; yet implementation gaps remain.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Why Panchayats remain political rather than governance institutions:\n- Lack of devolution of funds, functions, functionaries (3Fs) – states reluctant\n- Capacity deficits – low education, training, lack of technical staff\n- Control by dominant castes, political elites – capture by sarpanch pati\n- Irregular elections, supersessions (some states)\n- Gram Sabhas weak – low attendance, elite capture\n- Inadequate devolution of subjects (29 subjects listed, few actually transferred)",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Evidence of governance deficits: poor service delivery (water, sanitation, roads), corruption in MGNREGA, lack of planning, low own revenue generation.",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Exceptions: Kerala, Karnataka, West Bengal have better devolution. PESA Act for Scheduled Areas – still weak. National Panchayat Raj Portal shows many states have not even constituted District Planning Committees.",
+        "order": 4,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Statement valid but not absolute; some states have made progress. Need constitutional mandate for devolution (like 14th FC recommended), capacity building (Rashtriya Gram Swaraj Abhiyan), and social audit to transform Panchayats into governance institutions.",
+        "order": 5,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP2_04",
+    "paper_title": "GS Paper 2",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Khap Panchayats have been in the news for functioning as extra-constitutional authorities, often delivering pronouncements amounting to human rights violations. Discuss critically the actions taken by the legislative, executive and the judiciary to set the things right in this regard. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q4",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Khap Panchayats – caste-based extra-legal bodies in Haryana, UP, Rajasthan; known for honor killings, forced divorces, social boycotts.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Legislative actions:\n- Haryana Prevention of Unlawful Assembly of Khaps Act (2019) – proposed but not passed? Actually Prohibition of Unlawful Assembly of Khaps Act, 2019 (Haryana) – but enforcement weak\n- Indian Penal Code provisions (Section 302, 120B, 107) used to prosecute honor killings\n- Prohibition of Child Marriage Act, 2006; Special Marriage Act, 1954 – provide legal alternatives",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Executive actions:\n- Police crackdown on khap meetings that issue diktats\n- District administrations issue restraining orders\n- Awareness campaigns against caste violence\n- Protection of women victims (safe houses, witness protection)\n- But often reluctant due to political clout of khaps",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Judicial actions:\n- Supreme Court in Bhagwan Dass vs NCT Delhi (2011) – khap panchayats illegal, honor killing not justified\n- SC in Lata Singh vs State of UP (2006) – upheld right to marry any person\n- SC in Shakti Vahini vs Union of India (2018) – directed states to take preventive action, punish khap members, protect inter-caste couples\n- SC appointed nodal officers, witness protection schemes\n- Courts have convicted khap leaders for murder, kidnapping",
+        "order": 4,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Legislative, executive, and judiciary have acted, but enforcement inconsistent. Need stringent implementation of SC guidelines, community sensitization, and social reform to eradicate khap influence.",
+        "order": 5,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP2_05",
+    "paper_title": "GS Paper 2",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Resorting to ordinances has always raised concern on violation of the spirit of separation of powers doctrine. While noting the rationales justifying the power to promulgate ordinances, analyze whether the decisions of the Supreme Court on the issue have further facilitated resorting to this power. Should the power to promulgate ordinances be repealed? (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q5",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Article 123 (President) and 213 (Governor) – ordinance making power; emergency legislation when Parliament not in session.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Rationales justifying ordinance:\n- Necessity in urgent situations (e.g., financial emergency, public health crisis)\n- Parliamentary schedule limitations (only three sessions a year)\n- Allows quick executive action for unforeseen circumstances\n- Subject to parliamentary approval within 6 weeks of reassembly, else lapses",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "SC decisions on ordinances:\n- R.K. Garg vs Union of India (1981) – upheld ordinance power but said executive should not bypass legislature unless urgent\n- D.C. Wadhwa vs State of Bihar (1987) – re-promulgation of ordinances repeatedly held unconstitutional; Bihar had re-promulgated 256 ordinances\n- Krishna Kumar Singh vs State of Bihar (2017) – SC reiterated that re-promulgation is fraud on Constitution; ordinances must be laid before legislature\n- However, SC has not curbed frequency of fresh ordinances; governments have used them for major legislation (e.g., Land Acquisition Ordinance 2014, 2015 repeatedly re-promulgated before becoming Act)",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Should ordinance power be repealed?\n- Arguments for repeal: misuse to bypass parliamentary debate, separation of powers violation, executive overreach, re-promulgation despite SC rulings\n- Arguments against: occasional necessity in emergencies (natural disasters, national security); repeal would require constitutional amendment; many democracies have similar provisions\n- Middle ground: limit duration, require prior presidential satisfaction review (weak), or require parliamentary standing committee approval within 7 days",
+        "order": 4,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Ordinance power is necessary but should not become routine. SC has checked re-promulgation but not prevented repeated fresh ordinances. Repeal not advisable; instead strengthen oversight (mandatory parliamentary ratification within shorter time) and judicial review for mala fide use.",
+        "order": 5,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP2_06",
+    "paper_title": "GS Paper 2",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "What are the major changes brought in the Arbitration and Conciliation Act, 1996 through the recent Ordinance promulgated by the President? How far will it improve India's dispute resolution mechanism? Discuss. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q6",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Arbitration and Conciliation Act, 1996 (based on UNCITRAL Model Law). Recent amendments through Ordinance (2015) – later passed as Amendment Act 2015, plus further 2019 amendments.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Major changes (2015 Ordinance/Act):\n- Time limit for arbitral award: 12 months (extendable by 6 months with consent; beyond that arbitrator's mandate terminates)\n- Fast-track procedure for claims up to ₹5 crore (award within 6 months)\n- Interim orders by arbitral tribunal enforceable as court orders\n- Restrictions on court intervention – no automatic stay of award pending challenge unless court satisfied\n- Disclosure of arbitrator's independence and impartiality\n- Fees based on schedule to avoid excessive costs\n- 2019 further amendments: establishment of Arbitration Council of India (ACI) for grading arbitrators, time limit for completion of arbitration (18 months), disclosure of conflict of interest",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "How it improves dispute resolution:\n- Reduces delays (earlier arbitration took 5-10 years, now capped)\n- Minimizes court interference (respects party autonomy)\n- Makes India more arbitration-friendly (ease of doing business ranking improved)\n- Institutional arbitration promoted (vs ad hoc)\n- Attracts international commercial arbitration (New Delhi International Arbitration Centre)\n- However, still challenges: lack of specialized arbitrators, low awareness, judicial culture of interference still persists",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Amendments positive step; dispute resolution has become faster, but full benefits require cultural shift among lawyers and judges. India still lags behind Singapore, London as arbitration hubs.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP2_07",
+    "paper_title": "GS Paper 2",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Does the right to clean environment entail legal regulations on burning crackers during Diwali? Discuss in the light of Article 21 of the Indian Constitution and Judgement(s) of the Apex Court in this regard. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q7",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Article 21 – right to life includes right to clean environment (Subhash Kumar vs State of Bihar, 1991).",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Burning crackers causes severe air pollution (PM2.5, PM10), respiratory diseases, noise pollution; violates rights of citizens, especially children, elderly, asthmatics.",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Supreme Court judgements:\n- 2018: Ban on sale of crackers in Delhi-NCR, allowed only green crackers (less emission) with time restrictions (2 hours on Diwali)\n- 2020: Modified – allowed sale of green crackers; banned barium salts; reduced timing\n- 2021: Refused blanket ban but reiterated restrictions; allowed only crackers complying with CPCB norms\n- 2022: Extended restrictions to other cities with poor air quality (Chennai, Kolkata, Bengaluru)\n- SC held that right to health and environment overrides religious practice if it causes significant harm (balancing test – Article 25 religious freedom subject to public health)",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Yes, clean environment entails reasonable regulations on crackers. SC has struck balance by allowing green crackers with time limits instead of total ban. Enforcement by states is critical; public awareness and community-led celebrations (lighting diyas) recommended.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP2_08",
+    "paper_title": "GS Paper 2",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Examine critically the recent changes in the rules governing foreign funding of NGOs under the Foreign Contribution (Regulation) Act (FCRA), 1976. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q8",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "FCRA regulates foreign contributions to NGOs; amended in 2010, 2020 (FCRA Amendment Act 2020) and rules in 2020, 2022.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Recent changes (FCRA 2020 and rules):\n- Only NGOs registered under FCRA can receive foreign funds (registration valid 5 years; earlier indefinite)\n- Registered NGOs cannot transfer funds to other NGOs (curbing sub-granting)\n- FCRA account only in designated bank (SBI, New Delhi branch) – earlier any scheduled bank\n- Administrative expenses capped at 20% of receipts (earlier 50% reduced to 20% in 2015; 2020 remains 20%)\n- NGOs must file annual returns with enhanced disclosures\n- Government can suspend registration for 180 days (without prior notice)\n- Aadhaar mandatory for office bearers",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Critical examination:\n- Pro: Increased transparency, prevents money laundering, ensures foreign funds not used for anti-national activities (some NGOs were under scrutiny)\n- Con: Harms legitimate grassroots NGOs (administrative cap too low, single bank account inconvenient, no sub-granting reduces reach), seen as targeting civil society, registration cancellations without due process (many NGOs lost FCRA status, e.g., Greenpeace India, Amnesty India)\n- Impact: Many NGOs shut down, reduced foreign funding for health, education, environment projects",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Changes have pros (transparency) and cons (excessive control). Need balance: streamline approval process, retain sub-granting for multi-layered projects, increase admin cap to 30-40%. Otherwise, legitimate development work suffers.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP2_09",
+    "paper_title": "GS Paper 2",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "The Self-Help Group (SHG) Bank Linkage Programme (SBLP), which is India's own innovation, has proved to be one of the most effective poverty alleviation and women empowerment programmes. Elucidate. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q9",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "SHG-Bank Linkage Programme started by NABARD in 1992; links informal groups of rural poor (mostly women) to formal banking system.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "How it works:\n- 10-20 women form SHG, pool savings, get bank loan (without collateral) against savings; peer pressure ensures repayment\n- Banks refinanced by NABARD; interest rates lower than moneylenders\n- SHGs also linked to livelihood activities (dairy, tailoring, handicrafts, micro-enterprises)",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Impact on poverty alleviation:\n- Over 14 crore women covered (over 100 lakh SHGs) under NRLM (DAY-NRLM)\n- Estimated 50% of SHG members crossed poverty line (World Bank study)\n- Increased savings, income, asset ownership\n- Reduced reliance on moneylenders (indebtedness decreased)\n- Improved nutrition, children's education",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Impact on women empowerment:\n- Increased decision-making power at household and community\n- Greater mobility, self-confidence, political participation (many SHG members become sarpanch)\n- Reduction in domestic violence (studies show)\n- Platform for health awareness, sanitation, entitlements (MGNREGA, Jan Dhan, insurance)",
+        "order": 4,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "SBLP is a successful poverty alleviation innovation (replicated by other countries). Challenges remain (coverage gaps, quality, credit discipline), but overall transformative for rural India.",
+        "order": 5,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP2_10",
+    "paper_title": "GS Paper 2",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "How can the role of NGOs be strengthened in India for development works relating to protection of the environment? Discuss throwing light on the major constraints. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q10",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "NGOs play crucial role in environmental protection (awareness, advocacy, litigation, afforestation, waste management).",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Major constraints:\n- Funding limitations – FCRA restrictions (recent amendments), reduced foreign funding\n- Government suspicion – some NGOs labelled as anti-development (e.g., opposing dams, mining)\n- Lack of technical expertise in many local NGOs\n- Coordination gaps with government agencies\n- Policy restrictions – need for prior permission for certain activities\n- Low public trust – some NGOs misused funds, but many genuine",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "How to strengthen NGOs:\n- Create Environmental NGOs Support Fund (like National Environment Fund) with transparent grant mechanism\n- Simplify registration and compliance (single window, reduced paperwork)\n- Capacity building programs (training in scientific methods, environmental law, project management)\n- Public-private partnership – corporate CSR (Companies Act) can be channeled to environmental NGOs\n- Government-NGO joint committees at local level (waste management, plantation drives)\n- Provide tax incentives for donations to environmental NGOs\n- Protect genuine NGOs from harassment (fast-track grievance redressal for FCRA issues)",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "NGOs can complement government efforts. Overcoming constraints through enabling policies, funding, and trust-building will enhance environmental outcomes.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP2_11",
+    "paper_title": "GS Paper 2",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "The quality of higher education in India requires major improvements to make it internationally competitive. Do you think that the entry of foreign educational institutions would help improve the quality of higher and technical education in the country? Discuss. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q11",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Indian higher education suffers from quality issues (curriculum outdated, research low, faculty shortage). Foreign educational institutions (FEIs) entry debated.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Arguments for FEIs helping:\n- Bring global best practices, modern curriculum, research collaboration\n- Increase competition – domestic universities forced to improve\n- Reduce brain drain (students study in India instead of abroad)\n- Faculty exchange, joint degrees, accreditation\n- Attract foreign students (education hub) – economic benefits\n- Example: Jio Institute (partnered with foreign universities), but not fully operational",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Concerns and counter-arguments:\n- May be too expensive (affordability for Indian students?)\n- Profit motive over quality; may cherry-pick profitable courses\n- Regulatory hurdles – UGC rules (Foreign Educational Institutions Bill pending since 2010)\n- Risk of cultural homogenization, neglect of Indian contexts\n- Existing universities also need investment; FEIs may not address mass higher education (only elite)\n- Example: Many foreign universities set up campuses in China, UAE, Singapore; India still restrictive",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "FEIs can help but not a panacea. Needed: clear regulatory framework (proposed Foreign Higher Education Institutions Bill), mandatory not-for-profit status, quality assurance, and linkage with domestic universities. Should complement, not replace, reforms in existing institutions (autonomy, funding, NEP 2020).",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP2_12",
+    "paper_title": "GS Paper 2",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Public health system has limitations in providing universal health coverage. Do you think that the private sector could help in bridging the gap? What other viable alternatives would you suggest? (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q12",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Public health system underfunded (1.3% of GDP vs WHO recommendation 5%), understaffed, infrastructure gaps. Universal Health Coverage (UHC) elusive.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Role of private sector:\n- Accounts for 70% of healthcare delivery (inpatient, outpatient)\n- Can fill gaps through PPP (Ayushman Bharat empanelled hospitals, diagnostic labs)\n- Brings efficiency, technology, management expertise\n- Can expand coverage in rural areas (if incentivised)\n- But concerns: high cost, profit motive, uneven quality, over-treatment, regionally concentrated",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Alternatives to bridge the gap:\n- Strengthen public system: increase budget (target 2.5% GDP by 2025), fill vacancies (NHM), upgrade PHCs to Health and Wellness Centres (Ayushman Bharat – 1.5 lakh HWCs)\n- National Health Stack – digital health records, telemedicine (eSanjeevani), portable insurance\n- Social health insurance: expand Ayushman Bharat to cover all below poverty line (already 50 crore beneficiaries); also state schemes\n- Regulate private sector: price caps (e.g., stents, knee implants), standard treatment guidelines, mandatory quality accreditation\n- Non-profit models: charitable hospitals (like Aravind Eye Care, Narayana Health)\n- Community-based health insurance (SHG linkage) – Rashtriya Swasthya Bima Yojana model",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Private sector can be partner but not replacement. Strong public system with regulation of private sector and innovative financing (insurance) is key. Viable alternatives: PPP, telemedicine, and community health workers.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP2_13",
+    "paper_title": "GS Paper 2",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Though there have been several different estimates of poverty in India, all indicate reduction in poverty levels over time. Do you agree? Critically examine with reference to urban and rural poverty indicators. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q13",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Poverty estimates vary by methodology (Tendulkar, Rangarajan, World Bank $1.9/$3.2 PPP), but consensus on declining trend.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Evidence of reduction:\n- Tendulkar poverty line: declined from 37.2% (2004-05) to 21.9% (2011-12)\n- Rangarajan estimate: 29.5% (2011-12)\n- Multidimensional Poverty Index (MPI) released by NITI Aayog (2023) – 14.9% in 2019-21 (down from 24.8% in 2015-16)\n- World Bank: India lifted 415 million out of poverty between 2005-2015 (Global MPI)\n- Rural poverty declined faster than urban; still rural higher",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Critical examination:\n- Post-2011-12 NSSO consumer expenditure survey data not released (2017-18 survey junked due to quality issues); latest official data old\n- COVID pandemic may have reversed gains – ICRIER study suggested 23 crore fell below $5.5/day in 2020\n- NFHS-5 (2019-21) shows improvements in living conditions (electricity, drinking water, sanitation), but nutrition indicators (stunting, wasting) still high\n- Poverty reduction uneven across states (Bihar, UP, MP slower than TN, Kerala, Punjab)\n- Multidimensional poverty (health, education, living standards) often more relevant than income poverty",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Agree that poverty has reduced over time, but speed and inclusiveness vary. Need updated consumption expenditure data (new survey 2022-23 released recently). Post-COVID recovery likely restored downward trend, but absolute numbers remain high.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP2_14",
+    "paper_title": "GS Paper 2",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "In the light of the Satyam Scandal (2009), discuss the changes brought in corporate governance to ensure transparency, accountability. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q14",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Satyam scandal (India's Enron) – founder Ramalinga Raju inflated profits, falsified accounts, created fictitious assets; fraud of ₹7,000 crore.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Changes brought in corporate governance:\n- Companies Act, 2013 (replaced 1956 Act) – many provisions inspired by Satyam:\n  - Independent directors: mandated minimum 1/3 of board; stricter definition, liability\n  - Whistleblower mechanism: mandatory for listed companies; protection for complainants\n  - Related party transactions: approval by board and shareholders; disclosure\n  - Auditor rotation: maximum 10 years (5+5), 5 years for individual; limits conflict of interest\n  - Internal audit mandatory for prescribed companies\n  - National Financial Reporting Authority (NFRA) – oversight of auditors (disciplinary powers); replaces ICAI's monopoly\n  - Fraud reporting: auditor must report to government\n  - CSR (Section 135) – indirectly improves governance (but not directly linked)",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "SEBI reforms:\n- Enhanced disclosure norms (corporate governance report, related party transactions)\n- Strengthened role of audit committees\n- Listing Obligations and Disclosure Requirements (LODR) Regulations, 2015\n- Stricter penalties for false statements",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Satyam led to systemic reforms, but implementation gaps remain (NFRA yet fully operational, auditor independence still questionable). Continuous vigilance needed; recent IL&FS, DHFL cases show governance failures persist.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP2_15",
+    "paper_title": "GS Paper 2",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "\"If amendment bill to the Whistleblowers Act, 2011 tabled in the Parliament is passed, there may be no one left to protect.\" Critically evaluate. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q15",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Whistleblowers Protection Act, 2011 (not yet fully enforced; rules notified in 2014 but amendments proposed).",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Proposed amendments (Whistleblowers Protection (Amendment) Bill, 2015):\n- Clause: Complaint can be rejected if it raises 'frivolous or vexatious' allegations – undefined, can be misused\n- Committee to examine complaints includes Secretaries (may be biased)\n- Disclosure prejudicial to sovereignty, security, economic interests may be withheld (broad interpretation)\n- Whistleblower identity not to be disclosed only if not essential (loophole)\n- Removal of provision for penalty against false complaints? Actually bill added penalties for false complaints (imprisonment up to 2 years) – may deter genuine whistleblowers",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Criticism:\n- Weakens protection – government can label any disclosure as 'prejudicial to economic interests'\n- High penalty for false complaint chills legitimate revelations (Satyendra Dubey would be jailed?)\n- No independent authority – committee under government control\n- No witness protection, compensation for victimization\n- Act still not implemented properly – few cases have seen whistleblower protection",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Counter-argument: Need to prevent malicious complaints (e.g., false allegations by disgruntled employees). But balance tilted against protectors.",
+        "order": 4,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Statement valid: amendments likely to weaken already weak Act. Need robust, independent whistleblower authority, clear protection from retaliation, and witness protection programme. Without these, whistleblowers will stay silent.",
+        "order": 5,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP2_16",
+    "paper_title": "GS Paper 2",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "\"For achieving the desired objectives, it is necessary to ensure that the regulatory institutions remain independent and autonomous.\" Discuss in the light of the experiences in recent past. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q16",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Regulatory institutions (RBI, SEBI, CCI, TRAI, IRDAI, CERC) need autonomy for credibility, effectiveness, and investor confidence.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Why independence necessary:\n- Free from political interference (interest rate decisions, market regulations)\n- Credibility with markets, foreign investors\n- Enforce rules impartially (e.g., penalty on corporations)\n- Long-term focus beyond electoral cycles",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Recent experiences challenging autonomy:\n- RBI vs Government: Section 7 (consultation) invoked for first time (2018); differences over surplus transfer, prompt corrective action (PCA) framework for banks\n- Appointments to TRAI, SEBI – perception of government nominees\n- CBI autonomy issue (not a regulator but signals pattern)\n- However, courts have upheld autonomy (RBI's independence in rate setting, SEBI's powers)",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Measures to ensure autonomy:\n- Fixed tenures with removal only by Parliament (not executive)\n- Independent selection panel (like for CIC, CVC)\n- Adequate budgetary allocation not dependent on government\n- Post-retirement restrictions to avoid regulatory capture\n- Clear legal mandate (e.g., RBI Act, SEBI Act)",
+        "order": 4,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Autonomy is essential but not absolute – regulators must also be accountable (to Parliament, audit, judicial review). Balance is key; recent tensions highlight need for clear separation of powers between government and regulators.",
+        "order": 5,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP2_17",
+    "paper_title": "GS Paper 2",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Increasing interest of India in Africa has its pros and cons. Critically examine. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q17",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's Africa policy evolved from solidarity (non-alignment) to strategic engagement (India-Africa Forum Summits, lines of credit, energy security).",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Pros:\n- Energy security – oil (Nigeria, Angola, Sudan, South Sudan)\n- Mineral resources – natural gas, uranium, cobalt, copper, diamonds\n- Market for Indian goods (pharma, auto, textiles, telecom)\n- Counter China's influence in Indian Ocean Region\n- Support for UNSC permanent seat (African votes)\n- Development partnerships (capacity building, IT, education, health)\n- Indian diaspora (especially in East Africa) – cultural and economic ties",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Cons:\n- China's dominance (Belt and Road, loans, infrastructure) – India lags\n- Risk of debt-trap diplomacy by China, but India's lines of credit smaller and less aggressive\n- Political instability in many African nations (coups, civil wars) – risk to investments, personnel\n- Competition from other players (EU, Japan, Turkey, Russia)\n- Limited Indian diplomatic presence (missions insufficient)\n- Trade imbalance (India imports raw materials, exports finished goods – not always beneficial to Africa)\n- Corruption and governance issues in host countries",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "India's Africa engagement has positive net impact (South-South cooperation) but needs to scale up (infrastructure, manufacturing investment) to match China. Focus on capacity building and mutual benefits.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP2_18",
+    "paper_title": "GS Paper 2",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Discuss the impediments India is facing in its pursuit of a permanent seat in UN Security Council. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q18",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India has long sought permanent membership in UNSC (reformed Council). G4 (India, Germany, Japan, Brazil) pushing for expansion.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Impediments:\n- Opposition from China (veto-wielding) – India's rival; China prefers African seats for Nigeria, Egypt; aligns with Pakistan\n- Lack of consensus among P5 (US, UK, France, Russia, China) – each has preferences; US supports India but conditionally (non-proliferation – India not NPT signatory)\n- Coffee Club (Uniting for Consensus) – countries like Italy, Pakistan, South Korea, Argentina, Canada oppose expansion of permanent seats; prefer more non-permanent seats\n- African Union demand – Africa must have two permanent seats with veto; who will represent? Complicates allocation\n- Veto power issue – new permanent members should have veto? P5 reluctant to share veto\n- Slow intergovernmental negotiations (IGN) – no consensus on framework (since 2009)",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "India's candidacy strong (largest democracy, economy, UN contributions, peacekeeping). But reform requires political will and consensus-building. Long-term strategy: bilateral support from P5 (except China), building coalition with Africa, G4 coordination, and waiting for opportune moment when global power distribution shifts further.",
+        "order": 3,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP2_19",
+    "paper_title": "GS Paper 2",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Project 'Mausam' is considered a unique foreign policy initiative of the Indian Government to improve relationship with its neighbours. Does the project have a strategic dimension? Discuss. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q19",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Project Mausam (launched 2014) – cultural project by Ministry of Culture and ASI; aims to reconnect with Indian Ocean littoral countries through shared maritime heritage, monsoon winds trade routes.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Cultural dimension:\n- Focus on history of Indian Ocean trade (spices, textiles, ideas) linking India, East Africa, Arabia, Southeast Asia\n- Conservation of underwater cultural heritage, maritime archaeological sites\n- Exchange programs, museum partnerships, festivals\n- UNESCO recognition (transnational nomination effort)",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Strategic dimension:\n- Soft power counter to China's Maritime Silk Road (MSR) – same geography, but India's narrative of 'shared history' vs China's 'infrastructure'\n- Strengthens India's claim as natural leader of Indian Ocean Rim Association (IORA)\n- Builds people-to-people ties with Sri Lanka, Maldives, Mauritius, Seychelles, Indonesia, Thailand, Vietnam, Oman – countering Chinese influence in Indian Ocean Region\n- Enhances maritime domain awareness through cultural diplomacy opening doors for security cooperation\n- Complements SAGAR (Security and Growth for All in Region) initiative\n- Example: India's leadership in restoring cultural sites in Sri Lanka (Tirukketheeswaram temple) improved bilateral relations",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Project Mausam has clear strategic dimensions – it is India's soft power response to China's hard infrastructure push in the Indian Ocean. While primarily cultural, it builds goodwill and opens avenues for deeper geopolitical and security engagement.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2015_GSP2_20",
+    "paper_title": "GS Paper 2",
+    "year": 2015,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12.5,
+    "importance": 2,
+    "question_text": "Terrorist activities and mutual distrust have clouded India-Pakistan relations. To what extent the use of soft power like sports and cultural exchanges could help generate goodwill between the two countries? Discuss with suitable examples. (200 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U15",
+    "q_number": "Q20",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India-Pakistan relations dominated by terrorism, Kashmir, border skirmishes. Soft power (cricket, music, films, literature) occasionally bridges gap but limited impact.",
+        "order": 1,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Examples of soft power initiatives:\n- Cricket diplomacy: 2004 bilateral series (began composite dialogue); 2011 World Cup semi-final invitation to PM Yousuf Raza Gilani (short-lived thaw); 2022 India refused to travel for Asia Cup (bilateral cricket suspended since 2012 due to terror attacks)\n- Cultural exchanges: Pakistani ghazal singers (Ghulam Ali, Rahat Fateh Ali Khan) perform in India; Indian films popular in Pakistan (but bans during tension)\n- People-to-people: bus services (Lahore-Delhi), truck art, cross-border marriage (but restricted now)\n- Media: exchange of TV serials (dubbed), but often blocked",
+        "order": 2,
+        "cite": "U15"
+      },
+      {
+        "section": "Body",
+        "text": "Extent of effectiveness:\n- Soft power creates cultural goodwill but cannot overcome hard security issues (terrorism, LoC violations, diplomatic hostility)\n- Pakistan's state-sponsored terror (26/11, Pathankot, Pulwama) nullifies sports/cultural overtures\n- Indian public opinion now hostile to any engagement until terrorism stops\n- When security improves, soft power can accelerate normalization (e.g., 2004-2007 period)\n- Limited: cultural ties persist among artists, but government-to-government relations remain frozen",
+        "order": 3,
+        "cite": "U15"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Soft power alone cannot resolve fundamental disputes. It can be a confidence-building measure (CBM) when political will exists, but not a substitute for decisive action against terrorism. Sustained people-to-people contacts valuable, but strategic patience required.",
+        "order": 4,
+        "cite": "U15"
+      }
+    ]
+  }
+]
