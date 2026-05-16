@@ -1,0 +1,238 @@
+[
+  {
+    "uid": "UPSC_2013_ESSAY_01",
+    "paper_title": "Essay",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 250,
+    "importance": 3,
+    "question_text": "Be the change you want to see in others - Gandhiji.",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U13",
+    "q_number": "Q1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Gandhi's call for self-transformation as prerequisite for social change; contrast between preaching and practicing",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Individual responsibility over blaming systems – corruption, littering, gender discrimination begin with personal choices",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Examples of change-makers: Gandhi himself (Dandi March, charkha), Kiran Bedi (prison reforms), social entrepreneurs",
+        "order": 3,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Ripple effect: one person's ethical conduct influences family, workplace, community (Swachh Bharat, anti-bribery movements)",
+        "order": 4,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Psychological basis: cognitive dissonance, role modeling, social proof – leaders as catalysts",
+        "order": 5,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Counter-argument: systemic issues need structural change; but Gandhi insists individual change enables collective action",
+        "order": 6,
+        "cite": "U13"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Becoming the change is the most powerful form of leadership; sustainable transformation begins within",
+        "order": 7,
+        "cite": "U13"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_ESSAY_02",
+    "paper_title": "Essay",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 250,
+    "importance": 3,
+    "question_text": "Is the Colonial mentality hindering India's success?",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U13",
+    "q_number": "Q2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Colonial mentality – psychological legacy of British rule: preference for Western over indigenous, servility to authority, inferiority complex",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Manifestations in education: English obsession, Macaulay's system still dominant, neglect of Indian languages and knowledge systems",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "In governance: bureaucratic hierarchy (steel frame), red-tapism, IAS as 'collector Raj' – remnants of colonial administration",
+        "order": 3,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "In economy: preference for foreign brands (wheatish complexion bias), undervaluation of indigenous products (khadi, millets, traditional medicine)",
+        "order": 4,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Hindrance to success: stifles innovation (fear of failure), limits self-reliance (Atmanirbhar hampered), perpetuates brain drain",
+        "order": 5,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Positive counters: rising pride in Indian achievements (ISRO, digital public infra, startup ecosystem), cultural revival (yoga, Ayurveda), New Education Policy 2020",
+        "order": 6",
+        "cite": "U13"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Colonial mentality still present but diminishing; full success requires decolonizing the mind while selectively embracing global best practices",
+        "order": 7,
+        "cite": "U13"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_ESSAY_03",
+    "paper_title": "Essay",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 250,
+    "importance": 3,
+    "question_text": "GDP (Gross Domestic Product) along with GDH (Gross Domestic Happiness) would be the right indices for judging the well-being of a country.",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U13",
+    "q_number": "Q3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Limitations of GDP: ignores distribution, environment, health, leisure, social connections – Kuznets (1934) warning",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "GDH concept from Bhutan: nine domains (psychological well-being, health, education, time use, culture, governance, community vitality, environment, living standards)",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Why GDP+GDH is superior: captures economic output + quality of life; addresses Easterlin paradox (happiness doesn't rise linearly with income)",
+        "order": 3,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Global examples: UN World Happiness Report, OECD Better Life Index, India's efforts (Ease of Living Index, NITI Aayog's SDG index)",
+        "order": 4,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Challenges: GDH measurement subjective, cross-cultural comparability difficult, political manipulation risk, trade-offs between growth and happiness",
+        "order": 5,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "India's context: high GDP growth but low happiness rankings (India 136/146 in World Happiness 2022); need for mental health, work-life balance, environmental sustainability",
+        "order": 6,
+        "cite": "U13"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Neither GDP alone nor GDH alone is sufficient; composite indices combining economic, social, and environmental metrics are the way forward",
+        "order": 7,
+        "cite": "U13"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_ESSAY_04",
+    "paper_title": "Essay",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 250,
+    "importance": 3,
+    "question_text": "Science and Technology is the panacea for the growth and security of the nation.",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U13",
+    "q_number": "Q4",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Panacea means universal remedy – S&T has transformed lives but cannot solve all problems alone",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Growth through S&T: Green Revolution, IT revolution (India as software hub), space technology (ISRO's commercial launches), biotech (vaccines, GM crops)",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Security through S&T: nuclear deterrent, missile systems (Agni, Prithvi), cyber security, surveillance (satellites, drones), border fencing technology",
+        "order": 3,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Limitations: S&T cannot solve social issues (caste, gender, communalism), ethical dilemmas (AI, genetic engineering), distributional inequalities (digital divide)",
+        "order": 4,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Potential harms: cyber warfare, autonomous weapons, job displacement, environmental damage (e-waste, nuclear waste)",
+        "order": 5,
+        "cite": "U13"
+      },
+      {
+        "section": "Body",
+        "text": "Need for balanced approach: S&T must be guided by ethics, inclusive policies, regulatory frameworks (Personal Data Protection Bill, AI ethics guidelines)",
+        "order": 6,
+        "cite": "U13"
+      },
+      {
+        "section": "Conclusion",
+        "text": "S&T is necessary but not sufficient; growth and security also require good governance, social justice, and human values",
+        "order": 7,
+        "cite": "U13"
+      }
+    ]
+  }
+]
