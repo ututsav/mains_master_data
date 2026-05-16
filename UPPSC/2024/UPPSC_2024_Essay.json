@@ -1,0 +1,425 @@
+[
+  {
+    "uid": "UPPSC_2024_ESSAY_A1",
+    "paper_title": "Essay",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": 4,
+    "question_text": "Human values and literature. (700 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 Essay",
+    "q_number": "QA.1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Literature has historically served as both the mirror of society and the ultimate custodian of human values. It transcends geographical and temporal boundaries to capture the essence of morality, empathy, and ethical dilemmas.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Fostering Empathy and Universal Brotherhood: Through complex character narratives and emotional storytelling, literature bridges cultural divides. Classic works consistently emphasize universal humanism, teaching readers to empathize with the suffering and triumphs of others.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Challenging Oppressive Norms: Literature acts as a powerful catalyst for social reform. By highlighting injustices, inequalities, and moral decay, writers challenge the collective conscience of society, pushing it toward progressive ethical evolution.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Preserving Civilizational Ethics: In an era dominated by rapid technological advancement and materialistic pursuits, literary traditions act as an anchor, reminding humanity of fundamental virtues like honesty, sacrifice, and integrity.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Ultimately, literature is not merely an aesthetic pursuit but a vital moral compass that continuously refines and elevates the shared values of human civilization.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_ESSAY_A2",
+    "paper_title": "Essay",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": 4,
+    "question_text": "Imagination of 'New Woman' in India: A Myth. (700 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 Essay",
+    "q_number": "QA.2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The imagination of the 'New Woman' in India portrays an economically independent, socially emancipated, and politically aware female citizen. However, assessing the grassroots reality reveals a stark dichotomy between urban progress and deep-rooted patriarchal structures.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "The Facade of Urban Emancipation: While metropolitan India witnesses women leading corporate boardrooms and breaking glass ceilings, this represents a fraction of the demographic. For the vast majority, the 'double burden' of professional work and uncompensated domestic labor remains a harsh reality.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Persistent Structural Barriers: The myth is exposed by troubling socio-economic indicators. Declining female labor force participation rates in rural sectors, persistent gender wage gaps, and rising crimes against women underscore that systemic patriarchy has merely modernized, not vanished.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Political Tokenism vs. True Empowerment: Despite constitutional reservations in local governance, concepts like 'Sarpanch Pati' highlight how formal political rights are often subverted by male family members, limiting genuine female agency.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "While the 'New Woman' is not entirely a myth—given genuine strides in education and legal rights—it remains an unfinished project that requires dismantling deeply entrenched behavioral and social orthodoxies.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_ESSAY_A3",
+    "paper_title": "Essay",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": 5,
+    "question_text": "The impact of youth participation in nation building. (700 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 Essay",
+    "q_number": "QA.3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's unprecedented demographic dividend, characterized by a massive and energetic youth population, serves as the primary engine for its socio-economic, technological, and political transformation.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Economic Architects and Innovation: The youth are transitioning India from a service-based economy to a global hub of innovation. Their leadership in the start-up ecosystem, digital public infrastructure, and deep-tech sectors is redefining the nation's economic trajectory.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Drivers of Social Reform: A socially conscious youth demographic acts as the vanguard against orthodox practices. Through social media activism, environmental campaigns, and civil society engagements, they are forcing accountability and driving progressive cultural shifts.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "The Necessity of Skilling and Channelization: The impact of this participation relies heavily on institutional support. Without accessible, high-quality education and massive job creation, this demographic asset risks turning into a disruptive demographic disaster.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "By channeling their energy, adaptability, and vision through robust educational and employment frameworks, the youth will serve as the ultimate architects of a developed India.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_ESSAY_B1",
+    "paper_title": "Essay",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": 5,
+    "question_text": "Artificial Intelligence: Possibilities and Challenges. (700 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 Essay",
+    "q_number": "QB.1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Artificial Intelligence (AI) represents the apex of the Fourth Industrial Revolution, offering unprecedented transformative potential across all human endeavors, matched only by the severe ethical and socio-economic risks it poses.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Transformative Possibilities: AI's capacity to process massive datasets is revolutionizing critical sectors. In healthcare, it enables early disease detection and personalized medicine; in agriculture, precision farming; and in governance, highly targeted, leak-proof welfare delivery.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Socio-Economic Challenges and Job Disruption: The most immediate threat is the mass displacement of traditional, routine-based jobs. This automation wave risks exacerbating economic inequality, demanding a radical overhaul of global education and re-skilling frameworks.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Ethical and Security Dilemmas: Beyond economics, AI introduces profound threats to privacy and truth. The proliferation of deepfakes, algorithmic biases reinforcing social prejudices, and the weaponization of autonomous systems present severe national security challenges.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Maximizing AI's potential requires proactive, internationally coordinated regulatory frameworks that prioritize human-centric innovation while strictly capping its destructive capabilities.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_ESSAY_B2",
+    "paper_title": "Essay",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": 4,
+    "question_text": "'Start-up': The Future of India. (700 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 Essay",
+    "q_number": "QB.2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The rapid expansion of the Indian start-up ecosystem—now the third-largest globally—marks a definitive structural shift in the national mindset, moving from a culture of job-seeking to an aggressive culture of job-creation.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Driving Economic Decentralization: Start-ups are breaking the monopoly of traditional conglomerates. By leveraging digital connectivity, ventures originating in Tier-2 and Tier-3 cities are attracting massive Foreign Direct Investment (FDI) and democratizing wealth generation.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Solving Grassroots Challenges: Unlike conventional businesses, modern Indian start-ups uniquely focus on indigenous problems. Innovations in Agritech, Edtech, and Fintech are addressing supply-chain inefficiencies, rural education gaps, and financial exclusion at a massive scale.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Regulatory and Capital Hurdles: Despite impressive growth, the future relies on overcoming critical bottlenecks, including complex regulatory compliances, the 'funding winter', and the need to protect domestic intellectual property from foreign absorption.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "With sustained government backing and a focus on deep-tech R&D, start-ups will undeniably form the backbone of India's multi-trillion-dollar economic future.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_ESSAY_B3",
+    "paper_title": "Essay",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": 5,
+    "question_text": "Technological Innovation and Sustainable Development in Agriculture. (700 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 Essay",
+    "q_number": "QB.3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "To guarantee long-term food security for a growing population while battling severe climate change, Indian agriculture must transition immediately from resource-heavy traditional practices to technology-driven sustainable models.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "The Crisis of Traditional Agriculture: Decades of green-revolution methodologies have resulted in severe groundwater depletion, degraded soil health due to chemical overuse, and heightened vulnerability to unpredictable monsoon patterns.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Precision Farming and Resource Efficiency: Technological interventions like IoT sensors, agricultural drones, and automated micro-irrigation systems allow farmers to monitor soil moisture and apply water and fertilizers with pinpoint accuracy, minimizing ecological waste.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Biotech and Climate Resilience: Advancements in biotechnology are crucial for developing drought-resistant and bio-fortified seed varieties, ensuring crop survival against extreme weather shocks while boosting nutritional outputs.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Marrying ecological sustainability with high-yield technology is the only viable path to protect rural livelihoods and secure the nation's environmental and agricultural future.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_ESSAY_C1",
+    "paper_title": "Essay",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": 4,
+    "question_text": "India's rising popularity on international platform. (700 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 Essay",
+    "q_number": "QC.1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's contemporary foreign policy, backed by rapid economic growth and strategic autonomy, has significantly elevated its geopolitical stature, transforming it into a definitive and respected voice on the global stage.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Championing the Global South: Through proactive leadership in multilateral forums like the G20, BRICS, and the International Solar Alliance (ISA), India has successfully shifted international dialogues to address the developmental and climate concerns of emerging economies.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Strategic Autonomy and Crisis Diplomacy: India’s ability to maintain a balanced, independent stance amidst global polarizations—such as its principled navigation of the Russia-Ukraine conflict and its role as a first responder during global crises via 'Vaccine Maitri'—has earned widespread diplomatic credibility.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Soft Power Projection: Beyond hard geopolitics, the global expansion of Indian cultural exports, Yoga, Ayurveda, and the profound economic influence of the Indian diaspora have organically enhanced the nation's international appeal.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "This rising popularity cements India's trajectory away from a regional balancing power toward its rightful position as a responsible, multipolar superpower.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_ESSAY_C2",
+    "paper_title": "Essay",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": 5,
+    "question_text": "'Global Warming': A threat to the future. (700 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 Essay",
+    "q_number": "QC.2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Global warming is no longer a distant ecological theory but an immediate, escalating existential crisis that threatens to unravel global biodiversity, economic stability, and human civilization itself.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Catastrophic Ecological and Weather Impacts: The exponential rise in greenhouse gas emissions has triggered irreversible glacial melting, rising sea levels, and a dramatic surge in extreme weather events like hyper-cyclones, severe droughts, and unseasonal floods.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "The Socio-Economic Fall-out: These climatic shifts directly threaten global food security by destabilizing agricultural cycles. Furthermore, coastal inundation and resource scarcity are poised to create millions of climate refugees, sparking unprecedented geopolitical conflicts.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "The Need for Unified Mitigation: Piecemeal local efforts are insufficient. Combating this threat requires strict, legally binding global adherence to the Paris Agreement, rapid transitions to renewable energy grids, and massive climate financing for vulnerable developing nations.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Aggressive, immediate global carbon mitigation is not a policy option but an absolute biological imperative to secure a habitable future for succeeding generations.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2024_ESSAY_C3",
+    "paper_title": "Essay",
+    "year": 2024,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": 4,
+    "question_text": "Indian Economy and 'Make in India'. (700 words)",
+    "is_structured": 1,
+    "last_updated": 1779105600,
+    "cite": "UPPSC Mains 2024 Essay",
+    "q_number": "QC.3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Launched as a comprehensive structural overhaul, the 'Make in India' initiative seeks to transform the Indian economy from a consumption-heavy, import-dependent market into a sovereign global hub for design and manufacturing.",
+        "order": 1,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Catalyzing Industrial Growth and Self-Reliance: By targeting core sectors such as electronics, defense, and automobiles, the policy aims to aggressively expand the manufacturing sector's GDP contribution, drastically cutting strategic import dependencies.",
+        "order": 2,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Job Creation and Foreign Direct Investment (FDI): Coupled with Production Linked Incentive (PLI) schemes, the initiative has improved the 'Ease of Doing Business' rankings, attracting massive FDI and generating millions of formal blue-collar jobs to absorb the demographic dividend.",
+        "order": 3,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Persistent Structural Bottlenecks: To fully realize its potential, the economy must still overcome critical challenges, including high logistics costs, complex land acquisition laws, and the urgent need to upskill the rural labor force to meet modern industrial standards.",
+        "order": 4,
+        "cite": "UPPSC Mains 2024 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "By bridging these infrastructural and skill gaps, 'Make in India' holds the definitive key to establishing a resilient, export-oriented, multi-trillion-dollar national economy.",
+        "order": 5,
+        "cite": "UPPSC Mains 2024 Essay"
+      }
+    ]
+  }
+]
