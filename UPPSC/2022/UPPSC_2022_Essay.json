@@ -1,0 +1,371 @@
+[
+  {
+    "uid": "UPPSC_2022_Essay_QA1",
+    "paper_title": "Essay",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "New standard for the excellent literature.",
+    "is_structured": 1,
+    "last_updated": 1778949821,
+    "cite": "UPPSC Mains 2022 Essay",
+    "q_number": "QA.1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define the essence of literature as a reflection of society, noting how the parameters of what constitutes 'excellent literature' evolve with changing times.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss traditional standards: Classical literature was often judged on linguistic purity, adherence to poetic metrics, and the portrayal of elite or mythological narratives.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Analyze the 'new standards': Modern excellent literature prioritizes inclusivity (Dalit and feminist discourses), psychological realism, global relatability, and addressing contemporary crises like climate change and digital alienation.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while the medium and themes may shift, the ultimate standard of excellent literature remains its ability to evoke deep human empathy and provoke critical thought.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_Essay_QA2",
+    "paper_title": "Essay",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Women divided in double personality.",
+    "is_structured": 1,
+    "last_updated": 1778949821,
+    "cite": "UPPSC Mains 2022 Essay",
+    "q_number": "QA.2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Contextualize the modern woman's existence, caught between the traditional patriarchal expectations of home-making and the modern demands of professional ambition.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Explore the 'double burden': Society encourages women's education and economic independence but rarely recalibrates the division of unpaid domestic labor, forcing women to embody two conflicting personas simultaneously.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the psychological toll: This persistent duality leads to chronic stress, 'mom-guilt', workplace discrimination (the glass ceiling), and a constant struggle for identity.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that true women's empowerment requires moving beyond this forced duality by cultivating an egalitarian society where domestic and professional responsibilities are equally shared regardless of gender.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_Essay_QA3",
+    "paper_title": "Essay",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Role of Education in the eradication of unemployment.",
+    "is_structured": 1,
+    "last_updated": 1778949821,
+    "cite": "UPPSC Mains 2022 Essay",
+    "q_number": "QA.3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Acknowledge the paradox in India: rising literacy rates alongside a high rate of educated unemployment, highlighting the gap between basic literacy and employability.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Diagnose the current educational flaws: Rote learning methodologies, outdated curricula, and a lack of industry-academia linkage create a workforce lacking modern technical and soft skills.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the transformative role of relevant education: Vocational training, STEM education, fostering entrepreneurial mindsets, and the vision of the National Education Policy (NEP 2020) to integrate skills from the school level.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that education will only eradicate unemployment when it transitions from merely awarding degrees to actively imparting globally competitive, adaptable skill sets.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_Essay_QB1",
+    "paper_title": "Essay",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Blind industrialization is source of Environmental Pollution.",
+    "is_structured": 1,
+    "last_updated": 1778949821,
+    "cite": "UPPSC Mains 2022 Essay",
+    "q_number": "QB.1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define 'blind industrialization' as the aggressive pursuit of economic and manufacturing growth without regard for ecological balance or carrying capacity.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Analyze the mechanisms of pollution: Unregulated emissions leading to severe air pollution (smog, GHG accumulation), untreated industrial effluents creating dead zones in rivers (e.g., Ganga, Yamuna), and toxic solid waste degrading soil fertility.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the consequences: Accelerated climate change, loss of biodiversity, and severe public health crises for populations living near industrial clusters.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Advocate for sustainable development: Recommending strict environmental impact assessments (EIA), a shift towards circular economies, and the adoption of green technologies to harmonize industry with nature.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_Essay_QB2",
+    "paper_title": "Essay",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Contribution of Agriculture in the Indian Economy.",
+    "is_structured": 1,
+    "last_updated": 1778949821,
+    "cite": "UPPSC Mains 2022 Essay",
+    "q_number": "QB.2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Establish agriculture as the primary backbone of the Indian economy, emphasizing that while its GDP share has declined, it remains the largest employer.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Detail its multi-dimensional contributions: It ensures national food security, provides raw materials for major industries (textiles, sugar, food processing), and creates significant rural demand that drives the manufacturing and service sectors.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Highlight economic stabilizers: Agriculture often acts as a shock absorber during global economic crises or pandemics (as seen during COVID-19) and contributes substantially to export earnings.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that securing the future of the Indian economy hinges on modernizing agriculture through tech-infusion, infrastructure development, and ensuring remunerative prices for farmers.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_Essay_QB3",
+    "paper_title": "Essay",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Increasing Regionalism and National Unity.",
+    "is_structured": 1,
+    "last_updated": 1778949821,
+    "cite": "UPPSC Mains 2022 Essay",
+    "q_number": "QB.3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define regionalism as a strong feeling of pride or loyalty towards a particular region, which can act as both a tool for localized development and a threat to macro-nationalism.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Examine the roots of increasing regionalism: Uneven economic development (rich states vs poor states), political exploitation of linguistic and cultural identities (sons-of-the-soil movements), and perceived neglect by the central government.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Analyze the impact on national unity: While positive regionalism fosters competitive federalism and preserves diverse cultural heritage, toxic regionalism leads to secessionist demands, inter-state border/water disputes, and xenophobia against migrants.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that national unity in India does not mean uniformity; it requires strengthening cooperative federalism and ensuring equitable economic growth to harmonize regional aspirations with national goals.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_Essay_QC1",
+    "paper_title": "Essay",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Jan-Dhan Scheme is the charioteer of poors.",
+    "is_structured": 1,
+    "last_updated": 1778949821,
+    "cite": "UPPSC Mains 2022 Essay",
+    "q_number": "QC.1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the Pradhan Mantri Jan Dhan Yojana (PMJDY) as the world's largest financial inclusion initiative, aimed at breaking the vicious cycle of poverty by providing access to the formal banking system.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Explain its mechanisms as a 'charioteer': Offering zero-balance accounts, RuPay debit cards, inbuilt accident/life insurance, and overdraft facilities to individuals who were historically ignored by commercial banks.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the socio-economic empowerment: It forms the foundation of the JAM (Jan Dhan, Aadhaar, Mobile) trinity, ensuring leak-proof Direct Benefit Transfers (DBT), promoting a savings culture, and freeing the rural poor from the clutches of exploitative moneylenders.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that PMJDY is not just a banking scheme but a vehicle of social justice, steering the marginalized toward economic independence and dignity.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_Essay_QC2",
+    "paper_title": "Essay",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "For water preservation river co-ordination is demand of todays.",
+    "is_structured": 1,
+    "last_updated": 1778949821,
+    "cite": "UPPSC Mains 2022 Essay",
+    "q_number": "QC.2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Highlight the paradoxical water crisis in India, where certain regions suffer from chronic drought while others face devastating annual floods, making water preservation an existential priority.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the concept and benefits of River Interlinking: Connecting surplus river basins (e.g., Himalayan rivers) to deficit basins (e.g., Peninsular rivers) to optimize water distribution, ensure year-round irrigation, generate hydroelectricity, and mitigate floods/droughts.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Analyze the challenges and ecological concerns: Massive capital requirements, forced human displacement, geopolitical friction (international and inter-state treaties), and the severe ecological impact of altering natural aquatic ecosystems.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while river coordination offers a macro-solution, it must be pursued cautiously alongside micro-level preservation efforts like rainwater harvesting and watershed management.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2022_Essay_QC3",
+    "paper_title": "Essay",
+    "year": 2022,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Television is leading bad-culture.",
+    "is_structured": 1,
+    "last_updated": 1778949821,
+    "cite": "UPPSC Mains 2022 Essay",
+    "q_number": "QC.3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Acknowledge television as a powerful medium of mass communication that originally aimed to educate and inform, but has increasingly pivoted towards sensationalism and commercialization.",
+        "order": 1,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Explore the promotion of 'bad culture': The proliferation of toxic reality shows, hyper-aggressive news debates that polarize society, and daily soaps that reinforce regressive stereotypes or unrealistic, materialistic lifestyles.",
+        "order": 2,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the psychological and social impact: It breeds consumerism, normalizes violence and vulgarity, reduces the attention span of the youth, and erodes the time spent on reading and genuine family interaction.",
+        "order": 3,
+        "cite": "UPPSC Mains 2022 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while TV itself is just a tool, combating this cultural degradation requires robust media literacy among viewers and stronger ethical guidelines for broadcasters.",
+        "order": 4,
+        "cite": "UPPSC Mains 2022 Essay"
+      }
+    ]
+  }
+]
