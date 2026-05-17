@@ -1,0 +1,371 @@
+[
+  {
+    "uid": "UPPSC_2018_Essay_QA1",
+    "paper_title": "Essay",
+    "year": 2018,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "The social responsibilities of Literature.",
+    "is_structured": 1,
+    "last_updated": 1778968500,
+    "cite": "UPPSC Mains 2018 Essay",
+    "q_number": "QA.1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define literature as the mirror of society. It goes beyond mere artistic expression or entertainment to bear a profound responsibility in shaping human consciousness and societal values.",
+        "order": 1,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss its role as a societal critique: Literature exposes the prevailing socio-economic injustices, orthodoxies, and human sufferings. For instance, the works of Munshi Premchand highlighted agrarian distress, while Dalit and feminist literature bring marginalized voices to the mainstream.",
+        "order": 2,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss its role as a catalyst for change: It inspires social reform and national awakening. Patriotic literature fueled India's freedom struggle, and progressive writings continuously challenge readers to envision an egalitarian, empathetic, and tolerant society.",
+        "order": 3,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that literature's ultimate social responsibility is to act as the moral conscience of humanity, bridging the gap between current realities and ideal humanistic values.",
+        "order": 4,
+        "cite": "UPPSC Mains 2018 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2018_Essay_QA2",
+    "paper_title": "Essay",
+    "year": 2018,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Hindi language is the symbol of National integrity.",
+    "is_structured": 1,
+    "last_updated": 1778968500,
+    "cite": "UPPSC Mains 2018 Essay",
+    "q_number": "QA.2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Establish the premise that language is a powerful unifying force. Hindi, with its vast demographic reach and historical legacy, plays a pivotal role in fostering a shared national identity.",
+        "order": 1,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Highlight its historical and cultural role: During the freedom struggle, Hindi acted as the lingua franca that united diverse linguistic regions against colonial rule. Today, it serves as an effective medium of pan-Indian communication, trade, and popular culture (cinema, media).",
+        "order": 2,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the challenges and the inclusive approach: Acknowledge the sensitivities of non-Hindi speaking states regarding perceived linguistic imposition. True national integrity requires promoting Hindi not by replacement, but organically alongside the rich tapestry of regional languages (via the Three-Language Formula).",
+        "order": 3,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that Hindi, when embraced as a connective bridge rather than a hegemon, beautifully harmonizes India's immense linguistic diversity into a cohesive national whole.",
+        "order": 4,
+        "cite": "UPPSC Mains 2018 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2018_Essay_QA3",
+    "paper_title": "Essay",
+    "year": 2018,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Education and Moral values.",
+    "is_structured": 1,
+    "last_updated": 1778968500,
+    "cite": "UPPSC Mains 2018 Essay",
+    "q_number": "QA.3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define true education as a process that transcends mere intellectual literacy and technical skill acquisition; its ultimate goal is character building and the instillation of robust moral values.",
+        "order": 1,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Analyze the current crisis: Modern education has become highly commercialized, competitive, and aggressively materialistic. The decoupling of ethics from academics has led to highly educated professionals engaging in corruption, corporate fraud, and environmental degradation.",
+        "order": 2,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the integration of values: Schools and universities must actively cultivate virtues like empathy, integrity, tolerance, and constitutional morality. Teachers serving as moral role models and a curriculum that emphasizes humanities and ethics are essential for this synthesis.",
+        "order": 3,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that education without moral values produces \"clever devils\" rather than responsible citizens. Fostering an ethical educational ecosystem is the only way to ensure a just and sustainable society.",
+        "order": 4,
+        "cite": "UPPSC Mains 2018 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2018_Essay_QB1",
+    "paper_title": "Essay",
+    "year": 2018,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Progress of India in the Space World.",
+    "is_structured": 1,
+    "last_updated": 1778968500,
+    "cite": "UPPSC Mains 2018 Essay",
+    "q_number": "QB.1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the Indian Space Research Organisation (ISRO) and its remarkable trajectory from transporting rocket parts on bicycles in Thumba to becoming an elite, self-reliant global space superpower.",
+        "order": 1,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Highlight monumental achievements: Detail milestones like the flawless execution of Chandrayaan and Mangalyaan (MOM) at a fraction of global costs, the development of indigenous launch vehicles (PSLV, GSLV Mk-III), and the creation of India's own navigation system, NavIC.",
+        "order": 2,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss socio-economic and strategic benefits: Space technology directly impacts the common citizen through telemedicine, tele-education, precise weather forecasting, and disaster management. Commercially, it brings in massive foreign exchange via satellite launches. Strategically, space assets are vital for border surveillance and national security.",
+        "order": 3,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that India's space program is a shining beacon of self-reliance (Aatmanirbharta) that seamlessly combines high-end technological prowess with deep socio-economic utility.",
+        "order": 4,
+        "cite": "UPPSC Mains 2018 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2018_Essay_QB2",
+    "paper_title": "Essay",
+    "year": 2018,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Mahatma Gandhi is still relevant today.",
+    "is_structured": 1,
+    "last_updated": 1778968500,
+    "cite": "UPPSC Mains 2018 Essay",
+    "q_number": "QB.2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "State that Mahatma Gandhi is not merely a historical figure confined to the freedom struggle; his profound philosophies offer timeless solutions to the most pressing crises of the 21st century.",
+        "order": 1,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Analyze relevance in global politics and society: In an era marred by terrorism, nuclear proliferation, and extreme polarization, Gandhi's unwavering commitment to Ahimsa (non-violence) and Satyagraha (truth-force) remains the most potent alternative to conflict. His advocacy for Sarvodaya provides a blueprint for inclusive social justice.",
+        "order": 2,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Analyze relevance in economics and environment: Against the backdrop of catastrophic climate change and hyper-consumerism, his philosophy that 'the Earth has enough for everyone's need, but not greed' is highly pertinent. His focus on Gram Swaraj (village self-rule) and sustainable, decentralized economies answers modern woes of jobless growth and ecological ruin.",
+        "order": 3,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that embracing Gandhian principles is an absolute necessity for the moral, ecological, and political survival of modern civilization.",
+        "order": 4,
+        "cite": "UPPSC Mains 2018 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2018_Essay_QB3",
+    "paper_title": "Essay",
+    "year": 2018,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Green Revolution is essential for life.",
+    "is_structured": 1,
+    "last_updated": 1778968500,
+    "cite": "UPPSC Mains 2018 Essay",
+    "q_number": "QB.3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Contextualize India's post-independence era, plagued by severe food shortages and a 'ship-to-mouth' existence, making the agricultural modernization of the Green Revolution a matter of sheer national survival.",
+        "order": 1,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss its monumental success: The introduction of High Yielding Variety (HYV) seeds, chemical fertilizers, and assured irrigation transformed India into a food-surplus nation. It saved millions from starvation, ensured national food security, and catalyzed rural economic growth.",
+        "order": 2,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Examine the contemporary need for an 'Evergreen Revolution': While the original revolution sustained life, its ecological costs—depleted water tables, soil degradation, and chemical toxicity—are now threatening it. The modern essentiality lies in transitioning to a sustainable, climate-resilient agricultural model that feeds a growing population without destroying the ecosystem.",
+        "order": 3,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that agricultural revolution remains fundamentally essential for human life, but its future iterations must strictly harmonize high productivity with ecological sustainability.",
+        "order": 4,
+        "cite": "UPPSC Mains 2018 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2018_Essay_QC1",
+    "paper_title": "Essay",
+    "year": 2018,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "The problem of Global Terrorism: causes and remedies.",
+    "is_structured": 1,
+    "last_updated": 1778968500,
+    "cite": "UPPSC Mains 2018 Essay",
+    "q_number": "QC.1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define global terrorism as an asymmetric, borderless threat that seeks to achieve political, religious, or ideological goals through mass panic and violence against non-combatants, acting as the greatest menace to world peace.",
+        "order": 1,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Analyze the underlying causes: Highlight the role of state-sponsored proxy wars, extreme religious fundamentalism, perceived socio-economic injustices and marginalization, geopolitical interventions by superpowers, and the weaponization of social media for radicalization and recruitment.",
+        "order": 2,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Propose comprehensive remedies: Emphasize the urgent need for a unified global definition and treaty (like the CCIT). Remedies must include choking terror financing networks (via FATF), robust intelligence sharing, neutralizing terrorist safe havens, and addressing the root socioeconomic grievances that breed radicalization.",
+        "order": 3,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that defeating global terrorism requires moving beyond isolated military strikes to form a resolute, zero-tolerance multilateral alliance that dismantles the ideological and financial infrastructure of terror.",
+        "order": 4,
+        "cite": "UPPSC Mains 2018 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2018_Essay_QC2",
+    "paper_title": "Essay",
+    "year": 2018,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "The Foreign Policy of India is based upon the principle of Peace and Equality.",
+    "is_structured": 1,
+    "last_updated": 1778968500,
+    "cite": "UPPSC Mains 2018 Essay",
+    "q_number": "QC.2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Establish that India's foreign policy is not driven by expansionist or hegemonic ambitions, but is deeply anchored in its civilizational ethos of 'Vasudhaiva Kutumbakam' (the world is one family) and mutual respect.",
+        "order": 1,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss historical foundations: Highlight the principles of Panchsheel (peaceful coexistence) and the Non-Aligned Movement (NAM), which allowed India to advocate for global disarmament, decolonization, and equality among nations during the polarized Cold War era.",
+        "order": 2,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss contemporary manifestations: India seeks peaceful resolution of border disputes and maintains a strict 'No First Use' nuclear doctrine. It champions equality by acting as the voice of the Global South, demanding democratized UN reforms, and leading cooperative global initiatives like the International Solar Alliance (ISA).",
+        "order": 3,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that India's rise is inherently peaceful; its foreign policy continuously strives for a multipolar, equitable world order based on the rule of law rather than the rule of force.",
+        "order": 4,
+        "cite": "UPPSC Mains 2018 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2018_Essay_QC3",
+    "paper_title": "Essay",
+    "year": 2018,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "The Border Security Forces are the main factor of our National sovereignty.",
+    "is_structured": 1,
+    "last_updated": 1778968500,
+    "cite": "UPPSC Mains 2018 Essay",
+    "q_number": "QC.3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define national sovereignty as the supreme authority of a state over its territory. In a volatile geopolitical neighborhood, the inviolability of physical borders is the most fundamental prerequisite for maintaining this sovereignty.",
+        "order": 1,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the crucial role of Border Security Forces (BSF, ITBP, SSB): They serve as India's first line of defense during peacetime, standing guard across incredibly hostile terrains (deserts, high-altitude mountains, marshes). Their continuous vigilance thwarts hostile state incursions and maintains territorial sanctity.",
+        "order": 2,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss their role against asymmetric threats: Beyond conventional warfare, these forces protect sovereignty from non-traditional threats. They actively intercept cross-border terrorism, arms smuggling, narcotics trafficking, and illegal immigration, which are designed to destabilize the nation internally.",
+        "order": 3,
+        "cite": "UPPSC Mains 2018 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the relentless dedication, supreme sacrifices, and modernization of our border guarding forces form the invisible shield behind which India's democracy and economic progress safely flourish.",
+        "order": 4,
+        "cite": "UPPSC Mains 2018 Essay"
+      }
+    ]
+  }
+]
