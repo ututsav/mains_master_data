@@ -1,0 +1,702 @@
+[
+  {
+    "uid": "UPSC_2018_GSP2_01",
+    "paper_title": "GS Paper 2",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "In the light of recent controversy regarding the use of Electronic Voting Machines (EVM), what are the challenges before the Election Commission of India to ensure the trustworthiness of elections in India? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "EVMs have been used since 1998, but allegations of tampering (especially post-2019) have challenged their credibility, despite judicial and technical validations.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Challenges: Lack of voter-verified paper audit trail (VVPAT) in early EVMs – now mandatory; educating voters on VVPAT verification; logistical challenge of random VVPAT counting (5% as per SC order) and delays in results; political accusations without evidence, eroding trust; ensuring security of EVM storage and transport; countering disinformation about hacking. ECI's response: EVM challenge (2017) proved tamper-proof; conducting mock polls; transparency through open demonstrations.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, ECI must combine technical robustness, legal backup, public awareness, and political consensus to maintain electoral trust.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP2_02",
+    "paper_title": "GS Paper 2",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Whether National Commission for Scheduled Castes (NCSC) can enforce the implementation of constitutional reservation for the Scheduled Castes in the religious minority institutions? Examine. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "NCSC is a constitutional body under Article 338, empowered to investigate and monitor safeguards for SCs. Religious minority institutions are governed by Article 30(1) giving them right to establish and administer educational institutions.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "The Supreme Court in P.A. Inamdar (2005) held that minority institutions are not bound by state reservation policies, except for the 50% reservation for the institution's own minority community. However, SC reservation is not applicable to minority institutions unless they are 'aided' and the state law extends reservation. NCSC can recommend and advise, but cannot enforce reservation in unaided minority institutions. It can inquire into complaints of discrimination under SC/ST Act, but not impose quotas. Thus, NCSC's power is limited to ensuring non-discrimination, not enforcing caste-based reservation in minority-run religious institutions.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Therefore, NCSC cannot enforce SC reservation in religious minority institutions, but it can act against any discriminatory practices.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP2_03",
+    "paper_title": "GS Paper 2",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Under what circumstances can the Financial Emergency be proclaimed by the President of India? What consequences follow when such a declaration remains in force? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Article 360 empowers the President to proclaim a Financial Emergency if the financial stability or credit of India or any part thereof is threatened.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Circumstances: severe fiscal deficit, balance of payments crisis, inability to service debt, or external shocks. Never proclaimed so far. Consequences while in force: President can reduce salaries of judges, Supreme Court, High Courts; can give directions to states on financial matters (e.g., cutting salaries of civil servants, reserves bills for presidential consideration); all money bills passed by state legislatures require presidential approval. The proclamation must be approved by Parliament within two months and can be extended indefinitely.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, Financial Emergency gives the Centre sweeping powers, but its draconian nature has prevented its use in India's post-independence history.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP2_04",
+    "paper_title": "GS Paper 2",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Why do you think the committees are considered to be useful for parliamentary work? Discuss, in this context, the role of the Estimates Committee. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q4",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Parliamentary committees enable detailed scrutiny, expert input, and cross-party consensus, overcoming time constraints of full House sessions.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Usefulness: examine bills clause by clause; summon experts and officials; build consensus; reduce executive dominance. Estimates Committee (30 members, all from Lok Sabha) examines expenditure estimates in budget, suggests economies, and reports on whether funds are spent within policy limits. It does not question policy, but can suggest alternative allocation. It plays a vital role in financial accountability, complementing the CAG's audit. For example, it scrutinized defence procurement inefficiencies.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, committees like Estimates Committee enhance parliamentary oversight and ensure responsible governance.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP2_05",
+    "paper_title": "GS Paper 2",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "\"The Comptroller and Auditor General (CAG) has a very vital role to play.\" Explain how this is reflected in the method and terms of his appointment as well as the range of powers he can exercise. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q5",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "CAG is a constitutional authority under Article 148, appointed by the President by warrant under his hand and seal, after consultation with the Prime Minister (no fixed term), but can be removed only like a Supreme Court judge (proved misbehaviour).",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Powers: audits all expenditure from Consolidated Fund of India and states; audits accounts of government companies, corporations, and autonomous bodies; certifies net proceeds of taxes (for distribution between Centre and states); authority to prescribe accounting standards. CAG's reports are submitted to the President/Governor and laid before Parliament/Legislature. This independence in appointment and removal, combined with wide audit powers, makes CAG the guardian of public purse and a key accountability mechanism.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, CAG's constitutional safeguards and audit jurisdiction reflect its vital role in financial oversight.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP2_06",
+    "paper_title": "GS Paper 2",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "\"Policy contradictions among various competing sectors and stakeholders have resulted in inadequate 'protection and prevention of degradation' to environment.\" Comment with relevant illustrations. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q6",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Environmental protection in India often conflicts with industrial growth, infrastructure, and agricultural policies, leading to weak enforcement.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Illustrations: Forest Conservation Act vs mining/railway projects (e.g., Goan mining, Mumbai-Ahmedabad bullet train through forest land). Water pollution laws vs thermal power plants and industrial zones (e.g., Ganga cleaning delays due to tanneries and sugar mills). Coastal Regulation Zone (CRZ) violations by ports and real estate (Mumbai coastal road). Agriculture policies (subsidized electricity and urea) cause groundwater depletion and soil degradation. Each ministry pursues its own mandate; the Ministry of Environment is often overruled. Clearance processes are fast-tracked at the cost of safeguards.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, policy contradictions among development, economy, and environment reduce protection efficacy; integrated governance is essential.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP2_07",
+    "paper_title": "GS Paper 2",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Appropriate local community-level healthcare intervention is a prerequisite to achieve 'Health for All' in India. Explain. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q7",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's National Health Mission (NHM) and Ayushman Bharat aim for universal health coverage. Primary Health Centres (PHCs) and community health workers (ASHAs) are key local interventions.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Why prerequisite: 70% of Indians live in rural areas; cultural beliefs and accessibility barriers require local solutions. ASHA workers and village health sanitation committees (VHSCs) provide preventive care (vaccination, maternal health), health education, and first contact. Local interventions improve coverage of nutrition (ICDS), sanitation (Swachh Bharat), and disease surveillance (e.g., TB). Kerala's success is due to local health committees. Without community ownership, even well-funded tertiary care fails to reach the poor. Examples: RBSK (Rashtriya Bal Swasthya Karyakram) for school children.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, strengthening local health institutions and community participation is indispensable for 'Health for All'.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP2_08",
+    "paper_title": "GS Paper 2",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "E-governance is not only about utilization of the power of new technology, but also much about critical importance of the 'use value' of information. Explain. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q8",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "E-governance uses ICT to deliver government services. 'Use value' refers to the practical utility and accessibility of information for citizens, not just its availability.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Technology alone (websites, apps) fails if information is not in usable format (local language, simple interface, offline access). Example: Digital India's 'Common Service Centres' (CSCs) provide last-mile assistance; otherwise, digital divide excludes poor. Similarly, land records digitization (DILRMP) requires integration with registration and mapping to be useful. Without use value, data remains 'big data' without impact – e.g., hospital management systems must generate actionable alerts, not just records. Thus, e-governance's success depends on citizen-centric design and data interoperability.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Therefore, focus must shift from technology deployment to ensuring information is accessible, understandable, and actionable.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP2_09",
+    "paper_title": "GS Paper 2",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "\"India's relations with Israel have, of late, acquired a depth and diversity, which cannot be rolled back.\" Discuss. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q9",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India established full diplomatic ties with Israel in 1992. Since Modi's visit in 2017 (first by an Indian PM), relations have deepened across defence, agriculture, water, and technology.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Depth and diversity: Defence – India is Israel's largest arms customer (missiles, drones, radars). Agriculture – Indo-Israel Centers of Excellence for drip irrigation, high-yield seeds. Water – desalination and water recycling partnerships. Counter-terrorism – intelligence sharing. Innovation – joint R&D fund. These are strategic and economic, insulated from political changes because they benefit both nations. India's Palestine policy remains separate (support for two-state solution). The relationship is now multi-dimensional and built on mutual self-interest, hence irreversible.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, India-Israel ties have matured into a resilient partnership that will continue regardless of political shifts.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP2_10",
+    "paper_title": "GS Paper 2",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "A number of outside powers have entrenched themselves in Central Asia, which is a zone of interest to India. Discuss the implications, in this context, of India's joining the Ashgabat Agreement, 2018. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q10",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Ashgabat Agreement (signed 2011, India joined 2018) establishes an international transport and transit corridor linking Central Asia to the Persian Gulf and beyond.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Implications: Enhances India's connectivity to Central Asia without crossing Pakistan (via Chabahar port, then Iran, Turkmenistan, Uzbekistan). Reduces dependence on China's Belt and Road. Boosts trade (oil, gas, fruits, minerals) and energy imports. Also, India can counter Chinese and Pakistani influence in the region. However, challenges: instability in Afghanistan, need for infrastructure investment, and Russian/Sino competition. Joining the agreement gives India transit rights and cheaper access, strengthening its 'Connect Central Asia' policy.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, India's membership is a strategic move to gain economic and geopolitical foothold in a contested region.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP2_11",
+    "paper_title": "GS Paper 2",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Whether the Supreme Court Judgement (July 2018) can settle the political tussle between the Lt. Governor and elected government of Delhi? Examine. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q11",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The 2018 SC judgment (Government of NCT of Delhi v. Union of India) clarified the powers of the Delhi government vis-à-vis the Lieutenant Governor (LG) after years of friction (2015-2018).",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Key rulings: LG is bound by the 'aid and advice' of the Council of Ministers except on three reserved subjects – police, public order, and land. The LG cannot act as an obstructionist or refer every file to the President. The SC rejected the Centre's argument that Delhi is a 'Union Territory' in full control of LG. However, it left open that the LG can refer a matter to the President if it violates constitutional provisions. Did it settle the tussle? Partially – subsequent conflicts (e.g., over appointment of bureaucrats, control of services) continued because the judgment did not decide on 'services' (this was referred to a larger bench). The 2023 SC judgment further clarified that the government has power over administrative services except police. Thus, while the 2018 judgment established principles, it did not end all disputes, as service matters remained unresolved.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the 2018 SC judgment settled some issues but not all; a complete resolution requires either legislative amendment or further judicial clarity.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP2_12",
+    "paper_title": "GS Paper 2",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "How far do you agree with the view that tribunals curtail the jurisdiction of ordinary courts? In view of the above, discuss the constitutional validity and competency of the tribunals in India. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q12",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Tribunals under Article 323A/323B (e.g., CAT, ITAT, NGT, NCLT) were created to reduce court burden and provide specialized adjudication. They do curtail the jurisdiction of ordinary courts, but that is deliberate.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Tribunals have exclusive jurisdiction over certain matters (service, tax, environment, company law) – excluding ordinary courts (except SC under Article 136). However, the Supreme Court in L. Chandra Kumar (1997) held that tribunals are under the High Court's judicial review (Article 226/227), so they are not completely insulated. Constitutional validity: upheld as permissible alternative institutional mechanisms, provided they maintain independence (tenure, qualifications) akin to courts. Competency issues: Some tribunals suffer from lack of technical members, executive interference, backlog. The Finance Act 2017 transferred tribunal administration to Ministry of Law, but governance reforms remain incomplete. Tribunals are competent in specialized areas (e.g., NGT has environmental science experts). However, they should not be mere 'rubber stamps'; SC's L. Chandra Kumar ensures basic structure protection.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, tribunals do curtail ordinary court jurisdiction, but are constitutionally valid; their effective functioning requires structural independence and expertise.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP2_13",
+    "paper_title": "GS Paper 2",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "India and USA are two large democracies. Examine the basic tenets on which the two political systems are based. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q13",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India (parliamentary) and USA (presidential) are both democracies but with fundamental differences in their constitutional philosophy.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Basic tenets – India: sovereignty vested in the Constitution (rigid yet flexible), parliamentary supremacy (within limits of basic structure), fundamental rights with reasonable restrictions, directive principles (non-justiciable), secularism (positive accommodation), federal with unitary bias, single citizenship, integrated judiciary. USA: popular sovereignty expressed through a written Constitution (very rigid), separation of powers with checks and balances, bill of rights (negative liberties – state cannot interfere), federalism with dual citizenship, independent Supreme Court with judicial review, and a presidential system where executive is not part of legislature. Both have regular elections, rule of law, independent media, and civil liberties. However, India's political system leans towards cooperative federalism and social welfare, while USA emphasizes individual liberty and limited government. India has multiple parties, USA two-party system. India's secularism includes state intervention in religion (e.g., temple administration), while USA's 'wall of separation' keeps state away.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, while both are democracies, they diverge in separation of powers, federal structure, and role of state in religion and social justice.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP2_14",
+    "paper_title": "GS Paper 2",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "How is the Finance Commission of India constituted? What do you know about the terms of reference of the recently constituted Finance Commission? Discuss. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q14",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Finance Commission (FC) is a constitutional body (Article 280) appointed every five years by the President. It consists of a Chairman and four members.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Constitution: Qualifications – Chairman must have experience in public affairs; members are experts in economics, finance, administration. Current (15th FC) was chaired by N.K. Singh (2017-2021). Terms of Reference (ToR) of 15th FC: To recommend distribution of net tax proceeds between Centre and states; principles governing grants-in-aid; measures to augment Consolidated Fund of states; review of disaster management, defence and internal security funding; performance-based incentives (achievements in revenue effort, power sector, health, education). Also, to examine whether a separate 'local body' grant should be linked to performance. The FC was asked to use 2011 population for devolution (instead of 1971) for equity. The 15th FC recommended 41% share for states (down from 42% due to special status removal for J&K).",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, FC is independent in its functioning, and its ToRs reflect emerging priorities like fiscal consolidation and performance-based devolution.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP2_15",
+    "paper_title": "GS Paper 2",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Assess the importance of the Panchayat system in India as a part of local government. Apart from government grants, what sources the Panchayats can look out for financing developmental projects? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q15",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The 73rd Amendment (1992) gave constitutional status to Panchayati Raj Institutions (PRIs) as local self-governments for rural India.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Importance: Decentralized planning and implementation of 29 subjects (11th Schedule); direct democracy through Gram Sabhas; empowers marginalized (SC/ST/women) through reservations; improves service delivery (education, health, water) and bottom-up development. However, financial autonomy is weak. Alternative financing sources for Panchayats: (i) Own tax revenue – property tax, land revenue, taxes on markets, pilgrimage, entertainment. (ii) Non-tax revenue – user charges for water supply, sanitation, rent from community halls, tolls, fees for use of common resources. (iii) State Finance Commission recommended grants (untied). (iv) Borrowing from financial institutions (if state permits). (v) Public-private partnerships for infrastructure (e.g., solid waste management). (vi) Corporate Social Responsibility (CSR) funds. (vii) Issue of municipal bonds (for larger panchayats). (viii) Crowdfunding and community contributions (Gram Panchayat Development Fund). Kerala's Kudumbashree and Tamil Nadu's gram panchayat bonds are examples.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, empowering PRIs with revenue-raising autonomy and tapping innovative finance sources can strengthen grassroots governance.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP2_16",
+    "paper_title": "GS Paper 2",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Multiplicity of various commissions for the vulnerable sections of the society leads to problems of overlapping jurisdiction and duplication of functions. Is it better to merge all commissions into an umbrella Human Rights Commission? Argue your case. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q16",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India has separate statutory commissions for SC, ST, OBC, Women, Minorities, Children, and the National Human Rights Commission (NHRC). Overlap indeed occurs.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Problems: duplication of inquiries, multiple reports, confusion for complainants, waste of resources, and jurisdictional disputes (e.g., SC/ST atrocity cases vs human rights cases). Arguments for merging into NHRC: single window, efficiency, unified human rights approach, better resource use, and holistic perspective. Arguments against: each vulnerable group has specific constitutional safeguards (Articles 338, 338A, 340, 15(4), 16(4)) – merging may dilute specialised attention. NHRC already has jurisdiction over violations of SC/ST Act, but NCSC has proactive monitoring and advisory powers on reservations. Women's issues require gender-specific expertise. In many countries (e.g., Australia, UK), commissions are merged, but India's diversity may require a hybrid model: a NHRC with separate specialised divisions (including dedicated experts for SC/ST, women, etc.), or a coordinating council. Complete merger risks marginalizing group-specific issues. Better to strengthen coordination through inter-commission joint sessions and common complaint management system.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, while overlaps exist, full merger may not be ideal; instead, improved coordination and shared data systems can reduce duplication.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP2_17",
+    "paper_title": "GS Paper 2",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "How far do you agree with the view that the focus on lack of availability of food as the main cause of hunger takes the attention away from ineffective human development policies in India? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q17",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's National Food Security Act (2013) and PDS have addressed food availability, but hunger persists (Global Hunger Index 2023: 111th). This suggests deeper causes.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Arguments agreeing: India has surplus food stocks; hunger is more about access, utilization, and stability. Ineffective human development policies – poor health (malnutrition, stunting), inadequate sanitation (open defecation), low female literacy, lack of clean water, and poor child feeding practices – cause chronic hunger. Example: ICDS (Anganwadi) underutilized due to low quality and reach. Focus on food availability alone diverts attention from these structural failures. Counterview: availability is still a problem for some remote areas and during shocks (COVID, climate). But overall, the shift is needed from 'food security' to 'nutrition security'. The Poshan Abhiyaan (2018) tries to address this, but implementation lags. The statement is largely correct: overemphasis on PDS and buffer stocks ignores the health-education-nutrition nexus.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, I agree that ineffective human development policies are the primary cause of India's hunger, not just food shortage.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP2_18",
+    "paper_title": "GS Paper 2",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "The Citizens' Charter is an ideal instrument of organizational transparency and accountability, but it has its own limitations. Identify the limitations and suggest measures for greater effectiveness of the Citizens' Charter. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q18",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Citizens' Charter (CC) is a voluntary document specifying service standards, grievance redressal, and expectations from a public agency. Introduced in India in 1996.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Limitations: Not legally enforceable (non-justiciable); often not updated; poor awareness among citizens; lack of consultation with actual users; no penalty for non-compliance; weak grievance redressal (often only a suggestion box). Many CCs are too generic (e.g., 'courteous service') without time-bound standards. Measures for effectiveness: Make CC a statutory requirement (as in UK's 'Customer Service Excellence' standard). Mandate a 'Citizens' Delivery Unit' at district level. Involve civil society in drafting. Display CC prominently in local language with measurable standards (e.g., passport within 30 days). Institute third-party audits and annual ranking. Link employee performance appraisal to CC compliance. Provide for interim compensation (e.g., Delhi government's 'Timely Delivery of Services' Act). Also, integrate CC with digital platforms (e-SLA) and conduct regular citizen surveys.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, CC must be backed by legal teeth, public awareness, and accountability mechanisms to realize its potential.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP2_19",
+    "paper_title": "GS Paper 2",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "What are the key areas of reform if the WTO has to survive in the present context of Trade War', especially keeping in mind the interest of India? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q19",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "WTO faces existential crisis due to US-China trade war, blocking of Appellate Body appointments, and rise of protectionism. India has key interests in reform.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Key reform areas: Restoring dispute settlement mechanism (Appellate Body) – currently paralysed; India supports a multi-party interim appeal arrangement. Updating rules on e-commerce, investment facilitation, and competition policy, while safeguarding policy space for development. Addressing subsidies – India wants flexibility for agriculture (public stockholding) and fisheries (subsidies for small-scale fishers). Special and Differential Treatment (S&DT) – India insists on 'differentiation' between developing countries, with per capita income-based criteria. India also seeks permanent solution on public stockholding for food security and protecting TRIPS waivers (for COVID vaccines). Other reforms: limiting plurilateral agreements (e.g., Joint Statement Initiatives) that exclude many developing nations. India must also push for transparency in notified subsidies by developed countries (e.g., China's state-owned enterprises).",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, WTO reform must balance liberalization with development concerns; India should advocate for fair, inclusive rules and resist unilateral trade measures.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP2_20",
+    "paper_title": "GS Paper 2",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "In what ways would the ongoing US-Iran Nuclear Pact Controversy affect the national interest of India? How should India respond to this situation? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q20",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The US withdrew from JCPOA (Iran nuclear deal) in 2018, reimposing sanctions on Iran. This directly affects India's economic and strategic interests.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Affects national interest: Oil imports from Iran (India's 3rd largest supplier) – sanctions forced India to cut imports, raising energy costs. Chabahar Port development (crucial for connectivity to Afghanistan and Central Asia) – US waived sanctions for Chabahar, but uncertainty persists. Trade and investment – Indian companies (e.g., ONGC Videsh) had interests in Farzad-B gas field, now stalled. Strategic impact – Iran is key to India's counterbalance to China-Pakistan (CPEC). Regional instability affects Indian diaspora and security. India's response: Diversify oil imports (Saudi, UAE, US). Continue Chabahar operations under exemption. Engage in diplomatic talks with US and European partners for carve-outs. Also, enhance Indian-Russian cooperation as alternative route (INSTC). India should maintain dialogue with Iran while complying with UN sanctions, not US secondary sanctions. Pursue rupee-rial trade mechanism to bypass dollar sanctions. Long-term, India should develop strategic petroleum reserves and renewable energy.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, India must pragmatically balance ties with US and Iran, protecting economic and connectivity interests while avoiding direct confrontation.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  }
+]

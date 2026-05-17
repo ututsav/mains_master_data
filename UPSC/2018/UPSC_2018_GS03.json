@@ -1,0 +1,702 @@
+[
+  {
+    "uid": "UPSC_2018_GSP3_01",
+    "paper_title": "GS Paper 3",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "\"Access to affordable, reliable, sustainable and modern energy is the sine qua non to achieve Sustainable Development Goals (SDGs).\" Comment on the progress made in India in this regard. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Energy access underpins SDG 7 and influences poverty, health, education, and climate action (SDG 1,3,13). India has made significant strides.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Progress: Saubhagya scheme achieved near-universal electrification (99.9% villages, 99.9% households). Renewable energy capacity (175 GW target by 2022, now ~180 GW by 2023). Ujjwala provided >9 crore LPG connections, reducing indoor air pollution. Solar tariffs dropped dramatically. However, challenges: grid reliability, affordability for poor (subsidies still needed), high dependence on coal (70% electricity), and energy intensity of GDP still high. Sustainable progress requires energy efficiency (UJALA LED scheme), storage solutions, and just transition.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, India has made commendable progress on energy access and renewables, but affordability and sustainability gaps remain for full SDG achievement.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP3_02",
+    "paper_title": "GS Paper 3",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Comment on the important changes introduced in respect of the Long-term Capital Gains Tax (LCGT) and Dividend Distribution Tax (DDT) in the Union Budget for 2018-2019. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Union Budget 2018-19 introduced major changes to Long-term Capital Gains Tax (LTCG) and Dividend Distribution Tax (DDT).",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "LTCG: Reintroduced 10% tax on gains exceeding ₹1 lakh from sale of listed equity shares/units, without indexation benefit. Grandfathering for gains till January 31, 2018. DDT: Instead of company paying DDT (15% plus surcharge, cess), it shifted to taxation in hands of shareholders – dividend income taxed at slab rates, but companies no longer pay DDT. Additionally, TDS of 10% on dividend above ₹5,000. These changes aimed to broaden tax base and reduce cascading, but impacted investor sentiment. DDT change removed double taxation at company level but increased compliance for small investors.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, these changes moved towards taxing capital gains and dividends more equitably, but created short-term market volatility.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP3_03",
+    "paper_title": "GS Paper 3",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "What do you mean by Minimum Support Price (MSP)? How will MSP rescue the farmers from the low income trap? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Minimum Support Price (MSP) is the guaranteed price announced by the government for certain crops before sowing, to protect farmers from price crashes.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "How MSP rescues: Provides assured income, reduces distress sales, encourages investment and adoption of better technology, and stabilizes production. For small farmers, MSP acts as a safety net against market fluctuations. However, MSP in practice benefits only a few crops (wheat, paddy) and is often not realized by small farmers due to procurement inefficiencies (middlemen, lack of mandis). The Swaminathan Committee recommended MSP at C2+50% (cost of production plus 50%). The low income trap persists because MSP is not effectively implemented for pulses, oilseeds, and millets; and because farmers lack market access. Thus, MSP alone is insufficient; it needs robust procurement machinery and diversification.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, MSP can rescue farmers if combined with efficient procurement, storage, and direct transfer to bank accounts.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP3_04",
+    "paper_title": "GS Paper 3",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Examine the role of supermarkets in supply chain management of fruits, vegetables and food items. How do they eliminate number of intermediaries? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q4",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Supermarkets (e.g., Reliance Fresh, Big Bazaar, More) have revolutionized perishable supply chains in India by integrating procurement, logistics, and retail.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Role: Direct sourcing from farmers/farmer producer organizations (FPOs), reducing layers of commission agents, mandi traders, and wholesalers. They use centralized distribution centers, cold storage, and standardized quality checks. Elimination of intermediaries: Supermarkets bypass the traditional 4-5 layer chain (farmer → local aggregator → mandi → wholesaler → retailer) by using contract farming, collection centers, and direct farm gate purchases. This reduces waste (post-harvest losses from 30% to 10-15%), lowers prices for consumers, and increases farmer share (from ~20-30% to 50-60%). However, concerns: small farmers may be excluded, and supermarkets may exercise monopsony power.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, supermarkets improve efficiency and reduce intermediaries, but need regulatory oversight to protect farmer interests.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP3_05",
+    "paper_title": "GS Paper 3",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Discuss the work of 'Bose-Einstein Statistics' done by Prof. Satyendra Nath Bose and show how it revolutionized the field of Physics. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q5",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Satyendra Nath Bose derived a new statistical method for photons (quantum particles) in 1924, which Einstein extended to atoms, leading to Bose-Einstein Statistics.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Work: Bose described photon gas using quantum counting without referencing classical Boltzmann statistics, assuming particles are indistinguishable. Einstein applied it to ideal gas, predicting Bose-Einstein Condensation (BEC) at ultra-low temperatures – a new state of matter. Revolution: BEC was experimentally confirmed in 1995 (Cornell, Wieman, Ketterle – Nobel 2001). It led to understanding superfluidity, superconductivity, and laser cooling. Bosons (integer spin) follow Bose-Einstein statistics, contrasting with fermions (Fermi-Dirac). This forms basis for quantum field theory, particle physics, and modern condensed matter physics.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, Bose's work fundamentally changed statistical mechanics and enabled the discovery of macroscopic quantum phenomena.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP3_06",
+    "paper_title": "GS Paper 3",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "What are the impediments in disposing the huge quantities of discarded solid wastes which are continuously being generated? How do we remove safely the toxic wastes that have been accumulating in our habitable environment? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q6",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India generates 62 million tonnes of solid waste annually, with only 43% collected and 15% processed. Toxic (hazardous) waste adds 7.6 million tonnes.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Impediments: Lack of segregation at source; inadequate processing infrastructure (composting, recycling, waste-to-energy); unregulated dumping in landfills; low public awareness; weak enforcement of Solid Waste Management Rules, 2016. Toxic waste removal: Implement polluter-pays principle; promote co-processing in cement kilns; establish common hazardous waste treatment, storage, and disposal facilities (TSDFs); strengthen monitoring by CPCB/SPCBs. Remediation of legacy waste (bioremediation, biomining) at existing dumpsites (e.g., Gorai in Mumbai, Okhla in Delhi).",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, safe disposal requires upstream segregation, decentralized processing, and strict regulation of toxic waste generators.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP3_07",
+    "paper_title": "GS Paper 3",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "What is wetland? Explain the Ramsar concept of 'wise use' in the context of wetland conservation. Cite two examples of Ramsar sites from India. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q7",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Wetlands are areas of marsh, fen, peatland, or water (natural/artificial, permanent/temporary) with aquatic vegetation. Ramsar Convention (1971) promotes their conservation.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Wise use concept: Sustainable utilization of wetlands for human benefit (fisheries, water supply, flood control) while maintaining ecological character. It allows compatible human activities (e.g., reed harvesting, tourism, grazing) but prohibits drainage, pollution, over-exploitation. India has 85 Ramsar sites (2024). Two examples: Chilika Lake (Odisha) – largest brackish water lagoon; Keoladeo National Park (Bharatpur, Rajasthan) – man-made wetland, bird sanctuary. Both have management plans integrating local livelihoods with conservation.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, wise use balances conservation and development, recognizing wetlands' ecological services.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP3_08",
+    "paper_title": "GS Paper 3",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Sikkim is the first 'Organic State' in India. What are the ecological and economical benefits of Organic State? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q8",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Sikkim fully converted to organic farming in 2016, banning chemical fertilizers and pesticides. It is a model for sustainable agriculture.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Ecological benefits: Improved soil health (microbial activity, organic carbon), reduced water pollution (no chemical runoff), enhanced biodiversity (pollinators, birds), lower carbon footprint, and climate resilience. Economic benefits: Premium prices for organic products (cardamom, turmeric, ginger); access to export markets; reduced input costs (subsidies for bio-inputs); increased tourism (organic villages). However, yields initially dropped but have recovered; Sikkim receives ₹22 crore annual subsidy from central govt. Income of farmers increased by 30-50% after conversion. Challenges remain in certification and marketing.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, Sikkim shows that organic farming can be ecologically and economically beneficial, though context-specific support is crucial.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP3_09",
+    "paper_title": "GS Paper 3",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "The China-Pakistan Economic Corridor (CPEC) is viewed as a cardinal subset of China's larger 'One Belt One Road' initiative. Give a brief description of CPEC and enumerate the reasons why India has distanced itself from the same. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q9",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "CPEC is a $62 billion infrastructure project linking China's Xinjiang to Pakistan's Gwadar port, including roads, railways, pipelines, and SEZs.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "India's reasons for distancing: CPEC passes through Pakistan-occupied Kashmir (PoK), violating India's sovereignty and territorial integrity. The project legitimizes illegal occupation and ignores UN resolutions. India is also concerned about strategic encirclement (CPEC + Gwadar port used by Chinese navy). Debt-trap diplomacy – Pakistan's debt to China rising. India fears CPEC could be used for military purposes. Additionally, India is not invited and has its own connectivity plans (Chabahar, INSTC, Asia-Africa Growth Corridor). India has protested to China, stating that any project in disputed territory is unacceptable.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, India distances itself from CPEC due to sovereignty concerns, strategic threats, and lack of transparency.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP3_10",
+    "paper_title": "GS Paper 3",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Left Wing Extremism (LWE) is showing a downward trend, but still affects many parts of the country. Briefly explain the Government of India's approach to counter the challenges posed by LWE. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q10",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "LWE (Naxalism) affects 90 districts across 10 states. Government's approach has shifted from purely police action to a holistic strategy.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Approach: Security – deployment of specialized forces (CRPF's CoBRA, Greyhounds), modernization of state police, intelligence sharing, and road construction in remote areas. Development – focusing on 'Aspirational Districts', providing roads, bridges, schools, mobile towers, banks, and electricity (PMGSY, BharatNet). Surrender-cum-rehabilitation policies for cadres (financial assistance, skill training). Also, addressing land alienation, tribal rights (FRA, PESA), and forest produce marketing (MSP for minor forest produce). This integrated approach has reduced LWE incidents by 70% since 2010.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the government's multi-pronged strategy of security, development, and empowerment has curtailed LWE, but continued focus is needed.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP3_11",
+    "paper_title": "GS Paper 3",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "How are the principles followed by the NITI Aayog different from those followed by the erstwhile Planning Commission in India? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q11",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "NITI Aayog (2015) replaced the Planning Commission (1950-2014) with a new philosophy of 'bottom-up' and 'cooperative federalism'.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Key differences: Planning Commission had a one-size-fits-all five-year plan; NITI Aayog provides flexible, three-year action plans. PC imposed centrally-designed schemes; NITI encourages states to design their own strategies. PC's approach was 'top-down' (planning from Centre); NITI is 'bottom-up', giving states a seat at table through Governing Council (CMs of states). PC allocated funds directly; NITI does not allocate funds – that role is with Finance Commission and ministries (GST Council). PC focused on public sector investment; NITI focuses on private and PPP, acting as 'think tank' rather than 'command and control'. PC had technocratic approach; NITI has participatory and evidence-based. NITI also promotes competitive federalism through ranking (SDG index, innovation index). PC's plan was prescriptive; NITI's vision is collaborative. NITI also includes experts and special invitees, not just bureaucrats.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, NITI Aayog represents a paradigm shift from centralized planning to cooperative, dynamic, and flexible policy formulation.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP3_12",
+    "paper_title": "GS Paper 3",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "How would the recent phenomena of protectionism and currency manipulations in world trade affect macroeconomic stability of India? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q12",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Rising protectionism (US-China trade war) and currency manipulation (China keeping yuan undervalued) disrupt global trade flows. India is a significant player in global trade.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Effects on India: Negative – higher tariffs on Indian exports (e.g., US withdrawal of GSP benefits); global demand slowdown reduces exports; supply chain disruptions (e.g., electronics, pharma). Currency manipulation by China makes its exports cheaper, hurting Indian manufacturing (textiles, toys, electronics). Positive – trade diversion: some industries may relocate to India (e.g., Apple suppliers); India can attract FDI from companies leaving China. On macroeconomic stability: current account deficit may widen if export growth slows; rupee may depreciate, causing imported inflation (oil). However, India's large domestic market provides resilience. Forex reserves (~$600 billion) cushion volatility. India can use counter-tariffs and anti-dumping duties. Policy response: boost exports through PLI schemes, diversify trade partners (ASEAN, EU, Africa), and negotiate FTAs. Also, maintain fiscal discipline to avoid excessive borrowing.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, protectionism and currency manipulation pose risks but also opportunities; India needs proactive trade and industrial policies to manage them.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP3_13",
+    "paper_title": "GS Paper 3",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Assess the role of National Horticulture Mission (NHM) in boosting the production, productivity and income of horticulture farms. How far has it succeeded in increasing the income of farmers? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q13",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "National Horticulture Mission (NHM) launched in 2005-06 (now subsumed under MIDH) aims to promote holistic growth of horticulture (fruits, vegetables, flowers, spices, plantation crops).",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Role: Provides financial assistance for nurseries, tissue culture, integrated pest management, post-harvest management (pack houses, cold storages), and market infrastructure (apni mandi). Promotes cluster approach (Horticulture Clusters). Impact on production: Horticulture output surpassed food grains since 2012-13; productivity improved (e.g., mango, banana). Farmer income: Studies show NHM increased net returns per hectare by 30-50% through diversification, reduced post-harvest losses, and better price realization. However, success is uneven – small farmers often lack access due to poor outreach, and benefits captured by large farmers. Also, marketing constraints persist. The MIDH (Mission for Integrated Development of Horticulture) now includes a focus on value addition. Overall, NHM has succeeded in boosting production and productivity, but income gains are modest and require better market linkages and farmer-producer organizations.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, NHM has contributed significantly, but to fully realize income benefits, post-harvest and marketing infrastructure need strengthening.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP3_14",
+    "paper_title": "GS Paper 3",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "How has the emphasis on certain crops brought about changes in cropping patterns in recent past? Elaborate the emphasis on millets production and consumption. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q14",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Government policies (MSP, procurement, subsidies, and schemes like National Food Security Mission) have historically favored wheat and rice, distorting cropping patterns. Recent emphasis on millets marks a shift.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Changes in cropping patterns: Green Revolution led to mono-cropping of rice-wheat in north-west; paddy cultivation expanded to water-scarce Punjab (groundwater depletion). Pulses and oilseeds lost area. Eastern states shifted to rice. Recent rebalancing: Promotion of pulses and oilseeds under NFSM; now millets are being prioritized. Emphasis on millets: UN declared 2023 as International Year of Millets. India's initiative – millets included in PDS, MSP announced (jowar, bajra, ragi), and value chain development under MIDH. Millets are climate-resilient (low water, high nutrition), and their production increased from 14.5 million tonnes (2015-16) to 18 million tonnes (2020-21). Consumption is rising due to health awareness and product innovation (millet-based biscuits, noodles). However, area shift is slow due to low yield and market access. The government aims to make millets a 'global food'.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the cropping pattern is gradually diversifying towards millets, supported by policy, but requires processing and marketing infrastructure to succeed.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP3_15",
+    "paper_title": "GS Paper 3",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Why is there so much activity in the field of biotechnology in our country? How has this activity benefitted the field of biopharma? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q15",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's biotechnology sector has grown rapidly due to supportive policies (DBT, BIRAC), low-cost skilled manpower, and growing healthcare demands.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Reasons for activity: National Biotechnology Development Strategy (2015-2020) set targets for bioeconomy; establishment of incubators and bio-clusters (Faridabad, Bengaluru, Pune); increasing private investment (Biocon, Serum Institute); and large-scale government funding (DBT's Mission on NanoBiotechnology, Genome India). Benefits for biopharma: India is 'vaccine capital of the world' (Serum Institute produces 1.5 billion doses). Biopharma includes recombinant therapeutics (insulin, interferons), monoclonal antibodies, biosimilars, stem cell research, and gene therapy. COVID-19 vaccine development (Covishield, Covaxin) showcased biopharma capability. Cost-effective manufacturing and skilled scientists have made India a hub for clinical trials and contract research. However, regulatory challenges and intellectual property issues persist. The activity has led to affordable drugs (e.g., Hepatitis B vaccine price dropped from $20 to $1).",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, biotech activity in India has significantly advanced biopharma, making vaccines and biologics accessible globally.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP3_16",
+    "paper_title": "GS Paper 3",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "With growing energy needs should India keep on expanding its nuclear energy programme? Discuss the facts and fears associated with nuclear energy. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q16",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's nuclear power capacity is 6,780 MW (approx 2% of total). With rising energy demand (5-6% growth), expansion is debated.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Facts in favor: Nuclear provides base-load power with low carbon emissions (important for climate goals); fuel (uranium) is energy-dense; indigenous thorium reserves can be used in fast breeder reactors (3-stage programme). Operational safety record in India is good (Kudankulam, Tarapur). Also, India has a strategic need for self-reliance under NSG waiver. Fears: Safety concerns – Fukushima (2011) renewed anxieties about earthquakes, tsunamis, human error. Waste disposal – high-level radioactive waste remains hazardous for thousands of years, no permanent repository in India. High capital cost and long construction time (e.g., Jaitapur project stalled). Public protests (Kudankulam, Koodankulam) due to displacement and fear. Also, liability issues (Civil Liability for Nuclear Damage Act, 2010) deter foreign suppliers. Given these, expansion should be cautious – focus on advanced reactors (SMRs, thorium-based), but also ramp up solar and wind. A balanced mix is wiser than exclusive reliance on nuclear.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, India should expand nuclear energy but with improved safety, public engagement, and waste management, while diversifying renewables.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP3_17",
+    "paper_title": "GS Paper 3",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "How does biodiversity vary in India? How is the Biological Diversity Act, 2002 helpful in conservation of flora and fauna? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q17",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India is one of 17 megadiverse countries, with four biodiversity hotspots: Himalayas, Indo-Burma, Western Ghats, Sundaland. Variation occurs across biogeographic zones.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Variation: Trans-Himalayan (cold desert), Himalayan (temperate forests), Indian Desert (xerophytes), Semi-arid, Western Ghats (endemic plants, amphibians), Deccan Peninsula, Gangetic Plain (floodplains), Coasts (mangroves), North-East (rainforests). Species richness: 91,000 animal species, 45,000 plant species. Endemism high in Western Ghats, NE, Andaman. Biological Diversity Act, 2002: Implements CBD. Key provisions – three-tier institutional structure: National Biodiversity Authority (NBA), State Biodiversity Boards (SBBs), Biodiversity Management Committees (BMCs) at local level. NBA regulates access to biological resources by foreigners; requires benefit sharing. BMCs prepare People's Biodiversity Registers (PBRs). Act also protects traditional knowledge and declares Biodiversity Heritage Sites (e.g., Aghanashini Estuary). Challenges: enforcement weak, many BMCs non-functional. But it empowers local communities and provides legal framework for ABS (Access and Benefit Sharing).",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the Act is a progressive legal tool that fosters participatory conservation and fair use of biodiversity.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP3_18",
+    "paper_title": "GS Paper 3",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Describe various measures taken in India for Disaster Risk Reduction (DRR) before and after signing 'Sendai Framework for DRR (2015-2030)'. How is this framework different from Hyogo Framework for Action, 2005? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q18",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India has progressively strengthened DRR. The Disaster Management Act 2005, NIDM, NDMA were pre-Sendai. After Sendai, India adopted a more holistic risk reduction approach.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Pre-Sendai measures: National Disaster Management Authority (NDMA), State/ District Disaster Management Authorities; National Disaster Response Force (NDRF); National Plan for Disaster Management; early warning systems (IMD, INCOIS). Post-Sendai measures: National Disaster Management Plan (2016) aligned with Sendai priorities; emphasis on 'build back better', risk transfer (insurance), and DRR in development plans (Pradhan Mantri Fasal Bima Yojana, Coastal Zone Management). Also, Coalition for Disaster Resilient Infrastructure (CDRI) launched in 2019. Sendai vs Hyogo: Hyogo focused on 'what to do' (5 priorities), Sendai shifted to 'how to do' with quantitative targets (7 global targets, e.g., reduce mortality, economic loss). Sendai emphasizes understanding disaster risk, not just response; and includes preventive measures, private sector role, and 'disaster risk governance'. India has also integrated SDGs with Sendai.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, India has moved from relief-centric to risk reduction, with Sendai framework providing measurable goals and governance focus.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP3_19",
+    "paper_title": "GS Paper 3",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Data security has assumed significant importance in the digitized world due to rising cyber crimes. The Justice B. N. Srikrishna Committee Report addresses issues related to data security. What, in your view, are the strengths and weaknesses of the Report relating to protection of personal data in cyber space? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q19",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Srikrishna Committee (2018) drafted the Personal Data Protection Bill (now replaced by Digital Personal Data Protection Act 2023). Its report laid foundational principles.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Strengths: Proposed 'consent-based' framework, data localization (critical personal data must be stored in India), data protection authority (DPA) as regulator, right to be forgotten, data portability, and mandatory breach notification. It recognized privacy as fundamental right (Puttaswamy judgment). Applied to both government and private sector. Weaknesses: Exemptions for government (national security, public order) were broad – could be misused. Did not adequately address processing by state for surveillance. The 'Social Media Intermediary' provisions were weak. Compliance burden on small businesses high. Also, the report did not clearly define 'harm' and lacked specific penalties for cross-border data flows. The subsequent DPDP Act, 2023 simplified and reduced compliance, but critics say it weakened rights (notice and consent only, no retention limits, no right to data portability).",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, Srikrishna Report had strong principles but weaknesses in balancing security with civil liberties; the final Act diluted some protections.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP3_20",
+    "paper_title": "GS Paper 3",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "India's proximity to two of the world's biggest illicit opium-growing states has enhanced her internal security concerns. Explain the linkages between drug trafficking and other illicit activities such as gunrunning, money laundering and human trafficking. What counter-measures should be taken to prevent the same? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q20",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India is close to the 'Golden Crescent' (Afghanistan, Pakistan, Iran) and 'Golden Triangle' (Myanmar, Laos, Thailand) – major opium producers. Drug trafficking is linked to organized crime.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Linkages: Drug cartels use same routes and networks for gunrunning (smuggling weapons from Pakistan/Afghanistan to insurgency areas). Proceeds from drug trade are laundered through hawala, real estate, shell companies (money laundering). Human trafficking is often facilitated by same criminal networks – women and children smuggled for forced prostitution or labour, along drug corridors. Also, drug money funds terrorism (e.g., Punjab insurgency, Kashmir). Counter-measures: Strengthen border security (BOPs, smart fencing, radar). Enhance intelligence sharing among NCB, ED, RAW, IB, and state police. Use technology – blockchain for tracking financial flows, data analytics to identify patterns. Under NDPS Act, strictly prosecute kingpins. International cooperation: UNODC, SAARC conventions, bilateral with Iran (border liaison) and Myanmar. Also, demand reduction – awareness campaigns, rehabilitation centers, community policing. Implement Narco-Coordination Centre (NCORD) effectively. The government has set up a National Narcotics Helpline and a national database.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, drug trafficking is a conduit for multiple crimes; a coordinated law enforcement, financial tracking, and demand reduction strategy is essential.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  }
+]

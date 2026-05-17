@@ -1,0 +1,702 @@
+[
+  {
+    "uid": "UPSC_2018_GSP1_01",
+    "paper_title": "GS Paper 1",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Safeguarding the Indian art heritage is the need of the moment. Discuss. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's art heritage (sculpture, painting, architecture, handicrafts) reflects its civilizational continuity. However, it faces threats from neglect, vandalism, theft, and development pressures.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Need for safeguarding: Loss of cultural identity and tourism revenue; irreversible damage to ancient monuments (e.g., ASI reports deterioration of Taj Mahal); illicit trafficking of antiquities (e.g., Idol Wing cases). Steps needed: stricter implementation of Antiquity and Art Treasures Act, 1972; use of technology (3D scanning, drone surveillance); community involvement (Adopt a Heritage scheme); capacity building of ASI and state archaeology departments.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, safeguarding art heritage is urgent not only for cultural continuity but also for economic and educational reasons.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP1_02",
+    "paper_title": "GS Paper 1",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Assess the importance of the accounts of the Chinese and Arab travellers in the reconstruction of the history of India. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Chinese (Faxian, Xuanzang, Yijing) and Arab (Al-Biruni, Ibn Battuta, Sulaiman) travellers left invaluable accounts that complement indigenous sources.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Importance: They provide detailed descriptions of political history (e.g., Xuanzang on Harsha's reign), social life (caste, customs), economic conditions (trade routes), religious practices (Buddhism, Hinduism), and urban centres. Al-Biruni's Kitab-ul-Hind offers a critical analysis of Indian philosophy and science. These accounts fill gaps where Indian records are silent (e.g., invasions, foreign relations). However, travellers had biases and limitations (language barriers, selective observation). Cross-verification with epigraphic and archaeological evidence is essential.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, foreign traveller accounts are indispensable for reconstructing India's history, especially for the period 4th to 14th centuries CE.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP1_03",
+    "paper_title": "GS Paper 1",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Throw light on the significance of the thoughts of Mahatma Gandhi in the present times. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Gandhi's ideas of non-violence (ahimsa), truth (satya), swadeshi, and sarvodaya remain profoundly relevant to contemporary challenges.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Relevance: Environmental crisis – his emphasis on simple living and sustainable consumption (‚ÄòEarth provides enough for everyone's need, not greed'); conflict resolution – non-violence in tackling terrorism, riots, and civil unrest; economic inequality – decentralization (Gram Swaraj) and small-scale industries counter corporate excess; social harmony – his fight against untouchability and communalism offers a model for pluralism. Digital age – his focus on means (sadhana) over ends is a lesson for ethical governance and media.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, Gandhi's moral and political philosophy provides enduring solutions for peace, sustainability, and justice.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP1_04",
+    "paper_title": "GS Paper 1",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Why is Indian Regional Navigational Satellite System (IRNSS) needed? How does it help in navigation? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q4",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "IRNSS, with operational name NavIC (Navigation with Indian Constellation), is India's independent regional navigation satellite system.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Need: Strategic autonomy – reduces dependence on foreign systems (GPS, GLONASS, Galileo) which can be denied during conflicts (e.g., Kargil). Enhances accuracy over Indian landmass and up to 1500 km around. Helps navigation: Provides Position, Velocity, and Timing (PVT) services. Two types – Standard Positioning Service (civilian) and Restricted Service (military). Applications: terrestrial, aerial and marine navigation; disaster management; vehicle tracking; fleet management; mobile location-based services; and timing for power grids, banking.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, NavIC is critical for national security, economic development, and scientific progress.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP1_05",
+    "paper_title": "GS Paper 1",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Why is India taking keen interest in resources of Arctic Region? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q5",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India launched its Arctic policy in 2022 (earlier Himadri station established in 2008). The Arctic is rich in untapped hydrocarbons, minerals, and rare earths.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Reasons: Scientific research – climate change studies (Arctic warming affects Indian monsoon); resource exploration – oil, gas, and minerals (zinc, nickel); strategic – new shipping routes (Northern Sea Route) reduce transit time and costs; geopolitical presence – as an Observer in Arctic Council, India seeks to counterbalance China's growing influence. Also, opportunities for deep-sea mining and fisheries. India's interests are non-territorial, focusing on science, environment, and commerce.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, India's Arctic engagement is driven by climate security, resource security, and strategic positioning.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP1_06",
+    "paper_title": "GS Paper 1",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Define mantle plume and explain its role in plate tectonics. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q6",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "A mantle plume is an upwelling of abnormally hot rock from deep within the Earth's mantle (core-mantle boundary) that rises through the lithosphere.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Role in plate tectonics: Plumes cause intra-plate volcanism (e.g., Hawaiian islands, Réunion, Deccan Traps). As plates move over stationary plumes, they leave a trail of volcanic hotspots. Plumes contribute to continental rifting (e.g., East African Rift) and can trigger flood basalts. They also drive plate motion through mantle convection, though this role is secondary to slab pull. The plume hypothesis explains volcanic chains not associated with plate boundaries.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, mantle plumes are integral to understanding intra-plate magmatism and long-term tectonic evolution.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP1_07",
+    "paper_title": "GS Paper 1",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "What are the consequences of spreading of 'Dead Zones' on marine ecosystem? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q7",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Dead zones are hypoxic (low oxygen) areas in oceans caused by nutrient pollution (fertilizers, sewage) leading to algal blooms, which decompose and deplete oxygen.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Consequences: Mass mortality of fish, crabs, and benthic organisms – collapse of fisheries; loss of biodiversity as mobile species flee and sessile organisms die; disruption of food webs and marine ecosystem services; economic losses for coastal communities dependent on fishing and tourism; potential for toxic algae blooms that contaminate seafood. Examples: Gulf of Mexico dead zone (over 20,000 sq km), Baltic Sea, and parts of the Arabian Sea (Gulf of Oman).",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, expanding dead zones threaten marine biodiversity, food security, and coastal economies, requiring urgent nutrient management.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP1_08",
+    "paper_title": "GS Paper 1",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "\"Caste system is assuming new identities and associational forms. Hence, caste system cannot be eradicated in India.\" Comment. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q8",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The caste system has shown resilience by adapting to modernity. It manifests in new forms – caste-based political parties, associations, and horizontal solidarities.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "New identities: Caste groups have transformed into pressure groups (e.g., Yadav, Kurmi, Jat, Maratha), vote banks, and caste-based corporate chambers. This associational form helps collective bargaining but perpetuates caste consciousness. However, eradication of caste is still possible through inter-caste marriages, education, urbanization, and affirmative action that empowers the oppressed. The statement is partly true – caste persists in new guises, but its traditional rigid hierarchy and untouchability are weakening. Law (SC/ST Act), economic mobility, and social movements can ultimately erode caste.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, while caste mutates, it is not immutable; focused social engineering can still achieve its erosion over time.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP1_09",
+    "paper_title": "GS Paper 1",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "'Despite implementation of various programmes for eradication of poverty by the government in India, poverty is still existing.' Explain by giving reasons. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q9",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India has reduced multidimensional poverty from 55% to 16% (2005-2021), yet absolute poverty remains (about 10-15% below poverty line).",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Reasons: Ineffective targeting – exclusion and inclusion errors; corruption and leakage (e.g., PDS diversion); inadequate health and education outcomes keeping intergenerational poverty; low wages in informal sector; regional disparities (Bihar, UP); shocks like COVID-19 pushing many back; lack of productive employment despite growth; social exclusion of SC/ST and minorities. Schemes like MGNREGA, PMAY, and PM-KISAN have helped but not eliminated poverty due to implementation gaps and structural issues.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, poverty persists due to poor delivery, inadequate coverage, and structural inequality, requiring better governance and job creation.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP1_10",
+    "paper_title": "GS Paper 1",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "How the Indian concept of secularism is different from the western model of secularism? Discuss. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q10",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Secularism in India means 'Sarva Dharma Sambhava' (equal respect for all religions), while Western secularism implies a strict separation of church and state (laïcité in France).",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Differences: Western model – state stays neutral and does not interfere in religious affairs, but also does not support any religion; Indian model – state can intervene to reform religious practices (e.g., banning triple talaq, temple entry for Dalits). India practices 'principled distance' (Rajeev Bhargava), allowing state to support religious institutions (Haj subsidy, Kumbh Mela funding) while maintaining equal treatment. Western secularism emerged from Christian-Catholic conflicts, while Indian secularism is rooted in the need to manage plurality without a majority religion.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, Indian secularism is 'contextual' and 'positive', accommodating religious diversity, whereas Western secularism is more 'passive' and 'wall-of-separation' oriented.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP1_11",
+    "paper_title": "GS Paper 1",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "The Bhakti movement received a remarkable re-orientation with the advent of Sri Chaitanya Mahaprabhu. Discuss. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q11",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Sri Chaitanya Mahaprabhu (1486-1534) was a Bengali saint and the founder of Gaudiya Vaishnavism. He revitalized the Bhakti movement with his unique philosophy and practice.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Re-orientation brought by Chaitanya: Emphasis on 'sankirtana' (congregational chanting of Hare Krishna mantra) as the primary means of devotion, making bhakti accessible to all regardless of caste or gender. He propagated 'achintya bheda-abheda' (inconceivable simultaneous oneness and difference) between Krishna and the devotee. His emotional, ecstatic form of devotion (prema bhakti) differed from the more philosophical approaches of Ramanuja or Madhva. Chaitanya rejected ritualism and caste discrimination, attracting Muslims (Haridas Thakur) and women. His movement spread across Bengal, Odisha, and later globally through ISKCON (A.C. Bhaktivedanta Swami). He also composed the Shikshashtakam.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, Chaitanya transformed Bhakti into a mass, inclusive, and emotionally charged movement with a universal appeal.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP1_12",
+    "paper_title": "GS Paper 1",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Discuss whether formation of new states in recent times is beneficial or not for the economy of India. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q12",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Recent state formations include Chhattisgarh, Uttarakhand, Jharkhand (2000), Telangana (2014). Their impact on the economy is debated.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Arguments for benefit: Smaller states enable focused administration and local development; resource-rich regions retain revenues (e.g., Jharkhand's mineral wealth). Telangana showed faster growth after bifurcation due to Hyderabad's dynamism. Regional aspirations reduce political instability, attracting investment. Arguments against: Higher administrative costs (new capitals, assemblies, bureaucracies). Loss of economies of scale; inter-state disputes (water, power) increase litigation. For example, Andhra Pradesh after bifurcation faced revenue deficit and the loss of Hyderabad. Also, some new states are still backward (Uttarakhand lacks industry). Overall, net economic effect depends on initial conditions and post-formation governance. Telangana has benefited; Chhattisgarh's growth is mixed.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, formation of new states is not inherently beneficial or detrimental; success hinges on effective governance, infrastructure, and resource allocation.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP1_13",
+    "paper_title": "GS Paper 1",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Why indentured labour was taken by the British from India to other colonies? Have they been able to preserve their cultural identity over there? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q13",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "After the abolition of slavery (1833), British colonies faced labour shortages. Indentured labour from India was used as a cheap alternative under the 'Girmitiya' system (1834-1920).",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Reasons: Demand for labour in sugar, tea, and rubber plantations in Mauritius, Fiji, British Guiana, Trinidad, Natal, and Ceylon. Poverty and famine in India (esp. UP, Bihar, Tamil Nadu) pushed workers to sign contracts. Cultural identity preservation: Diaspora communities retained elements of language (Bhojpuri, Tamil), religious festivals (Holi, Diwali, Ramleela), cuisine, music (Chutney, Bhojpuri folk), and caste practices. However, they also adapted to local conditions, creating creolized cultures (e.g., Indo-Trinidadian, Indo-Fijian). Over generations, some lost original languages (e.g., in Mauritius, Creole dominates), but Hinduism and Islam remain strong. The 'Indian diaspora' today is distinct in each colony but preserves core Indian identity through Bollywood, temples, and social organizations.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, while indentured labourers suffered exploitation, their descendants have largely preserved cultural identity, albeit in hybrid forms.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP1_14",
+    "paper_title": "GS Paper 1",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "\"The ideal solution of depleting ground water resources in India is water harvesting system.\" How can it be made effective in urban areas? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q14",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Groundwater depletion in India is severe (over 60% of wells declining). Rainwater harvesting (RWH) is a sustainable solution, but its urban implementation remains patchy.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Making RWH effective in cities:\n(i) Mandatory RWH systems in all new buildings (already in Delhi, Bengaluru) with strict enforcement and penalties.\n(ii) Retrofitting older buildings through subsidies or low-interest loans.\n(iii) Rejuvenation of traditional water bodies (tanks, ponds) and linking them to drainage systems.\n(iv) Using stormwater drains to recharge aquifers via percolation pits and recharge wells.\n(v) Incentives like property tax rebates for RWH adoption.\n(vi) Public awareness campaigns and training for plumbers and builders.\n(vii) Real-time monitoring of groundwater levels and water quality.\n(viii) Innovative techniques like 'water ATMs' for harvested water.\nExamples: Tamil Nadu made RWH mandatory in 2003 and saw groundwater rise in Chennai; Bangalore's 'Rainwater Club' model. Challenges include space constraints in dense areas, poor maintenance, and lack of political will.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, with legal mandate, financial incentives, and community participation, RWH can effectively mitigate urban groundwater depletion.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP1_15",
+    "paper_title": "GS Paper 1",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Defining blue revolution, explain the problems and strategies for pisciculture development in India. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q15",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Blue Revolution refers to the rapid expansion of aquaculture (fish, shrimp, molluscs) to enhance production, nutrition, and livelihoods. India is the 2nd largest fish producer globally.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Problems: Limited access to quality seed and feed; disease outbreaks (white spot syndrome in shrimp); water pollution from intensive farming; high post-harvest losses due to lack of cold chain; fragmented landholdings for pond culture; inadequate credit and insurance; competition from wild catch; overexploitation of inland capture fisheries. Strategies: Promote scientific aquaculture through cluster approach (FFPOs – Fish Farmer Producer Organizations). Expand brackish water aquaculture (coastal areas). Develop disease-free specific pathogen-resistant (SPR) broodstock. Strengthen infrastructure – ice plants, cold storage, and retail chains. Use of cage culture in reservoirs. Provide subsidized credit (Kisan Credit Card for fisheries). Implement National Fisheries Development Board (NFDB) schemes. Promote ornamental fish farming and seaweed cultivation. Also, improve export marketing (Matsya Setu) and traceability.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, addressing these challenges through technology, infrastructure, and institutional support can realize the full potential of Blue Revolution in India.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP1_16",
+    "paper_title": "GS Paper 1",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "What is the significance of Industrial Corridors in India? Identifying industrial corridors, explain their main characteristics. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q16",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Industrial corridors are dedicated high-capacity transportation routes (rail, road, ports) along which industrial clusters and infrastructure are developed to boost manufacturing.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Significance: Promote regional balanced development, attract FDI, create employment, reduce logistics costs, and integrate with global value chains (e.g., China's coastal corridors). Major industrial corridors in India: Delhi-Mumbai Industrial Corridor (DMIC), Chennai-Bengaluru Industrial Corridor (CBIC), Bengaluru-Mumbai Economic Corridor (BMEC), Amritsar-Kolkata Industrial Corridor (AKIC), Vizag-Chennai Industrial Corridor, and the forthcoming Eastern Dedicated Freight Corridor. Characteristics: High-speed rail/road connectivity; planned industrial nodes/cities (e.g., Dholera, Shendra-Bidkin); multi-modal logistics parks; power generation and water supply; special economic zones; smart cities; and emphasis on sustainable practices. DMIC includes 8 investment regions, 24 industrial areas. These corridors also align with 'Make in India' and 'National Industrial Corridor Development Programme' (NICDP).",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, industrial corridors are transformative for manufacturing-led growth, but require efficient land acquisition, timely funding, and coordination among states.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP1_17",
+    "paper_title": "GS Paper 1",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Mention core strategies for the transformation of aspirational districts in India and explain the nature of convergence, collaboration and competition for its success. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q17",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Aspirational Districts Programme (ADP) launched in 2018 aims to rapidly improve 112 backward districts across 5 themes: Health & Nutrition, Education, Agriculture & Water, Financial Inclusion & Skill, and Basic Infrastructure.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Core strategies: data-driven governance (real-time monitoring on Champions of Change dashboard), delta ranking (monthly), target setting, and outcome-based measurement. Convergence: Central and state schemes (PMJAY, SBM, PMGSY, MGNREGA) are focused on the same district, with funds pooled and dovetailed. Collaboration: district collectors lead with support from central 'Prabhari officers', district development coordination committees (DISHA), and private sector partners (CSR). Competition: monthly ranking (top 5 performers awarded) induces competitive federalism among districts. This combination has yielded results – many districts improved in nutrition (stunting reduced), school enrollment, and sanitation. For example, Kundarki village in Muzaffarnagar saw rapid progress. Success requires continuous mentoring and addressing data quality issues.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the ADP's convergence-collaboration-competition trinity has shown promise, but long-term sustainability needs capacity building and local ownership.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP1_18",
+    "paper_title": "GS Paper 1",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "'Women's movement in India has not addressed the issues of women of lower social strata.' Substantiate your view. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q18",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Indian women's movement has historically been dominated by urban, middle-class, upper-caste women, often overlooking the intersectional struggles of Dalit, Adivasi, and poor women.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Substantiation: Early reforms (abolition of sati, widow remarriage) focused on upper-caste women. Post-independence, campaigns against dowry, sexual harassment (Vishakha guidelines) largely benefited educated urban women. Issues specific to lower strata – wage discrimination in unorganized sector, manual scavenging (still practiced by Dalit women), lack of access to land and water, sexual exploitation in brick kilns and farms, and sterilization abuse – received less attention. Dalit feminists (e.g., Savitribai Phule, B.R. Ambedkar's early work) have critiqued mainstream feminism for ignoring caste. The National Federation of Indian Women (NFIW) and All India Democratic Women's Association (AIDWA) have made efforts, but the gap persists. Recent mobilizations like the 2017 Dalit woman's rape in Una (Gujarat) and the 2019 Shakti collective show a shift, but lower-strata issues remain under-represented.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, while progress has been made, the women's movement must adopt an intersectional lens to fully address the concerns of lower social strata.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP1_19",
+    "paper_title": "GS Paper 1",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "'Globalization is generally said to promote cultural homogenization but due to this cultural specificities appear to be strengthened in the Indian Society.' Elucidate. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q19",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Globalization leads to the spread of global brands, lifestyle, and values (McDonaldization, Hollywood). Paradoxically, in India, it has also revived and strengthened local cultural specificities.",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Cultural homogenization examples: Western clothing, fast food, English dominance, and global festivals (Valentine's Day). However, counter-trends: Rise of regional cinema (Marathi, Bhojpuri, Punjabi) and OTT platforms promoting local content. Revival of classical arts (Kathak, Carnatic music) through global collaborations. Handloom and handicrafts gained international market (e.g., Khadi, Pashmina). Yoga and Ayurveda became global brands, reinforcing their Indian roots. Food – global cuisine coexists with hyper-local food festivals and preservation of traditional recipes. Religious rituals and regional festivals (Durga Puja, Onam, Pongal) are celebrated more visibly due to media and diaspora connectivity. Thus, globalization has enabled a 'glocalization' – adoption of global elements while simultaneously asserting cultural uniqueness.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, cultural specificities in India are not erased but rather re-asserted as a response to and in dialogue with globalization.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2018_GSP1_20",
+    "paper_title": "GS Paper 1",
+    "year": 2018,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "'Communalism arises either due to power struggle or relative deprivation.' Argue by giving suitable illustrations. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U18",
+    "q_number": "Q20",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Communalism refers to mobilizing religious identity for political or economic gain. The two main drivers are power struggle (elite competition) and relative deprivation (economic or social grievances).",
+        "order": 1,
+        "cite": "U18"
+      },
+      {
+        "section": "Body",
+        "text": "Power struggle illustration: Partition of India – Muslim elite (League) sought separate nation to maximize political power. Post-independence, Ayodhya movement (1980s-90s) used by BJP to consolidate Hindu votes and capture power. Relative deprivation illustration: In Assam, illegal migration from Bangladesh (mostly Muslim) led to perceived deprivation of indigenous Assamese in land and jobs, leading to anti-Muslim riots (1983 Nellie massacre, 2012 Bodo-Muslim clashes). In Gujarat 2002, there was a mix – political incitement plus economic competition between communities. In Mewat (Haryana), marginalization of Meo Muslims has been exploited by communal forces. Thus, communalism rarely has a single cause; often elite manipulation of deprived groups triggers violence.",
+        "order": 2,
+        "cite": "U18"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Therefore, communalism stems from both structural inequality and political opportunism; addressing it requires equity and curbing communal mobilization.",
+        "order": 3,
+        "cite": "U18"
+      }
+    ]
+  }
+]
