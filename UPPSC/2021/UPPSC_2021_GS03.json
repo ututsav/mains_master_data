@@ -1,0 +1,822 @@
+[
+  {
+    "uid": "UPPSC_2021_GS3_Q1",
+    "paper_title": "General Studies Paper 3",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Discuss the Digital India Programme of India.",
+    "is_structured": 1,
+    "last_updated": 1778951000,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "q_number": 1,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the Digital India Programme, launched in 2015, with the vision to transform India into a digitally empowered society and knowledge economy.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss its core pillars: Digital infrastructure as a utility (BharatNet), governance and services on demand (e-Kranti, UMANG), and digital empowerment of citizens (digital literacy, CSCs).",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Evaluate its impact: It has revolutionized financial inclusion (UPI, JAM Trinity), improved transparent governance through Direct Benefit Transfers (DBT), and bridged the rural-urban information divide.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while highly successful, challenges like the digital divide and data privacy must be addressed to fully realize its potential.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS3_Q2",
+    "paper_title": "General Studies Paper 3",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Examine the impact of globalization on employment of formal sector of India.",
+    "is_structured": 1,
+    "last_updated": 1778951000,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "q_number": 2,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define globalization and its integration of the Indian economy with global markets post-1991, drastically reshaping the employment landscape.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Examine positive impacts: A surge in Foreign Direct Investment (FDI) created millions of formal jobs in the IT/BPO sector, banking, financial services, and modernized manufacturing sectors.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Examine negative impacts: Intense global competition forced companies to adopt cost-cutting measures, leading to 'casualization' or 'contractualization' of formal jobs, thereby reducing job security and social security benefits for formal workers.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while globalization expanded formal sector opportunities overall, it fundamentally altered the nature of employment towards precarious, contract-based work.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS3_Q3",
+    "paper_title": "General Studies Paper 3",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "How does the strategy of inclusive growth intend to meet the objectives of inclusiveness and sustainability together? Explain.",
+    "is_structured": 1,
+    "last_updated": 1778951000,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "q_number": 3,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define inclusive growth as an economic development model that ensures equitable opportunities for all, while sustainability ensures that future generations' needs are not compromised.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain how it meets inclusiveness: By focusing on poverty reduction, skill development, financial inclusion, and promoting labor-intensive sectors, the strategy brings marginalized communities (women, tribals, rural poor) into the economic mainstream.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain how it meets sustainability: Inclusive growth mandates that economic gains are not achieved through environmental degradation. It integrates green technologies, renewable energy (like PM-KUSUM), and sustainable agriculture to protect ecological resources.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the two concepts are mutually reinforcing; long-term inclusiveness is impossible on a depleted planet, making sustainable, equitable growth the only viable strategy.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS3_Q4",
+    "paper_title": "General Studies Paper 3",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "What is Sustainable Development Goal-2030? Discuss the relevances of different agenda associated with it.",
+    "is_structured": 1,
+    "last_updated": 1778951000,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "q_number": 4,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define the Sustainable Development Goals (SDGs) 2030 as a collection of 17 interlinked global goals adopted by the UN in 2015 as a universal call to action to end poverty, protect the planet, and ensure peace.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss social relevance: Agendas like SDG 1 (No Poverty), SDG 2 (Zero Hunger), SDG 3 (Good Health), and SDG 4 (Quality Education) are directly relevant for addressing extreme human deprivation and building human capital.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss economic and environmental relevance: SDG 8 (Decent Work) and SDG 10 (Reduced Inequalities) promote equitable economies. SDG 13 (Climate Action), SDG 14, and SDG 15 are crucial for mitigating the existential threat of climate change and preserving biodiversity.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the relevance of the 2030 Agenda lies in its holistic, indivisible approach, recognizing that actions in one area will affect outcomes in others.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS3_Q5",
+    "paper_title": "General Studies Paper 3",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "What is technology mission in agriculture? State its usefulness.",
+    "is_structured": 1,
+    "last_updated": 1778951000,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "q_number": 5,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define a Technology Mission in Agriculture as an integrated, multi-disciplinary approach initiated by the government to accelerate crop production, processing, and technology dissemination (e.g., Technology Mission on Oilseeds, National Mission on Agricultural Extension).",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss its components: It involves the rapid transfer of R&D from labs to farms, promoting High Yielding Varieties (HYV), bio-technology, micro-irrigation, and farm mechanization.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "State its usefulness: It significantly enhances crop productivity and quality, reduces input costs, ensures self-sufficiency in critical crops (reducing import bills), and shields crops from pest attacks and climate vagaries.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that these missions act as catalysts for the 'Evergreen Revolution', driving agricultural modernization and securing farmers' incomes.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS3_Q6",
+    "paper_title": "General Studies Paper 3",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "What are the constraints in the development of infrastructural projects in Uttar Pradesh? Explain the steps taken by the State Government to remove the constraints.",
+    "is_structured": 1,
+    "last_updated": 1778951000,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "q_number": 6,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Identify Uttar Pradesh as a rapidly developing state where robust infrastructure is vital, but historically hindered by systemic bottlenecks.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the constraints: Complex land acquisition issues leading to litigation, delays in environmental clearances, chronic funding deficits, bureaucratic red-tapism, and regional disparities (like the underdeveloped Purvanchal and Bundelkhand regions).",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain steps taken by the State Government: Implementation of the single-window clearance portal ('Nivesh Mitra'), establishment of land banks, proactive dispute resolution, and aggressive Public-Private Partnerships (PPP) to fund mega-projects like expressways and defense corridors.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that overcoming these constraints has accelerated execution, repositioning UP as a premier destination for industrial and infrastructural investments.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS3_Q7",
+    "paper_title": "General Studies Paper 3",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "\"Uttar Pradesh has prominent position in the production of food crops in the country.\" Evaluate the statements.",
+    "is_structured": 1,
+    "last_updated": 1778951000,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "q_number": 7,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Affirm the statement, acknowledging UP as the 'granary of India', boasting the largest agricultural area and fertile alluvial soils of the Gangetic plain.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Evaluate the prominent position: UP consistently ranks first in the national production of major crops like wheat, sugarcane, and potatoes. It is also a leading producer of rice, pulses, and milk, heavily contributing to the central pool.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Evaluate the underlying challenges: Despite leading in gross volume, agricultural productivity per hectare remains sub-optimal due to highly fragmented landholdings, over-reliance on traditional farming, and delayed technology adoption in eastern districts.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while UP undeniably holds a prominent position in aggregate production, future growth relies on improving yield efficiency and agro-processing to truly benefit its farmers.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS3_Q8",
+    "paper_title": "General Studies Paper 3",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Explain different types and works of disaster management.",
+    "is_structured": 1,
+    "last_updated": 1778951000,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "q_number": 8,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define disaster management as the continuous, integrated process of planning, organizing, and coordinating measures to mitigate, respond to, and recover from disasters.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain the types (phases) of management: It is structurally divided into Pre-Disaster (proactive planning), During-Disaster (immediate response), and Post-Disaster (recovery).",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain the works/functions: Pre-disaster works include hazard mapping, building early warning systems, and community mock drills (preparedness and mitigation). During-disaster works involve search, rescue, and evacuation (relief). Post-disaster works focus on rebuilding infrastructure, 'building back better', and psychosocial rehabilitation.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that effective disaster management requires a paradigm shift from a reactive relief-based approach to a holistic risk-reduction model.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS3_Q9",
+    "paper_title": "General Studies Paper 3",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "What is meant by insurgency? Explain.",
+    "is_structured": 1,
+    "last_updated": 1778951000,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "q_number": 9,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define insurgency as a protracted politico-military struggle directed toward subverting or displacing the legitimacy of a constituted government or occupying power.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain its core characteristics: Insurgencies are characterized by asymmetric warfare, guerrilla tactics, subversion, and a heavy reliance on the local population for shelter, logistics, and intelligence. They often avoid direct, conventional military confrontation.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain the driving causes: They are typically rooted in deep-seated grievances, such as perceived ethnic/cultural alienation, severe economic underdevelopment, political disenfranchisement, or external state-sponsored proxy warfare (e.g., historical insurgencies in India's Northeast or J&K).",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that defeating an insurgency requires a comprehensive 'winning hearts and minds' strategy, integrating security operations with robust socio-economic development and political dialogue.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS3_Q10",
+    "paper_title": "General Studies Paper 3",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Role of media and social networking is important in internal security. Analyse.",
+    "is_structured": 1,
+    "last_updated": 1778951000,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "q_number": 10,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce media and social networking as powerful dual-use entities that profoundly shape public perception and national stability, acting as critical variables in internal security.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Analyse the positive role: Media acts as a force multiplier for security agencies by spreading rapid awareness during crises, curbing rumors, and crowdsourcing intelligence. It also exposes terror networks and builds national solidarity.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Analyse the negative/threatening role: Social media platforms are increasingly weaponized for 'lone-wolf' radicalization, cyber-terrorism, terror financing, and the rapid dissemination of fake news to incite communal riots (e.g., mob lynchings fueled by WhatsApp rumors).",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that safeguarding internal security requires strong cyber-patrolling, algorithmic accountability from tech giants, and fostering digital literacy among citizens, without compromising democratic free speech.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS3_Q11",
+    "paper_title": "General Studies Paper 3",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "What is National Policy in India related to Artificial Intelligence? Explain in detail.",
+    "is_structured": 1,
+    "last_updated": 1778951000,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "q_number": 11,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the National Strategy for Artificial Intelligence (NSAI), published by NITI Aayog, which operates under the guiding theme of '#AIforAll', aiming to position India as a global hub for AI.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain the core focus areas: The policy identifies five foundational sectors for AI application: Healthcare (accessible and targeted care), Agriculture (precision farming and yield prediction), Education (personalized learning), Smart Cities, and Smart Mobility/Transportation.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain implementation and ethical frameworks: It advocates establishing Centers of Research Excellence (CORE) and International Centers for Transformational AI (ICTAI). Crucially, the policy emphasizes 'Responsible AI', focusing on data privacy, preventing algorithmic bias, and ethical deployment.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that India's AI policy is uniquely designed to achieve social inclusion and economic growth, ensuring that technological advancement leaves no citizen behind.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS3_Q12",
+    "paper_title": "General Studies Paper 3",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "What are various types of cyber crimes? How can you protect yourself against cyber crimes?",
+    "is_structured": 1,
+    "last_updated": 1778951000,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "q_number": 12,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define cybercrime as any illegal activity that uses a computer, network, or networked device either as an instrument to commit the crime or as the primary target.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Identify various types of cybercrimes: Examples include Phishing (deceptive emails to steal credentials), Ransomware (encrypting data and demanding payment), Identity Theft, Cyber-stalking, Denial of Service (DDoS) attacks, and financial frauds (card skimming).",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain protection mechanisms (Cyber Hygiene): Implementing strong, unique passwords with Two-Factor Authentication (2FA), keeping software and operating systems regularly updated, avoiding suspicious links or unsecured public Wi-Fi, and using reputable antivirus software.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that as digital footprints expand, robust personal cyber awareness, coupled with institutional reporting mechanisms (like the National Cyber Crime Reporting Portal), is the best defense.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS3_Q13",
+    "paper_title": "General Studies Paper 3",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Do you agree with the statement that success of \"Make in India\" programme depends on the success of \"Skill India\" Programme and radical labour reforms? Discuss with logical arguments.",
+    "is_structured": 1,
+    "last_updated": 1778951000,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "q_number": 13,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Express strong agreement with the statement. 'Make in India' aims to transform India into a global manufacturing hub, but manufacturing requires a competitive, adaptable ecosystem, not just policy announcements.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Argue the dependence on 'Skill India': Capital and machinery are useless without human capital. 'Make in India' targets high-tech sectors (defense, electronics). Without 'Skill India' bridging the massive vocational deficit, industries will face a severe shortage of employable, productive talent, driving up operational costs.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Argue the necessity of radical labour reforms: Historically, India's archaic and rigid labor laws discouraged large-scale hiring and deterred Foreign Direct Investment (FDI). Radical reforms (like the consolidation of 29 laws into 4 Labor Codes) are essential to provide operational flexibility for employers while ensuring basic social security for workers.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that 'Make in India' is the hardware, while 'Skill India' and labor reforms are the operating software; one cannot function successfully without the other.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS3_Q14",
+    "paper_title": "General Studies Paper 3",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Examine the impacts of new schemes introduced in the 2021-22 budget of the Uttar Pradesh State Government on the socio-economic system of the State.",
+    "is_structured": 1,
+    "last_updated": 1778951000,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "q_number": 14,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the UP State Budget 2021-22 as a recovery-oriented budget formulated during the pandemic, focusing heavily on empowerment, infrastructure, and self-reliance.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Examine social impacts: Schemes like the 'Mukhyamantri Abhyudaya Yojana' democratized education by providing free coaching to marginalized students. Welfare schemes targeting women (Kanya Sumangala Yojana expansion) and unorganized sector workers provided critical social safety nets and dignity during the crisis.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Examine economic impacts: Massive allocations for infrastructure (Ganga Expressway, Purvanchal Expressway) and schemes promoting ODOP (One District One Product) catalyzed rural MSMEs, generating extensive local employment and countering the reverse-migration shock.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the budget successfully transitioned the state from pandemic relief to long-term socio-economic resilience and capital asset creation.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS3_Q15",
+    "paper_title": "General Studies Paper 3",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "What are the various types of unemployment? Examine the various steps taken by the government to overcome the problems of unemployment in India.",
+    "is_structured": 1,
+    "last_updated": 1778951000,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "q_number": 15,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define unemployment as a macroeconomic challenge where individuals actively seeking work are unable to find it. In India, it is a complex issue driven by demographic pressure.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain various types: Disguised unemployment (prominent in agriculture where more people work than necessary), Structural (mismatch between skills and market needs), Cyclical (due to economic downturns), and Frictional (temporary unemployment during job transitions).",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Examine government steps: Rural job guarantees through MGNREGA. Promoting entrepreneurship and self-employment via Stand-Up India, MUDRA Yojana, and Start-up India. Addressing structural issues through the Skill India Mission and boosting manufacturing jobs via Production Linked Incentive (PLI) schemes.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while government interventions provide safety nets and boost entrepreneurial capacity, long-term resolution requires robust, labor-intensive industrial growth.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS3_Q16",
+    "paper_title": "General Studies Paper 3",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Discuss the growth of major industries in Uttar Pradesh and also highlight its various challenges.",
+    "is_structured": 1,
+    "last_updated": 1778951000,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "q_number": 16,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce Uttar Pradesh as transitioning rapidly from an agrarian economy to a highly diversified industrial base, driven by proactive state policies and mega-infrastructure.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the growth of major industries: The state has seen massive growth in the MSME sector championed by the ODOP scheme. Key expanding industries include electronics/IT (Noida hub), food and agro-processing (sugar, dairy), leather (Kanpur, Agra), and the emerging aerospace/defense manufacturing sector via the UP Defence Corridor.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Highlight various challenges: Despite growth, industries face hurdles like high cost of credit, logistical bottlenecks in eastern and Bundelkhand regions, a gap between industrial requirements and vocational skills, and navigating complex environmental compliances.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that overcoming these challenges through continuous ease-of-doing-business reforms is critical to transforming UP into a $1 trillion economy.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS3_Q17",
+    "paper_title": "General Studies Paper 3",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Discuss the impact of lockdown on the Indian Economy and review the budgetary strategy for combating the recessionary trends in economy during this period.",
+    "is_structured": 1,
+    "last_updated": 1778951000,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "q_number": 17,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Contextualize the COVID-19 nationwide lockdowns (2020-2021), which induced an unprecedented simultaneous shock to both aggregate demand and supply in the Indian economy.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the economic impact: Severe contraction in GDP (technical recession), complete disruption of supply chains, mass closure of MSMEs, plummeting consumer demand, and a humanitarian crisis triggered by reverse migration and sudden unemployment in the informal sector.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Review the budgetary strategy: The government countered the recession via the 'Aatmanirbhar Bharat' package. Strategies included credit guarantee schemes for MSMEs, massive capital expenditure (Capex) pushes to generate multiplier effects, expanding the MGNREGA budget, and free food grain distribution (PMGKAY) to support demand.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that this expansionary, counter-cyclical fiscal strategy successfully averted an economic collapse, facilitating a strong 'V-shaped' recovery post-lockdown.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS3_Q18",
+    "paper_title": "General Studies Paper 3",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Terrorism and corruption hinder the internal security of any nation. Critically examine.",
+    "is_structured": 1,
+    "last_updated": 1778951000,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "q_number": 18,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Assert that terrorism and corruption are not isolated crimes; they share a deeply symbiotic nexus that rots the institutional framework and paralyzes a nation's internal security.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Examine how terrorism hinders security: It spreads panic, disrupts socio-economic development, drains national resources into defense rather than welfare, and radicalizes youth, directly threatening the sovereign integrity of the state.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Examine the role of corruption as an enabler: Corruption provides the operational oxygen for terrorism. Bribed border officials allow weapons smuggling, corrupt financial systems facilitate terror-funding (money laundering/hawala), and institutional graft creates public alienation, which terror outfits exploit for recruitment.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that securing a nation requires a dual approach: neutralizing kinetic terror threats while aggressively purging corruption from the administrative and financial machinery.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS3_Q19",
+    "paper_title": "General Studies Paper 3",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Discuss the kinds and functions of civil defence. How much is it effective in Uttar Pradesh? Explain.",
+    "is_structured": 1,
+    "last_updated": 1778951000,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "q_number": 19,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define Civil Defence as the organization and training of ordinary citizens to protect lives, minimize property damage, and ensure the continuity of production during hostile attacks or natural disasters.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss kinds and functions: Kinds include localized volunteer forces (wardens) and specialized units. Core functions involve operating early warning sirens, search and rescue, firefighting, administering first-aid, running relief camps, and managing post-disaster logistics.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain effectiveness in Uttar Pradesh: The UP Civil Defence mechanism has proven highly effective during massive crowd-management events (like the Kumbh Mela), providing critical grassroots support during the COVID-19 pandemic, and assisting state forces during annual floods in eastern UP.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while effective as an auxiliary force, continuous training, modernization, and better integration with the NDRF/SDRF are required to maximize its potential.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS3_Q20",
+    "paper_title": "General Studies Paper 3",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Describe about Cyber Dome. Explain how it can be useful in controlling internet crimes in India.",
+    "is_structured": 1,
+    "last_updated": 1778951000,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "q_number": 20,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Describe the Cyber Dome as a premier technological research and development center initiated by the Kerala Police, envisioned as a state-of-the-art cyber center of excellence.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Describe its structure: It operates on a robust Public-Private Partnership (PPP) model, actively involving ethical hackers, IT professionals, cyber security experts, and academia alongside law enforcement.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain its usefulness for India: It acts as an advanced early warning system against cyber threats. It is highly useful for tracking dark web activities, predicting ransomware attacks, tracking terror financing, stopping child pornography networks, and building indigenous cyber-forensic tools.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that replicating the Cyber Dome model at a national level is imperative to bridge the technological gap between modern cyber-criminals and traditional law enforcement agencies.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 3"
+      }
+    ]
+  }
+]
