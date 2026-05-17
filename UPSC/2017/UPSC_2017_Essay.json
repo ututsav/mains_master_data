@@ -1,0 +1,282 @@
+[
+  {
+    "uid": "UPSC_2017_ESSAY_A1",
+    "paper_title": "Essay",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 3,
+    "question_text": "Farming has lost the ability to be a source of subsistence for majority of farmers in India.",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "A1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Agriculture remains the primary livelihood for nearly half of India's workforce, but increasing distress — falling landholdings, rising input costs, erratic climate, and poor price realizations — has made farming non-viable for subsistence for most small and marginal farmers.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Evidence: Average landholding has shrunk to 1.08 hectares; 86% of farmers are small/marginal. Input costs (fertilizer, pesticide, labour) have risen faster than output prices. MSP benefits only a few crops (wheat, rice) and is poorly enforced. Farmer suicides (over 300,000 since 1995) and massive protests (2020-21 farm laws repeal) signal the crisis. Subsistence is further eroded by indebtedness (52% of farmers), fragmentation due to inheritance, and climate shocks (droughts, floods). Government schemes (PM-KISAN, crop insurance) provide only partial relief. The result is a mass exodus from agriculture to informal urban work.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, farming as subsistence is indeed lost for most. Revival requires land consolidation, diversification, better market access, irrigation, and a renewed focus on farmer welfare rather than just production targets.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_ESSAY_A2",
+    "paper_title": "Essay",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 3,
+    "question_text": "Impact of the new economic measures on fiscal ties between the union and states in India.",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "A2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The 1991 economic reforms, followed by GST (2017), removal of planning commission, and changes in devolution (14th Finance Commission recommendations) have fundamentally reshaped centre-state fiscal relations.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Positive impacts: Increased tax devolution from 32% to 42% (14th FC) gave states greater untied funds; GST created a common market but also made states dependent on central compensation (ended June 2022). Negative impacts: Removal of planning commission reduced state input in plan formulation; centrally sponsored schemes with conditionalities still tie state hands; fiscal deficit targets under FRBM limit state borrowing; GST compensation gap has caused revenue shortfalls for states (e.g., Kerala, Punjab). Overall, states have gained fiscal autonomy in some areas but lost in others, leading to recurring tensions (e.g., Tamil Nadu on GST, West Bengal on central taxes).",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, new economic measures have both empowered and constrained states. A cooperative federalism with transparent compensation mechanisms and fewer conditionalities is needed for balanced fiscal ties.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_ESSAY_A3",
+    "paper_title": "Essay",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 3,
+    "question_text": "Destiny of a nation is shaped in its classrooms.",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "A3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "This maxim underscores that education is the foundation of a nation's future — producing skilled, informed, and ethical citizens who drive economic growth, innovation, and democratic values.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Examples: South Korea and Finland invested heavily in education to transform from agrarian to knowledge economies. India's IITs and IIMs have produced leaders in technology and business. However, India's classrooms also reflect stark disparities — poor learning outcomes (ASER reports), high dropout rates, lack of infrastructure, and rigid curricula. The National Education Policy 2020 aims to reshape classrooms to foster critical thinking and holistic development. Without quality education, nations face poverty, inequality, and weak institutions. Thus, national destiny — prosperity, innovation, social cohesion — is indeed cultivated in classrooms.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Therefore, investing in teachers, infrastructure, and inclusive pedagogy is the most strategic investment a nation can make for its future.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_ESSAY_A4",
+    "paper_title": "Essay",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 3,
+    "question_text": "Has the Non-Alignment Movement (NAM) lost its relevance in a multipolar world?",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "A4",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Non-Alignment Movement (NAM) emerged during the Cold War as a third way for newly independent countries. Today's multipolar world with rising powers (China, India, EU) and renewed great power rivalry (US-China) raises questions about NAM's relevance.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Arguments for lost relevance: NAM lacks ideological coherence; its members have diverse interests; its principles are ignored in UNSC debates; many members align with blocs (e.g., India's QUAD engagement). Arguments for continued relevance: NAM provides a platform for Global South on issues like climate justice, debt relief, and WTO reform; it has 120 members representing majority of humanity; it advocates for multilateralism and peaceful resolution. India, a founder, still values NAM but practices multi-alignment. The movement needs institutional revival (e.g., better secretariat, issue-based coalitions).",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, NAM has not fully lost relevance but must reinvent itself — from a Cold War posture to a flexible coalition for sustainable development and reforming global governance.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_ESSAY_B1",
+    "paper_title": "Essay",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 3,
+    "question_text": "Joy is the simplest form of gratitude.",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "B1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Joy is an inner state of contentment; gratitude is recognition of blessings. The statement suggests that true joy arises naturally from a thankful heart, not from material accumulation.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Philosophical basis: Stoic and Buddhist traditions teach that joy follows from appreciating what one has. Modern positive psychology (Emmons, McCullough) shows that practicing gratitude increases subjective well-being and reduces envy. Examples: Children often show spontaneous joy at small gifts — a form of wordless gratitude. Conversely, those who feel entitled or ungrateful rarely experience deep joy. In everyday life, acts of service, helping others, and mindfulness cultivate joy as a reflection of thankfulness. However, joy can also arise from aesthetic experiences or love without explicit object of thanks, but underlying appreciation is present.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, joy indeed can be understood as the simplest, most primal expression of gratitude — accessible to all without intellectual effort.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_ESSAY_B2",
+    "paper_title": "Essay",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 3,
+    "question_text": "Fulfilment of 'new woman' in India is a myth.",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "B2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The 'new woman' in India is often portrayed as educated, economically independent, assertive, and breaking traditional patriarchal barriers. The statement questions whether this ideal is actually realized for most women.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Arguments for myth: Despite rising literacy and workforce participation, deep gender disparities persist. Labour force participation rate for women is only 25% (down from 30% in 2005). Violence against women (domestic, sexual) remains high (NFHS-5). Unpaid care work continues to be unequal (women spend 5x more hours than men). Social norms on marriage, mobility, and choice restrict agency. Even educated women face glass ceilings and harassment (e.g., #MeToo). Counterpoints: Progress exists — more girls in school, women in leadership (political, corporate, space missions), legal reforms (abortion rights, triple talaq), and growing awareness. However, fulfilment is partial, not universal. The myth lies in assuming the 'new woman' is the norm; in reality, it's an exception confined to urban upper classes.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the fulfilment of the 'new woman' remains largely a myth for the majority of Indian women, though a promising aspirational ideal.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_ESSAY_B3",
+    "paper_title": "Essay",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 3,
+    "question_text": "We may brave human laws but cannot resist natural laws.",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "B3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "This statement contrasts man-made legal systems with the immutable laws of nature (gravity, thermodynamics, ecology, human biology). While humans can defy or reform civil laws, they cannot ultimately violate physical and biological realities.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Examples: Prohibition laws can be evaded, but intoxication's effects on the body cannot be escaped. Economic laws of supply and demand can be manipulated temporarily, but price controls lead to shortages. Most critically, environmental laws — we can pollute rivers despite legal bans, but we cannot escape the consequences (contaminated water, health crises, climate change). Climate change itself is nature's response to violating atmospheric carbon limits. Similarly, COVID-19 spread despite lockdown orders; natural viral transmission outran human decrees. The pandemic showed that natural laws (epidemiology) ultimately dictate outcomes. Human laws are social constructs; natural laws are discovered, not legislated, and are non-negotiable.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, while we can brave human laws with impunity at times, nature's laws enforce themselves — often harshly. Wisdom lies in aligning human systems with natural limits.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_ESSAY_B4",
+    "paper_title": "Essay",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 125,
+    "importance": 3,
+    "question_text": "'Social media' is inherently a selfish medium.",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "B4",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Social media platforms (Facebook, Instagram, Twitter) are designed around user profiles, likes, shares, and personal branding. The statement argues that the very architecture of social media incentivizes self-promotion and self-interest over genuine community.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Inherent selfishness: Algorithms reward attention-grabbing, narcissistic posts (selfies, humblebragging, lifestyle curation). The 'like' button turns communication into a popularity contest. Anonymity and echo chambers promote confirmation bias, not empathy. Research shows social media use correlates with increased loneliness, envy, and depression — as users compare curated selves. However, counterexamples exist: social media has enabled collective action (Arab Spring, Black Lives Matter), fundraisers, support groups, and awareness campaigns. But these are uses of the medium, not its inherent design. The profit model (advertising based on user engagement) prioritizes self-referential content. Thus, selfishness is built into the business logic, not just user behaviour.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, social media is structurally biased toward selfish expression, though mindful use can mitigate its harmful effects.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  }
+]

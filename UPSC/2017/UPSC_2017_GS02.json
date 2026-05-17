@@ -1,0 +1,690 @@
+[
+  {
+    "uid": "UPSC_2017_GSP2_01",
+    "paper_title": "GS Paper 2",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "\"The local self-government system in India has not proved to be effective instrument of governance.\" Critically examine the statement and give your views to improve the situation. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The 73rd and 74th Constitutional Amendments (1992) mandated Panchayati Raj Institutions (PRIs) and Urban Local Bodies (ULBs) as units of self-government. However, their effectiveness remains debatable.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Reasons for ineffectiveness: inadequate devolution of funds, functions, and functionaries (3Fs); state control over finances; lack of regular elections in some states; bureaucratic resistance; elite capture; low capacity and corruption. Positive examples: Kerala and West Bengal have shown effective PRIs. To improve: transfer subjects listed in 11th/12th Schedule; establish State Finance Commissions properly; empower Gram Sabhas; fix election calendars; provide training and e-governance.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, while the statement is largely true, the system can be made effective through genuine devolution and political will, as demonstrated by successful states.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP2_02",
+    "paper_title": "GS Paper 2",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Critically examine the Supreme Court's judgement on 'National Judicial Appointments Commission Act, 2014' with reference to appointment of judges of higher judiciary in India. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The NJAC Act, 2014 sought to replace the collegium system with a commission including judiciary, executive, and eminent persons. In 2015, SC declared it unconstitutional.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "SC held that NJAC violated the 'basic structure' by undermining judicial independence. The collegium system (primacy of judiciary) was restored. Criticism: collegium lacks transparency and accountability; NJAC would have balanced executive voice. However, SC argued that NJAC's provision giving veto power to two members could allow executive interference. The judgement thus preserved judicial primacy but left the problem of opacity unsolved. Post-judgement, a Memorandum of Procedure (MoP) is being negotiated.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, while the SC upheld judicial independence, it missed an opportunity to reform appointment transparency. A balanced system with both independence and accountability remains needed.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP2_03",
+    "paper_title": "GS Paper 2",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "\"Simultaneous election to the Lok Sabha and the State Assemblies will limit the amount of time and money spent in electioneering but it will reduce the government's accountability to the people.\" Discuss. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The proposal for simultaneous elections (One Nation, One Election) aims to reduce frequent polls and associated costs.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Advantages: reduced expenditure on electioneering; less disruption to governance due to Model Code of Conduct; faster implementation of policies; lower burden on security forces. Disadvantages: national issues may overshadow local concerns; if a state government falls prematurely, either President's Rule or waiting for next general election disrupts the cycle; reduced accountability – governments cannot be punished mid-term by voters. The trade-off is efficiency versus democratic responsiveness. Feasibility requires constitutional amendments and political consensus.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, while simultaneous elections save resources, they risk weakening federalism and periodic accountability. A nuanced approach with fixed terms and no-confidence alternatives may be needed.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP2_04",
+    "paper_title": "GS Paper 2",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "How do pressure groups influence Indian political process? Do you agree with this view that informal pressure groups have emerged as more powerful than formal pressure groups in recent years? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q4",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Pressure groups (interest groups) influence policy through lobbying, protests, media campaigns, and electoral support. Formal groups (trade unions, industry associations) and informal groups (caste, religious, ad-hoc movements) both play roles.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Influence methods: election funding, strikes, litigation (PILs), social media mobilization. Formal groups (FICCI, CITU) have institutional access but declining membership. Informal groups (Maoists, farmers' protests, caste-based groups) have risen due to political fragmentation, social media, and weak institutional channels. Recent examples: 2020-21 farmers' protest (informal, powerful) forced repeal of farm laws. Yes, informal groups are now more powerful because they mobilize masses quickly and operate outside regulatory frameworks.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, informal pressure groups have indeed become more potent due to digital mobilization and political realignment, though formal groups still influence economic policy.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP2_05",
+    "paper_title": "GS Paper 2",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Discuss the role of Public Accounts Committee in establishing accountability of the government to the people. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q5",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Public Accounts Committee (PAC) is a parliamentary committee that examines government expenditure reports from the Comptroller and Auditor General (CAG).",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Role: Ensures that money granted by Parliament has been spent within authorized limits and for intended purposes. It examines audit reports, scrutinizes irregularities (losses, wasteful expenditure), and summons officials. PAC acts as a check on executive financial misconduct, thereby holding the government accountable to Parliament and, indirectly, to the people. However, its recommendations are advisory, not binding. The committee lacks powers to penalize, but its reports create political pressure and media scrutiny. Recent examples: 2G spectrum scam, coal block allocation.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, PAC is a vital accountability mechanism, though its effectiveness depends on parliamentary follow-up and public awareness.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP2_06",
+    "paper_title": "GS Paper 2",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "\"To ensure effective implementation of policies addressing water, sanitation and hygiene needs the identification of the beneficiary segments is to be synchronized with the anticipated outcomes.\" Examine the statement in the context of the WASH scheme. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q6",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "WASH (Water, Sanitation, Hygiene) schemes aim to improve public health. Effective implementation requires targeting specific beneficiary segments (rural/urban, schools, women, poor) and aligning with outcomes (reduced diarrhoea, open defecation free status).",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Example: Swachh Bharat Mission (SBM) identified rural households as key beneficiaries. Outcomes included constructing toilets and behavioural change. However, success varied because usage (not just construction) was the desired outcome. Similarly, National Rural Drinking Water Programme (NRDWP) targets habitations with water quality issues. Synchronization means: mapping beneficiary needs (e.g., schools need separate girls' toilets), setting measurable indicators (e.g., reduction in waterborne diseases), and using data for adaptive management. Without this, resources may be misallocated.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the statement is valid – aligning beneficiary identification with intended outcomes ensures cost-effective, impact-focused WASH implementation.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP2_07",
+    "paper_title": "GS Paper 2",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Does the Rights of Persons with Disabilities Act, 2016 ensure effective mechanism for empowerment and inclusion of the intended beneficiaries in the society? Discuss. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q7",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The RPWD Act, 2016 replaced the 1995 Act, expanding disabilities from 7 to 21 types, and mandates accessibility, non-discrimination, and reservation.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Positive provisions: 4% reservation in government jobs and higher education; special courts; penalties for violations; National and State Commissions for PwDs. However, implementation gaps remain: lack of accessibility in public buildings; insufficient budget allocation; delayed appointment of commissioners; unawareness among PwDs; lack of sign language interpreters. The Act's effectiveness is thus partial. Empowerment requires stronger enforcement, monitoring mechanisms, and social awareness campaigns. The Act is a progressive step but not fully effective yet.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, while the Act provides a sound legal framework, its translation into reality needs sustained political and administrative will.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP2_08",
+    "paper_title": "GS Paper 2",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Hunger and poverty are the biggest challenges for good governance in India still today. Evaluate how far successive governments have progressed in dealing with these humongous problems. Suggest measures for improvement. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q8",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Despite economic growth, India still ranks poorly on Global Hunger Index (2023: 111th) and has large poverty pockets. Successive governments have launched numerous schemes.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Progress: National Food Security Act (2013) covers 2/3rd population; MGNREGA provides wage employment; PM Garib Kalyan Anna Yojana during COVID; poverty ratio declined from 45% in 1993 to under 15% (Multidimensional Poverty Index). However, hunger persists due to inefficient PDS, corruption, malnutrition (stunting), and exclusion errors. Improvements needed: universalize PDS, strengthen ICDS, improve targeting via Aadhaar but with safeguards, address climate impacts on agriculture, and create more formal jobs.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, while progress is real, it is uneven and insufficient. Good governance requires prioritizing nutrition, reducing leakages, and sustained political commitment.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP2_09",
+    "paper_title": "GS Paper 2",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "\"China is using its economic relations and positive trade surplus as tools to develop potential military power status in Asia.\" In the light of this statement, discuss its impact on India as her neighbour. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q9",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "China's economic rise has funded massive military modernization (PLA) and strategic infrastructure (Belt and Road Initiative). Its trade surplus with many Asian countries gives it leverage.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Impact on India: Strategic encirclement – China-Pakistan Economic Corridor (CPEC) passes through PoK; border disputes (Doklam, Galwan); Naval presence in Indian Ocean (Gwadar, Hambantota). Economic dependence – India's trade deficit with China (~$50-80 billion) gives China leverage. India responds with 'Act East' policy, QUAD, and self-reliance (Atmanirbhar). However, complete decoupling is impossible. China's military power status challenges India's regional influence and forces it to enhance its own capabilities and diplomacy.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, China's economic-military nexus poses a multifaceted challenge to India, requiring a balanced strategy of deterrence, diversification, and multilateral engagement.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP2_10",
+    "paper_title": "GS Paper 2",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "What are the main functions of the United Nations Economic and Social Council (ECOSOC)? Explain different functional commissions attached to it. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q10",
+    "points": [
+      {
+        "section": "General",
+        "text": "Main functions of ECOSOC: coordinate economic and social work of UN and specialized agencies; promote higher standards of living, full employment, and human rights; facilitate international cultural and educational cooperation; make recommendations on economic and social issues; convene major conferences and follow-ups (e.g., SDGs). Functional commissions include: Statistical Commission, Commission on Population and Development, Commission for Social Development, Commission on the Status of Women, Commission on Narcotic Drugs, Commission on Crime Prevention and Criminal Justice, Commission on Science and Technology for Development. These commissions prepare reports, draft resolutions, and oversee implementation in their respective domains.",
+        "order": 1,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP2_11",
+    "paper_title": "GS Paper 2",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Explain the salient features of the Constitution (One Hundred and First Amendment) Act, 2016. Do you think it is efficacious enough \"to remove cascading effect of taxes and provide for common national market for goods and services\"? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q11",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The 101st Constitutional Amendment Act, 2016 introduced the Goods and Services Tax (GST), creating a nationwide indirect tax regime, effective July 1, 2017.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Salient features: Article 246A gives Parliament and states concurrent power to tax goods and services; GST Council established (Article 279A) as a joint forum; Centre compensates states for revenue loss for five years; IGST for inter-state supplies; removal of cascading (tax on tax) by allowing input tax credit across value chain. Efficacy: GST has largely removed cascading and reduced tax compliance burden. Common national market – barriers like checkposts and state entry taxes abolished; logistics improved (faster truck movement). However, problems: multiple tax slabs (5,12,18,28%), complexity, technology glitches (GSTN), frequent rate changes, and exclusion of petroleum, alcohol, electricity. Thus, partly efficacious but not fully achieved the ideal 'one nation, one tax'.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, while the amendment laid the foundation, further rationalization (reducing slabs, including excluded goods) is needed to fully realize its objectives.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP2_12",
+    "paper_title": "GS Paper 2",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Examine the scope of Fundamental Rights in the light of the latest judgement of the Supreme Court on Right to Privacy. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q12",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "In Justice K.S. Puttaswamy v. Union of India (2017), a 9-judge bench unanimously declared that Right to Privacy is a fundamental right intrinsic to life and liberty (Article 21).",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Scope of Fundamental Rights expanded: Privacy is not absolute but subject to legitimate state interests (national security, public health). The judgement overruled earlier narrow views (M.P. Sharma, Kharak Singh). It protects informational privacy, bodily integrity, personal choices (sexual orientation, marriage), and decisional autonomy. The judgement also strengthened other rights: free speech (privacy of communication), freedom of religion (privacy of belief), and protection from surveillance (Aadhaar case subsequently limited biometric data collection). Thus, privacy acts as a shield against arbitrary state intrusion, enhancing the overall constitutional protection of dignity.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the Right to Privacy judgement has significantly broadened the interpretative canvas of Fundamental Rights, making them more responsive to modern technological challenges.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP2_13",
+    "paper_title": "GS Paper 2",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "The Indian Constitution has provisions for holding joint session of the two Houses of the Parliament. Enumerate the occasions when this would normally happen and also the occasions when it cannot, with reason thereof. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q13",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Article 108 of the Indian Constitution provides for a joint sitting of Lok Sabha and Rajya Sabha to resolve deadlock on ordinary bills (not Money Bills).",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Occasions when joint sitting can happen: If a bill passed by one House is rejected by the other; if the other House passes it with amendments not agreed by the originating House; if the other House does not pass it within six months of receipt. The President summons the joint sitting; if passed by majority (simple) of total members present and voting, the bill is deemed passed. Occasions when joint sitting cannot happen: Money Bills – only Lok Sabha has primacy (Article 109). Constitutional amendment bills under Article 368 require separate special majority in each House; no joint sitting. Also, joint sitting is not possible for a bill that has lapsed due to dissolution of Lok Sabha (unless re-introduced). Reason: Money bills concern taxation and government expenditure – Lok Sabha's mandate on these is supreme; constitutional amendments require broader consensus beyond simple majority.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, joint sitting is a rare mechanism for legislative deadlock resolution, but excluded for money and constitutional amendment bills to protect financial federalism and amendment rigidity.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP2_14",
+    "paper_title": "GS Paper 2",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "To enhance the quality of democracy in India the Election Commission of India has proposed electoral reforms in 2016. What are the suggested reforms and how far are they significant to make democracy successful? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q14",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "In 2016, the Election Commission of India (ECI) proposed a set of electoral reforms to curb money power, criminalization, and enhance transparency.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Key proposals: \n(i) State funding of elections (partial/national) to reduce illicit money.\n(ii) Disqualification of candidates on framing of charges for heinous crimes (instead of conviction).\n(iii) Introduction of NOTA (None of the Above) in all elections (already implemented).\n(iv) Tightening of election expenditure limits and real-time disclosure.\n(v) Ban on exit polls until all phases complete.\n(vi) Use of totaliser machines for counting votes (to preserve voter secrecy).\n(vii) Providing postal ballot to senior citizens, COVID patients, etc.\nSignificance: State funding could reduce corruption but faces fiscal constraints. Pre-conviction disqualification would address criminalization but raises due process concerns. Totaliser would reduce booth-level intimidation but requires technology. Overall, these reforms would strengthen democratic quality by reducing money and muscle power, increasing voter participation, and enhancing transparency. However, political consensus is lacking.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the proposed reforms are significant but need legislative action; partial implementation so far shows the gap between recommendation and reality.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP2_15",
+    "paper_title": "GS Paper 2",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Is the National Commission for Women able to strategize and tackle the problems that women face at both public and private spheres? Give reasons in support of your answer. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q15",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The National Commission for Women (NCW), established in 1992, is a statutory body to safeguard women's rights and advise on policies.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "NCW's role: investigating complaints (domestic violence, harassment, dowry), suo motu cognizance of cases, recommending legal reforms, and organizing awareness programs. Achievements: contributed to the Criminal Law (Amendment) Act 2013 (Nirbhaya case); rescued trafficking victims; provided relief to acid attack survivors. However, limitations: recommendatory powers only – cannot enforce actions; understaffed and underfunded; backlog of cases; ineffective in private sphere issues (domestic violence) due to social stigma and lack of field presence. Moreover, its strategic planning is often reactive rather than proactive. Public sphere problems (workplace harassment) have seen improvement due to POSH Act, but implementation remains weak.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, NCW is partially able to tackle women's problems but requires more authority, resources, and coordination with state women's commissions to be fully effective.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP2_16",
+    "paper_title": "GS Paper 2",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "\"The emergence of the Self-Help Groups (SHGs) in contemporary times points to the slow but steady withdrawal of the State from developmental activities.\" Examine the role of the SHGs in developmental activities and the measures taken by the Government of India to promote the SHGs. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q16",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Self-Help Groups (SHGs) are small, informal associations of women (mostly) that pool savings and provide microcredit. Their growth is often seen as a substitute for state-led development.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Role in development: poverty reduction through income generation; women empowerment (decision-making, mobility); social capital building; access to formal banking through bank linkage. However, SHGs cannot replace state functions like infrastructure, education, health. The statement's 'withdrawal of State' is misleading – rather, SHGs complement state efforts. Government promotion: NABARD's SHG-Bank Linkage Programme (1992); National Rural Livelihoods Mission (NRLM) – Deendayal Antyodaya Yojana; Mudra loans; Credit Guarantee Fund. States like Kerala (Kudumbashree) show successful state-SHG partnership. Thus, SHGs represent a participatory model, not state withdrawal.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the emergence of SHGs reflects a shift from top-down to bottom-up development, with the State acting as an enabler rather than withdrawing.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP2_17",
+    "paper_title": "GS Paper 2",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "\"Poverty alleviation programmes in India remain mere showpieces until and unless they are backed up by political will.\" Discuss with reference to the performance of the major poverty alleviation programmes in India. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q17",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India has launched numerous poverty alleviation schemes (MGNREGA, PMAY, NSAP, SGSY/NRLM, PM-KISAN) with mixed results. Political will is crucial for effective implementation.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Examples of showpieces due to lack of will: Earlier Integrated Rural Development Programme (IRDP) suffered from corruption and elite capture. Even MGNREGA, despite legal guarantee, faced delayed wages, low assets creation, and inadequate funding in some states. Where political will exists (e.g., Tamil Nadu, Rajasthan), outcomes improve. Positive cases: Kerala's Kudumbashree; Chhattisgarh's PDS reforms. Political will manifests as: adequate budget allocation, administrative capacity building, regular audits, social audits, and political accountability. Without it, schemes remain underfunded, mis-targeted, and captured by intermediaries.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the statement holds true – political will is the sine qua non for translating poverty alleviation schemes into tangible benefits for the poor.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP2_18",
+    "paper_title": "GS Paper 2",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Initially Civil Services in India were designed to achieve the goals of neutrality and effectiveness, which seems to be lacking in the present context. Do you agree with the view that drastic reforms are required in Civil Services? Comment. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q18",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Indian Civil Services (IAS, IPS, etc.) were designed to be neutral, efficient, and loyal to the Constitution. Post-independence, they have faced challenges to these ideals.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Lack of neutrality: increasing political interference in postings and transfers; officers succumbing to pressure; 'sycophancy' over integrity. Effectiveness issues: status quo orientation, risk aversion, lack of domain expertise (generalists), poor performance management, corruption. Yes, drastic reforms are needed. Suggested reforms: fixed tenures regardless of political whims; performance-linked incentives; lateral entry for specialists; mandatory training on ethics and technology; revamped promotion system (seniority vs merit); empowering Civil Services Board; whistleblower protection. The Second ARC and recent initiatives (Mission Karmayogi) are steps, but implementation is slow.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, I agree that civil services require comprehensive reforms to restore neutrality and effectiveness, or else governance quality will further decline.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP2_19",
+    "paper_title": "GS Paper 2",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "The question of India's Energy Security constitutes the most important part of India's economic progress. Analyze India's energy policy cooperation with West Asian countries. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q19",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India imports ~80% of its crude oil and ~50% of natural gas, with West Asia (Saudi Arabia, UAE, Qatar, Iran, Iraq) being the primary source.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Cooperation mechanisms: Long-term supply contracts; Strategic Petroleum Reserves (SPR) at Mangalore, Visakhapatnam; Investment in upstream assets (ONGC Videsh in Sudan, Iran's Farzad-B); Joint ventures in refineries (Saudi Aramco with RIL). Recent developments: India-West Asia relations under 'Look West' policy; I2U2 (India, Israel, UAE, USA) focuses on energy; India-Iran Chabahar port as alternative to Pakistan route. Challenges: price volatility, geopolitical instability (Yemen, Syria), US sanctions on Iran, and energy transition reducing oil demand. India is also diversifying through renewables and Russian oil, but West Asia remains critical.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, energy cooperation with West Asia is vital for India's growth, but India must balance traditional ties with diversification and renewable push for long-term security.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP2_20",
+    "paper_title": "GS Paper 2",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Indian diaspora has an important role to play in South-East Asian countries' economy and society. Appraise the role of Indian diaspora in South-East Asia in this context. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q20",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Indian diaspora in Southeast Asia (Myanmar, Malaysia, Singapore, Indonesia, Thailand) comprises both colonial-era migrants and contemporary professionals.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Economic role: Indian-origin businessmen dominate certain sectors (textiles in Singapore, rubber in Malaysia); remittances; skilled IT professionals (Singapore). Role as intermediaries for Indian investments; promoting trade and tourism. Social role: preserving Indian culture (temples, festivals, Bollywood); educational linkages (Nalanda University revival); philanthropy. Political influence: diaspora associations lobby for India's interests (e.g., South China Sea stance). However, some communities face assimilation pressures or discrimination (e.g., Malaysian Indians). India's engagement through Pravasi Bharatiya Divas and bilateral diaspora agreements has strengthened ties. Examples: Singapore's S. Iswaran, Malaysia's Tunku Abdul Rahman's Indian ancestry.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the Indian diaspora acts as a cultural and economic bridge, enhancing India's soft power and economic linkages with Southeast Asia.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  }
+]

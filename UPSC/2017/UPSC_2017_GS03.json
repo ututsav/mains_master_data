@@ -1,0 +1,702 @@
+[
+  {
+    "uid": "UPSC_2017_GSP3_01",
+    "paper_title": "GS Paper 3",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Among several factors for India's potential growth, savings rate is the most effective one. Do you agree? What are the other factors available for growth potential? (Answer in 150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Savings rate provides investible surplus for capital formation, a key driver of growth. However, it is not the sole or necessarily 'most effective' factor.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Savings rate (gross domestic savings as % of GDP) in India peaked at ~37% in 2007-08 but has since declined to ~30%. Higher savings enable investment, but without productivity gains, growth stagnates. Other factors: human capital (education, skills), technological innovation, infrastructure, institutional quality, demographic dividend, and foreign direct investment. Moreover, investment efficiency (ICOR) matters. Thus, savings is necessary but not sufficient. China's high savings drove growth, but also its export-oriented policies and state-led investment.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "I partially agree; savings is critical but equally important are productivity, policy reforms, and global economic integration for sustained growth.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP3_02",
+    "paper_title": "GS Paper 3",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Account for the failure of manufacturing sector in achieving the goal of labour-intensive exports. Suggest measures for more labour-intensive rather than capital-intensive exports. (Answer in 150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's manufacturing exports remain capital-intensive (refined petroleum, chemicals, auto parts) rather than labour-intensive (textiles, leather, toys) compared to China, Bangladesh, Vietnam.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Reasons for failure: labour laws (rigidities, high compliance costs), poor infrastructure, difficulty in land acquisition, lack of economies of scale (small firm size), competition from East Asia, and inverted duty structures harming MSMEs. Measures for labour-intensive exports: rationalize labour codes (already enacted but implementation pending), create mega clusters for textiles/leather with common facilities, provide export incentives under RoDTEP, improve ease of doing business, and sign FTAs with large markets (EU, UK). Also, focus on skill development in sewing, leathercraft, and handicrafts.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, structural reforms and targeted support for labour-intensive sectors can shift India's export basket towards employment-generating industries.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP3_03",
+    "paper_title": "GS Paper 3",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Examine the development of Airports in India through joint ventures under Public-Private Partnership (PPP) model. What are the challenges faced by the authorities in this regard? (Answer in 150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "PPP model for airport development began with Delhi and Mumbai (GMR and GVK-led consortia) in 2006, followed by Cochin, Bangalore, Hyderabad.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Successes: world-class terminals, increased passenger handling, improved efficiency, commercial revenue growth. Delhi and Mumbai airports are now among top globally. Challenges: renegotiation of concession agreements (tariff disputes), high user development fees (UDF), political opposition (e.g., opposition to AAI stake sale), delays in new projects (Navi Mumbai, Jewar), financial stress due to COVID-19, and regulatory uncertainty from AERA. Also, smaller airports remain unviable for PPP, requiring government support.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, while PPP has modernized major airports, challenges in contract management, tariff regulation, and financial sustainability need resolution for wider adoption.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP3_04",
+    "paper_title": "GS Paper 3",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Explain various types of revolutions, took place in Agriculture after independence in India. How these revolutions have helped in poverty alleviation and food security in India? (Answer in 150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q4",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Post-independence, Indian agriculture witnessed several 'revolutions' targeting specific crops or sectors.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Types: Green Revolution (wheat, rice – 1960s-70s); White Revolution (milk – Operation Flood); Yellow Revolution (oilseeds – 1990s); Blue Revolution (fisheries); Pink Revolution (meat/poultry); Golden Revolution (horticulture/fruits). Impacts on poverty alleviation: increased food grain production reduced imports, stabilized prices, and raised farm incomes; dairy revolution provided steady income to small farmers; fisheries and horticulture diversified livelihoods. Food security: buffer stocks and PDS ensured availability; India became self-sufficient in grains, averting famines. However, benefits were uneven regionally and ecologically.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, these revolutions collectively transformed India from a food-deficient to a food-surplus nation, significantly reducing poverty and enhancing food security.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP3_05",
+    "paper_title": "GS Paper 3",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "What are the reasons for poor acceptance of cost-effective small processing unit? How the food processing unit will be helpful to uplift the socio-economic status of poor farmers? (Answer in 150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q5",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Despite government subsidies, small-scale food processing units (e.g., for grains, fruits, spices) remain underutilized due to multiple barriers.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Reasons for poor acceptance: lack of awareness, inadequate access to credit, unreliable power supply, marketing challenges (branding, distribution), quality control issues (FSSAI compliance), and competition from large players. How processing helps poor farmers: reduces post-harvest losses (20-30% in perishables); enables value addition (higher price realization); creates off-farm employment; extends shelf life, allowing sale during lean seasons; and provides alternative income during crop failure. Example: small rice mills, mango pulp units, or spice grinders can transform local economy.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, addressing credit, training, and market linkage can unlock the potential of small processing units to uplift small farmers economically.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP3_06",
+    "paper_title": "GS Paper 3",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Stem cell therapy is gaining popularity in India to treat a wide variety of medical conditions including Leukaemia, Thalassemia, damaged cornea and severe burns. Describe briefly what stem cell therapy is and what advantages it has over other treatments? (Answer in 150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q6",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Stem cell therapy uses undifferentiated cells (embryonic, adult, or induced pluripotent) that can differentiate into specialized cell types to repair damaged tissues.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Process: stem cells are harvested (bone marrow, umbilical cord), processed, and injected into affected areas. Advantages over conventional treatments: regenerative capability – replaces lost/damaged cells rather than managing symptoms (e.g., in leukemia, bone marrow transplant restores blood formation); reduces dependency on organ transplants (e.g., corneal repair from limbal stem cells); potential for personalized medicine; lower risk of rejection if autologous. However, ethical concerns (embryonic stem cells) and high costs remain. India's regulatory framework (ICMR guidelines) promotes research while preventing unproven therapies.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, stem cell therapy offers revolutionary advantages in regenerative medicine, but requires careful regulation and affordable access.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP3_07",
+    "paper_title": "GS Paper 3",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "India has achieved remarkable successes in unmanned space missions including the Chandrayaan and Mars Orbitter Mission, but has not ventured into manned space missions. What are the main obstacles to launching a manned space mission, both in terms of technology and logistics? Examine critically. (Answer in 150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q7",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "ISRO's unmanned missions (Mangalyaan, Chandrayaan) are cost-effective and successful, but Gaganyaan (manned) is targeted for 2024-25 after several delays.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Obstacles: Technology – human-rated launch vehicle (HLVM) requiring higher reliability (99.99%), crew escape system, life support (oxygen, temperature, CO2 removal), radiation shielding, and re-entry heat shield. Logistics – astronaut training (ISRO's Human Space Flight Centre established), recovery protocols (splashdown in sea), and biomedical monitoring. Critically, India lacks experience in zero-gravity human adaptation and emergency abort procedures. The budget (~₹10,000 crore for Gaganyaan) is high but manageable. ISRO is addressing these via test flights (TV-D1 crew module abort test 2023).",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, obstacles are significant but surmountable; India's manned mission is feasible with continued testing and international collaboration (e.g., Russian support for training).",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP3_08",
+    "paper_title": "GS Paper 3",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Not many years ago, river linking was a concept but it is becoming a reality in the country. Discuss the advantages of river linking and its possible impact on the environment. (Answer in 150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q8",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The National River Linking Project (NRLP) proposes transferring water from surplus (Ganga, Brahmaputra) to deficit (peninsular) rivers through canals.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Advantages: flood control in surplus basins, drought mitigation in deficit areas, additional irrigation (35 million ha), hydropower generation, inland navigation, and drinking water supply. Environmental impacts: submergence of forests and fertile land; displacement of communities; changes in river ecology (flow regimes, sediment transport, aquatic biodiversity); waterlogging and salinity due to poor drainage; transboundary issues with Nepal, Bangladesh (rights over shared rivers). The feasibility is debated; only partial links (Ken-Betwa) are underway. Environmental clearances and social safeguards are critical.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, while river linking offers benefits, its environmental and social costs require careful assessment; a basin-wise, integrated water management approach may be preferable.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP3_09",
+    "paper_title": "GS Paper 3",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Discuss the potential threats of Cyber attack and the security framework to prevent it. (Answer in 150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q9",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Cyber attacks target critical infrastructure (power grids, banking, defense), data breaches, ransomware, and espionage.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Threats: data theft (personal, financial), denial of service, cyber terrorism, cryptocurrency fraud, and deepfake disinformation. For India, attacks from state and non-state actors (e.g., 2016 Union Bank hack, 2022 AIIMS ransomware). Security framework: National Cyber Security Policy 2013 (being updated); National Critical Information Infrastructure Protection Centre (NCIIPC); CERT-In (mandatory incident reporting); Cyber Swachhta Kendra (botnet cleaning); Indian Cyber Crime Coordination Centre (I4C); personal data protection law (Digital Personal Data Protection Act 2023). Need for public-private partnerships, cybersecurity awareness, and skilled workforce.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, a robust legal, technical, and institutional framework combined with proactive monitoring is essential to counter growing cyber threats.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP3_10",
+    "paper_title": "GS Paper 3",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "The North-East region of India has been infested with insurgency for a very long time. Analyze the major reasons for the survival of armed insurgency in this region. (Answer in 150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q10",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "North-East India (Seven Sisters + Sikkim) has witnessed insurgencies (ULFA, NSCN, KLO, etc.) since independence, with some groups continuing despite peace accords.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Reasons for survival: difficult terrain and porous borders (Myanmar, Bangladesh) allowing sanctuaries, arms smuggling, and safe havens. Ethnic grievances – perceived neglect, migration from mainland threatening indigenous identity, lack of economic development. Failed peace processes – some accords were incomplete (e.g., Naga talks long-drawn). also, factional rivalries sustain conflict (e.g., NSCN-IM vs NSCN-K). Government's counter-insurgency operations sometimes alienate locals (AFSPA issues). However, recent accords (Bodo, Bru-Reang, Karbi Anglong) have reduced violence.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, insurgency persists due to a combination of geographical, socio-economic, and political factors; sustainable peace requires inclusive development and addressing root causes.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP3_11",
+    "paper_title": "GS Paper 3",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "One of the intended objectives of the Union Budget 2017-18 is to 'transform, energise and clean India'. Analyse the measures proposed in the Budget 2017-18 to achieve the objective. (Answer in 250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q11",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Union Budget 2017-18 (presented by Arun Jaitley) focused on 'Transform, Energise, Clean India' (TEC India), aligned with the government's vision of New India by 2022.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Transform measures: Demonetization's impact was ongoing; increased allocation for MGNREGA (₹48,000 crore) for rural transformation; infrastructure push – ₹3.96 lakh crore for roads, railways (Rashtriya Rail Sanrakshan Kosh). Energise measures: Focus on renewable energy (solar park capacity doubled, 20,000 MW solar); UDAY scheme for power discoms' financial turnaround; Pradhan Mantri Gram Sadak Yojana for rural connectivity. Clean India measures: Swachh Bharat Mission received ₹2 lakh crore for universal sanitation; National Mission for Clean Ganga (Namami Gange) allocated funds; push for LPG connections under Ujjwala (target 5 crore). Also, digital economy promotion (BharatNet, payment infrastructure) and tax reforms (lower corporate tax for MSMEs).",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the budget proposed multiple schemes aligning with TEC India, though actual impact depends on implementation, monitoring, and sustained funding.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP3_12",
+    "paper_title": "GS Paper 3",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "\"Industrial growth rate has lagged-behind in the overall growth of Gross-Domestic-Product (GDP) in the post-reform period.\" Give reasons. How far the recent changes in Industrial-Policy are capable of increasing the industrial growth rate? (Answer in 250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q12",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Post-1991 reforms, India's GDP growth averaged 6-7%, but manufacturing (industrial) growth often lagged, with share in GDP stagnant around 15-17%.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Reasons for lag: policy uncertainties, high logistics costs, labour law rigidities, infrastructure deficits, access to credit for MSMEs, and global competition from China/Vietnam. Also, shift to services-led growth bypassed industry. Recent industrial policy changes: 'Make in India' (2014), Production Linked Incentive (PLI) schemes (2020 onwards) for electronics, autos, pharma, textiles; National Manufacturing Policy; reduction in corporate tax (22% for new units); simplification of labour codes (2020); privatization of PSUs; and infrastructure push (Gati Shakti). These are capable of boosting industrial growth by providing incentives, improving ease, and attracting FDI. However, implementation gaps (PLI disbursements delayed, labour code rules pending), land acquisition hurdles, and global demand slowdown limit immediate impact.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, while recent policies have potential, their effectiveness requires consistent execution, further deregulation, and investment in skill and R&D.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP3_13",
+    "paper_title": "GS Paper 3",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "What are the salient features of 'inclusive growth'? Has India been experiencing such a growth process? Analyse and suggest measures for inclusive growth. (Answer in 250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q13",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Inclusive growth refers to economic growth that is broad-based across sectors, creates employment, reduces poverty and inequality, and ensures social inclusion (gender, caste, region).",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Salient features: poverty reduction, decent employment, agricultural growth, regional balance, environmental sustainability, and access to basic services (health, education, finance). Has India experienced it? Partially – poverty declined (MPI halved), but inequality rose (top 10% own 77% wealth); employment growth low (jobless growth); agriculture lags; inter-state disparities persist (Bihar vs Goa); social exclusion continues. Thus, growth has not been fully inclusive. Measures for inclusive growth: boost labour-intensive manufacturing, strengthen MGNREGA and skilling, increase public spending on health/education, expand financial inclusion (Jan Dhan, PMJJBY), ensure land reforms and MSP for small farmers, and implement affirmative action effectively.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, while India has made strides, achieving truly inclusive growth requires targeted policies to address structural inequalities and regional imbalances.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP3_14",
+    "paper_title": "GS Paper 3",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "What are the major reasons for declining rice and wheat yield in the cropping system? How crop diversification is helpful to stabilise the yield of the crops in the system? (Answer in 250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q14",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Rice-wheat cropping system dominates the Indo-Gangetic plains. However, yields have stagnated or declined in some areas due to multiple factors.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Reasons for yield decline: soil degradation (loss of organic matter, micronutrient deficiency), overuse of groundwater leading to water table depletion, residue burning (reducing soil fertility), pest and disease resistance (e.g., rice blast), climate variability (heat stress at grain filling), and imbalanced fertilizer use (excess nitrogen, lack of potash). Crop diversification helps by: breaking pest cycles (non-host crops), improving soil health (legumes fix nitrogen, millets require less water), reducing groundwater extraction (shifting to maize, pulses, oilseeds), and providing resilience to price and climate shocks. Diversification also increases farm income. Examples: Punjab's diversification to maize and cotton; Eastern UP's promotion of pulses under NICRA.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, diversification is a key strategy to sustain yields and ensure long-term agricultural sustainability in the rice-wheat belt.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP3_15",
+    "paper_title": "GS Paper 3",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "How do subsidies affect the cropping pattern, crop diversity and economy of farmers? What is the significance of crop insurance, minimum support price and food processing for small and marginal farmers? (Answer in 250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q15",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Agricultural subsidies (fertilizer, power, irrigation, MSP) distort cropping decisions. Crop insurance, MSP, and food processing can mitigate risks for small farmers.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Subsidies' effects: Power subsidy encourages groundwater over-extraction, favoring water-intensive rice and sugarcane, reducing crop diversity. Fertilizer subsidy (urea) leads to imbalanced NPK use, soil degradation, and monoculture. Subsidies benefit large farmers more, as small farmers lack access to irrigation. Significance of alternatives: Crop insurance (PMFBY) protects against yield loss, stabilizing income, though implementation delayed claims. MSP provides price assurance but benefits wheat/rice disproportionately; small farmers often sell at lower than MSP due to lack of market access. Food processing (small units) adds value, reduces post-harvest losses, and creates rural employment, directly benefiting small farmers. However, processing requires credit and training.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, while subsidies distort cropping, a combination of well-targeted insurance, remunerative MSP, and food processing infrastructure can enhance small farmer livelihoods.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP3_16",
+    "paper_title": "GS Paper 3",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Give an account of the growth and development of nuclear science and technology in India. What is the advantage of fast breeder reactor programme in India? (Answer in 250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q16",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's nuclear programme began under Homi Bhabha with a three-stage strategy: Pressurized Heavy Water Reactors (PHWRs), Fast Breeder Reactors (FBRs), and Thorium-based reactors.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Growth: Apsara (1956) first research reactor; Tarapur (1969) first commercial power plant; Pokhran tests (1974, 1998). Today, 22 operating reactors (6780 MW). Nuclear technology also used in agriculture (mutant seeds), medicine (cancer therapy), and industry (radiography). Indigenous development of PHWRs, fuel reprocessing, and waste management. Fast Breeder Reactor advantage: Converts fertile material (U-238, Th-232) into fissile Pu-239, generating more fuel than consumed. India's 500 MWe Prototype Fast Breeder Reactor (PFBR) at Kalpakkam is critical for stage-II, enabling utilization of abundant thorium (stage-III). This reduces dependency on imported uranium and ensures long-term energy security. However, FBRs face technical challenges (sodium coolant leaks, cost overruns).",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, India's nuclear journey is unique, and FBRs are key to achieving self-sustaining nuclear energy with thorium as the ultimate fuel source.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP3_17",
+    "paper_title": "GS Paper 3",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "'Climate change' is a global problem. How India will be affected by climate change? How Himalayan and coastal states of India will be affected by climate change? (Answer in 250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q17",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Climate change impacts India through rising temperatures, erratic monsoons, sea-level rise, and extreme events. Vulnerability is high due to large poor population dependent on climate-sensitive sectors.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "India-level effects: reduced agricultural yields (wheat, rice) under heat stress; increased flooding and droughts; water scarcity (Himalayan glacier melt affecting rivers); spread of vector-borne diseases; displacement of coastal communities. Himalayan states (J&K, Himachal, Uttarakhand, Sikkim, Arunachal): accelerated glacier retreat (Gangotri, Siachen) affecting river flows (Ganga, Brahmaputra); increased glacial lake outburst floods (GLOFs) – e.g., 2013 Kedarnath, 2021 Chamoli; landslides; loss of biodiversity (pines shifting upward); impact on hydropower. Coastal states (Gujarat, Maharashtra, Goa, Karnataka, Kerala, Tamil Nadu, Andhra, Odisha, West Bengal): sea-level rise (2.5 mm/year) causing erosion, inundation of low-lying areas (Sundarbans), saltwater intrusion into aquifers and farmland; more intense cyclones (Tauktae, Fani, Yaas) damaging infrastructure and livelihoods; loss of mangroves and fisheries.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, climate change poses severe threats to India's ecology, economy, and society, requiring mitigation (renewable energy) and adaptation (coastal protection, climate-resilient agriculture).",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP3_18",
+    "paper_title": "GS Paper 3",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "On December 2004, tsunami brought havoc on fourteen countries including India. Discuss the factors responsible for occurrence of tsunami and its effects on life and economy. In the light of guidelines of NDMA (2010) describe the mechanisms for preparedness to reduce the risk during such events. (Answer in 250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q18",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The 2004 Indian Ocean tsunami, triggered by a 9.1 magnitude earthquake off Sumatra, killed over 230,000 people across 14 countries, including 16,000 in India (Tamil Nadu, Andaman & Nicobar, Kerala, AP).",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Factors: Undersea megathrust earthquake (subduction of Indian plate under Burma plate); vertical displacement of seafloor, displacing massive water volume; shallow depth (30 km) and long rupture (1200 km). Effects on life: massive casualties, injury, trauma; displacement; disease outbreaks; loss of livelihoods (fishermen, coastal tourism). Economic: destruction of infrastructure (ports, roads, houses), loss of fishing boats and gear, agricultural land salinization, tourism collapse. NDMA (2010) guidelines for preparedness: Early warning system – Indian Tsunami Early Warning Centre (ITEWC) with bottom pressure recorders, tide gauges, seismic network. Community preparedness: mock drills, evacuation route maps, public awareness (Tsunami-ready villages). Structural measures: coastal shelterbelts (mangroves), cyclone/tsunami-resistant shelters, land-use zoning (no construction within 500m of high tide line). Response mechanisms: standard operating procedures for alerts (Red/Orange/Yellow/Green), rapid response teams, and international coordination (IOTWMS).",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, effective tsunami risk reduction requires robust detection, timely warning dissemination, community preparedness, and resilient coastal infrastructure.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP3_19",
+    "paper_title": "GS Paper 3",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Mob violence is emerging as a serious law and order problem in India. By giving suitable examples, analyze the causes and consequences of such violence. (Answer in 250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q19",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Mob violence (lynching, rioting, vigilantism) has increased in India, often fueled by rumors, social media, and communal or caste tensions.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Examples: 2017-18 cattle vigilante lynchings (Pehlu Khan, Rakbar Khan); 2018 WhatsApp lynchings (child-lifting rumors in Maharashtra, Jharkhand, Assam); 2022 Tablighi Jamaat attacks; communal riots (Muzaffarnagar 2013, Delhi 2020). Causes: social media misinformation and lack of digital literacy; weak police response and partisanship; polarizing political rhetoric; economic distress; caste hierarchies; breakdown of trust; inadequate legal deterrence (lynching not separate IPC offense until 2018). Consequences: loss of innocent lives; fear among minorities and vulnerable groups; international image damage; breakdown of rule of law; internal displacement; and legitimization of vigilante justice. Supreme Court had to intervene (Tehseen Poonawala case 2018) directing states to prevent mob violence.",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, mob violence is a symptom of deeper societal and governance failures, requiring strict law enforcement, social media regulation, community policing, and interfaith dialogue.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP3_20",
+    "paper_title": "GS Paper 3",
+    "year": 2017,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "The scourge of terrorism is a grave challenge to national security. What solutions do you suggest to curb this growing menace? What are the major sources of terrorist funding? (Answer in 250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U17",
+    "q_number": "Q20",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Terrorism threatens India's internal security, external peace, and economic stability. Combating it requires multi-pronged strategy.",
+        "order": 1,
+        "cite": "U17"
+      },
+      {
+        "section": "Body",
+        "text": "Solutions: Intelligence-led policing and real-time data sharing (NIA, IB, state police). Counter-radicalization programs in vulnerable communities (e.g., Kerala's 'Operation Naya Sawal'). Legal framework – strengthening UAPA (2019 amendments allowing designation of individuals as terrorists). Border management (smart fencing, drones) to prevent infiltration. International cooperation (UNSC sanctions, FATF mutual evaluations). De-radicalization through education and employment. Also, focus on cyber-terrorism monitoring (CERT-In). Major sources of terrorist funding: state sponsorship (Pakistan for LeT, JeM); organized crime (drug trafficking – Golden Crescent; extortion; kidnapping); counterfeit currency; hawala network; charity fronts and NGOs; crowdfunding via cryptocurrencies; smuggling of goods (timber, minerals). India has enhanced financial tracking (FIU-IND, seizure of proceeds of terrorism).",
+        "order": 2,
+        "cite": "U17"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, curbing terrorism requires a holistic approach of legal deterrence, financial intelligence, community engagement, and international pressure on state sponsors.",
+        "order": 3,
+        "cite": "U17"
+      }
+    ]
+  }
+]
