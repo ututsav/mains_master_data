@@ -1,0 +1,798 @@
+[
+  {
+    "uid": "UPPSC_2021_GS4_Q1",
+    "paper_title": "General Studies Paper 4",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Does individual morality have a bearing effect on the decision of public life?",
+    "is_structured": 1,
+    "last_updated": 1778952000,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "q_number": 1,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define individual morality (personal values like honesty, integrity) and public morality (constitutional principles, duty to the public).",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Explain the positive bearing: A strong individual moral compass acts as the foundation for ethical public decisions. An intrinsically honest person is less likely to accept bribes or compromise on public welfare, ensuring high standards of probity.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss conflicts: When individual morality (e.g., personal religious beliefs) conflicts with public duty (e.g., secular constitutional mandates), the latter must prevail. A civil servant cannot let personal biases prejudice administrative fairness.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while individual morality heavily influences and strengthens public conduct, it must always be aligned with and subordinated to constitutional morality in public life.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS4_Q2",
+    "paper_title": "General Studies Paper 4",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "What are the essential virtues which are responsible for an ideal, human ethical behaviour according to Mahatma Gandhi? Discuss.",
+    "is_structured": 1,
+    "last_updated": 1778952000,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "q_number": 2,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce Mahatma Gandhi's ethical framework, which was deeply rooted in spirituality and the belief that means are as important as the ends.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the foundational virtues: Satya (Truth) as the ultimate reality, and Ahimsa (Non-violence) as the highest moral duty and the means to achieve truth.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss supporting virtues: Asteya (Non-stealing), Aparigraha (Non-possession/minimalism), Brahmacharya (Self-control), and Sarvodaya (welfare of all), which curb human greed and promote an egalitarian society.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that these virtues, when practiced collectively, transform an individual's character and lay the groundwork for an ideal, harmonious socio-political order (Ramrajya).",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS4_Q3",
+    "paper_title": "General Studies Paper 4",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Corruption causes misuse of government treasury, administrative inefficiency and obstruction in national development. Give suggestions for prevention of corruption in public life in the context of the statement given.",
+    "is_structured": 1,
+    "last_updated": 1778952000,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "q_number": 3,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Acknowledge corruption as a systemic malignancy that diverts public resources from welfare to private pockets, deeply hindering the nation's developmental trajectory.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Provide institutional suggestions: Minimizing human interface through aggressive e-governance (DBT, online tendering), strengthening independent anti-corruption bodies (CVC, Lokpal), and robust enforcement of the Whistleblower Protection Act.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Provide behavioral and societal suggestions: Promoting value-based education from a young age to instill integrity, and encouraging a societal boycott of corrupt practices rather than glorifying ill-gotten wealth.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that fighting corruption requires a dual approach: stringent punitive mechanisms from the top and a strong moral rearmament of society from the bottom.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS4_Q4",
+    "paper_title": "General Studies Paper 4",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Describe the relevance of the following in the context of civil services: (a) Ethical governance (b) Probity in public life.",
+    "is_structured": 0,
+    "last_updated": 1778952000,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "q_number": 4,
+    "points": [
+      {
+        "section": "Body",
+        "text": "(a) Ethical governance: It ensures that the administration goes beyond mere legality to embrace fairness, justice, and empathy. It is highly relevant for civil services to ensure that policies inherently protect the vulnerable and maintain absolute public trust in democratic institutions.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "(b) Probity in public life: It signifies strict adherence to the highest principles of ideals, honesty, and integrity. In civil services, probity is essential to prevent corruption, ensure transparent resource allocation, and foster an organizational culture that refuses to compromise on moral standards.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS4_Q5",
+    "paper_title": "General Studies Paper 4",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "A peaceful protest was being carried out by a group of milk traders. The superintendent of Police instructs the Police Officials to prevent the group from committing any type of violence, He, however tells them to teach them a lesson', if situation warrants. A Police Offical on duty indulges into an argument with a protestor and beats him up. When inquired about his action, he says that he was told to teach them a lesson by the Superintendent of Police. Give your comment on ethical behaviour of both the Superintendent of Police and the Police Official in the light of above mentioned incident.",
+    "is_structured": 1,
+    "last_updated": 1778952000,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "q_number": 5,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Identify the ethical core of the case: The misuse of authority, the issuance of ambiguous/unlawful directives, and the abdication of personal moral responsibility by subordinates.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Evaluate the Superintendent of Police (SP): The SP's directive to \"teach them a lesson\" is highly unprofessional, extra-judicial, and unethical. It lacks clarity, implicitly sanctions police brutality, and violates the constitutional right to peaceful protest.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Evaluate the Police Official: The official demonstrated a lack of emotional intelligence by turning an argument into physical assault. Using the superior's vague order as an excuse is a failure of independent ethical judgment (the 'Nuremberg defense'), violating the principle that unlawful orders must not be obeyed.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that both officers displayed a severe lack of professional ethics and constitutional morality, escalating a peaceful situation through ego and arbitrary force.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS4_Q6",
+    "paper_title": "General Studies Paper 4",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Define attitude in historical perspective and discuss the relationship between aptitude and attitude.",
+    "is_structured": 1,
+    "last_updated": 1778952000,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "q_number": 6,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define attitude as a learned psychological tendency expressed by evaluating a particular entity with some degree of favor or disfavor, historically studied as a precursor to human behavior.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Define aptitude: Aptitude is the natural or acquired potential/ability to acquire a certain skill or perform a specific task effectively (e.g., logical reasoning, administrative acumen).",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the relationship: While aptitude represents the 'capability' (what you can do), attitude represents the 'motivation and direction' (how well you do it and with what intent). An administrator with high aptitude but a negative, apathetic attitude will fail in public service.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that for a successful civil servant, both must synergize: aptitude provides the necessary competence, while a positive, public-centric attitude provides the ethical drive.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS4_Q7",
+    "paper_title": "General Studies Paper 4",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Define empathy and discuss the role of empathy in solving problems of weaker section.",
+    "is_structured": 1,
+    "last_updated": 1778952000,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "q_number": 7,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define empathy as the cognitive and emotional ability to put oneself in another's shoes, understand their feelings, and grasp their perspective without judgment.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss its role in understanding unarticulated pain: The weaker sections (poor, illiterate, marginalized) often lack the capacity to formally articulate their grievances. An empathetic administrator senses these unspoken hardships.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss its role in effective policy implementation: Empathy prevents rigid, mechanical application of rules. It motivates a civil servant to cut through bureaucratic red tape to provide substantive, humane relief to the needy.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that empathy is the bridge between a powerful state machinery and its most vulnerable citizens, ensuring administration remains a tool of welfare, not oppression.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS4_Q8",
+    "paper_title": "General Studies Paper 4",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "\"Emotional intelligence is very important in effective administrative practices\". Throw light on this statement.",
+    "is_structured": 1,
+    "last_updated": 1778952000,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "q_number": 8,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define Emotional Intelligence (EI) as the ability to recognize, understand, and manage one's own emotions, as well as the emotions of others (Goleman's model).",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Throw light on internal administrative practices: High EI allows civil servants to self-regulate under immense political pressure, manage stress during crises (disasters, riots), and maintain high motivation levels without succumbing to apathy.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Throw light on external administrative practices: It enables effective conflict resolution, builds cohesive teams, and fosters empathetic communication with the public, helping defuse volatile situations through persuasion rather than force.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while IQ helps an administrator enter the civil services, it is EI that dictates their ultimate effectiveness and success in public life.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS4_Q9",
+    "paper_title": "General Studies Paper 4",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "How can tolerance and compassion be fostered among civil servants? Give your opinion.",
+    "is_structured": 1,
+    "last_updated": 1778952000,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "q_number": 9,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define tolerance (respecting opposing views) and compassion (empathetic desire to alleviate suffering) as indispensable foundational values for a humane civil service.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Suggest institutional and training mechanisms: Incorporating immersive case studies and role-playing in academy training (e.g., LBSNAA). Extensive field visits (Bharat Darshan) to deeply backward/tribal areas to expose officers to the harsh realities of marginalized lives.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Suggest leadership and cultural mechanisms: Leading by example, where senior bureaucrats demonstrate these values, creating an organizational culture that rewards compassionate innovations and citizen-centric grievance redressal.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that continuous sensitization, combined with an organizational ecosystem that values emotional intelligence, is key to fostering these traits.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS4_Q10",
+    "paper_title": "General Studies Paper 4",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Differentiate between: (a) Objectivity and dedication (b) Structure and functions of attitudes",
+    "is_structured": 0,
+    "last_updated": 1778952000,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "q_number": 10,
+    "points": [
+      {
+        "section": "Body",
+        "text": "(a) Objectivity vs Dedication: Objectivity is the cognitive ability to make decisions based purely on facts, merit, and empirical evidence, free from personal bias or favoritism. Dedication is the emotional and psychological commitment to public service, ensuring persistence and perseverance in duties despite severe challenges.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "(b) Structure vs Functions of Attitudes: The Structure of an attitude refers to its components, typically defined by the CAB model: Cognitive (beliefs), Affective (emotions), and Behavioral (actions). The Functions of an attitude refer to the psychological needs it fulfills for the individual, such as the knowledge function, ego-defensive function, value-expressive function, and utilitarian function.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS4_Q11",
+    "paper_title": "General Studies Paper 4",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "What are the traditional values in Indian society? How does it differ from modern values? Explain.",
+    "is_structured": 1,
+    "last_updated": 1778952000,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "q_number": 11,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Acknowledge Indian society as a complex amalgamation of enduring ancient traditions and rapidly adopting modern democratic principles.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss traditional values: These are deeply rooted in religion and philosophy, emphasizing Collectivism (joint family over individual), Hierarchy (caste, age, patriarchy), Dharma (duty and righteousness), and spiritualism.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Explain differences from modern values: Modern values, heavily influenced by the Constitution and Western thought, prioritize Individualism, strict Egalitarianism (equality before law), secularism, and scientific temper over unquestioned faith.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that contemporary India is undergoing a cultural synthesis, where the traditional value of tolerance is blending with the modern value of equality to forge a unique social identity.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS4_Q12",
+    "paper_title": "General Studies Paper 4",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "What are the ethical perversions of private sector? Describe the three options of ethical life.",
+    "is_structured": 1,
+    "last_updated": 1778952000,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "q_number": 12,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Note that while the private sector drives economic growth, the singular pursuit of profit maximization can lead to severe ethical compromises.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss ethical perversions of the private sector: Exploitative labor practices, environmental degradation (ignoring negative externalities), misleading advertising, insider trading, and prioritizing shareholder wealth over consumer safety and public health.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Describe the three options/paradigms of ethical life: 1) Virtue Ethics (focusing on cultivating moral character and integrity within the organization). 2) Deontological Ethics (strict adherence to duties, rules, and corporate codes of conduct regardless of profit). 3) Consequentialist/Utilitarian Ethics (acting to generate the greatest good for the greatest number, aligning with Corporate Social Responsibility).",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that overcoming these perversions requires businesses to integrate all three ethical paradigms, realizing that sustainable capitalism relies on social trust and corporate conscience.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS4_Q13",
+    "paper_title": "General Studies Paper 4",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Is change in work-culture necessary for providing quality service delivery in present administrative structure? Answer with arguments.",
+    "is_structured": 1,
+    "last_updated": 1778952000,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "q_number": 13,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define work culture as the collective values, beliefs, and behaviors within an organization. State firmly that a paradigm shift in the administrative work culture is an absolute necessity.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Argue against the current structure: The existing culture is often plagued by colonial hangovers—status-quoism, extreme hierarchical rigidity, red-tapism, risk aversion, and a focus on procedural compliance over actual outcomes.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Argue for the necessary changes: A shift towards a citizen-centric, result-oriented culture is needed. This includes rewarding performance and innovation, encouraging emotional intelligence, ensuring rapid grievance redressal, and maintaining zero tolerance for corruption.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that upgrading technology is insufficient without a corresponding upgrade in bureaucratic mindset; a dynamic work culture is the true engine of quality public service delivery.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS4_Q14",
+    "paper_title": "General Studies Paper 4",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Is judicial control necessary in Public Administration? Explain the various possible forms of judical control over the Public Administration.",
+    "is_structured": 1,
+    "last_updated": 1778952000,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "q_number": 14,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Assert that judicial control is absolutely necessary over Public Administration to uphold the Rule of Law, prevent the arbitrary exercise of executive power, and protect citizens' fundamental rights.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Explain forms of control via Prerogative Writs (Articles 32 & 226): Habeas Corpus (against illegal detention), Mandamus (compelling an official to perform their duty), Certiorari and Prohibition (correcting jurisdictional errors of lower administrative bodies), and Quo Warranto.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Explain forms of control via Judicial Review and PILs: Courts have the power to strike down delegated legislation or administrative orders if they are ultra vires or unconstitutional. Public Interest Litigation (PIL) allows courts to intervene in cases of administrative apathy affecting marginalized groups.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while judicial control acts as an essential democratic safety valve, it must be exercised with restraint to avoid judicial overreach into policy domains.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS4_Q15",
+    "paper_title": "General Studies Paper 4",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Ram Murti is a Government servant and lives with his old aged parents in Indore. One day during a field-visit he meets a 11 year old orphan boy. He was in a miserable condition and homeless, with no one to take care of him. Ram Murti brings the boy to home an proposes him that if he takes care of his aged parents, he will give him daily wage according to his needs and will arrange for his educaiton too. Evaluate Ram Murit is conduct from ethical perspective.",
+    "is_structured": 1,
+    "last_updated": 1778952000,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "q_number": 15,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Identify the core ethical conflict: Ram Murti's seemingly compassionate intent (providing shelter and education) clashes directly with the illegality and unethical nature of employing a minor (child labor).",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Evaluate the unethical aspects: Employing an 11-year-old child violates the Child Labour (Prohibition and Regulation) Act and Article 24 of the Constitution. Ethically, Ram Murti is exploiting the child's desperate vulnerability for his own personal gain (care for his parents), which violates Kant's categorical imperative (using a human merely as a means).",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Evaluate the professional failure: As a government servant, Ram Murti has a heightened duty to uphold the law. Instead of bringing the child home for labor, his statutory and moral duty was to hand the child over to the Child Welfare Committee (CWC) or state-run orphanages for formal rehabilitation.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that Ram Murti's conduct, despite its paternalistic facade, is ethically flawed, legally punitive, and represents a gross misjudgment of a public servant's duty towards vulnerable children.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS4_Q16",
+    "paper_title": "General Studies Paper 4",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "What do you understand by moral and political attitude of human? How will you justify these in the present political scenario?",
+    "is_structured": 1,
+    "last_updated": 1778952000,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "q_number": 16,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define moral attitude as an individual's evaluation of right and wrong, based on internal virtues (justice, honesty, empathy). Define political attitude as an individual's beliefs and predispositions toward political systems, parties, state policies, and ideologies.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss them in the present political scenario: Currently, political attitudes are increasingly polarized, often driven by populism, identity politics (caste/religion), and ideological extremity rather than public welfare.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Justify their interaction and necessity: A strong moral attitude is desperately needed to temper extreme political attitudes. When political views are rooted in constitutional morality (equality, secularism), it prevents authoritarianism and ensures that political participation remains ethical and democratic.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that a healthy democracy requires a synthesis where a citizen's political attitude is continually guided and restrained by a robust, humanistic moral attitude.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS4_Q17",
+    "paper_title": "General Studies Paper 4",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Discuss the root causes of gender related negative attitude. Why is it so rigid?",
+    "is_structured": 1,
+    "last_updated": 1778952000,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "q_number": 17,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Acknowledge that gender-related negative attitudes (patriarchy, sexism) are pervasive structural issues that manifest as discrimination, unequal opportunities, and violence against women.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the root causes: Primary socialization within the family (where boys and girls are treated differently), reinforcement through traditional religious interpretations, economic dependence of women, and media stereotyping.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Explain why it is so rigid: It is rigid because it serves the vested interests of the dominant gender in maintaining social and economic power. Furthermore, these attitudes are deeply internalized as 'cultural norms' or 'traditions' rather than prejudices, making cognitive dissonance hard to overcome.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that dismantling this rigidity requires multi-generational interventions through gender-sensitive education, female financial empowerment, and strict legal enforcement.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS4_Q18",
+    "paper_title": "General Studies Paper 4",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Discuss the factors which influence the formation of individual's attitude towards social problems with the help of suitable examples.",
+    "is_structured": 1,
+    "last_updated": 1778952000,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "q_number": 18,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define attitude as an evaluative stance. State that an individual's attitude towards social problems (like poverty, casteism, or addiction) is shaped by a complex interplay of internal and external factors.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss primary socialization and learning: Family and peer groups form foundational views. Example: A child growing up in a household practicing untouchability is likely to inherit caste-based prejudiced attitudes through observational learning.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss direct experience and media influence: A person who has directly suffered due to poor public healthcare will have a highly intense attitude towards systemic reform. Additionally, mass media and social media actively frame narratives, severely influencing how one perceives issues like communalism or immigration.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that understanding these formation factors is crucial for administrators seeking to design effective behavioral-change campaigns (like Swachh Bharat).",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS4_Q19",
+    "paper_title": "General Studies Paper 4",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Today objectivity and dedication is the need of the hour in civil services. - Justify the statement.",
+    "is_structured": 1,
+    "last_updated": 1778952000,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "q_number": 19,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Acknowledge that modern civil servants face an environment of intense political pressure, massive public expectations, and complex socio-economic challenges, making foundational values critical.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Justify the need for Objectivity: It guarantees that administrative decisions are based strictly on merit, facts, and legal scrutiny. This prevents nepotism, counters political bias, and ensures equitable delivery of services to all citizens regardless of their background.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Justify the need for Dedication: The sheer scale of Indian governance often involves slow, frustrating bureaucratic hurdles. Dedication acts as the emotional fuel that prevents apathy and ensures that an officer persists in their duty to the marginalized during crises or systemic failures.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that objectivity provides the intellectual clarity for good governance, while dedication provides the moral stamina, making them the twin pillars of a successful administration.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2021_GS4_Q20",
+    "paper_title": "General Studies Paper 4",
+    "year": 2021,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Rajeev was a migrant labour. One day when he was going on the road by his bicyle, a car pushed his bicycle. Rajeev dragged the driver out of car and began abusing him. The driver took out a knife and after stabbing him three-four times he fled away from the spot. Onlookers delayed rush Rajeev to hospital and due to excessive bleeding, he died. If you were in places of Rajev, what would you have done for driver's irresponsible driving? Often people show indifferent or passive attitude towards such road accidents and accident victims. Discuss its causes and suggest the remedies.",
+    "is_structured": 1,
+    "last_updated": 1778952000,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "q_number": 20,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The case study highlights severe lack of emotional intelligence (road rage), criminal aggression, and the critical societal failure known as bystander apathy.",
+        "order": 1,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "My action in Rajeev's place: I would have maintained emotional regulation despite the accident. Instead of physically dragging and abusing the driver (taking the law into my own hands), I would have noted the car's registration number and reported the irresponsible driving to the traffic police.",
+        "order": 2,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Body",
+        "text": "Causes of passive attitude (Bystander Effect): Diffusion of responsibility in crowds, fear of police harassment or lengthy court proceedings, fear of the armed attacker, and a general erosion of social empathy in fast-paced urban lives.",
+        "order": 3,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Suggest remedies: Strict, widespread implementation of 'Good Samaritan Guidelines' to protect helpers from legal harassment, rewarding citizens who aid victims, and extensive civic education to revive basic human compassion.",
+        "order": 4,
+        "cite": "UPPSC Mains 2021 GS Paper 4"
+      }
+    ]
+  }
+]
