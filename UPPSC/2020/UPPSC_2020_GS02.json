@@ -1,0 +1,822 @@
+[
+  {
+    "uid": "UPPSC_2020_GS2_Q1",
+    "paper_title": "General Studies Paper 2",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Explain the concept of Judicial Activism and evaluate its impact on the relationship of Executive and Judiciary in India.",
+    "is_structured": 1,
+    "last_updated": 1778954000,
+    "cite": "UPPSC Mains 2020 GS Paper 2",
+    "q_number": 1,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define Judicial Activism as the proactive role played by the judiciary in protecting the rights of citizens and promoting justice in the society, often stepping beyond traditional judicial boundaries.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the positive impacts: It has expanded the scope of fundamental rights (e.g., Article 21), enforced executive accountability, and addressed systemic apathy through mechanisms like Public Interest Litigation (PIL).",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Evaluate the impact on Executive-Judiciary relations: It often leads to friction, with the executive viewing it as 'judicial overreach' that violates the constitutional separation of powers and infringes upon policy-making domains.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while judicial activism acts as a vital safety valve for democracy, it must be exercised with judicial restraint to maintain institutional balance.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS2_Q2",
+    "paper_title": "General Studies Paper 2",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "\"The President of India cannot become a dictator.\" Explain.",
+    "is_structured": 1,
+    "last_updated": 1778954000,
+    "cite": "UPPSC Mains 2020 GS Paper 2",
+    "q_number": 2,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Establish the President of India as the de jure (nominal) head of the state in a parliamentary democracy, where real executive power vests in the Council of Ministers headed by the Prime Minister.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Explain constitutional safeguards (Article 74): The President is constitutionally bound to act on the aid and advice of the Council of Ministers (reinforced by the 42nd and 44th Amendment Acts).",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss legislative and removal checks: The President's ordinances must be approved by Parliament within six weeks of its reassembly. Furthermore, the President can be removed through a rigorous impeachment process (Article 61) for violating the Constitution.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the intricate system of checks and balances inherently prevents the consolidation of absolute power, rendering a presidential dictatorship constitutionally impossible in India.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS2_Q3",
+    "paper_title": "General Studies Paper 2",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Critically analyse the role of the Inter-State Council in promoting Co-operative Federalism in India.",
+    "is_structured": 1,
+    "last_updated": 1778954000,
+    "cite": "UPPSC Mains 2020 GS Paper 2",
+    "q_number": 3,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the Inter-State Council, established under Article 263 on the recommendation of the Sarkaria Commission, as a constitutional body to facilitate coordination between states and the center.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Analyze its role in cooperative federalism: It acts as an institutional forum for resolving inter-state disputes, discussing common policy issues, and fostering consensus on matters of national importance (e.g., internal security, center-state relations).",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Critically analyze its limitations: Its recommendations are purely advisory. It has suffered from sporadic meetings, lack of a permanent empowered secretariat, and is often overshadowed by other bodies like NITI Aayog or the GST Council.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that for the Council to truly champion cooperative federalism, it must meet regularly and its recommendations should carry greater binding political weight.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS2_Q4",
+    "paper_title": "General Studies Paper 2",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Articale 32 is the soul of the Indian Constitution.' Explain it in brief.",
+    "is_structured": 1,
+    "last_updated": 1778954000,
+    "cite": "UPPSC Mains 2020 GS Paper 2",
+    "q_number": 4,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Quote Dr. B.R. Ambedkar, who referred to Article 32 as the \"heart and soul\" of the Indian Constitution because it guarantees the Right to Constitutional Remedies.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Explain its mechanism: Article 32 empowers any citizen to directly approach the Supreme Court for the enforcement of Fundamental Rights through the issuance of prerogative writs (Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo Warranto).",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Explain its significance: Without Article 32, other fundamental rights would be mere declarations without any enforceability. It acts as the ultimate constitutional safeguard against executive and legislative tyranny.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that Article 32 translates constitutional promises into actionable justice, cementing the Supreme Court's role as the protector and guarantor of fundamental rights.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS2_Q5",
+    "paper_title": "General Studies Paper 2",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Examine the role of Non-Governemental Organisations (N.G.Os.) for the rural development in Uttar Pradesh.",
+    "is_structured": 1,
+    "last_updated": 1778954000,
+    "cite": "UPPSC Mains 2020 GS Paper 2",
+    "q_number": 5,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Acknowledge the vast rural landscape of Uttar Pradesh, where Non-Governmental Organizations (NGOs) play a pivotal role as 'last-mile' service delivery agents bridging state gaps.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Examine the role in socio-economic empowerment: NGOs mobilize women into Self-Help Groups (SHGs) for microfinance, promote grassroots vocational training, and assist in agricultural extension services to small and marginal farmers.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Examine the role in health and education: They actively participate in maternal/infant health campaigns, sanitation drives (Swachh Bharat support), and running alternative education centers to combat rural illiteracy and drop-outs.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that a synergistic partnership between the UP government and NGOs is vital to achieving holistic, participatory, and sustainable rural development.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS2_Q6",
+    "paper_title": "General Studies Paper 2",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Evaluate the role of Inforation and Communications Technology in the context of governemtn policies.",
+    "is_structured": 1,
+    "last_updated": 1778954000,
+    "cite": "UPPSC Mains 2020 GS Paper 2",
+    "q_number": 6,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce Information and Communications Technology (ICT) as the transformative backbone of modern 'e-governance' strategies designed to make administration SMART (Simple, Moral, Accountable, Responsive, Transparent).",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Evaluate the positive role: ICT enables Direct Benefit Transfers (DBT) via the JAM Trinity, significantly curbing leakages. It streamlines service delivery through single-window portals (e.g., UMANG, e-District) and enhances policy monitoring using Big Data and GIS mapping.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Evaluate the challenges: The effectiveness of ICT is often hindered by the digital divide (rural vs. urban, gender gap), inadequate digital literacy, and concerns over data privacy and cyber-security.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while ICT is a potent enabler of efficient policy execution, the government must build robust digital infrastructure at the grassroots to ensure inclusive digital empowerment.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS2_Q7",
+    "paper_title": "General Studies Paper 2",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Analyse various aspects relating to Management of Human Resources in India.",
+    "is_structured": 1,
+    "last_updated": 1778954000,
+    "cite": "UPPSC Mains 2020 GS Paper 2",
+    "q_number": 7,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define Human Resource Management (HRM) at a national level as the strategic utilization, development, and maintenance of the workforce to reap the demographic dividend.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Analyse developmental aspects: Highlighting the massive need for skill development (Skill India Mission) to bridge the gap between academic qualifications and industry requirements, alongside improving healthcare to ensure a productive labor force.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Analyse structural and regulatory aspects: Navigating the complexities of formalizing the massive unorganized sector, ensuring fair labor standards, addressing the 'brain drain', and adapting to automation/AI job disruptions.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that robust national HRM policies are imperative to transform India's massive population from an economic liability into a competitive global asset.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS2_Q8",
+    "paper_title": "General Studies Paper 2",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Examine the efforts of Uttar Pradesh in attracting multi-national companies so as to boost the economy of the state in the wake of labour migration during the Pandemic.",
+    "is_structured": 1,
+    "last_updated": 1778954000,
+    "cite": "UPPSC Mains 2020 GS Paper 2",
+    "q_number": 8,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Contextualize the COVID-19 pandemic, which triggered a massive reverse migration of laborers to UP, creating an urgent need for industrial expansion and job creation.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Examine policy and regulatory efforts: The UP government aggressively improved its 'Ease of Doing Business' ranking, launched the 'Nivesh Mitra' single-window clearance portal, and offered attractive land/capital subsidies to MNCs seeking to relocate from China.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Examine structural integration efforts: The establishment of the Migrant Commission mapped the skills of returning laborers to provide ready workforce data to incoming MNCs, synergized with mega-projects like the UP Defence Corridor and new expressways.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that these proactive, crisis-driven reforms successfully leveraged the massive returning labor pool to position UP as a preferred global manufacturing hub.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS2_Q9",
+    "paper_title": "General Studies Paper 2",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "What is India's Diaspora policy? What are the challenges before Indian Diaspora at present?",
+    "is_structured": 1,
+    "last_updated": 1778954000,
+    "cite": "UPPSC Mains 2020 GS Paper 2",
+    "q_number": 9,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define India's Diaspora policy as a proactive diplomatic approach that views Non-Resident Indians (NRIs) and Persons of Indian Origin (PIOs) as vital strategic assets and cultural ambassadors.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Outline the policy framework: It involves active engagement through initiatives like Pravasi Bharatiya Divas, the OCI card scheme, and rapid evacuation operations during crises (e.g., Vande Bharat Mission), aiming to attract diaspora investments and remittances.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss present challenges: The diaspora faces rising protectionism and strict visa regulations (like H1B issues in the US), job insecurities in the Gulf region due to localization policies (Nitaqat law), and occasional racial discrimination or hate crimes.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that India must continuously evolve its consular support systems and bilateral diplomacy to safeguard its diaspora while maximizing their contribution to India's growth.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS2_Q10",
+    "paper_title": "General Studies Paper 2",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Comment on India-America \"2+2 ministerial dialogue\"",
+    "is_structured": 1,
+    "last_updated": 1778954000,
+    "cite": "UPPSC Mains 2020 GS Paper 2",
+    "q_number": 10,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the \"2+2 Ministerial Dialogue\" as the highest-level institutional mechanism between India and the USA, involving their respective Foreign and Defense Ministers.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Comment on its strategic scope: It facilitates deep strategic convergence on regional security, counter-terrorism, and a \"free, open, and inclusive Indo-Pacific\" (aligning with Quad objectives to counter China's assertiveness).",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Comment on tangible outcomes: The dialogue has been instrumental in finalizing critical foundational defense agreements (like LEMOA, COMCASA, and BECA), enabling advanced military interoperability and intelligence sharing.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the 2+2 framework elevates the Indo-US relationship from a bilateral engagement to a Comprehensive Global Strategic Partnership.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS2_Q11",
+    "paper_title": "General Studies Paper 2",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "\"Every matter of Public Interest can not be a matter of Public Interest Litigation. \"Evaluate.",
+    "is_structured": 1,
+    "last_updated": 1778954000,
+    "cite": "UPPSC Mains 2020 GS Paper 2",
+    "q_number": 11,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define Public Interest Litigation (PIL) as a legal mechanism allowing any public-spirited individual to approach the courts to protect the fundamental rights of marginalized or unrepresented groups.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Evaluate the necessity of boundaries: While many issues represent genuine public interest (e.g., policy implementation, infrastructure projects), they fall under the domain of the executive and legislature. Bringing every public issue to court violates the constitutional separation of powers.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the abuse of PILs: The Supreme Court has repeatedly cautioned against \"Private Interest Litigation\" or \"Publicity Interest Litigation.\" Frivolous petitions clog the judicial system, increase case pendency, and distract courts from addressing serious human rights violations.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that courts must apply strict scrutiny to ensure PILs are used exclusively as a weapon for the oppressed, not as a tool to micromanage governance or seek personal publicity.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS2_Q12",
+    "paper_title": "General Studies Paper 2",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "What are the problems faced by the Election Commission as an institution at present? Also mention solution for them.",
+    "is_structured": 1,
+    "last_updated": 1778954000,
+    "cite": "UPPSC Mains 2020 GS Paper 2",
+    "q_number": 12,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the Election Commission of India (ECI) as an independent constitutional body (Article 324) tasked with conducting free and fair elections, which currently faces several institutional challenges.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss current problems: Concerns over the opaque appointment process of Election Commissioners (raising questions of political bias), the lack of constitutional protection for the removal of Election Commissioners (unlike the CEC), inability to effectively curb money power (electoral bonds) and criminalization of politics, and the toothless enforcement of the Model Code of Conduct (MCC).",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Mention solutions: Establish a collegium system (including the PM, Leader of Opposition, and CJI) for EC appointments, provide equal constitutional protection regarding removal for all commissioners, grant statutory backing to the MCC, and empower the EC to deregister political parties for severe violations.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that resolving these institutional vulnerabilities is essential to preserve public faith in the ECI and the broader democratic process.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS2_Q13",
+    "paper_title": "General Studies Paper 2",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "What are the functions of Finance Commission? Examine its emerging role in Fiscal Rederalism.",
+    "is_structured": 1,
+    "last_updated": 1778954000,
+    "cite": "UPPSC Mains 2020 GS Paper 2",
+    "q_number": 13,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the Finance Commission as a quasi-judicial, constitutional body created under Article 280 to address vertical and horizontal fiscal imbalances between the Centre and States.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss its functions: It recommends the distribution of net proceeds of central taxes (devolution), determines the principles governing grants-in-aid to states out of the Consolidated Fund, and suggests measures to augment State Consolidated Funds to supplement local bodies (Panchayats and Municipalities).",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Examine its emerging role in Fiscal Federalism: Post the abolition of the Planning Commission and the introduction of GST, the Finance Commission's role has magnified. It acts as the primary arbiter of fiscal equity, heavily influencing state capital expenditures and incentivizing states for demographic performance, ecological conservation, and fiscal discipline.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the Finance Commission is the core pillar of India's cooperative fiscal federalism, tasked with dynamically balancing national priorities with state autonomy.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS2_Q14",
+    "paper_title": "General Studies Paper 2",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Identify the major pressure groups in Indian Politics and examine their role in it.",
+    "is_structured": 1,
+    "last_updated": 1778954000,
+    "cite": "UPPSC Mains 2020 GS Paper 2",
+    "q_number": 14,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define pressure groups as organized associations that attempt to influence government policies without seeking formal political power or contesting elections.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Identify major types: Business groups (FICCI, CII), Trade Unions (AITUC, BMS), Agrarian groups (Bharatiya Kisan Union), Student organizations (ABVP, NSUI), and Caste/Religious groups (VHP, RSS, various caste Sabhas).",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Examine their role in politics: They aggregate specific interests and lobby the executive and legislature. They generate public debates, provide expert data to committees, and often launch mass agitations (e.g., the farmer protests) to alter policy trajectories.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while pressure groups deepen democratic participation, their role can sometimes be detrimental if powerful, well-funded lobbies hijack policy-making at the expense of unorganized, marginalized citizens.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS2_Q15",
+    "paper_title": "General Studies Paper 2",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "To what extent has e-governance made the administrative system more citizen-centric? Can e-governance system be made more participatory?",
+    "is_structured": 1,
+    "last_updated": 1778954000,
+    "cite": "UPPSC Mains 2020 GS Paper 2",
+    "q_number": 15,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define e-governance as the application of ICT to transform the efficiency, transparency, and accountability of government services.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Assess how it has made administration citizen-centric: It has removed middle-men and red-tape, enabling doorstep delivery of services (e-District, UMANG), ensuring rapid grievance redressal (CPGRAMS), and plugging financial leakages through Direct Benefit Transfers (DBT).",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss making it more participatory: E-governance can evolve into 'e-participation' by utilizing platforms like MyGov.in to crowdsource policy ideas, incorporating interactive citizen-feedback loops, and conducting digital voting for local municipal budgets.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that to achieve true participatory e-governance, the government must bridge the digital divide, ensure digital literacy, and localize interfaces in regional languages.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS2_Q16",
+    "paper_title": "General Studies Paper 2",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "\"Right to Information Act has forced civil servants to come out of steel frame and serve people sincerely.\" Explain.",
+    "is_structured": 1,
+    "last_updated": 1778954000,
+    "cite": "UPPSC Mains 2020 GS Paper 2",
+    "q_number": 16,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the Right to Information (RTI) Act, 2005, as a paradigm shift that dismantled the colonial legacy of administrative secrecy (Official Secrets Act) and empowered citizens.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Explain breaking the 'steel frame' isolation: The bureaucracy historically operated behind opaque, rigid procedures. RTI forced them to proactively disclose information, transforming their relationship with the public from a patron-client dynamic to one of public service.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Explain fostering sincere service: The constant threat of public scrutiny and exposure acts as a powerful deterrent against corruption, arbitrary decision-making, and file delays. It ensures that funds are spent efficiently and targeted beneficiaries receive their entitlements.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the RTI Act has fundamentally redefined administrative accountability, making the bureaucracy an open, responsive institution dedicated to sincere democratic governance.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS2_Q17",
+    "paper_title": "General Studies Paper 2",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Evaluate the impact of welfare schemes implemented for the welfare of Scheduled Castes and Scheduled Tribes by Uttar Pradesh Government.",
+    "is_structured": 1,
+    "last_updated": 1778954000,
+    "cite": "UPPSC Mains 2020 GS Paper 2",
+    "q_number": 17,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Highlight the substantial demographic presence of Scheduled Castes and Scheduled Tribes in Uttar Pradesh, making their socio-economic upliftment vital for the state's inclusive growth.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Evaluate educational and economic impacts: Schemes providing pre and post-matric scholarships, free coaching facilities, and the UP Mukhyamantri Swarojgar Yojana have significantly improved literacy rates and fostered micro-entrepreneurship among SC/ST youth.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Evaluate social and infrastructural impacts: Initiatives like rural housing allocations (PM Awas Yojana convergence), marriage grants, and the strict enforcement of the SC/ST Prevention of Atrocities Act have improved living standards and social dignity.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while these welfare schemes provide critical safety nets, combating deep-rooted caste prejudices requires continued administrative sensitivity and strict implementation of policies to prevent fund lapses.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS2_Q18",
+    "paper_title": "General Studies Paper 2",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Despite a cordial Mamallpuram Summit between Prime Minister Modi and the Chinese President, the dispute on line of actual control has deepened after agap of several years. What do you think, are the reasons behind it?",
+    "is_structured": 1,
+    "last_updated": 1778954000,
+    "cite": "UPPSC Mains 2020 GS Paper 2",
+    "q_number": 18,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Contextualize the transition from the optical cordiality of the 2019 informal Mamallpuram Summit to the violent 2020 Galwan Valley clashes, which marked the most severe escalation along the LAC in decades.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss infrastructural and territorial reasons: India's rapid border infrastructure development (e.g., the Darbuk-Shyok-Daulat Beg Oldi road) alarmed China. Beijing's aggressive unilateral attempts to alter the status quo and push its claim lines further west acted as the primary trigger.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss broader geopolitical reasons: China's insecurity over India's abrogation of Article 370 (reorganizing Ladakh), India's growing alignment with the US and the Quad, and China's broader 'Wolf Warrior' diplomacy aimed at asserting regional hegemony post-COVID-19.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the LAC clashes represent a fundamental breakdown of decades-old border protocols, forcing India to recalibrate its China policy from engagement to armed deterrence and economic decoupling.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS2_Q19",
+    "paper_title": "General Studies Paper 2",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "What do you know about 'Quadrilateral Security Dialogue' (QUAD)? Whether Malabar Military exercise would be successful in containment of growing influence of China in world politics?",
+    "is_structured": 1,
+    "last_updated": 1778954000,
+    "cite": "UPPSC Mains 2020 GS Paper 2",
+    "q_number": 19,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define the Quad as an informal strategic forum comprising India, the USA, Japan, and Australia, committed to maintaining a 'free, open, and inclusive Indo-Pacific'.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the Quad and Malabar Exercise: The Malabar naval exercise brings the navies of these four democracies together, enhancing military interoperability, maritime domain awareness, and signaling a strong collective deterrence posture.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Evaluate its success in containing China: Militarily, Malabar forces China to reconsider any aggressive maritime adventurism in the South China Sea and Indian Ocean. However, containment cannot be achieved by military means alone; China's massive economic leverage (BRI) remains a formidable challenge that the Quad must counter through geo-economic alternatives.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while the Malabar exercise provides necessary hard-power optics, the true success of the Quad lies in expanding into soft-power domains like critical technologies, vaccines, and resilient supply chains.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS2_Q20",
+    "paper_title": "General Studies Paper 2",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Discuss the role of World Health Organisation (W.H.O.) in the period of Corona (Covid-19).",
+    "is_structured": 1,
+    "last_updated": 1778954000,
+    "cite": "UPPSC Mains 2020 GS Paper 2",
+    "q_number": 20,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the World Health Organization (WHO) as the apex UN agency responsible for international public health, tasked with leading the global response to the COVID-19 pandemic.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss its positive role: The WHO provided critical epidemiological guidelines, declared the Public Health Emergency, coordinated the global 'Solidarity Trials' for treatments, and spearheaded the COVAX facility to ensure equitable vaccine distribution to developing nations.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Body",
+        "text": "Critique its shortcomings: It faced severe global backlash for its delayed declaration of the pandemic, initial resistance to endorsing mask mandates or acknowledging airborne transmission, and a perceived reluctance to hold China accountable during the early stages of the outbreak.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while the WHO remains indispensable for global health coordination, the COVID-19 crisis highlighted the urgent need to grant it greater investigative authority and financial independence from major donor states.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 2"
+      }
+    ]
+  }
+]

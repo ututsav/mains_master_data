@@ -1,0 +1,822 @@
+[
+  {
+    "uid": "UPPSC_2020_GS3_Q1",
+    "paper_title": "General Studies Paper 3",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "What do you understand by \"leaving no one behind\" with reference to sustainable development goals?",
+    "is_structured": 1,
+    "last_updated": 1778960000,
+    "cite": "UPPSC Mains 2020 GS Paper 3",
+    "q_number": 1,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define \"Leaving No One Behind\" (LNOB) as the central, transformative promise of the UN 2030 Agenda for Sustainable Development, ensuring equitable progress for all.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss its conceptual meaning: It involves prioritizing the most marginalized and vulnerable segments of society (women, children, disabled, tribals, and extreme poor) to eradicate absolute poverty and discrimination.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the implementation strategy: It requires robust data disaggregation to identify invisible populations, universal social protection floors, and targeted affirmative action policies.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that LNOB shifts the focus of development from merely increasing national macroeconomic averages to ensuring substantive, inclusive human development.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS3_Q2",
+    "paper_title": "General Studies Paper 3",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "What are the objectives of NITI Aayog? Explain its three years action plan.",
+    "is_structured": 1,
+    "last_updated": 1778960000,
+    "cite": "UPPSC Mains 2020 GS Paper 3",
+    "q_number": 2,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce NITI Aayog as the premier policy think tank of the Government of India, established to foster cooperative federalism and a bottom-up approach.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Detail its objectives: Formulating strategic and long-term frameworks, promoting competitive federalism, acting as an innovation and knowledge hub, and providing technical advice to the Centre and States.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain the Three-Year Action Plan (2017-18 to 2019-20): Part of a broader 15-year vision, it shifted away from the rigid 5-year plans. It focused on short-term measurable goals across key sectors like doubling farmers' income, urban development, health, education, and revenue augmentation.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that NITI Aayog's action plans provide a dynamic, adaptable blueprint for governance, aligning immediate administrative targets with long-term national aspirations.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS3_Q3",
+    "paper_title": "General Studies Paper 3",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "\"Indian food processing industry has not grown with the pace of developed countries.\" Discuss it.",
+    "is_structured": 1,
+    "last_updated": 1778960000,
+    "cite": "UPPSC Mains 2020 GS Paper 3",
+    "q_number": 3,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "State that despite India being one of the largest producers of agricultural commodities, its food processing rate is remarkably low (under 10%) compared to developed nations where it exceeds 70%.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss infrastructural and supply chain constraints: Severe lack of integrated cold chain facilities, poor rural road connectivity, high post-harvest losses, and fragmented, small landholdings making bulk procurement difficult.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss institutional and financial constraints: Complex regulatory frameworks, high cost of modern processing machinery, lack of R&D, and poor access to formal credit for small-scale food processors.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that initiatives like PM Kisan SAMPADA Yojana and PLI schemes are critical correctives needed to bridge this gap and maximize the sector's immense employment potential.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS3_Q4",
+    "paper_title": "General Studies Paper 3",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Explain the small scale industries of Uttar Pradesh and discuss its role in the economy of the province.",
+    "is_structured": 1,
+    "last_updated": 1778960000,
+    "cite": "UPPSC Mains 2020 GS Paper 3",
+    "q_number": 4,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Identify Small Scale Industries (SSIs) and MSMEs as the backbone of Uttar Pradesh's economy, driven by the state's large labor force and rich traditional craftsmanship.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain the prominent SSIs: Leather goods (Kanpur, Agra), brassware (Moradabad), carpets (Bhadohi), silk and textiles (Varanasi), sports goods (Meerut), and lock manufacturing (Aligarh).",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss their role in the economy: They are the largest employment generators after agriculture, counter rural-to-urban distress migration, promote equitable regional development, and contribute significantly to the state's export earnings.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that government interventions, particularly the 'One District One Product' (ODOP) scheme, have successfully rejuvenated these industries by providing branding, credit, and market linkages.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS3_Q5",
+    "paper_title": "General Studies Paper 3",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "What are the causes of low agricultural productivity in India?",
+    "is_structured": 1,
+    "last_updated": 1778960000,
+    "cite": "UPPSC Mains 2020 GS Paper 3",
+    "q_number": 5,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Highlight the paradox of Indian agriculture: despite having the second-largest arable land area globally, the per-hectare yield of major crops remains significantly lower than global averages.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss structural and environmental causes: Highly fragmented and shrinking landholdings (making mechanization unviable), heavy dependence on erratic monsoons (over 50% rainfed area), degrading soil health, and groundwater depletion.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss institutional and technological causes: Inadequate access to institutional credit, poor penetration of high-yielding variety (HYV) seeds and modern farm machinery, and massive post-harvest losses due to weak storage infrastructure.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that achieving optimal productivity requires a 'Green Revolution 2.0' focusing on precision farming, robust supply chains, and climate-resilient agriculture.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS3_Q6",
+    "paper_title": "General Studies Paper 3",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "What is 'H-CNG'? Describe its different uses.",
+    "is_structured": 1,
+    "last_updated": 1778960000,
+    "cite": "UPPSC Mains 2020 GS Paper 3",
+    "q_number": 6,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define H-CNG (Hydrogen-enriched Compressed Natural Gas) as a blended fuel containing 18% hydrogen by volume with compressed natural gas, designed to act as a cleaner automotive fuel.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Describe its environmental and technical uses: It is used primarily in public transport (like buses) to significantly reduce carbon monoxide (up to 70%) and hydrocarbon emissions compared to regular CNG, improving overall air quality.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Describe its economic and transition uses: It improves fuel efficiency and engine performance. It serves as an ideal transitional technology requiring minimal engine modifications, laying the groundwork for a future full-hydrogen economy.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the deployment of H-CNG is a crucial component of India's strategy to combat severe urban air pollution and meet its Paris Agreement emission targets.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS3_Q7",
+    "paper_title": "General Studies Paper 3",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Critically examine the challenges of conservation of wild life.",
+    "is_structured": 1,
+    "last_updated": 1778960000,
+    "cite": "UPPSC Mains 2020 GS Paper 3",
+    "q_number": 7,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Acknowledge that despite robust legal frameworks like the Wildlife Protection Act, 1972, wildlife conservation faces multi-dimensional challenges threatening India's rich biodiversity.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Examine primary ecological challenges: Habitat destruction and fragmentation due to rapid urbanization, linear infrastructure (roads/railways through forests), and escalating Human-Wildlife Conflict leading to retaliatory killings.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Examine institutional and anthropogenic challenges: Chronic underfunding, severe shortages of frontline forest staff, organized international poaching syndicates, and the rising impact of climate change altering fragile ecosystems.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that successful conservation must move beyond merely policing protected areas to aggressively incorporating local communities as active stakeholders in ecosystem management.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS3_Q8",
+    "paper_title": "General Studies Paper 3",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "'Narco Terrorism' is a threat to India's internal security, Discuss it.",
+    "is_structured": 1,
+    "last_updated": 1778960000,
+    "cite": "UPPSC Mains 2020 GS Paper 3",
+    "q_number": 8,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define 'Narco-Terrorism' as the lethal nexus between illicit drug cartels and terrorist organizations, where drug trafficking is utilized to fund insurgencies and destabilize states.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the threat mechanism: India is highly vulnerable due to its geographical proximity to the 'Golden Crescent' (Afghanistan, Iran, Pakistan) and 'Golden Triangle' (Myanmar, Thailand, Laos). Terrorist groups use the massive illicit profits to procure weapons, fund sleeper cells, and bribe border security.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the socio-economic threat: Beyond physical violence, it systematically ruins the youth demographic (e.g., the drug crisis in Punjab), creating social chaos and straining the public healthcare system.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that combating this dual threat requires robust intelligence sharing, strict border management (CIBMS), and international cooperation targeting the financial networks of syndicates.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS3_Q9",
+    "paper_title": "General Studies Paper 3",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Analyse 'Money Laundering' and 'Human Trafficking' as non-traditional security challenges.",
+    "is_structured": 1,
+    "last_updated": 1778960000,
+    "cite": "UPPSC Mains 2020 GS Paper 3",
+    "q_number": 9,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define non-traditional security challenges as threats not arising from state militaries, but from transnational criminal networks that subvert the socio-economic and political stability of a nation.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Analyse Money Laundering: It is the process of obscuring the origins of illegally obtained funds. It threatens security by providing untraceable operational funds to terrorists, destabilizing formal financial institutions, distorting markets, and eroding state sovereignty.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Analyse Human Trafficking: Often termed modern-day slavery, it involves the illegal trade of humans for forced labor, prostitution, or organ harvesting. It signifies a gross violation of human rights, exploits porous borders, and feeds a massive shadow economy controlled by organized crime.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that countering these interconnected shadow networks requires strict enforcement of laws like the PMLA, robust cyber-forensics, and global intelligence coordination.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS3_Q10",
+    "paper_title": "General Studies Paper 3",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "What is 'Revolution in Military Affairs (RMA)' in security Perspective of India?",
+    "is_structured": 1,
+    "last_updated": 1778960000,
+    "cite": "UPPSC Mains 2020 GS Paper 3",
+    "q_number": 10,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define Revolution in Military Affairs (RMA) as a fundamental transformation in military strategy, doctrine, and operations driven by the integration of advanced technologies.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the technological shift: In India's context, RMA involves moving from conventional troop-heavy warfare to network-centric operations utilizing Artificial Intelligence, precision-guided munitions, drone swarms, cyber warfare, and space-based intelligence.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the structural shift: To actualize RMA, India has initiated 'jointness' among the tri-services through the creation of the Chief of Defence Staff (CDS), Theater Commands, and specialized defense agencies for Cyber, Space, and Special Operations.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that embracing RMA is an absolute necessity for India to maintain a credible deterrent against the asymmetric and multi-domain threats posed by its adversaries.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS3_Q11",
+    "paper_title": "General Studies Paper 3",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Discuss the impact of globalisation on trade, employment, particularly women employment, equality of income and wealth distribution etc.",
+    "is_structured": 1,
+    "last_updated": 1778960000,
+    "cite": "UPPSC Mains 2020 GS Paper 3",
+    "q_number": 11,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Contextualize globalization as the deep economic integration of India with the world market following the 1991 reforms, resulting in multifaceted socio-economic impacts.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss impacts on trade and general employment: Trade volumes surged exponentially, diversifying exports (IT services, pharma) and increasing forex reserves. While it generated millions of jobs in the formal tertiary sector, manufacturing faced severe competition, leading to 'casualization' of industrial labor.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss impacts on women's employment and wealth equality: It expanded opportunities for women in urban corporate sectors (BPOs, tech), increasing financial independence. However, it severely disrupted rural cottage industries, displacing female artisans. Crucially, globalization worsened income equality, concentrating massive wealth in the hands of the top 1% while the rural poor experienced slower income growth.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while globalization accelerated macroeconomic growth, realizing its true benefits requires aggressive state intervention in skill development and robust social safety nets to ensure equitable distribution.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS3_Q12",
+    "paper_title": "General Studies Paper 3",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Explain the welfare schemes of Uttar Pradesh Government and its role.",
+    "is_structured": 1,
+    "last_updated": 1778960000,
+    "cite": "UPPSC Mains 2020 GS Paper 3",
+    "q_number": 12,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Highlight the necessity of welfare schemes in Uttar Pradesh, a state with the largest population and significant socio-economic disparities, aimed at achieving inclusive growth.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain schemes targeting women and education: The 'Mukhyamantri Kanya Sumangala Yojana' provides financial assistance to girls from birth to graduation, combatting female infanticide. The 'Abhyudaya Yojana' democratizes access to competitive exams via free coaching.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain schemes targeting employment and artisans: The 'One District One Product' (ODOP) and 'Vishwakarma Shram Samman Yojana' provide training, toolkits, and market linkages to traditional artisans, significantly curbing rural out-migration.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that these multifaceted schemes play a transformative role in human capital formation, empowering marginalized communities to actively participate in the state's economic resurgence.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS3_Q13",
+    "paper_title": "General Studies Paper 3",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "What are the major challenges in reducing poverty and inequality in India?",
+    "is_structured": 1,
+    "last_updated": 1778960000,
+    "cite": "UPPSC Mains 2020 GS Paper 3",
+    "q_number": 13,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Acknowledge the paradox of the Indian economy: rapid GDP growth coexisting with stubborn poverty and widening wealth inequality.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss economic and structural challenges: The phenomenon of 'jobless growth' where the high-tech service sector expands but the labor-intensive manufacturing sector stagnates. A massive 90% of the workforce remains trapped in the low-wage informal sector without social security.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss social and developmental challenges: Chronic rural distress, low agricultural productivity, and the persistence of caste/gender discrimination limit economic mobility. Furthermore, poor public infrastructure in education and healthcare forces high out-of-pocket expenditures, pushing vulnerable families back into poverty.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that eradicating these twin challenges requires aggressive investments in human capital, comprehensive land reforms, and heavily promoting labor-intensive industrialization.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS3_Q14",
+    "paper_title": "General Studies Paper 3",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "What is meant by 'Line of Poverty'? Explain the 'Poverty Alleviation' Programme of India.",
+    "is_structured": 1,
+    "last_updated": 1778960000,
+    "cite": "UPPSC Mains 2020 GS Paper 3",
+    "q_number": 14,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define the 'Poverty Line' as a statistical threshold representing the minimum level of income or per capita consumption expenditure required to secure basic human necessities (food, clothing, shelter).",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain its context in India: Note that its calculation has evolved through various committees (Tendulkar, Rangarajan), shifting from a pure calorie-based metric to one incorporating essential non-food expenditures.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain Poverty Alleviation Programmes: These are structurally diverse. They include wage-employment guarantees (MGNREGA), self-employment and microcredit drives (Deendayal Antyodaya Yojana - NRLM), food security nets (NFSA, PMGKAY), and targeted cash transfers (PM-KISAN).",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while these programs have successfully lifted millions above the absolute poverty line, systemic leakages must be plugged via the JAM trinity to ensure sustainable eradication.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS3_Q15",
+    "paper_title": "General Studies Paper 3",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "What are objectives of National Manufacturing Policy? Critically examine the 'Make in India' and 'Start up India'.",
+    "is_structured": 1,
+    "last_updated": 1778960000,
+    "cite": "UPPSC Mains 2020 GS Paper 3",
+    "q_number": 15,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "State the objectives of the National Manufacturing Policy (NMP): To increase the manufacturing sector's share to 25% of GDP and create 100 million additional jobs, driving India's demographic dividend.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Critically examine 'Make in India': Aimed at transforming India into a global design and manufacturing hub by easing FDI and cutting red tape. While successful in specific sectors (mobile assembly, defense), it has struggled to significantly boost overall manufacturing GDP share due to persistent logistical bottlenecks and complex labor laws.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Critically examine 'Start up India': Aimed at building a robust ecosystem for innovation and entrepreneurship. It successfully propelled India to become the 3rd largest unicorn ecosystem globally. However, challenges like funding concentration in tier-1 cities, regulatory compliance burdens, and high failure rates persist.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that both initiatives are strategically sound but require aggressive structural reforms—such as robust infrastructure and modernized labor codes—to achieve their ambitious targets.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS3_Q16",
+    "paper_title": "General Studies Paper 3",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Explain Science, Technology and Innovation Policy-2020",
+    "is_structured": 1,
+    "last_updated": 1778960000,
+    "cite": "UPPSC Mains 2020 GS Paper 3",
+    "q_number": 16,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the draft Science, Technology, and Innovation Policy (STIP) 2020, formulated to re-orient India's R&D ecosystem and position the nation among the top three scientific superpowers globally.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain its core philosophy and inclusion mechanisms: It is built on a decentralized, bottom-up, and inclusive framework. It strongly advocates for equity and inclusion, aiming to increase the representation of women and marginalized communities in STEM fields.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain Open Science and Funding mechanisms: It proposes an 'Open Science Framework' to provide researchers free access to scientific journals and data. It also mandates the creation of a National STI Observatory and emphasizes boosting private sector participation to increase India's Gross Expenditure on R&D (GERD).",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that STIP 2020 serves as the technological engine for 'Aatmanirbhar Bharat', aiming to solve domestic challenges while maintaining global scientific competitiveness.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS3_Q17",
+    "paper_title": "General Studies Paper 3",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Explain the steps taken by the government to counter Naxalism in India.",
+    "is_structured": 1,
+    "last_updated": 1778960000,
+    "cite": "UPPSC Mains 2020 GS Paper 3",
+    "q_number": 17,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Identify Naxalism (Left Wing Extremism) as one of the most significant internal security threats to India, thriving on the perceived exploitation and underdevelopment of tribal populations.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain the security-centric steps: Implementation of the comprehensive 'SAMADHAN' doctrine (Smart leadership, Aggressive strategy, Actionable intelligence, etc.). Extensive deployment of specialized CAPFs (like CoBRA) and joint operations (like Operation Green Hunt) to dismantle insurgent leadership.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain the development and policy steps: Recognizing that security alone is insufficient, the government launched the Aspirational Districts Programme for rapid infrastructure development, built extensive road/telecom networks in LWE-affected areas, and enforced the Forest Rights Act (FRA) to secure tribal land rights.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that this two-pronged approach—relentless security operations combined with aggressive socio-economic integration—has successfully shrunk the 'Red Corridor' over the past decade.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS3_Q18",
+    "paper_title": "General Studies Paper 3",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Describe in detail the issues of nuclear proliferation and existing control mechanism.",
+    "is_structured": 1,
+    "last_updated": 1778960000,
+    "cite": "UPPSC Mains 2020 GS Paper 3",
+    "q_number": 18,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define nuclear proliferation as the spread of nuclear weapons, fissionable material, and weapons-applicable technology, posing the ultimate existential threat to global security.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Describe the core issues: The threat comprises horizontal proliferation (more states acquiring nukes) and vertical proliferation (existing nuclear powers modernizing arsenals). The ultimate fear is non-state actors (terrorist syndicates) acquiring \"dirty bombs\" or loose fissile material.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Detail existing control mechanisms: The primary pillar is the Non-Proliferation Treaty (NPT), heavily criticized as discriminatory by non-signatories like India. Other mechanisms include the Comprehensive Nuclear-Test-Ban Treaty (CTBT) and powerful export control regimes like the Nuclear Suppliers Group (NSG) and the Wassenaar Arrangement.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while these mechanisms have slowed proliferation, the lack of a universal commitment to complete, verifiable disarmament keeps the global nuclear threat highly active.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS3_Q19",
+    "paper_title": "General Studies Paper 3",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Explain the 'Higher Defence Organisation of India'.",
+    "is_structured": 1,
+    "last_updated": 1778960000,
+    "cite": "UPPSC Mains 2020 GS Paper 3",
+    "q_number": 19,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the Higher Defence Organisation (HDO) of India as the apex institutional architecture responsible for formulating national security policies and executing supreme military command.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain political oversight: The President is the Supreme Commander of the Armed Forces. Actual policy formulation resides with the Cabinet Committee on Security (CCS), headed by the Prime Minister, supported by the National Security Council (NSC) and the Defence Minister.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain military command and recent reforms: The strategic execution is handled by the Chiefs of Staff Committee. A historic reform in the HDO was the creation of the Chief of Defence Staff (CDS) and the Department of Military Affairs (DMA) to ensure single-point military advice and foster jointness among the Army, Navy, and Air Force.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the evolution of the HDO ensures absolute civilian supremacy while streamlining the military apparatus to handle modern, multi-domain warfare efficiently.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS3_Q20",
+    "paper_title": "General Studies Paper 3",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "At present in emerging security challenges, how nuclear weapons can be advantageous in India's security management? Explain it.",
+    "is_structured": 1,
+    "last_updated": 1778960000,
+    "cite": "UPPSC Mains 2020 GS Paper 3",
+    "q_number": 20,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Contextualize India's complex security environment, situated in a highly volatile region between two nuclear-armed, hostile neighbors (China and Pakistan).",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain the advantage of strategic deterrence: India's nuclear arsenal acts as the ultimate guarantor of national sovereignty. The policy of 'Credible Minimum Deterrence' combined with a strict 'No First Use' (NFU) doctrine prevents large-scale conventional wars from escalating.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Body",
+        "text": "Explain the geopolitical advantage: Possessing a robust nuclear triad (land, air, and sea-based delivery systems) ensures second-strike survivability. It also grants India significant strategic autonomy, insulating it from nuclear blackmail and elevating its status in global security dialogues.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while India remains committed to universal disarmament, its nuclear weapons are indispensable tools of peace-keeping and strategic stability in an increasingly unpredictable multipolar world.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 3"
+      }
+    ]
+  }
+]

@@ -1,0 +1,371 @@
+[
+  {
+    "uid": "UPPSC_2020_Essay_QA1",
+    "paper_title": "Essay",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Sociality of Literature.",
+    "is_structured": 1,
+    "last_updated": 1778962000,
+    "cite": "UPPSC Mains 2020 Essay",
+    "q_number": "QA.1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define the sociality of literature, emphasizing that literature is not created in a vacuum but serves as a profound mirror reflecting the values, struggles, and aspirations of the society that produces it.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss literature as a societal mirror and critic: Illustrate how authors capture the zeitgeist of their times, such as Munshi Premchand highlighting rural agrarian distress or Dalit literature exposing systemic caste oppression.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss literature as a catalyst for social change: Analyze how progressive writings challenge orthodoxies, inspire mass movements, and shape modern civic consciousness, seen prominently during the Bhakti movement and the Indian freedom struggle.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the true essence and enduring success of literature lie in its deep social connection, acting as the conscience keeper of humanity and a beacon for societal reform.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_Essay_QA2",
+    "paper_title": "Essay",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Caste System in the 21st Century: Problems and Challenges.",
+    "is_structured": 1,
+    "last_updated": 1778962000,
+    "cite": "UPPSC Mains 2020 Essay",
+    "q_number": "QA.2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Acknowledge the paradox that despite Constitutional guarantees of equality and rapid economic modernization, the caste system remains a deeply entrenched and mutating reality in 21st-century India.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the modern sociological problems: Detail the persistence of caste-based discrimination, violent atrocities against Dalits, strict adherence to endogamy (often leading to honor killings), and spatial segregation in urban and rural housing.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the political and economic challenges: Analyze the deep politicization of caste driving vote-bank politics and polarizing society, alongside the economic reality where marginalized castes remain disproportionately trapped in informal, low-paying labor despite globalization.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that eradicating the caste system requires moving beyond legal protections to foster a profound socio-cultural awakening, inter-caste assimilation, and genuine economic democratization.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_Essay_QA3",
+    "paper_title": "Essay",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Election Reforms in India: Necessity and Indispensability.",
+    "is_structured": 1,
+    "last_updated": 1778962000,
+    "cite": "UPPSC Mains 2020 Essay",
+    "q_number": "QA.3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Highlight that while free and fair elections are the absolute bedrock of India's democracy, evolving systemic vulnerabilities necessitate urgent and comprehensive electoral reforms to protect the sanctity of the vote.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Outline the major contemporary issues: Discuss the growing criminalization of politics, the massive influx of opaque money power (electoral bonds, cash for votes), and the unregulated misuse of social media algorithms for spreading fake news and polarization.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss indispensable reforms: Argue for state funding of elections to level the playing field, the establishment of fast-track courts to disqualify tainted legislators, granting statutory backing to the Model Code of Conduct, and bringing political parties under the RTI Act.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that without these indispensable reforms, the democratic process risks being hijacked by plutocracy and criminality, fundamentally undermining the political will of the common citizen.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_Essay_QB1",
+    "paper_title": "Essay",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Water Pollution and Ganga Cleanliness.",
+    "is_structured": 1,
+    "last_updated": 1778962000,
+    "cite": "UPPSC Mains 2020 Essay",
+    "q_number": "QB.1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce water pollution as a severe ecological and public health crisis in India, focusing specifically on the river Ganga, which serves as a crucial economic lifeline and a deeply revered spiritual entity.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Analyze the causes of pollution: Highlight the unregulated discharge of highly toxic industrial effluents (especially from the tannery belts), the massive inflow of untreated municipal sewage from densely populated riverbank cities, and the heavy load of unscientific religious offerings.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Evaluate clean-up initiatives and challenges: Discuss the integrated 'Namami Gange' program's efforts in constructing Sewage Treatment Plants (STPs), river surface cleaning, and afforestation, while noting persistent challenges like maintaining ecological flow and ensuring state-municipal coordination.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that restoring the Ganga's purity requires moving beyond infrastructure building to strict enforcement of pollution laws, massive public behavioral change, and treating the river basin as a holistic, living ecological entity.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_Essay_QB2",
+    "paper_title": "Essay",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Five trillion dollar Indian Economy: Possibilities and Challenges.",
+    "is_structured": 1,
+    "last_updated": 1778962000,
+    "cite": "UPPSC Mains 2020 Essay",
+    "q_number": "QB.2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the government's highly ambitious macroeconomic vision of transforming India into a $5 trillion economy, a milestone that requires sustained double-digit GDP growth and sweeping structural reforms.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the possibilities and growth engines: Analyze India's massive demographic dividend, the robust push for self-reliance through 'Aatmanirbhar Bharat' and PLI schemes, rapid digital transformation, and the opportunity to capture shifting global supply chains (China-plus-one strategy).",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the systemic challenges: Outline critical hurdles such as chronically high unemployment, deep-rooted agrarian distress, infrastructural bottlenecks, complex regulatory frameworks, and vulnerability to global economic headwinds like inflation and geopolitical conflicts.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that achieving the $5 trillion target is distinctly possible but depends entirely on aggressive capital investment, boosting labor-intensive manufacturing, and ensuring that the resulting growth remains highly inclusive and environmentally sustainable.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_Essay_QB3",
+    "paper_title": "Essay",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Indian Agriculture: Towards Evergreen Revolution.",
+    "is_structured": 1,
+    "last_updated": 1778962000,
+    "cite": "UPPSC Mains 2020 Essay",
+    "q_number": "QB.3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define the 'Evergreen Revolution'—a concept pioneered by M.S. Swaminathan—as the imperative to enhance agricultural productivity in perpetuity without causing associated ecological or social harm, marking a departure from the traditional Green Revolution.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Analyze the need for a paradigm shift: Explain how the original Green Revolution, while successfully ensuring national food security, resulted in severe ecological degradation, including dangerously depleted groundwater, soil salinization, and pesticide toxicity in states like Punjab and Haryana.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the pathways to the Evergreen Revolution: Highlight the integration of climate-resilient organic farming, precision agriculture (micro-irrigation, drones, AI), agro-forestry, soil health management, and the creation of robust post-harvest infrastructure to double farmers' incomes sustainably.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that transitioning to an Evergreen Revolution is an urgent necessity not merely for economic prosperity, but for securing India's long-term food, nutrition, and environmental sovereignty.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_Essay_QC1",
+    "paper_title": "Essay",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Indo-China Relation and SAARC Politics.",
+    "is_structured": 1,
+    "last_updated": 1778962000,
+    "cite": "UPPSC Mains 2020 Essay",
+    "q_number": "QC.1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Set the context of the complex, often adversarial strategic rivalry between Asia's two largest powers, India and China, and how this dynamic profoundly disrupts and reshapes South Asian regional politics.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Analyze the bilateral friction: Detail the persistent and volatile border disputes (such as Doklam and Galwan), severe trade imbalances, and China's deliberate strategic encirclement of India through its 'String of Pearls' and the China-Pakistan Economic Corridor (CPEC).",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the impact on SAARC: Explain how China's aggressive checkbook diplomacy and massive Belt and Road Initiative (BRI) investments in neighboring countries (Nepal, Sri Lanka, Maldives) undermine India's traditional regional hegemony. This geopolitical tug-of-war has effectively paralyzed SAARC, pushing India to prioritize alternative sub-regional forums like BIMSTEC.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that navigating this turbulent relationship requires India to rapidly bolster its border infrastructure, deepen unconditional economic ties with its immediate neighbors, and leverage global partnerships to counter Chinese assertiveness.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_Essay_QC2",
+    "paper_title": "Essay",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "Corona Pandemic: Disaster to Opportunity.",
+    "is_structured": 1,
+    "last_updated": 1778962000,
+    "cite": "UPPSC Mains 2020 Essay",
+    "q_number": "QC.2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Describe the COVID-19 pandemic as an unprecedented global health, economic, and humanitarian disaster that simultaneously acted as a harsh stress test and a massive catalyst for structural transformation.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the disaster aspect: Highlight the tragic loss of human lives, the severe economic recession, the devastating collapse of informal livelihoods leading to the migrant crisis, and the stark exposure of India's inadequate public healthcare infrastructure.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the opportunities seized: Analyze the rapid acceleration of digital governance (e-Sanjeevani, CoWIN, online education), the historic triumph of indigenous vaccine development and pharmaceutical self-reliance, and the strategic push to attract global supply chains moving away from China.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the immense societal resilience demonstrated during the pandemic successfully turned a catastrophic crisis into a vital opportunity to build a more robust, digitally integrated, and self-reliant nation.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 Essay"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_Essay_QC3",
+    "paper_title": "Essay",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 50,
+    "importance": null,
+    "question_text": "\"Ayushman Bharat\" - Healthy India.",
+    "is_structured": 1,
+    "last_updated": 1778962000,
+    "cite": "UPPSC Mains 2020 Essay",
+    "q_number": "QC.3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce 'Ayushman Bharat' (Pradhan Mantri Jan Arogya Yojana) as the world's largest state-funded health assurance program, marking India's decisive policy shift from fragmented sectoral healthcare to comprehensive Universal Health Coverage (UHC).",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Detail its dual foundational pillars: Explain the establishment of 1.5 lakh Health and Wellness Centres (HWCs) designed to bring preventive and primary care closer to homes, combined with the provision of a Rs. 5 lakh health insurance cover per vulnerable family for secondary and tertiary hospitalization.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Body",
+        "text": "Analyze its socio-economic impact and challenges: Discuss how the scheme significantly reduces catastrophic out-of-pocket health expenditures that historically pushed millions into poverty. However, acknowledge persistent challenges such as rural health infrastructure deficits, severe shortages of specialized doctors, and ensuring ethical compliance from private hospitals.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 Essay"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while Ayushman Bharat is a monumental and indispensable step towards a 'Swasth Bharat' (Healthy India), its ultimate success requires a sustained increase in public health funding to strengthen the grassroots medical ecosystem.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 Essay"
+      }
+    ]
+  }
+]

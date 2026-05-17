@@ -1,0 +1,822 @@
+[
+  {
+    "uid": "UPPSC_2020_GS1_Q1",
+    "paper_title": "General Studies Paper 1",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Write a note on the town planning of Harappan civilization period.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "q_number": 1,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the Harappan (Indus Valley) Civilization as one of the world's earliest urban cultures, renowned for its meticulous and standardized town planning.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the grid system and zoning: Cities like Mohenjo-Daro and Harappa were divided into a raised 'Citadel' (for public/administrative buildings) and a 'Lower Town' (residential), with streets intersecting at right angles.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Highlight civic amenities: The remarkable underground drainage system with covered drains, the extensive use of standardized baked bricks, and public structures like the Great Bath and the Granary.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that Harappan town planning reflects a highly centralized administrative authority prioritizing public hygiene and structural uniformity.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS1_Q2",
+    "paper_title": "General Studies Paper 1",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Evaluate the views of Gandhi on the Varna system.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "q_number": 2,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce Mahatma Gandhi's complex and evolving perspective on the Varna system, distinguishing it from the oppressive realities of the modern caste system.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Evaluate his support for ideal Varna: Gandhi initially defended the original Varnashrama Dharma as a functional division of labor based on hereditary occupation, believing it eliminated destructive competition and promoted social harmony.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Evaluate his opposition to hierarchy and untouchability: He vehemently opposed the concepts of 'superiority' and 'inferiority' embedded in the modern caste system. He considered Untouchability a 'sin' against Hinduism and campaigned tirelessly for Harijan upliftment.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while critics (like B.R. Ambedkar) found his views on Varna structurally flawed, Gandhi's ultimate goal was the moral purification of society and the absolute eradication of caste-based discrimination.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS1_Q3",
+    "paper_title": "General Studies Paper 1",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Write a critical note on the Foreign Policy of Mussolini, the leader of Fascism in Italy.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "q_number": 3,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce Benito Mussolini, whose fascist foreign policy was driven by aggressive hyper-nationalism and the desire to recreate the glory of the ancient Roman Empire in the Mediterranean.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss expansionist adventures: His ruthless invasion of Abyssinia (Ethiopia) in 1935, intervention in the Spanish Civil War, and the occupation of Albania, which blatantly defied and exposed the weakness of the League of Nations.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the fatal alliances: The formation of the Rome-Berlin Axis with Nazi Germany, leading to the signing of the Pact of Steel. This chained Italy's fate to Hitler's aggressive militarism.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that Mussolini's foreign policy, while initially yielding domestic prestige, overextended Italy's weak military-industrial base, directly contributing to the disastrous outbreak of World War II and his eventual downfall.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS1_Q4",
+    "paper_title": "General Studies Paper 1",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Describe the advantages of India being a composite culture society.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "q_number": 4,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define India's composite culture as a 'salad bowl' rather than a melting pot, formed over millennia through the assimilation of diverse religions, languages, and ethnicities (Ganga-Jamuni Tehzeeb).",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Describe social and intellectual advantages: It fosters a spirit of tolerance, broad-mindedness, and pluralism. The continuous interaction of diverse philosophies has led to rich spiritual synthesis, such as the Bhakti and Sufi movements.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Describe artistic and global advantages: It has produced globally celebrated syncretic art, architecture (e.g., Mughal and Rajput blending), and cuisine. Globally, it projects India's soft power as a thriving, diverse democracy.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that this composite identity is India's greatest civilizational strength, providing resilience against divisive forces and anchoring its modern secular Constitution.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS1_Q5",
+    "paper_title": "General Studies Paper 1",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Critically examine the contributions of major women's organisations in contemporary India.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "q_number": 5,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Acknowledge the pivotal role of women's organizations in post-independence India in transitioning the discourse from welfare to rights-based empowerment.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Examine positive contributions: Organizations like SEWA (Self Employed Women’s Association) unionized informal female labor, while groups like the All India Democratic Women's Association (AIDWA) successfully lobbied for key legislations against domestic violence, dowry, and sexual harassment (Vishakha guidelines).",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Critically examine the limitations: Many organizations suffer from urban, middle-class elitism, often failing to address the intersectional oppression faced by Dalit, Adivasi, and rural women. Funding constraints and political co-optation also dilute their radical grassroots impact.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while they have successfully altered the legal and social landscape, these organizations must become more intersectional to address the realities of all Indian women.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS1_Q6",
+    "paper_title": "General Studies Paper 1",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Critically examine whether growing population is the main cause of poverty or poverty is the main cause of population increase in India.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "q_number": 6,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the demographic-economic debate: The relationship between population growth and poverty in India is not linear but cyclical, functioning as a vicious feedback loop.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Examine 'Population causing Poverty' (Malthusian view): A rapidly growing population dilutes per capita income, strains infrastructure (health, education), fragments agricultural landholdings, and creates a massive surplus labor force leading to severe unemployment and depressed wages.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Examine 'Poverty causing Population' (Marxian/Demographic view): Poverty breeds illiteracy and high infant mortality. Poor families view more children as economic assets (more hands to work) and social security for old age, leading to higher fertility rates among marginalized groups.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that poverty is the stronger fundamental driver. As evidence shows (Kerala model), investing in education, healthcare, and poverty alleviation automatically stabilizes population growth.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS1_Q7",
+    "paper_title": "General Studies Paper 1",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Divide Uttar Pradesh into major physical regions and describe the geographical features of Bhabar and Terai regions.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "q_number": 7,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "State that Uttar Pradesh can be broadly divided into three major physical regions: The Bhabar and Terai region in the north, the vast Gangetic Plain in the center, and the Vindhyan Plateau in the south.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Describe the Bhabar Region: A narrow, porous belt running parallel to the Shiwalik foothills. It is composed of unassorted gravel and boulders deposited by descending Himalayan rivers, causing smaller streams to disappear underground. It is largely unsuitable for agriculture.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Describe the Terai Region: Lying immediately south of the Bhabar, this is a marshy, damp, and thickly forested tract where the underground streams of Bhabar re-emerge. Due to land reclamation, it has now become highly fertile for water-intensive crops like sugarcane and paddy.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the Bhabar and Terai zones are ecologically sensitive frontiers that dictate the hydrology and agricultural patterns of northern Uttar Pradesh.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS1_Q8",
+    "paper_title": "General Studies Paper 1",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "What is 'Smart City Mission'? Discuss the main characteristics of cities of Eastern Uttar Pradesh selected under this scheme.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "q_number": 8,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define the Smart City Mission as a GoI initiative aimed at driving economic growth and improving the quality of life by enabling local area development and harnessing technology.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Identify the Eastern UP cities: Cities like Varanasi, Prayagraj, and Gorakhpur have been selected under this scheme.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss their main characteristics: These cities face the unique challenge of retrofitting modern technology into ancient, densely populated urban fabrics. Key characteristics include heritage conservation (Kashi Vishwanath corridor), riverfront rejuvenation, solid waste management, and intelligent traffic/surveillance systems without destroying their spiritual identity.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the Smart City Mission in Eastern UP is less about creating greenfield high-tech metropolises and more about sustainably modernizing deep-rooted cultural centers.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS1_Q9",
+    "paper_title": "General Studies Paper 1",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Describe the location of major tourist places of Bundelkhand Tourist Circuit of U.P.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "q_number": 9,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the Bundelkhand region of Uttar Pradesh as a culturally and historically rich plateau area, heavily promoted by the state government as a dedicated tourist circuit.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Describe historical and fort locations: Jhansi, the heart of the circuit, famous for the Jhansi Fort and Rani Lakshmibai's legacy; Kalinjar Fort in Banda, known for its strategic and ancient military architecture; and Mahoba, famous for the Chandel-era temples and lakes.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Describe religious and natural locations: Chitrakoot, located along the Mandakini river, holds profound mythological significance (associated with Lord Rama's exile). Deogarh (Lalitpur) features the ancient Dashavatara Temple.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that enhanced connectivity via the Bundelkhand Expressway is rapidly transforming these dispersed locations into a cohesive, high-potential tourism and economic zone.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS1_Q10",
+    "paper_title": "General Studies Paper 1",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 8,
+    "importance": null,
+    "question_text": "Explain the difference between the frontier and the boundary with special reference to India.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "q_number": 10,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define both terms: A 'frontier' is a geographic zone of transition between two distinct states or cultures, whereas a 'boundary' is a precise, legally defined line marking the territorial limits of a sovereign state.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Explain Frontiers with Indian reference: Historically, India was protected by natural frontiers like the impenetrable Himalayas in the north and the dense forests of the North-East, which acted as buffer zones for cultural assimilation rather than hard lines.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Explain Boundaries with Indian reference: Post-independence, India inherited artificial, cartographic boundaries drawn by colonial powers, such as the Radcliffe Line (with Pakistan/Bangladesh) and the McMahon Line. These lines abruptly cut through ethnic continuities.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that India's geopolitical challenges largely stem from the painful historical transition of natural, fluid frontiers into rigid, contested political boundaries.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS1_Q11",
+    "paper_title": "General Studies Paper 1",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Critically examine the impacts of West on the field of Indian education.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "q_number": 11,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the advent of Western education in India, formalized through Macaulay's Minute (1835) and Wood's Despatch (1854), which structurally replaced traditional Gurukuls and Madrassas.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Examine positive impacts: It introduced rationalism, scientific temper, and modern humanistic philosophies (liberty, equality). It established modern universities and provided a common linguistic medium (English) that unified the Indian intelligentsia, inadvertently sparking the national movement.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Examine negative impacts: The system was intentionally elitist (Downward Filtration Theory), severely neglecting mass primary education and vernacular languages. It produced a clerical workforce suited for British administration rather than fostering indigenous industrial or technical skills, and caused cultural alienation.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while Western education was introduced with imperial motives to create a loyal bureaucratic class, it ironically equipped Indians with the intellectual tools to dismantle the British Empire.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS1_Q12",
+    "paper_title": "General Studies Paper 1",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Discuss the expansion of British rule in India during Governor Generalship of Lord Wellesley.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "q_number": 12,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce Lord Wellesley (1798-1805) as an aggressive imperialist who abandoned the policy of non-intervention to rapidly expand the British East India Company's paramountcy.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the Subsidiary Alliance System: His masterstroke diplomatic tool. Indian rulers (like the Nizam of Hyderabad and the Nawab of Awadh) were forced to disband their armies, host British troops, and surrender their foreign policy to the Company, effectively reducing them to vassals.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss direct military conquests: He decisively defeated Tipu Sultan in the Fourth Anglo-Mysore War (1799), annexing vast territories. He also shattered the Maratha power during the Second Anglo-Maratha War, capturing crucial territories like Delhi, Agra, and the Doab.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that Wellesley's tenure fundamentally transformed the East India Company from a major trading power into the supreme political and military authority of the Indian subcontinent.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS1_Q13",
+    "paper_title": "General Studies Paper 1",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Who were Jacobins? What were their role in the French Revolution?",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "q_number": 13,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define the Jacobins as the most radical, ruthless, and influential political club during the French Revolution, drawing support primarily from the Parisian working class (sans-culottes).",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss their role in establishing the Republic: Led by figures like Maximilien Robespierre, they orchestrated the overthrow of the Girondins, pushed for the trial and execution of King Louis XVI, and drafted the highly egalitarian (though unimplemented) Constitution of 1793.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the 'Reign of Terror' and domestic policies: To protect the revolution from internal traitors and foreign invasions, they formed the Committee of Public Safety, executing thousands of perceived enemies via the guillotine. They also attempted radical socio-economic reforms, including price controls and de-Christianization.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while the Jacobins saved the French Republic from collapse during its most perilous hour, their extreme violence led to their own downfall (Thermidorian Reaction) and paved the way for Napoleon's rise.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS1_Q14",
+    "paper_title": "General Studies Paper 1",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Critically examine the concept of nation and citizenship in context of communalism.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "q_number": 14,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define a 'nation' as a collective identity based on shared political/cultural values, and 'citizenship' as the legal expression of equal rights within it. Communalism severely distorts both concepts.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Examine the distortion of the 'Nation': Communal ideology asserts that a nation should be defined exclusively by its majority religion (e.g., the Two-Nation Theory), inherently dividing society into 'us' vs 'them' and rejecting the concept of a composite, secular national culture.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Examine the impact on 'Citizenship': When a nation is communalized, citizenship ceases to be universal and equal. Minorities are relegated to second-class status, marginalized politically, and their patriotism is constantly questioned, undermining the democratic social contract.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that communalism is antithetical to the modern constitutional state; true democratic citizenship requires keeping religious identities firmly separate from state policy and national belonging.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS1_Q15",
+    "paper_title": "General Studies Paper 1",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "What is Liberalization? How is it affecting the Indian social structure?",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "q_number": 15,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define Liberalization as the relaxation of government restrictions on economic activities, enabling private sector participation and market-driven growth, prominently initiated in India in 1991.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the impact on family and women: It accelerated rural-to-urban migration, leading to the rapid breakdown of traditional joint families into nuclear units. Conversely, expanding service sectors provided women with greater financial independence and mobility.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the impact on caste and consumerism: The rise of private, merit-based corporate jobs has somewhat weakened rigid occupational caste barriers. However, it also sparked rampant consumerism, commodification of culture, and widened the socio-economic inequality gap.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that liberalization has been a double-edged sword, modernizing social mobility while simultaneously threatening traditional community support systems and exacerbating urban inequalities.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS1_Q16",
+    "paper_title": "General Studies Paper 1",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Underline the changes happening gradually in the sources of irrigation in U.P.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "q_number": 16,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "State that Uttar Pradesh relies heavily on irrigation for its agrarian economy, and the methods have undergone a massive structural shift over the decades due to technology and policy interventions.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the historical to modern shift: Historically, UP depended heavily on rain-fed agriculture, traditional wells, tanks, and an extensive network of state-built canals (Upper/Lower Ganga canal). Post-Green Revolution, the reliance dramatically shifted to groundwater extraction via mechanized tubewells, making it the dominant source today.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the current sustainability shift: Recognizing the alarming depletion of groundwater levels (creating dark zones, especially in western UP), government policies are now actively promoting a shift towards micro-irrigation techniques (drip and sprinkler systems) under schemes like PMKSY.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the evolution of irrigation in UP reflects a journey from nature-dependent surface water use to intensive groundwater exploitation, and now towards critical water conservation.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS1_Q17",
+    "paper_title": "General Studies Paper 1",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Discuss the causes of volcanic eruption and describe the land-forms formed by deposition of its lava.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "q_number": 17,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define a volcanic eruption as the expulsion of magma, gases, and ash from the Earth's interior to its surface, serving as a primary constructive geomorphic process.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the causes: Eruptions are primarily driven by plate tectonics—subduction at convergent boundaries, rifting at divergent boundaries (mid-ocean ridges), and mantle plumes at intra-plate 'hotspots'. The buildup of gas pressure inside magma chambers eventually forces the magma upward.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Describe the depositional (extrusive) landforms: Thick, fluid basaltic lava forms expansive Flood Basalt Plateaus (e.g., Deccan Traps) and gentle Shield Volcanoes. Viscous, explosive lava builds steep Composite Cones (Stratovolcanoes), Cinder Cones, and large Calderas.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that volcanic activity is an essential geological mechanism that relieves internal planetary heat and continuously shapes and renews the Earth's topography.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS1_Q18",
+    "paper_title": "General Studies Paper 1",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Highlight the various ecological problems associated with the exploitation and utilization of resources from the Indian Ocean.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "q_number": 18,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the Indian Ocean as a geostrategic hub rich in marine life, hydrocarbons, and deep-sea minerals, which is increasingly facing the brunt of aggressive resource extraction.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Highlight problems from biological and energy exploitation: Rampant overfishing (using destructive bottom trawling) is depleting fish stocks and causing bycatch issues. Offshore oil drilling and heavy shipping traffic lead to frequent oil spills, devastating sensitive coastal mangroves and coral reefs.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Highlight problems from deep-sea mining: The extraction of polymetallic nodules stirs up massive benthic sediment plumes. This smothers deep-sea organisms, introduces heavy metal toxicity into the water column, and irreversibly alters unexplored seabed ecosystems.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that initiatives like India's 'Deep Ocean Mission' must strictly integrate the principles of the Blue Economy, ensuring that marine resource utilization does not result in ecological catastrophe.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS1_Q19",
+    "paper_title": "General Studies Paper 1",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "What is 'reverse migration'? What was its impact on the economy and social order of Uttar Pradesh during the COVID-19 Lockdown?",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "q_number": 19,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define 'reverse migration' as the sudden, mass movement of people from urban metropolises back to their native rural regions, triggered prominently by the socio-economic shock of the 2020 COVID-19 lockdowns.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the economic impact on UP: The sudden influx of millions of returning migrant laborers put unprecedented strain on UP's rural economy, causing a drastic spike in unemployment and reliance on MGNREGA. It simultaneously cut off the vital stream of inward remittances, depressing rural purchasing power.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the social impact: The movement caused severe humanitarian distress, health anxieties (fear of spreading the virus in villages), and social friction due to the sudden burden on local resources. However, it also provided a unique opportunity to map and utilize skilled labor locally for MSME development.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the crisis exposed the vulnerabilities of India's informal labor structure, prompting the UP government to initiate long-term rehabilitation policies like the 'Migrant Commission'.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      }
+    ]
+  },
+  {
+    "uid": "UPPSC_2020_GS1_Q20",
+    "paper_title": "General Studies Paper 1",
+    "year": 2020,
+    "exam": "UPPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 12,
+    "importance": null,
+    "question_text": "Describe the role of Glaciers in shaping the land-forms in high mountain areas.",
+    "is_structured": 1,
+    "last_updated": 1715867095,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "q_number": 20,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define glaciers as slow-moving rivers of ice that act as powerful geomorphic agents, dramatically carving and shaping the topography of high mountain environments.",
+        "order": 1,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Describe erosional landforms: Glaciers erode via plucking and abrasion. This process transforms V-shaped river valleys into broad, steep-sided U-shaped valleys. It carves out deep, bowl-shaped depressions called cirques, and where multiple cirques intersect, sharp, pyramidal peaks known as horns (e.g., Matterhorn) are formed.",
+        "order": 2,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Body",
+        "text": "Describe depositional landforms: As glaciers melt, they deposit unassorted rock debris called glacial till. This forms ridges known as moraines (terminal, lateral, and medial) and streamlined, elongated hills called drumlins.",
+        "order": 3,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that glacial activity leaves a permanent, highly distinctive signature on the landscape, making high mountain areas both ruggedly beautiful and geologically revealing.",
+        "order": 4,
+        "cite": "UPPSC Mains 2020 GS Paper 1"
+      }
+    ]
+  }
+]
