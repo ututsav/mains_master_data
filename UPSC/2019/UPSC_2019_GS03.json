@@ -1,0 +1,702 @@
+[
+  {
+    "uid": "UPSC_2019_GSP3_01",
+    "paper_title": "GS Paper 3",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Enumerate the indirect taxes which have been subsumed in the Goods and Services Tax (GST) in India. Also, comment on the revenue implications of the GST introduced in India since July 2017. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "GST, implemented from July 1, 2017, subsumed multiple indirect taxes into a single tax, aiming for 'One Nation, One Tax'.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Indirect taxes subsumed: Central taxes – Central Excise Duty, Service Tax, Additional Customs Duty (CVD), Special Additional Duty (SAD), Central Sales Tax (CST). State taxes – VAT, Entertainment Tax (except local bodies), Luxury Tax, Lottery Tax, Octroi, Purchase Tax, State Surcharges. Revenue implications: Initial revenue collection was below target (₹95,000 crore vs ₹1 lakh crore target in July 2017). After stabilization, monthly revenues crossed ₹1 lakh crore in 2019 and now exceed ₹1.8 lakh crore (FY25). Revenue neutral rate of 15-15.5% achieved, but compliance and input tax credit mechanism improved tax base, though states initially faced compensation shortfalls.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, GST subsumed over 17 taxes, and after initial hiccups, revenue growth has stabilized, though buoyancy remains moderate.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP3_02",
+    "paper_title": "GS Paper 3",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Do you agree with the view that steady GDP growth and low inflation have left the Indian economy in good shape? Give reasons in support of your arguments. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India has experienced GDP growth of 6-7% and inflation within RBI's target band (4-6%) for several years. However, 'good shape' requires examining other indicators.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Reasons to agree: Low inflation protects consumer purchasing power, steady growth supports employment creation, fiscal deficit management, and external sector stability (forex reserves). Disagreements: Growth has been uneven (jobless growth, rural distress), low private investment, high unemployment (CMIE data), and banking sector stress (NPAs). Inflation control came at cost of low farm prices. Also, global headwinds (trade wars, oil prices) affect resilience. Thus, while macroeconomic indicators are decent, structural issues (health, education, inequality) remain. Economy is not in 'excellent shape' but has manageable challenges.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Therefore, partial agreement – steady growth and low inflation are necessary but not sufficient; India needs inclusive growth and job creation.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP3_03",
+    "paper_title": "GS Paper 3",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "How far is Integrated Farming System (IFS) helpful in sustaining agricultural production? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Integrated Farming System (IFS) combines crop production, livestock, fisheries, poultry, and agro-forestry on a single farm, recycling resources.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Helpfulness: IFS reduces dependence on external inputs (fertilizers, feed) through on-farm nutrient recycling (crop residue → animal feed → manure → crops). Provides income stability – if crop fails, livestock/fishery sustain farmer. Enhances resilience to climate variability, improves soil health, and utilizes labour round the year. Examples: Rice-fish farming, crop-dairy-poultry systems. However, adoption is limited by small landholdings, lack of technical knowledge, and initial investment. IFS is highly effective in sustaining production, especially for small and marginal farmers, as shown by ICAR studies (30-50% higher returns than monocropping).",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, IFS is significantly helpful in sustaining agricultural production and livelihoods, provided extension support and credit are available.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP3_04",
+    "paper_title": "GS Paper 3",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Elaborate the impact of National Watershed Project in increasing agricultural production from water-stressed areas. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q4",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The National Watershed Project (part of Integrated Watershed Management Programme – IWMP) aims to conserve soil and water in rain-fed, water-stressed areas.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Impact: Construction of check dams, percolation tanks, and contour bunding increases groundwater recharge and moisture availability. This leads to increased cropping intensity (from single to double cropping), higher yields (30-50% in studies), and diversification to horticulture. Example: Watershed projects in Gujarat (SABARMATI) and Maharashtra (DPAP) increased agricultural production and reduced migration. Employment generation from irrigation potential and reduced soil erosion. However, benefits take time to accrue (3-5 years). Post-project maintenance is critical. Overall, watershed projects have significantly boosted production in arid and semi-arid regions.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, National Watershed Project plays a pivotal role in enhancing agricultural productivity and resilience in water-stressed areas.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP3_05",
+    "paper_title": "GS Paper 3",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "How was India benefitted from the contributions of Sir M. Visvesvaraya and Dr. M. S. Swaminathan in the fields of water engineering and agricultural science respectively? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q5",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Sir M. Visvesvaraya (1861-1962) was a pioneering engineer, and Dr. M.S. Swaminathan (b. 1925) is the father of the Green Revolution in India.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Visvesvaraya: Designed and implemented the Krishna Raja Sagara dam (Mandya), which transformed irrigation and drinking water supply in Mysore region. Also introduced block system of irrigation and automatic sluice gates. His works in flood control (Hyderabad) and water supply systems (Mumbai, Ahmedabad) laid modern water engineering. Swaminathan: Led development of high-yielding wheat and rice varieties, spearheaded Green Revolution, making India self-sufficient in food grains. He advocated for sustainable agriculture (Evergreen Revolution) and MSP based on C2+50% formula. Both contributed immensely to national development – Visvesvaraya to water security and Swaminathan to food security.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, their contributions have been foundational to India's agricultural and water infrastructure progress.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP3_06",
+    "paper_title": "GS Paper 3",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "What is India's plan to have its own space station and how will it benefit our space programme? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q6",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India plans to build its own space station – the Bharatiya Antariksha Station (BAS) – by 2035, following the Gaganyaan human spaceflight mission.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Plan: The station will weigh about 20 tonnes, accommodate astronauts for 15-20 days, orbit at 400 km altitude. It will be built in phases, with first module by 2028. Benefits: Extends India's capability in human spaceflight; enables microgravity research (materials, biology, medicine); reduces dependence on ISS; boosts indigenous technology (docking, life support, robotics); creates opportunities for international collaboration; and inspires youth. It also positions India as a leader in space exploration alongside US, Russia, China. The station will complement Chandrayaan and Gaganyaan missions.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, an Indian space station will be a strategic and scientific asset, advancing national prestige and scientific research.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP3_07",
+    "paper_title": "GS Paper 3",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Coastal sand mining, whether legal or illegal, poses one of the biggest threats to our environment. Analyze the impact of sand mining along the Indian coasts, citing specific examples. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q7",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Coastal sand mining (for construction, glass, etc.) is prevalent in states like Tamil Nadu, Maharashtra, Gujarat, and Odisha, causing severe environmental damage.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Impacts: Beach erosion – loss of protective coastal buffers (e.g., Marina Beach, Chennai has eroded significantly). Destruction of nesting grounds for Olive Ridley turtles (Odisha coast). Saline water intrusion into freshwater aquifers (e.g., in Goa). Collapse of local fisheries due to sediment disruption. Also, loss of mangroves and biodiversity. Example: Illegal sand mining in Ratnagiri (Maharashtra) led to coastal landslides and damage to fishing villages. Legal mining, if unregulated, causes similar impacts. The National Green Tribunal has imposed bans, but enforcement remains weak.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, coastal sand mining, legal or illegal, is ecologically destructive; strict regulation and alternatives (manufactured sand) are urgently needed.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP3_08",
+    "paper_title": "GS Paper 3",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Vulnerability is an essential element for defining disaster impacts and its threat to people. How and in what ways can vulnerability to disasters be characterized? Discuss different types of vulnerability with reference to disasters. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q8",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Vulnerability is the susceptibility of a community or system to harm from a hazard. It determines disaster impact more than the hazard itself.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Characterization: Vulnerability can be physical (poor construction), social (lack of awareness, marginalization), economic (poverty, lack of insurance), environmental (deforestation), and institutional (weak warning systems). Types: Physical vulnerability – buildings in floodplains, unplanned settlements. Social vulnerability – elderly, disabled, women, lower caste groups facing discrimination in evacuation. Economic vulnerability – income loss, asset poverty. Attitudinal vulnerability – fatalism, lack of preparedness. Example: In 2004 tsunami, poorer coastal communities with weak housing and no warning suffered higher mortality.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, understanding vulnerability types helps in targeted risk reduction and disaster management planning.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP3_09",
+    "paper_title": "GS Paper 3",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "The banning of 'Jamaat-e-Islami' in Jammu and Kashmir brought into focus the role of over-ground workers (OGWs) in assisting terrorist organizations. Examine the role played by OGWs in assisting terrorist organizations in insurgency affected areas. Discuss measures to neutralize influence of OGWs. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q9",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Over-ground workers (OGWs) are civilian supporters of terrorist groups who provide logistical, financial, and intelligence support without carrying arms.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Role: OGWs arrange safe houses, transportation, communication, and recruitment; supply funds, weapons, and propaganda; act as couriers and informants. They are essential for sustaining terror networks. Measures to neutralize: Intelligence-based surveillance (human and technical); community policing and counter-radicalization programs; strict legal action (UAPA, NIA Act) with witness protection; financial tracking (FIU-IND); de-radicalization initiatives; and rehabilitation of misguided youth. Example: In J&K, OGWs were identified through call detail records and local informants.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, OGWs are force multipliers for terrorists; neutralizing them requires a mix of intelligence, legal deterrence, and community engagement.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP3_10",
+    "paper_title": "GS Paper 3",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "What is CyberDome Project? Explain how it can be useful in controlling internet crimes in India. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q10",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "CyberDome is a cybercrime prevention and research centre established by the Kerala Police in 2014, supported by the Kerala government.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Usefulness: It acts as a nodal agency for cyber forensic training, threat intelligence sharing, and coordination among law enforcement, academia, and industry. It develops tools for cyber patrolling, tracking child pornography, financial frauds, and social media monitoring. For example, CyberDome's 'Operation P-Hunt' helped rescue minors from online sexual exploitation. It also runs awareness campaigns. Similar projects across states (e.g., Cyberabad Cyber Crime Cell) can control internet crimes by improving detection, reporting, and prevention. However, funding and technical capacity remain challenges.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, CyberDome is a model for proactive and tech-driven cybercrime control, combining police, public, and private collaboration.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP3_11",
+    "paper_title": "GS Paper 3",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "It is argued that the strategy of inclusive growth is intended to meet the objectives of inclusiveness and sustainability together. Comment on this statement. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q11",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Inclusive growth aims to ensure that the benefits of economic growth reach all sections of society, while sustainability ensures that growth does not compromise future generations' resources.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Inclusiveness and sustainability are complementary, not contradictory. Inclusive growth reduces inequality, which in turn reduces environmental pressure (as rich pollute more). Sustainable practices (renewable energy, organic farming) can create employment for the poor. However, trade-offs exist: immediate poverty reduction may require industrial growth (polluting), and stringent environmental norms may exclude small businesses. India's policies attempt both – National Solar Mission (sustainability) and MGNREGA (inclusiveness). The strategy of inclusive growth, as per the 12th Plan, explicitly integrates social inclusion and environmental sustainability. Examples: Swachh Bharat (health and environment) and PM-KISAN (income support). Yet, achieving both simultaneously is challenging – industrial corridors sometimes displace poor. Overall, the intention is valid, but implementation requires careful balancing of short-term and long-term goals.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the strategy of inclusive growth aims to harmonize inclusiveness and sustainability, though actual outcomes depend on policy design and enforcement.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP3_12",
+    "paper_title": "GS Paper 3",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "The public expenditure management is a challenge to the Government of India in the context of budget making during the post-liberalization period. Clarify it. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q12",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Post-liberalization (1991 onwards), public expenditure management faces challenges of fiscal discipline, subsidy rationalization, and efficient allocation amidst growing demands.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Challenges: FRBM Act (2003) requires fiscal deficit targets, limiting fiscal space. Increasing subsidy burden (food, fertilizer, fuel) crowds out capital expenditure. Off-budget borrowing (through PSUs) masks fiscal health. Implementation of GST and demonetisation created revenue uncertainties. High committed expenditure (salaries, pensions, interest payments) reduces flexibility. Also, underutilization of allocated funds (inefficient spending) and lack of outcome orientation. Post-liberalization, privatization reduces government role, but social sector demands (health, education) have risen. Example: Fertilizer subsidy and PM-KISAN compete with infrastructure spending. The government has tried reforms – rationalizing subsidies (DBT), increasing capex (National Infrastructure Pipeline), and setting up the Expenditure Management Commission. Still, balancing growth, welfare, and fiscal prudence remains difficult.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, public expenditure management in post-liberalization India is a persistent challenge, requiring revenue buoyancy, subsidy reforms, and enhanced capital spending.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP3_13",
+    "paper_title": "GS Paper 3",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "What are the reformative steps taken by the Government to make food grain distribution system more effective? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q13",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Public Distribution System (PDS) distributes subsidized food grains to poor. Reforms aim to reduce leakages, improve targeting, and enhance efficiency.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Key reformative steps: (i) Digitization of ration cards and Aadhaar seeding – eliminates duplicate/fake cards. (ii) End-to-end computerization of supply chain (Pawan portal for online allocation, tracking of trucks). (iii) Direct Benefit Transfer (DBT) for food subsidy – cash transfer in some states (e.g., Chandigarh, Puducherry). (iv) One Nation One Ration Card (ONORC) – allows portability of PDS benefits across states, benefiting migrant workers. (v) Introduction of fortified rice (to tackle malnutrition). (vi) Grievance redressal (Toll-free helplines, mobile apps). (vii) Social audits and transparency – e.g., 'PDS Samiksha' portal. (viii) Use of GPS for tracking vehicles and SMS alerts to beneficiaries. These measures have reduced leakages from 40% to less than 10% in some states (e.g., Chhattisgarh, Tamil Nadu). ONORC has covered 130 crore beneficiaries. Challenges remain: poor infrastructure in remote areas, exclusion errors due to Aadhaar authentication failures, and some states lagging in implementation.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, technological and administrative reforms have significantly improved PDS effectiveness, but further universalization and last-mile delivery improvements are needed.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP3_14",
+    "paper_title": "GS Paper 3",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Elaborate the policy taken by the Government of India to meet the challenges of the food processing sector. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q14",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's food processing sector (fruits, vegetables, dairy, meat, grains) faces challenges of post-harvest losses (30%), inadequate cold chain, low value addition, and fragmented supply chains.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Government policies: (i) Pradhan Mantri Kisan Sampada Yojana (PMKSY) – umbrella scheme for infrastructure (cold storage, mega food parks), modern technology, and backward/forward linkages. (ii) National Mission on Food Processing (under Ministry of Food Processing Industries). (iii) Creation of Mega Food Parks (41 approved, 22 operational) – cluster-based approach. (iv) Scheme for Creation of Infrastructure for Agro-processing Clusters. (v) 'Operation Greens' – for tomato, onion, potato (TOP) to stabilize prices and reduce post-harvest losses. (vi) 100% FDI permitted in food processing (through automatic route). (vii) Food Safety and Standards Act (FSSAI) for quality norms. (viii) PM Formalisation of Micro Food Processing Enterprises (PMFME) scheme – support to 2 lakh micro-units. (ix) Production Linked Incentive (PLI) scheme for food processing (for ready-to-cook, ready-to-eat). Impact: Attracted investment (PepsiCo, Nestlé), reduced losses in some clusters, and increased exports. But issues remain: poor power supply, credit access for micro-units, and logistics.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the government has adopted a multi-pronged policy covering infrastructure, finance, technology, and exports to address sector challenges.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP3_15",
+    "paper_title": "GS Paper 3",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "How is the Government of India protecting traditional knowledge of medicine from patenting by pharmaceutical companies? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q15",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India has rich traditional knowledge (TK) of Ayurveda, Unani, Siddha, and Yoga. Pharmaceutical companies often try to patent TK-based inventions. India protects TK through legal and documentation mechanisms.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Key measures: (i) Traditional Knowledge Digital Library (TKDL) – a database of over 3.5 lakh formulations in five languages, accessible to patent offices globally to prevent grant of patents on TK (e.g., turmeric, neem, basmati). (ii) Biological Diversity Act, 2002 – requires prior informed consent and benefit sharing for access to biological resources and associated TK. (iii) Patents (Amendment) Act, 2005 – section 3(p) excludes patents on 'traditional knowledge' per se. (iv) National Institute for Plant Health Management and CSIR's collaborations to document TK. (v) Protection of Plant Varieties and Farmers' Rights Act, 2001 – farmers' rights over seeds. (vi) Support to traditional practitioners (Ayush Ministry). Successes: TKDL invalidated a patent on 'Turmeric for wound healing' (US) and 'Neem for antifungals' (EPO). Challenges: TK often enters public domain; need for international harmonization (WIPO Intergovernmental Committee).",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, India has built a robust system combining defensive protection (TKDL) and positive protection (benefit sharing) to safeguard TK from biopiracy.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP3_16",
+    "paper_title": "GS Paper 3",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "How can biotechnology help to improve the living standards of farmers? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q16",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Biotechnology offers tools like genetic engineering, molecular markers, and tissue culture to enhance crop productivity, resilience, and value addition, directly benefiting farmers.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Ways to improve living standards: (i) Bt cotton (only GM crop approved) increased yields and reduced pesticide use, raising farmer incomes. (ii) GM mustard (DMH-11) – potential for higher oil yield, reducing edible oil imports. (iii) Marker-assisted selection for drought/flood tolerant rice (e.g., Sahbhagi Dhan, Swarna Sub1) – helps farmers in climate-vulnerable areas. (iv) Bio-fertilizers (Rhizobium, Azotobacter) and biopesticides reduce input costs. (v) Tissue culture for disease-free planting material in banana, potato – increases yield. (vi) Biofortified crops (zinc-rich wheat, iron-rich pearl millet) combat malnutrition, improving health and reducing medical expenses. (vii) Value-added products – mushroom cultivation, fermented foods – diversify income. Constraints: regulatory hurdles (GEAC approval), high cost of seeds, public acceptance issues. Government initiatives like Biotechnology Kisan Hubs and ICAR's outreach help transfer technology. Overall, biotechnology can boost productivity, reduce losses, and increase profitability for small farmers.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, biotechnology, if accessible and regulated responsibly, can significantly enhance farmers' livelihoods and agricultural sustainability.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP3_17",
+    "paper_title": "GS Paper 3",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Define the concept of carrying capacity of an ecosystem as relevant to an environment. Explain how understanding this concept is vital while planning for sustainable development of a region. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q17",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Carrying capacity (CC) is the maximum population size of a species that an environment can sustain indefinitely without degrading the ecosystem.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "For human development, CC includes resource use and waste assimilation capacity. It varies by region – water, land, energy, and pollution thresholds. Understanding CC is vital for sustainable development planning: (i) Prevents over-exploitation (e.g., groundwater extraction in Punjab exceeding recharge). (ii) Guides urbanization – cities like Bengaluru have exceeded CC for water and traffic. (iii) Informs tourism limits (e.g., Himalayan trekking routes, beach capacities). (iv) Helps in industrial siting (e.g., pollution load in river stretches). (v) Supports agricultural planning – crop choice based on water availability. (vi) Climate adaptation – carbon carrying capacity of atmosphere. Examples: Uttarakhand's CC for construction limited by seismic zones; Goa's beach CC for tourists. Ignoring CC leads to ecological collapse (e.g., Aral Sea, Chilika Lake degradation). Integrating CC into Environmental Impact Assessment (EIA) and Regional Plans is essential.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, carrying capacity is a core concept for sustainable development; planning within CC ensures long-term ecological and economic viability.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP3_18",
+    "paper_title": "GS Paper 3",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Disaster preparedness is the first step in any disaster management process. Explain how hazard zonation mapping will help disaster mitigation in the case of landslides. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q18",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Landslides are frequent in Himalayan and Western Ghat regions. Hazard zonation mapping (HZM) classifies areas based on landslide probability, aiding preparedness and mitigation.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "How HZM helps: (i) Identifies high-risk zones (red zones) where construction should be banned or restricted (e.g., ISRO's Landslide Atlas of India). (ii) Informs land-use planning – avoid settlements, roads, and critical infrastructure in very high hazard zones. (iii) Guides early warning systems – integrating rainfall thresholds with hazard zones allows timely evacuation (e.g., GS1 model in Nilgiris). (iv) Helps prioritize engineering measures (retaining walls, slope drainage, rock bolts) in moderate zones. (v) Aids in preparing micro-level disaster management plans and evacuation routes. (vi) Supports insurance and risk financing. Example: After the 2014 Malin landslide (Pune), hazard mapping was done in Western Ghats. Using BIS (Bureau of Indian Standards) guidelines (14496-1:1998), zonation maps at 1:50,000 scale exist. Further high-resolution mapping (1:10,000) is needed. Challenges: data gaps, dynamic changes due to climate. HZM must be updated periodically and linked to building codes.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, hazard zonation mapping is a foundational tool for landslide mitigation, enabling proactive risk reduction through regulation and preparedness.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP3_19",
+    "paper_title": "GS Paper 3",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Indian Government has recently strengthened the anti-terrorism laws by amending the Unlawful Activities (Prevention) Act (UAPA), 1967 and the NIA Act. Analyze the changes in the context of prevailing security environment while discussing the scope and reasons for opposing the UAPA by human rights organizations. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q19",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "In 2019, the UAPA was amended to allow designation of individuals as terrorists (not just organizations) and to empower NIA to attach properties. NIA Act was amended to extend its jurisdiction abroad.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Changes: UAPA – Central government can designate any individual as terrorist (Schedule 4); adds 'terrorist act' definition; allows investigation without prior sanction; extends detention period (up to 180 days). NIA – NIA officers can investigate cases overseas with central government permission; includes new offences (aircraft/maritime hijacking). Prevailing security environment: Rising cross-border terrorism, home-grown radicals, and use of cyberspace. These changes strengthen counter-terrorism legal framework. However, human rights organizations oppose because: (i) Low threshold for designation – risk of misuse against activists. (ii) No judicial oversight in initial designation. (iii) Long detention without trial. (iv) Bail provisions are stringent (unless court believes accused not guilty). (v) Suppression of dissent. Examples: Use of UAPA against student activists (JNU case) raises concerns. The government argues safeguards exist (review committee, habeas corpus). Balancing security and liberty is delicate.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, while UAPA and NIA amendments enhance security apparatus, they need judicial oversight and safeguards against misuse to protect civil liberties.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP3_20",
+    "paper_title": "GS Paper 3",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Cross-border movement of insurgents is only one of the several security challenges facing the policing of the border in North-East India. Examine the various challenges currently emanating across the India-Myanmar border. Also, discuss the steps to counter the challenges. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q20",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India-Myanmar border (1,643 km) is porous, with free movement regime (16 km border travel without visa), hilly terrain, and ethnic ties across both sides.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Challenges: Insurgent groups (NSCN-K, ULFA-I, KYKL) have camps in Myanmar; cross-border movement for training, arms smuggling, and safe havens. Drug trafficking (opium, heroin from Golden Triangle) and illegal wildlife trade. Human trafficking and smuggling of counterfeit goods. The Myanmar military junta's instability causes refugee influx (e.g., Chin refugees). Inadequate fencing and surveillance due to terrain. Lack of coordination with Tatmadaw (Myanmar army). Steps to counter: (i) Fencing and smart surveillance (sensors, drones) in vulnerable patches. (ii) Strengthening Assam Rifles (border guarding force) and joint patrolling with Myanmar. (iii) Operationalisation of border haats (markets) to provide economic alternatives. (iv) Intelligence sharing with Myanmar through BGB-level talks. (v) Development of infrastructure (roads, bridges) for quick movement. (vi) Counter-insurgency operations and surrender policies. (vii) Engaging Myanmar in border coordination meetings (Sittwe meeting). The 'Free Movement Regime' is being reviewed to curb misuse while maintaining ethnic ties.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the India-Myanmar border requires a multi-pronged strategy combining physical security, development, and diplomatic engagement with Myanmar.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  }
+]

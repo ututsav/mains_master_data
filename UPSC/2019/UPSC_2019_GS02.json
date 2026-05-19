@@ -1,0 +1,702 @@
+[
+  {
+    "uid": "UPSC_2019_GSP2_01",
+    "paper_title": "GS Paper 2",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Do you think that Constitution of India does not accept principle of strict separation of powers rather it is based on the principle of 'checks and balance'? Explain. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q1",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Indian Constitution does not follow the strict separation of powers like the US system. Instead, it adopts a system of checks and balances among the three organs.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "While the Constitution demarcates functions (legislature makes laws, executive implements, judiciary interprets), there is overlapping. Executive is part of legislature (Council of Ministers from Parliament). President can promulgate ordinances (legislative power). Judiciary can strike down laws (judicial review) and has rule-making power for court procedures. Legislature can impeach judges and amend Constitution. This inter-dependence ensures accountability. Thus, checks and balances prevent absolute power in any organ.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Therefore, India follows a functional separation with a system of checks and balances, not strict separation of powers.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP2_02",
+    "paper_title": "GS Paper 2",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "\"The Central Administrative Tribunal which was established for redressal of grievances and complaints by or against central government employees, nowadays is exercising its powers as an independent judicial authority.\" Explain. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q2",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Central Administrative Tribunal (CAT) was set up under Article 323A to adjudicate service matters of central government employees, providing speedy and inexpensive justice.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Over time, CAT has evolved into an independent judicial authority. Its members are drawn from judicial and administrative backgrounds, with fixed tenures. The Supreme Court in L. Chandra Kumar (1997) held that CAT has powers of judicial review akin to High Courts, though subject to SC/High Court appeal. CAT follows principles of natural justice, has contempt powers, and its orders are binding. It functions autonomously without executive interference, thus acting as a quasi-judicial body with significant independence.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, CAT today exercises powers comparable to a judicial authority, though it remains a tribunal under the administrative structure.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP2_03",
+    "paper_title": "GS Paper 2",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "What are the methods used by the farmers' organisations to influence the policy-makers in India and how effective are these methods? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q3",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Farmers' organisations (e.g., BKU, AIKS, Kisan Congress) influence policy through various methods, ranging from constitutional to confrontational.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Methods: protests and demonstrations (e.g., 2020-21 farm laws repeal agitation), hunger strikes, gheraos, road/rail blockades; lobbying and dialogue with ministers; filing PILs; electioneering (support/oppose candidates); media campaigns; and submitting memoranda. Effectiveness: The 2020-21 protests forced the government to repeal three farm laws – showing high effectiveness when united. However, many smaller issues (MSP non-implementation, crop insurance delays) remain unresolved. Effectiveness depends on media coverage, political support, and scale of mobilization.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, farmers' organisations have had mixed success – powerful in mass mobilisation but less effective for routine policy changes.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP2_04",
+    "paper_title": "GS Paper 2",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "From the resolution of contentious issues regarding distribution of legislative powers by the courts, 'Principle of Federal Supremacy' and 'Harmonious Construction' have emerged. Explain. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q4",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Indian Constitution distributes legislative powers between Union and States via three lists. Courts have evolved principles to resolve conflicts.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Principle of Federal Supremacy: Under Article 246, Union law prevails over State law in case of conflict over a subject in the Concurrent List (Article 254). Doctrine of Harmonious Construction: When two provisions appear conflicting, courts interpret them to give effect to both as far as possible, avoiding conflict. It applies to entries within the same list or across lists. Example: In ITC v. State of UP, the SC harmoniously interpreted 'tax on sale' (State) and 'tax on inter-state trade' (Union) to avoid overlapping. These principles ensure cooperative federalism.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, these doctrines guide courts in maintaining federal balance while ensuring legislative supremacy of the Union where necessary.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP2_05",
+    "paper_title": "GS Paper 2",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "What can France learn from the Indian Constitution's approach to secularism? (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q5",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "French secularism (laïcité) is a strict separation of state from religion, prohibiting religious symbols in public spaces. Indian secularism is a positive, accommodating model ('Sarva Dharma Sambhava').",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "France can learn: India allows state support for religious institutions (e.g., Haj subsidy, temple management) while maintaining equal respect. Indian model permits religious personal laws (with reforms) and religious education in minority institutions. This reduces social friction and accommodates diversity. France has faced controversies (headscarf ban, burkini) that alienate its Muslim community. India's principle of 'principled distance' (Rajeev Bhargava) allows state intervention for reform (e.g., banning triple talaq) while respecting religious autonomy. France could adopt a more flexible, contextual approach to secularism to integrate its diverse population better.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, France can learn accommodation without abandoning secularism, fostering social harmony in a multicultural society.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP2_06",
+    "paper_title": "GS Paper 2",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Despite Consistent experience of high growth, India still goes with the lowest indicators of human development. Examine the issues that make balanced and inclusive development elusive. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q6",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's GDP growth has been high, but HDI ranking remains low (132 out of 191, 2022). Balanced and inclusive development remains elusive due to structural issues.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Issues: Inadequate investment in health and education (public expenditure low – ~1.5% of GDP on health, 2.8% on education). Malnutrition and stunting (NFHS-5). Regional disparities (Kerala vs Bihar). Persistent inequality (top 10% own 77% wealth). Lack of quality jobs (informal sector dominance). Social discrimination based on caste, gender, religion. Poor implementation of welfare schemes (leakages, corruption). Also, environmental degradation affects the poor. Growth has been jobless and concentrated in services, not manufacturing, failing to absorb low-skilled labour.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, to achieve inclusive development, India must shift focus from GDP to human capital, improve public services, and reduce inequalities.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP2_07",
+    "paper_title": "GS Paper 2",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "There is a growing divergence in the relationship between poverty and hunger in India. The shrinking of social expenditure by the government is forcing the poor to spend more on non-food essential items squeezing their food-budget. - Elucidate. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q7",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "While poverty has declined, hunger persists (India ranks 111th on Global Hunger Index 2023). This divergence is due to rising costs of non-food essentials and shrinking social expenditure.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Government's social expenditure (health, education, housing, water) as % of GDP has not kept pace with growth. The poor spend a larger share on non-food items (fuel, electricity, rent, health) post-liberalisation. This squeezes food budget, leading to undernutrition. Example: rising fuel prices force purchase of less food. Also, PDS inefficiency and exclusion errors make food inaccessible. Thus, poverty reduction does not automatically translate into hunger reduction when social safety nets shrink.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Therefore, to align poverty and hunger trends, government must increase social expenditure and strengthen food security programmes.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP2_08",
+    "paper_title": "GS Paper 2",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "Implementation of Information and Communication Technology (ICT) based Projects/Programmes usually suffers in terms of certain vital factors. Identify these factors, and suggest measures for their effective implementation. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q8",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "ICT projects (e-governance, digital health, education) often fail due to technical, social, and organizational factors.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Factors: Poor infrastructure (power, internet connectivity in rural areas); digital divide (lack of devices, literacy); inadequate user training; resistance to change; lack of inter-departmental coordination; poor data security; and insufficient maintenance. Measures: Ensure last-mile connectivity (BharatNet); provide multilingual interfaces and offline functionality; involve stakeholders in design; conduct regular training and awareness; adopt open standards for interoperability; establish helpdesks and grievance mechanisms; and allocate budget for maintenance. Example: Aadhaar's success required extensive infrastructure and legal framework.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, addressing these factors through a holistic, user-centric approach can improve ICT project outcomes.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP2_09",
+    "paper_title": "GS Paper 2",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "'The time has come for India and Japan to build a strong contemporary relationship, one involving global and strategic partnership that will have a great significance for Asia and the world as a whole.' Comment. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q9",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India-Japan relations have deepened over the last decade, evolving into a Special Strategic and Global Partnership (2014). Both countries share democratic values and have complementary economies.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Significance: Economic – Japan is a major investor in India (bullet train, Delhi-Mumbai Industrial Corridor). Strategic – both counter China's assertiveness in Asia (Indo-Pacific vision, Quad). Technological cooperation – civil nuclear, space, AI. Regional stability – Japan supports India's Act East Policy and connectivity projects (Asia-Africa Growth Corridor). Together, they promote free and open Indo-Pacific, rules-based order. This partnership is crucial for balancing China's Belt and Road Initiative and ensuring maritime security.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the time is ripe for a robust India-Japan partnership that will shape the geopolitical and economic architecture of Asia.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP2_10",
+    "paper_title": "GS Paper 2",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 10,
+    "importance": 2,
+    "question_text": "'Too little cash, too much politics, leaves UNESCO fighting for life.' Discuss the statement in the light of US' withdrawal and its accusation of the cultural body as being 'anti-Israel bias'. (150 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q10",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "UNESCO faces financial crisis after US (22% of budget) and Israel withdrew in 2019, accusing it of anti-Israel bias, particularly over Palestinian heritage sites.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Funding shortfall has forced UNESCO to cut programmes and staff. Political controversies: Admission of Palestine as member (2011), resolutions criticizing Israeli occupation of East Jerusalem, and designating ancient Jericho as 'Palestinian World Heritage Site'. The US argued UNESCO is politicized. Other members (China, Russia) also use UNESCO for geopolitical influence. As a result, UNESCO's core mandate of education, science, culture suffers. Reforms needed: depoliticize decision-making, diversify funding, and balance member interests. India has increased its support, but global trust is eroded.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the statement is accurate – UNESCO is indeed struggling due to both financial constraints and political divisiveness.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP2_11",
+    "paper_title": "GS Paper 2",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "On what grounds a people's representative can be disqualified under the Representation of Peoples Act, 1951? Also mention the remedies available to such person against his disqualification. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q11",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Representation of the People Act, 1951 (RP Act) specifies grounds for disqualification of MPs and MLAs, ensuring probity in public life.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Grounds for disqualification (Sections 8, 8A, 9, 10, 10A): Conviction for certain offences (e.g., election offences, corruption, communal disharmony, untouchability, dowry, rape) – disqualification for 6 years from release; conviction under Prevention of Corruption Act; convicted for promoting enmity between groups; convicted for offence relating to religious conversions; convicted for offence of hoarding or profiteering; convicted for offence of adulteration of food or drugs. Also, disqualification for government contracts (Section 9A), holding office of profit (Section 9), failure to lodge election expense account (Section 10A). Additionally, disqualification under Tenth Schedule (defection) – also under RP Act. Remedies: Appeal against conviction to higher court – if conviction stayed, disqualification is stayed (Section 8(3)). Also, can file election petition to High Court challenging disqualification order. The President/Governor may also remit the disqualification period under Section 11 (except for defection). The Supreme Court can be approached under Article 136.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the RP Act provides clear disqualification grounds and judicial remedies, but delays in conviction and appeal often allow disqualified persons to remain in office.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP2_12",
+    "paper_title": "GS Paper 2",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "\"Parliament's power to amend the Constitution is a limited power and it cannot be enlarged into absolute power.\" In the light of this statement explain whether Parliament under Article 368 of the Constitution can destroy the Basic Structure of the Constitution by expanding its amending power? (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q12",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Article 368 grants Parliament the power to amend the Constitution, but the Supreme Court in Kesavananda Bharati (1973) held that this power cannot destroy the 'Basic Structure' of the Constitution.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Basic structure includes features like supremacy of Constitution, rule of law, separation of powers, judicial review, federalism, secularism, democracy, and fundamental rights. Parliament cannot expand its amending power to destroy these. The 42nd Amendment (1976) tried to declare that no constitutional amendment can be challenged in court. The SC in Minerva Mills (1980) struck down this provision, ruling that amending power is limited and judicial review is part of basic structure. Thus, even under Article 368, Parliament cannot pass an amendment that abolishes basic structure – that would be an unconstitutional 'destruction', not 'amendment'. The amending power is plenary but not absolute.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Therefore, Parliament cannot destroy the Basic Structure, and any attempt to expand its amending power to do so would be struck down by the judiciary.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP2_13",
+    "paper_title": "GS Paper 2",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "\"The reservation of seats for women in the institutions of local self-government has had a limited impact on the patriarchal character of the Indian Political Process.\" Comment. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q13",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The 73rd and 74th Amendments mandated 33% reservation for women in Panchayats and Municipalities (now 50% in many states). This increased women's representation but its impact on patriarchy has been limited.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Limited impact reasons: Many women are 'sarpanch patis' (husbands exercising power). Patriarchal norms still restrict mobility and decision-making. Women face resistance, harassment, and lack of political experience. Reserved seats are often rotated, preventing continuity. Also, women leaders are seen as token representatives. However, positive changes: increased visibility, some women have become effective leaders (e.g., in Kerala, Tamil Nadu). Studies show that reservation improves delivery of public goods (drinking water, sanitation) and reduces crime against women. Yet, deep-rooted patriarchy remains unchallenged in higher politics (Lok Sabha, state assemblies). The Women's Reservation Bill for Parliament has not been passed.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, while local reservation has had some impact, it is far from transforming the patriarchal political process; structural changes and social empowerment are also needed.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP2_14",
+    "paper_title": "GS Paper 2",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "\"The Attorney-General is the chief legal adviser and lawyer of the Government of India.\" Discuss. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q14",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Attorney-General of India (AGI) is the highest law officer of the country, appointed by the President under Article 76. He advises the Government on legal matters and represents it in courts.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Role: The AGI gives legal advice to the Government of India on constitutional and statutory issues; appears in the Supreme Court and High Courts in cases involving the Government; performs duties assigned by the President; and has right of audience in all courts. He is not a full-time government servant – has private practice but cannot advise or appear against the Government. He can be removed by the President at any time. Limitations: He does not attend Parliament but can be heard in proceedings where his advice is required. He is not bound by the Cabinet collective responsibility. The AGI is assisted by Solicitor-General and Additional Solicitors-General. Unlike the UK Attorney-General, the Indian AGI has no prosecutorial powers except in specific statutes. He plays a key role in defending government policies and legislation.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the AGI is indeed the chief legal adviser and lawyer for the Government, though with advisory rather than executive authority over law enforcement.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP2_15",
+    "paper_title": "GS Paper 2",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Individual Parliamentarian's role as the national law maker is on a decline, which in turn, has adversely impacted the quality of debates and their outcome. Discuss. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q15",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The role of individual MPs in lawmaking has declined due to party whips, lack of time, and increasing executive dominance, affecting the quality of legislation.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Evidence of decline: Anti-defection law (10th Schedule) forces MPs to vote along party lines, reducing individual deliberation. Most bills are passed without detailed scrutiny (PRS reports show many bills passed in less than 30 minutes debate). Parliamentary committees (where detailed scrutiny happens) often lack adequate staff and time. Parliamentary sessions have shortened (fewer sittings), reducing debate quality. MPs are increasingly distracted by constituency work and media appearances. Outcome: Poorly drafted laws (ambiguities, contradictions); lack of participatory lawmaking; rubber-stamping of executive decisions; decline in accountability. Exceptions: Some MPs raise substantive issues, and private member bills, though rarely passed, spark debate. Reforms: strengthen committees, make anti-defection exceptions for voting on legislation (only for confidence/no-confidence), increase sitting days, and improve research support for MPs.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the decline of the individual lawmaker's role is real and has harmed legislative quality; urgent reforms are needed to revitalize Parliament.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP2_16",
+    "paper_title": "GS Paper 2",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "'In the context of neo-liberal paradigm of development planning, multi-level planning is expected to make operations cost-effective and remove many implementation blockages.' - Discuss. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q16",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Multi-level planning (central, state, district, block) aims to decentralize decision-making. Under neo-liberalism (privatization, liberalization), it is seen as a way to improve efficiency and implementation.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Expected benefits: Cost-effective by aligning schemes with local needs, reducing waste. Removes blockages caused by top-down rigidities – local authorities can adapt to local conditions. Encourages private and community participation (PPP, self-help groups). Examples: District planning committees (DPCs) under Article 243ZD; Panchayat-level planning under MGNREGA. However, ground reality: Limited devolution of funds, functions, functionaries (3Fs); capacity constraints; political interference; weak coordination between tiers. Neo-liberal emphasis on efficiency can also undermine social equity. The NITI Aayog's Aspirational Districts Programme uses multi-level planning with some success. Overall, while multi-level planning has potential, its effectiveness depends on genuine decentralization, capacity building, and accountability.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, multi-level planning can make operations cost-effective, but requires institutional strengthening and political will to overcome implementation blockages.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP2_17",
+    "paper_title": "GS Paper 2",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "The need for cooperation among various service sectors has been an inherent component of development discourse. Partnership bridges the gap among the sectors. It also sets in motion a culture of 'collaboration' and 'team spirit'. In the light of statements above examine India's development process. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q17",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Development requires synergy across sectors (government, private, civil society, communities). Partnerships bridge resource, expertise, and trust gaps, fostering collaborative governance.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "India's experience: Public-Private Partnerships (PPPs) in infrastructure (roads, airports, ports) – success (Delhi Metro, Mumbai airport) and failures (some toll road projects). Government-NGO partnerships (e.g., ICDS, HIV/AIDS control). Corporate social responsibility (CSR) partnerships under Companies Act (education, health). Mission-mode projects (Swachh Bharat – partnership with corporates and citizens). Challenges: coordination failures, trust deficit, lack of capacity in civil society, and power asymmetries. Examples of successful collaboration: Kerala's Kudumbashree (government-NGO-panchayat); Pulse Polio campaign (government-WHO-UNICEF-community). The culture of collaboration is still evolving but has shown results in health, sanitation, and rural livelihoods. Digital India (partnership with tech companies) accelerates service delivery.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, partnership and collaboration have indeed become integral to India's development process, though scaling up and institutionalizing them remains a challenge.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP2_18",
+    "paper_title": "GS Paper 2",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "Performance of welfare schemes that are implemented for vulnerable sections is not so effective due to absence of their awareness and active involvement at all stages of policy process. Discuss. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q18",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Welfare schemes for vulnerable sections (SC/ST, women, elderly, disabled) often underperform due to top-down design and lack of beneficiary participation.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Awareness deficit: Many eligible beneficiaries are unaware of schemes (e.g., PMJDY, scholarships, pension schemes) due to illiteracy, lack of outreach, and bureaucratic language. Active involvement missing: Vulnerable groups are not consulted during policy formulation, implementation, or monitoring. This leads to mismatch between needs and provisions (e.g., toilets built but not used due to cultural issues). Absence of grievance redressal mechanisms. Examples: Pradhan Mantri Awas Yojana – beneficiaries lacked knowledge of subsidy process; RTE Act implementation weak due to lack of community oversight. Solutions: Use of local media, ASHA/ANM workers for awareness; involvement of self-help groups and panchayats; social audits (as in MGNREGA); and establishing helplines. The 'bottom-up' approach of the Aspirational Districts Programme includes community feedback.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, awareness and participation are critical; without them, welfare schemes remain ineffective and often captured by intermediaries.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP2_19",
+    "paper_title": "GS Paper 2",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "'The long-sustained image of India as a leader of the oppressed and marginalised nations has disappeared on account of its new found role in the emerging global order.' Elaborate. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q19",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "During the Cold War, India led the Non-Aligned Movement (NAM) and championed decolonization, apartheid, and third-world solidarity. Post-1991, India's global role has shifted towards pragmatic alliances and economic power.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Disappearance of 'oppressed leader' image: India now aligns with major powers (US, Japan, Israel) – QUAD, strategic partnerships. It has moved away from anti-Western rhetoric, engages with China (despite border disputes), and seeks permanent UNSC seat. India's vote on Ukraine (abstention) and its relations with Russia show realpolitik. It also positions itself as a 'Vishwaguru' and emerging economic power, not a victim nation. New role: India is a net donor to other developing nations (ITEC, Line of Credit), a founder of the Coalition for Disaster Resilient Infrastructure (CDRI), and a leader in global climate and digital governance. It advocates for Global South reforms (WTO, IMF) but from a position of strength. However, critics say India has abandoned moral leadership for narrow national interest. The image has evolved, not entirely disappeared – India still speaks for developing countries on climate finance and vaccine equity.",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, India's image has transformed from a moral crusader to a pragmatic power, but it retains some leadership role for the Global South.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2019_GSP2_20",
+    "paper_title": "GS Paper 2",
+    "year": 2019,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "vault_path": null,
+    "marks": 15,
+    "importance": 2,
+    "question_text": "'What introduces friction into the ties between India and the United States is that Washington is still unable to find for India a position in its global strategy, which would satisfy India's national self-esteem and ambitions.' Explain with suitable examples. (250 words)",
+    "is_structured": 1,
+    "last_updated": 1747488000,
+    "cite": "U19",
+    "q_number": "Q20",
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India-US relations have improved significantly (civil nuclear deal, defence cooperation, QUAD), but friction persists because the US often treats India as a junior partner rather than an equal.",
+        "order": 1,
+        "cite": "U19"
+      },
+      {
+        "section": "Body",
+        "text": "Examples of friction: US pressure on India to reduce oil imports from Iran and Venezuela – India's strategic autonomy felt compromised. US criticism of India's S-400 missile deal with Russia (CAATSA). On trade, US withdrawal of GSP benefits and imposition of tariffs (steel, aluminium) – India retaliated. On human rights and Kashmir, US statements (including calling Kashmir 'most populous prison') irk India. The US's unequal treatment in visa policies (H1-B restrictions) and inconsistent support for UNSC permanent seat. What India wants: recognition as a leading power with independent foreign policy; respect for strategic autonomy; fair trade; and a relationship based on 'mutual respect'. The US's 'Indo-Pacific strategy' still revolves around containing China, with India as a partner but not the leader. The friction is inherent in the asymmetry of power. However, both sides manage it through dialogue (2+2 ministerial).",
+        "order": 2,
+        "cite": "U19"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Thus, the US has not yet fully accommodated India's self-image as an independent major power, leading to periodic friction despite growing convergence.",
+        "order": 3,
+        "cite": "U19"
+      }
+    ]
+  }
+]
