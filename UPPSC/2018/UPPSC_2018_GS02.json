@@ -5,14 +5,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Why is India opposed to mediation on Kashmir? (Answer in 125 words)",
-    "is_structured": 1,
-    "last_updated": 1778970000,
-    "cite": "UPPSC Mains 2018 GS Paper 2",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 2",
+    "last_updated": 1778970000,
+    "is_structured": 1,
+    "question_text": "Why is India opposed to mediation on Kashmir? (Answer in 125 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Critically examine the jurisdiction of international Court of Justice. (Answer in 125 words)",
-    "is_structured": 1,
-    "last_updated": 1778970000,
-    "cite": "UPPSC Mains 2018 GS Paper 2",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 2",
+    "last_updated": 1778970000,
+    "is_structured": 1,
+    "question_text": "Critically examine the jurisdiction of international Court of Justice. (Answer in 125 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -69,14 +85,26 @@
       },
       {
         "section": "Body",
-        "text": "Critically evaluate its limitations: The ICJ lacks compulsory jurisdiction; it can only hear a case if both states explicitly consent to its authority. Furthermore, it possesses no independent enforcement mechanism; if a state ignores a ruling, enforcement relies entirely on the UN Security Council, which is frequently paralyzed by the veto power of its permanent members.",
-        "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 2"
+        "text": "Critically evaluate its limitations: The ICJ lacks compulsory jurisdiction.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "it can only hear a case if both states explicitly consent to its authority. Furthermore, it possesses no independent enforcement mechanism.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "if a state ignores a ruling, enforcement relies entirely on the UN Security Council, which is frequently paralyzed by the veto power of its permanent members.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 5
       },
       {
         "section": "Conclusion",
         "text": "Conclude that while the ICJ carries immense moral and legal authority, its practical effectiveness is severely constrained by the principles of state sovereignty and global power politics.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2018 GS Paper 2"
       }
     ]
@@ -87,14 +115,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Throw light on the challenges and problems of farmers and agriculture sector in Uttar Pradesh. Suggest measures for improvement. (Answer in 125 words)",
-    "is_structured": 1,
-    "last_updated": 1778970000,
-    "cite": "UPPSC Mains 2018 GS Paper 2",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 2",
+    "last_updated": 1778970000,
+    "is_structured": 1,
+    "question_text": "Throw light on the challenges and problems of farmers and agriculture sector in Uttar Pradesh. Suggest measures for improvement. (Answer in 125 words)",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Agriculture",
+    "topics": [
+      "UP Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +164,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What are electoral bonds? Are they capable of bringing transparency in the Political funding system? (Answer in 125 words)",
-    "is_structured": 1,
-    "last_updated": 1778970000,
-    "cite": "UPPSC Mains 2018 GS Paper 2",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 2",
+    "last_updated": 1778970000,
+    "is_structured": 1,
+    "question_text": "What are electoral bonds? Are they capable of bringing transparency in the Political funding system? (Answer in 125 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Elections",
+    "topics": [
+      "Elections"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +213,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What has been the impact of Self-Help Groups (SHG's) on India's rural life? Describe. (Answer in 125 words)",
-    "is_structured": 1,
-    "last_updated": 1778970000,
-    "cite": "UPPSC Mains 2018 GS Paper 2",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 2",
+    "last_updated": 1778970000,
+    "is_structured": 1,
+    "question_text": "What has been the impact of Self-Help Groups (SHG's) on India's rural life? Describe. (Answer in 125 words)",
+    "subjectId": "justice",
+    "subjects": [
+      "Social Justice"
+    ],
+    "topic": "Social Justice",
+    "topics": [
+      "Social Justice"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +262,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Write a short note on the contribution of the Indian diaspora towards economic structure in India. (Answer in 125 words)",
-    "is_structured": 1,
-    "last_updated": 1778970000,
-    "cite": "UPPSC Mains 2018 GS Paper 2",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 2",
+    "last_updated": 1778970000,
+    "is_structured": 1,
+    "question_text": "Write a short note on the contribution of the Indian diaspora towards economic structure in India. (Answer in 125 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +311,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "In what ways does the Indian federal-system differ from the federal system in United States of America (USA)? Explain. (Answer in 125 words)",
-    "is_structured": 1,
-    "last_updated": 1778970000,
-    "cite": "UPPSC Mains 2018 GS Paper 2",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 2",
+    "last_updated": 1778970000,
+    "is_structured": 1,
+    "question_text": "In what ways does the Indian federal-system differ from the federal system in United States of America (USA)? Explain. (Answer in 125 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Federalism",
+    "topics": [
+      "Federalism"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +360,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Describe those special powers of the council of states (Rajya Sabha) which are not enjoyed by the Lok Sabha, under the Indian constitution. (Answer in 125 words)",
-    "is_structured": 1,
-    "last_updated": 1778970000,
-    "cite": "UPPSC Mains 2018 GS Paper 2",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 2",
+    "last_updated": 1778970000,
+    "is_structured": 1,
+    "question_text": "Describe those special powers of the council of states (Rajya Sabha) which are not enjoyed by the Lok Sabha, under the Indian constitution. (Answer in 125 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Parliament",
+    "topics": [
+      "Parliament"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +409,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Evaluate the use of VVPAT in the General Election of India. (Answer in 125 words)",
-    "is_structured": 1,
-    "last_updated": 1778970000,
-    "cite": "UPPSC Mains 2018 GS Paper 2",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 2",
+    "last_updated": 1778970000,
+    "is_structured": 1,
+    "question_text": "Evaluate the use of VVPAT in the General Election of India. (Answer in 125 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Elections",
+    "topics": [
+      "Elections"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -374,14 +458,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Examine the Constitutional Position of the Comptroller and Auditor General of India. (Answer in 125 words)",
-    "is_structured": 1,
-    "last_updated": 1778970000,
-    "cite": "UPPSC Mains 2018 GS Paper 2",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 2",
+    "last_updated": 1778970000,
+    "is_structured": 1,
+    "question_text": "Examine the Constitutional Position of the Comptroller and Auditor General of India. (Answer in 125 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -391,20 +483,32 @@
       },
       {
         "section": "Body",
-        "text": "Examine the position of Independence: To ensure fearless auditing, the CAG is granted immense autonomy. The CAG is appointed by the President, has a secure tenure (6 years or up to age 65), and can only be removed through a rigorous impeachment process identical to that of a Supreme Court judge. Their administrative expenses are charged directly to the Consolidated Fund of India.",
-        "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 2"
+        "text": "Examine the position of Independence: To ensure fearless auditing, the CAG is granted immense autonomy.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "The CAG is appointed by the President, has a secure tenure (6 years or up to age 65), and can only be removed through a rigorous impeachment process identical to that of a Supreme Court judge.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Their administrative expenses are charged directly to the Consolidated Fund of India.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 4
       },
       {
         "section": "Body",
         "text": "Examine the position of Accountability: The CAG acts as the ultimate guardian of the public purse. They audit all receipts and expenditures of the Union and States, submitting reports that are subsequently scrutinized by the Public Accounts Committee (PAC), thus ensuring legislative control over the executive.",
-        "order": 3,
+        "order": 5,
         "cite": "UPPSC Mains 2018 GS Paper 2"
       },
       {
         "section": "Conclusion",
         "text": "Conclude that the CAG's constitutional position is structurally fortified to expose financial irregularities and uphold absolute financial probity in public administration.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2018 GS Paper 2"
       }
     ]
@@ -415,14 +519,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "How will the withdrawal of U.S. Troops from Afghanistan affect India? Comment. (Answer in 200 words)",
-    "is_structured": 1,
-    "last_updated": 1778970000,
-    "cite": "UPPSC Mains 2018 GS Paper 2",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 2",
+    "last_updated": 1778970000,
+    "is_structured": 1,
+    "question_text": "How will the withdrawal of U.S. Troops from Afghanistan affect India? Comment. (Answer in 200 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -432,20 +544,38 @@
       },
       {
         "section": "Body",
-        "text": "Comment on the direct security threats: The resurgence of the Taliban inherently emboldens Pakistan's Inter-Services Intelligence (ISI), providing them 'strategic depth'. It raises severe concerns that Afghan soil will once again become a safe haven for anti-India terror groups like Lashkar-e-Taiba (LeT) and Jaish-e-Mohammed (JeM), threatening internal security in Jammu & Kashmir.",
-        "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 2"
+        "text": "Comment on the direct security threats: The resurgence of the Taliban inherently emboldens Pakistan's Inter-Services Intelligence (ISI), providing them 'strategic depth'.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 2
       },
       {
         "section": "Body",
-        "text": "Comment on strategic and economic impacts: India has invested over $3 billion in Afghan reconstruction (Parliament building, Salma Dam, highways) using soft power. The withdrawal jeopardizes these assets. Furthermore, it threatens India's strategic connectivity projects, particularly the Chabahar Port in Iran and the International North-South Transport Corridor (INSTC), designed to access Central Asia bypassing Pakistan.",
-        "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 2"
+        "text": "It raises severe concerns that Afghan soil will once again become a safe haven for anti-India terror groups like Lashkar-e-Taiba (LeT) and Jaish-e-Mohammed (JeM), threatening internal security in Jammu & Kashmir.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Comment on strategic and economic impacts: India has invested over $3 billion in Afghan reconstruction (Parliament building, Salma Dam, highways) using soft power.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "The withdrawal jeopardizes these assets.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Furthermore, it threatens India's strategic connectivity projects, particularly the Chabahar Port in Iran and the International North-South Transport Corridor (INSTC), designed to access Central Asia bypassing Pakistan.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 6
       },
       {
         "section": "Conclusion",
         "text": "Conclude that India must recalibrate its Afghan strategy by pragmatically engaging with all regional stakeholders (including Russia and Iran) while significantly upgrading its domestic counter-terrorism posture.",
-        "order": 4,
+        "order": 7,
         "cite": "UPPSC Mains 2018 GS Paper 2"
       }
     ]
@@ -456,14 +586,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the nature of India-China relations in the light of OBOR. (Answer in 200 words)",
-    "is_structured": 1,
-    "last_updated": 1778970000,
-    "cite": "UPPSC Mains 2018 GS Paper 2",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 2",
+    "last_updated": 1778970000,
+    "is_structured": 1,
+    "question_text": "Discuss the nature of India-China relations in the light of OBOR. (Answer in 200 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -479,14 +617,20 @@
       },
       {
         "section": "Body",
-        "text": "Discuss strategic encirclement and counter-measures: OBOR expands China's economic and military footprint in India's immediate neighborhood (Sri Lanka, Nepal, Maldives) through 'debt-trap diplomacy' and dual-use port infrastructure (the 'String of Pearls'). Consequently, the relationship has shifted towards competitive balancing, with India pushing alternative connectivity models (like the Asia-Africa Growth Corridor) and deepening ties with the Quad to counter Chinese hegemony in the Indo-Pacific.",
-        "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 2"
+        "text": "Discuss strategic encirclement and counter-measures: OBOR expands China's economic and military footprint in India's immediate neighborhood (Sri Lanka, Nepal, Maldives) through 'debt-trap diplomacy' and dual-use port infrastructure (the 'String of Pearls').",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Consequently, the relationship has shifted towards competitive balancing, with India pushing alternative connectivity models (like the Asia-Africa Growth Corridor) and deepening ties with the Quad to counter Chinese hegemony in the Indo-Pacific.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 4
       },
       {
         "section": "Conclusion",
         "text": "Conclude that OBOR has transformed India-China relations from cautious engagement into structural strategic rivalry, heavily defined by mutual suspicion and geopolitical competition.",
-        "order": 4,
+        "order": 5,
         "cite": "UPPSC Mains 2018 GS Paper 2"
       }
     ]
@@ -497,14 +641,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "The action of India Government on Article 370 has changed the Status-Quo in Jammu and Kashmir. How will it effect the development in the region? Discuss. (Answer in 200 words)",
-    "is_structured": 1,
-    "last_updated": 1778970000,
-    "cite": "UPPSC Mains 2018 GS Paper 2",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 2",
+    "last_updated": 1778970000,
+    "is_structured": 1,
+    "question_text": "The action of India Government on Article 370 has changed the Status-Quo in Jammu and Kashmir. How will it effect the development in the region? Discuss. (Answer in 200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Federalism",
+    "topics": [
+      "Federalism"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -514,20 +666,32 @@
       },
       {
         "section": "Body",
-        "text": "Discuss the effect on economic development: Previously, Article 35A barred non-residents from purchasing land, which heavily deterred private investment. Its removal paves the way for vast external capital influx in sectors like tourism, real estate, healthcare, and education. It allows corporate integration, potentially creating significant employment opportunities for the youth and reducing the economic desperation that breeds militancy.",
-        "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 2"
+        "text": "Discuss the effect on economic development: Previously, Article 35A barred non-residents from purchasing land, which heavily deterred private investment.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Its removal paves the way for vast external capital influx in sectors like tourism, real estate, healthcare, and education.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "It allows corporate integration, potentially creating significant employment opportunities for the youth and reducing the economic desperation that breeds militancy.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 4
       },
       {
         "section": "Body",
         "text": "Discuss the effect on social and administrative development: The integration ensures the application of progressive central laws—such as the Right to Education (RTE), Right to Information (RTI), and robust anti-corruption frameworks. Crucially, it extends affirmative action (reservations) to historically marginalized communities (SC/STs) within the UT, ensuring equitable social justice.",
-        "order": 3,
+        "order": 5,
         "cite": "UPPSC Mains 2018 GS Paper 2"
       },
       {
         "section": "Conclusion",
         "text": "Conclude that while the abrogation unlocks immense developmental potential, realizing these dividends depends heavily on maintaining security, restoring rapid democratic processes, and addressing the psychological alienation of the local populace.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2018 GS Paper 2"
       }
     ]
@@ -538,14 +702,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the reasons, objectives and functions of NITI Aayog and describe the recently re-organised NITI Aayog. (Answer in 200 words)",
-    "is_structured": 1,
-    "last_updated": 1778970000,
-    "cite": "UPPSC Mains 2018 GS Paper 2",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 2",
+    "last_updated": 1778970000,
+    "is_structured": 1,
+    "question_text": "Discuss the reasons, objectives and functions of NITI Aayog and describe the recently re-organised NITI Aayog. (Answer in 200 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -555,20 +727,38 @@
       },
       {
         "section": "Body",
-        "text": "Discuss reasons, objectives, and functions: The Planning Commission was disbanded because its rigid, top-down, 'one-size-fits-all' approach became obsolete in a fast-growing, diverse economy. NITI Aayog's objective is to foster 'Cooperative Federalism' by recognizing states as equal partners. Its functions include formulating long-term strategic visions (e.g., 15-year vision documents), acting as a knowledge and innovation hub, and promoting 'Competitive Federalism' through performance indices (Health, Water, SDGs).",
-        "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 2"
+        "text": "Discuss reasons, objectives, and functions: The Planning Commission was disbanded because its rigid, top-down, 'one-size-fits-all' approach became obsolete in a fast-growing, diverse economy.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 2
       },
       {
         "section": "Body",
-        "text": "Describe the re-organization: The Aayog comprises the Prime Minister as Chairperson and a Vice-Chairperson appointed by the PM. The crucial structural shift is the Governing Council, which includes all State Chief Ministers and UT Lieutenant Governors, ensuring direct state participation in national policy formulation. It also utilizes part-time members from leading universities and ex-officio union ministers.",
-        "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 2"
+        "text": "NITI Aayog's objective is to foster 'Cooperative Federalism' by recognizing states as equal partners.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Its functions include formulating long-term strategic visions (e.g., 15-year vision documents), acting as a knowledge and innovation hub, and promoting 'Competitive Federalism' through performance indices (Health, Water, SDGs).",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Describe the re-organization: The Aayog comprises the Prime Minister as Chairperson and a Vice-Chairperson appointed by the PM. The crucial structural shift is the Governing Council, which includes all State Chief Ministers and UT Lieutenant Governors, ensuring direct state participation in national policy formulation. It.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "also utilizes part-time members from leading universities and ex-officio union ministers.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 6
       },
       {
         "section": "Conclusion",
         "text": "Conclude that NITI Aayog functions as an agile, modern catalyst, aligning national macro-development goals with specific regional realities.",
-        "order": 4,
+        "order": 7,
         "cite": "UPPSC Mains 2018 GS Paper 2"
       }
     ]
@@ -579,14 +769,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What are the main issues related to poverty and hunger? (Answer in 200 words)",
-    "is_structured": 1,
-    "last_updated": 1778970000,
-    "cite": "UPPSC Mains 2018 GS Paper 2",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 2",
+    "last_updated": 1778970000,
+    "is_structured": 1,
+    "question_text": "What are the main issues related to poverty and hunger? (Answer in 200 words)",
+    "subjectId": "justice",
+    "subjects": [
+      "Social Justice"
+    ],
+    "topic": "Social Justice",
+    "topics": [
+      "Social Justice"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -596,20 +794,38 @@
       },
       {
         "section": "Body",
-        "text": "Discuss economic and structural issues: The primary driver of poverty is 'jobless growth' in the formal sector, pushing the majority of the workforce into the low-paying, precarious informal economy without social security. Deep-rooted agrarian distress, highly fragmented landholdings, and a lack of non-farm rural employment perpetually trap marginalized groups (SCs/STs) in cyclical poverty.",
-        "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 2"
+        "text": "Discuss economic and structural issues: The primary driver of poverty is 'jobless growth' in the formal sector, pushing the majority of the workforce into the low-paying, precarious informal economy without social security.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 2
       },
       {
         "section": "Body",
-        "text": "Discuss nutritional and distributional issues: Hunger in India is less about a lack of food production (India is food-surplus) and more about access and affordability. Issues include massive post-harvest waste and leakages in the Public Distribution System (PDS). Furthermore, an over-reliance on a cereal-heavy diet has caused an epidemic of 'hidden hunger' (micronutrient deficiency), resulting in alarming rates of stunting, wasting, and anemia among children and women.",
-        "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 2"
+        "text": "Deep-rooted agrarian distress, highly fragmented landholdings, and a lack of non-farm rural employment perpetually trap marginalized groups (SCs/STs) in cyclical poverty.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Discuss nutritional and distributional issues: Hunger in India is less about a lack of food production (India is food-surplus) and more about access and affordability.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Issues include massive post-harvest waste and leakages in the Public Distribution System (PDS).",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Furthermore, an over-reliance on a cereal-heavy diet has caused an epidemic of 'hidden hunger' (micronutrient deficiency), resulting in alarming rates of stunting, wasting, and anemia among children and women.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 6
       },
       {
         "section": "Conclusion",
         "text": "Conclude that eradicating these twin challenges requires transitioning from a caloric-focused food security model to a holistic nutritional security model, backed by robust labor-intensive industrialization.",
-        "order": 4,
+        "order": 7,
         "cite": "UPPSC Mains 2018 GS Paper 2"
       }
     ]
@@ -620,14 +836,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Clarify E-governance. Explain the features and advantages of E-governance. What are the main challenges before it? (Answer in 200 words)",
-    "is_structured": 1,
-    "last_updated": 1778970000,
-    "cite": "UPPSC Mains 2018 GS Paper 2",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 2",
+    "last_updated": 1778970000,
+    "is_structured": 1,
+    "question_text": "Clarify E-governance. Explain the features and advantages of E-governance. What are the main challenges before it? (Answer in 200 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -637,20 +861,38 @@
       },
       {
         "section": "Body",
-        "text": "Explain features and advantages: It features centralized data management and single-window service portals (like UMANG and e-District). The primary advantage is the elimination of bureaucratic red tape and middlemen, significantly curbing corruption. It provides 24/7 accessible governance and ensures precision in welfare delivery through Direct Benefit Transfers (DBT) and the JAM Trinity.",
-        "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 2"
+        "text": "Explain features and advantages: It features centralized data management and single-window service portals (like UMANG and e-District).",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 2
       },
       {
         "section": "Body",
-        "text": "Discuss the main challenges: The success of e-governance is severely bottlenecked by the digital divide—significant disparities in internet access and digital literacy between urban and rural populations, and between genders. Additionally, inadequate broadband infrastructure (delays in BharatNet), lack of localized vernacular content, and mounting threats to data privacy and cybersecurity pose critical hurdles.",
-        "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 2"
+        "text": "The primary advantage is the elimination of bureaucratic red tape and middlemen, significantly curbing corruption.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "It provides 24/7 accessible governance and ensures precision in welfare delivery through Direct Benefit Transfers (DBT) and the JAM Trinity.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the main challenges: The success of e-governance is severely bottlenecked by the digital divide—significant disparities in internet access and digital literacy between urban and rural populations, and between genders.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Additionally, inadequate broadband infrastructure (delays in BharatNet), lack of localized vernacular content, and mounting threats to data privacy and cybersecurity pose critical hurdles.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 6
       },
       {
         "section": "Conclusion",
         "text": "Conclude that for e-governance to genuinely translate into 'good governance,' the state must prioritize last-mile digital connectivity and robust data protection laws.",
-        "order": 4,
+        "order": 7,
         "cite": "UPPSC Mains 2018 GS Paper 2"
       }
     ]
@@ -661,14 +903,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "In the monsoon session of the Indian Parliament in 2019, Amendments were made in the anti-terror law and the Right to information Act. What are the significant changes as a result of these Amendments? Analyse. (Answer in 200 words)",
-    "is_structured": 1,
-    "last_updated": 1778970000,
-    "cite": "UPPSC Mains 2018 GS Paper 2",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 2",
+    "last_updated": 1778970000,
+    "is_structured": 1,
+    "question_text": "In the monsoon session of the Indian Parliament in 2019, Amendments were made in the anti-terror law and the Right to information Act. What are the significant changes as a result of these Amendments? Analyse. (Answer in 200 words)",
+    "subjectId": "justice",
+    "subjects": [
+      "Social Justice"
+    ],
+    "topic": "Social Justice",
+    "topics": [
+      "Social Justice"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -678,20 +928,38 @@
       },
       {
         "section": "Body",
-        "text": "Analyse the UAPA Amendment: The most significant change empowers the central government to designate 'individuals' as terrorists (previously, only organizations could be designated). It also expanded the powers of the NIA Director General to seize properties without state police permission. While this accelerates counter-terrorism actions against lone-wolf actors, critics argue it bypasses judicial scrutiny, threatens civil liberties, and encroaches upon federal police powers.",
-        "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 2"
+        "text": "Analyse the UAPA Amendment: The most significant change empowers the central government to designate 'individuals' as terrorists (previously, only organizations could be designated). It.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 2
       },
       {
         "section": "Body",
-        "text": "Analyse the RTI Amendment: This amendment removed the fixed five-year tenure and statutorily protected salaries of the Chief Information Commissioner and Information Commissioners (at both central and state levels). It empowered the central government to determine their terms of service on a case-by-case basis. Critics view this as a dilution of the institution's independence, making commissioners vulnerable to executive pressure.",
-        "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 2"
+        "text": "also expanded the powers of the NIA Director General to seize properties without state police permission. While this accelerates counter-terrorism actions against lone-wolf actors, critics argue it bypasses judicial scrutiny, threatens civil liberties, and encroaches upon federal police powers.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Analyse the RTI Amendment: This amendment removed the fixed five-year tenure and statutorily protected salaries of the Chief Information Commissioner and Information Commissioners (at both central and state levels).",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "It empowered the central government to determine their terms of service on a case-by-case basis.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Critics view this as a dilution of the institution's independence, making commissioners vulnerable to executive pressure.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 6
       },
       {
         "section": "Conclusion",
         "text": "Conclude that while the UAPA amendment sought to prioritize stringent national security, the RTI amendment raised serious concerns regarding the weakening of democratic transparency mechanisms.",
-        "order": 4,
+        "order": 7,
         "cite": "UPPSC Mains 2018 GS Paper 2"
       }
     ]
@@ -702,14 +970,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Examine Right to Equality as a Fundamental Right in the Constitution of India. (Answer in 200 words)",
-    "is_structured": 1,
-    "last_updated": 1778970000,
-    "cite": "UPPSC Mains 2018 GS Paper 2",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 2",
+    "last_updated": 1778970000,
+    "is_structured": 1,
+    "question_text": "Examine Right to Equality as a Fundamental Right in the Constitution of India. (Answer in 200 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -719,20 +995,44 @@
       },
       {
         "section": "Body",
-        "text": "Examine core legal equality (Articles 14, 15, 16): Article 14 guarantees equality before the law and equal protection of laws, prohibiting arbitrary state action. Article 15 prohibits discrimination on grounds of religion, race, caste, sex, or place of birth in public spaces. Article 16 guarantees equality of opportunity in public employment.",
-        "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 2"
+        "text": "Examine core legal equality (Articles 14, 15, 16): Article 14 guarantees equality before the law and equal protection of laws, prohibiting arbitrary state action.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 2
       },
       {
         "section": "Body",
-        "text": "Examine substantive equality and social justice (Articles 17 & 18): The Constitution recognizes that formal equality is insufficient in an unequal society. Hence, it allows 'protective discrimination' (reservations) for marginalized groups. Crucially, Article 17 abolishes the inhumane practice of untouchability, and Article 18 abolishes feudal titles, striking at the very roots of social stratification.",
-        "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 2"
+        "text": "Article 15 prohibits discrimination on grounds of religion, race, caste, sex, or place of birth in public spaces.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Article 16 guarantees equality of opportunity in public employment.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Examine substantive equality and social justice (Articles 17 & 18): The Constitution recognizes that formal equality is insufficient in an unequal society.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Hence, it allows 'protective discrimination' (reservations) for marginalized groups.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Crucially, Article 17 abolishes the inhumane practice of untouchability, and Article 18 abolishes feudal titles, striking at the very roots of social stratification.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 7
       },
       {
         "section": "Conclusion",
         "text": "Conclude that the Right to Equality in India is not a rigid mathematical concept of identical treatment, but a dynamic, progressive tool aimed at achieving substantive socio-economic justice.",
-        "order": 4,
+        "order": 8,
         "cite": "UPPSC Mains 2018 GS Paper 2"
       }
     ]
@@ -743,14 +1043,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Write a short note on the emergence and use of alternative dispute redressal mechanisms in India. (Answer in 200 words)",
-    "is_structured": 1,
-    "last_updated": 1778970000,
-    "cite": "UPPSC Mains 2018 GS Paper 2",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 2",
+    "last_updated": 1778970000,
+    "is_structured": 1,
+    "question_text": "Write a short note on the emergence and use of alternative dispute redressal mechanisms in India. (Answer in 200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Judiciary",
+    "topics": [
+      "Judiciary"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -766,14 +1074,20 @@
       },
       {
         "section": "Body",
-        "text": "Discuss use and advantages: ADR is extensively used for resolving commercial disputes, family/matrimonial matters, and petty civil cases. Its advantages are manifold: it is informal, speedy, highly cost-effective, and maintains confidentiality. Crucially, it replaces adversarial hostility with cooperative problem-solving, preserving relationships (e.g., Lok Adalat awards are final and non-appealable).",
-        "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 2"
+        "text": "Discuss use and advantages: ADR is extensively used for resolving commercial disputes, family/matrimonial matters, and petty civil cases. Its advantages are manifold: it is informal, speedy, highly cost-effective, and maintains confidentiality. Crucially, it replaces adversarial hostility with cooperative.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "problem-solving, preserving relationships (e.g., Lok Adalat awards are final and non-appealable).",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 4
       },
       {
         "section": "Conclusion",
         "text": "Conclude that mainstreaming ADR is absolutely essential for fulfilling the constitutional mandate of ensuring 'accessible and speedy justice for all' citizens.",
-        "order": 4,
+        "order": 5,
         "cite": "UPPSC Mains 2018 GS Paper 2"
       }
     ]
@@ -784,14 +1098,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Describe the composition and functions of Central Bureau of Investigation (C.B.I.) in India. (Answer in 200 words)",
-    "is_structured": 1,
-    "last_updated": 1778970000,
-    "cite": "UPPSC Mains 2018 GS Paper 2",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 2",
+    "last_updated": 1778970000,
+    "is_structured": 1,
+    "question_text": "Describe the composition and functions of Central Bureau of Investigation (C.B.I.) in India. (Answer in 200 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -801,20 +1123,32 @@
       },
       {
         "section": "Body",
-        "text": "Describe the composition: The CBI is headed by a Director, who is appointed based on the recommendation of a high-level committee comprising the Prime Minister, the Leader of the Opposition, and the Chief Justice of India, ensuring a fixed two-year tenure for independence. Structurally, it is divided into specialized divisions: Anti-Corruption, Economic Offences, and Special Crimes.",
-        "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 2"
+        "text": "Describe the composition: The CBI is headed by a Director, who is appointed based on the recommendation of a high-level committee comprising the Prime Minister, the Leader of the Opposition, and the Chief Justice of India, ensuring a fixed two-year tenure for independence.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 2
       },
       {
         "section": "Body",
-        "text": "Describe the functions: Its primary function is to investigate serious crimes related to corruption, bribery, and misconduct by Central Government employees. It also investigates complex multi-state economic frauds, bank scams, and high-profile conventional crimes (like murder or terrorism) when requested by a State Government or ordered by the Supreme Court/High Courts. Additionally, it acts as the nodal agency for Interpol in India.",
-        "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 2"
+        "text": "Structurally, it is divided into specialized divisions: Anti-Corruption, Economic Offences, and Special Crimes.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Describe the functions: Its primary function is to investigate serious crimes related to corruption, bribery, and misconduct by Central Government employees. It.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "also investigates complex multi-state economic frauds, bank scams, and high-profile conventional crimes (like murder or terrorism) when requested by a State Government or ordered by the Supreme Court/High Courts. Additionally, it acts as the nodal agency for Interpol in India.",
+        "cite": "UPPSC Mains 2018 GS Paper 2",
+        "order": 5
       },
       {
         "section": "Conclusion",
         "text": "Conclude that while the CBI is crucial for combating high-level graft, it requires greater statutory autonomy to shield it from political interference and shed the Supreme Court's critique of being a 'caged parrot.'",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2018 GS Paper 2"
       }
     ]

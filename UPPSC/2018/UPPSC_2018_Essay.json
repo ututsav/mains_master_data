@@ -5,14 +5,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "The social responsibilities of Literature.",
-    "is_structured": 1,
-    "last_updated": 1778968500,
-    "cite": "UPPSC Mains 2018 Essay",
     "q_number": "QA.1",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 Essay",
+    "last_updated": 1778968500,
+    "is_structured": 1,
+    "question_text": "The social responsibilities of Literature.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Hindi language is the symbol of National integrity.",
-    "is_structured": 1,
-    "last_updated": 1778968500,
-    "cite": "UPPSC Mains 2018 Essay",
     "q_number": "QA.2",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 Essay",
+    "last_updated": 1778968500,
+    "is_structured": 1,
+    "question_text": "Hindi language is the symbol of National integrity.",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Education and Moral values.",
-    "is_structured": 1,
-    "last_updated": 1778968500,
-    "cite": "UPPSC Mains 2018 Essay",
     "q_number": "QA.3",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 Essay",
+    "last_updated": 1778968500,
+    "is_structured": 1,
+    "question_text": "Education and Moral values.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Progress of India in the Space World.",
-    "is_structured": 1,
-    "last_updated": 1778968500,
-    "cite": "UPPSC Mains 2018 Essay",
     "q_number": "QB.1",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 Essay",
+    "last_updated": 1778968500,
+    "is_structured": 1,
+    "question_text": "Progress of India in the Space World.",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Mahatma Gandhi is still relevant today.",
-    "is_structured": 1,
-    "last_updated": 1778968500,
-    "cite": "UPPSC Mains 2018 Essay",
     "q_number": "QB.2",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 Essay",
+    "last_updated": 1778968500,
+    "is_structured": 1,
+    "question_text": "Mahatma Gandhi is still relevant today.",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Green Revolution is essential for life.",
-    "is_structured": 1,
-    "last_updated": 1778968500,
-    "cite": "UPPSC Mains 2018 Essay",
     "q_number": "QB.3",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 Essay",
+    "last_updated": 1778968500,
+    "is_structured": 1,
+    "question_text": "Green Revolution is essential for life.",
+    "subjectId": "world",
+    "subjects": [
+      "World History"
+    ],
+    "topic": "World History",
+    "topics": [
+      "World History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "The problem of Global Terrorism: causes and remedies.",
-    "is_structured": 1,
-    "last_updated": 1778968500,
-    "cite": "UPPSC Mains 2018 Essay",
     "q_number": "QC.1",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 Essay",
+    "last_updated": 1778968500,
+    "is_structured": 1,
+    "question_text": "The problem of Global Terrorism: causes and remedies.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "The Foreign Policy of India is based upon the principle of Peace and Equality.",
-    "is_structured": 1,
-    "last_updated": 1778968500,
-    "cite": "UPPSC Mains 2018 Essay",
     "q_number": "QC.2",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 Essay",
+    "last_updated": 1778968500,
+    "is_structured": 1,
+    "question_text": "The Foreign Policy of India is based upon the principle of Peace and Equality.",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "The Border Security Forces are the main factor of our National sovereignty.",
-    "is_structured": 1,
-    "last_updated": 1778968500,
-    "cite": "UPPSC Mains 2018 Essay",
     "q_number": "QC.3",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 Essay",
+    "last_updated": 1778968500,
+    "is_structured": 1,
+    "question_text": "The Border Security Forces are the main factor of our National sovereignty.",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

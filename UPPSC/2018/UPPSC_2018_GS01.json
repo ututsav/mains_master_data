@@ -5,14 +5,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Explain the role of Sardar Vallabhbhai Patel in the integration of Princely States of India.",
-    "is_structured": 1,
-    "last_updated": 1778968000,
-    "cite": "UPPSC Mains 2018 GS Paper 1",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 1",
+    "last_updated": 1778968000,
+    "is_structured": 1,
+    "question_text": "Explain the role of Sardar Vallabhbhai Patel in the integration of Princely States of India.",
+    "subjectId": "postindep",
+    "subjects": [
+      "Post-Independence"
+    ],
+    "topic": "Post-Independence",
+    "topics": [
+      "Post-Independence"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Describe the role of Buddhist literature in the creation of world peace.",
-    "is_structured": 1,
-    "last_updated": 1778968000,
-    "cite": "UPPSC Mains 2018 GS Paper 1",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 1",
+    "last_updated": 1778968000,
+    "is_structured": 1,
+    "question_text": "Describe the role of Buddhist literature in the creation of world peace.",
+    "subjectId": "ancient",
+    "subjects": [
+      "Ancient & Medieval"
+    ],
+    "topic": "Ancient History",
+    "topics": [
+      "Ancient History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Mahatma Gandhi represents the middle path approach in India Politics. Give logical explanation.",
-    "is_structured": 1,
-    "last_updated": 1778968000,
-    "cite": "UPPSC Mains 2018 GS Paper 1",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 1",
+    "last_updated": 1778968000,
+    "is_structured": 1,
+    "question_text": "Mahatma Gandhi represents the middle path approach in India Politics. Give logical explanation.",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "\"Communal violence is instigated by religious fanatics, initiated by anti-social elements, supported by political activists, financed by vested interests.\" Comment.",
-    "is_structured": 1,
-    "last_updated": 1778968000,
-    "cite": "UPPSC Mains 2018 GS Paper 1",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 1",
+    "last_updated": 1778968000,
+    "is_structured": 1,
+    "question_text": "\"Communal violence is instigated by religious fanatics, initiated by anti-social elements, supported by political activists, financed by vested interests.\" Comment.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Evaluate the changing status of women in India.",
-    "is_structured": 1,
-    "last_updated": 1778968000,
-    "cite": "UPPSC Mains 2018 GS Paper 1",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 1",
+    "last_updated": 1778968000,
+    "is_structured": 1,
+    "question_text": "Evaluate the changing status of women in India.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Women & Society",
+    "topics": [
+      "Women & Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Discuss the solution to urban problems.",
-    "is_structured": 1,
-    "last_updated": 1778968000,
-    "cite": "UPPSC Mains 2018 GS Paper 1",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 1",
+    "last_updated": 1778968000,
+    "is_structured": 1,
+    "question_text": "Discuss the solution to urban problems.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Urbanisation",
+    "topics": [
+      "Urbanisation"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Give an account of the minerals found in Uttar Pradesh.",
-    "is_structured": 1,
-    "last_updated": 1778968000,
-    "cite": "UPPSC Mains 2018 GS Paper 1",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 1",
+    "last_updated": 1778968000,
+    "is_structured": 1,
+    "question_text": "Give an account of the minerals found in Uttar Pradesh.",
+    "subjectId": "up-geo",
+    "subjects": [
+      "UP Geography & Environment"
+    ],
+    "topic": "UP Geography",
+    "topics": [
+      "UP Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Enumerate the core infrastructure elements for Smart City development.",
-    "is_structured": 1,
-    "last_updated": 1778968000,
-    "cite": "UPPSC Mains 2018 GS Paper 1",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 1",
+    "last_updated": 1778968000,
+    "is_structured": 1,
+    "question_text": "Enumerate the core infrastructure elements for Smart City development.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Urbanisation",
+    "topics": [
+      "Urbanisation"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Write a note on the Global Warming.",
-    "is_structured": 1,
-    "last_updated": 1778968000,
-    "cite": "UPPSC Mains 2018 GS Paper 1",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 1",
+    "last_updated": 1778968000,
+    "is_structured": 1,
+    "question_text": "Write a note on the Global Warming.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -374,14 +446,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Give a geographical account of Bundelkhand as a cultural region.",
-    "is_structured": 1,
-    "last_updated": 1778968000,
-    "cite": "UPPSC Mains 2018 GS Paper 1",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 1",
+    "last_updated": 1778968000,
+    "is_structured": 1,
+    "question_text": "Give a geographical account of Bundelkhand as a cultural region.",
+    "subjectId": "up-geo",
+    "subjects": [
+      "UP Geography & Environment"
+    ],
+    "topic": "UP Geography",
+    "topics": [
+      "UP Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -415,14 +495,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "\"The spine of Indian Economy was badly injured during the 200 years of British Rule.\" Explain.",
-    "is_structured": 1,
-    "last_updated": 1778968000,
-    "cite": "UPPSC Mains 2018 GS Paper 1",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 1",
+    "last_updated": 1778968000,
+    "is_structured": 1,
+    "question_text": "\"The spine of Indian Economy was badly injured during the 200 years of British Rule.\" Explain.",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -438,14 +526,26 @@
       },
       {
         "section": "Body",
-        "text": "Explain agrarian ruin and economic drain: Extortionate land revenue systems (Zamindari, Ryotwari) impoverished the peasantry. The forced commercialization of agriculture (indigo, jute) replaced food crops, triggering catastrophic, recurrent famines. Furthermore, the relentless 'Drain of Wealth' (via Home Charges and unfair trade) siphoned Indian capital to Britain, preventing domestic industrial investment.",
-        "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 1"
+        "text": "Explain agrarian ruin and economic drain: Extortionate land revenue systems (Zamindari, Ryotwari) impoverished the peasantry.",
+        "cite": "UPPSC Mains 2018 GS Paper 1",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "The forced commercialization of agriculture (indigo, jute) replaced food crops, triggering catastrophic, recurrent famines.",
+        "cite": "UPPSC Mains 2018 GS Paper 1",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Furthermore, the relentless 'Drain of Wealth' (via Home Charges and unfair trade) siphoned Indian capital to Britain, preventing domestic industrial investment.",
+        "cite": "UPPSC Mains 2018 GS Paper 1",
+        "order": 5
       },
       {
         "section": "Conclusion",
         "text": "Conclude that the British completely ruptured the symbiotic relationship between Indian agriculture and village industries, leaving behind a structurally paralyzed, impoverished, and underdeveloped economy at the time of independence.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2018 GS Paper 1"
       }
     ]
@@ -456,14 +556,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the role of Hitler in bringing about the Second World War.",
-    "is_structured": 1,
-    "last_updated": 1778968000,
-    "cite": "UPPSC Mains 2018 GS Paper 1",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 1",
+    "last_updated": 1778968000,
+    "is_structured": 1,
+    "question_text": "Discuss the role of Hitler in bringing about the Second World War.",
+    "subjectId": "world",
+    "subjects": [
+      "World History"
+    ],
+    "topic": "World History",
+    "topics": [
+      "World History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -497,14 +605,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "\"Revolt of 1857 was a turning point in Indian History\" Analyse.",
-    "is_structured": 1,
-    "last_updated": 1778968000,
-    "cite": "UPPSC Mains 2018 GS Paper 1",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 1",
+    "last_updated": 1778968000,
+    "is_structured": 1,
+    "question_text": "\"Revolt of 1857 was a turning point in Indian History\" Analyse.",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -514,20 +630,32 @@
       },
       {
         "section": "Body",
-        "text": "Analyze administrative and military shifts: It led to the outright abolition of the East India Company. Through the Government of India Act 1858, direct control was transferred to the British Crown. Militarily, the British fundamentally reorganized the army to prevent future mutinies, severely reducing the ratio of Indian to British soldiers and establishing martial and non-martial races.",
-        "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 1"
+        "text": "Analyze administrative and military shifts: It led to the outright abolition of the East India Company.",
+        "cite": "UPPSC Mains 2018 GS Paper 1",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Through the Government of India Act 1858, direct control was transferred to the British Crown.",
+        "cite": "UPPSC Mains 2018 GS Paper 1",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Militarily, the British fundamentally reorganized the army to prevent future mutinies, severely reducing the ratio of Indian to British soldiers and establishing martial and non-martial races.",
+        "cite": "UPPSC Mains 2018 GS Paper 1",
+        "order": 4
       },
       {
         "section": "Body",
         "text": "Analyze socio-political shifts: The British abandoned the aggressive annexation policies (Doctrine of Lapse) and promised to respect the rights of princely states. Socially, they halted progressive social reforms, choosing instead to ally with orthodox elements and systematically institutionalize the 'Divide and Rule' policy between Hindus and Muslims.",
-        "order": 3,
+        "order": 5,
         "cite": "UPPSC Mains 2018 GS Paper 1"
       },
       {
         "section": "Conclusion",
         "text": "Conclude that while the revolt failed to immediately overthrow colonial rule, it successfully planted the initial seeds of pan-Indian nationalism, ending the era of traditional territorial expansion and beginning the era of modern political struggle.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2018 GS Paper 1"
       }
     ]
@@ -538,14 +666,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "\"Secularism as an orientation and a set of practices is indispensable to India's future as a liberal democracy.\" Discuss.",
-    "is_structured": 1,
-    "last_updated": 1778968000,
-    "cite": "UPPSC Mains 2018 GS Paper 1",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 1",
+    "last_updated": 1778968000,
+    "is_structured": 1,
+    "question_text": "\"Secularism as an orientation and a set of practices is indispensable to India's future as a liberal democracy.\" Discuss.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -579,14 +715,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the impact of globalization on the status of women in Indian society by citing suitable examples.",
-    "is_structured": 1,
-    "last_updated": 1778968000,
-    "cite": "UPPSC Mains 2018 GS Paper 1",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 1",
+    "last_updated": 1778968000,
+    "is_structured": 1,
+    "question_text": "Discuss the impact of globalization on the status of women in Indian society by citing suitable examples.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Women & Society",
+    "topics": [
+      "Women & Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -602,14 +746,26 @@
       },
       {
         "section": "Body",
-        "text": "Discuss the negative impacts (Exploitation): Conversely, for women in the lower economic strata, it led to 'casualization' of labor. Millions are employed in exploitative, unregulated export-oriented units (e.g., garment sweatshops) without social security. Furthermore, globalization has amplified the commodification of women's bodies in media and intensified the 'double burden' of balancing professional work with unchanged domestic chores.",
-        "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 1"
+        "text": "Discuss the negative impacts (Exploitation): Conversely, for women in the lower economic strata, it led to 'casualization' of labor.",
+        "cite": "UPPSC Mains 2018 GS Paper 1",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Millions are employed in exploitative, unregulated export-oriented units (e.g., garment sweatshops) without social security.",
+        "cite": "UPPSC Mains 2018 GS Paper 1",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Furthermore, globalization has amplified the commodification of women's bodies in media and intensified the 'double burden' of balancing professional work with unchanged domestic chores.",
+        "cite": "UPPSC Mains 2018 GS Paper 1",
+        "order": 5
       },
       {
         "section": "Conclusion",
         "text": "Conclude that while globalization has broadened the horizons for urban, educated women, targeted state policies and skill development are urgently required to shield marginalized women from its predatory economic aspects.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2018 GS Paper 1"
       }
     ]
@@ -620,14 +776,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What is globalization? Discuss its impact on the social structure of India.",
-    "is_structured": 1,
-    "last_updated": 1778968000,
-    "cite": "UPPSC Mains 2018 GS Paper 1",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 1",
+    "last_updated": 1778968000,
+    "is_structured": 1,
+    "question_text": "What is globalization? Discuss its impact on the social structure of India.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -661,14 +825,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Give an account of the primary targets of Uttar Pradest Tourism Policy (2018).",
-    "is_structured": 1,
-    "last_updated": 1778968000,
-    "cite": "UPPSC Mains 2018 GS Paper 1",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 1",
+    "last_updated": 1778968000,
+    "is_structured": 1,
+    "question_text": "Give an account of the primary targets of Uttar Pradest Tourism Policy (2018).",
+    "subjectId": "up-history",
+    "subjects": [
+      "UP History & Culture"
+    ],
+    "topic": "UP Culture",
+    "topics": [
+      "UP Culture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -702,14 +874,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What is an air mass? Describe its chief characteristics.",
-    "is_structured": 1,
-    "last_updated": 1778968000,
-    "cite": "UPPSC Mains 2018 GS Paper 1",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 1",
+    "last_updated": 1778968000,
+    "is_structured": 1,
+    "question_text": "What is an air mass? Describe its chief characteristics.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -725,14 +905,20 @@
       },
       {
         "section": "Body",
-        "text": "Describe dynamic and boundary characteristics: When an air mass leaves its source region, it begins to modify the weather of the regions it travels over, while its own lower layers are simultaneously modified by the new terrain. The sharp, transitional boundary where two contrasting air masses collide is known as a 'front', which is the primary site of mid-latitude storm systems and varied precipitation.",
-        "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 1"
+        "text": "Describe dynamic and boundary characteristics: When an air mass leaves its source region, it begins to modify the weather of the regions it travels over, while its own lower layers are simultaneously modified by the new terrain.",
+        "cite": "UPPSC Mains 2018 GS Paper 1",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "The sharp, transitional boundary where two contrasting air masses collide is known as a 'front', which is the primary site of mid-latitude storm systems and varied precipitation.",
+        "cite": "UPPSC Mains 2018 GS Paper 1",
+        "order": 4
       },
       {
         "section": "Conclusion",
         "text": "Conclude that understanding the origin and movement of air masses is fundamentally critical for meteorological forecasting, as they dictate the macro-weather patterns across entire continents.",
-        "order": 4,
+        "order": 5,
         "cite": "UPPSC Mains 2018 GS Paper 1"
       }
     ]
@@ -743,14 +929,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "How are volcano, earthquake and tsunami related to each other? Highlight all the possible causes for volcanic eruptions.",
-    "is_structured": 1,
-    "last_updated": 1778968000,
-    "cite": "UPPSC Mains 2018 GS Paper 1",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 1",
+    "last_updated": 1778968000,
+    "is_structured": 1,
+    "question_text": "How are volcano, earthquake and tsunami related to each other? Highlight all the possible causes for volcanic eruptions.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -766,14 +960,20 @@
       },
       {
         "section": "Body",
-        "text": "Highlight causes for volcanic eruptions: The primary cause is plate tectonics: subduction at convergent boundaries creates magma chambers, while plate separation at divergent boundaries allows mantle material to well up. Other causes include the buildup of dissolved gas pressure inside a magma chamber forcing an explosive exit, and the presence of deep-mantle 'hotspots' that burn through crustal plates (e.g., Hawaii).",
-        "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 1"
+        "text": "Highlight causes for volcanic eruptions: The primary cause is plate tectonics: subduction at convergent boundaries creates magma chambers, while plate separation at divergent boundaries allows mantle material to well up.",
+        "cite": "UPPSC Mains 2018 GS Paper 1",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Other causes include the buildup of dissolved gas pressure inside a magma chamber forcing an explosive exit, and the presence of deep-mantle 'hotspots' that burn through crustal plates (e.g., Hawaii).",
+        "cite": "UPPSC Mains 2018 GS Paper 1",
+        "order": 4
       },
       {
         "section": "Conclusion",
         "text": "Conclude that this interconnected relationship is most visibly demonstrated along the 'Pacific Ring of Fire', an intensely active zone of continuous seismic and volcanic hazards.",
-        "order": 4,
+        "order": 5,
         "cite": "UPPSC Mains 2018 GS Paper 1"
       }
     ]
@@ -784,14 +984,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Mention the factors responsible for the origins of ocean currents and name the currents of the Atlantic Ocean.",
-    "is_structured": 1,
-    "last_updated": 1778968000,
-    "cite": "UPPSC Mains 2018 GS Paper 1",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 1",
+    "last_updated": 1778968000,
+    "is_structured": 1,
+    "question_text": "Mention the factors responsible for the origins of ocean currents and name the currents of the Atlantic Ocean.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -807,14 +1015,20 @@
       },
       {
         "section": "Body",
-        "text": "Name the currents of the Atlantic Ocean: The North Atlantic gyre consists of the warm North Equatorial Current, the warm Gulf Stream, the North Atlantic Drift, and the cold Canary Current. The South Atlantic features the warm South Equatorial Current, the warm Brazilian Current, the West Wind Drift, and the cold Benguela Current. The cold Labrador Current also flows south from the Arctic.",
-        "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 1"
+        "text": "Name the currents of the Atlantic Ocean: The North Atlantic gyre consists of the warm North Equatorial Current, the warm Gulf Stream, the North Atlantic Drift, and the cold Canary Current. The South Atlantic features the warm South Equatorial Current, the warm Brazilian Current, the West Wind Drift, and the cold Benguela Current. The cold Labrador Current.",
+        "cite": "UPPSC Mains 2018 GS Paper 1",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "also flows south from the Arctic.",
+        "cite": "UPPSC Mains 2018 GS Paper 1",
+        "order": 4
       },
       {
         "section": "Conclusion",
         "text": "Conclude that these ocean currents are the planet's primary mechanism for distributing immense thermal energy from the equator to the poles, critically stabilizing the global climate.",
-        "order": 4,
+        "order": 5,
         "cite": "UPPSC Mains 2018 GS Paper 1"
       }
     ]

@@ -5,14 +5,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Evaluate the effects of globalization on industrial development in India.",
-    "is_structured": 1,
-    "last_updated": 1778972000,
-    "cite": "UPPSC Mains 2018 GS Paper 3",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 3",
+    "last_updated": 1778972000,
+    "is_structured": 1,
+    "question_text": "Evaluate the effects of globalization on industrial development in India.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Describe the targets of energy generation through renewable energy sources in accordance with National Energy Policy 2017 drafted by NITI Aayog.",
-    "is_structured": 1,
-    "last_updated": 1778972000,
-    "cite": "UPPSC Mains 2018 GS Paper 3",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 3",
+    "last_updated": 1778972000,
+    "is_structured": 1,
+    "question_text": "Describe the targets of energy generation through renewable energy sources in accordance with National Energy Policy 2017 drafted by NITI Aayog.",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Energy",
+    "topics": [
+      "Energy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Throw light on the 'Pursuit of Sustainable Development Goals (SDGs) in India'.",
-    "is_structured": 1,
-    "last_updated": 1778972000,
-    "cite": "UPPSC Mains 2018 GS Paper 3",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 3",
+    "last_updated": 1778972000,
+    "is_structured": 1,
+    "question_text": "Throw light on the 'Pursuit of Sustainable Development Goals (SDGs) in India'.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Inclusive Growth",
+    "topics": [
+      "Inclusive Growth"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What is Pradhanmantri Kisan Sampada (SAMPADA) Yojana? Mention its objectives and provisions.",
-    "is_structured": 1,
-    "last_updated": 1778972000,
-    "cite": "UPPSC Mains 2018 GS Paper 3",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 3",
+    "last_updated": 1778972000,
+    "is_structured": 1,
+    "question_text": "What is Pradhanmantri Kisan Sampada (SAMPADA) Yojana? Mention its objectives and provisions.",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Food Security",
+    "topics": [
+      "Food Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What is meant by 'Technology Mission' in Indian agriculture? Discuss its objectives.",
-    "is_structured": 1,
-    "last_updated": 1778972000,
-    "cite": "UPPSC Mains 2018 GS Paper 3",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 3",
+    "last_updated": 1778972000,
+    "is_structured": 1,
+    "question_text": "What is meant by 'Technology Mission' in Indian agriculture? Discuss its objectives.",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What is Cyber Security Science? Mention its importance.",
-    "is_structured": 1,
-    "last_updated": 1778972000,
-    "cite": "UPPSC Mains 2018 GS Paper 3",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 3",
+    "last_updated": 1778972000,
+    "is_structured": 1,
+    "question_text": "What is Cyber Security Science? Mention its importance.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Discuss the fields in which the application of biotechnology are being done.",
-    "is_structured": 1,
-    "last_updated": 1778972000,
-    "cite": "UPPSC Mains 2018 GS Paper 3",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 3",
+    "last_updated": 1778972000,
+    "is_structured": 1,
+    "question_text": "Discuss the fields in which the application of biotechnology are being done.",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Discuss the corrective strategies needed to win the Left Wing Extremism (LWE) doctrine affected citizens back into the mainstream of social and economic growth.",
-    "is_structured": 1,
-    "last_updated": 1778972000,
-    "cite": "UPPSC Mains 2018 GS Paper 3",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 3",
+    "last_updated": 1778972000,
+    "is_structured": 1,
+    "question_text": "Discuss the corrective strategies needed to win the Left Wing Extremism (LWE) doctrine affected citizens back into the mainstream of social and economic growth.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Elaborate on the 'National Defence Council of India'.",
-    "is_structured": 1,
-    "last_updated": 1778972000,
-    "cite": "UPPSC Mains 2018 GS Paper 3",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 3",
+    "last_updated": 1778972000,
+    "is_structured": 1,
+    "question_text": "Elaborate on the 'National Defence Council of India'.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -350,20 +422,32 @@
       },
       {
         "section": "Body",
-        "text": "Elaborate on its structure: Established in 1998, it is headed by the Prime Minister. Key members include the Ministers of Home, Defence, External Affairs, and Finance. The National Security Advisor (NSA) serves as its chief executive, supported by the Strategic Policy Group and the National Security Advisory Board.",
-        "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 3"
+        "text": "Elaborate on its structure: Established in 1998, it is headed by the Prime Minister.",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Key members include the Ministers of Home, Defence, External Affairs, and Finance.",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "The National Security Advisor (NSA) serves as its chief executive, supported by the Strategic Policy Group and the National Security Advisory Board.",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 4
       },
       {
         "section": "Body",
         "text": "Elaborate on its functions: It provides a holistic, long-term, and multi-disciplinary perspective on national security, integrating inputs from external intelligence (RAW), internal security (IB), military affairs, and economic intelligence to formulate comprehensive strategic doctrines.",
-        "order": 3,
+        "order": 5,
         "cite": "UPPSC Mains 2018 GS Paper 3"
       },
       {
         "section": "Conclusion",
         "text": "Conclude that the apex security apparatus ensures that defense and strategic planning is handled with absolute civilian supremacy and inter-departmental synergy.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2018 GS Paper 3"
       }
     ]
@@ -374,14 +458,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What is the Public Private Partnership Model in defence?",
-    "is_structured": 1,
-    "last_updated": 1778972000,
-    "cite": "UPPSC Mains 2018 GS Paper 3",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 3",
+    "last_updated": 1778972000,
+    "is_structured": 1,
+    "question_text": "What is the Public Private Partnership Model in defence?",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -415,14 +507,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Examine the major provisions of U.P. Skill Development Mission. Mention the status of its implementation.",
-    "is_structured": 1,
-    "last_updated": 1778972000,
-    "cite": "UPPSC Mains 2018 GS Paper 3",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 3",
+    "last_updated": 1778972000,
+    "is_structured": 1,
+    "question_text": "Examine the major provisions of U.P. Skill Development Mission. Mention the status of its implementation.",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Economy",
+    "topics": [
+      "UP Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -438,14 +538,20 @@
       },
       {
         "section": "Body",
-        "text": "Mention implementation status and challenges: The mission has successfully enrolled and trained lakhs of youth, establishing training centers at the block level. However, challenges persist, such as lower-than-expected absorption of trained youth by industries, geographic disparity in training quality, and a lack of focus on advanced, future-ready skills (like AI or robotics).",
-        "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 3"
+        "text": "challenges: The mission has successfully enrolled and trained lakhs of youth, establishing training centers at the block level.",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "However, challenges persist, such as lower-than-expected absorption of trained youth by industries, geographic disparity in training quality, and a lack of focus on advanced, future-ready skills (like AI or robotics).",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 4
       },
       {
         "section": "Conclusion",
         "text": "Conclude that while UPSDM has created significant infrastructural capacity, aligning training strictly with modern industrial demand is crucial to translate certifications into actual livelihoods.",
-        "order": 4,
+        "order": 5,
         "cite": "UPPSC Mains 2018 GS Paper 3"
       }
     ]
@@ -456,14 +562,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Write a note on \"Problem of Equilibrium between Economic Development and Carbon Emission.\"",
-    "is_structured": 1,
-    "last_updated": 1778972000,
-    "cite": "UPPSC Mains 2018 GS Paper 3",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 3",
+    "last_updated": 1778972000,
+    "is_structured": 1,
+    "question_text": "Write a note on \"Problem of Equilibrium between Economic Development and Carbon Emission.\"",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -497,14 +611,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the provisions of National Food Security Act, 2013. What reforms are required to strengthen the food security? Explain.",
-    "is_structured": 1,
-    "last_updated": 1778972000,
-    "cite": "UPPSC Mains 2018 GS Paper 3",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 3",
+    "last_updated": 1778972000,
+    "is_structured": 1,
+    "question_text": "Discuss the provisions of National Food Security Act, 2013. What reforms are required to strengthen the food security? Explain.",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Food Security",
+    "topics": [
+      "Food Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -514,20 +636,32 @@
       },
       {
         "section": "Body",
-        "text": "Discuss core provisions: Eligible households under the Targeted Public Distribution System (TPDS) receive 5 kg of foodgrains per person per month at highly subsidized rates (Rs. 3/2/1 for rice/wheat/coarse grains). It specifically includes life-cycle nutritional support for pregnant women, lactating mothers, and children (via ICDS and Mid-Day Meals), and provides maternity benefits.",
-        "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 3"
+        "text": "Discuss core provisions: Eligible households under the Targeted Public Distribution System (TPDS) receive 5 kg of foodgrains per person per month at highly subsidized rates (Rs. 3/2/1 for rice/wheat/coarse grains).",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 2
       },
       {
         "section": "Body",
-        "text": "Explain required reforms: The system suffers from massive inclusion/exclusion errors and ghost beneficiaries. Reforms needed include end-to-end computerization of the PDS, implementing bio-metric authentication (like One Nation One Ration Card), and shifting focus from merely providing cereal-based calories to providing nutritional security through bio-fortification and inclusion of pulses and edible oils.",
-        "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 3"
+        "text": "It specifically includes life-cycle nutritional support for pregnant women, lactating mothers, and children (via ICDS and Mid-Day Meals), and provides maternity benefits.",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Explain required reforms: The system suffers from massive inclusion/exclusion errors and ghost beneficiaries.",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Reforms needed include end-to-end computerization of the PDS, implementing bio-metric authentication (like One Nation One Ration Card), and shifting focus from merely providing cereal-based calories to providing nutritional security through bio-fortification and inclusion of pulses and edible oils.",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 5
       },
       {
         "section": "Conclusion",
         "text": "Conclude that while NFSA effectively shields millions from starvation, technological integration and dietary diversification are essential to permanently eradicate malnutrition and hidden hunger.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2018 GS Paper 3"
       }
     ]
@@ -538,14 +672,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "\"Micro, Small and Medium Enterprises (MSMEs) are the drivers of economic growth and employment proliferation in India.\" Examine this statement.",
-    "is_structured": 1,
-    "last_updated": 1778972000,
-    "cite": "UPPSC Mains 2018 GS Paper 3",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 3",
+    "last_updated": 1778972000,
+    "is_structured": 1,
+    "question_text": "\"Micro, Small and Medium Enterprises (MSMEs) are the drivers of economic growth and employment proliferation in India.\" Examine this statement.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -579,14 +721,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Explain the inter-regional disparities in economic devlopment of Uttar Pradesh and discuss the factors acting as obstacles in the development of backward regions.",
-    "is_structured": 1,
-    "last_updated": 1778972000,
-    "cite": "UPPSC Mains 2018 GS Paper 3",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 3",
+    "last_updated": 1778972000,
+    "is_structured": 1,
+    "question_text": "Explain the inter-regional disparities in economic devlopment of Uttar Pradesh and discuss the factors acting as obstacles in the development of backward regions.",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Economy",
+    "topics": [
+      "UP Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -596,20 +746,32 @@
       },
       {
         "section": "Body",
-        "text": "Explain the disparities: Western UP benefits immensely from proximity to the NCR, better irrigation (Green Revolution legacy), and robust industrial clusters (Noida, Meerut). In contrast, Purvanchal is characterized by a high population density, fragmented landholdings, and a lack of large industries. Bundelkhand suffers from rugged terrain and recurrent, severe droughts.",
-        "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 3"
+        "text": "Explain the disparities: Western UP benefits immensely from proximity to the NCR, better irrigation (Green Revolution legacy), and robust industrial clusters (Noida, Meerut).",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "In contrast, Purvanchal is characterized by a high population density, fragmented landholdings, and a lack of large industries.",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Bundelkhand suffers from rugged terrain and recurrent, severe droughts.",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 4
       },
       {
         "section": "Body",
         "text": "Discuss the obstacles in backward regions: Key factors include historical neglect of physical infrastructure (roads, reliable electricity), poor human capital development (low health and educational outcomes), geographical disadvantages (floods in the East, droughts in the South), and an inability to attract significant private investment.",
-        "order": 3,
+        "order": 5,
         "cite": "UPPSC Mains 2018 GS Paper 3"
       },
       {
         "section": "Conclusion",
         "text": "Conclude that the state is actively trying to bridge this gap through massive infrastructural interventions, such as the Purvanchal and Bundelkhand Expressways, and decentralized schemes like ODOP.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2018 GS Paper 3"
       }
     ]
@@ -620,14 +782,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What is TIFAC (Technology Information Forecasting and Assessment Council), give its mandate. Enlist the upcoming technologies in India by 2020 in I.T. sector.",
-    "is_structured": 1,
-    "last_updated": 1778972000,
-    "cite": "UPPSC Mains 2018 GS Paper 3",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 3",
+    "last_updated": 1778972000,
+    "is_structured": 1,
+    "question_text": "What is TIFAC (Technology Information Forecasting and Assessment Council), give its mandate. Enlist the upcoming technologies in India by 2020 in I.T. sector.",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -661,14 +831,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Mention the earmarked fields, aim and special powers provided to Indian citizens in Technology Vision Document 2035.",
-    "is_structured": 1,
-    "last_updated": 1778972000,
-    "cite": "UPPSC Mains 2018 GS Paper 3",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 3",
+    "last_updated": 1778972000,
+    "is_structured": 1,
+    "question_text": "Mention the earmarked fields, aim and special powers provided to Indian citizens in Technology Vision Document 2035.",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -702,14 +880,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the challenges of National Security in the age of Globalization.",
-    "is_structured": 1,
-    "last_updated": 1778972000,
-    "cite": "UPPSC Mains 2018 GS Paper 3",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 3",
+    "last_updated": 1778972000,
+    "is_structured": 1,
+    "question_text": "Discuss the challenges of National Security in the age of Globalization.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -719,20 +905,26 @@
       },
       {
         "section": "Body",
-        "text": "Discuss non-traditional and cyber threats: Open borders and global financial networks facilitate transnational organized crime, including human trafficking, money laundering, and narco-terrorism. Cyberspace has become a new theater of war, where state and non-state actors engage in cyber-espionage, data theft, and crippling attacks on critical national infrastructure (power, banking) without firing a bullet.",
-        "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 3"
+        "text": "Discuss non-traditional and cyber threats: Open borders and global financial networks facilitate transnational organized crime, including human trafficking, money laundering, and narco-terrorism.",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Cyberspace has become a new theater of war, where state and non-state actors engage in cyber-espionage, data theft, and crippling attacks on critical national infrastructure (power, banking) without firing a bullet.",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 3
       },
       {
         "section": "Body",
         "text": "Discuss ideological and economic threats: The internet allows for borderless 'lone-wolf' radicalization and the rapid spread of fake news/propaganda, inciting communal and ethnic unrest from afar. Economically, over-dependence on global supply chains (e.g., electronic hardware or active pharmaceutical ingredients) leaves the nation vulnerable to external economic shocks and blackmail.",
-        "order": 3,
+        "order": 4,
         "cite": "UPPSC Mains 2018 GS Paper 3"
       },
       {
         "section": "Conclusion",
         "text": "Conclude that in the globalized era, physical border defense must be aggressively supplemented by robust cybersecurity protocols, international intelligence sharing, and economic self-reliance (Aatmanirbharta).",
-        "order": 4,
+        "order": 5,
         "cite": "UPPSC Mains 2018 GS Paper 3"
       }
     ]
@@ -743,14 +935,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the disaster management in India at the Centre, State and District levels.",
-    "is_structured": 1,
-    "last_updated": 1778972000,
-    "cite": "UPPSC Mains 2018 GS Paper 3",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 3",
+    "last_updated": 1778972000,
+    "is_structured": 1,
+    "question_text": "Discuss the disaster management in India at the Centre, State and District levels.",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Disaster Management",
+    "topics": [
+      "Disaster Management"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -760,20 +960,32 @@
       },
       {
         "section": "Body",
-        "text": "Discuss Centre and State levels: At the Centre, the National Disaster Management Authority (NDMA), chaired by the Prime Minister, formulates broad national policies. It is supported by the specialized National Disaster Response Force (NDRF). At the State level, the State Disaster Management Authority (SDMA), headed by the Chief Minister, contextualizes these policies and oversees state-level response operations.",
-        "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 3"
+        "text": "Discuss Centre and State levels: At the Centre, the National Disaster Management Authority (NDMA), chaired by the Prime Minister, formulates broad national policies.",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "It is supported by the specialized National Disaster Response Force (NDRF).",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "At the State level, the State Disaster Management Authority (SDMA), headed by the Chief Minister, contextualizes these policies and oversees state-level response operations.",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 4
       },
       {
         "section": "Body",
         "text": "Discuss District level and execution: The District Disaster Management Authority (DDMA), headed by the District Magistrate, is the operational fulcrum of the entire system. It acts as the actual first responder, executing evacuation plans, coordinating with local civic bodies, and managing relief camps.",
-        "order": 3,
+        "order": 5,
         "cite": "UPPSC Mains 2018 GS Paper 3"
       },
       {
         "section": "Conclusion",
         "text": "Conclude that while this hierarchical structure is well-defined, enhancing the capacity and funding of the lower tiers (districts and local panchayats) is essential for effective, localized disaster resilience.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2018 GS Paper 3"
       }
     ]
@@ -784,14 +996,22 @@
     "year": 2018,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Write a note on the challenges and their solutions for Law and Order in Uttar Pradesh at the present time.",
-    "is_structured": 1,
-    "last_updated": 1778972000,
-    "cite": "UPPSC Mains 2018 GS Paper 3",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2018 GS Paper 3",
+    "last_updated": 1778972000,
+    "is_structured": 1,
+    "question_text": "Write a note on the challenges and their solutions for Law and Order in Uttar Pradesh at the present time.",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Polity",
+    "topics": [
+      "UP Polity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -801,20 +1021,32 @@
       },
       {
         "section": "Body",
-        "text": "Discuss the challenges: Historical challenges include the presence of organized crime syndicates (mafias), illegal sand/mining networks, and the politicization of the police force. Social challenges include frequent communal sensitivities, caste-based violence, and a concerning rate of crimes against women. Administratively, the state suffers from a low police-to-population ratio and outdated investigative technology.",
-        "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 3"
+        "text": "challenges include the presence of organized crime syndicates (mafias), illegal sand/mining networks, and the politicization of the police force. Social.",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 2
       },
       {
         "section": "Body",
-        "text": "Discuss the solutions: The state has recently implemented the Police Commissionerate system in major cities (like Lucknow and Noida) to enable swift decision-making. Solutions require insulating police from political interference, extensive modernization of forensics and cyber-cells, boosting community policing (e.g., Anti-Romeo squads, UP-112 integration), and enforcing strict crackdowns on organized crime properties.",
-        "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 3"
+        "text": "challenges include frequent communal sensitivities, caste-based violence, and a concerning rate of crimes against women. Administratively, the state suffers from a low police-to-population ratio and outdated investigative technology.",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Discuss the solutions: The state has recently implemented the Police Commissionerate system in major cities (like Lucknow and Noida) to enable swift decision-making.",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Solutions require insulating police from political interference, extensive modernization of forensics and cyber-cells, boosting community policing (e.g., Anti-Romeo squads, UP-112 integration), and enforcing strict crackdowns on organized crime properties.",
+        "cite": "UPPSC Mains 2018 GS Paper 3",
+        "order": 5
       },
       {
         "section": "Conclusion",
         "text": "Conclude that establishing an unshakable rule of law is not merely a policing issue but the fundamental base upon which UP's ambitions of attracting global investments and industrial growth rest.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2018 GS Paper 3"
       }
     ]
