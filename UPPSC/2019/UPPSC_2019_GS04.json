@@ -5,14 +5,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What is ethics? Explain its role in human life.",
-    "is_structured": 1,
-    "last_updated": 1778966500,
-    "cite": "UPPSC Mains 2019 GS Paper 4",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 4",
+    "last_updated": 1778966500,
+    "is_structured": 1,
+    "question_text": "What is ethics? Explain its role in human life.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What is the process of strengthening the moral values? Whether strengthening of moral values help in character building? Discuss.",
-    "is_structured": 1,
-    "last_updated": 1778966500,
-    "cite": "UPPSC Mains 2019 GS Paper 4",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 4",
+    "last_updated": 1778966500,
+    "is_structured": 1,
+    "question_text": "What is the process of strengthening the moral values? Whether strengthening of moral values help in character building? Discuss.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Attitude",
+    "topics": [
+      "Attitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Write short notes on: A) Ethical respondibilities of public servant. B) Public interest and the right to information.",
-    "is_structured": 0,
-    "last_updated": 1778966500,
-    "cite": "UPPSC Mains 2019 GS Paper 4",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 4",
+    "last_updated": 1778966500,
+    "is_structured": 0,
+    "question_text": "Write short notes on: A) Ethical respondibilities of public servant. B) Public interest and the right to information.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -116,14 +140,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What is universal religion? Discuss its major elements.",
-    "is_structured": 1,
-    "last_updated": 1778966500,
-    "cite": "UPPSC Mains 2019 GS Paper 4",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 4",
+    "last_updated": 1778966500,
+    "is_structured": 1,
+    "question_text": "What is universal religion? Discuss its major elements.",
+    "subjectId": "thinkers",
+    "subjects": [
+      "Thinkers"
+    ],
+    "topic": "Thinkers",
+    "topics": [
+      "Thinkers"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -157,14 +189,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Consider the non-cooperation movement of Gandhi from the philosophical point of view.",
-    "is_structured": 1,
-    "last_updated": 1778966500,
-    "cite": "UPPSC Mains 2019 GS Paper 4",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 4",
+    "last_updated": 1778966500,
+    "is_structured": 1,
+    "question_text": "Consider the non-cooperation movement of Gandhi from the philosophical point of view.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Civil Service Values",
+    "topics": [
+      "Civil Service Values"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -198,14 +238,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Differentiate between democratic attitude and bureaucratic attitude of public servants.",
-    "is_structured": 1,
-    "last_updated": 1778966500,
-    "cite": "UPPSC Mains 2019 GS Paper 4",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 4",
+    "last_updated": 1778966500,
+    "is_structured": 1,
+    "question_text": "Differentiate between democratic attitude and bureaucratic attitude of public servants.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Probity",
+    "topics": [
+      "Probity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -239,14 +287,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Explain the merits and demerits of persuasion in relation to public protest.",
-    "is_structured": 1,
-    "last_updated": 1778966500,
-    "cite": "UPPSC Mains 2019 GS Paper 4",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 4",
+    "last_updated": 1778966500,
+    "is_structured": 1,
+    "question_text": "Explain the merits and demerits of persuasion in relation to public protest.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Corruption",
+    "topics": [
+      "Corruption"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -280,14 +336,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Examine the relevance of the following in the context of civil services: A) Transparency B) Accountability C) Courage of conviction",
-    "is_structured": 0,
-    "last_updated": 1778966500,
-    "cite": "UPPSC Mains 2019 GS Paper 4",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 4",
+    "last_updated": 1778966500,
+    "is_structured": 0,
+    "question_text": "Examine the relevance of the following in the context of civil services: A) Transparency B) Accountability C) Courage of conviction",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Integrity",
+    "topics": [
+      "Integrity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -315,14 +379,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "We are witnesing increasing instances of sexual violence against woman in the country. Despite legal provisions against it, the number of such incidences are increasing. Suggest some innovative measuress to tackle this menace.",
-    "is_structured": 1,
-    "last_updated": 1778966500,
-    "cite": "UPPSC Mains 2019 GS Paper 4",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 4",
+    "last_updated": 1778966500,
+    "is_structured": 1,
+    "question_text": "We are witnesing increasing instances of sexual violence against woman in the country. Despite legal provisions against it, the number of such incidences are increasing. Suggest some innovative measuress to tackle this menace.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -356,14 +428,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "You are an honest and responsible civil servant. You often observe the following: A) There is a genral perception that adhering to ethical conduct may face difficulties to yourself and cause problem for the family, whereas unfair practices may help to reach the career goals. B) When the number of people adopting unfair means is large, a small minority having statements with their merits and demerits.",
-    "is_structured": 1,
-    "last_updated": 1778966500,
-    "cite": "UPPSC Mains 2019 GS Paper 4",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 4",
+    "last_updated": 1778966500,
+    "is_structured": 1,
+    "question_text": "You are an honest and responsible civil servant. You often observe the following: A) There is a genral perception that adhering to ethical conduct may face difficulties to yourself and cause problem for the family, whereas unfair practices may help to reach the career goals. B) When the number of people adopting unfair means is large, a small minority having statements with their merits and demerits.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -373,20 +453,38 @@
       },
       {
         "section": "Body",
-        "text": "Addressing Point A (Difficulties vs. Career Goals): While unethical conduct might yield short-term, superficial career gains, it destroys an officer's inner conscience, sets a poor moral example for their family, and carries the perpetual risk of legal disgrace and imprisonment. True, lasting professional respect and peace of mind are achieved exclusively through integrity.",
-        "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 4"
+        "text": "Addressing Point A (Difficulties vs. Career Goals): While unethical conduct might yield short-term, superficial career gains, it destroys an officer's inner conscience, sets a poor moral.",
+        "cite": "UPPSC Mains 2019 GS Paper 4",
+        "order": 2
       },
       {
         "section": "Body",
-        "text": "Addressing Point B (Minority impact vs. Majority corruption): Morality is not decided by majority consensus. Even if corrupt individuals form the majority, a single honest officer (acting as a whistleblower or a firm obstacle) can disrupt a corrupt ecosystem and inspire public confidence. As Gandhi stated, 'Even if you are a minority of one, the truth is the truth.'",
-        "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 4"
+        "text": "example for their family, and carries the perpetual risk of legal disgrace and imprisonment. True, lasting professional respect and peace of mind are achieved exclusively through integrity.",
+        "cite": "UPPSC Mains 2019 GS Paper 4",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Addressing Point B (Minority impact vs. Majority corruption): Morality is not decided by majority consensus.",
+        "cite": "UPPSC Mains 2019 GS Paper 4",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Even if corrupt individuals form the majority, a single honest officer (acting as a whistleblower or a firm obstacle) can disrupt a corrupt ecosystem and inspire public confidence.",
+        "cite": "UPPSC Mains 2019 GS Paper 4",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "As Gandhi stated, 'Even if you are a minority of one, the truth is the truth.'.",
+        "cite": "UPPSC Mains 2019 GS Paper 4",
+        "order": 6
       },
       {
         "section": "Conclusion",
         "text": "Conclude that as a responsible civil servant, I remain committed to Kantian duty—acting ethically because it is inherently the right thing to do, utterly refusing to succumb to moral relativism.",
-        "order": 4,
+        "order": 7,
         "cite": "UPPSC Mains 2019 GS Paper 4"
       }
     ]
@@ -397,14 +495,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "\"Religious bigotry has always been an obstacle for progress in any democratic country.\" Discuss.",
-    "is_structured": 1,
-    "last_updated": 1778966500,
-    "cite": "UPPSC Mains 2019 GS Paper 4",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 4",
+    "last_updated": 1778966500,
+    "is_structured": 1,
+    "question_text": "\"Religious bigotry has always been an obstacle for progress in any democratic country.\" Discuss.",
+    "subjectId": "thinkers",
+    "subjects": [
+      "Thinkers"
+    ],
+    "topic": "Thinkers",
+    "topics": [
+      "Thinkers"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -438,14 +544,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Examine the role of social and political ideas of Karl Marx in the field of contemporary public services.",
-    "is_structured": 1,
-    "last_updated": 1778966500,
-    "cite": "UPPSC Mains 2019 GS Paper 4",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 4",
+    "last_updated": 1778966500,
+    "is_structured": 1,
+    "question_text": "Examine the role of social and political ideas of Karl Marx in the field of contemporary public services.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Civil Service Values",
+    "topics": [
+      "Civil Service Values"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -479,14 +593,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "How far Gita's Niskam Karmayoga can be helpful in preventing the increading events of depression and suicide? Discuss.",
-    "is_structured": 1,
-    "last_updated": 1778966500,
-    "cite": "UPPSC Mains 2019 GS Paper 4",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 4",
+    "last_updated": 1778966500,
+    "is_structured": 1,
+    "question_text": "How far Gita's Niskam Karmayoga can be helpful in preventing the increading events of depression and suicide? Discuss.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Attitude",
+    "topics": [
+      "Attitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -520,14 +642,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What are the seven principles of public life? Are they codes of conduct for civil servants? Evaluate.",
-    "is_structured": 1,
-    "last_updated": 1778966500,
-    "cite": "UPPSC Mains 2019 GS Paper 4",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 4",
+    "last_updated": 1778966500,
+    "is_structured": 1,
+    "question_text": "What are the seven principles of public life? Are they codes of conduct for civil servants? Evaluate.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Probity",
+    "topics": [
+      "Probity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -543,14 +673,20 @@
       },
       {
         "section": "Body",
-        "text": "Evaluate if they are a 'Code of Conduct': They are not strictly enforceable, punitive 'Codes of Conduct' (which dictate specific legal rules like office hours, asset declarations, or accepting gifts). Instead, they are 'Codes of Ethics'—overarching normative guidelines and moral ideals. However, they form the crucial philosophical basis upon which specific conduct rules are drafted.",
-        "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 4"
+        "text": "Evaluate if they are a 'Code of Conduct': They are not strictly enforceable, punitive 'Codes of Conduct' (which dictate specific legal rules like office hours, asset declarations, or accepting gifts). Instead, they are 'Codes of Ethics'—overarching normative guidelines and moral ideals.",
+        "cite": "UPPSC Mains 2019 GS Paper 4",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "However, they form the crucial philosophical basis upon which specific conduct rules are drafted.",
+        "cite": "UPPSC Mains 2019 GS Paper 4",
+        "order": 4
       },
       {
         "section": "Conclusion",
         "text": "Conclude that these principles foster a culture of profound probity, ensuring civil servants act as moral agents with a strong internal compass, rather than just mechanical rule-followers.",
-        "order": 4,
+        "order": 5,
         "cite": "UPPSC Mains 2019 GS Paper 4"
       }
     ]
@@ -561,14 +697,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "You are trying to become a P.C.S. officer and after clearing various stages now you are elegible for the personal inteview. While going to appear the interview. you saw that an elderly man is going somewhere with his grand daughter. Suddenly he gets a heart attack in front of you. The grand-daughter of elderly man comes pleading for help. What will you do? Discuss in detail.",
-    "is_structured": 1,
-    "last_updated": 1778966500,
-    "cite": "UPPSC Mains 2019 GS Paper 4",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 4",
+    "last_updated": 1778966500,
+    "is_structured": 1,
+    "question_text": "You are trying to become a P.C.S. officer and after clearing various stages now you are elegible for the personal inteview. While going to appear the interview. you saw that an elderly man is going somewhere with his grand daughter. Suddenly he gets a heart attack in front of you. The grand-daughter of elderly man comes pleading for help. What will you do? Discuss in detail.",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -602,14 +746,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "It is often said that poverty leads to corruption. However, there is no dearth of instances where affluent and powerful people indulge in corruption in a big way. What are the main causes of corruption among people? Support your answer with examples.",
-    "is_structured": 1,
-    "last_updated": 1778966500,
-    "cite": "UPPSC Mains 2019 GS Paper 4",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 4",
+    "last_updated": 1778966500,
+    "is_structured": 1,
+    "question_text": "It is often said that poverty leads to corruption. However, there is no dearth of instances where affluent and powerful people indulge in corruption in a big way. What are the main causes of corruption among people? Support your answer with examples.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Corruption",
+    "topics": [
+      "Corruption"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -643,14 +795,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Is there any role of empaty in public services? Explain your views with sultable example.",
-    "is_structured": 1,
-    "last_updated": 1778966500,
-    "cite": "UPPSC Mains 2019 GS Paper 4",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 4",
+    "last_updated": 1778966500,
+    "is_structured": 1,
+    "question_text": "Is there any role of empaty in public services? Explain your views with sultable example.",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -684,14 +844,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the utility of emotional Intelligence in administration.",
-    "is_structured": 1,
-    "last_updated": 1778966500,
-    "cite": "UPPSC Mains 2019 GS Paper 4",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 4",
+    "last_updated": 1778966500,
+    "is_structured": 1,
+    "question_text": "Discuss the utility of emotional Intelligence in administration.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -725,14 +893,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What factors the formation of a person's attitude towards social problems? Support your answer with examples.",
-    "is_structured": 1,
-    "last_updated": 1778966500,
-    "cite": "UPPSC Mains 2019 GS Paper 4",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 4",
+    "last_updated": 1778966500,
+    "is_structured": 1,
+    "question_text": "What factors the formation of a person's attitude towards social problems? Support your answer with examples.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -766,14 +942,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Meenu Keeps tellihng her friends that she is fond of social sevice. Her friends notics that she, however, does not participate in any social welfare activities. One of her friends's father is associated with a Non-Government Orgisation (NGO) and he frequently organises social welfare activities such as free distribution fo clothes and medicines to the poor segments of the society. Meenu's friend asked her many times to contribute some time for thet NGO but Meenu showed no interest. What probable explanations can be given for Meenu's conduct? Justify psychologically.",
-    "is_structured": 1,
-    "last_updated": 1778966500,
-    "cite": "UPPSC Mains 2019 GS Paper 4",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 4",
+    "last_updated": 1778966500,
+    "is_structured": 1,
+    "question_text": "Meenu Keeps tellihng her friends that she is fond of social sevice. Her friends notics that she, however, does not participate in any social welfare activities. One of her friends's father is associated with a Non-Government Orgisation (NGO) and he frequently organises social welfare activities such as free distribution fo clothes and medicines to the poor segments of the society. Meenu's friend asked her many times to contribute some time for thet NGO but Meenu showed no interest. What probable explanations can be given for Meenu's conduct? Justify psychologically.",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -789,14 +973,20 @@
       },
       {
         "section": "Body",
-        "text": "Psychological Explanation 2 (Lack of Behavioral Intent & Cognitive Dissonance avoidance): As per the CAB (Cognitive, Affective, Behavioral) model, she may have the cognitive/affective liking for the *idea* of social service, but lacks the behavioral intent because real social work requires high effort, time, and discomfort. She avoids the NGO because facing the harsh realities of poverty might cause psychological distress or cognitive dissonance.",
-        "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 4"
+        "text": "Psychological Explanation 2 (Lack of Behavioral Intent & Cognitive Dissonance avoidance): As per the CAB (Cognitive, Affective, Behavioral) model, she may have the cognitive/affective liking for the *idea* of social service, but lacks the behavioral intent because real social work requires high effort, time, and discomfort.",
+        "cite": "UPPSC Mains 2019 GS Paper 4",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "She avoids the NGO because facing the harsh realities of poverty might cause psychological distress or cognitive dissonance.",
+        "cite": "UPPSC Mains 2019 GS Paper 4",
+        "order": 4
       },
       {
         "section": "Conclusion",
         "text": "Conclude that Meenu's conduct demonstrates that an attitude does not automatically translate into action unless all three components of the attitude are strongly aligned and backed by genuine intrinsic motivation.",
-        "order": 4,
+        "order": 5,
         "cite": "UPPSC Mains 2019 GS Paper 4"
       }
     ]

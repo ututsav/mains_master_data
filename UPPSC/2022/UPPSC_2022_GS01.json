@@ -5,14 +5,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Describe the salient features of Mauryan Art and Architecture.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 1",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Describe the salient features of Mauryan Art and Architecture.",
+    "subjectId": "ancient",
+    "subjects": [
+      "Ancient & Medieval"
+    ],
+    "topic": "Ancient Culture",
+    "topics": [
+      "Ancient Culture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Throw light on the nature of Renaissance in Uttar Pradesh in the 19th Century.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 1",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Throw light on the nature of Renaissance in Uttar Pradesh in the 19th Century.",
+    "subjectId": "up-history",
+    "subjects": [
+      "UP History & Culture"
+    ],
+    "topic": "UP Modern History",
+    "topics": [
+      "UP Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Illustrate the contributions of nationalist leader Bal Gangadhar Tilak in the struggle for the freedom of press.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 1",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Illustrate the contributions of nationalist leader Bal Gangadhar Tilak in the struggle for the freedom of press.",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Discuss the causes of population explosion in India and give suggestion to combat this problem.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 1",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Discuss the causes of population explosion in India and give suggestion to combat this problem.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Population",
+    "topics": [
+      "Population"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Evaluate the role of Information Technology and Internet in social empowerment.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 1",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Evaluate the role of Information Technology and Internet in social empowerment.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "When poverty is transmitted over generations it becomes a culture. Elucidate.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 1",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "When poverty is transmitted over generations it becomes a culture. Elucidate.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Poverty & Society",
+    "topics": [
+      "Poverty & Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What is 'Heritage Arch'? Underline its importance in Uttar Pradesh in terms of tourism potential.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 1",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "What is 'Heritage Arch'? Underline its importance in Uttar Pradesh in terms of tourism potential.",
+    "subjectId": "up-history",
+    "subjects": [
+      "UP History & Culture"
+    ],
+    "topic": "UP Culture",
+    "topics": [
+      "UP Culture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What is 'Smart City Mission'? Discuss the main characteristics of cities of Eastern Uttar Pradesh selected under this scheme.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 1",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "What is 'Smart City Mission'? Discuss the main characteristics of cities of Eastern Uttar Pradesh selected under this scheme.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Urbanisation",
+    "topics": [
+      "Urbanisation"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Give an account of Irrigation Projects of Uttar Pradesh in detail with suitable examples.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 1",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Give an account of Irrigation Projects of Uttar Pradesh in detail with suitable examples.",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Agriculture",
+    "topics": [
+      "UP Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -374,14 +446,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Mention various festivals which are celebrated in Uttar Pradesh.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 1",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Mention various festivals which are celebrated in Uttar Pradesh.",
+    "subjectId": "up-history",
+    "subjects": [
+      "UP History & Culture"
+    ],
+    "topic": "UP Culture",
+    "topics": [
+      "UP Culture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -415,14 +495,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Why Gupta period is considered as the 'Golden-Age' of Ancient Indian History?",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 1",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Why Gupta period is considered as the 'Golden-Age' of Ancient Indian History?",
+    "subjectId": "ancient",
+    "subjects": [
+      "Ancient & Medieval"
+    ],
+    "topic": "Ancient History",
+    "topics": [
+      "Ancient History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -456,14 +544,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Throw light on the 'Revolutionary Philosophy' formulated by Bhagat Singh.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 1",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Throw light on the 'Revolutionary Philosophy' formulated by Bhagat Singh.",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -497,14 +593,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Explain the points of Ancient Indian Knowledge on the basis of which India was designated as 'Vishwaguru'.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 1",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Explain the points of Ancient Indian Knowledge on the basis of which India was designated as 'Vishwaguru'.",
+    "subjectId": "ancient",
+    "subjects": [
+      "Ancient & Medieval"
+    ],
+    "topic": "Ancient Culture",
+    "topics": [
+      "Ancient Culture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -538,14 +642,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Throw light on the factors of continuity and change in Indian Society.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 1",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Throw light on the factors of continuity and change in Indian Society.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -579,14 +691,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Define Globalization and Privatization. Discuss their objectives.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 1",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Define Globalization and Privatization. Discuss their objectives.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -620,14 +740,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Caste alliances emanate from secular and political factors and do not spring from primordial identities. Discuss.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 1",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Caste alliances emanate from secular and political factors and do not spring from primordial identities. Discuss.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -661,14 +789,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Describe the causes of origin, structure and weather associated with tropical cyclones.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 1",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Describe the causes of origin, structure and weather associated with tropical cyclones.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -702,14 +838,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the factors affecting rural settlement pattern in India.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 1",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Discuss the factors affecting rural settlement pattern in India.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Indian Geography",
+    "topics": [
+      "Indian Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -743,14 +887,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Describe earthquake belts in India.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 1",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Describe earthquake belts in India.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -784,14 +936,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Presenting the details of the popular folk songs in the 'Purvanchal region' of Uttar Pradesh. Mention their salient features.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 1",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Presenting the details of the popular folk songs in the 'Purvanchal region' of Uttar Pradesh. Mention their salient features.",
+    "subjectId": "up-history",
+    "subjects": [
+      "UP History & Culture"
+    ],
+    "topic": "UP Culture",
+    "topics": [
+      "UP Culture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

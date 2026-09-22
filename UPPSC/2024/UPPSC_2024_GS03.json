@@ -5,14 +5,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Highlight the key components of upstream and downstream activities in food processing supply chain management with suitable examples. (125 words)",
-    "is_structured": 0,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 3",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "last_updated": 1779105600,
+    "is_structured": 0,
+    "question_text": "Highlight the key components of upstream and downstream activities in food processing supply chain management with suitable examples. (125 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -46,14 +54,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Give a brief account of measures adopted by the Government to provide adequate credit to the farmers. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 3",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Give a brief account of measures adopted by the Government to provide adequate credit to the farmers. (125 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -99,14 +115,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 3,
     "marks": 8,
     "importance": 3,
-    "question_text": "Was the 'Bhoodan Movement' a part of land reforms in India? Discuss its major effects. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
     "cite": "UPPSC Mains 2024 GS Paper 3",
-    "q_number": 3,
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Was the 'Bhoodan Movement' a part of land reforms in India? Discuss its major effects. (125 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Land Reforms",
+    "topics": [
+      "Land Reforms"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -152,14 +176,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "How does the New Economic Policy change the structure of employment in India? Evaluate. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 3",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "How does the New Economic Policy change the structure of employment in India? Evaluate. (125 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -205,14 +237,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "'India is experiencing the phase of population-dividend'. In this context, discuss the measures adopted by the Government to tackle appropriately the problem of unemployment in the country. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 3",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "'India is experiencing the phase of population-dividend'. In this context, discuss the measures adopted by the Government to tackle appropriately the problem of unemployment in the country. (125 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -258,14 +298,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "What are major initiatives of Government of India for promoting technology-based solutions for rural upliftment? (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 3",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "What are major initiatives of Government of India for promoting technology-based solutions for rural upliftment? (125 words)",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -311,14 +359,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "What is digital arrest? Which are the States most effected by the problem of digital arrest in India in the last three years? Mention the effective measures taken by the Government of India in this direction. (125 words)",
-    "is_structured": 0,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 3",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "last_updated": 1779105600,
+    "is_structured": 0,
+    "question_text": "What is digital arrest? Which are the States most effected by the problem of digital arrest in India in the last three years? Mention the effective measures taken by the Government of India in this direction. (125 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -352,14 +408,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Describe the role of Artificial Intelligence in the safety and security during disaster management. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 3",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Describe the role of Artificial Intelligence in the safety and security during disaster management. (125 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Disaster Management",
+    "topics": [
+      "Disaster Management"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -405,14 +469,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 9,
     "marks": 8,
     "importance": 3,
-    "question_text": "Mention the role of Indian Defence Research and Development Organisation in India's security set-up. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
     "cite": "UPPSC Mains 2024 GS Paper 3",
-    "q_number": 9,
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Mention the role of Indian Defence Research and Development Organisation in India's security set-up. (125 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -458,14 +530,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 10,
     "marks": 8,
     "importance": 3,
-    "question_text": "Outline the major challenges faced by the coast guard of India and explain the efforts taken to deal with them. (125 words)",
-    "is_structured": 0,
-    "last_updated": 1779105600,
     "cite": "UPPSC Mains 2024 GS Paper 3",
-    "q_number": 10,
+    "last_updated": 1779105600,
+    "is_structured": 0,
+    "question_text": "Outline the major challenges faced by the coast guard of India and explain the efforts taken to deal with them. (125 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -499,14 +579,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "Does inclusive growth ensure social justice? Discuss. What steps have been taken by the Government of India for bringing inclusive growth with social justice? Elucidate your answer. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 3",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Does inclusive growth ensure social justice? Discuss. What steps have been taken by the Government of India for bringing inclusive growth with social justice? Elucidate your answer. (200 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Inclusive Growth",
+    "topics": [
+      "Inclusive Growth"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -552,14 +640,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "\"Budgets are half used if they serve only as planning device\". Critically examine this statement. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 3",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "\"Budgets are half used if they serve only as planning device\". Critically examine this statement. (200 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -605,14 +701,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "Assess the role of States and Central Government in developing irrigation infrastructure in India. How has Pradhan Mantri Krishi Sinchayee Yojana (P.M.K.S.Y.) helped in improving irrigation access across the country? (200 words)",
-    "is_structured": 0,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 3",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "last_updated": 1779105600,
+    "is_structured": 0,
+    "question_text": "Assess the role of States and Central Government in developing irrigation infrastructure in India. How has Pradhan Mantri Krishi Sinchayee Yojana (P.M.K.S.Y.) helped in improving irrigation access across the country? (200 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -658,14 +762,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "Critically evaluate the strategy of poverty alleviation programmes in India, in recent years. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 3",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Critically evaluate the strategy of poverty alleviation programmes in India, in recent years. (200 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Inclusive Growth",
+    "topics": [
+      "Inclusive Growth"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -711,14 +823,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "What do you understand by buffer stock? Is it essential for food security in India? Explain clearly. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 3",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "What do you understand by buffer stock? Is it essential for food security in India? Explain clearly. (200 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Food Security",
+    "topics": [
+      "Food Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -764,14 +884,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 16,
     "marks": 12,
     "importance": 3,
-    "question_text": "Compare Indian Knowledge Tradition based aeronautics with modern aeronautics. Mention the policies of the Department of Science and Technology for the research in this field. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
     "cite": "UPPSC Mains 2024 GS Paper 3",
-    "q_number": 16,
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Compare Indian Knowledge Tradition based aeronautics with modern aeronautics. Mention the policies of the Department of Science and Technology for the research in this field. (200 words)",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -817,14 +945,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "What are the ecologically sensitive areas in India? Mention the policies of the Government of India for their protection. (200 words)",
-    "is_structured": 0,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 3",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "last_updated": 1779105600,
+    "is_structured": 0,
+    "question_text": "What are the ecologically sensitive areas in India? Mention the policies of the Government of India for their protection. (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -870,14 +1006,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "What are 'Social Networking Sites' and how does their uncontrolled use increase the possibilities of cyber attacks ? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 3",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "What are 'Social Networking Sites' and how does their uncontrolled use increase the possibilities of cyber attacks ? (200 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -923,14 +1067,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 5,
-    "question_text": "Narco-terrorism has emerged as a serious threat across the country. Suggest suitable measures to counter it. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 3",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Narco-terrorism has emerged as a serious threat across the country. Suggest suitable measures to counter it. (200 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -976,14 +1128,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "Discuss the functions of National Security Council of India. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 3",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 3",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Discuss the functions of National Security Council of India. (200 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

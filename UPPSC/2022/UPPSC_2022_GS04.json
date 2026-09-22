@@ -5,14 +5,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Differentiate between democratic attitude and bureaucratic attitude of public servants.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 4",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 4",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Differentiate between democratic attitude and bureaucratic attitude of public servants.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Explain the role of persuation in relation to public protest with proper argument.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 4",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 4",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Explain the role of persuation in relation to public protest with proper argument.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Define impartiality and discuss the role of impartiality in solving problems of weaker section.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 4",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 4",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Define impartiality and discuss the role of impartiality in solving problems of weaker section.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Attitude",
+    "topics": [
+      "Attitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What do you understand by emotional intelligence? Discuss its dimensions.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 4",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 4",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "What do you understand by emotional intelligence? Discuss its dimensions.",
+    "subjectId": "thinkers",
+    "subjects": [
+      "Thinkers"
+    ],
+    "topic": "Thinkers",
+    "topics": [
+      "Thinkers"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Describe the relevance of the following in the context of civil servants. (a) Dedication (b) Accountability.",
-    "is_structured": 0,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 4",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 4",
+    "last_updated": 1715867095,
+    "is_structured": 0,
+    "question_text": "Describe the relevance of the following in the context of civil servants. (a) Dedication (b) Accountability.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Civil Service Values",
+    "topics": [
+      "Civil Service Values"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -198,14 +238,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "\"Administration is a moral act and administrator is a moral agent.\" Explicate this statement.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 4",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 4",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "\"Administration is a moral act and administrator is a moral agent.\" Explicate this statement.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Probity",
+    "topics": [
+      "Probity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -239,14 +287,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Do you accept that public institutions are successful in preservation of the rights of people?",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 4",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 4",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Do you accept that public institutions are successful in preservation of the rights of people?",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Integrity",
+    "topics": [
+      "Integrity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -280,14 +336,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What do you understand by 'voice of conscience'? How does it help in performing the duty of civil servants?",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 4",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 4",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "What do you understand by 'voice of conscience'? How does it help in performing the duty of civil servants?",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Corruption",
+    "topics": [
+      "Corruption"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -321,14 +385,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What are the circumstances which create suspicion about an officer's integrity ?",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 4",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 4",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "What are the circumstances which create suspicion about an officer's integrity ?",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -362,25 +434,39 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Differentiate between (a) Code of ethics and code of conduct (b) Tolerance and compassion.",
-    "is_structured": 0,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 4",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 4",
+    "last_updated": 1715867095,
+    "is_structured": 0,
+    "question_text": "Differentiate between (a) Code of ethics and code of conduct (b) Tolerance and compassion.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
-        "text": "a) Code of Ethics vs. Code of Conduct: A Code of Ethics provides broad, value-based guidelines (e.g., honesty, integrity) focusing on the ideal character of an employee. A Code of Conduct is a set of specific, enforceable rules dictating exact behaviors (e.g., rules against accepting gifts, maintaining office hours), where violations lead to disciplinary action.",
-        "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 4"
+        "text": "a) Code of Ethics vs. Code of Conduct: A Code of Ethics provides broad, value-based guidelines (e.g., honesty, integrity) focusing on the ideal character of an employee.",
+        "cite": "UPPSC Mains 2022 GS Paper 4",
+        "order": 1
+      },
+      {
+        "section": "Body",
+        "text": "A Code of Conduct is a set of specific, enforceable rules dictating exact behaviors (e.g., rules against accepting gifts, maintaining office hours), where violations lead to disciplinary action.",
+        "cite": "UPPSC Mains 2022 GS Paper 4",
+        "order": 2
       },
       {
         "section": "Body",
         "text": "b) Tolerance vs. Compassion: Tolerance is the objective acceptance and respect for differences in opinion, religion, or behavior, even if one disagrees with them. Compassion is an active, deep emotional response to another's suffering, accompanied by a genuine desire to alleviate that suffering.",
-        "order": 2,
+        "order": 3,
         "cite": "UPPSC Mains 2022 GS Paper 4"
       }
     ]
@@ -391,14 +477,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "How aptitude is different from interest? \"If one has the interest to become civil servant but does not have aptitude for it then will he/she be successful as a civil servant?\" Discuss.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 4",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 4",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "How aptitude is different from interest? \"If one has the interest to become civil servant but does not have aptitude for it then will he/she be successful as a civil servant?\" Discuss.",
+    "subjectId": "thinkers",
+    "subjects": [
+      "Thinkers"
+    ],
+    "topic": "Thinkers",
+    "topics": [
+      "Thinkers"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -432,14 +526,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "\"Tolerance is supreme fundamental value.\" Discuss this statement in context of civil servant.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 4",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 4",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "\"Tolerance is supreme fundamental value.\" Discuss this statement in context of civil servant.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Civil Service Values",
+    "topics": [
+      "Civil Service Values"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -473,14 +575,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What do you understand by social influence? How social influence and persuation can bring out behavioural change?",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 4",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 4",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "What do you understand by social influence? How social influence and persuation can bring out behavioural change?",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Attitude",
+    "topics": [
+      "Attitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -514,14 +624,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What are the basic requirements of compassion? What is the need of compassion towards weaker section in civil service ?",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 4",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 4",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "What are the basic requirements of compassion? What is the need of compassion towards weaker section in civil service ?",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Probity",
+    "topics": [
+      "Probity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -555,14 +673,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Crowd is a temporary group which immediately collect at one place in situation of accident or protest or demonstration. Probability of this crowd becoming violent is always possible. Many times this crowd creates unnecessary situation of violence. Through which persuation method the crowd may be controlled and satisfied ? Explain.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 4",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 4",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Crowd is a temporary group which immediately collect at one place in situation of accident or protest or demonstration. Probability of this crowd becoming violent is always possible. Many times this crowd creates unnecessary situation of violence. Through which persuation method the crowd may be controlled and satisfied ? Explain.",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -596,14 +722,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "\"The Right to Information Act is not only about citizen's empowerment but it essentially redefines the concept of accountability.\" Discuss.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 4",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 4",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "\"The Right to Information Act is not only about citizen's empowerment but it essentially redefines the concept of accountability.\" Discuss.",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -637,14 +771,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Explain with suitable examples the ethical issues in corporate governance.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 4",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 4",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Explain with suitable examples the ethical issues in corporate governance.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -678,14 +820,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What steps should be taken according to you to prevent corruption in society? Explain.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 4",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 4",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "What steps should be taken according to you to prevent corruption in society? Explain.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -719,14 +869,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Explain the eightfold path given by Buddha for the purification of conduct.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 4",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 4",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Explain the eightfold path given by Buddha for the purification of conduct.",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -760,14 +918,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Sanjeev is an idealist. He believes that \"truth is the greatest virtue and should never be compromised\". One day he witnessed a person running away from a mob equipped with sticks and stones. He watches him hiding in a particular spot. The mob asked Sanjeev whether he saw the thief? Sanjeev tells the truth pointing towards the spot, where he saw the person hiding. The mob gets hold of the person and beats him till death. In light of above circumstance, comment on the conduct of Sanjeev.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 4",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 4",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Sanjeev is an idealist. He believes that \"truth is the greatest virtue and should never be compromised\". One day he witnessed a person running away from a mob equipped with sticks and stones. He watches him hiding in a particular spot. The mob asked Sanjeev whether he saw the thief? Sanjeev tells the truth pointing towards the spot, where he saw the person hiding. The mob gets hold of the person and beats him till death. In light of above circumstance, comment on the conduct of Sanjeev.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Attitude",
+    "topics": [
+      "Attitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

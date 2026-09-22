@@ -5,14 +5,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Describe the objectives and impact of Atal-Bhujal Yojna.",
-    "is_structured": 1,
-    "last_updated": 1778966000,
-    "cite": "UPPSC Mains 2019 GS Paper 2",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 2",
+    "last_updated": 1778966000,
+    "is_structured": 1,
+    "question_text": "Describe the objectives and impact of Atal-Bhujal Yojna.",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Briefly state the role of National Human Rights Commission in India.",
-    "is_structured": 1,
-    "last_updated": 1778966000,
-    "cite": "UPPSC Mains 2019 GS Paper 2",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 2",
+    "last_updated": 1778966000,
+    "is_structured": 1,
+    "question_text": "Briefly state the role of National Human Rights Commission in India.",
+    "subjectId": "justice",
+    "subjects": [
+      "Social Justice"
+    ],
+    "topic": "Social Justice",
+    "topics": [
+      "Social Justice"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "\"The traditional quality of Civil Services has been Neutrality\". Explain it.",
-    "is_structured": 1,
-    "last_updated": 1778966000,
-    "cite": "UPPSC Mains 2019 GS Paper 2",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 2",
+    "last_updated": 1778966000,
+    "is_structured": 1,
+    "question_text": "\"The traditional quality of Civil Services has been Neutrality\". Explain it.",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What are the main irritants in Indo-Nepal bilateral relations?",
-    "is_structured": 1,
-    "last_updated": 1778966000,
-    "cite": "UPPSC Mains 2019 GS Paper 2",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 2",
+    "last_updated": 1778966000,
+    "is_structured": 1,
+    "question_text": "What are the main irritants in Indo-Nepal bilateral relations?",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Write a note on Citizen's Charter.",
-    "is_structured": 1,
-    "last_updated": 1778966000,
-    "cite": "UPPSC Mains 2019 GS Paper 2",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 2",
+    "last_updated": 1778966000,
+    "is_structured": 1,
+    "question_text": "Write a note on Citizen's Charter.",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Describe the Vulture Conservation Project of Uttar Pradesh Government.",
-    "is_structured": 1,
-    "last_updated": 1778966000,
-    "cite": "UPPSC Mains 2019 GS Paper 2",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 2",
+    "last_updated": 1778966000,
+    "is_structured": 1,
+    "question_text": "Describe the Vulture Conservation Project of Uttar Pradesh Government.",
+    "subjectId": "up-geo",
+    "subjects": [
+      "UP Geography & Environment"
+    ],
+    "topic": "UP Environment",
+    "topics": [
+      "UP Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "The philosophy of Indian Democracy is embodied in the preamble of the Constitution of India. Explain.",
-    "is_structured": 1,
-    "last_updated": 1778966000,
-    "cite": "UPPSC Mains 2019 GS Paper 2",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 2",
+    "last_updated": 1778966000,
+    "is_structured": 1,
+    "question_text": "The philosophy of Indian Democracy is embodied in the preamble of the Constitution of India. Explain.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Critically examine the main element of the Representation of People's Act.",
-    "is_structured": 1,
-    "last_updated": 1778966000,
-    "cite": "UPPSC Mains 2019 GS Paper 2",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 2",
+    "last_updated": 1778966000,
+    "is_structured": 1,
+    "question_text": "Critically examine the main element of the Representation of People's Act.",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Elections",
+    "topics": [
+      "Elections"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Describe the procedure of creation and abolition of Legislative Council in States. Why did the Andhra Pradesh State Assembly pass a resolution to abolish the State's Legislative Council? Explain in short.",
-    "is_structured": 1,
-    "last_updated": 1778966000,
-    "cite": "UPPSC Mains 2019 GS Paper 2",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 2",
+    "last_updated": 1778966000,
+    "is_structured": 1,
+    "question_text": "Describe the procedure of creation and abolition of Legislative Council in States. Why did the Andhra Pradesh State Assembly pass a resolution to abolish the State's Legislative Council? Explain in short.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Federalism",
+    "topics": [
+      "Federalism"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -374,14 +446,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Describe the main provisions of the Citizenship Amendment Act (CAA), 2019.",
-    "is_structured": 1,
-    "last_updated": 1778966000,
-    "cite": "UPPSC Mains 2019 GS Paper 2",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 2",
+    "last_updated": 1778966000,
+    "is_structured": 1,
+    "question_text": "Describe the main provisions of the Citizenship Amendment Act (CAA), 2019.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -415,14 +495,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What is meant by Digital India? Discuss its various pillars and challenges.",
-    "is_structured": 1,
-    "last_updated": 1778966000,
-    "cite": "UPPSC Mains 2019 GS Paper 2",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 2",
+    "last_updated": 1778966000,
+    "is_structured": 1,
+    "question_text": "What is meant by Digital India? Discuss its various pillars and challenges.",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -456,14 +544,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Describe the National biodiversity Authority.",
-    "is_structured": 1,
-    "last_updated": 1778966000,
-    "cite": "UPPSC Mains 2019 GS Paper 2",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 2",
+    "last_updated": 1778966000,
+    "is_structured": 1,
+    "question_text": "Describe the National biodiversity Authority.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -497,14 +593,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Write a note on the role and importance of \"Sugamya Bharat Abhiyan\".",
-    "is_structured": 1,
-    "last_updated": 1778966000,
-    "cite": "UPPSC Mains 2019 GS Paper 2",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 2",
+    "last_updated": 1778966000,
+    "is_structured": 1,
+    "question_text": "Write a note on the role and importance of \"Sugamya Bharat Abhiyan\".",
+    "subjectId": "justice",
+    "subjects": [
+      "Social Justice"
+    ],
+    "topic": "Social Justice",
+    "topics": [
+      "Social Justice"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -538,14 +642,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Is India a powerful claimant of permanent membership in the Security Council?",
-    "is_structured": 1,
-    "last_updated": 1778966000,
-    "cite": "UPPSC Mains 2019 GS Paper 2",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 2",
+    "last_updated": 1778966000,
+    "is_structured": 1,
+    "question_text": "Is India a powerful claimant of permanent membership in the Security Council?",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -555,20 +667,32 @@
       },
       {
         "section": "Body",
-        "text": "Arguments supporting the claim: Demographically, India represents one-sixth of humanity and is the world's largest democracy. Economically, it is among the top five global economies. Militarily and diplomatically, India has historically been one of the largest troop contributors to UN Peacekeeping Forces and advocates consistently for the Global South.",
-        "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 2"
+        "text": "Arguments supporting the claim: Demographically, India represents one-sixth of humanity and is the world's largest democracy.",
+        "cite": "UPPSC Mains 2019 GS Paper 2",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Economically, it is among the top five global economies.",
+        "cite": "UPPSC Mains 2019 GS Paper 2",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Militarily and diplomatically, India has historically been one of the largest troop contributors to UN Peacekeeping Forces and advocates consistently for the Global South.",
+        "cite": "UPPSC Mains 2019 GS Paper 2",
+        "order": 4
       },
       {
         "section": "Body",
         "text": "Challenges and hurdles: Despite backing from major powers (like the US, France, and Russia) and the G4 nations (India, Japan, Germany, Brazil), India faces severe roadblocks. The primary obstacle is the veto power of China, which continually blocks India's entry, alongside resistance from the 'Uniting for Consensus' (Coffee Club) group led by Pakistan.",
-        "order": 3,
+        "order": 5,
         "cite": "UPPSC Mains 2019 GS Paper 2"
       },
       {
         "section": "Conclusion",
         "text": "Conclude that denying India a permanent seat undermines the legitimacy and representativeness of the UNSC itself, making comprehensive UN reform a geopolitical imperative.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2019 GS Paper 2"
       }
     ]
@@ -579,14 +703,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the impact of climate change on developing countries.",
-    "is_structured": 1,
-    "last_updated": 1778966000,
-    "cite": "UPPSC Mains 2019 GS Paper 2",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 2",
+    "last_updated": 1778966000,
+    "is_structured": 1,
+    "question_text": "Discuss the impact of climate change on developing countries.",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -620,14 +752,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What are the causes behind recent USA and Iran tensions? How this tension will affect the national interest of India? How should India respond to this situation? Discuss.",
-    "is_structured": 1,
-    "last_updated": 1778966000,
-    "cite": "UPPSC Mains 2019 GS Paper 2",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 2",
+    "last_updated": 1778966000,
+    "is_structured": 1,
+    "question_text": "What are the causes behind recent USA and Iran tensions? How this tension will affect the national interest of India? How should India respond to this situation? Discuss.",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -661,14 +801,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What do you understand by 'Bodo Problem'? Do you think that the bodo Peace Agreement 2020 will ensure the development and peace in Assam? Evaluate.",
-    "is_structured": 1,
-    "last_updated": 1778966000,
-    "cite": "UPPSC Mains 2019 GS Paper 2",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 2",
+    "last_updated": 1778966000,
+    "is_structured": 1,
+    "question_text": "What do you understand by 'Bodo Problem'? Do you think that the bodo Peace Agreement 2020 will ensure the development and peace in Assam? Evaluate.",
+    "subjectId": "justice",
+    "subjects": [
+      "Social Justice"
+    ],
+    "topic": "Social Justice",
+    "topics": [
+      "Social Justice"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -702,14 +850,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What do you understand by 'Doctrine of Basic Structure'? Analyse its importance for Indian Constitution.",
-    "is_structured": 1,
-    "last_updated": 1778966000,
-    "cite": "UPPSC Mains 2019 GS Paper 2",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 2",
+    "last_updated": 1778966000,
+    "is_structured": 1,
+    "question_text": "What do you understand by 'Doctrine of Basic Structure'? Analyse its importance for Indian Constitution.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -743,14 +899,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the emerging role of the Prime Minister in India.",
-    "is_structured": 1,
-    "last_updated": 1778966000,
-    "cite": "UPPSC Mains 2019 GS Paper 2",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 2",
+    "last_updated": 1778966000,
+    "is_structured": 1,
+    "question_text": "Discuss the emerging role of the Prime Minister in India.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Parliament",
+    "topics": [
+      "Parliament"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -784,14 +948,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Examine the Right to Life in the Constitution of India.",
-    "is_structured": 1,
-    "last_updated": 1778966000,
-    "cite": "UPPSC Mains 2019 GS Paper 2",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 2",
+    "last_updated": 1778966000,
+    "is_structured": 1,
+    "question_text": "Examine the Right to Life in the Constitution of India.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

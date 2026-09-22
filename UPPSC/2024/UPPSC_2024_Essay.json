@@ -5,14 +5,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": 4,
-    "question_text": "Human values and literature. (700 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 Essay",
     "q_number": "QA.1",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 Essay",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Human values and literature. (700 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -52,14 +60,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": 4,
-    "question_text": "Imagination of 'New Woman' in India: A Myth. (700 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 Essay",
     "q_number": "QA.2",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 Essay",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Imagination of 'New Woman' in India: A Myth. (700 words)",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -99,14 +115,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": 5,
-    "question_text": "The impact of youth participation in nation building. (700 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 Essay",
     "q_number": "QA.3",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 Essay",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "The impact of youth participation in nation building. (700 words)",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -146,14 +170,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": 5,
-    "question_text": "Artificial Intelligence: Possibilities and Challenges. (700 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 Essay",
     "q_number": "QB.1",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 Essay",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Artificial Intelligence: Possibilities and Challenges. (700 words)",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -193,14 +225,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": 4,
-    "question_text": "'Start-up': The Future of India. (700 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 Essay",
     "q_number": "QB.2",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 Essay",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "'Start-up': The Future of India. (700 words)",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -240,14 +280,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": 5,
-    "question_text": "Technological Innovation and Sustainable Development in Agriculture. (700 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 Essay",
     "q_number": "QB.3",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 Essay",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Technological Innovation and Sustainable Development in Agriculture. (700 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -287,14 +335,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": 4,
-    "question_text": "India's rising popularity on international platform. (700 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 Essay",
     "q_number": "QC.1",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 Essay",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "India's rising popularity on international platform. (700 words)",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -334,14 +390,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": 5,
-    "question_text": "'Global Warming': A threat to the future. (700 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 Essay",
     "q_number": "QC.2",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 Essay",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "'Global Warming': A threat to the future. (700 words)",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -381,14 +445,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": 4,
-    "question_text": "Indian Economy and 'Make in India'. (700 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 Essay",
     "q_number": "QC.3",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 Essay",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Indian Economy and 'Make in India'. (700 words)",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

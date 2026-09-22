@@ -5,14 +5,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Does individual morality have a bearing effect on the decision of public life?",
-    "is_structured": 1,
-    "last_updated": 1778952000,
-    "cite": "UPPSC Mains 2021 GS Paper 4",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "last_updated": 1778952000,
+    "is_structured": 1,
+    "question_text": "Does individual morality have a bearing effect on the decision of public life?",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What are the essential virtues which are responsible for an ideal, human ethical behaviour according to Mahatma Gandhi? Discuss.",
-    "is_structured": 1,
-    "last_updated": 1778952000,
-    "cite": "UPPSC Mains 2021 GS Paper 4",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "last_updated": 1778952000,
+    "is_structured": 1,
+    "question_text": "What are the essential virtues which are responsible for an ideal, human ethical behaviour according to Mahatma Gandhi? Discuss.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Attitude",
+    "topics": [
+      "Attitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Corruption causes misuse of government treasury, administrative inefficiency and obstruction in national development. Give suggestions for prevention of corruption in public life in the context of the statement given.",
-    "is_structured": 1,
-    "last_updated": 1778952000,
-    "cite": "UPPSC Mains 2021 GS Paper 4",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "last_updated": 1778952000,
+    "is_structured": 1,
+    "question_text": "Corruption causes misuse of government treasury, administrative inefficiency and obstruction in national development. Give suggestions for prevention of corruption in public life in the context of the statement given.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Describe the relevance of the following in the context of civil services: (a) Ethical governance (b) Probity in public life.",
-    "is_structured": 0,
-    "last_updated": 1778952000,
-    "cite": "UPPSC Mains 2021 GS Paper 4",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "last_updated": 1778952000,
+    "is_structured": 0,
+    "question_text": "Describe the relevance of the following in the context of civil services: (a) Ethical governance (b) Probity in public life.",
+    "subjectId": "thinkers",
+    "subjects": [
+      "Thinkers"
+    ],
+    "topic": "Thinkers",
+    "topics": [
+      "Thinkers"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -157,14 +189,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "A peaceful protest was being carried out by a group of milk traders. The superintendent of Police instructs the Police Officials to prevent the group from committing any type of violence, He, however tells them to teach them a lesson', if situation warrants. A Police Offical on duty indulges into an argument with a protestor and beats him up. When inquired about his action, he says that he was told to teach them a lesson by the Superintendent of Police. Give your comment on ethical behaviour of both the Superintendent of Police and the Police Official in the light of above mentioned incident.",
-    "is_structured": 1,
-    "last_updated": 1778952000,
-    "cite": "UPPSC Mains 2021 GS Paper 4",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "last_updated": 1778952000,
+    "is_structured": 1,
+    "question_text": "A peaceful protest was being carried out by a group of milk traders. The superintendent of Police instructs the Police Officials to prevent the group from committing any type of violence, He, however tells them to teach them a lesson', if situation warrants. A Police Offical on duty indulges into an argument with a protestor and beats him up. When inquired about his action, he says that he was told to teach them a lesson by the Superintendent of Police. Give your comment on ethical behaviour of both the Superintendent of Police and the Police Official in the light of above mentioned incident.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Civil Service Values",
+    "topics": [
+      "Civil Service Values"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -198,14 +238,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Define attitude in historical perspective and discuss the relationship between aptitude and attitude.",
-    "is_structured": 1,
-    "last_updated": 1778952000,
-    "cite": "UPPSC Mains 2021 GS Paper 4",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "last_updated": 1778952000,
+    "is_structured": 1,
+    "question_text": "Define attitude in historical perspective and discuss the relationship between aptitude and attitude.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Probity",
+    "topics": [
+      "Probity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -239,14 +287,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Define empathy and discuss the role of empathy in solving problems of weaker section.",
-    "is_structured": 1,
-    "last_updated": 1778952000,
-    "cite": "UPPSC Mains 2021 GS Paper 4",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "last_updated": 1778952000,
+    "is_structured": 1,
+    "question_text": "Define empathy and discuss the role of empathy in solving problems of weaker section.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Integrity",
+    "topics": [
+      "Integrity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -280,14 +336,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "\"Emotional intelligence is very important in effective administrative practices\". Throw light on this statement.",
-    "is_structured": 1,
-    "last_updated": 1778952000,
-    "cite": "UPPSC Mains 2021 GS Paper 4",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "last_updated": 1778952000,
+    "is_structured": 1,
+    "question_text": "\"Emotional intelligence is very important in effective administrative practices\". Throw light on this statement.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Corruption",
+    "topics": [
+      "Corruption"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -321,14 +385,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "How can tolerance and compassion be fostered among civil servants? Give your opinion.",
-    "is_structured": 1,
-    "last_updated": 1778952000,
-    "cite": "UPPSC Mains 2021 GS Paper 4",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "last_updated": 1778952000,
+    "is_structured": 1,
+    "question_text": "How can tolerance and compassion be fostered among civil servants? Give your opinion.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -362,14 +434,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Differentiate between: (a) Objectivity and dedication (b) Structure and functions of attitudes",
-    "is_structured": 0,
-    "last_updated": 1778952000,
-    "cite": "UPPSC Mains 2021 GS Paper 4",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "last_updated": 1778952000,
+    "is_structured": 0,
+    "question_text": "Differentiate between: (a) Objectivity and dedication (b) Structure and functions of attitudes",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -379,9 +459,15 @@
       },
       {
         "section": "Body",
-        "text": "(b) Structure vs Functions of Attitudes: The Structure of an attitude refers to its components, typically defined by the CAB model: Cognitive (beliefs), Affective (emotions), and Behavioral (actions). The Functions of an attitude refer to the psychological needs it fulfills for the individual, such as the knowledge function, ego-defensive function, value-expressive function, and utilitarian function.",
-        "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 4"
+        "text": "(b) Structure vs Functions of Attitudes: The Structure of an attitude refers to its components, typically defined by the CAB model: Cognitive (beliefs), Affective (emotions), and Behavioral (actions).",
+        "cite": "UPPSC Mains 2021 GS Paper 4",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "The Functions of an attitude refer to the psychological needs it fulfills for the individual, such as the knowledge function, ego-defensive function, value-expressive function, and utilitarian function.",
+        "cite": "UPPSC Mains 2021 GS Paper 4",
+        "order": 3
       }
     ]
   },
@@ -391,14 +477,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What are the traditional values in Indian society? How does it differ from modern values? Explain.",
-    "is_structured": 1,
-    "last_updated": 1778952000,
-    "cite": "UPPSC Mains 2021 GS Paper 4",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "last_updated": 1778952000,
+    "is_structured": 1,
+    "question_text": "What are the traditional values in Indian society? How does it differ from modern values? Explain.",
+    "subjectId": "thinkers",
+    "subjects": [
+      "Thinkers"
+    ],
+    "topic": "Thinkers",
+    "topics": [
+      "Thinkers"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -432,14 +526,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What are the ethical perversions of private sector? Describe the three options of ethical life.",
-    "is_structured": 1,
-    "last_updated": 1778952000,
-    "cite": "UPPSC Mains 2021 GS Paper 4",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "last_updated": 1778952000,
+    "is_structured": 1,
+    "question_text": "What are the ethical perversions of private sector? Describe the three options of ethical life.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Civil Service Values",
+    "topics": [
+      "Civil Service Values"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -473,14 +575,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Is change in work-culture necessary for providing quality service delivery in present administrative structure? Answer with arguments.",
-    "is_structured": 1,
-    "last_updated": 1778952000,
-    "cite": "UPPSC Mains 2021 GS Paper 4",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "last_updated": 1778952000,
+    "is_structured": 1,
+    "question_text": "Is change in work-culture necessary for providing quality service delivery in present administrative structure? Answer with arguments.",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -514,14 +624,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Is judicial control necessary in Public Administration? Explain the various possible forms of judical control over the Public Administration.",
-    "is_structured": 1,
-    "last_updated": 1778952000,
-    "cite": "UPPSC Mains 2021 GS Paper 4",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "last_updated": 1778952000,
+    "is_structured": 1,
+    "question_text": "Is judicial control necessary in Public Administration? Explain the various possible forms of judical control over the Public Administration.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Attitude",
+    "topics": [
+      "Attitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -555,14 +673,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Ram Murti is a Government servant and lives with his old aged parents in Indore. One day during a field-visit he meets a 11 year old orphan boy. He was in a miserable condition and homeless, with no one to take care of him. Ram Murti brings the boy to home an proposes him that if he takes care of his aged parents, he will give him daily wage according to his needs and will arrange for his educaiton too. Evaluate Ram Murit is conduct from ethical perspective.",
-    "is_structured": 1,
-    "last_updated": 1778952000,
-    "cite": "UPPSC Mains 2021 GS Paper 4",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "last_updated": 1778952000,
+    "is_structured": 1,
+    "question_text": "Ram Murti is a Government servant and lives with his old aged parents in Indore. One day during a field-visit he meets a 11 year old orphan boy. He was in a miserable condition and homeless, with no one to take care of him. Ram Murti brings the boy to home an proposes him that if he takes care of his aged parents, he will give him daily wage according to his needs and will arrange for his educaiton too. Evaluate Ram Murit is conduct from ethical perspective.",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -596,14 +722,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What do you understand by moral and political attitude of human? How will you justify these in the present political scenario?",
-    "is_structured": 1,
-    "last_updated": 1778952000,
-    "cite": "UPPSC Mains 2021 GS Paper 4",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "last_updated": 1778952000,
+    "is_structured": 1,
+    "question_text": "What do you understand by moral and political attitude of human? How will you justify these in the present political scenario?",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Probity",
+    "topics": [
+      "Probity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -637,14 +771,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the root causes of gender related negative attitude. Why is it so rigid?",
-    "is_structured": 1,
-    "last_updated": 1778952000,
-    "cite": "UPPSC Mains 2021 GS Paper 4",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "last_updated": 1778952000,
+    "is_structured": 1,
+    "question_text": "Discuss the root causes of gender related negative attitude. Why is it so rigid?",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -678,14 +820,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the factors which influence the formation of individual's attitude towards social problems with the help of suitable examples.",
-    "is_structured": 1,
-    "last_updated": 1778952000,
-    "cite": "UPPSC Mains 2021 GS Paper 4",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "last_updated": 1778952000,
+    "is_structured": 1,
+    "question_text": "Discuss the factors which influence the formation of individual's attitude towards social problems with the help of suitable examples.",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -719,14 +869,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Today objectivity and dedication is the need of the hour in civil services. - Justify the statement.",
-    "is_structured": 1,
-    "last_updated": 1778952000,
-    "cite": "UPPSC Mains 2021 GS Paper 4",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "last_updated": 1778952000,
+    "is_structured": 1,
+    "question_text": "Today objectivity and dedication is the need of the hour in civil services. - Justify the statement.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -760,14 +918,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Rajeev was a migrant labour. One day when he was going on the road by his bicyle, a car pushed his bicycle. Rajeev dragged the driver out of car and began abusing him. The driver took out a knife and after stabbing him three-four times he fled away from the spot. Onlookers delayed rush Rajeev to hospital and due to excessive bleeding, he died. If you were in places of Rajev, what would you have done for driver's irresponsible driving? Often people show indifferent or passive attitude towards such road accidents and accident victims. Discuss its causes and suggest the remedies.",
-    "is_structured": 1,
-    "last_updated": 1778952000,
-    "cite": "UPPSC Mains 2021 GS Paper 4",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 4",
+    "last_updated": 1778952000,
+    "is_structured": 1,
+    "question_text": "Rajeev was a migrant labour. One day when he was going on the road by his bicyle, a car pushed his bicycle. Rajeev dragged the driver out of car and began abusing him. The driver took out a knife and after stabbing him three-four times he fled away from the spot. Onlookers delayed rush Rajeev to hospital and due to excessive bleeding, he died. If you were in places of Rajev, what would you have done for driver's irresponsible driving? Often people show indifferent or passive attitude towards such road accidents and accident victims. Discuss its causes and suggest the remedies.",
+    "subjectId": "thinkers",
+    "subjects": [
+      "Thinkers"
+    ],
+    "topic": "Thinkers",
+    "topics": [
+      "Thinkers"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

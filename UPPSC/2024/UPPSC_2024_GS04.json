@@ -5,14 +5,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Examine the role of the following in the context of civil service. A) Moral code of conduct B) Work culture (125 words)",
-    "is_structured": 0,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
+    "last_updated": 1779105600,
+    "is_structured": 0,
+    "question_text": "Examine the role of the following in the context of civil service. A) Moral code of conduct B) Work culture (125 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Civil Service Values",
+    "topics": [
+      "Civil Service Values"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -46,14 +54,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 2,
     "marks": 8,
     "importance": 3,
-    "question_text": "How far the views of Swami Vivekananda's are successful in developing the core ideals and values of morality in human behaviours? Discuss. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
     "cite": "UPPSC Mains 2024 GS Paper 4",
-    "q_number": 2,
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "How far the views of Swami Vivekananda's are successful in developing the core ideals and values of morality in human behaviours? Discuss. (125 words)",
+    "subjectId": "thinkers",
+    "subjects": [
+      "Thinkers"
+    ],
+    "topic": "Thinkers",
+    "topics": [
+      "Thinkers"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -93,14 +109,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Discuss the various skills by which a public servant may enhance public commitment to the rules of law. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Discuss the various skills by which a public servant may enhance public commitment to the rules of law. (125 words)",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -140,14 +164,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 5,
-    "question_text": "Explain the difference between code of ethics and code of conduct and elucidate their behavioural impact and applications by appropriate examples. (125 words)",
-    "is_structured": 0,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
+    "last_updated": 1779105600,
+    "is_structured": 0,
+    "question_text": "Explain the difference between code of ethics and code of conduct and elucidate their behavioural impact and applications by appropriate examples. (125 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Probity",
+    "topics": [
+      "Probity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -181,14 +213,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "How far the act of 'Right to Information' is effective in deciding the transparency in governance? (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "How far the act of 'Right to Information' is effective in deciding the transparency in governance? (125 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Probity",
+    "topics": [
+      "Probity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -228,14 +268,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "What is the role of emotional intelligence in establishing harmony at disaster management and workplace? (125 words)",
-    "is_structured": 0,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
+    "last_updated": 1779105600,
+    "is_structured": 0,
+    "question_text": "What is the role of emotional intelligence in establishing harmony at disaster management and workplace? (125 words)",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -269,14 +317,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 7,
     "marks": 8,
     "importance": 3,
-    "question_text": "Why the evaluation of unanticipated consequences is important in public policy planning? Answer with appropriate arguments. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
     "cite": "UPPSC Mains 2024 GS Paper 4",
-    "q_number": 7,
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Why the evaluation of unanticipated consequences is important in public policy planning? Answer with appropriate arguments. (125 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -316,14 +372,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "What is the role of empathy in shaping the attitude of a civil servant? How it can enhance their interaction with the public? (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "What is the role of empathy in shaping the attitude of a civil servant? How it can enhance their interaction with the public? (125 words)",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -363,14 +427,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Explain your suggestions to promote the tolerance and compassion among civil servants to serve better to weaker sections. (125 words)",
-    "is_structured": 0,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
+    "last_updated": 1779105600,
+    "is_structured": 0,
+    "question_text": "Explain your suggestions to promote the tolerance and compassion among civil servants to serve better to weaker sections. (125 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Civil Service Values",
+    "topics": [
+      "Civil Service Values"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -404,14 +476,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Public servants often work with the public from diverse backgrounds and with different viewpoints. How do you ensure that their needs will met out while maintaining professionalism? (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Public servants often work with the public from diverse backgrounds and with different viewpoints. How do you ensure that their needs will met out while maintaining professionalism? (125 words)",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -451,14 +531,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "Discuss the moral bases to deal with the challenges of corruption prevailing in the present society. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Discuss the moral bases to deal with the challenges of corruption prevailing in the present society. (200 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Corruption",
+    "topics": [
+      "Corruption"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -504,14 +592,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "What should be the nature of civil service values for a public administrator? How can he create a balance between these values in his personal and public life? Explain. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "What should be the nature of civil service values for a public administrator? How can he create a balance between these values in his personal and public life? Explain. (200 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Civil Service Values",
+    "topics": [
+      "Civil Service Values"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -557,14 +653,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 5,
-    "question_text": "What is the moral basis of the work performance in the system of governance ? Discuss in the light of result contingent and result non-contingent karma. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "What is the moral basis of the work performance in the system of governance ? Discuss in the light of result contingent and result non-contingent karma. (200 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -610,14 +714,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "In the process of policy making by public administrators whether the priority should be given to the moral transparency or the effectiveness of consequences/results? Elucidate. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "In the process of policy making by public administrators whether the priority should be given to the moral transparency or the effectiveness of consequences/results? Elucidate. (200 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -663,14 +775,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 5,
-    "question_text": "You are a city commissioner. There is a reputed college in your city, which has the maximum number of girl students. The conditions of the toilets/washrooms in this college is very poor and pathetic due to which the girl students have to face many mental, physical and hygiene relate problems every day. The college administration is not paying any attention to these basic facilities of the girl students. As a city commissioner, what steps will you take to improve this basic facility of the girl students and against the indifference of the college administration? (200 words)",
-    "is_structured": 0,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
+    "last_updated": 1779105600,
+    "is_structured": 0,
+    "question_text": "You are a city commissioner. There is a reputed college in your city, which has the maximum number of girl students. The conditions of the toilets/washrooms in this college is very poor and pathetic due to which the girl students have to face many mental, physical and hygiene relate problems every day. The college administration is not paying any attention to these basic facilities of the girl students. As a city commissioner, what steps will you take to improve this basic facility of the girl students and against the indifference of the college administration? (200 words)",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -710,14 +830,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "Critically evaluate the role of society in shaping and internationalizing political attitudes. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Critically evaluate the role of society in shaping and internationalizing political attitudes. (200 words)",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Attitude",
+    "topics": [
+      "Attitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -763,14 +891,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "As an administrator, develop an intervention programme for attitude change in \"corruption free India\". (200 words)",
-    "is_structured": 0,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
+    "last_updated": 1779105600,
+    "is_structured": 0,
+    "question_text": "As an administrator, develop an intervention programme for attitude change in \"corruption free India\". (200 words)",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Attitude",
+    "topics": [
+      "Attitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -804,14 +940,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "What are the key difference between ethics in private relations (family, friendships) and public relations (business, politics)? Explain. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "What are the key difference between ethics in private relations (family, friendships) and public relations (business, politics)? Explain. (200 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -857,14 +1001,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 14,
-    "importance": 5,
-    "question_text": "\"A person's real behaviour was be contrary to the person's attitude towards specific subject.\" Do you agree with this statement? Answer with suitable argument. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
     "q_number": 19,
+    "marks": 14,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "\"A person's real behaviour was be contrary to the person's attitude towards specific subject.\" Do you agree with this statement? Answer with suitable argument. (200 words)",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Attitude",
+    "topics": [
+      "Attitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -910,14 +1062,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 5,
-    "question_text": "\"An environmental movement led by youth's gain popularity through social media, rallies and collaboration with influences and scientists with time the movement gained public support and let the government to propose changes in the policy.\" What will be your stand to cope with the situation as a civil servant? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "\"An environmental movement led by youth's gain popularity through social media, rallies and collaboration with influences and scientists with time the movement gained public support and let the government to propose changes in the policy.\" What will be your stand to cope with the situation as a civil servant? (200 words)",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

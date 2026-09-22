@@ -5,14 +5,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Art and social liberty.",
-    "is_structured": 1,
-    "last_updated": 1778953000,
-    "cite": "UPPSC Mains 2021 Essay",
     "q_number": "QA.1",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 Essay",
+    "last_updated": 1778953000,
+    "is_structured": 1,
+    "question_text": "Art and social liberty.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Secular Politics: Needs and Challenges.",
-    "is_structured": 1,
-    "last_updated": 1778953000,
-    "cite": "UPPSC Mains 2021 Essay",
     "q_number": "QA.2",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 Essay",
+    "last_updated": 1778953000,
+    "is_structured": 1,
+    "question_text": "Secular Politics: Needs and Challenges.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Status of Higher Education and Research in India: Ways of Future.",
-    "is_structured": 1,
-    "last_updated": 1778953000,
-    "cite": "UPPSC Mains 2021 Essay",
     "q_number": "QA.3",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 Essay",
+    "last_updated": 1778953000,
+    "is_structured": 1,
+    "question_text": "Status of Higher Education and Research in India: Ways of Future.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "New Agriculture Laws and Peasant Movement.",
-    "is_structured": 1,
-    "last_updated": 1778953000,
-    "cite": "UPPSC Mains 2021 Essay",
     "q_number": "QB.1",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 Essay",
+    "last_updated": 1778953000,
+    "is_structured": 1,
+    "question_text": "New Agriculture Laws and Peasant Movement.",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Citizenship Amendment Act and Inclusive India.",
-    "is_structured": 1,
-    "last_updated": 1778953000,
-    "cite": "UPPSC Mains 2021 Essay",
     "q_number": "QB.2",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 Essay",
+    "last_updated": 1778953000,
+    "is_structured": 1,
+    "question_text": "Citizenship Amendment Act and Inclusive India.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Effect of change in Global Environment: Challenges and way to go out.",
-    "is_structured": 1,
-    "last_updated": 1778953000,
-    "cite": "UPPSC Mains 2021 Essay",
     "q_number": "QB.3",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 Essay",
+    "last_updated": 1778953000,
+    "is_structured": 1,
+    "question_text": "Effect of change in Global Environment: Challenges and way to go out.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Global economy under COVID-19.",
-    "is_structured": 1,
-    "last_updated": 1778953000,
-    "cite": "UPPSC Mains 2021 Essay",
     "q_number": "QC.1",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 Essay",
+    "last_updated": 1778953000,
+    "is_structured": 1,
+    "question_text": "Global economy under COVID-19.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Democracy, election and caste.",
-    "is_structured": 1,
-    "last_updated": 1778953000,
-    "cite": "UPPSC Mains 2021 Essay",
     "q_number": "QC.2",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 Essay",
+    "last_updated": 1778953000,
+    "is_structured": 1,
+    "question_text": "Democracy, election and caste.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "India's Foreign Policy at present: condition and direction.",
-    "is_structured": 1,
-    "last_updated": 1778953000,
-    "cite": "UPPSC Mains 2021 Essay",
     "q_number": "QC.3",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 Essay",
+    "last_updated": 1778953000,
+    "is_structured": 1,
+    "question_text": "India's Foreign Policy at present: condition and direction.",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

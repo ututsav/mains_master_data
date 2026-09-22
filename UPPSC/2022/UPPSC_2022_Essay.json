@@ -5,14 +5,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "New standard for the excellent literature.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2022 Essay",
     "q_number": "QA.1",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 Essay",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "New standard for the excellent literature.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Women divided in double personality.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2022 Essay",
     "q_number": "QA.2",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 Essay",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Women divided in double personality.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Role of Education in the eradication of unemployment.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2022 Essay",
     "q_number": "QA.3",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 Essay",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Role of Education in the eradication of unemployment.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Blind industrialization is source of Environmental Pollution.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2022 Essay",
     "q_number": "QB.1",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 Essay",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Blind industrialization is source of Environmental Pollution.",
+    "subjectId": "ancient",
+    "subjects": [
+      "Ancient & Medieval"
+    ],
+    "topic": "Ancient History",
+    "topics": [
+      "Ancient History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Contribution of Agriculture in the Indian Economy.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2022 Essay",
     "q_number": "QB.2",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 Essay",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Contribution of Agriculture in the Indian Economy.",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Increasing Regionalism and National Unity.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2022 Essay",
     "q_number": "QB.3",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 Essay",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Increasing Regionalism and National Unity.",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Jan-Dhan Scheme is the charioteer of poors.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2022 Essay",
     "q_number": "QC.1",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 Essay",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Jan-Dhan Scheme is the charioteer of poors.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "For water preservation river co-ordination is demand of todays.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2022 Essay",
     "q_number": "QC.2",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 Essay",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "For water preservation river co-ordination is demand of todays.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Television is leading bad-culture.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2022 Essay",
     "q_number": "QC.3",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 Essay",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Television is leading bad-culture.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

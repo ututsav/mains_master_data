@@ -5,14 +5,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 1,
     "marks": 8,
     "importance": 3,
-    "question_text": "Describe the cultural significance of 'Ayodhya' on the basis of ancient literature.",
-    "is_structured": 1,
-    "last_updated": 1747330800,
-    "q_number": 1,
     "cite": "5",
+    "last_updated": 1747330800,
+    "is_structured": 1,
+    "question_text": "Describe the cultural significance of 'Ayodhya' on the basis of ancient literature.",
+    "subjectId": "up-history",
+    "subjects": [
+      "UP History & Culture"
+    ],
+    "topic": "UP History & Culture",
+    "topics": [
+      "UP History & Culture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 2,
     "marks": 8,
     "importance": 2,
-    "question_text": "Agra's Indo-Islamic architecture has blend of Indian, Persian and Islamic styles. Comment.",
-    "is_structured": 1,
-    "last_updated": 1747330800,
-    "q_number": 2,
     "cite": "5",
+    "last_updated": 1747330800,
+    "is_structured": 1,
+    "question_text": "Agra's Indo-Islamic architecture has blend of Indian, Persian and Islamic styles. Comment.",
+    "subjectId": "up-history",
+    "subjects": [
+      "UP History & Culture"
+    ],
+    "topic": "UP Ancient History",
+    "topics": [
+      "UP Ancient History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 3,
     "marks": 8,
     "importance": 2,
-    "question_text": "Discuss in short the contribution of Arya Samaj in education of Uttar Pradesh.",
-    "is_structured": 1,
-    "last_updated": 1747330800,
-    "q_number": 3,
     "cite": "5",
+    "last_updated": 1747330800,
+    "is_structured": 1,
+    "question_text": "Discuss in short the contribution of Arya Samaj in education of Uttar Pradesh.",
+    "subjectId": "up-history",
+    "subjects": [
+      "UP History & Culture"
+    ],
+    "topic": "UP Modern History",
+    "topics": [
+      "UP Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 4,
     "marks": 8,
     "importance": 2,
-    "question_text": "Elucidate the cultural significance of literature and music in day to day life of people of Uttar Pradesh.",
-    "is_structured": 1,
-    "last_updated": 1747330800,
-    "q_number": 4,
     "cite": "5",
+    "last_updated": 1747330800,
+    "is_structured": 1,
+    "question_text": "Elucidate the cultural significance of literature and music in day to day life of people of Uttar Pradesh.",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Health",
+    "topics": [
+      "UP Health"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 5,
     "marks": 8,
     "importance": 2,
-    "question_text": "Comment on the role of the Governor of Uttar Pradesh as a Constitutional Head.",
-    "is_structured": 1,
-    "last_updated": 1747330800,
-    "q_number": 5,
     "cite": "5",
+    "last_updated": 1747330800,
+    "is_structured": 1,
+    "question_text": "Comment on the role of the Governor of Uttar Pradesh as a Constitutional Head.",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Polity",
+    "topics": [
+      "UP Polity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 6,
     "marks": 8,
     "importance": 3,
-    "question_text": "Discuss the Jurisdiction of Allahabad High Court and its role in upholding Constitutional values.",
-    "is_structured": 1,
-    "last_updated": 1747330800,
-    "q_number": 6,
     "cite": "5",
+    "last_updated": 1747330800,
+    "is_structured": 1,
+    "question_text": "Discuss the Jurisdiction of Allahabad High Court and its role in upholding Constitutional values.",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Welfare",
+    "topics": [
+      "UP Welfare"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 7,
     "marks": 8,
     "importance": 2,
-    "question_text": "Comment on the relevance of the Right to Information Act in Uttar Pradesh.",
-    "is_structured": 1,
-    "last_updated": 1747330800,
-    "q_number": 7,
     "cite": "5",
+    "last_updated": 1747330800,
+    "is_structured": 1,
+    "question_text": "Comment on the relevance of the Right to Information Act in Uttar Pradesh.",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Welfare",
+    "topics": [
+      "UP Welfare"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 8,
     "marks": 8,
     "importance": 3,
-    "question_text": "Define Social Media and identify few threats it has generated for internal security with special reference to Uttar Pradesh.",
-    "is_structured": 1,
-    "last_updated": 1747330800,
-    "q_number": 8,
     "cite": "5",
+    "last_updated": 1747330800,
+    "is_structured": 1,
+    "question_text": "Define Social Media and identify few threats it has generated for internal security with special reference to Uttar Pradesh.",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Polity",
+    "topics": [
+      "UP Polity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 9,
     "marks": 8,
     "importance": 3,
-    "question_text": "Underline the main challenges pertaining to health in rural areas of Uttar Pradesh in the light of latest rural health data.",
-    "is_structured": 1,
-    "last_updated": 1747330800,
-    "q_number": 9,
     "cite": "5",
+    "last_updated": 1747330800,
+    "is_structured": 1,
+    "question_text": "Underline the main challenges pertaining to health in rural areas of Uttar Pradesh in the light of latest rural health data.",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Polity",
+    "topics": [
+      "UP Polity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -374,14 +446,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 10,
     "marks": 8,
     "importance": 2,
-    "question_text": "Discuss innovation in the agricultural sector of Uttar Pradesh and analyze its impact on farmer's income and rural employment.",
-    "is_structured": 1,
-    "last_updated": 1747330800,
-    "q_number": 10,
     "cite": "5",
+    "last_updated": 1747330800,
+    "is_structured": 1,
+    "question_text": "Discuss innovation in the agricultural sector of Uttar Pradesh and analyze its impact on farmer's income and rural employment.",
+    "subjectId": "up-history",
+    "subjects": [
+      "UP History & Culture"
+    ],
+    "topic": "UP Culture",
+    "topics": [
+      "UP Culture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -415,14 +495,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 11,
     "marks": 12,
     "importance": 3,
-    "question_text": "\"Ancient Mathura was the womb place of Jain Archaeological sources.\" Clarify this statement on the basis of Jain Archaeological sites in Braj Region.",
-    "is_structured": 1,
-    "last_updated": 1747334400,
-    "q_number": 11,
     "cite": "5",
+    "last_updated": 1747334400,
+    "is_structured": 1,
+    "question_text": "\"Ancient Mathura was the womb place of Jain Archaeological sources.\" Clarify this statement on the basis of Jain Archaeological sites in Braj Region.",
+    "subjectId": "medieval",
+    "subjects": [
+      "Medieval India"
+    ],
+    "topic": "UP Art & Architecture",
+    "topics": [
+      "UP Art & Architecture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -456,14 +544,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 12,
     "marks": 12,
     "importance": 3,
-    "question_text": "Elucidate the significance of Magh Mela and Kumbh Mela in the culture of Uttar Pradesh and focus on their salient features.",
-    "is_structured": 1,
-    "last_updated": 1747334400,
-    "q_number": 12,
     "cite": "5",
+    "last_updated": 1747334400,
+    "is_structured": 1,
+    "question_text": "Elucidate the significance of Magh Mela and Kumbh Mela in the culture of Uttar Pradesh and focus on their salient features.",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Welfare",
+    "topics": [
+      "UP Welfare"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -497,14 +593,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 13,
     "marks": 12,
     "importance": 3,
-    "question_text": "How did cities of Meerut, Lucknow, Kanpur and Jhansi in Uttar Pradesh contribute to the 1857 Revolt and what were the key events that took place in the State during this pivotal period?",
-    "is_structured": 1,
-    "last_updated": 1747334400,
-    "q_number": 13,
     "cite": "5",
+    "last_updated": 1747334400,
+    "is_structured": 1,
+    "question_text": "How did cities of Meerut, Lucknow, Kanpur and Jhansi in Uttar Pradesh contribute to the 1857 Revolt and what were the key events that took place in the State during this pivotal period?",
+    "subjectId": "up-history",
+    "subjects": [
+      "UP History & Culture"
+    ],
+    "topic": "UP Modern History",
+    "topics": [
+      "UP Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -538,14 +642,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 14,
     "marks": 12,
     "importance": 2,
-    "question_text": "Elucidate the significance of Birha and Kajari folk songs in the cultural life of Uttar Pradesh.",
-    "is_structured": 1,
-    "last_updated": 1747334400,
-    "q_number": 14,
     "cite": "5",
+    "last_updated": 1747334400,
+    "is_structured": 1,
+    "question_text": "Elucidate the significance of Birha and Kajari folk songs in the cultural life of Uttar Pradesh.",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Polity",
+    "topics": [
+      "UP Polity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -579,14 +691,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 15,
     "marks": 12,
     "importance": 2,
-    "question_text": "Describe the Constitutional provisions related to Centre-State relations in Indian Constitution and throw light on its relevance in the context of Uttar Pradesh.",
-    "is_structured": 1,
-    "last_updated": 1747334400,
-    "q_number": 15,
     "cite": "5",
+    "last_updated": 1747334400,
+    "is_structured": 1,
+    "question_text": "Describe the Constitutional provisions related to Centre-State relations in Indian Constitution and throw light on its relevance in the context of Uttar Pradesh.",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Health",
+    "topics": [
+      "UP Health"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -620,14 +740,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 16,
     "marks": 12,
     "importance": 2,
-    "question_text": "Discuss the composition, powers and functions of the Legislative Assembly of Uttar Pradesh.",
-    "is_structured": 1,
-    "last_updated": 1747334400,
-    "q_number": 16,
     "cite": "5",
+    "last_updated": 1747334400,
+    "is_structured": 1,
+    "question_text": "Discuss the composition, powers and functions of the Legislative Assembly of Uttar Pradesh.",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Polity",
+    "topics": [
+      "UP Polity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -661,14 +789,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 17,
     "marks": 12,
     "importance": 2,
-    "question_text": "\"Citizen Charter should be of the Citizen, by the Citizen and for the Citizen.\" Discuss with special reference to Uttar Pradesh.",
-    "is_structured": 1,
-    "last_updated": 1747334400,
-    "q_number": 17,
     "cite": "5",
+    "last_updated": 1747334400,
+    "is_structured": 1,
+    "question_text": "\"Citizen Charter should be of the Citizen, by the Citizen and for the Citizen.\" Discuss with special reference to Uttar Pradesh.",
+    "subjectId": "up-history",
+    "subjects": [
+      "UP History & Culture"
+    ],
+    "topic": "UP Culture",
+    "topics": [
+      "UP Culture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -702,14 +838,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 18,
     "marks": 12,
     "importance": 3,
-    "question_text": "Elucidate the relationship between organized crime and terrorism and examine its impact on security of Uttar Pradesh.",
-    "is_structured": 1,
-    "last_updated": 1747334400,
-    "q_number": 18,
     "cite": "5",
+    "last_updated": 1747334400,
+    "is_structured": 1,
+    "question_text": "Elucidate the relationship between organized crime and terrorism and examine its impact on security of Uttar Pradesh.",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Welfare",
+    "topics": [
+      "UP Welfare"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -743,14 +887,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 19,
     "marks": 12,
     "importance": 3,
-    "question_text": "Evaluate the role of Uttar Pradesh Science and Technology Policy, 2025 and the Council of Science and Technology (CST-UP) in building a resilient R&D ecosystem.",
-    "is_structured": 1,
-    "last_updated": 1747334400,
-    "q_number": 19,
     "cite": "5",
+    "last_updated": 1747334400,
+    "is_structured": 1,
+    "question_text": "Evaluate the role of Uttar Pradesh Science and Technology Policy, 2025 and the Council of Science and Technology (CST-UP) in building a resilient R&D ecosystem.",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Polity",
+    "topics": [
+      "UP Polity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -784,14 +936,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 20,
     "marks": 12,
     "importance": 2,
-    "question_text": "Critically examine the socio-economic potential of the new UP AYUSH Policy, 2025 in promoting wellness tourism and agricultural diversification.",
-    "is_structured": 1,
-    "last_updated": 1747334400,
-    "q_number": 20,
     "cite": "5",
+    "last_updated": 1747334400,
+    "is_structured": 1,
+    "question_text": "Critically examine the socio-economic potential of the new UP AYUSH Policy, 2025 in promoting wellness tourism and agricultural diversification.",
+    "subjectId": "up-history",
+    "subjects": [
+      "UP History & Culture"
+    ],
+    "topic": "UP History & Culture",
+    "topics": [
+      "UP History & Culture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

@@ -5,14 +5,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Give an account of the Vedic literature. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 1",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 1",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Give an account of the Vedic literature. (125 words)",
+    "subjectId": "ancient",
+    "subjects": [
+      "Ancient & Medieval"
+    ],
+    "topic": "Ancient History",
+    "topics": [
+      "Ancient History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -52,14 +60,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Write a note on the contribution of Sir Syed Ahmad Khan in modern education. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 1",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 1",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Write a note on the contribution of Sir Syed Ahmad Khan in modern education. (125 words)",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -99,14 +115,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 5,
-    "question_text": "Discuss the role of Sardar Patel in the unification of India after independence. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 1",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 1",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Discuss the role of Sardar Patel in the unification of India after independence. (125 words)",
+    "subjectId": "postindep",
+    "subjects": [
+      "Post-Independence"
+    ],
+    "topic": "Post-Independence",
+    "topics": [
+      "Post-Independence"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -146,14 +170,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "What kind of hindrances do regionalism create in the development of India? (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 1",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 1",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "What kind of hindrances do regionalism create in the development of India? (125 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -193,14 +225,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Unemployment 'is the only cause for the prevalent poverty in India' - Comment. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 1",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 1",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Unemployment 'is the only cause for the prevalent poverty in India' - Comment. (125 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Poverty & Society",
+    "topics": [
+      "Poverty & Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -240,14 +280,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Do you agree with the statement that crime against women in India is increasing? (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 1",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 1",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Do you agree with the statement that crime against women in India is increasing? (125 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Women & Society",
+    "topics": [
+      "Women & Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -287,14 +335,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "'Oceans are the store-house of resources.' - Write a short note. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 1",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 1",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "'Oceans are the store-house of resources.' - Write a short note. (125 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -334,14 +390,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Soil profile plays an important role in agriculture. Do you agree? (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 1",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 1",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Soil profile plays an important role in agriculture. Do you agree? (125 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -381,14 +445,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Throw light on Rohingya refugee in South Asia. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 1",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 1",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Throw light on Rohingya refugee in South Asia. (125 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -428,14 +500,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Write a short note on Nine Number channel and its strategic importance. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 1",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 1",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Write a short note on Nine Number channel and its strategic importance. (125 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -475,14 +555,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "Describe the architectural features of the temples of Nagar style. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 1",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 1",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Describe the architectural features of the temples of Nagar style. (200 words)",
+    "subjectId": "medieval",
+    "subjects": [
+      "Medieval India"
+    ],
+    "topic": "Art & Architecture",
+    "topics": [
+      "Art & Architecture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -534,14 +622,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 5,
-    "question_text": "Underline ideological dimensions of the uprising of 1857. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 1",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 1",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Underline ideological dimensions of the uprising of 1857. (200 words)",
+    "subjectId": "world",
+    "subjects": [
+      "World History"
+    ],
+    "topic": "World History",
+    "topics": [
+      "World History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -587,14 +683,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "Evaluate the role of Bismarck in the unification of Germany. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 1",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 1",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Evaluate the role of Bismarck in the unification of Germany. (200 words)",
+    "subjectId": "world",
+    "subjects": [
+      "World History"
+    ],
+    "topic": "World History",
+    "topics": [
+      "World History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -640,14 +744,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "How did Indian culture affect the world during Corona pandemic period ? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 1",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 1",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "How did Indian culture affect the world during Corona pandemic period ? (200 words)",
+    "subjectId": "culture",
+    "subjects": [
+      "Art & Culture"
+    ],
+    "topic": "Indian Culture",
+    "topics": [
+      "Indian Culture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -693,14 +805,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "Evaluate the role of woman organisations in woman empowerment. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 1",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 1",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Evaluate the role of woman organisations in woman empowerment. (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Women & Society",
+    "topics": [
+      "Women & Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -746,14 +866,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "The process of urbanization leads to development or devastation in the society. Write your views. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 1",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 1",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "The process of urbanization leads to development or devastation in the society. Write your views. (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Urbanisation",
+    "topics": [
+      "Urbanisation"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -799,14 +927,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "Discuss the causes and consequences of internal human migration in India. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 1",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 1",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Discuss the causes and consequences of internal human migration in India. (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Population",
+    "topics": [
+      "Population"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -852,14 +988,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 5,
-    "question_text": "Discuss the relationship between El Nino and south-east monsoon in India and its impact on agriculture. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 1",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 1",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Discuss the relationship between El Nino and south-east monsoon in India and its impact on agriculture. (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -905,14 +1049,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "Write a short note on temperate cyclones. How it impacts India ? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 1",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 1",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Write a short note on temperate cyclones. How it impacts India ? (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -958,14 +1110,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "Discuss India's mineral development policy. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 1",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 1",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Discuss India's mineral development policy. (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Indian Geography",
+    "topics": [
+      "Indian Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

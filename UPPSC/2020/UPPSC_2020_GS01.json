@@ -5,14 +5,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Write a note on the town planning of Harappan civilization period.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2020 GS Paper 1",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Write a note on the town planning of Harappan civilization period.",
+    "subjectId": "ancient",
+    "subjects": [
+      "Ancient & Medieval"
+    ],
+    "topic": "Ancient History",
+    "topics": [
+      "Ancient History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Evaluate the views of Gandhi on the Varna system.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2020 GS Paper 1",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Evaluate the views of Gandhi on the Varna system.",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Write a critical note on the Foreign Policy of Mussolini, the leader of Fascism in Italy.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2020 GS Paper 1",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Write a critical note on the Foreign Policy of Mussolini, the leader of Fascism in Italy.",
+    "subjectId": "world",
+    "subjects": [
+      "World History"
+    ],
+    "topic": "World History",
+    "topics": [
+      "World History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Describe the advantages of India being a composite culture society.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2020 GS Paper 1",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Describe the advantages of India being a composite culture society.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Critically examine the contributions of major women's organisations in contemporary India.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2020 GS Paper 1",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Critically examine the contributions of major women's organisations in contemporary India.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Women & Society",
+    "topics": [
+      "Women & Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Critically examine whether growing population is the main cause of poverty or poverty is the main cause of population increase in India.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2020 GS Paper 1",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Critically examine whether growing population is the main cause of poverty or poverty is the main cause of population increase in India.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Population",
+    "topics": [
+      "Population"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Divide Uttar Pradesh into major physical regions and describe the geographical features of Bhabar and Terai regions.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2020 GS Paper 1",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Divide Uttar Pradesh into major physical regions and describe the geographical features of Bhabar and Terai regions.",
+    "subjectId": "up-geo",
+    "subjects": [
+      "UP Geography & Environment"
+    ],
+    "topic": "UP Geography",
+    "topics": [
+      "UP Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What is 'Smart City Mission'? Discuss the main characteristics of cities of Eastern Uttar Pradesh selected under this scheme.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2020 GS Paper 1",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "What is 'Smart City Mission'? Discuss the main characteristics of cities of Eastern Uttar Pradesh selected under this scheme.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Urbanisation",
+    "topics": [
+      "Urbanisation"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Describe the location of major tourist places of Bundelkhand Tourist Circuit of U.P.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2020 GS Paper 1",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Describe the location of major tourist places of Bundelkhand Tourist Circuit of U.P.",
+    "subjectId": "up-history",
+    "subjects": [
+      "UP History & Culture"
+    ],
+    "topic": "UP Culture",
+    "topics": [
+      "UP Culture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -374,14 +446,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Explain the difference between the frontier and the boundary with special reference to India.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2020 GS Paper 1",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Explain the difference between the frontier and the boundary with special reference to India.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -415,14 +495,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Critically examine the impacts of West on the field of Indian education.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2020 GS Paper 1",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Critically examine the impacts of West on the field of Indian education.",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -456,14 +544,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the expansion of British rule in India during Governor Generalship of Lord Wellesley.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2020 GS Paper 1",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Discuss the expansion of British rule in India during Governor Generalship of Lord Wellesley.",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -497,14 +593,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Who were Jacobins? What were their role in the French Revolution?",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2020 GS Paper 1",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Who were Jacobins? What were their role in the French Revolution?",
+    "subjectId": "world",
+    "subjects": [
+      "World History"
+    ],
+    "topic": "World History",
+    "topics": [
+      "World History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -538,14 +642,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Critically examine the concept of nation and citizenship in context of communalism.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2020 GS Paper 1",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Critically examine the concept of nation and citizenship in context of communalism.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -579,14 +691,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What is Liberalization? How is it affecting the Indian social structure?",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2020 GS Paper 1",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "What is Liberalization? How is it affecting the Indian social structure?",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -620,14 +740,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Underline the changes happening gradually in the sources of irrigation in U.P.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2020 GS Paper 1",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Underline the changes happening gradually in the sources of irrigation in U.P.",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Agriculture",
+    "topics": [
+      "UP Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -661,14 +789,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the causes of volcanic eruption and describe the land-forms formed by deposition of its lava.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2020 GS Paper 1",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Discuss the causes of volcanic eruption and describe the land-forms formed by deposition of its lava.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -702,14 +838,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Highlight the various ecological problems associated with the exploitation and utilization of resources from the Indian Ocean.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2020 GS Paper 1",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Highlight the various ecological problems associated with the exploitation and utilization of resources from the Indian Ocean.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -743,14 +887,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What is 'reverse migration'? What was its impact on the economy and social order of Uttar Pradesh during the COVID-19 Lockdown?",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2020 GS Paper 1",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "What is 'reverse migration'? What was its impact on the economy and social order of Uttar Pradesh during the COVID-19 Lockdown?",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -784,14 +936,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Describe the role of Glaciers in shaping the land-forms in high mountain areas.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2020 GS Paper 1",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 1",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Describe the role of Glaciers in shaping the land-forms in high mountain areas.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -801,20 +961,32 @@
       },
       {
         "section": "Body",
-        "text": "Describe erosional landforms: Glaciers erode via plucking and abrasion. This process transforms V-shaped river valleys into broad, steep-sided U-shaped valleys. It carves out deep, bowl-shaped depressions called cirques, and where multiple cirques intersect, sharp, pyramidal peaks known as horns (e.g., Matterhorn) are formed.",
-        "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 1"
+        "text": "Describe erosional landforms: Glaciers erode via plucking and abrasion.",
+        "cite": "UPPSC Mains 2020 GS Paper 1",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "This process transforms V-shaped river valleys into broad, steep-sided U-shaped valleys.",
+        "cite": "UPPSC Mains 2020 GS Paper 1",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "It carves out deep, bowl-shaped depressions called cirques, and where multiple cirques intersect, sharp, pyramidal peaks known as horns (e.g., Matterhorn) are formed.",
+        "cite": "UPPSC Mains 2020 GS Paper 1",
+        "order": 4
       },
       {
         "section": "Body",
         "text": "Describe depositional landforms: As glaciers melt, they deposit unassorted rock debris called glacial till. This forms ridges known as moraines (terminal, lateral, and medial) and streamlined, elongated hills called drumlins.",
-        "order": 3,
+        "order": 5,
         "cite": "UPPSC Mains 2020 GS Paper 1"
       },
       {
         "section": "Conclusion",
         "text": "Conclude that glacial activity leaves a permanent, highly distinctive signature on the landscape, making high mountain areas both ruggedly beautiful and geologically revealing.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2020 GS Paper 1"
       }
     ]

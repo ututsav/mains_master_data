@@ -5,14 +5,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Literature and Moral Values.",
-    "is_structured": 1,
-    "last_updated": 1778967500,
-    "cite": "UPPSC Mains 2019 Essay",
     "q_number": "QA.1",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 Essay",
+    "last_updated": 1778967500,
+    "is_structured": 1,
+    "question_text": "Literature and Moral Values.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Sexual crime cause and solution.",
-    "is_structured": 1,
-    "last_updated": 1778967500,
-    "cite": "UPPSC Mains 2019 Essay",
     "q_number": "QA.2",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 Essay",
+    "last_updated": 1778967500,
+    "is_structured": 1,
+    "question_text": "Sexual crime cause and solution.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "One Nation, one Constitution.",
-    "is_structured": 1,
-    "last_updated": 1778967500,
-    "cite": "UPPSC Mains 2019 Essay",
     "q_number": "QA.3",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 Essay",
+    "last_updated": 1778967500,
+    "is_structured": 1,
+    "question_text": "One Nation, one Constitution.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Role of social media in public awareness.",
-    "is_structured": 1,
-    "last_updated": 1778967500,
-    "cite": "UPPSC Mains 2019 Essay",
     "q_number": "QB.1",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 Essay",
+    "last_updated": 1778967500,
+    "is_structured": 1,
+    "question_text": "Role of social media in public awareness.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Digital Economy: possibilities and challenges.",
-    "is_structured": 1,
-    "last_updated": 1778967500,
-    "cite": "UPPSC Mains 2019 Essay",
     "q_number": "QB.2",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 Essay",
+    "last_updated": 1778967500,
+    "is_structured": 1,
+    "question_text": "Digital Economy: possibilities and challenges.",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Farmers of India: our pride.",
-    "is_structured": 1,
-    "last_updated": 1778967500,
-    "cite": "UPPSC Mains 2019 Essay",
     "q_number": "QB.3",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 Essay",
+    "last_updated": 1778967500,
+    "is_structured": 1,
+    "question_text": "Farmers of India: our pride.",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Changing paradigm of Indian foreign policy.",
-    "is_structured": 1,
-    "last_updated": 1778967500,
-    "cite": "UPPSC Mains 2019 Essay",
     "q_number": "QC.1",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 Essay",
+    "last_updated": 1778967500,
+    "is_structured": 1,
+    "question_text": "Changing paradigm of Indian foreign policy.",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Resource management in India.",
-    "is_structured": 1,
-    "last_updated": 1778967500,
-    "cite": "UPPSC Mains 2019 Essay",
     "q_number": "QC.2",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 Essay",
+    "last_updated": 1778967500,
+    "is_structured": 1,
+    "question_text": "Resource management in India.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Namami Gange Mission.",
-    "is_structured": 1,
-    "last_updated": 1778967500,
-    "cite": "UPPSC Mains 2019 Essay",
     "q_number": "QC.3",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 Essay",
+    "last_updated": 1778967500,
+    "is_structured": 1,
+    "question_text": "Namami Gange Mission.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

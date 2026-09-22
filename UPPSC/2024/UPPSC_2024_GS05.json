@@ -5,14 +5,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Describe the cultural significance of 'Prayagraj' in ancient India. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 5",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 5",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Describe the cultural significance of 'Prayagraj' in ancient India. (125 words)",
+    "subjectId": "up-history",
+    "subjects": [
+      "UP History & Culture"
+    ],
+    "topic": "UP History & Culture",
+    "topics": [
+      "UP History & Culture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -52,14 +60,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Write about the major republics located in Uttar Pradesh and their political system in the 6th century B.C. (125 words)",
-    "is_structured": 0,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 5",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 5",
+    "last_updated": 1779105600,
+    "is_structured": 0,
+    "question_text": "Write about the major republics located in Uttar Pradesh and their political system in the 6th century B.C. (125 words)",
+    "subjectId": "up-history",
+    "subjects": [
+      "UP History & Culture"
+    ],
+    "topic": "UP Ancient History",
+    "topics": [
+      "UP Ancient History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -93,14 +109,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 3,
     "marks": 8,
     "importance": 3,
-    "question_text": "What was the policy of the British Government towards the Taluqdars of Awadh after the Revolt of 1857? (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
     "cite": "UPPSC Mains 2024 GS Paper 5",
-    "q_number": 3,
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "What was the policy of the British Government towards the Taluqdars of Awadh after the Revolt of 1857? (125 words)",
+    "subjectId": "up-history",
+    "subjects": [
+      "UP History & Culture"
+    ],
+    "topic": "UP Modern History",
+    "topics": [
+      "UP Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -140,14 +164,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Critically explain the efforts of the State Government towards strengthening the health infrastructure in Uttar Pradesh. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 5",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 5",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Critically explain the efforts of the State Government towards strengthening the health infrastructure in Uttar Pradesh. (125 words)",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Health",
+    "topics": [
+      "UP Health"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -187,14 +219,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Distinguish between the Consolidated Fund and the Contingency Fund of the State of Uttar Pradesh. (125 words)",
-    "is_structured": 0,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 5",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 5",
+    "last_updated": 1779105600,
+    "is_structured": 0,
+    "question_text": "Distinguish between the Consolidated Fund and the Contingency Fund of the State of Uttar Pradesh. (125 words)",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Polity",
+    "topics": [
+      "UP Polity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -228,14 +268,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Discuss the composition and jurisdiction of the State High Court of Uttar Pradesh. (125 words)",
-    "is_structured": 0,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 5",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 5",
+    "last_updated": 1779105600,
+    "is_structured": 0,
+    "question_text": "Discuss the composition and jurisdiction of the State High Court of Uttar Pradesh. (125 words)",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Polity",
+    "topics": [
+      "UP Polity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -269,14 +317,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "What are the key challenges in ensuring an efficient law and order situation in Uttar Pradesh? (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 5",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 5",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "What are the key challenges in ensuring an efficient law and order situation in Uttar Pradesh? (125 words)",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Polity",
+    "topics": [
+      "UP Polity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -316,14 +372,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 8,
     "marks": 8,
     "importance": 3,
-    "question_text": "Analyse the problems related to Non-Governmental Organisations (NGOs) in Uttar Pradesh. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
     "cite": "UPPSC Mains 2024 GS Paper 5",
-    "q_number": 8,
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Analyse the problems related to Non-Governmental Organisations (NGOs) in Uttar Pradesh. (125 words)",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Polity",
+    "topics": [
+      "UP Polity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -363,14 +427,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Discuss the role of 'Inland Waterways Authority to boost the water transport and tourism in Uttar Pradesh. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 5",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 5",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Discuss the role of 'Inland Waterways Authority to boost the water transport and tourism in Uttar Pradesh. (125 words)",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Infrastructure",
+    "topics": [
+      "UP Infrastructure"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -410,14 +482,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Discuss the role of 'Smart City for better living conditions of the people of Uttar Pradesh. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 5",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 5",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Discuss the role of 'Smart City for better living conditions of the people of Uttar Pradesh. (125 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Urbanisation",
+    "topics": [
+      "Urbanisation"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -457,14 +537,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "What are the salient features of the architecture of Uttar Pradesh? Describe its key elements and styles. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 5",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 5",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "What are the salient features of the architecture of Uttar Pradesh? Describe its key elements and styles. (200 words)",
+    "subjectId": "medieval",
+    "subjects": [
+      "Medieval India"
+    ],
+    "topic": "UP Art & Architecture",
+    "topics": [
+      "UP Art & Architecture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -510,14 +598,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "Discuss the causes for the rise of the towns in ancient Uttar Pradesh. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 5",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 5",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Discuss the causes for the rise of the towns in ancient Uttar Pradesh. (200 words)",
+    "subjectId": "up-history",
+    "subjects": [
+      "UP History & Culture"
+    ],
+    "topic": "UP Ancient History",
+    "topics": [
+      "UP Ancient History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -563,14 +659,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 5,
-    "question_text": "Critically analyse the role of Uttar Pradesh in the Indian Freedom Movement. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 5",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 5",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Critically analyse the role of Uttar Pradesh in the Indian Freedom Movement. (200 words)",
+    "subjectId": "up-history",
+    "subjects": [
+      "UP History & Culture"
+    ],
+    "topic": "UP Modern History",
+    "topics": [
+      "UP Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -622,14 +726,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 14,
     "marks": 12,
     "importance": 3,
-    "question_text": "Elucide in detail the characteristics of major festivals and their socio-economic role in the rural areas of Uttar Pradesh. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
     "cite": "UPPSC Mains 2024 GS Paper 5",
-    "q_number": 14,
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Elucide in detail the characteristics of major festivals and their socio-economic role in the rural areas of Uttar Pradesh. (200 words)",
+    "subjectId": "up-history",
+    "subjects": [
+      "UP History & Culture"
+    ],
+    "topic": "UP Culture",
+    "topics": [
+      "UP Culture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -675,14 +787,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "\"If a Second Chamber dissents from the first, it is mischievous; if it agrees, it is superfluous.\" In the light of this famous statement, discuss the utility of Uttar Pradesh Legislative Council. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 5",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 5",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "\"If a Second Chamber dissents from the first, it is mischievous; if it agrees, it is superfluous.\" In the light of this famous statement, discuss the utility of Uttar Pradesh Legislative Council. (200 words)",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Polity",
+    "topics": [
+      "UP Polity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -728,14 +848,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "\"Panchayati Raj System has long success stories in Uttar Pradesh.\" Corroborate with suitable examples. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 5",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 5",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "\"Panchayati Raj System has long success stories in Uttar Pradesh.\" Corroborate with suitable examples. (200 words)",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Polity",
+    "topics": [
+      "UP Polity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -781,14 +909,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "Discuss the role of Uttar Pradesh Public Service Commission and explain the challenges before it for independent and impartial selection of public servants. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 5",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 5",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Discuss the role of Uttar Pradesh Public Service Commission and explain the challenges before it for independent and impartial selection of public servants. (200 words)",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Polity",
+    "topics": [
+      "UP Polity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -834,14 +970,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 5,
-    "question_text": "Organised crime and terrorism are grave challenges to national security. What arrangements have been made in Uttar Pradesh to counter this? Explain. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 5",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 5",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Organised crime and terrorism are grave challenges to national security. What arrangements have been made in Uttar Pradesh to counter this? Explain. (200 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -887,14 +1031,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "Examine the challenges of food security in Uttar Pradesh. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 5",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 5",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Examine the challenges of food security in Uttar Pradesh. (200 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Food Security",
+    "topics": [
+      "Food Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -940,14 +1092,22 @@
     "year": 2024,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "Write a note on Failure and future of public schooling education' in Uttar Pradesh. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2024 GS Paper 5",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2024 GS Paper 5",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Write a note on Failure and future of public schooling education' in Uttar Pradesh. (200 words)",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Health",
+    "topics": [
+      "UP Health"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

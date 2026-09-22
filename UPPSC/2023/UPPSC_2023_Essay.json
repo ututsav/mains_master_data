@@ -5,14 +5,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Role of literature in character building.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2023 Essay",
     "q_number": "QA.1",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 Essay",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Role of literature in character building.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "The problem of old peoples in metropolitan cities.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2023 Essay",
     "q_number": "QA.2",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 Essay",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "The problem of old peoples in metropolitan cities.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Meaning of G-20 leadership for India.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2023 Essay",
     "q_number": "QA.3",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 Essay",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Meaning of G-20 leadership for India.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Space science and India.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2023 Essay",
     "q_number": "QB.1",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 Essay",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Space science and India.",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "New possibilities in the agricultural sector.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2023 Essay",
     "q_number": "QB.2",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 Essay",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "New possibilities in the agricultural sector.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Globalization and cottage industry.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2023 Essay",
     "q_number": "QB.3",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 Essay",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Globalization and cottage industry.",
+    "subjectId": "ancient",
+    "subjects": [
+      "Ancient & Medieval"
+    ],
+    "topic": "Ancient History",
+    "topics": [
+      "Ancient History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "The effect of economic crisis in Sri Lanka on whole world.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2023 Essay",
     "q_number": "QC.1",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 Essay",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "The effect of economic crisis in Sri Lanka on whole world.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "Melting glaciers danger for human beings.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2023 Essay",
     "q_number": "QC.2",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 Essay",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Melting glaciers danger for human beings.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 50,
-    "importance": null,
-    "question_text": "P.M. Annadata Aay Sanrakshan Abhiyan.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2023 Essay",
     "q_number": "QC.3",
+    "marks": 50,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 Essay",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "P.M. Annadata Aay Sanrakshan Abhiyan.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

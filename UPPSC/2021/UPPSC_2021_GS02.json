@@ -5,14 +5,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Discuss the role of Non-Government Organizations in the process of Policy formulation.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Discuss the role of Non-Government Organizations in the process of Policy formulation.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Polity",
+    "topics": [
+      "Polity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "'Citizen charter in India could not become effective. There is a need to make it effective and meaningul'- Evaluate.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "'Citizen charter in India could not become effective. There is a need to make it effective and meaningul'- Evaluate.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "How the issues related to hunger and poverty in India are impinging upon electoral politics?",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "How the issues related to hunger and poverty in India are impinging upon electoral politics?",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Federalism",
+    "topics": [
+      "Federalism"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "The Preamble of the Constitution affirms the basic features of the Constitution and the promotion of human dignity-Elucidate.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "The Preamble of the Constitution affirms the basic features of the Constitution and the promotion of human dignity-Elucidate.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Parliament",
+    "topics": [
+      "Parliament"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Describe the financial relations between the Centre and States in India.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Describe the financial relations between the Centre and States in India.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Judiciary",
+    "topics": [
+      "Judiciary"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Critically examine the impact and role of Political parties in the Indian Political System.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Critically examine the impact and role of Political parties in the Indian Political System.",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Describe the role played by Parliamentary Committees in the functioning of Indian Parliament.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Describe the role played by Parliamentary Committees in the functioning of Indian Parliament.",
+    "subjectId": "justice",
+    "subjects": [
+      "Social Justice"
+    ],
+    "topic": "Social Justice",
+    "topics": [
+      "Social Justice"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Comment ont the main theme of the G-20 Summit helf in 2021 (Rome).",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Comment ont the main theme of the G-20 Summit helf in 2021 (Rome).",
+    "subjectId": "justice",
+    "subjects": [
+      "Social Justice"
+    ],
+    "topic": "Social Justice",
+    "topics": [
+      "Social Justice"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Discuss the role of Chinese factor behind strained relations between India and Nepal.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Discuss the role of Chinese factor behind strained relations between India and Nepal.",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -374,14 +446,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What are the major challenges before the revenue system of Uttar Pradesh?",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "What are the major challenges before the revenue system of Uttar Pradesh?",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -415,14 +495,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the role of Civil Services in a democratic set-up with special reference to India.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Discuss the role of Civil Services in a democratic set-up with special reference to India.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -456,14 +544,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Describing the composition and functions of the Central Vigilance Commission, analyse It's limitation.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Describing the composition and functions of the Central Vigilance Commission, analyse It's limitation.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Federalism",
+    "topics": [
+      "Federalism"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -497,14 +593,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Mahatma Gandhi National Rural Employment Guarantee Act empowers rural poor to alleviate poverty, comment on it.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Mahatma Gandhi National Rural Employment Guarantee Act empowers rural poor to alleviate poverty, comment on it.",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -538,14 +642,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "'The structure of the Indian Constitution is federal but its soul in Unitary.' Elucidate it.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "'The structure of the Indian Constitution is federal but its soul in Unitary.' Elucidate it.",
+    "subjectId": "justice",
+    "subjects": [
+      "Social Justice"
+    ],
+    "topic": "Social Justice",
+    "topics": [
+      "Social Justice"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -579,14 +691,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the main methods by which the Parliament of India controls the executive.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Discuss the main methods by which the Parliament of India controls the executive.",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Elections",
+    "topics": [
+      "Elections"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -620,14 +740,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Analyse the problems that have restricted the successes of Panchayati Raj System in India. How far has the seventy third Constitutional Amendment been successful in countering these problems?",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Analyse the problems that have restricted the successes of Panchayati Raj System in India. How far has the seventy third Constitutional Amendment been successful in countering these problems?",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -661,14 +789,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Examine the role of the Comptroller and Auditor General (CAG) in India as the costodian of public money.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Examine the role of the Comptroller and Auditor General (CAG) in India as the costodian of public money.",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Polity",
+    "topics": [
+      "UP Polity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -702,14 +838,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Write a short note on the structure and functioning of the Arctic Council.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Write a short note on the structure and functioning of the Arctic Council.",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -743,14 +887,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Evaluate the reasons of India's 'Soft Power' diplomacy in Afghanistan.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Evaluate the reasons of India's 'Soft Power' diplomacy in Afghanistan.",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -784,14 +936,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Abraham Accords are a new beginning in the Politics of West Asia. Explain.",
-    "is_structured": 1,
-    "last_updated": 1778949821,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
+    "last_updated": 1778949821,
+    "is_structured": 1,
+    "question_text": "Abraham Accords are a new beginning in the Politics of West Asia. Explain.",
+    "subjectId": "justice",
+    "subjects": [
+      "Social Justice"
+    ],
+    "topic": "Social Justice",
+    "topics": [
+      "Social Justice"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

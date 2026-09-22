@@ -5,14 +5,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Describe the salient features of \"UMANG Scheme\" related to e-governance.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Describe the salient features of \"UMANG Scheme\" related to e-governance.",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What are the fundamental causes of poverty and hunger? What are government schemes which have been implemented to eliminate poverty and hunger?",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "What are the fundamental causes of poverty and hunger? What are government schemes which have been implemented to eliminate poverty and hunger?",
+    "subjectId": "justice",
+    "subjects": [
+      "Social Justice"
+    ],
+    "topic": "Social Justice",
+    "topics": [
+      "Social Justice"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Discuss the role of non-governmental organisation in the process of policy making.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Discuss the role of non-governmental organisation in the process of policy making.",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What are the rights within the ambit of Article 21 of the Indian Constitution?",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "What are the rights within the ambit of Article 21 of the Indian Constitution?",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Consider the functions and relations of the Chief Minister and the Governor of State.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Consider the functions and relations of the Chief Minister and the Governor of State.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Federalism",
+    "topics": [
+      "Federalism"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Critically examine the role of Finance Commission in the Centre-State financial relations.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Critically examine the role of Finance Commission in the Centre-State financial relations.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Federalism",
+    "topics": [
+      "Federalism"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "\"Lok Adalats have acted as a great catalyst for change in the Indian Legal System\". Elucidate.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "\"Lok Adalats have acted as a great catalyst for change in the Indian Legal System\". Elucidate.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Judiciary",
+    "topics": [
+      "Judiciary"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Energy security is the most important part of economic progress of India. Analyse India's energy policy co-operation with West Asian Countries.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Energy security is the most important part of economic progress of India. Analyse India's energy policy co-operation with West Asian Countries.",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Discuss the causes of Russia -Ukraine conflict.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Discuss the causes of Russia -Ukraine conflict.",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -374,14 +446,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Which are the contentions issues between India and Nepal? Explain.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Which are the contentions issues between India and Nepal? Explain.",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -415,14 +495,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the challenges before Self Help Groups (SHGs). What are the measures to make it effective and beneficial ?",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Discuss the challenges before Self Help Groups (SHGs). What are the measures to make it effective and beneficial ?",
+    "subjectId": "justice",
+    "subjects": [
+      "Social Justice"
+    ],
+    "topic": "Social Justice",
+    "topics": [
+      "Social Justice"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -456,14 +544,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Describing the objective of the \"Mission Shakti\" program run by the Government of Uttar Pradesh, tell how far it has been successfull in achieving its objectives?",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Describing the objective of the \"Mission Shakti\" program run by the Government of Uttar Pradesh, tell how far it has been successfull in achieving its objectives?",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Welfare",
+    "topics": [
+      "UP Welfare"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -497,14 +593,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Explain the objectives and composition of \"NITI Ayog\". What are its significance achievements?",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Explain the objectives and composition of \"NITI Ayog\". What are its significance achievements?",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -538,14 +642,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Are the committees considered to be useful for Parliamentary work? Discuss, in this context, the role of the Estimate Committee.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Are the committees considered to be useful for Parliamentary work? Discuss, in this context, the role of the Estimate Committee.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Parliament",
+    "topics": [
+      "Parliament"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -579,14 +691,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "How is the President of India Elected?",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "How is the President of India Elected?",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -620,14 +740,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "The concept of \"One nation one election\" has its own prospects and limitations in India, Examine.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "The concept of \"One nation one election\" has its own prospects and limitations in India, Examine.",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Elections",
+    "topics": [
+      "Elections"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -661,14 +789,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the evolution and impact of the \"Basic structure doctrine\" of the Indian Constitution.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Discuss the evolution and impact of the \"Basic structure doctrine\" of the Indian Constitution.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -702,14 +838,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Write a critical note on problems and reforms of administrative system in Uttar Pradesh.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Write a critical note on problems and reforms of administrative system in Uttar Pradesh.",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Polity",
+    "topics": [
+      "UP Polity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -743,14 +887,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What are the areas of contention and co-operation in India-USA relations? Discuss.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "What are the areas of contention and co-operation in India-USA relations? Discuss.",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -784,14 +936,22 @@
     "year": 2022,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Evaluate the role of World Bank in sustainable development of India.",
-    "is_structured": 1,
-    "last_updated": 1715867095,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
+    "last_updated": 1715867095,
+    "is_structured": 1,
+    "question_text": "Evaluate the role of World Bank in sustainable development of India.",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

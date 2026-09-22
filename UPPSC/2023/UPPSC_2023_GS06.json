@@ -5,14 +5,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "How does the Uttar Pradesh Agriculture Export Policy 2019 strengthens the agricultural export activities in the State ?",
-    "is_structured": 1,
-    "last_updated": 1778948500,
-    "cite": "UPPSC Mains 2023 GS Paper 6",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 6",
+    "last_updated": 1778948500,
+    "is_structured": 1,
+    "question_text": "How does the Uttar Pradesh Agriculture Export Policy 2019 strengthens the agricultural export activities in the State ?",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Economy",
+    "topics": [
+      "UP Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What are the key features of the Uttar Pradesh Defence Industrial Corridor ?",
-    "is_structured": 1,
-    "last_updated": 1778948500,
-    "cite": "UPPSC Mains 2023 GS Paper 6",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 6",
+    "last_updated": 1778948500,
+    "is_structured": 1,
+    "question_text": "What are the key features of the Uttar Pradesh Defence Industrial Corridor ?",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Industry",
+    "topics": [
+      "UP Industry"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What are the key features and significance of the Lower Ganga Canal System in Uttar Pradesh ?",
-    "is_structured": 1,
-    "last_updated": 1778948500,
-    "cite": "UPPSC Mains 2023 GS Paper 6",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 6",
+    "last_updated": 1778948500,
+    "is_structured": 1,
+    "question_text": "What are the key features and significance of the Lower Ganga Canal System in Uttar Pradesh ?",
+    "subjectId": "up-geo",
+    "subjects": [
+      "UP Geography & Environment"
+    ],
+    "topic": "UP Geography",
+    "topics": [
+      "UP Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What is the Skill Development Scheme under One District One Product Programme of the Government of Uttar Pradesh ?",
-    "is_structured": 1,
-    "last_updated": 1778948500,
-    "cite": "UPPSC Mains 2023 GS Paper 6",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 6",
+    "last_updated": 1778948500,
+    "is_structured": 1,
+    "question_text": "What is the Skill Development Scheme under One District One Product Programme of the Government of Uttar Pradesh ?",
+    "subjectId": "up-geo",
+    "subjects": [
+      "UP Geography & Environment"
+    ],
+    "topic": "UP Environment",
+    "topics": [
+      "UP Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What are the major schemes for Empowerment and Welfare of Divyaangjan in Uttar Pradesh ?",
-    "is_structured": 1,
-    "last_updated": 1778948500,
-    "cite": "UPPSC Mains 2023 GS Paper 6",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 6",
+    "last_updated": 1778948500,
+    "is_structured": 1,
+    "question_text": "What are the major schemes for Empowerment and Welfare of Divyaangjan in Uttar Pradesh ?",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Agriculture",
+    "topics": [
+      "UP Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What are the major benefits of the Poorvanchal Expressway Project ?",
-    "is_structured": 1,
-    "last_updated": 1778948500,
-    "cite": "UPPSC Mains 2023 GS Paper 6",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 6",
+    "last_updated": 1778948500,
+    "is_structured": 1,
+    "question_text": "What are the major benefits of the Poorvanchal Expressway Project ?",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Energy",
+    "topics": [
+      "UP Energy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What are the main features of the Uttar Pradesh Millets Revival Programme ?",
-    "is_structured": 1,
-    "last_updated": 1778948500,
-    "cite": "UPPSC Mains 2023 GS Paper 6",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 6",
+    "last_updated": 1778948500,
+    "is_structured": 1,
+    "question_text": "What are the main features of the Uttar Pradesh Millets Revival Programme ?",
+    "subjectId": "up-geo",
+    "subjects": [
+      "UP Geography & Environment"
+    ],
+    "topic": "UP Environment",
+    "topics": [
+      "UP Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Mention the major problems and challenges associated with the utilization of the groundwater in Uttar Pradesh.",
-    "is_structured": 1,
-    "last_updated": 1778948500,
-    "cite": "UPPSC Mains 2023 GS Paper 6",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 6",
+    "last_updated": 1778948500,
+    "is_structured": 1,
+    "question_text": "Mention the major problems and challenges associated with the utilization of the groundwater in Uttar Pradesh.",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Industry",
+    "topics": [
+      "UP Industry"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What are the major guidelines of Uttar Pradesh Government with reference to Plastic Waste Management ?",
-    "is_structured": 1,
-    "last_updated": 1778948500,
-    "cite": "UPPSC Mains 2023 GS Paper 6",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 6",
+    "last_updated": 1778948500,
+    "is_structured": 1,
+    "question_text": "What are the major guidelines of Uttar Pradesh Government with reference to Plastic Waste Management ?",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Economy",
+    "topics": [
+      "UP Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -374,14 +446,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What is the Vision Plan 2030 of Uttar Pradesh Government with reference to the terrestrial ecosystem in the State ?",
-    "is_structured": 1,
-    "last_updated": 1778948500,
-    "cite": "UPPSC Mains 2023 GS Paper 6",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 6",
+    "last_updated": 1778948500,
+    "is_structured": 1,
+    "question_text": "What is the Vision Plan 2030 of Uttar Pradesh Government with reference to the terrestrial ecosystem in the State ?",
+    "subjectId": "up-geo",
+    "subjects": [
+      "UP Geography & Environment"
+    ],
+    "topic": "UP Geography",
+    "topics": [
+      "UP Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -415,14 +495,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What provisions have been made in the budget of Uttar Pradesh for 2023-24 to improve its infrastructure ?",
-    "is_structured": 1,
-    "last_updated": 1778948500,
-    "cite": "UPPSC Mains 2023 GS Paper 6",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 6",
+    "last_updated": 1778948500,
+    "is_structured": 1,
+    "question_text": "What provisions have been made in the budget of Uttar Pradesh for 2023-24 to improve its infrastructure ?",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Economy",
+    "topics": [
+      "UP Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -456,14 +544,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What recent initiatives has the Government of Uttar Pradesh undertaken to attract investment in the State ?",
-    "is_structured": 1,
-    "last_updated": 1778948500,
-    "cite": "UPPSC Mains 2023 GS Paper 6",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 6",
+    "last_updated": 1778948500,
+    "is_structured": 1,
+    "question_text": "What recent initiatives has the Government of Uttar Pradesh undertaken to attract investment in the State ?",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Agriculture",
+    "topics": [
+      "UP Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -497,14 +593,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What are the key initiatives and strategies undertaken by the Government of Uttar Pradesh to promote social-forestry in the State ?",
-    "is_structured": 1,
-    "last_updated": 1778948500,
-    "cite": "UPPSC Mains 2023 GS Paper 6",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 6",
+    "last_updated": 1778948500,
+    "is_structured": 1,
+    "question_text": "What are the key initiatives and strategies undertaken by the Government of Uttar Pradesh to promote social-forestry in the State ?",
+    "subjectId": "up-geo",
+    "subjects": [
+      "UP Geography & Environment"
+    ],
+    "topic": "UP Environment",
+    "topics": [
+      "UP Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -538,14 +642,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the major facilities offered by Government of Uttar Pradesh for development of horticulture in the State.",
-    "is_structured": 1,
-    "last_updated": 1778948500,
-    "cite": "UPPSC Mains 2023 GS Paper 6",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 6",
+    "last_updated": 1778948500,
+    "is_structured": 1,
+    "question_text": "Discuss the major facilities offered by Government of Uttar Pradesh for development of horticulture in the State.",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Infrastructure",
+    "topics": [
+      "UP Infrastructure"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -579,14 +691,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Critically analyse the current initiatives and future prospects for bio-energy development in Uttar Pradesh.",
-    "is_structured": 1,
-    "last_updated": 1778948500,
-    "cite": "UPPSC Mains 2023 GS Paper 6",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 6",
+    "last_updated": 1778948500,
+    "is_structured": 1,
+    "question_text": "Critically analyse the current initiatives and future prospects for bio-energy development in Uttar Pradesh.",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Agriculture",
+    "topics": [
+      "UP Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -620,14 +740,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Outline the importance of the Meteorological Centre, Lucknow with reference to weather forecasts in Uttar Pradesh.",
-    "is_structured": 1,
-    "last_updated": 1778948500,
-    "cite": "UPPSC Mains 2023 GS Paper 6",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 6",
+    "last_updated": 1778948500,
+    "is_structured": 1,
+    "question_text": "Outline the importance of the Meteorological Centre, Lucknow with reference to weather forecasts in Uttar Pradesh.",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Industry",
+    "topics": [
+      "UP Industry"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -661,14 +789,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Present an account of the missions included in the State Action Plan on Climate Change in Uttar Pradesh.",
-    "is_structured": 1,
-    "last_updated": 1778948500,
-    "cite": "UPPSC Mains 2023 GS Paper 6",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 6",
+    "last_updated": 1778948500,
+    "is_structured": 1,
+    "question_text": "Present an account of the missions included in the State Action Plan on Climate Change in Uttar Pradesh.",
+    "subjectId": "up-geo",
+    "subjects": [
+      "UP Geography & Environment"
+    ],
+    "topic": "UP Geography",
+    "topics": [
+      "UP Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -702,14 +838,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Explain the ecological importance of the Wildlife Sanctuaries in the Tarai region of Uttar Pradesh.",
-    "is_structured": 1,
-    "last_updated": 1778948500,
-    "cite": "UPPSC Mains 2023 GS Paper 6",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 6",
+    "last_updated": 1778948500,
+    "is_structured": 1,
+    "question_text": "Explain the ecological importance of the Wildlife Sanctuaries in the Tarai region of Uttar Pradesh.",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Energy",
+    "topics": [
+      "UP Energy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -743,14 +887,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Analyse the importance of minerals in industrial development of Bundelkhand region of Uttar Pradesh.",
-    "is_structured": 1,
-    "last_updated": 1778948500,
-    "cite": "UPPSC Mains 2023 GS Paper 6",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 6",
+    "last_updated": 1778948500,
+    "is_structured": 1,
+    "question_text": "Analyse the importance of minerals in industrial development of Bundelkhand region of Uttar Pradesh.",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Economy",
+    "topics": [
+      "UP Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -784,14 +936,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What are the major objectives and target group in Innovation Promotion Programmes of the Council of Science and Technology in Uttar Pradesh ?",
-    "is_structured": 1,
-    "last_updated": 1778948500,
-    "cite": "UPPSC Mains 2023 GS Paper 6",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 6",
+    "last_updated": 1778948500,
+    "is_structured": 1,
+    "question_text": "What are the major objectives and target group in Innovation Promotion Programmes of the Council of Science and Technology in Uttar Pradesh ?",
+    "subjectId": "up-geo",
+    "subjects": [
+      "UP Geography & Environment"
+    ],
+    "topic": "UP Environment",
+    "topics": [
+      "UP Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

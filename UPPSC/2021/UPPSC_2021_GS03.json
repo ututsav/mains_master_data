@@ -5,14 +5,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Discuss the Digital India Programme of India.",
-    "is_structured": 1,
-    "last_updated": 1778951000,
-    "cite": "UPPSC Mains 2021 GS Paper 3",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "last_updated": 1778951000,
+    "is_structured": 1,
+    "question_text": "Discuss the Digital India Programme of India.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Examine the impact of globalization on employment of formal sector of India.",
-    "is_structured": 1,
-    "last_updated": 1778951000,
-    "cite": "UPPSC Mains 2021 GS Paper 3",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "last_updated": 1778951000,
+    "is_structured": 1,
+    "question_text": "Examine the impact of globalization on employment of formal sector of India.",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "How does the strategy of inclusive growth intend to meet the objectives of inclusiveness and sustainability together? Explain.",
-    "is_structured": 1,
-    "last_updated": 1778951000,
-    "cite": "UPPSC Mains 2021 GS Paper 3",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "last_updated": 1778951000,
+    "is_structured": 1,
+    "question_text": "How does the strategy of inclusive growth intend to meet the objectives of inclusiveness and sustainability together? Explain.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Inclusive Growth",
+    "topics": [
+      "Inclusive Growth"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What is Sustainable Development Goal-2030? Discuss the relevances of different agenda associated with it.",
-    "is_structured": 1,
-    "last_updated": 1778951000,
-    "cite": "UPPSC Mains 2021 GS Paper 3",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "last_updated": 1778951000,
+    "is_structured": 1,
+    "question_text": "What is Sustainable Development Goal-2030? Discuss the relevances of different agenda associated with it.",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What is technology mission in agriculture? State its usefulness.",
-    "is_structured": 1,
-    "last_updated": 1778951000,
-    "cite": "UPPSC Mains 2021 GS Paper 3",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "last_updated": 1778951000,
+    "is_structured": 1,
+    "question_text": "What is technology mission in agriculture? State its usefulness.",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What are the constraints in the development of infrastructural projects in Uttar Pradesh? Explain the steps taken by the State Government to remove the constraints.",
-    "is_structured": 1,
-    "last_updated": 1778951000,
-    "cite": "UPPSC Mains 2021 GS Paper 3",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "last_updated": 1778951000,
+    "is_structured": 1,
+    "question_text": "What are the constraints in the development of infrastructural projects in Uttar Pradesh? Explain the steps taken by the State Government to remove the constraints.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "\"Uttar Pradesh has prominent position in the production of food crops in the country.\" Evaluate the statements.",
-    "is_structured": 1,
-    "last_updated": 1778951000,
-    "cite": "UPPSC Mains 2021 GS Paper 3",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "last_updated": 1778951000,
+    "is_structured": 1,
+    "question_text": "\"Uttar Pradesh has prominent position in the production of food crops in the country.\" Evaluate the statements.",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Energy",
+    "topics": [
+      "Energy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Explain different types and works of disaster management.",
-    "is_structured": 1,
-    "last_updated": 1778951000,
-    "cite": "UPPSC Mains 2021 GS Paper 3",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "last_updated": 1778951000,
+    "is_structured": 1,
+    "question_text": "Explain different types and works of disaster management.",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Disaster Management",
+    "topics": [
+      "Disaster Management"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What is meant by insurgency? Explain.",
-    "is_structured": 1,
-    "last_updated": 1778951000,
-    "cite": "UPPSC Mains 2021 GS Paper 3",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "last_updated": 1778951000,
+    "is_structured": 1,
+    "question_text": "What is meant by insurgency? Explain.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -374,14 +446,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Role of media and social networking is important in internal security. Analyse.",
-    "is_structured": 1,
-    "last_updated": 1778951000,
-    "cite": "UPPSC Mains 2021 GS Paper 3",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "last_updated": 1778951000,
+    "is_structured": 1,
+    "question_text": "Role of media and social networking is important in internal security. Analyse.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -415,14 +495,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What is National Policy in India related to Artificial Intelligence? Explain in detail.",
-    "is_structured": 1,
-    "last_updated": 1778951000,
-    "cite": "UPPSC Mains 2021 GS Paper 3",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "last_updated": 1778951000,
+    "is_structured": 1,
+    "question_text": "What is National Policy in India related to Artificial Intelligence? Explain in detail.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -456,14 +544,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What are various types of cyber crimes? How can you protect yourself against cyber crimes?",
-    "is_structured": 1,
-    "last_updated": 1778951000,
-    "cite": "UPPSC Mains 2021 GS Paper 3",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "last_updated": 1778951000,
+    "is_structured": 1,
+    "question_text": "What are various types of cyber crimes? How can you protect yourself against cyber crimes?",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -497,14 +593,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Do you agree with the statement that success of \"Make in India\" programme depends on the success of \"Skill India\" Programme and radical labour reforms? Discuss with logical arguments.",
-    "is_structured": 1,
-    "last_updated": 1778951000,
-    "cite": "UPPSC Mains 2021 GS Paper 3",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "last_updated": 1778951000,
+    "is_structured": 1,
+    "question_text": "Do you agree with the statement that success of \"Make in India\" programme depends on the success of \"Skill India\" Programme and radical labour reforms? Discuss with logical arguments.",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Food Security",
+    "topics": [
+      "Food Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -538,14 +642,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Examine the impacts of new schemes introduced in the 2021-22 budget of the Uttar Pradesh State Government on the socio-economic system of the State.",
-    "is_structured": 1,
-    "last_updated": 1778951000,
-    "cite": "UPPSC Mains 2021 GS Paper 3",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "last_updated": 1778951000,
+    "is_structured": 1,
+    "question_text": "Examine the impacts of new schemes introduced in the 2021-22 budget of the Uttar Pradesh State Government on the socio-economic system of the State.",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -579,14 +691,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What are the various types of unemployment? Examine the various steps taken by the government to overcome the problems of unemployment in India.",
-    "is_structured": 1,
-    "last_updated": 1778951000,
-    "cite": "UPPSC Mains 2021 GS Paper 3",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "last_updated": 1778951000,
+    "is_structured": 1,
+    "question_text": "What are the various types of unemployment? Examine the various steps taken by the government to overcome the problems of unemployment in India.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -620,14 +740,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the growth of major industries in Uttar Pradesh and also highlight its various challenges.",
-    "is_structured": 1,
-    "last_updated": 1778951000,
-    "cite": "UPPSC Mains 2021 GS Paper 3",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "last_updated": 1778951000,
+    "is_structured": 1,
+    "question_text": "Discuss the growth of major industries in Uttar Pradesh and also highlight its various challenges.",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Energy",
+    "topics": [
+      "Energy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -661,14 +789,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the impact of lockdown on the Indian Economy and review the budgetary strategy for combating the recessionary trends in economy during this period.",
-    "is_structured": 1,
-    "last_updated": 1778951000,
-    "cite": "UPPSC Mains 2021 GS Paper 3",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "last_updated": 1778951000,
+    "is_structured": 1,
+    "question_text": "Discuss the impact of lockdown on the Indian Economy and review the budgetary strategy for combating the recessionary trends in economy during this period.",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Disaster Management",
+    "topics": [
+      "Disaster Management"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -702,14 +838,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Terrorism and corruption hinder the internal security of any nation. Critically examine.",
-    "is_structured": 1,
-    "last_updated": 1778951000,
-    "cite": "UPPSC Mains 2021 GS Paper 3",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "last_updated": 1778951000,
+    "is_structured": 1,
+    "question_text": "Terrorism and corruption hinder the internal security of any nation. Critically examine.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -743,14 +887,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the kinds and functions of civil defence. How much is it effective in Uttar Pradesh? Explain.",
-    "is_structured": 1,
-    "last_updated": 1778951000,
-    "cite": "UPPSC Mains 2021 GS Paper 3",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "last_updated": 1778951000,
+    "is_structured": 1,
+    "question_text": "Discuss the kinds and functions of civil defence. How much is it effective in Uttar Pradesh? Explain.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -784,14 +936,22 @@
     "year": 2021,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Describe about Cyber Dome. Explain how it can be useful in controlling internet crimes in India.",
-    "is_structured": 1,
-    "last_updated": 1778951000,
-    "cite": "UPPSC Mains 2021 GS Paper 3",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2021 GS Paper 3",
+    "last_updated": 1778951000,
+    "is_structured": 1,
+    "question_text": "Describe about Cyber Dome. Explain how it can be useful in controlling internet crimes in India.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

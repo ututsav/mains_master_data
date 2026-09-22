@@ -5,14 +5,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Describe the cultural significance of 'Prayagraj' in ancient India.",
-    "is_structured": 1,
-    "last_updated": 1778964060,
-    "cite": "UPPSC Mains 2019 GS Paper 1",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 1",
+    "last_updated": 1778964060,
+    "is_structured": 1,
+    "question_text": "Describe the cultural significance of 'Prayagraj' in ancient India.",
+    "subjectId": "ancient",
+    "subjects": [
+      "Ancient & Medieval"
+    ],
+    "topic": "Ancient History",
+    "topics": [
+      "Ancient History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Describe the role of Iron mineral in Socio-economic development of human being during 600-300 B.C.",
-    "is_structured": 1,
-    "last_updated": 1778964060,
-    "cite": "UPPSC Mains 2019 GS Paper 1",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 1",
+    "last_updated": 1778964060,
+    "is_structured": 1,
+    "question_text": "Describe the role of Iron mineral in Socio-economic development of human being during 600-300 B.C.",
+    "subjectId": "ancient",
+    "subjects": [
+      "Ancient & Medieval"
+    ],
+    "topic": "Ancient History",
+    "topics": [
+      "Ancient History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Critically examine the effects of British Industrial Revolution on India's Economic life.",
-    "is_structured": 1,
-    "last_updated": 1778964060,
-    "cite": "UPPSC Mains 2019 GS Paper 1",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 1",
+    "last_updated": 1778964060,
+    "is_structured": 1,
+    "question_text": "Critically examine the effects of British Industrial Revolution on India's Economic life.",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Write a note on the role of urban plainning for development of basic civic amenities in slums.",
-    "is_structured": 1,
-    "last_updated": 1778964060,
-    "cite": "UPPSC Mains 2019 GS Paper 1",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 1",
+    "last_updated": 1778964060,
+    "is_structured": 1,
+    "question_text": "Write a note on the role of urban plainning for development of basic civic amenities in slums.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Urbanisation",
+    "topics": [
+      "Urbanisation"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Evaluate the population growth and role of women in Population control in Uttar Pradesh.",
-    "is_structured": 1,
-    "last_updated": 1778964060,
-    "cite": "UPPSC Mains 2019 GS Paper 1",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 1",
+    "last_updated": 1778964060,
+    "is_structured": 1,
+    "question_text": "Evaluate the population growth and role of women in Population control in Uttar Pradesh.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Population",
+    "topics": [
+      "Population"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Evaluate the main problems of the empowerment of Schedule Tribes in India.",
-    "is_structured": 1,
-    "last_updated": 1778964060,
-    "cite": "UPPSC Mains 2019 GS Paper 1",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 1",
+    "last_updated": 1778964060,
+    "is_structured": 1,
+    "question_text": "Evaluate the main problems of the empowerment of Schedule Tribes in India.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What is 'Heritage Arch' Underline its importance in Urrar Pradesh in terms of tourism potential.",
-    "is_structured": 1,
-    "last_updated": 1778964060,
-    "cite": "UPPSC Mains 2019 GS Paper 1",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 1",
+    "last_updated": 1778964060,
+    "is_structured": 1,
+    "question_text": "What is 'Heritage Arch' Underline its importance in Urrar Pradesh in terms of tourism potential.",
+    "subjectId": "up-history",
+    "subjects": [
+      "UP History & Culture"
+    ],
+    "topic": "UP Culture",
+    "topics": [
+      "UP Culture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Explain the geographical factors which have attracted refugees to settle them in different parts of Uttar Pradesh.",
-    "is_structured": 1,
-    "last_updated": 1778964060,
-    "cite": "UPPSC Mains 2019 GS Paper 1",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 1",
+    "last_updated": 1778964060,
+    "is_structured": 1,
+    "question_text": "Explain the geographical factors which have attracted refugees to settle them in different parts of Uttar Pradesh.",
+    "subjectId": "up-geo",
+    "subjects": [
+      "UP Geography & Environment"
+    ],
+    "topic": "UP Geography",
+    "topics": [
+      "UP Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "\"Tropical eyelones origlnatic on the oceanic parts and as soon as they reach the terrestrial parts, these stormsgrudually weakenand end. Explain with reasons.",
-    "is_structured": 1,
-    "last_updated": 1778964060,
-    "cite": "UPPSC Mains 2019 GS Paper 1",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 1",
+    "last_updated": 1778964060,
+    "is_structured": 1,
+    "question_text": "\"Tropical eyelones origlnatic on the oceanic parts and as soon as they reach the terrestrial parts, these stormsgrudually weakenand end. Explain with reasons.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -350,20 +422,38 @@
       },
       {
         "section": "Body",
-        "text": "Reason for oceanic origin: They form over warm tropical oceans because they require sea surface temperatures above 26.5°C. The continuous evaporation of this warm water provides an endless supply of moisture, which releases massive amounts of latent heat of condensation as it rises and cools, acting as the thermal engine of the cyclone.",
-        "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 1"
+        "text": "Reason for oceanic origin: They form over warm tropical oceans because they require sea surface temperatures above 26.5°C.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 2
       },
       {
         "section": "Body",
-        "text": "Reason for terrestrial decay (Landfall): As soon as the cyclone moves over land, it is cut off from its primary moisture source. Deprived of the latent heat, its energy supply plummets. Additionally, the increased surface friction from terrestrial topography disrupts the cyclonic wind flow, causing it to dissipate rapidly.",
-        "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 1"
+        "text": "The continuous evaporation of this warm water provides an endless supply of moisture, which releases massive amounts of latent heat of condensation as it rises and cools, acting as the thermal engine of the cyclone.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Reason for terrestrial decay (Landfall): As soon as the cyclone moves over land, it is cut off from its primary moisture source.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Deprived of the latent heat, its energy supply plummets.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Additionally, the increased surface friction from terrestrial topography disrupts the cyclonic wind flow, causing it to dissipate rapidly.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 6
       },
       {
         "section": "Conclusion",
         "text": "Conclude that the life cycle of a tropical cyclone is fundamentally tethered to the ocean, making landfall the definitive beginning of its end.",
-        "order": 4,
+        "order": 7,
         "cite": "UPPSC Mains 2019 GS Paper 1"
       }
     ]
@@ -374,14 +464,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Give an account of Minor Irrigation l'rojects of illar Pradesh with sultable examples.",
-    "is_structured": 1,
-    "last_updated": 1778964060,
-    "cite": "UPPSC Mains 2019 GS Paper 1",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 1",
+    "last_updated": 1778964060,
+    "is_structured": 1,
+    "question_text": "Give an account of Minor Irrigation l'rojects of illar Pradesh with sultable examples.",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Agriculture",
+    "topics": [
+      "UP Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -415,14 +513,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Describe the main features of the Vedic education system and review its significance in present.",
-    "is_structured": 1,
-    "last_updated": 1778964060,
-    "cite": "UPPSC Mains 2019 GS Paper 1",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 1",
+    "last_updated": 1778964060,
+    "is_structured": 1,
+    "question_text": "Describe the main features of the Vedic education system and review its significance in present.",
+    "subjectId": "ancient",
+    "subjects": [
+      "Ancient & Medieval"
+    ],
+    "topic": "Ancient History",
+    "topics": [
+      "Ancient History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -432,20 +538,50 @@
       },
       {
         "section": "Body",
-        "text": "Describe main features: The system relied on oral transmission of knowledge (Shruti and Smriti). It required rigorous discipline and celibacy (Brahmacharya) while living with the teacher. The curriculum was comprehensive, encompassing 'Para Vidya' (spiritual knowledge/Vedas) and 'Apara Vidya' (secular knowledge like statecraft, warfare, and medicine). It was marked by an intimate, revered Guru-Shishya (teacher-student) relationship.",
-        "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 1"
+        "text": "Describe main features: The system relied on oral transmission of knowledge (Shruti and Smriti).",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 2
       },
       {
         "section": "Body",
-        "text": "Review its significance in the present: Modern education is often criticized for being overly commercialized, rote-based, and stressful. The Vedic emphasis on character building, moral ethics, reverence for the environment, and personalized mentorship offers a vital corrective model. It promotes inner peace and civic responsibility over mere material success.",
-        "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 1"
+        "text": "It required rigorous discipline and celibacy (Brahmacharya) while living with the teacher.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "The curriculum was comprehensive, encompassing 'Para Vidya' (spiritual knowledge/Vedas) and 'Apara Vidya' (secular knowledge like statecraft, warfare, and medicine).",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "It was marked by an intimate, revered Guru-Shishya (teacher-student) relationship.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Review its significance in the present: Modern education is often criticized for being overly commercialized, rote-based, and stressful.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "The Vedic emphasis on character building, moral ethics, reverence for the environment, and personalized mentorship offers a vital corrective model.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 7
+      },
+      {
+        "section": "Body",
+        "text": "It promotes inner peace and civic responsibility over mere material success.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 8
       },
       {
         "section": "Conclusion",
         "text": "Conclude that integrating the value-based, holistic approach of the Vedic system with modern technological pedagogy can create a more balanced, ethically sound, and resilient educational framework for contemporary society.",
-        "order": 4,
+        "order": 9,
         "cite": "UPPSC Mains 2019 GS Paper 1"
       }
     ]
@@ -456,14 +592,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Examine the role of Quit India Movement in the freedom movement of India.",
-    "is_structured": 1,
-    "last_updated": 1778964060,
-    "cite": "UPPSC Mains 2019 GS Paper 1",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 1",
+    "last_updated": 1778964060,
+    "is_structured": 1,
+    "question_text": "Examine the role of Quit India Movement in the freedom movement of India.",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -497,14 +641,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Describe the efforts made for world peace after the second world war on global level.",
-    "is_structured": 1,
-    "last_updated": 1778964060,
-    "cite": "UPPSC Mains 2019 GS Paper 1",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 1",
+    "last_updated": 1778964060,
+    "is_structured": 1,
+    "question_text": "Describe the efforts made for world peace after the second world war on global level.",
+    "subjectId": "world",
+    "subjects": [
+      "World History"
+    ],
+    "topic": "World History",
+    "topics": [
+      "World History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -538,14 +690,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "'Indian Culture is the symbol of Unity in Diversity'. Analyse the statement logically by giving suitable illustrations.",
-    "is_structured": 1,
-    "last_updated": 1778964060,
-    "cite": "UPPSC Mains 2019 GS Paper 1",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 1",
+    "last_updated": 1778964060,
+    "is_structured": 1,
+    "question_text": "'Indian Culture is the symbol of Unity in Diversity'. Analyse the statement logically by giving suitable illustrations.",
+    "subjectId": "culture",
+    "subjects": [
+      "Art & Culture"
+    ],
+    "topic": "Indian Culture",
+    "topics": [
+      "Indian Culture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -561,14 +721,26 @@
       },
       {
         "section": "Body",
-        "text": "Analyse the threads of Unity: This diversity is unified by shared syncretic traditions like the Bhakti and Sufi movements, and the 'Ganga-Jamuni Tehzeeb'. Ancient epics like the Ramayana and Mahabharata provide a shared moral vocabulary across different linguistic cultures. Festivals, pilgrimage networks (like the Char Dham), and a common constitutional democratic ethos further cement this unity.",
-        "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 1"
+        "text": "Analyse the threads of Unity: This diversity is unified by shared syncretic traditions like the Bhakti and Sufi movements, and the 'Ganga-Jamuni Tehzeeb'.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Ancient epics like the Ramayana and Mahabharata provide a shared moral vocabulary across different linguistic cultures.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Festivals, pilgrimage networks (like the Char Dham), and a common constitutional democratic ethos further cement this unity.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 5
       },
       {
         "section": "Conclusion",
         "text": "Conclude that the resilience of Indian culture lies not in forced homogenization (a melting pot), but in its unique capacity for continuous assimilation and peaceful coexistence (a salad bowl).",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2019 GS Paper 1"
       }
     ]
@@ -579,14 +751,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "\"The politics of religion and ethnic vlolence is basically the politics of secularism and secularlsation. Critically analyse the statement.",
-    "is_structured": 1,
-    "last_updated": 1778964060,
-    "cite": "UPPSC Mains 2019 GS Paper 1",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 1",
+    "last_updated": 1778964060,
+    "is_structured": 1,
+    "question_text": "\"The politics of religion and ethnic vlolence is basically the politics of secularism and secularlsation. Critically analyse the statement.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -620,14 +800,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Define urbanization. Discuss the problems caused by fast pace of urbanization.",
-    "is_structured": 1,
-    "last_updated": 1778964060,
-    "cite": "UPPSC Mains 2019 GS Paper 1",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 1",
+    "last_updated": 1778964060,
+    "is_structured": 1,
+    "question_text": "Define urbanization. Discuss the problems caused by fast pace of urbanization.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Urbanisation",
+    "topics": [
+      "Urbanisation"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -661,14 +849,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss the spatial distribution of types of rural settlements in Ganga Plain.",
-    "is_structured": 1,
-    "last_updated": 1778964060,
-    "cite": "UPPSC Mains 2019 GS Paper 1",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 1",
+    "last_updated": 1778964060,
+    "is_structured": 1,
+    "question_text": "Discuss the spatial distribution of types of rural settlements in Ganga Plain.",
+    "subjectId": "up-geo",
+    "subjects": [
+      "UP Geography & Environment"
+    ],
+    "topic": "UP Geography",
+    "topics": [
+      "UP Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -684,14 +880,26 @@
       },
       {
         "section": "Body",
-        "text": "Discuss Semi-clustered and Hamleted Settlements: These are common in the Middle and Lower Ganga plains. Settlements here are physically fragmented into a main village and several smaller satellite hamlets (known locally as purvas, pannas, or tolas). This pattern is often dictated by rigid caste segregation or the necessity for farmers to live closer to their increasingly scattered agricultural fields.",
-        "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 1"
+        "text": "Discuss Semi-clustered and Hamleted Settlements: These are common in the Middle and Lower Ganga plains.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Settlements here are physically fragmented into a main village and several smaller satellite hamlets (known locally as purvas, pannas, or tolas).",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "This pattern is often dictated by rigid caste segregation or the necessity for farmers to live closer to their increasingly scattered agricultural fields.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 5
       },
       {
         "section": "Conclusion",
         "text": "Conclude that the spatial distribution of settlements in the Ganga Plain perfectly mirrors the intricate balance between environmental carrying capacity and complex agrarian social hierarchies.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2019 GS Paper 1"
       }
     ]
@@ -702,14 +910,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Describe the landforms formed by wind erosion and depositional works.",
-    "is_structured": 1,
-    "last_updated": 1778964060,
-    "cite": "UPPSC Mains 2019 GS Paper 1",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 1",
+    "last_updated": 1778964060,
+    "is_structured": 1,
+    "question_text": "Describe the landforms formed by wind erosion and depositional works.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -743,14 +959,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Write a systematic essay on the ocean currents of northern Atlantic Ocean with their reasons of origin.",
-    "is_structured": 1,
-    "last_updated": 1778964060,
-    "cite": "UPPSC Mains 2019 GS Paper 1",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 1",
+    "last_updated": 1778964060,
+    "is_structured": 1,
+    "question_text": "Write a systematic essay on the ocean currents of northern Atlantic Ocean with their reasons of origin.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -766,14 +990,32 @@
       },
       {
         "section": "Body",
-        "text": "Systematically detail the current system: The Trade Winds push the warm North Equatorial Current westward. Blocked by land, it flows north, becoming the powerful Gulf Stream. The Westerlies then push it eastward across the ocean as the North Atlantic Drift. It subsequently splits: a cold branch moves south as the Canary Current (completing the gyre), while warm branches head north towards Europe.",
-        "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 1"
+        "text": "Systematically detail the current system: The Trade Winds push the warm North Equatorial Current westward.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Blocked by land, it flows north, becoming the powerful Gulf Stream.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "The Westerlies then push it eastward across the ocean as the North Atlantic Drift.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "It subsequently splits: a cold branch moves south as the Canary Current (completing the gyre), while warm branches head north towards Europe.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 6
       },
       {
         "section": "Conclusion",
         "text": "Conclude that this gyre plays a monumental role in global climate regulation, most notably keeping Northwestern European coasts unusually warm and major ports ice-free during harsh winters.",
-        "order": 4,
+        "order": 7,
         "cite": "UPPSC Mains 2019 GS Paper 1"
       }
     ]
@@ -784,14 +1026,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Critically examine the oceanic energy resources and their potentialitieson the coast zone of India.",
-    "is_structured": 1,
-    "last_updated": 1778964060,
-    "cite": "UPPSC Mains 2019 GS Paper 1",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 1",
+    "last_updated": 1778964060,
+    "is_structured": 1,
+    "question_text": "Critically examine the oceanic energy resources and their potentialitieson the coast zone of India.",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Energy",
+    "topics": [
+      "Energy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -801,20 +1051,32 @@
       },
       {
         "section": "Body",
-        "text": "Examine the types and potentialities: Tidal Energy shows high potential in regions with large tidal ranges like the Gulf of Khambhat and Gulf of Kutch. Ocean Thermal Energy Conversion (OTEC) is highly viable near the Andaman & Nicobar Islands due to the sharp temperature gradients in the water column. Furthermore, wave energy and offshore wind farms hold significant promise along the southern peninsular coast.",
-        "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 1"
+        "text": "Examine the types and potentialities: Tidal Energy shows high potential in regions with large tidal ranges like the Gulf of Khambhat and Gulf of Kutch.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Ocean Thermal Energy Conversion (OTEC) is highly viable near the Andaman & Nicobar Islands due to the sharp temperature gradients in the water column.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Furthermore, wave energy and offshore wind farms hold significant promise along the southern peninsular coast.",
+        "cite": "UPPSC Mains 2019 GS Paper 1",
+        "order": 4
       },
       {
         "section": "Body",
         "text": "Critically examine the challenges: Despite massive theoretical potential, commercial exploitation remains severely limited. Major hurdles include extremely high initial capital costs, lack of mature indigenous technology, the harsh and highly corrosive marine environment increasing maintenance costs, and severe potential ecological impacts on fragile coastal ecosystems and fisheries.",
-        "order": 3,
+        "order": 5,
         "cite": "UPPSC Mains 2019 GS Paper 1"
       },
       {
         "section": "Conclusion",
         "text": "Conclude that while currently underdeveloped and economically daunting, sustained R&D, foreign technological collaboration, and robust policy support can transform oceanic energy into a vital, sustainable pillar of India's future renewable energy security.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2019 GS Paper 1"
       }
     ]

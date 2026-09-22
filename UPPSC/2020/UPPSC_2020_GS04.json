@@ -5,14 +5,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Discuss the role of famly, society and educational institutions in inculcatin values.",
-    "is_structured": 1,
-    "last_updated": 1778961000,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "last_updated": 1778961000,
+    "is_structured": 1,
+    "question_text": "Discuss the role of famly, society and educational institutions in inculcatin values.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Discuss the role of 'Right to Information' for transparency in overnance.",
-    "is_structured": 1,
-    "last_updated": 1778961000,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "last_updated": 1778961000,
+    "is_structured": 1,
+    "question_text": "Discuss the role of 'Right to Information' for transparency in overnance.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "\"The requirement of government sanction for prosecuting the dishonest officials is a protective shield for corruption.\" Eamine the statement.",
-    "is_structured": 1,
-    "last_updated": 1778961000,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "last_updated": 1778961000,
+    "is_structured": 1,
+    "question_text": "\"The requirement of government sanction for prosecuting the dishonest officials is a protective shield for corruption.\" Eamine the statement.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Civil Service Values",
+    "topics": [
+      "Civil Service Values"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Discuss the following in the contet of civil services.\n(A) Impartiality\n(B) Commitment",
-    "is_structured": 0,
-    "last_updated": 1778961000,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "last_updated": 1778961000,
+    "is_structured": 0,
+    "question_text": "Discuss the following in the contet of civil services.\n(A) Impartiality\n(B) Commitment",
+    "subjectId": "thinkers",
+    "subjects": [
+      "Thinkers"
+    ],
+    "topic": "Thinkers",
+    "topics": [
+      "Thinkers"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -157,14 +189,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "An employee was taking a bribe in his office. His officer caught him red-handed. The officer knows that if he is dismissed from his job, his old parents will become homeless and destitute. Therefore, the officer left him with a warning only. Imagine that you are the same officer. What will you do in these situations? Discuss in detail.",
-    "is_structured": 1,
-    "last_updated": 1778961000,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "last_updated": 1778961000,
+    "is_structured": 1,
+    "question_text": "An employee was taking a bribe in his office. His officer caught him red-handed. The officer knows that if he is dismissed from his job, his old parents will become homeless and destitute. Therefore, the officer left him with a warning only. Imagine that you are the same officer. What will you do in these situations? Discuss in detail.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Probity",
+    "topics": [
+      "Probity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -198,14 +238,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "How will you apply emotional intelligence in administrative practices? Explain.",
-    "is_structured": 1,
-    "last_updated": 1778961000,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "last_updated": 1778961000,
+    "is_structured": 1,
+    "question_text": "How will you apply emotional intelligence in administrative practices? Explain.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Attitude",
+    "topics": [
+      "Attitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -239,14 +287,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What do you understand by the term 'Public Servant'? What kind of aptitude is considered important for the civil services? Explain.",
-    "is_structured": 1,
-    "last_updated": 1778961000,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "last_updated": 1778961000,
+    "is_structured": 1,
+    "question_text": "What do you understand by the term 'Public Servant'? What kind of aptitude is considered important for the civil services? Explain.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Integrity",
+    "topics": [
+      "Integrity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -280,14 +336,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Differentiate between the following.\n(A) Tolerance and Compassion\n(B) Attitude and Aptitude",
-    "is_structured": 0,
-    "last_updated": 1778961000,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "last_updated": 1778961000,
+    "is_structured": 0,
+    "question_text": "Differentiate between the following.\n(A) Tolerance and Compassion\n(B) Attitude and Aptitude",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Corruption",
+    "topics": [
+      "Corruption"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -309,14 +373,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "How do the values of tolerance and compassion get manifested in public service towards the weaker sections? Explain with suitable examples.",
-    "is_structured": 1,
-    "last_updated": 1778961000,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "last_updated": 1778961000,
+    "is_structured": 1,
+    "question_text": "How do the values of tolerance and compassion get manifested in public service towards the weaker sections? Explain with suitable examples.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -350,14 +422,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Explain the importance of persuasive communication in attitudinal change.",
-    "is_structured": 1,
-    "last_updated": 1778961000,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "last_updated": 1778961000,
+    "is_structured": 1,
+    "question_text": "Explain the importance of persuasive communication in attitudinal change.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -391,14 +471,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What is the probity? Explain clearly the philosophical basis of probity in goverance.",
-    "is_structured": 1,
-    "last_updated": 1778961000,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "last_updated": 1778961000,
+    "is_structured": 1,
+    "question_text": "What is the probity? Explain clearly the philosophical basis of probity in goverance.",
+    "subjectId": "thinkers",
+    "subjects": [
+      "Thinkers"
+    ],
+    "topic": "Thinkers",
+    "topics": [
+      "Thinkers"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -432,14 +520,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Which of the five principles of code of conduct will be given priority by you and why? Explain.",
-    "is_structured": 1,
-    "last_updated": 1778961000,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "last_updated": 1778961000,
+    "is_structured": 1,
+    "question_text": "Which of the five principles of code of conduct will be given priority by you and why? Explain.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Civil Service Values",
+    "topics": [
+      "Civil Service Values"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -473,14 +569,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What is Gita's Anasakta Yoga'? What message does it provide to civil servants? Explain.",
-    "is_structured": 1,
-    "last_updated": 1778961000,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "last_updated": 1778961000,
+    "is_structured": 1,
+    "question_text": "What is Gita's Anasakta Yoga'? What message does it provide to civil servants? Explain.",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -514,14 +618,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What is Kant's doctrine of 'duty for duty's sake'? What is the role of this principle in civil services? Discuss.",
-    "is_structured": 1,
-    "last_updated": 1778961000,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "last_updated": 1778961000,
+    "is_structured": 1,
+    "question_text": "What is Kant's doctrine of 'duty for duty's sake'? What is the role of this principle in civil services? Discuss.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Attitude",
+    "topics": [
+      "Attitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -555,14 +667,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Dev Anand is working as under secretary in the Pension Departement. One day, his friend Guru Dutta, an S.B.I. P.O. narrates the following incident: \n1. For last two years, a retired government employee Mr. Ashok Kumar is giving 30% of his monthly pension to Mrs. Bindu Chopra every month through a cheque.\n2. I found that Mrs. Chopra happens to be the wife of Mr. Prem Chopra, a Section Officer in the pension office under you.\n3. I feel something is fishy-may be this is part of a bribe scam, where a senior citizen is forced to pay money to clear his pension files from Prem Chopra and to submit bribes in his wife's account.\nDev Anand visits Mr. Ashok Kumar's home and finds that he is suffering from Alzheimer's disease unable to give coherent answers. Frustrated Dev Anand directly questions Prem Chopra. but Prem Chopra says, \"Mr. Ashok Kumar was friends of may father. He has no relatives and children and my wife bindu has been taking care of him like a daughter since a long time. Therefore Mr. Ashok Kumar gives us money out of good will and so we can send our son to an expensive I.I.T. Coaching at Kota, Rajasthan. Besides, this is a personal family matter and none of your damn business\".\nDo you think that Deva Anand has made a blunder or is he merely performing an ethical duty? Answer logically.",
-    "is_structured": 1,
-    "last_updated": 1778961000,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "last_updated": 1778961000,
+    "is_structured": 1,
+    "question_text": "Dev Anand is working as under secretary in the Pension Departement. One day, his friend Guru Dutta, an S.B.I. P.O. narrates the following incident: \n1. For last two years, a retired government employee Mr. Ashok Kumar is giving 30% of his monthly pension to Mrs. Bindu Chopra every month through a cheque.\n2. I found that Mrs. Chopra happens to be the wife of Mr. Prem Chopra, a Section Officer in the pension office under you.\n3. I feel something is fishy-may be this is part of a bribe scam, where a senior citizen is forced to pay money to clear his pension files from Prem Chopra and to submit bribes in his wife's account.\nDev Anand visits Mr. Ashok Kumar's home and finds that he is suffering from Alzheimer's disease unable to give coherent answers. Frustrated Dev Anand directly questions Prem Chopra. but Prem Chopra says, \"Mr. Ashok Kumar was friends of may father. He has no relatives and children and my wife bindu has been taking care of him like a daughter since a long time. Therefore Mr. Ashok Kumar gives us money out of good will and so we can send our son to an expensive I.I.T. Coaching at Kota, Rajasthan. Besides, this is a personal family matter and none of your damn business\".\nDo you think that Deva Anand has made a blunder or is he merely performing an ethical duty? Answer logically.",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -578,14 +698,26 @@
       },
       {
         "section": "Body",
-        "text": "Deconstruct Prem Chopra's defense: The defense is ethically and legally untenable. An Alzheimer's patient lacks the legal and mental capacity to give informed consent for sustained \"good will\" financial transfers. Furthermore, routing money from a pensioner to the wife of the Section Officer handling his file represents a blatant, gross conflict of interest.",
-        "order": 3,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Deconstruct Prem Chopra's defense: The defense is ethically and legally untenable.",
+        "cite": "UPPSC Mains 2020 GS Paper 4",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "An Alzheimer's patient lacks the legal and mental capacity to give informed consent for sustained \"good will\" financial transfers.",
+        "cite": "UPPSC Mains 2020 GS Paper 4",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Furthermore, routing money from a pensioner to the wife of the Section Officer handling his file represents a blatant, gross conflict of interest.",
+        "cite": "UPPSC Mains 2020 GS Paper 4",
+        "order": 5
       },
       {
         "section": "Conclusion",
         "text": "Conclude that Dev Anand must reject the emotional deflection, escalate the matter formally, and initiate a departmental/vigilance inquiry to protect the vulnerable citizen and uphold institutional integrity.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2020 GS Paper 4"
       }
     ]
@@ -596,14 +728,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Anger is a harmful negative emotion, it is injurious to both the personal life and the work life. How can it be controlled? Explain.",
-    "is_structured": 1,
-    "last_updated": 1778961000,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "last_updated": 1778961000,
+    "is_structured": 1,
+    "question_text": "Anger is a harmful negative emotion, it is injurious to both the personal life and the work life. How can it be controlled? Explain.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Probity",
+    "topics": [
+      "Probity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -637,14 +777,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "\"It is said that governemtn servants take bribe because people offer bribe to them. If people stop offering bribe, the problem of bribe will be solved.\" What is your opinion about the statement? Examine critically.",
-    "is_structured": 1,
-    "last_updated": 1778961000,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "last_updated": 1778961000,
+    "is_structured": 1,
+    "question_text": "\"It is said that governemtn servants take bribe because people offer bribe to them. If people stop offering bribe, the problem of bribe will be solved.\" What is your opinion about the statement? Examine critically.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -654,20 +802,38 @@
       },
       {
         "section": "Body",
-        "text": "Critically examine the demand-side reality (Coercive Corruption): The statement is fundamentally flawed. In most instances, especially involving the poor, bribes are exacted through extortion. Essential services are deliberately delayed, entangled in red tape, or denied until money is paid. The public pays out of sheer helplessness, not voluntary choice.",
-        "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Critically examine the demand-side reality (Coercive Corruption): The statement is fundamentally flawed.",
+        "cite": "UPPSC Mains 2020 GS Paper 4",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "In most instances, especially involving the poor, bribes are exacted through extortion.",
+        "cite": "UPPSC Mains 2020 GS Paper 4",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Essential services are deliberately delayed, entangled in red tape, or denied until money is paid.",
+        "cite": "UPPSC Mains 2020 GS Paper 4",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "The public pays out of sheer helplessness, not voluntary choice.",
+        "cite": "UPPSC Mains 2020 GS Paper 4",
+        "order": 5
       },
       {
         "section": "Body",
         "text": "Examine the supply-side nuance (Collusive Corruption): It is true that in cases of corporate or high-level graft, wealthy individuals voluntarily offer bribes to bypass laws or gain unfair advantages, making them equally culpable.",
-        "order": 3,
+        "order": 6,
         "cite": "UPPSC Mains 2020 GS Paper 4"
       },
       {
         "section": "Conclusion",
         "text": "Conclude that expecting the public to unilaterally stop paying bribes in an exploitative system is utopian. The primary responsibility lies with the state to reform administration, eliminate discretionary opacity, and enforce strict punitive actions against corrupt officials.",
-        "order": 4,
+        "order": 7,
         "cite": "UPPSC Mains 2020 GS Paper 4"
       }
     ]
@@ -678,14 +844,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Present in brief the necessary foundational values for the civil servants.",
-    "is_structured": 1,
-    "last_updated": 1778961000,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "last_updated": 1778961000,
+    "is_structured": 1,
+    "question_text": "Present in brief the necessary foundational values for the civil servants.",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -719,14 +893,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Social influence and persusasion contributed in controlling the spread of the Corona Virus in India. Discuss.",
-    "is_structured": 1,
-    "last_updated": 1778961000,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "last_updated": 1778961000,
+    "is_structured": 1,
+    "question_text": "Social influence and persusasion contributed in controlling the spread of the Corona Virus in India. Discuss.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -760,14 +942,22 @@
     "year": 2020,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "You are a civil servant posted in State where elections were held recently. To ban the sale of alchol was the main promise in the election manifesto of newly elected Chief Minister. To fulfil this promise, Chief Minister has orderd a total ban on sale and purchase of the alcohol in ths State. Whether the government should interfere in the matter which is considered by many to be a matter of personal choice? Comment logically.",
-    "is_structured": 1,
-    "last_updated": 1778961000,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "last_updated": 1778961000,
+    "is_structured": 1,
+    "question_text": "You are a civil servant posted in State where elections were held recently. To ban the sale of alchol was the main promise in the election manifesto of newly elected Chief Minister. To fulfil this promise, Chief Minister has orderd a total ban on sale and purchase of the alcohol in ths State. Whether the government should interfere in the matter which is considered by many to be a matter of personal choice? Comment logically.",
+    "subjectId": "thinkers",
+    "subjects": [
+      "Thinkers"
+    ],
+    "topic": "Thinkers",
+    "topics": [
+      "Thinkers"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -777,20 +967,26 @@
       },
       {
         "section": "Body",
-        "text": "Arguments supporting government interference: The state is constitutionally backed by Directive Principles (Article 47), which urges the state to prohibit intoxicating drinks. Logically, alcohol abuse generates severe negative externalities—domestic violence, public health crises, and economic ruin, particularly devastating poorer sections and women. The government is fulfilling a legitimate democratic mandate.",
-        "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Arguments supporting government interference: The state is constitutionally backed by Directive Principles (Article 47), which urges the state to prohibit intoxicating drinks. Logically, alcohol abuse generates severe.",
+        "cite": "UPPSC Mains 2020 GS Paper 4",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "negative externalities—domestic violence, public health crises, and economic ruin, particularly devastating poorer sections and women. The government is fulfilling a legitimate democratic mandate.",
+        "cite": "UPPSC Mains 2020 GS Paper 4",
+        "order": 3
       },
       {
         "section": "Body",
         "text": "Arguments against interference (Personal Choice and Practicality): Critics argue that a blanket ban violates the right to privacy and personal liberty (Article 21). Practically, historical evidence shows that abrupt prohibition often fails, leading to the rise of deadly illicit liquor syndicates (hooch tragedies), black markets, corruption, and a massive loss of state excise revenue.",
-        "order": 3,
+        "order": 4,
         "cite": "UPPSC Mains 2020 GS Paper 4"
       },
       {
         "section": "Conclusion",
         "text": "Conclude logically that while the state has the democratic right to restrict alcohol for public welfare, a sudden blanket ban is counterproductive. Interference should be gradual, accompanied by aggressive de-addiction programs, social persuasion, and strict border controls to be practically effective and ethically balanced.",
-        "order": 4,
+        "order": 5,
         "cite": "UPPSC Mains 2020 GS Paper 4"
       }
     ]

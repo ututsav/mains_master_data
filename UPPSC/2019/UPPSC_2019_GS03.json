@@ -5,14 +5,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Explain with examples the role of science and technology in enhancing national power.",
-    "is_structured": 1,
-    "last_updated": 1778964500,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
+    "last_updated": 1778964500,
+    "is_structured": 1,
+    "question_text": "Explain with examples the role of science and technology in enhancing national power.",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Analyse corruption as a threat to internal security.",
-    "is_structured": 1,
-    "last_updated": 1778964500,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
+    "last_updated": 1778964500,
+    "is_structured": 1,
+    "question_text": "Analyse corruption as a threat to internal security.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "'Armed Forces Special powers Act' of the Parliament of India has come under criticism by the states as being draconian and sometimes as un-consitutional. Examine analytically.",
-    "is_structured": 1,
-    "last_updated": 1778964500,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
+    "last_updated": 1778964500,
+    "is_structured": 1,
+    "question_text": "'Armed Forces Special powers Act' of the Parliament of India has come under criticism by the states as being draconian and sometimes as un-consitutional. Examine analytically.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What do you mean by 'Inclusive Growth'? How inclusive growth is helpful in reducing poverty and inequalities in India? Explain.",
-    "is_structured": 1,
-    "last_updated": 1778964500,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
+    "last_updated": 1778964500,
+    "is_structured": 1,
+    "question_text": "What do you mean by 'Inclusive Growth'? How inclusive growth is helpful in reducing poverty and inequalities in India? Explain.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Inclusive Growth",
+    "topics": [
+      "Inclusive Growth"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Explain the impact of green revolution on small and marginal farmers.",
-    "is_structured": 1,
-    "last_updated": 1778964500,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
+    "last_updated": 1778964500,
+    "is_structured": 1,
+    "question_text": "Explain the impact of green revolution on small and marginal farmers.",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -192,14 +232,32 @@
       },
       {
         "section": "Body",
-        "text": "Explain the negative/limiting impacts on small/marginal farmers: The technology was highly capital-intensive. Small farmers, lacking access to institutional credit, were forced to rely on moneylenders to buy expensive inputs. This led to severe indebtedness. Furthermore, it favored large landowners, widening rural inequality, while the excessive use of chemicals degraded the long-term soil health of their small plots.",
-        "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Explain the negative/limiting impacts on small/marginal farmers: The technology was highly capital-intensive.",
+        "cite": "UPPSC Mains 2019 GS Paper 3",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Small farmers, lacking access to institutional credit, were forced to rely on moneylenders to buy expensive inputs.",
+        "cite": "UPPSC Mains 2019 GS Paper 3",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "This led to severe indebtedness.",
+        "cite": "UPPSC Mains 2019 GS Paper 3",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Furthermore, it favored large landowners, widening rural inequality, while the excessive use of chemicals degraded the long-term soil health of their small plots.",
+        "cite": "UPPSC Mains 2019 GS Paper 3",
+        "order": 6
       },
       {
         "section": "Conclusion",
         "text": "Conclude that while the Green Revolution saved India from starvation, its uneven benefits necessitate a shift toward an 'Evergreen Revolution' focused on the economic and ecological sustainability of smallholder farmers.",
-        "order": 4,
+        "order": 7,
         "cite": "UPPSC Mains 2019 GS Paper 3"
       }
     ]
@@ -210,14 +268,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Discuss how poverty is measured in India. Examine the steps taken to overcome the rural poverty in India.",
-    "is_structured": 1,
-    "last_updated": 1778964500,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
+    "last_updated": 1778964500,
+    "is_structured": 1,
+    "question_text": "Discuss how poverty is measured in India. Examine the steps taken to overcome the rural poverty in India.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Inclusive Growth",
+    "topics": [
+      "Inclusive Growth"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +317,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What are the causes of industrial sickness in India? Give suitable suggestions to overcome the problem.",
-    "is_structured": 1,
-    "last_updated": 1778964500,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
+    "last_updated": 1778964500,
+    "is_structured": 1,
+    "question_text": "What are the causes of industrial sickness in India? Give suitable suggestions to overcome the problem.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +366,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Discuss the causes of energy crisis in India",
-    "is_structured": 1,
-    "last_updated": 1778964500,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
+    "last_updated": 1778964500,
+    "is_structured": 1,
+    "question_text": "Discuss the causes of energy crisis in India",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Energy",
+    "topics": [
+      "Energy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -309,20 +391,32 @@
       },
       {
         "section": "Body",
-        "text": "Discuss supply-side and structural causes: Heavy reliance on imported crude oil (over 80%) making the economy vulnerable to geopolitical shocks. Domestically, there is a heavy dependence on coal, which suffers from logistical bottlenecks and environmental restrictions. Furthermore, India faces massive Aggregate Technical & Commercial (AT&C) losses and severe financial distress among state DISCOMs.",
-        "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Discuss supply-side and structural causes: Heavy reliance on imported crude oil (over 80%) making the economy vulnerable to geopolitical shocks.",
+        "cite": "UPPSC Mains 2019 GS Paper 3",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Domestically, there is a heavy dependence on coal, which suffers from logistical bottlenecks and environmental restrictions.",
+        "cite": "UPPSC Mains 2019 GS Paper 3",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Furthermore, India faces massive Aggregate Technical & Commercial (AT&C) losses and severe financial distress among state DISCOMs..",
+        "cite": "UPPSC Mains 2019 GS Paper 3",
+        "order": 4
       },
       {
         "section": "Body",
         "text": "Discuss demand-side causes: Rapid urbanization, rising middle-class consumerism, widespread rural electrification, and inefficient energy consumption practices drive unprecedented demand surges.",
-        "order": 3,
+        "order": 5,
         "cite": "UPPSC Mains 2019 GS Paper 3"
       },
       {
         "section": "Conclusion",
         "text": "Conclude that resolving the crisis requires aggressive diversification into renewable energy (solar/wind), overhauling DISCOM finances, and improving grid efficiency.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2019 GS Paper 3"
       }
     ]
@@ -333,14 +427,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Define Biodiversity. why are tropical countries rich in biodiversity? Explain.",
-    "is_structured": 1,
-    "last_updated": 1778964500,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
+    "last_updated": 1778964500,
+    "is_structured": 1,
+    "question_text": "Define Biodiversity. why are tropical countries rich in biodiversity? Explain.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -374,14 +476,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What are 'digital rights'? Discuss their objectives.",
-    "is_structured": 1,
-    "last_updated": 1778964500,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
+    "last_updated": 1778964500,
+    "is_structured": 1,
+    "question_text": "What are 'digital rights'? Discuss their objectives.",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -415,14 +525,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "\"With unbridled escalation in the international terrorism activities during the past two decades a grave threat looms large before world peace. Every nation has to join hand in the global fight unto the last against it.\" Explain this statement.",
-    "is_structured": 1,
-    "last_updated": 1778964500,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
+    "last_updated": 1778964500,
+    "is_structured": 1,
+    "question_text": "\"With unbridled escalation in the international terrorism activities during the past two decades a grave threat looms large before world peace. Every nation has to join hand in the global fight unto the last against it.\" Explain this statement.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -456,14 +574,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "\"Nuclear deterrence is the only effective alternative to counter the deadly genocidal nuclear weapons.\" Analytically explain this statement.",
-    "is_structured": 1,
-    "last_updated": 1778964500,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
+    "last_updated": 1778964500,
+    "is_structured": 1,
+    "question_text": "\"Nuclear deterrence is the only effective alternative to counter the deadly genocidal nuclear weapons.\" Analytically explain this statement.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -497,14 +623,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "\"How far social media can be utilized as a significant tool in strengthening national security?\" Explain.",
-    "is_structured": 1,
-    "last_updated": 1778964500,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
+    "last_updated": 1778964500,
+    "is_structured": 1,
+    "question_text": "\"How far social media can be utilized as a significant tool in strengthening national security?\" Explain.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -538,14 +672,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What is 'New' in New Industrial Policy? In this context, state the features of new industrial policy and explain its effects on th industrial growth.",
-    "is_structured": 1,
-    "last_updated": 1778964500,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
+    "last_updated": 1778964500,
+    "is_structured": 1,
+    "question_text": "What is 'New' in New Industrial Policy? In this context, state the features of new industrial policy and explain its effects on th industrial growth.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -561,14 +703,20 @@
       },
       {
         "section": "Body",
-        "text": "Explain the effects on industrial growth: It ended state monopolies, ushering in intense competition which improved product quality and consumer choice. It triggered massive growth in the service and IT sectors and facilitated rapid technology transfer. However, traditional, uncompetitive manufacturing sectors suffered, and the expected massive surge in the manufacturing GDP share remained elusive.",
-        "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Explain the effects on industrial growth: It ended state monopolies, ushering in intense competition which improved product quality and consumer choice. It triggered massive growth in the service and IT sectors and facilitated rapid technology transfer.",
+        "cite": "UPPSC Mains 2019 GS Paper 3",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "However, traditional, uncompetitive manufacturing sectors suffered, and the expected massive surge in the manufacturing GDP share remained elusive.",
+        "cite": "UPPSC Mains 2019 GS Paper 3",
+        "order": 4
       },
       {
         "section": "Conclusion",
         "text": "Conclude that the policy successfully liberated the entrepreneurial spirit of India, laying the structural foundation for the country to become one of the fastest-growing global economies.",
-        "order": 4,
+        "order": 5,
         "cite": "UPPSC Mains 2019 GS Paper 3"
       }
     ]
@@ -579,14 +727,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Discuss as to what extent the policy of economic growth with equality and distributive justice has been successful in the fulfilment of the objectives of inclusive growth in India.",
-    "is_structured": 1,
-    "last_updated": 1778964500,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
+    "last_updated": 1778964500,
+    "is_structured": 1,
+    "question_text": "Discuss as to what extent the policy of economic growth with equality and distributive justice has been successful in the fulfilment of the objectives of inclusive growth in India.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Inclusive Growth",
+    "topics": [
+      "Inclusive Growth"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -620,14 +776,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Critically explain the issue of educated unemployment in U.P.",
-    "is_structured": 1,
-    "last_updated": 1778964500,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
+    "last_updated": 1778964500,
+    "is_structured": 1,
+    "question_text": "Critically explain the issue of educated unemployment in U.P.",
+    "subjectId": "up-economy",
+    "subjects": [
+      "UP Economy & Agri"
+    ],
+    "topic": "UP Economy",
+    "topics": [
+      "UP Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -637,20 +801,32 @@
       },
       {
         "section": "Body",
-        "text": "Explain the causes: The primary issue is the severe skill mismatch; archaic university curricula fail to impart modern, industry-relevant vocational skills. There is a deeply entrenched socio-cultural preference for scarce government jobs over private entrepreneurship. Furthermore, historically sluggish industrial growth (especially in Purvanchal) limits the absorption capacity for graduates.",
-        "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Explain the causes: The primary issue is the severe skill mismatch.",
+        "cite": "UPPSC Mains 2019 GS Paper 3",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "archaic university curricula fail to impart modern, industry-relevant vocational skills. There is a deeply entrenched socio-cultural preference for scarce government jobs over private entrepreneurship. Furthermore, historically sluggish industrial growth (especially in Purvanchal).",
+        "cite": "UPPSC Mains 2019 GS Paper 3",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "limits the absorption capacity for graduates.",
+        "cite": "UPPSC Mains 2019 GS Paper 3",
+        "order": 4
       },
       {
         "section": "Body",
         "text": "Explain the critical impacts: This leads to intense youth frustration, a massive 'brain drain' of skilled talent to other states, and the under-utilization of UP's demographic dividend, which drags down the state's overall economic potential.",
-        "order": 3,
+        "order": 5,
         "cite": "UPPSC Mains 2019 GS Paper 3"
       },
       {
         "section": "Conclusion",
         "text": "Conclude that resolving this crisis requires overhauling higher education towards STEM and vocational training, alongside aggressive state initiatives like ODOP to spur local MSME job creation.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2019 GS Paper 3"
       }
     ]
@@ -661,14 +837,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Explain the challenges of food security in India. How can they be removed? Explain.",
-    "is_structured": 1,
-    "last_updated": 1778964500,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
+    "last_updated": 1778964500,
+    "is_structured": 1,
+    "question_text": "Explain the challenges of food security in India. How can they be removed? Explain.",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Food Security",
+    "topics": [
+      "Food Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -678,20 +862,32 @@
       },
       {
         "section": "Body",
-        "text": "Explain the challenges: Production is threatened by shrinking landholdings, soil degradation, and climate change-induced erratic monsoons. Distribution is hampered by massive post-harvest losses, inadequate cold-chain infrastructure, and leakages/corruption in the Public Distribution System (PDS). Nutritionally, the heavy focus on cereals has led to a severe crisis of 'hidden hunger' (micronutrient deficiency).",
-        "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Explain the challenges: Production is threatened by shrinking landholdings, soil degradation, and climate change-induced erratic monsoons.",
+        "cite": "UPPSC Mains 2019 GS Paper 3",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Distribution is hampered by massive post-harvest losses, inadequate cold-chain infrastructure, and leakages/corruption in the Public Distribution System (PDS).",
+        "cite": "UPPSC Mains 2019 GS Paper 3",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Nutritionally, the heavy focus on cereals has led to a severe crisis of 'hidden hunger' (micronutrient deficiency).",
+        "cite": "UPPSC Mains 2019 GS Paper 3",
+        "order": 4
       },
       {
         "section": "Body",
         "text": "Explain how they can be removed: Implement technology-driven PDS (like One Nation One Ration Card) to stop leakages. Promote climate-resilient agriculture and micro-irrigation. Crucially, shift policy focus towards crop diversification, promoting millets, and bio-fortification to address nutritional security.",
-        "order": 3,
+        "order": 5,
         "cite": "UPPSC Mains 2019 GS Paper 3"
       },
       {
         "section": "Conclusion",
         "text": "Conclude that ensuring food security requires a holistic supply chain overhaul, transitioning from a volume-based agrarian approach to a nutrition-based, sustainable model.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2019 GS Paper 3"
       }
     ]
@@ -702,14 +898,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Evaluate in brief the agriculture marketing reforms in India. Are they adequate?",
-    "is_structured": 1,
-    "last_updated": 1778964500,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
+    "last_updated": 1778964500,
+    "is_structured": 1,
+    "question_text": "Evaluate in brief the agriculture marketing reforms in India. Are they adequate?",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -725,14 +929,26 @@
       },
       {
         "section": "Body",
-        "text": "Assess adequacy: These reforms are structurally necessary but currently inadequate. The digital e-NAM relies on physical infrastructure (assaying labs, cold chains) which remains severely deficient. Small farmers lack the digital literacy and transport capacity to bypass local middlemen, and the deep trust deficit regarding corporatization continues to stall market liberalization.",
-        "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Assess adequacy: These reforms are structurally necessary but currently inadequate.",
+        "cite": "UPPSC Mains 2019 GS Paper 3",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "The digital e-NAM relies on physical infrastructure (assaying labs, cold chains) which remains severely deficient.",
+        "cite": "UPPSC Mains 2019 GS Paper 3",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Small farmers lack the digital literacy and transport capacity to bypass local middlemen, and the deep trust deficit regarding corporatization continues to stall market liberalization.",
+        "cite": "UPPSC Mains 2019 GS Paper 3",
+        "order": 5
       },
       {
         "section": "Conclusion",
         "text": "Conclude that while digital platforms provide the architecture, true marketing reform requires massive state investment in grassroots warehousing and rural road connectivity.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2019 GS Paper 3"
       }
     ]
@@ -743,14 +959,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What is cloud computing? Show light on the services rendered by cloud computing and enlist its advantages.",
-    "is_structured": 1,
-    "last_updated": 1778964500,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
+    "last_updated": 1778964500,
+    "is_structured": 1,
+    "question_text": "What is cloud computing? Show light on the services rendered by cloud computing and enlist its advantages.",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -784,14 +1008,22 @@
     "year": 2019,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What do you mean by 'Technology Transfer'? How far this can be useful in disseminating complex technology? Explain.",
-    "is_structured": 1,
-    "last_updated": 1778964500,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
+    "last_updated": 1778964500,
+    "is_structured": 1,
+    "question_text": "What do you mean by 'Technology Transfer'? How far this can be useful in disseminating complex technology? Explain.",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

@@ -5,14 +5,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QA.1",
     "marks": 50,
     "importance": 3,
-    "question_text": "कृत्रिम बुद्धिमत्ता के दौर में साहित्य का भविष्य ।\n\nThe future of literature in the age of Artificial Intelligence.",
-    "is_structured": 1,
-    "last_updated": 1778918500,
     "cite": "E",
-    "q_number": "QA.1",
+    "last_updated": 1778918500,
+    "is_structured": 1,
+    "question_text": "कृत्रिम बुद्धिमत्ता के दौर में साहित्य का भविष्य ।\n\nThe future of literature in the age of Artificial Intelligence.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QA.2",
     "marks": 50,
     "importance": 2,
-    "question_text": "नए भारत की वैश्विक चेतना ।\n\nGlobal consciousness of the New India.",
-    "is_structured": 1,
-    "last_updated": 1778918500,
     "cite": "E",
-    "q_number": "QA.2",
+    "last_updated": 1778918500,
+    "is_structured": 1,
+    "question_text": "नए भारत की वैश्विक चेतना ।\n\nGlobal consciousness of the New India.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QA.3",
     "marks": 50,
     "importance": 3,
-    "question_text": "इक्कीसवीं सदी में भारतीय स्त्री : स्वप्न से यथार्थ तक ।\n\nIndian women in the 21st century: From dreams to reality.",
-    "is_structured": 1,
-    "last_updated": 1778918500,
     "cite": "E",
-    "q_number": "QA.3",
+    "last_updated": 1778918500,
+    "is_structured": 1,
+    "question_text": "इक्कीसवीं सदी में भारतीय स्त्री : स्वप्न से यथार्थ तक ।\n\nIndian women in the 21st century: From dreams to reality.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QB.1",
     "marks": 50,
     "importance": 3,
-    "question_text": "विकास के निहितार्थ और पर्यावरण ।\n\nThe implications of development and the environment.",
-    "is_structured": 1,
-    "last_updated": 1778918500,
     "cite": "E",
-    "q_number": "QB.1",
+    "last_updated": 1778918500,
+    "is_structured": 1,
+    "question_text": "विकास के निहितार्थ और पर्यावरण ।\n\nThe implications of development and the environment.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QB.2",
     "marks": 50,
     "importance": 2,
-    "question_text": "बदलती वैश्विक अर्थव्यवस्था में नैतिकता का प्रश्न ।\n\nThe issue of ethics in a changing global economy.",
-    "is_structured": 1,
-    "last_updated": 1778918500,
     "cite": "E",
-    "q_number": "QB.2",
+    "last_updated": 1778918500,
+    "is_structured": 1,
+    "question_text": "बदलती वैश्विक अर्थव्यवस्था में नैतिकता का प्रश्न ।\n\nThe issue of ethics in a changing global economy.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QB.3",
     "marks": 50,
     "importance": 2,
-    "question_text": "जैविक खेती : आवश्यकता या विवशता ।\n\nOrganic farming: Necessity or compulsion.",
-    "is_structured": 1,
-    "last_updated": 1778918500,
     "cite": "E",
-    "q_number": "QB.3",
+    "last_updated": 1778918500,
+    "is_structured": 1,
+    "question_text": "जैविक खेती : आवश्यकता या विवशता ।\n\nOrganic farming: Necessity or compulsion.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QC.1",
     "marks": 50,
     "importance": 3,
-    "question_text": "भारत की विदेश नीति : गुटनिरपेक्षता से बहुध्रुवीय कूटनीति तक ।\n\nIndia's foreign policy: From non-alignment to multipolar diplomacy.",
-    "is_structured": 1,
-    "last_updated": 1778918500,
     "cite": "E",
-    "q_number": "QC.1",
+    "last_updated": 1778918500,
+    "is_structured": 1,
+    "question_text": "भारत की विदेश नीति : गुटनिरपेक्षता से बहुध्रुवीय कूटनीति तक ।\n\nIndia's foreign policy: From non-alignment to multipolar diplomacy.",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QC.2",
     "marks": 50,
     "importance": 2,
-    "question_text": "भूस्खलन : कितना मानवजनित कितना प्राकृतिक ।\n\nLandslides: How much Human-Induced, How much natural.",
-    "is_structured": 1,
-    "last_updated": 1778918500,
     "cite": "E",
-    "q_number": "QC.2",
+    "last_updated": 1778918500,
+    "is_structured": 1,
+    "question_text": "भूस्खलन : कितना मानवजनित कितना प्राकृतिक ।\n\nLandslides: How much Human-Induced, How much natural.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2025,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QC.3",
     "marks": 50,
     "importance": 3,
-    "question_text": "नए भारत का स्वप्न और ग्रामीण विकास योजनाएँ ।\n\nThe dream of New India and Rural Development Schemes.",
-    "is_structured": 1,
-    "last_updated": 1778918500,
     "cite": "E",
-    "q_number": "QC.3",
+    "last_updated": 1778918500,
+    "is_structured": 1,
+    "question_text": "नए भारत का स्वप्न और ग्रामीण विकास योजनाएँ ।\n\nThe dream of New India and Rural Development Schemes.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

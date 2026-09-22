@@ -5,14 +5,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Evaluate the policies of the Government of India regarding the promotion of food processing and related industries.",
-    "is_structured": 1,
-    "last_updated": 1778937220,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
+    "last_updated": 1778937220,
+    "is_structured": 1,
+    "question_text": "Evaluate the policies of the Government of India regarding the promotion of food processing and related industries.",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Explain the implications of using E-technology to help the farmers.",
-    "is_structured": 1,
-    "last_updated": 1778937220,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
+    "last_updated": 1778937220,
+    "is_structured": 1,
+    "question_text": "Explain the implications of using E-technology to help the farmers.",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What are the important challenges faced in the implementation of land reforms in India? Give your suggestions to remove these challenges.",
-    "is_structured": 1,
-    "last_updated": 1778937220,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
+    "last_updated": 1778937220,
+    "is_structured": 1,
+    "question_text": "What are the important challenges faced in the implementation of land reforms in India? Give your suggestions to remove these challenges.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Inclusive Growth",
+    "topics": [
+      "Inclusive Growth"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Explain the budget making process of the Government of India. Also explain the difference between plan expenditure and non-plan expenditure.",
-    "is_structured": 1,
-    "last_updated": 1778937220,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
+    "last_updated": 1778937220,
+    "is_structured": 1,
+    "question_text": "Explain the budget making process of the Government of India. Also explain the difference between plan expenditure and non-plan expenditure.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "\"Infrastructure plays an important role in the economic development of a country.\" Discuss.",
-    "is_structured": 1,
-    "last_updated": 1778937220,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
+    "last_updated": 1778937220,
+    "is_structured": 1,
+    "question_text": "\"Infrastructure plays an important role in the economic development of a country.\" Discuss.",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What is Blood 'moon'? When does it happen?",
-    "is_structured": 1,
-    "last_updated": 1778937220,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
+    "last_updated": 1778937220,
+    "is_structured": 1,
+    "question_text": "What is Blood 'moon'? When does it happen?",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Energy",
+    "topics": [
+      "Energy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What are the key objectives of India's moon mission program 'Chandrayaan-3'?",
-    "is_structured": 1,
-    "last_updated": 1778937220,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
+    "last_updated": 1778937220,
+    "is_structured": 1,
+    "question_text": "What are the key objectives of India's moon mission program 'Chandrayaan-3'?",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Cyber crimes are a big threat to national security. How can a country be protected from these crimes?",
-    "is_structured": 1,
-    "last_updated": 1778937220,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
+    "last_updated": 1778937220,
+    "is_structured": 1,
+    "question_text": "Cyber crimes are a big threat to national security. How can a country be protected from these crimes?",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Disaster Management",
+    "topics": [
+      "Disaster Management"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "How can India's security forces be strengthened? Give your suggestions.",
-    "is_structured": 1,
-    "last_updated": 1778937220,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
+    "last_updated": 1778937220,
+    "is_structured": 1,
+    "question_text": "How can India's security forces be strengthened? Give your suggestions.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -374,14 +446,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What is India's stand on the issues of nuclear proliferation? Explain.",
-    "is_structured": 1,
-    "last_updated": 1778937220,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
+    "last_updated": 1778937220,
+    "is_structured": 1,
+    "question_text": "What is India's stand on the issues of nuclear proliferation? Explain.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -415,14 +495,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "State the important objectives of NITI Aayog. How are the principles and functions of NITI Aayog different from those of the planning commission? Comment.",
-    "is_structured": 1,
-    "last_updated": 1778937220,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
+    "last_updated": 1778937220,
+    "is_structured": 1,
+    "question_text": "State the important objectives of NITI Aayog. How are the principles and functions of NITI Aayog different from those of the planning commission? Comment.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -456,14 +544,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Explain the concept of inclusive growth. What are the issues and challenges with inclusive growth in India? Explain.",
-    "is_structured": 1,
-    "last_updated": 1778937220,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
+    "last_updated": 1778937220,
+    "is_structured": 1,
+    "question_text": "Explain the concept of inclusive growth. What are the issues and challenges with inclusive growth in India? Explain.",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -497,14 +593,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Describe the various efforts being made in India to achieve the 'Sustainable Development Goals'.",
-    "is_structured": 1,
-    "last_updated": 1778937220,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
+    "last_updated": 1778937220,
+    "is_structured": 1,
+    "question_text": "Describe the various efforts being made in India to achieve the 'Sustainable Development Goals'.",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Food Security",
+    "topics": [
+      "Food Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -538,14 +642,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "\"Despite various measures to address food security, major challenges remain.\" Explain with reference to India.",
-    "is_structured": 1,
-    "last_updated": 1778937220,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
+    "last_updated": 1778937220,
+    "is_structured": 1,
+    "question_text": "\"Despite various measures to address food security, major challenges remain.\" Explain with reference to India.",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -579,14 +691,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "\"The Public Distribution System (PDS) has proved to be the most effective instrument of Government policy over the years in stabilizing prices and making food available to consumers at affordable prices.\" Explain the statement.",
-    "is_structured": 1,
-    "last_updated": 1778937220,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
+    "last_updated": 1778937220,
+    "is_structured": 1,
+    "question_text": "\"The Public Distribution System (PDS) has proved to be the most effective instrument of Government policy over the years in stabilizing prices and making food available to consumers at affordable prices.\" Explain the statement.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -620,14 +740,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What steps are being taken to meet the continuously increasing demand of energy resources in India? Discuss with special reference to renewable and sustainable energy resources.",
-    "is_structured": 1,
-    "last_updated": 1778937220,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
+    "last_updated": 1778937220,
+    "is_structured": 1,
+    "question_text": "What steps are being taken to meet the continuously increasing demand of energy resources in India? Discuss with special reference to renewable and sustainable energy resources.",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Energy",
+    "topics": [
+      "Energy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -661,14 +789,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What are India's main achievements in biotechnology? How will these help in the upliftment of poor sections of society?",
-    "is_structured": 1,
-    "last_updated": 1778937220,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
+    "last_updated": 1778937220,
+    "is_structured": 1,
+    "question_text": "What are India's main achievements in biotechnology? How will these help in the upliftment of poor sections of society?",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Disaster Management",
+    "topics": [
+      "Disaster Management"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -702,14 +838,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Distinguish between natural and manmade disasters. Also, elucidate the effectiveness of the disaster management system in India.",
-    "is_structured": 1,
-    "last_updated": 1778937220,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
+    "last_updated": 1778937220,
+    "is_structured": 1,
+    "question_text": "Distinguish between natural and manmade disasters. Also, elucidate the effectiveness of the disaster management system in India.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -743,14 +887,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "\"Money laundering poses a serious threat to a country's economic sovereignty. Information and communication technology has made it more challenging.\" Explain.",
-    "is_structured": 1,
-    "last_updated": 1778937220,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
+    "last_updated": 1778937220,
+    "is_structured": 1,
+    "question_text": "\"Money laundering poses a serious threat to a country's economic sovereignty. Information and communication technology has made it more challenging.\" Explain.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -784,14 +936,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What positive and negative changes occured due to the media revolution in India and around the world? Explain the role of media in national and international security.",
-    "is_structured": 1,
-    "last_updated": 1778937220,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
+    "last_updated": 1778937220,
+    "is_structured": 1,
+    "question_text": "What positive and negative changes occured due to the media revolution in India and around the world? Explain the role of media in national and international security.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

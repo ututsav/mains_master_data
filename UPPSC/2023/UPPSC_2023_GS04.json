@@ -5,14 +5,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What do you understand by Moral insight? How does it help in Moral situation of civil servants?",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
+    "last_updated": 1778947153,
+    "is_structured": 1,
+    "question_text": "What do you understand by Moral insight? How does it help in Moral situation of civil servants?",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -40,14 +48,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Examine the relevance of the following in the context of civil service. a) Spirit of service b) Courage of firm conviction.",
-    "is_structured": 0,
-    "last_updated": 1778947153,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
+    "last_updated": 1778947153,
+    "is_structured": 0,
+    "question_text": "Examine the relevance of the following in the context of civil service. a) Spirit of service b) Courage of firm conviction.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Civil Service Values",
+    "topics": [
+      "Civil Service Values"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -69,14 +85,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "\"A child learns values by what he observes around him\". Discuss the role of family and society in the formation of values in the light of this statement.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
+    "last_updated": 1778947153,
+    "is_structured": 1,
+    "question_text": "\"A child learns values by what he observes around him\". Discuss the role of family and society in the formation of values in the light of this statement.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -110,14 +134,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "\"In the era of Globalization International ethics is the need of hour for ensuring peace and stability among the nations\". Explain critically.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
+    "last_updated": 1778947153,
+    "is_structured": 1,
+    "question_text": "\"In the era of Globalization International ethics is the need of hour for ensuring peace and stability among the nations\". Explain critically.",
+    "subjectId": "thinkers",
+    "subjects": [
+      "Thinkers"
+    ],
+    "topic": "Thinkers",
+    "topics": [
+      "Thinkers"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -151,14 +183,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "\"Concealment of Information impedes public access and involvement\". In the light of this statement discuss the importance of information sharing and transparency in Government.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
+    "last_updated": 1778947153,
+    "is_structured": 1,
+    "question_text": "\"Concealment of Information impedes public access and involvement\". In the light of this statement discuss the importance of information sharing and transparency in Government.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -192,14 +232,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Describe various components of attitude and discuss factors that influence attitude formation.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
+    "last_updated": 1778947153,
+    "is_structured": 1,
+    "question_text": "Describe various components of attitude and discuss factors that influence attitude formation.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Probity",
+    "topics": [
+      "Probity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -233,14 +281,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Discuss any two important attributes which you consider important for public servant. Justify your answer.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
+    "last_updated": 1778947153,
+    "is_structured": 1,
+    "question_text": "Discuss any two important attributes which you consider important for public servant. Justify your answer.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Attitude",
+    "topics": [
+      "Attitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -274,14 +330,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "How can liberality and objectivity be fostered among civil servants? Give your suggestion.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
+    "last_updated": 1778947153,
+    "is_structured": 1,
+    "question_text": "How can liberality and objectivity be fostered among civil servants? Give your suggestion.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Corruption",
+    "topics": [
+      "Corruption"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -315,14 +379,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "Explain the role of emotional intelligence for good governance and administration.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
+    "last_updated": 1778947153,
+    "is_structured": 1,
+    "question_text": "Explain the role of emotional intelligence for good governance and administration.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Integrity",
+    "topics": [
+      "Integrity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -356,14 +428,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": null,
-    "question_text": "What is the role of social influence in public administration? Elucidate with examples.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
+    "last_updated": 1778947153,
+    "is_structured": 1,
+    "question_text": "What is the role of social influence in public administration? Elucidate with examples.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Civil Service Values",
+    "topics": [
+      "Civil Service Values"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -397,14 +477,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What do you understand by Ethical Governance? Elucidate with example.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
+    "last_updated": 1778947153,
+    "is_structured": 1,
+    "question_text": "What do you understand by Ethical Governance? Elucidate with example.",
+    "subjectId": "thinkers",
+    "subjects": [
+      "Thinkers"
+    ],
+    "topic": "Thinkers",
+    "topics": [
+      "Thinkers"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -438,14 +526,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "While formulating public policies a civil servant must safely focus on the public welfare and while implementing those policies he must have a foresight to infer possible unexpected consequences. Do you agree with this statement? Give arguments and justifications for your answer.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
+    "last_updated": 1778947153,
+    "is_structured": 1,
+    "question_text": "While formulating public policies a civil servant must safely focus on the public welfare and while implementing those policies he must have a foresight to infer possible unexpected consequences. Do you agree with this statement? Give arguments and justifications for your answer.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -479,14 +575,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Can Bhagavadgita be an ethical guide for civil servants? Comment.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
+    "last_updated": 1778947153,
+    "is_structured": 1,
+    "question_text": "Can Bhagavadgita be an ethical guide for civil servants? Comment.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -520,14 +624,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What is meant by Human Action in Ethics? Discuss the determinants and consequences of ethics in Human Action.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
+    "last_updated": 1778947153,
+    "is_structured": 1,
+    "question_text": "What is meant by Human Action in Ethics? Discuss the determinants and consequences of ethics in Human Action.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Civil Service Values",
+    "topics": [
+      "Civil Service Values"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -561,14 +673,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Rajeev is an idealist. He believes that, \"Service to humanity is service to God\". One day he was going for an interview for government Job. He saw a severely injured person lying on the road who was asking for help. No one came forward to help. Rajeev took the injured person to the hospital and saved his life. But due to this reason, he lost the opportunity to get a government Job. Comment on Rajeev's decision in the light of above circumstance.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
+    "last_updated": 1778947153,
+    "is_structured": 1,
+    "question_text": "Rajeev is an idealist. He believes that, \"Service to humanity is service to God\". One day he was going for an interview for government Job. He saw a severely injured person lying on the road who was asking for help. No one came forward to help. Rajeev took the injured person to the hospital and saved his life. But due to this reason, he lost the opportunity to get a government Job. Comment on Rajeev's decision in the light of above circumstance.",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -602,14 +722,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "What are the major principles of public life? Discuss with suitable examples.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
+    "last_updated": 1778947153,
+    "is_structured": 1,
+    "question_text": "What are the major principles of public life? Discuss with suitable examples.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Attitude",
+    "topics": [
+      "Attitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -643,14 +771,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Now a days social media is used to influence public opinion either in positive or in negative way. Being a civil servant, how will you solve this issue?",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
+    "last_updated": 1778947153,
+    "is_structured": 1,
+    "question_text": "Now a days social media is used to influence public opinion either in positive or in negative way. Being a civil servant, how will you solve this issue?",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -684,14 +820,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "\"Integrity without knowledge is weak and useless, but knowledge without integrity is dangerous and terrible\". What do you understand by this statement? Discuss.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
+    "last_updated": 1778947153,
+    "is_structured": 1,
+    "question_text": "\"Integrity without knowledge is weak and useless, but knowledge without integrity is dangerous and terrible\". What do you understand by this statement? Discuss.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Probity",
+    "topics": [
+      "Probity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -725,14 +869,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "\"Non-performance of duty by a public servant is a type of corruption\". Do you agree with this statement? Explain logically.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
+    "last_updated": 1778947153,
+    "is_structured": 1,
+    "question_text": "\"Non-performance of duty by a public servant is a type of corruption\". Do you agree with this statement? Explain logically.",
+    "subjectId": "thinkers",
+    "subjects": [
+      "Thinkers"
+    ],
+    "topic": "Thinkers",
+    "topics": [
+      "Thinkers"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -766,14 +918,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": null,
-    "question_text": "Describe the strategies that civil servants can employ to overcome resistance to change and effectively persuade stakeholders to support new policies and initiatives.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
+    "last_updated": 1778947153,
+    "is_structured": 1,
+    "question_text": "Describe the strategies that civil servants can employ to overcome resistance to change and effectively persuade stakeholders to support new policies and initiatives.",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -798,826 +958,6 @@
         "text": "Conclude that empathetic, persuasive leadership rather than authoritative mandates is key to institutionalizing sustainable change.",
         "order": 4,
         "cite": "UPPSC Mains 2023 GS Paper 4"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2014_GS2_Q1",
-    "paper_title": "General Studies Paper 2",
-    "year": 2014,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12.5,
-    "importance": null,
-    "question_text": "Starting from inventing the 'basic structure' doctrine, the judiciary has played a highly proactive role in ensuring that India develops into a thriving democracy. In light of the statement, evaluate the role played by judicial activism in achieving the ideals of democracy.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPSC Mains 2014 GS Paper 2",
-    "q_number": 1,
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Introduce the concept of judicial activism and its origin in India, specifically highlighting the Kesavananda Bharati case (1973) which established the 'basic structure' doctrine.",
-        "order": 1,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Evaluate its positive role: expanding fundamental rights (e.g., Article 21 to include right to privacy, clean environment), checking executive overreach, and empowering marginalized sections through PILs.",
-        "order": 2,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Discuss the criticisms: concerns regarding judicial overreach violating the separation of powers, and courts venturing into complex policy domains where they lack expertise.",
-        "order": 3,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Conclude that while judicial activism has been a vital democratic safeguard, it must be exercised with judicial restraint to maintain institutional balance.",
-        "order": 4,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2014_GS2_Q2",
-    "paper_title": "General Studies Paper 2",
-    "year": 2014,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12.5,
-    "importance": null,
-    "question_text": "Though the federal principle is dominant in our Constitution and that principle is one of its basic features, but it is equally true that federalism under the Indian Constitution leans in favour of a strong Centre, a feature that militates against the concept of strong federalism. Discuss.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPSC Mains 2014 GS Paper 2",
-    "q_number": 2,
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Define Indian federalism as 'quasi-federal' or a 'Union of States' (Article 1), acknowledging it as a basic structure of the Constitution (S.R. Bommai case).",
-        "order": 1,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Discuss features pointing to a strong Centre: emergency provisions (Articles 352, 356, 360), Parliament's power to alter state boundaries (Article 3), appointment of Governors, and centralized residuary powers.",
-        "order": 2,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Analyze the rationale: the framers opted for a strong Centre to prevent balkanization, ensure national integration, and facilitate unified economic planning.",
-        "order": 3,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Conclude that India's 'cooperative federalism' is a unique constitutional mechanism designed to balance regional autonomy with national unity.",
-        "order": 4,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2014_GS2_Q3",
-    "paper_title": "General Studies Paper 2",
-    "year": 2014,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12.5,
-    "importance": null,
-    "question_text": "The 'Powers, Privileges and Immunities of Parliament and its Members' as envisaged in Article 105 of the Constitution leave room for a large number of un-codified and un-enumerated privileges to continue. Assess the reasons for the absence of legal codification of the 'parliamentary privileges'. How can this problem be addressed?",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPSC Mains 2014 GS Paper 2",
-    "q_number": 3,
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Introduce Article 105, which grants parliamentary privileges, noting that they largely remain un-codified and based on British House of Commons conventions.",
-        "order": 1,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Assess reasons for non-codification: Parliament's desire to retain flexibility, fear that codification would subject privileges to fundamental rights (Article 13) and judicial review, and the difficulty of defining all potential breaches.",
-        "order": 2,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Discuss how to address the problem: advocating for a comprehensive law detailing privileges to prevent arbitrary use against the press and citizens, balancing parliamentary dignity with freedom of speech.",
-        "order": 3,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Conclude that codification is necessary to bring parliamentary privileges in line with constitutional democracy and the rule of law.",
-        "order": 4,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2014_GS2_Q4",
-    "paper_title": "General Studies Paper 2",
-    "year": 2014,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12.5,
-    "importance": null,
-    "question_text": "What do you understand by the concept \"freedom of speech and expression\"? Does it cover hate speech also? Why do the films in India stand on a slightly different plane from other forms of expression? Discuss.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPSC Mains 2014 GS Paper 2",
-    "q_number": 4,
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Define Freedom of Speech and Expression as guaranteed under Article 19(1)(a), highlighting its importance for democratic discourse.",
-        "order": 1,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Clarify that it does not cover hate speech; Article 19(2) imposes reasonable restrictions on grounds like public order, decency, and incitement to an offense.",
-        "order": 2,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Explain why films stand on a different plane: Films have a mass impact and strong visual appeal capable of stirring deep emotions, justifying prior censorship (Cinematograph Act) unlike the print media.",
-        "order": 3,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Conclude that the state must delicately balance expressive freedom with the maintenance of social harmony.",
-        "order": 4,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2014_GS2_Q5",
-    "paper_title": "General Studies Paper 2",
-    "year": 2014,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12.5,
-    "importance": null,
-    "question_text": "Instances of President's delay in commuting death sentences has come under public debate as denial of justice. Should there be a time limit specified for the President to accept/reject such petitions? Analyse.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPSC Mains 2014 GS Paper 2",
-    "q_number": 5,
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Contextualize the debate around Article 72, which grants pardoning power to the President, and the Supreme Court's stance (Shatrughan Chouhan case) that inordinate delay is grounds for commutation.",
-        "order": 1,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Analyze arguments for a time limit: prevents the psychological torture of death row convicts, upholds human rights, and ensures judicial finality.",
-        "order": 2,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Analyze arguments against a time limit: the President acts on the advice of the Council of Ministers, and complex cases require thorough investigation without arbitrary deadlines.",
-        "order": 3,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Conclude that while a rigid constitutional timeline might be impractical, developing statutory guidelines for expeditious disposal is necessary to prevent justice delayed from becoming justice denied.",
-        "order": 4,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2014_GS2_Q6",
-    "paper_title": "General Studies Paper 2",
-    "year": 2014,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12.5,
-    "importance": null,
-    "question_text": "The size of the cabinet should be as big as governmental work justifies and as big as the Prime Minister can manage as a team. How far is the efficacy of a government then inversely related to the size of the cabinet? Discuss.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPSC Mains 2014 GS Paper 2",
-    "q_number": 6,
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Introduce the constitutional limit on the Council of Ministers (91st Amendment capping it at 15% of the Lok Sabha) to prevent jumbo cabinets.",
-        "order": 1,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Discuss the inverse relationship: excessively large cabinets lead to overlapping jurisdictions, inter-ministerial turf wars, delayed decision-making, and high exchequer costs.",
-        "order": 2,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Discuss nuances: a too-small cabinet might lead to over-burdened ministers and lack of diverse regional/social representation.",
-        "order": 3,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Conclude that 'minimum government, maximum governance' requires an optimally sized cabinet focused on functional efficiency and effective coordination.",
-        "order": 4,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2014_GS2_Q7",
-    "paper_title": "General Studies Paper 2",
-    "year": 2014,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12.5,
-    "importance": null,
-    "question_text": "Though 100 percent FDI is already allowed in non-news media like a trade publication and general entertainment channel, the Government is mulling over the proposal for increased FDI in news media for quite some time. What difference would an increase in FDI make? Critically evaluate the pros and cons.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPSC Mains 2014 GS Paper 2",
-    "q_number": 7,
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Contextualize the regulatory environment regarding Foreign Direct Investment (FDI) in Indian media sectors.",
-        "order": 1,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Evaluate the pros: infusion of much-needed capital, introduction of global technological/journalistic standards, better infrastructure, and breaking domestic media monopolies.",
-        "order": 2,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Evaluate the cons: threats to national security through foreign interference in public opinion, potential loss of cultural identity, and prioritization of commercial interests over public interest journalism.",
-        "order": 3,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Conclude that an increase in FDI should be coupled with stringent regulatory safeguards and cross-media ownership restrictions.",
-        "order": 4,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2014_GS2_Q8",
-    "paper_title": "General Studies Paper 2",
-    "year": 2014,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12.5,
-    "importance": null,
-    "question_text": "The setting up of a Rail Tariff Authority to regulate fares will subject the cash strapped Indian Railways to demand subsidy for obligation to operate non-profitable routes and services. Taking into account the experience in the power sector, discuss if the proposed reform is expected to benefit the consumers, the Indian Railways or the private container operators.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPSC Mains 2014 GS Paper 2",
-    "q_number": 8,
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Introduce the proposal for a Rail Tariff Authority (RTA) aimed at de-politicizing passenger and freight fare rationalization.",
-        "order": 1,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Discuss benefits for the Railways: cost-reflective tariffs will reduce cross-subsidization, improve financial health, and attract investment.",
-        "order": 2,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Discuss impacts on consumers and private operators: consumers might face higher passenger fares but better services; private operators will benefit from rationalized freight rates.",
-        "order": 3,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Conclude by drawing parallels with the power sector regulators (CERC/SERCs), highlighting that an independent regulator is crucial, provided the government directly funds the social service obligations.",
-        "order": 4,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2014_GS2_Q9",
-    "paper_title": "General Studies Paper 2",
-    "year": 2014,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12.5,
-    "importance": null,
-    "question_text": "National Human Rights Commission (NHRC) in India can be most effective when its tasks are adequately supported by other mechanisms that ensure the accountability of a government. In light of the above observation assess the role of NHRC as an effective complement to the judiciary and other institutions in promoting and protecting human rights standards.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPSC Mains 2014 GS Paper 2",
-    "q_number": 9,
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Introduce the NHRC as a statutory watchdog created under the Protection of Human Rights Act, 1993, to monitor rights violations.",
-        "order": 1,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Assess its role as a complement: it handles investigative burdens, conducts awareness campaigns, and provides an accessible forum for victims without the formalities of courts.",
-        "order": 2,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Discuss its limitations (often termed a 'toothless tiger'): its recommendations are merely advisory, it lacks independent investigative machinery, and has a one-year limitation clause.",
-        "order": 3,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Conclude that for the NHRC to be truly effective, its powers must be augmented and synergized with a proactive judiciary and vigilant civil society.",
-        "order": 4,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2014_GS2_Q10",
-    "paper_title": "General Studies Paper 2",
-    "year": 2014,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12.5,
-    "importance": null,
-    "question_text": "The penetration of Self Help Groups (SHGs) in rural areas in promoting participation in development programmes is facing socio-cultural hurdles. Examine.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPSC Mains 2014 GS Paper 2",
-    "q_number": 10,
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Acknowledge the success of SHGs (like Kudumbashree) in microfinance and rural empowerment, while stating that their pan-India penetration remains uneven.",
-        "order": 1,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Examine the socio-cultural hurdles: patriarchal norms restricting women's mobility and financial independence, deep-rooted caste divisions preventing cohesive group formation, and low literacy levels.",
-        "order": 2,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Discuss additional challenges: lack of institutional support in certain regions, political interference, and heavy reliance on NGOs that may lack local cultural context.",
-        "order": 3,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Conclude that overcoming these hurdles requires targeted social sensitization alongside economic interventions to truly democratize rural development.",
-        "order": 4,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2014_GS2_Q11",
-    "paper_title": "General Studies Paper 2",
-    "year": 2014,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12.5,
-    "importance": null,
-    "question_text": "Do government's schemes for up-lifting vulnerable and backward communities by protecting required social resources for them, lead to their exclusion in establishing businesses in urban economies?",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPSC Mains 2014 GS Paper 2",
-    "q_number": 11,
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Introduce the paradox of welfare schemes (reservations, targeted subsidies) aimed at uplifting backward communities.",
-        "order": 1,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Argue how they might inadvertently lead to exclusion: heavy reliance on traditional resource-based welfare (agriculture, rural schemes) can discourage migration, skill acquisition for the modern economy, and entrepreneurial risk-taking.",
-        "order": 2,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Argue the counter-perspective: initiatives like Stand-Up India, Mudra Yojana, and Dalit Indian Chamber of Commerce and Industry (DICCI) show that policy is shifting to integrate them into urban entrepreneurial ecosystems.",
-        "order": 3,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Conclude that affirmative action must transition from merely protecting resources to actively building modern entrepreneurial capacity in urban spaces.",
-        "order": 4,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2014_GS2_Q12",
-    "paper_title": "General Studies Paper 2",
-    "year": 2014,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12.5,
-    "importance": null,
-    "question_text": "An athlete participates in Olympics for personal triumph and nation's glory; victors are showered with cash incentives by various agencies, on their return. Discuss the merit of state sponsored talent hunt and its cultivation as against the rationale of a reward mechanism as encouragement.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPSC Mains 2014 GS Paper 2",
-    "q_number": 12,
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Contrast the current model of post-victory cash rewards with the necessity of comprehensive grassroots sports development.",
-        "order": 1,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Analyze the reward mechanism: it provides extrinsic motivation and financial security to champions, but only supports those who have already succeeded despite a flawed system.",
-        "order": 2,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Analyze state-sponsored talent hunts (e.g., Khelo India): it ensures early identification, scientific coaching, nutritional support, and creates a broad, sustainable pipeline of talent.",
-        "order": 3,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Conclude that while post-event rewards are welcome, long-term sporting glory requires front-loading investments into talent cultivation and infrastructure.",
-        "order": 4,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2014_GS2_Q13",
-    "paper_title": "General Studies Paper 2",
-    "year": 2014,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12.5,
-    "importance": null,
-    "question_text": "Should the premier institutes like IITs/IIMs. be allowed to retain premier status, allowed more academic independence in designing courses and also decide mode/criteria of selection of students. Discuss in light of the growing challenges.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPSC Mains 2014 GS Paper 2",
-    "q_number": 13,
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Introduce the debate around the autonomy of Institutes of National Importance (IITs/IIMs) amid global educational competition.",
-        "order": 1,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Arguments for academic independence: it enables rapid curriculum updates to match industry needs, fosters cutting-edge research, and helps in attracting global faculty and maintaining international rankings.",
-        "order": 2,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Challenges and arguments for oversight: unchecked autonomy might lead to elitism, commercialization of education, and non-compliance with affirmative action (reservation) policies.",
-        "order": 3,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Conclude that a balance is needed—granting academic and administrative autonomy while enforcing accountability to broad national socio-economic goals.",
-        "order": 4,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2014_GS2_Q14",
-    "paper_title": "General Studies Paper 2",
-    "year": 2014,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12.5,
-    "importance": null,
-    "question_text": "Has the Cadre based Civil Services Organization been the cause of slow change in India? Critically examine.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPSC Mains 2014 GS Paper 2",
-    "q_number": 14,
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Introduce the Indian civil service framework, characterized by permanent, cadre-based, generalist services (IAS, IPS).",
-        "order": 1,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Arguments supporting it as a cause of slow change: the system breeds complacency (job security), promotes a generalist culture unsuited for complex modern technical administration, and fosters inter-service rivalries and bureaucratic red tape.",
-        "order": 2,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Counter-arguments: the cadre system provides institutional memory, stability during political transitions, and a unifying administrative structure across a diverse nation.",
-        "order": 3,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Conclude that while the cadre system has merits, lateral entry and specialization are necessary reforms to accelerate India's developmental trajectory.",
-        "order": 4,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2014_GS2_Q15",
-    "paper_title": "General Studies Paper 2",
-    "year": 2014,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12.5,
-    "importance": null,
-    "question_text": "Two parallel run schemes of the Government, viz. the Adhaar Card and NPR, one as voluntary and the other as compulsory, have led to debates at national levels and also litigations. On merits, discuss whether or not both schemes need run concurrently. Analyse the potential of the schemes to achieve developmental benefits and equitable growth.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPSC Mains 2014 GS Paper 2",
-    "q_number": 15,
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Distinguish between Aadhaar (a biometric identity mechanism for residents managed by UIDAI) and the National Population Register (NPR, a citizenship/demographic registry).",
-        "order": 1,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Discuss the merits of running them concurrently vs merging: Aadhaar is focused on deduplication for targeted welfare delivery, whereas NPR is a comprehensive internal security and planning database. Running them in silos creates duplication of effort and public confusion.",
-        "order": 2,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Analyze developmental potential: Aadhaar ensures equitable growth by plugging leakages in the Public Distribution System (PDS) and enabling Direct Benefit Transfers (DBT) via the JAM trinity.",
-        "order": 3,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Conclude that while both serve distinct primary purposes (welfare vs security), their data collection processes should be converged to save resources and alleviate privacy/litigation concerns.",
-        "order": 4,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2014_GS2_Q16",
-    "paper_title": "General Studies Paper 2",
-    "year": 2014,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12.5,
-    "importance": null,
-    "question_text": "With respect to the South China sea, maritime territorial disputes and rising tension affirm the need for safeguarding maritime security to ensure freedom of navigation and over flight throughout the region. In this context, discuss the bilateral issues between India and China.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPSC Mains 2014 GS Paper 2",
-    "q_number": 16,
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Establish the strategic importance of the South China Sea for global trade and India's 'Act East' policy, noting China's expansive 'Nine-Dash Line' claims.",
-        "order": 1,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Discuss the direct bilateral friction points: China's objections to ONGC Videsh's oil exploration in Vietnamese blocks and India's push for freedom of navigation conforming to UNCLOS.",
-        "order": 2,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Broaden to overall India-China bilateral issues exacerbated by this maritime posture: the ongoing border dispute (LAC), the String of Pearls strategy encircling India, and trade imbalances.",
-        "order": 3,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Conclude that India must balance diplomatic engagement with China while strengthening naval capabilities and multilateral partnerships (like the Quad) to secure its maritime interests.",
-        "order": 4,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2014_GS2_Q17",
-    "paper_title": "General Studies Paper 2",
-    "year": 2014,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12.5,
-    "importance": null,
-    "question_text": "The aim of Information Technology Agreements (ITAs) is to lower all taxes and tariffs on information technology products by signatories to zero. What impact would such agreements have on India's interests?",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPSC Mains 2014 GS Paper 2",
-    "q_number": 17,
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Define the Information Technology Agreement (ITA) under the WTO, aimed at eliminating tariffs on IT products.",
-        "order": 1,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Discuss the negative impacts on India: Signing ITA-1 historically flooded the Indian market with cheap electronic imports (primarily from China), stifling the growth of domestic electronic manufacturing and hardware industries.",
-        "order": 2,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Discuss potential positive impacts: zero tariffs provide cheaper hardware inputs for India's booming software/IT service sector and accelerate digital penetration.",
-        "order": 3,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Conclude that India's hesitation in joining further iterations (ITA-2) is justified to protect its nascent domestic manufacturing under initiatives like 'Make in India'.",
-        "order": 4,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2014_GS2_Q18",
-    "paper_title": "General Studies Paper 2",
-    "year": 2014,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12.5,
-    "importance": null,
-    "question_text": "Some of the International funding agencies have special terms for economic participation stipulating a substantial component of the aid to be used for sourcing equipment from the leading countries. Discuss on merits of such terms and if, there exists a strong case not to accept such conditions in the Indian context.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPSC Mains 2014 GS Paper 2",
-    "q_number": 18,
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Explain 'tied aid', where international funding agencies or donor countries mandate that funds be spent on procuring goods/services from the donor nation.",
-        "order": 1,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Discuss the merits for donors (boosts their exports) and recipients (access to high-quality, specialized equipment and technology transfer that might be locally unavailable).",
-        "order": 2,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Build the case against accepting such conditions for India: it undermines domestic capacity building, inflates project costs due to lack of competitive bidding, and creates long-term technological dependency.",
-        "order": 3,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Conclude that as an emerging economy with significant domestic manufacturing ambitions, India should prefer untied aid or seek funding from multilateral banks with neutral procurement policies.",
-        "order": 4,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2014_GS2_Q19",
-    "paper_title": "General Studies Paper 2",
-    "year": 2014,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12.5,
-    "importance": null,
-    "question_text": "India has recently signed to become founding member of New Development Bank (NDB) and also the Asian Infrastructure Investment Bank (AIIB). How will the role of the two Banks be different? Discuss the strategic significance of these two Banks for India.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPSC Mains 2014 GS Paper 2",
-    "q_number": 19,
-    "points": [
-      {
-        "section": "Intro",
-        "text": "Introduce the NDB (established by BRICS nations) and the AIIB (led by China) as new multilateral financial institutions challenging the Bretton Woods system.",
-        "order": 1,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Differentiate their roles: NDB operates on an equal-share basis among BRICS to fund sustainable development in emerging economies, whereas AIIB has a broader membership with voting power based on GDP, heavily focused on Asian infrastructure.",
-        "order": 2,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Discuss strategic significance for India: they provide alternative, conditionality-free funding sources for India's massive infrastructure deficit, increase multipolarity, and elevate India's role in global financial governance.",
-        "order": 3,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Conclude that active participation allows India to secure vital capital while balancing China's economic dominance within these institutions.",
-        "order": 4,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      }
-    ]
-  },
-  {
-    "uid": "UPSC_2014_GS2_Q20",
-    "paper_title": "General Studies Paper 2",
-    "year": 2014,
-    "exam": "UPSC",
-    "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12.5,
-    "importance": null,
-    "question_text": "WTO is an important international institution where decisions taken affect countries in a profound manner. What is the mandate of WTO and how binding are their decisions? Critically analyse India's stand on the latest round of talks on Food security.",
-    "is_structured": 1,
-    "last_updated": 1778947153,
-    "cite": "UPSC Mains 2014 GS Paper 2",
-    "q_number": 20,
-    "points": [
-      {
-        "section": "Intro",
-        "text": "State the mandate of the World Trade Organization (WTO): to ensure that global trade flows as smoothly, predictably, and freely as possible, backed by a binding Dispute Settlement Mechanism.",
-        "order": 1,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Explain the binding nature: Member states are legally bound by its agreements, and non-compliance can result in retaliatory trade sanctions authorized by the WTO.",
-        "order": 2,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Body",
-        "text": "Critically analyze India's stand on Food Security (Bali Package): India firmly demanded a permanent solution to public stockholding for food security purposes, refusing to compromise its Minimum Support Price (MSP) and PDS programs due to the 10% subsidy cap (de minimis limit).",
-        "order": 3,
-        "cite": "UPSC Mains 2014 GS Paper 2"
-      },
-      {
-        "section": "Conclusion",
-        "text": "Conclude that India's tough stance rightly prioritizes the survival and nutritional security of millions of poor over rigid global trade rules designed primarily by developed nations.",
-        "order": 4,
-        "cite": "UPSC Mains 2014 GS Paper 2"
       }
     ]
   }

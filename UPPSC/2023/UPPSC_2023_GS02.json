@@ -5,14 +5,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 5,
-    "question_text": "Why the Preamble is called the Philosophy of the Indian Constitution ? (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 2",
     "q_number": 1,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 2",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Why the Preamble is called the Philosophy of the Indian Constitution ? (125 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -52,14 +60,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 5,
-    "question_text": "Why the 42nd Amendment is called a revision of the Indian Constitution ? (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 2",
     "q_number": 2,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 2",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Why the 42nd Amendment is called a revision of the Indian Constitution ? (125 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -99,14 +115,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Mention three demerits of Judicial Activism. (125 words)",
-    "is_structured": 0,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 2",
     "q_number": 3,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 2",
+    "last_updated": 1779105600,
+    "is_structured": 0,
+    "question_text": "Mention three demerits of Judicial Activism. (125 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Judiciary",
+    "topics": [
+      "Judiciary"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Body",
@@ -134,14 +158,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "How the power of Governor to Pardon is different from the power of the President under Article 72 of the Indian Constitution? (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 2",
     "q_number": 4,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 2",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "How the power of Governor to Pardon is different from the power of the President under Article 72 of the Indian Constitution? (125 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -181,14 +213,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "\"Transparency and Accountability are complementary to each other.\" Comment. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 2",
     "q_number": 5,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 2",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "\"Transparency and Accountability are complementary to each other.\" Comment. (125 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -228,14 +268,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "Write a analytical note on Self Help Group's composition and their functions. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 2",
     "q_number": 6,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 2",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Write a analytical note on Self Help Group's composition and their functions. (125 words)",
+    "subjectId": "justice",
+    "subjects": [
+      "Social Justice"
+    ],
+    "topic": "Social Justice",
+    "topics": [
+      "Social Justice"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -275,14 +323,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "\"The application of Information and Communication Technology (I.C.T.) is for delivering government service.\" Discuss. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 2",
     "q_number": 7,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 2",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "\"The application of Information and Communication Technology (I.C.T.) is for delivering government service.\" Discuss. (125 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -322,14 +378,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 4,
-    "question_text": "The failure of 'SAARC' forced India to strengthen 'BIMSTEC'. Explain. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 2",
     "q_number": 8,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 2",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "The failure of 'SAARC' forced India to strengthen 'BIMSTEC'. Explain. (125 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -369,14 +433,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 5,
-    "question_text": "Explain the rationale behind India's involvement in QUAD. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 2",
     "q_number": 9,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 2",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Explain the rationale behind India's involvement in QUAD. (125 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -416,14 +488,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 8,
-    "importance": 5,
-    "question_text": "What is the significance of India's Presidency in G-20? Discuss. (125 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 2",
     "q_number": 10,
+    "marks": 8,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 2",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "What is the significance of India's Presidency in G-20? Discuss. (125 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -463,14 +543,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 5,
-    "question_text": "Critically examine the increasing powers and role of Prime Minister. How does it impact other institutions ? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 2",
     "q_number": 11,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 2",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Critically examine the increasing powers and role of Prime Minister. How does it impact other institutions ? (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Polity",
+    "topics": [
+      "Polity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -516,14 +604,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 5,
-    "question_text": "How does the federal structure in India accommodates the diverse needs and aspiration of different states ? Are there any challenges, if yes, then how are they addressed? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 2",
     "q_number": 12,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 2",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "How does the federal structure in India accommodates the diverse needs and aspiration of different states ? Are there any challenges, if yes, then how are they addressed? (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Federalism",
+    "topics": [
+      "Federalism"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -569,14 +665,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "What alternative mechanism of dispute resolution have emerged in recent years? How far have they been effective ? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 2",
     "q_number": 13,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 2",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "What alternative mechanism of dispute resolution have emerged in recent years? How far have they been effective ? (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Judiciary",
+    "topics": [
+      "Judiciary"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -592,20 +696,32 @@
       },
       {
         "section": "Body",
-        "text": "Effectiveness and Success: ADR has been highly effective in specific domains. Lok Adalats regularly dispose of millions of compoundable criminal offenses, traffic challans, and public utility disputes in single-day sessions. The Arbitration and Conciliation Act has significantly streamlined corporate and commercial dispute resolution, improving the 'Ease of Doing Business'.",
-        "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 2"
+        "text": "Effectiveness and Success: ADR has been highly effective in specific domains.",
+        "cite": "UPPSC Mains 2023 GS Paper 2",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Lok Adalats regularly dispose of millions of compoundable criminal offenses, traffic challans, and public utility disputes in single-day sessions.",
+        "cite": "UPPSC Mains 2023 GS Paper 2",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "The Arbitration and Conciliation Act has significantly streamlined corporate and commercial dispute resolution, improving the 'Ease of Doing Business'.",
+        "cite": "UPPSC Mains 2023 GS Paper 2",
+        "order": 5
       },
       {
         "section": "Body",
         "text": "Limitations and Hurdles: However, their overall impact is constrained. Arbitration is increasingly becoming as expensive and formal as traditional litigation. Moreover, a lack of binding enforceability in mediation and frequent appeals against arbitral awards in regular courts often defeat the purpose of speed.",
-        "order": 4,
+        "order": 6,
         "cite": "UPPSC Mains 2023 GS Paper 2"
       },
       {
         "section": "Conclusion",
         "text": "While ADR has successfully reduced the burden of civil and commercial litigation, maximizing its potential requires standardizing ODR frameworks and minimizing judicial interference in arbitral awards.",
-        "order": 5,
+        "order": 7,
         "cite": "UPPSC Mains 2023 GS Paper 2"
       }
     ]
@@ -616,14 +732,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "Describe the law-making process in the Legislative Assembly of Uttar Pradesh. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 2",
     "q_number": 14,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 2",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Describe the law-making process in the Legislative Assembly of Uttar Pradesh. (200 words)",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Polity",
+    "topics": [
+      "UP Polity"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -639,26 +763,50 @@
       },
       {
         "section": "Body",
-        "text": "Second Reading (The Core Stage): This is the most crucial phase. The bill undergoes general discussion on its principles. It may then be referred to a Select Committee for detailed technical scrutiny. Following the committee report, the Assembly debates the bill clause-by-clause, and amendments are proposed and voted upon.",
-        "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 2"
+        "text": "Second Reading (The Core Stage): This is the most crucial phase.",
+        "cite": "UPPSC Mains 2023 GS Paper 2",
+        "order": 3
       },
       {
         "section": "Body",
-        "text": "Third Reading and Second Chamber: The debate is restricted to the acceptance or rejection of the finalized bill. Once passed by a simple majority, it is transmitted to the Legislative Council (Vidhan Parishad), which can only delay ordinary bills for a maximum of 4 months (3 months initially, plus 1 month) but cannot veto them.",
-        "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 2"
+        "text": "The bill undergoes general discussion on its principles.",
+        "cite": "UPPSC Mains 2023 GS Paper 2",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "It may then be referred to a Select Committee for detailed technical scrutiny.",
+        "cite": "UPPSC Mains 2023 GS Paper 2",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Following the committee report, the Assembly debates the bill clause-by-clause, and amendments are proposed and voted upon.",
+        "cite": "UPPSC Mains 2023 GS Paper 2",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Third Reading and Second Chamber: The debate is restricted to the acceptance or rejection of the finalized bill.",
+        "cite": "UPPSC Mains 2023 GS Paper 2",
+        "order": 7
+      },
+      {
+        "section": "Body",
+        "text": "Once passed by a simple majority, it is transmitted to the Legislative Council (Vidhan Parishad), which can only delay ordinary bills for a maximum of 4 months (3 months initially, plus 1 month) but cannot veto them.",
+        "cite": "UPPSC Mains 2023 GS Paper 2",
+        "order": 8
       },
       {
         "section": "Body",
         "text": "Governor's Assent: Finally, the bill is presented to the Governor, who may give assent, withhold it, return it for reconsideration, or reserve it for the President's consideration. Upon assent, it becomes state law.",
-        "order": 5,
+        "order": 9,
         "cite": "UPPSC Mains 2023 GS Paper 2"
       },
       {
         "section": "Conclusion",
         "text": "This multi-tiered procedural framework prevents hasty legislation, ensuring that state laws represent considered public welfare.",
-        "order": 6,
+        "order": 10,
         "cite": "UPPSC Mains 2023 GS Paper 2"
       }
     ]
@@ -669,14 +817,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "Clarify the role of Civil Servants in strengthening the democratic process in India. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 2",
     "q_number": 15,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 2",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Clarify the role of Civil Servants in strengthening the democratic process in India. (200 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -722,14 +878,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "Discuss the various aspects relating to the management of Health Services in the State of Uttar Pradesh. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 2",
     "q_number": 16,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 2",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "Discuss the various aspects relating to the management of Health Services in the State of Uttar Pradesh. (200 words)",
+    "subjectId": "up-polity",
+    "subjects": [
+      "UP Polity & Welfare"
+    ],
+    "topic": "UP Health",
+    "topics": [
+      "UP Health"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -775,14 +939,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "What is Citizen's Charter? What is its role in Welfare of Citizens ? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 2",
     "q_number": 17,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 2",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "What is Citizen's Charter? What is its role in Welfare of Citizens ? (200 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -828,14 +1000,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 5,
-    "question_text": "'India is ready for the World leadership'. Analyse this Comment. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 2",
     "q_number": 18,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 2",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "'India is ready for the World leadership'. Analyse this Comment. (200 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -881,14 +1061,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 4,
-    "question_text": "How the Indian diaspora has emerged as an asset in the protection of national interest in America ? Analyse it. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 2",
     "q_number": 19,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 2",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "How the Indian diaspora has emerged as an asset in the protection of national interest in America ? Analyse it. (200 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -934,14 +1122,22 @@
     "year": 2023,
     "exam": "UPPSC",
     "origin": "PYQ",
-    "vault_path": null,
-    "marks": 12,
-    "importance": 5,
-    "question_text": "'Indo-Pak relations are illusion at present'. Discuss the inherent problems that bitters India-Pak relations repeatedly. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1779105600,
-    "cite": "UPPSC Mains 2023 GS Paper 2",
     "q_number": 20,
+    "marks": 12,
+    "importance": 2,
+    "cite": "UPPSC Mains 2023 GS Paper 2",
+    "last_updated": 1779105600,
+    "is_structured": 1,
+    "question_text": "'Indo-Pak relations are illusion at present'. Discuss the inherent problems that bitters India-Pak relations repeatedly. (200 words)",
+    "subjectId": "justice",
+    "subjects": [
+      "Social Justice"
+    ],
+    "topic": "Social Justice",
+    "topics": [
+      "Social Justice"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
