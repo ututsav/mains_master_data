@@ -5,14 +5,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QA.1",
     "marks": 125,
     "importance": 3,
-    "question_text": "Lending hands to someone is better than giving a dole.",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "QA.1",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Lending hands to someone is better than giving a dole.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -52,14 +60,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QA.2",
     "marks": 125,
     "importance": 3,
-    "question_text": "Quick but steady wins the race.",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "QA.2",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Quick but steady wins the race.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -99,14 +115,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QA.3",
     "marks": 125,
     "importance": 3,
-    "question_text": "Character of an institution is reflected in its leader.",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "QA.3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Character of an institution is reflected in its leader.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -146,14 +170,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QA.4",
     "marks": 125,
     "importance": 3,
-    "question_text": "Education without values, as useful as it is, seems rather to make a man more clever devil.",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "QA.4",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Education without values, as useful as it is, seems rather to make a man more clever devil.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "Essay — Society",
+    "topics": [
+      "Essay — Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -193,14 +225,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QB.1",
     "marks": 125,
     "importance": 3,
-    "question_text": "Technology cannot replace manpower.",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "QB.1",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Technology cannot replace manpower.",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -240,14 +280,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QB.2",
     "marks": 125,
     "importance": 3,
-    "question_text": "Crisis faced in India - moral or economic.",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "QB.2",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Crisis faced in India - moral or economic.",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -287,14 +335,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QB.3",
     "marks": 125,
     "importance": 3,
-    "question_text": "Dreams which should not let India sleep.",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "QB.3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Dreams which should not let India sleep.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -340,14 +396,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QB.4",
     "marks": 125,
     "importance": 3,
-    "question_text": "Can capitalism bring inclusive growth?",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "QB.4",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Can capitalism bring inclusive growth?",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

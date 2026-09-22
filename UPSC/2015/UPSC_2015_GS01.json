@@ -5,14 +5,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q1",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "The ancient civilization in Indian sub-continent differed from those of Egypt, Mesopotamia and Greece in that its culture and traditions have been preserved without a breakdown to the present day. Comment. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q1",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The ancient civilization in Indian sub-continent differed from those of Egypt, Mesopotamia and Greece in that its culture and traditions have been preserved without a breakdown to the present day. Comment. (200 words)",
+    "subjectId": "culture",
+    "subjects": [
+      "Art & Culture"
+    ],
+    "topic": "Indian Culture",
+    "topics": [
+      "Indian Culture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q2",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Mesolithic rock cut architecture of India not only reflects the cultural life of the times but also a fine aesthetic sense comparable to modern painting. Critically evaluate this comment. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q2",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Mesolithic rock cut architecture of India not only reflects the cultural life of the times but also a fine aesthetic sense comparable to modern painting. Critically evaluate this comment. (200 words)",
+    "subjectId": "culture",
+    "subjects": [
+      "Art & Culture"
+    ],
+    "topic": "Indian Culture",
+    "topics": [
+      "Indian Culture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q3",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "How different would have been the achievement of Indian independence without Mahatma Gandhi? Discuss. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "How different would have been the achievement of Indian independence without Mahatma Gandhi? Discuss. (200 words)",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q4",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Mahatma Gandhi and Dr. B.R. Ambedkar, despite having divergent approaches and strategies, had a common goal of amelioration of the downtrodden. Elucidate. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q4",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Mahatma Gandhi and Dr. B.R. Ambedkar, despite having divergent approaches and strategies, had a common goal of amelioration of the downtrodden. Elucidate. (200 words)",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q5",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "It would have been difficult for the Constituent Assembly to complete its historic task of drafting the Constitution for Independent India in just three years but for the experience gained with the Government of India Act, 1935. Discuss. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q5",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "It would have been difficult for the Constituent Assembly to complete its historic task of drafting the Constitution for Independent India in just three years but for the experience gained with the Government of India Act, 1935. Discuss. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q6",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Why did the industrial revolution first occur in England? Discuss the quality of life of the people there during the industrialization. How does it compare with that in India at present? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q6",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Why did the industrial revolution first occur in England? Discuss the quality of life of the people there during the industrialization. How does it compare with that in India at present? (200 words)",
+    "subjectId": "ancient",
+    "subjects": [
+      "Ancient & Medieval"
+    ],
+    "topic": "Ancient History",
+    "topics": [
+      "Ancient History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -257,14 +305,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q7",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "To what extent can Germany be held responsible for causing the two World Wars? Discuss critically. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q7",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "To what extent can Germany be held responsible for causing the two World Wars? Discuss critically. (200 words)",
+    "subjectId": "world",
+    "subjects": [
+      "World History"
+    ],
+    "topic": "World History",
+    "topics": [
+      "World History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -298,14 +354,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q8",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Describe any four cultural elements of diversity in India and rate their relative significance in building a national identity. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q8",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Describe any four cultural elements of diversity in India and rate their relative significance in building a national identity. (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -351,14 +415,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q9",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Critically examine whether growing population is the cause of poverty OR poverty is the main cause of population increase in India. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q9",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Critically examine whether growing population is the cause of poverty OR poverty is the main cause of population increase in India. (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -392,14 +464,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q10",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "How do you explain the statistics that show that the sex ratio in Tribes in India is more favourable to women than the sex ratio among Scheduled Castes? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q10",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "How do you explain the statistics that show that the sex ratio in Tribes in India is more favourable to women than the sex ratio among Scheduled Castes? (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -433,14 +513,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q11",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Discuss the changes in the trends of labour migration within and outside India in the last four decades. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q11",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Discuss the changes in the trends of labour migration within and outside India in the last four decades. (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -474,14 +562,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q12",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Discuss the positive and negative effects of globalization on women in India. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q12",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Discuss the positive and negative effects of globalization on women in India. (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -515,14 +611,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q13",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Debate the issue of whether and how contemporary movements for assertion of Dalit identity work towards annihilation of caste. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q13",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Debate the issue of whether and how contemporary movements for assertion of Dalit identity work towards annihilation of caste. (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -556,14 +660,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q14",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Explain the factors responsible for the origin of ocean currents. How do they influence regional climates, fishing and navigation? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q14",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Explain the factors responsible for the origin of ocean currents. How do they influence regional climates, fishing and navigation? (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -609,14 +721,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q15",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Mumbai, Delhi and Kolkata are the three mega cities of the country but the air pollution is much more serious problem in Delhi as compared to the other two. Why is this so? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q15",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Mumbai, Delhi and Kolkata are the three mega cities of the country but the air pollution is much more serious problem in Delhi as compared to the other two. Why is this so? (200 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -650,14 +770,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q16",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "India is well endowed with fresh water resources. Critically examine why it still suffers from water scarcity. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "India is well endowed with fresh water resources. Critically examine why it still suffers from water scarcity. (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -667,14 +795,50 @@
       },
       {
         "section": "Body",
-        "text": "Reasons for scarcity:\n- Spatial and temporal unevenness – 80% rainfall in 3-4 months (monsoon), leading to floods and droughts; arid west, flood-prone east\n- Groundwater overexploitation (Punjab, Haryana, Rajasthan, Tamil Nadu) – water table falling 1-2 m/year\n- Inefficient irrigation – flood irrigation uses 3-4 times more water than micro-irrigation; low water use efficiency (35-40% vs 60% in developed countries)\n- Pollution – industrial effluents, agricultural runoff (fertilizers, pesticides), untreated sewage contaminate rivers (Ganga, Yamuna)\n- Lack of storage – per capita reservoir storage (200 m³) far below China (1,500 m³) or USA (2,200 m³)\n- Free power for agriculture – over-pumping groundwater, wastage\n- Climate change – erratic monsoons, glacial melt affecting river flows",
-        "order": 2,
-        "cite": "U15"
+        "text": "Spatial and temporal unevenness – 80% rainfall in 3-4 months (monsoon), leading to floods and droughts; arid west, flood-prone east.",
+        "cite": "U15",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Groundwater overexploitation (Punjab, Haryana, Rajasthan, Tamil Nadu) – water table falling 1-2 m/year.",
+        "cite": "U15",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Inefficient irrigation – flood irrigation uses 3-4 times more water than micro-irrigation; low water use efficiency (35-40% vs 60% in developed countries).",
+        "cite": "U15",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Pollution – industrial effluents, agricultural runoff (fertilizers, pesticides), untreated sewage contaminate rivers (Ganga, Yamuna).",
+        "cite": "U15",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Lack of storage – per capita reservoir storage (200 m³) far below China (1,500 m³) or USA (2,200 m³).",
+        "cite": "U15",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Free power for agriculture – over-pumping groundwater, wastage.",
+        "cite": "U15",
+        "order": 7
+      },
+      {
+        "section": "Body",
+        "text": "Climate change – erratic monsoons, glacial melt affecting river flows.",
+        "cite": "U15",
+        "order": 8
       },
       {
         "section": "Conclusion",
         "text": "Water scarcity is not about absolute availability but mismanagement. Need integrated water resources management (IWRM), micro-irrigation, rainwater harvesting (Jal Shakti Abhiyan), wastewater treatment, and pricing reforms. 'Per drop more crop' critical.",
-        "order": 3,
+        "order": 9,
         "cite": "U15"
       }
     ]
@@ -685,14 +849,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q17",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "The states of Jammu and Kashmir, Himachal Pradesh and Uttarakhand are reaching the limits of their ecological carrying capacity due to tourism. Critically evaluate. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q17",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The states of Jammu and Kashmir, Himachal Pradesh and Uttarakhand are reaching the limits of their ecological carrying capacity due to tourism. Critically evaluate. (200 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -707,7 +879,7 @@
         "cite": "U15"
       },
       {
-        "section": "Body", 
+        "section": "Body",
         "text": "Counter-argument: Not all areas saturated; proper planning can increase capacity. Eco-tourism, regulated entry (e.g., Rohtang Pass permit system), waste management (Swachh Bharat), and carrying capacity studies (like NGT orders) can mitigate. Many villages benefit economically without ecological collapse.",
         "order": 3,
         "cite": "U15"
@@ -726,14 +898,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q18",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "How far do you agree that the behaviour of the Indian monsoon has been changing due to humanizing landscapes? Discuss. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q18",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "How far do you agree that the behaviour of the Indian monsoon has been changing due to humanizing landscapes? Discuss. (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -773,14 +953,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q19",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Smart cities in India cannot sustain without smart villages. Discuss this statement in the backdrop of rural urban integration. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q19",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Smart cities in India cannot sustain without smart villages. Discuss this statement in the backdrop of rural urban integration. (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -814,14 +1002,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q20",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "What are the economic significances of discovery of oil in Arctic Sea and its possible environmental consequences? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q20",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What are the economic significances of discovery of oil in Arctic Sea and its possible environmental consequences? (200 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

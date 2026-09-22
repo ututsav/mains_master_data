@@ -5,14 +5,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QA.1",
     "marks": 125,
     "importance": 3,
-    "question_text": "Truth knows no color. (1000-1200 words)",
-    "is_structured": 1,
-    "last_updated": 1747480800,
     "cite": "UE",
-    "q_number": "QA.1",
+    "last_updated": 1747480800,
+    "is_structured": 1,
+    "question_text": "Truth knows no color. (1000-1200 words)",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QA.2",
     "marks": 125,
     "importance": 3,
-    "question_text": "The supreme art of war is to subdue the enemy without fighting. (1000-1200 words)",
-    "is_structured": 1,
-    "last_updated": 1747480800,
     "cite": "UE",
-    "q_number": "QA.2",
+    "last_updated": 1747480800,
+    "is_structured": 1,
+    "question_text": "The supreme art of war is to subdue the enemy without fighting. (1000-1200 words)",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QA.3",
     "marks": 125,
     "importance": 3,
-    "question_text": "Thought finds a world and creates one also. (1000-1200 words)",
-    "is_structured": 1,
-    "last_updated": 1747480800,
     "cite": "UE",
-    "q_number": "QA.3",
+    "last_updated": 1747480800,
+    "is_structured": 1,
+    "question_text": "Thought finds a world and creates one also. (1000-1200 words)",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QA.4",
     "marks": 125,
     "importance": 3,
-    "question_text": "Best lessons are learnt through bitter experiences. (1000-1200 words)",
-    "is_structured": 1,
-    "last_updated": 1747480800,
     "cite": "UE",
-    "q_number": "QA.4",
+    "last_updated": 1747480800,
+    "is_structured": 1,
+    "question_text": "Best lessons are learnt through bitter experiences. (1000-1200 words)",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QB.5",
     "marks": 125,
     "importance": 2,
-    "question_text": "Muddy water is best cleared by leaving it alone. (1000-1200 words)",
-    "is_structured": 1,
-    "last_updated": 1747484400,
     "cite": "UE",
-    "q_number": "QB.5",
+    "last_updated": 1747484400,
+    "is_structured": 1,
+    "question_text": "Muddy water is best cleared by leaving it alone. (1000-1200 words)",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QB.6",
     "marks": 125,
     "importance": 2,
-    "question_text": "The years teach much which the days never know. (1000-1200 words)",
-    "is_structured": 1,
-    "last_updated": 1747484400,
     "cite": "UE",
-    "q_number": "QB.6",
+    "last_updated": 1747484400,
+    "is_structured": 1,
+    "question_text": "The years teach much which the days never know. (1000-1200 words)",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QB.7",
     "marks": 125,
     "importance": 2,
-    "question_text": "It is best to see life as a journey, not as a destination. (1000-1200 words)",
-    "is_structured": 1,
-    "last_updated": 1747484400,
     "cite": "UE",
-    "q_number": "QB.7",
+    "last_updated": 1747484400,
+    "is_structured": 1,
+    "question_text": "It is best to see life as a journey, not as a destination. (1000-1200 words)",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QB.8",
     "marks": 125,
     "importance": 2,
-    "question_text": "Contentment is natural wealth; luxury is artificial poverty. (1000-1200 words)",
-    "is_structured": 1,
-    "last_updated": 1747484400,
     "cite": "UE",
-    "q_number": "QB.8",
+    "last_updated": 1747484400,
+    "is_structured": 1,
+    "question_text": "Contentment is natural wealth; luxury is artificial poverty. (1000-1200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

@@ -5,14 +5,22 @@
     "year": 2016,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "A1",
     "marks": 125,
     "importance": 3,
-    "question_text": "If development is not engendered, it is endangered",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U16",
-    "q_number": "A1",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "If development is not engendered, it is endangered",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -22,14 +30,20 @@
       },
       {
         "section": "Body",
-        "text": "Historical exclusion of women from development benefits (e.g., land rights, education, employment). Evidence: Gender Development Index, Gender Inequality Index. Examples where gender-blind policies failed (e.g., agricultural extension reaching only men). Conversely, success stories: microfinance (Grameen Bank), self-help groups, girls' education (Beti Bachao Beti Padhao). Link to SDG 5. Discuss unpaid care work, wage gaps, and political underrepresentation. When women are empowered, outcomes improve for entire families and communities.",
-        "order": 2,
-        "cite": "U16"
+        "text": "Historical exclusion of women from development benefits (e.g., land rights, education, employment). Evidence: Gender Development Index, Gender Inequality Index.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Examples where gender-blind policies failed (e.g., agricultural extension reaching only men). Conversely, success stories: microfinance (Grameen Bank), self-help groups, girls' education (Beti Bachao Beti Padhao). Link to SDG 5. Discuss unpaid care work, wage gaps, and political underrepresentation. When women are empowered, outcomes improve for entire families and communities.",
+        "cite": "U16",
+        "order": 3
       },
       {
         "section": "Conclusion",
         "text": "Conclude that development without gender equality is not only unjust but also inefficient and reversible. Therefore, engendering is essential for sustainable, resilient development.",
-        "order": 3,
+        "order": 4,
         "cite": "U16"
       }
     ]
@@ -40,14 +54,22 @@
     "year": 2016,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "A2",
     "marks": 125,
     "importance": 3,
-    "question_text": "Need brings greed, if greed increases it spoils breed",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U16",
-    "q_number": "A2",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Need brings greed, if greed increases it spoils breed",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -57,14 +79,32 @@
       },
       {
         "section": "Body",
-        "text": "Needs: Maslow's hierarchy – food, shelter, security. Greed: accumulation beyond necessity, exemplified by consumerism, corporate avarice (2008 financial crisis), corruption. Historical examples: colonization driven by greed for resources spoiling native populations and ecology. Contemporary: climate change due to fossil fuel greed; wealth concentration (Oxfam report); crony capitalism. 'Spoils breed' – affects intergenerational equity, loss of moral values, degradation of family and community bonds. Counterpoints: moderate greed can drive innovation (Schumpeter's creative destruction), but unchecked greed is self-destructive.",
-        "order": 2,
-        "cite": "U16"
+        "text": "Needs: Maslow's hierarchy – food, shelter, security. Greed: accumulation beyond necessity, exemplified by consumerism, corporate avarice (2008 financial crisis), corruption. Historical.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "examples: colonization driven by greed for resources spoiling native populations and ecology. Contemporary: climate change due to fossil fuel greed.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "wealth concentration (Oxfam report).",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "crony capitalism. 'Spoils breed' – affects intergenerational equity, loss of moral values, degradation of family and community bonds. Counterpoints: moderate greed can drive innovation (Schumpeter's creative destruction), but unchecked greed is self-destructive.",
+        "cite": "U16",
+        "order": 5
       },
       {
         "section": "Conclusion",
         "text": "Conclude that while need is natural, societies must regulate greed through ethical frameworks, progressive taxation, and sustainable lifestyles (Gandhi's 'enough for everyone's need, not for greed').",
-        "order": 3,
+        "order": 6,
         "cite": "U16"
       }
     ]
@@ -75,14 +115,22 @@
     "year": 2016,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "A3",
     "marks": 125,
     "importance": 3,
-    "question_text": "Water disputes between States in federal India",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U16",
-    "q_number": "A3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Water disputes between States in federal India",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -92,14 +140,26 @@
       },
       {
         "section": "Body",
-        "text": "Major disputes: Cauvery (Karnataka-TN), Krishna (Maharashtra-Karnataka-Telangana-AP), Ravi-Beas (Punjab-Haryana-Rajasthan), Mahanadi (Odisha-Chhattisgarh). Causes: uneven rainfall, historical agreements, agricultural demands, political mobilization. Resolution mechanisms: Tribunals under Interstate River Water Disputes Act (1956) – slow (e.g., Cauvery tribunal took decades); Supreme Court interventions; mediation by Union. Challenges: lack of comprehensive river basin management, data asymmetry, populist politics. Need for National Water Framework Law, basin-level authorities, and adjudication reforms.",
-        "order": 2,
-        "cite": "U16"
+        "text": "Major disputes: Cauvery (Karnataka-TN), Krishna (Maharashtra-Karnataka-Telangana-AP), Ravi-Beas (Punjab-Haryana-Rajasthan), Mahanadi (Odisha-Chhattisgarh). Causes: uneven rainfall, historical agreements, agricultural demands, political mobilization. Resolution mechanisms: Tribunals under Interstate River Water Disputes Act (1956) – slow (e.g., Cauvery tribunal took decades).",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Challenges: lack of comprehensive river basin management, data asymmetry, populist politics.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Need for National Water Framework Law, basin-level authorities, and adjudication reforms.",
+        "cite": "U16",
+        "order": 4
       },
       {
         "section": "Conclusion",
         "text": "Conclude that water disputes test Indian federalism. Cooperative federalism with transparent data, integrated planning, and climate resilience is the only sustainable path forward.",
-        "order": 3,
+        "order": 5,
         "cite": "U16"
       }
     ]
@@ -110,14 +170,22 @@
     "year": 2016,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "A4",
     "marks": 125,
     "importance": 3,
-    "question_text": "Innovation is the key determinant of economic growth and social welfare",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U16",
-    "q_number": "A4",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Innovation is the key determinant of economic growth and social welfare",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -127,14 +195,44 @@
       },
       {
         "section": "Body",
-        "text": "Evidence: Industrial Revolution, IT revolution (India's growth post-1991). Innovation increases productivity, creates new industries, improves health (vaccines, diagnostics), and lowers costs (renewable energy). Social welfare examples: mobile banking (M-Pesa, UPI) improving financial inclusion; affordable medical devices (Jaipur foot). India's National Innovation System (NITI Aayog, Atal Innovation Mission) promotes R&D. Challenges: intellectual property rights, affordability gap, digital divide. Innovation can also worsen inequality if benefits concentrate. Thus, inclusive innovation (frugal, grassroots, social) is needed.",
-        "order": 2,
-        "cite": "U16"
+        "text": "Evidence: Industrial Revolution, IT revolution (India's growth post-1991). Innovation increases productivity, creates new industries, improves health (vaccines, diagnostics), and lowers costs (renewable energy). Social welfare.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "examples: mobile banking (M-Pesa, UPI) improving financial inclusion.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "affordable medical devices (Jaipur foot). India's National Innovation System (NITI Aayog, Atal Innovation Mission) promotes R&D.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Challenges: intellectual property rights, affordability gap, digital divide. Innovation can.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "also worsen inequality if benefits concentrate.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Thus, inclusive innovation (frugal, grassroots, social) is needed.",
+        "cite": "U16",
+        "order": 7
       },
       {
         "section": "Conclusion",
         "text": "Conclude that innovation is indeed a key determinant, but must be harnessed through education, infrastructure, and policies that ensure widespread diffusion for both growth and welfare.",
-        "order": 3,
+        "order": 8,
         "cite": "U16"
       }
     ]
@@ -145,14 +243,22 @@
     "year": 2016,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "B1",
     "marks": 125,
     "importance": 3,
-    "question_text": "Cooperative federalism: Myth or reality",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U16",
-    "q_number": "B1",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Cooperative federalism: Myth or reality",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -162,14 +268,32 @@
       },
       {
         "section": "Body",
-        "text": "Arguments for reality: Inter-State Council (Article 263), GST Council (consensus-based decisions), NITI Aayog replacing Planning Commission (bottom-up approach), river water and police cooperation (CBI with state consent). Examples: successful implementation of Swachh Bharat, PMJDY through state machinery. Arguments for myth: dominance of Centre via Article 356, centrally-sponsored schemes with rigid conditionalities, tax devolution disputes, unilateral decisions on subjects like education, police, and land (concurrent list). Political parties in opposition at Centre often accuse Centre of 'sabotaging federalism' (e.g., farm laws 2020). The reality is a mix – cooperation exists but often asymmetrical; competitive federalism is more visible.",
-        "order": 2,
-        "cite": "U16"
+        "text": "Arguments for reality: Inter-State Council (Article 263), GST Council (consensus-based decisions), NITI Aayog replacing Planning Commission (bottom-up approach), river water and police cooperation (CBI with state consent).",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Examples: successful implementation of Swachh Bharat, PMJDY through state machinery.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Arguments for myth: dominance of Centre via Article 356, centrally-sponsored schemes with rigid conditionalities, tax devolution disputes, unilateral decisions on subjects like education, police, and land (concurrent list). Political parties in opposition at Centre often accuse Centre of 'sabotaging federalism' (e.g., farm laws 2020). The reality is a mix – cooperation exists but often asymmetrical.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "competitive federalism is more visible.",
+        "cite": "U16",
+        "order": 5
       },
       {
         "section": "Conclusion",
         "text": "Conclude that cooperative federalism is neither pure myth nor full reality; it is an aspiration with intermittent practice. Strengthening institutional mechanisms (reviving Inter-State Council, empowering Finance Commission) can make it more real.",
-        "order": 3,
+        "order": 6,
         "cite": "U16"
       }
     ]
@@ -180,14 +304,22 @@
     "year": 2016,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "B2",
     "marks": 125,
     "importance": 3,
-    "question_text": "Cyberspace and Internet: Blessing or curse to the human civilization in the long run",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U16",
-    "q_number": "B2",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Cyberspace and Internet: Blessing or curse to the human civilization in the long run",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -197,14 +329,26 @@
       },
       {
         "section": "Body",
-        "text": "Blessings: Instant communication, access to knowledge (Wikipedia, MOOCs), e-commerce, telemedicine, remote work, social mobilization (Arab Spring, #MeToo), democratic expression, and economic growth (digital economy). Curses: Cybercrime (identity theft, ransomware), surveillance state (privacy erosion), misinformation and echo chambers, radicalization, cyberbullying, addiction, mental health crisis (social media depression), digital divide exacerbating inequality, job displacement through automation, and weaponization (cyber warfare, election interference). Long-run scenario – optimistic (managed internet with ethical AI, digital inclusion) vs dystopian (surveillance capitalism, deep fakes, loss of social fabric).",
-        "order": 2,
-        "cite": "U16"
+        "text": "Blessings: Instant communication, access to knowledge (Wikipedia, MOOCs), e-commerce, telemedicine, remote work, social mobilization (Arab Spring, #MeToo), democratic expression, and economic growth (digital economy).",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Curses: Cybercrime (identity theft, ransomware), surveillance state (privacy erosion), misinformation and echo chambers, radicalization, cyberbullying, addiction, mental health crisis (social media depression), digital divide exacerbating inequality, job displacement through automation, and weaponization (cyber warfare, election interference).",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Long-run scenario – optimistic (managed internet with ethical AI, digital inclusion) vs dystopian (surveillance capitalism, deep fakes, loss of social fabric).",
+        "cite": "U16",
+        "order": 4
       },
       {
         "section": "Conclusion",
         "text": "Conclude that the Internet is neither pure blessing nor curse – it is a tool. Human choices (regulation, education, design ethics) will determine whether it empowers or enslaves civilization.",
-        "order": 3,
+        "order": 5,
         "cite": "U16"
       }
     ]
@@ -215,14 +359,22 @@
     "year": 2016,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "B3",
     "marks": 125,
     "importance": 3,
-    "question_text": "Near jobless growth in India: An anomaly or an outcome of economic reforms",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U16",
-    "q_number": "B3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Near jobless growth in India: An anomaly or an outcome of economic reforms",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -232,14 +384,26 @@
       },
       {
         "section": "Body",
-        "text": "Evidence: Employment elasticity of output declined from 0.4 in 1980s to below 0.1 in 2000s. Agriculture shed labour but manufacturing and formal services did not absorb enough. Is it an anomaly? Compared to East Asian miracle (Korea, China) which used labour-intensive manufacturing, India's path is unusual. Outcome of reforms: Liberalization led to capital-intensive technology, import of machinery, focus on IT and services (low employment generation), labour law rigidities encouraging informalization, and neglect of MSMEs. Also, demographic dividend failed to translate due to skill mismatch. However, reforms also brought foreign investment and entrepreneurship, but not enough jobs. Anomaly or outcome? It is a structural outcome of the specific Indian reform path – premature deindustrialization, growth led by high-skill sectors.",
-        "order": 2,
-        "cite": "U16"
+        "text": "Evidence: Employment elasticity of output declined from 0.4 in 1980s to below 0.1 in 2000s. Agriculture shed labour but manufacturing and formal services did not absorb enough. Is it an anomaly? Compared to East Asian miracle (Korea, China) which used labour-intensive manufacturing, India's path is unusual. Outcome of reforms: Liberalization led to capital-intensive technology, import of machinery, focus on IT and services (low employment generation), labour law rigidities encouraging informalization, and neglect of MSMEs.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Also, demographic dividend failed to translate due to skill mismatch.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "also brought foreign investment and entrepreneurship, but not enough jobs. Anomaly or outcome? It is a structural outcome of the specific Indian reform path – premature deindustrialization, growth led by high-skill sectors.",
+        "cite": "U16",
+        "order": 4
       },
       {
         "section": "Conclusion",
         "text": "Conclude that near jobless growth is not an anomaly but a predictable consequence of policy choices. Addressing it requires labour-intensive manufacturing revival, skill development, and easing of doing business.",
-        "order": 3,
+        "order": 5,
         "cite": "U16"
       }
     ]
@@ -250,14 +414,22 @@
     "year": 2016,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "B4",
     "marks": 125,
     "importance": 3,
-    "question_text": "Digital economy: A leveller or a source of economic inequality",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U16",
-    "q_number": "B4",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Digital economy: A leveller or a source of economic inequality",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -267,14 +439,44 @@
       },
       {
         "section": "Body",
-        "text": "Leveller arguments: Access to markets for small producers (Etsy, Amazon), financial inclusion (UPI, mobile wallets), remote work opportunities for rural areas, education and skilling online (Coursera, YouTube). Evidence: Digital India program, Jan Dhan-Aadhaar-Mobile trinity reduced subsidy leakage. Inequality arguments: Digital divide – only 50% Indians have internet access; rural-urban, gender, and caste gaps; platform capitalism concentrating wealth (Amazon, Google, Flipkart); data ownership asymmetry; automation replacing low-skill jobs; gig workers lacking social security. Winner-takes-all dynamics (network effects) favour incumbents. Empirical studies show digitalization initially increases inequality unless complemented by redistribution and digital literacy.",
-        "order": 2,
-        "cite": "U16"
+        "text": "arguments: Access to markets for small producers (Etsy, Amazon), financial inclusion (UPI, mobile wallets), remote work opportunities for rural areas, education and skilling online (Coursera, YouTube). Evidence: Digital India program, Jan Dhan-Aadhaar-Mobile trinity reduced subsidy leakage. Inequality.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "arguments: Digital divide – only 50% Indians have internet access.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "rural-urban, gender, and caste gaps.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "platform capitalism concentrating wealth (Amazon, Google, Flipkart).",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "automation replacing low-skill jobs.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "gig workers lacking social security. Winner-takes-all dynamics (network effects) favour incumbents. Empirical studies show digitalization initially increases inequality unless complemented by redistribution and digital literacy.",
+        "cite": "U16",
+        "order": 7
       },
       {
         "section": "Conclusion",
         "text": "Conclude that digital economy is not inherently a leveller; its effect depends on policy – universal access, data protection, progressive taxation of digital giants, and reskilling. Without intervention, it tends to amplify existing inequalities.",
-        "order": 3,
+        "order": 8,
         "cite": "U16"
       }
     ]

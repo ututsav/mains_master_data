@@ -5,14 +5,22 @@
     "year": 2016,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q1a",
     "marks": 100,
     "importance": 3,
-    "question_text": "Write an essay on: The Indian girl child still a victim of exploitation.",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U16",
-    "q_number": "Q1a",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Write an essay on: The Indian girl child still a victim of exploitation.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -22,14 +30,20 @@
       },
       {
         "section": "Body",
-        "text": "Forms of exploitation: Female foeticide (PC&PNDT Act violations), infanticide, discrimination in nutrition and healthcare (leading to higher mortality), child labour (girls in domestic work), denial of education, child marriage (NFHS-5 shows 23% married before 18), sexual abuse and trafficking for commercial exploitation.\nCauses: Deep-rooted patriarchy, dowry system, son preference, poverty, illiteracy, weak enforcement of laws, and community silence.\nGovernment initiatives: Beti Bachao Beti Padhao, Sukanya Samriddhi Yojana, Kasturba Gandhi Balika Vidyalaya, and stringent anti-child marriage laws. However, implementation gaps persist.\nWay forward: Community mobilization, strict enforcement, economic empowerment of families, universal girl education, and changing social mindsets through media and school curricula.",
-        "order": 2,
-        "cite": "U16"
+        "text": "Forms of exploitation: Female foeticide (PC&PNDT Act violations), infanticide, discrimination in nutrition and healthcare (leading to higher mortality), child labour (girls in domestic work), denial of education, child marriage (NFHS-5 shows 23% married before 18), sexual abuse and trafficking for commercial exploitation. Causes: Deep-rooted patriarchy, dowry system, son preference, poverty, illiteracy, weak enforcement of laws, and community silence. Government initiatives: Beti Bachao Beti Padhao, Sukanya Samriddhi Yojana, Kasturba Gandhi Balika Vidyalaya, and stringent anti-child marriage laws.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "However, implementation gaps persist. Way forward: Community mobilization, strict enforcement, economic empowerment of families, universal girl education, and changing social mindsets through media and school curricula.",
+        "cite": "U16",
+        "order": 3
       },
       {
         "section": "Conclusion",
         "text": "The girl child's exploitation is a moral and developmental emergency. True progress will be measured not by GDP growth but by how we treat our daughters. Protecting every girl child is the foundation of a just and equitable India.",
-        "order": 3,
+        "order": 4,
         "cite": "U16"
       }
     ]
@@ -40,14 +54,22 @@
     "year": 2016,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q1b",
     "marks": 100,
     "importance": 3,
-    "question_text": "Write an essay on: Majoritarianism conflicting with the constitutional spirit, an unhealthy trend in true democracy.",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U16",
-    "q_number": "Q1b",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Write an essay on: Majoritarianism conflicting with the constitutional spirit, an unhealthy trend in true democracy.",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -57,14 +79,26 @@
       },
       {
         "section": "Body",
-        "text": "Constitutional spirit: Fundamental Rights (especially Articles 25-30 protecting religious and cultural freedoms), secularism (equal respect for all faiths), federalism, and checks on majoritarian impulses (judicial review, independent institutions).\nManifestations of majoritarianism: Religious polarization during elections, mob lynchings (cow vigilantism), hate speech against minorities, unilateral policy changes without consensus (e.g., citizenship laws), and pressure on dissent.\nConsequences: Erosion of trust in institutions, social fragmentation, alienation of minorities, weakened democracy (from substantive to merely procedural). Historical examples – Nazi Germany, Sri Lankan civil war – show dangers.\nRemedies: Strengthening civil society, media ethics, electoral reforms (anti-defection, state funding), judicial activism, and constitutional literacy.",
-        "order": 2,
-        "cite": "U16"
+        "text": "Constitutional spirit: Fundamental Rights (especially Articles 25-30 protecting religious and cultural freedoms), secularism (equal respect for all faiths), federalism, and checks on majoritarian impulses (judicial review, independent institutions). Manifestations of majoritarianism: Religious polarization during elections, mob lynchings (cow vigilantism), hate speech against minorities, unilateral policy changes without consensus (e.g., citizenship laws), and pressure on dissent.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Consequences: Erosion of trust in institutions, social fragmentation, alienation of minorities, weakened democracy (from substantive to merely procedural). Historical.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "examples – Nazi Germany, Sri Lankan civil war – show dangers. Remedies: Strengthening civil society, media ethics, electoral reforms (anti-defection, state funding), judicial activism, and constitutional literacy.",
+        "cite": "U16",
+        "order": 4
       },
       {
         "section": "Conclusion",
         "text": "True democracy is not just majority rule but protection of all. Majoritarianism is an unhealthy trend that hollows out constitutional morality. India's strength lies in its diversity; preserving it requires constant vigilance against the tyranny of the majority.",
-        "order": 3,
+        "order": 5,
         "cite": "U16"
       }
     ]
@@ -75,14 +109,22 @@
     "year": 2016,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q1c",
     "marks": 100,
     "importance": 3,
-    "question_text": "Write an essay on: Industrialization should not affect but contribute to agricultural growth in India.",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U16",
-    "q_number": "Q1c",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Write an essay on: Industrialization should not affect but contribute to agricultural growth in India.",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -92,14 +134,80 @@
       },
       {
         "section": "Body",
-        "text": "Negative impacts of unplanned industrialization: Land acquisition displacing farmers, water pollution from effluents, soil degradation, and labour migration from villages to cities.\nPositive contributions possible: Agro-processing industries (food preservation, packaging) reducing post-harvest losses; manufacturing of affordable farm machinery, irrigation equipment, and fertilizers; cold chain infrastructure; creating off-farm employment in rural areas; and industries using agricultural waste (biomass energy, composting).\nExamples: Amul model linking dairy cooperatives with processing; sugarcane mills supporting cane growers; contract farming for exports (gherkins, grapes).\nPolicy measures: Land acquisition should follow R&R with compensation; industrial siting away from prime farmland; effluent treatment norms; incentives for agro-industries in rural zones; promotion of public-private partnerships for farm-to-factory linkages.",
-        "order": 2,
-        "cite": "U16"
+        "text": "Negative impacts of unplanned industrialization: Land acquisition displacing farmers, water pollution from effluents, soil degradation, and labour migration from villages to cities.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Positive contributions possible: Agro-processing industries (food preservation, packaging) reducing post-harvest losses.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "manufacturing of affordable farm machinery, irrigation equipment, and fertilizers.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "creating off-farm employment in rural areas.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "and industries using agricultural waste (biomass energy, composting).",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Examples: Amul model linking dairy cooperatives with processing.",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Body",
+        "text": "sugarcane mills supporting cane growers.",
+        "cite": "U16",
+        "order": 8
+      },
+      {
+        "section": "Body",
+        "text": "contract farming for exports (gherkins, grapes). Policy.",
+        "cite": "U16",
+        "order": 9
+      },
+      {
+        "section": "Body",
+        "text": "measures: Land acquisition should follow R&R with compensation.",
+        "cite": "U16",
+        "order": 10
+      },
+      {
+        "section": "Body",
+        "text": "industrial siting away from prime farmland.",
+        "cite": "U16",
+        "order": 11
+      },
+      {
+        "section": "Body",
+        "text": "incentives for agro-industries in rural zones.",
+        "cite": "U16",
+        "order": 12
+      },
+      {
+        "section": "Body",
+        "text": "promotion of public-private partnerships for farm-to-factory linkages.",
+        "cite": "U16",
+        "order": 13
       },
       {
         "section": "Conclusion",
         "text": "Industrialization need not harm agriculture; it can be a powerful engine for agricultural growth. The goal should be inclusive industrialization that adds value to farm produce, creates rural jobs, and respects ecological limits.",
-        "order": 3,
+        "order": 14,
         "cite": "U16"
       }
     ]
@@ -110,14 +218,22 @@
     "year": 2016,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q1d",
     "marks": 100,
     "importance": 3,
-    "question_text": "Write an essay on: Mass media has great responsibility in transforming the society.",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U16",
-    "q_number": "Q1d",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Write an essay on: Mass media has great responsibility in transforming the society.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "Essay — Society",
+    "topics": [
+      "Essay — Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -127,14 +243,20 @@
       },
       {
         "section": "Body",
-        "text": "Positive transformative roles: Exposing corruption (2G scam, Panama Papers), shaping public opinion on social issues (anti-dowry, environment), spreading health awareness (COVID-19 protocols), promoting literacy and education (Doordarshan's school broadcasts), and giving voice to marginalized communities.\nFailures and challenges: Sensationalism, fake news, paid news, communal polarization, invasion of privacy, and commercial pressures prioritizing TRP over truth. Social media amplifies misinformation and hate speech.\nResponsible media practices: Fact-checking, balanced reporting, avoiding stereotypes, protecting sources, and self-regulation (Press Council, News Broadcasters Association).\nDigital era responsibility: Combating deepfakes, algorithmic transparency, promoting digital literacy, and ensuring equitable access.",
-        "order": 2,
-        "cite": "U16"
+        "text": "Positive transformative roles: Exposing corruption (2G scam, Panama Papers), shaping public opinion on social issues (anti-dowry, environment), spreading health awareness (COVID-19 protocols), promoting literacy and education (Doordarshan's school broadcasts), and giving voice to marginalized communities. Failures and.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "challenges: Sensationalism, fake news, paid news, communal polarization, invasion of privacy, and commercial pressures prioritizing TRP over truth. Social media amplifies misinformation and hate speech. Responsible media practices: Fact-checking, balanced reporting, avoiding stereotypes, protecting sources, and self-regulation (Press Council, News Broadcasters Association). Digital era responsibility: Combating deepfakes, algorithmic transparency, promoting digital literacy, and ensuring equitable access.",
+        "cite": "U16",
+        "order": 3
       },
       {
         "section": "Conclusion",
         "text": "Media's transformative power can build or break societies. With freedom comes the duty to serve public interest. An ethical, independent, and accountable media is indispensable for India's democratic and social transformation.",
-        "order": 3,
+        "order": 4,
         "cite": "U16"
       }
     ]

@@ -5,14 +5,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q1",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "The nature of economic growth in India in recent times is often described as jobless growth. Do you agree with this view? Give arguments in favour of your answer. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q1",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The nature of economic growth in India in recent times is often described as jobless growth. Do you agree with this view? Give arguments in favour of your answer. (200 words)",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q2",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Livestock rearing has a big potential for providing non-farm employment and income in rural areas. Discuss suggesting suitable measures to promote this sector in India. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q2",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Livestock rearing has a big potential for providing non-farm employment and income in rural areas. Discuss suggesting suitable measures to promote this sector in India. (200 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q3",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "In view of the declining average size of land holdings in India which has made agriculture non-viable for a majority of farmers, should contract farming and land leasing be promoted in agriculture? Critically evaluate the pros and cons. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "In view of the declining average size of land holdings in India which has made agriculture non-viable for a majority of farmers, should contract farming and land leasing be promoted in agriculture? Critically evaluate the pros and cons. (200 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q4",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "How can the 'Digital India' programme help farmers to improve farm productivity and income? What steps has the Government taken in this regard? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q4",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "How can the 'Digital India' programme help farmers to improve farm productivity and income? What steps has the Government taken in this regard? (200 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q5",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "In what way could replacement of price subsidy with Direct Benefit Transfer (DBT) change the scenario of subsidies in India? Discuss. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q5",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "In what way could replacement of price subsidy with Direct Benefit Transfer (DBT) change the scenario of subsidies in India? Discuss. (200 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q6",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "What are the impediments in marketing and supply chain management in developing the food processing industry in India? Can e-commerce help in overcoming these bottlenecks? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q6",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What are the impediments in marketing and supply chain management in developing the food processing industry in India? Can e-commerce help in overcoming these bottlenecks? (200 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q7",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Craze for gold in Indians has led to a surge in import of gold in recent years and put pressure on balance of payments and external value of rupee. In view of this, examine the merits of the Gold Monetization Scheme. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q7",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Craze for gold in Indians has led to a surge in import of gold in recent years and put pressure on balance of payments and external value of rupee. In view of this, examine the merits of the Gold Monetization Scheme. (200 words)",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "Essay — Society",
+    "topics": [
+      "Essay — Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q8",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "\"Success of 'Make in India' programme depends on the success of 'Skill India' programme and radical labour reforms.\" Discuss with logical arguments. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q8",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "\"Success of 'Make in India' programme depends on the success of 'Skill India' programme and radical labour reforms.\" Discuss with logical arguments. (200 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q9",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "To what factors can the recent dramatic fall in equipment costs and tariff of solar energy be attributed? What implications does the trend have for the thermal power producers and the related industry? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q9",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "To what factors can the recent dramatic fall in equipment costs and tariff of solar energy be attributed? What implications does the trend have for the thermal power producers and the related industry? (200 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -374,14 +446,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q10",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "There is a clear acknowledgement that Special Economic Zones (SEZs) are a tool of industrial development, manufacturing and exports. Recognizing this potential, the whole instrumentality of SEZs requires augmentation. Discuss the issues plaguing the success of SEZs with respect to taxation, governing laws and administration. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q10",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "There is a clear acknowledgement that Special Economic Zones (SEZs) are a tool of industrial development, manufacturing and exports. Recognizing this potential, the whole instrumentality of SEZs requires augmentation. Discuss the issues plaguing the success of SEZs with respect to taxation, governing laws and administration. (200 words)",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -421,14 +501,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q11",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "What do you understand by 'Standard Positioning Systems' and 'Precision Positioning Systems' in the GPS era? Discuss the advantages India perceives from its ambitious IRNSS programme employing just seven satellites. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q11",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What do you understand by 'Standard Positioning Systems' and 'Precision Positioning Systems' in the GPS era? Discuss the advantages India perceives from its ambitious IRNSS programme employing just seven satellites. (200 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -438,20 +526,50 @@
       },
       {
         "section": "Body",
-        "text": "IRNSS (NavIC) – India's regional navigation system; 7 satellites (3 geostationary, 4 geosynchronous); covers Indian Ocean region up to 1500 km beyond borders. Advantages: SPS and PPS (dual frequency) with accuracy 5-10 m for civilian, better for military; not reliant on GPS (vulnerable to denial during conflict); used for terrestrial, aerial, marine navigation; timing (power grids, banking).",
-        "order": 2,
-        "cite": "U15"
+        "text": "IRNSS (NavIC) – India's regional navigation system.",
+        "cite": "U15",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "7 satellites (3 geostationary, 4 geosynchronous).",
+        "cite": "U15",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "covers Indian Ocean region up to 1500 km beyond borders. Advantages: SPS and PPS (dual frequency) with accuracy 5-10 m for civilian, better for military.",
+        "cite": "U15",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "not reliant on GPS (vulnerable to denial during conflict).",
+        "cite": "U15",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "used for terrestrial, aerial, marine navigation.",
+        "cite": "U15",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "timing (power grids, banking).",
+        "cite": "U15",
+        "order": 7
       },
       {
         "section": "Body",
         "text": "Benefits: strategic autonomy (no dependency on US); disaster management (cyclone, flood tracking); vehicle tracking (commercial fleets); precision agriculture; defence applications (missile guidance).",
-        "order": 3,
+        "order": 8,
         "cite": "U15"
       },
       {
         "section": "Conclusion",
         "text": "NavIC provides regional capability with fewer satellites; cost-effective; complements GPS. India is self-reliant in navigation; plans to expand global coverage.",
-        "order": 4,
+        "order": 9,
         "cite": "U15"
       }
     ]
@@ -462,14 +580,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q12",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "What are the areas of prohibitive labour that can be sustainably managed by robots? Discuss the initiatives that can propel research in premier research institutes for substantive and gainful innovation. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q12",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What are the areas of prohibitive labour that can be sustainably managed by robots? Discuss the initiatives that can propel research in premier research institutes for substantive and gainful innovation. (200 words)",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -503,14 +629,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q13",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Discuss the advantages and security implications of cloud hosting of servers vis-a-vis in-house machine-based hosting for government businesses. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q13",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Discuss the advantages and security implications of cloud hosting of servers vis-a-vis in-house machine-based hosting for government businesses. (200 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -550,14 +684,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q14",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "India's Traditional Knowledge Digital Library (TKDL), which has a database containing formatted information on more than 2 million medicinal formulations is proving a powerful weapon in the country's fight against erroneous patents. Discuss the pros and cons of making this database publicly available under open-source licensing. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q14",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "India's Traditional Knowledge Digital Library (TKDL), which has a database containing formatted information on more than 2 million medicinal formulations is proving a powerful weapon in the country's fight against erroneous patents. Discuss the pros and cons of making this database publicly available under open-source licensing. (200 words)",
+    "subjectId": "thinkers",
+    "subjects": [
+      "Thinkers"
+    ],
+    "topic": "Thinkers",
+    "topics": [
+      "Thinkers"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -591,14 +733,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q15",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Discuss the Namami Gange and National Mission for Clean Ganga (NMCG) programmes and causes of mixed results from the previous schemes. What quantum leaps can help preserve the river Ganga better than incremental inputs? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q15",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Discuss the Namami Gange and National Mission for Clean Ganga (NMCG) programmes and causes of mixed results from the previous schemes. What quantum leaps can help preserve the river Ganga better than incremental inputs? (200 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -638,14 +788,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q16",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "The frequency of earthquakes appears to have increased in the Indian subcontinent. However, India's preparedness for mitigating their impact has significant gaps. Discuss various aspects. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The frequency of earthquakes appears to have increased in the Indian subcontinent. However, India's preparedness for mitigating their impact has significant gaps. Discuss various aspects. (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -679,14 +837,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q17",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Human rights activists constantly highlight the view that the Armed Forces (Special Powers) Act, 1958 (AFSPA) is a draconian act leading to cases of human rights abuses by the security forces. What sections of AFSPA are opposed by the activists? Critically evaluate the requirement with reference to the view held by the Apex Court. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q17",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Human rights activists constantly highlight the view that the Armed Forces (Special Powers) Act, 1958 (AFSPA) is a draconian act leading to cases of human rights abuses by the security forces. What sections of AFSPA are opposed by the activists? Critically evaluate the requirement with reference to the view held by the Apex Court. (200 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -726,14 +892,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q18",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Religious indoctrination via digital media has resulted in Indian youth joining the ISIS. What is ISIS and its mission? How can ISIS be dangerous for the internal security of our country? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q18",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Religious indoctrination via digital media has resulted in Indian youth joining the ISIS. What is ISIS and its mission? How can ISIS be dangerous for the internal security of our country? (200 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -767,14 +941,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q19",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "The persisting drives of the Government for development of large industries in backward areas have resulted in isolating the tribal population and the farmers who face multiple displacements. With Malkangiri and Naxalbari foci, discuss the corrective strategies needed to win the Left Wing Extremism (LWE) doctrine affected citizens back into the mainstream of social and economic growth. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q19",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The persisting drives of the Government for development of large industries in backward areas have resulted in isolating the tribal population and the farmers who face multiple displacements. With Malkangiri and Naxalbari foci, discuss the corrective strategies needed to win the Left Wing Extremism (LWE) doctrine affected citizens back into the mainstream of social and economic growth. (200 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -808,14 +990,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q20",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Considering the threats cyberspace poses for the country, India needs a \"Digital Armed Force\" to prevent crimes. Critically evaluate the National Cyber Security Policy, 2013 outlining the challenges perceived in its effective implementation. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q20",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Considering the threats cyberspace poses for the country, India needs a \"Digital Armed Force\" to prevent crimes. Critically evaluate the National Cyber Security Policy, 2013 outlining the challenges perceived in its effective implementation. (200 words)",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Science & Tech",
+    "topics": [
+      "Science & Tech"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

@@ -5,14 +5,22 @@
     "year": 2018,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "A1",
     "marks": 125,
     "importance": 3,
-    "question_text": "Alternative technologies for a climate change resilient India",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U18",
-    "q_number": "A1",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Alternative technologies for a climate change resilient India",
+    "subjectId": "essay-world",
+    "subjects": [
+      "Essay — World & Environment"
+    ],
+    "topic": "Essay — World",
+    "topics": [
+      "Essay — World"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -22,14 +30,32 @@
       },
       {
         "section": "Body",
-        "text": "Alternative technologies include: Climate-resilient agriculture – drought/flood-tolerant seeds (ICRISAT), micro-irrigation, agroforestry. Water management – artificial groundwater recharge, wastewater recycling, desalination using solar energy. Coastal protection – mangrove restoration, floating structures. Built environment – cool roofs, passive building design, green infrastructure for urban heat islands. Energy storage – pumped hydro, battery technology, green hydrogen. Early warning systems – AI-based weather prediction. India's National Action Plan on Climate Change (NAPCC) already includes some, but scaling up requires policy support, private investment, and indigenous innovation. Challenges: cost, accessibility, and behavioural change. Examples: Solar-powered cold storage for farmers; bio-digesters for waste management.",
-        "order": 2,
-        "cite": "U18"
+        "text": "Alternative technologies include: Climate-resilient agriculture – drought/flood-tolerant seeds (ICRISAT), micro-irrigation, agroforestry. Water management – artificial groundwater recharge, wastewater recycling, desalination using solar energy. Coastal protection – mangrove restoration, floating structures. Built environment – cool roofs, passive building design, green infrastructure for urban heat islands. Energy storage – pumped hydro, battery technology, green hydrogen. Early warning systems – AI-based weather prediction. India's National Action Plan on Climate Change (NAPCC) already includes some, but scaling up requires policy support, private investment, and indigenous innovation.",
+        "cite": "U18",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Challenges: cost, accessibility, and behavioural change.",
+        "cite": "U18",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Examples: Solar-powered cold storage for farmers.",
+        "cite": "U18",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "bio-digesters for waste management.",
+        "cite": "U18",
+        "order": 5
       },
       {
         "section": "Conclusion",
         "text": "Thus, a portfolio of alternative technologies, tailored to local contexts, can make India climate-resilient while fostering sustainable development and green jobs.",
-        "order": 3,
+        "order": 6,
         "cite": "U18"
       }
     ]
@@ -40,14 +66,22 @@
     "year": 2018,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "A2",
     "marks": 125,
     "importance": 3,
-    "question_text": "A good life is one inspired by love and guided by knowledge",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U18",
-    "q_number": "A2",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "A good life is one inspired by love and guided by knowledge",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -57,14 +91,26 @@
       },
       {
         "section": "Body",
-        "text": "Love without knowledge can be blind, leading to sentimentality or misplaced charity (e.g., enabling dependency). Knowledge without love becomes cold, utilitarian, or even destructive (e.g., technology used for warfare). Examples: A doctor with expertise but no empathy fails as a healer. A parent who loves but lacks knowledge of child development may harm. Balanced life: love motivates action; knowledge directs it effectively. In public life, policies inspired by compassion but guided by evidence (e.g., welfare schemes with rigorous monitoring) embody this ideal. Great personalities – Gandhi (love for humanity, knowledge of non-violence), Einstein (scientific knowledge, humanistic love) – illustrate the synthesis.",
-        "order": 2,
-        "cite": "U18"
+        "text": "Love without knowledge can be blind, leading to sentimentality or misplaced charity (e.g., enabling dependency). Knowledge without love becomes cold, utilitarian, or even destructive (e.g., technology used for warfare).",
+        "cite": "U18",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Examples: A doctor with expertise but no empathy fails as a healer. A parent who loves but lacks knowledge of child development may harm. Balanced life: love motivates action.",
+        "cite": "U18",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "knowledge directs it effectively. In public life, policies inspired by compassion but guided by evidence (e.g., welfare schemes with rigorous monitoring) embody this ideal. Great personalities – Gandhi (love for humanity, knowledge of non-violence), Einstein (scientific knowledge, humanistic love) – illustrate the synthesis.",
+        "cite": "U18",
+        "order": 4
       },
       {
         "section": "Conclusion",
         "text": "Thus, the good life is not mere pleasure or wealth, but a harmonious blend of emotional richness and intellectual clarity.",
-        "order": 3,
+        "order": 5,
         "cite": "U18"
       }
     ]
@@ -75,14 +121,22 @@
     "year": 2018,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "A3",
     "marks": 125,
     "importance": 3,
-    "question_text": "Poverty anywhere is a threat to prosperity everywhere",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U18",
-    "q_number": "A3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Poverty anywhere is a threat to prosperity everywhere",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -92,14 +146,26 @@
       },
       {
         "section": "Body",
-        "text": "Economic threat: Poor countries lack purchasing power, reducing global demand; also, illicit financial flows and cheap labour depress wages globally. Health threat: Infectious diseases (Ebola, COVID-19) originate in poverty hotspots and spread. Security threat: Poverty fuels extremism, terrorism, and migration crises. Environmental threat: Poor communities resort to deforestation, overfishing, and unsustainable practices. Conversely, reducing poverty expands markets, fosters innovation, and enhances global stability. SDG 1 (No Poverty) is therefore a collective responsibility. Examples: Marshall Plan rebuilt Europe, benefiting USA. China's poverty reduction lifted global growth. India's prosperity through development helps global supply chains.",
-        "order": 2,
-        "cite": "U18"
+        "text": "Economic threat: Poor countries lack purchasing power, reducing global demand.",
+        "cite": "U18",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "also, illicit financial flows and cheap labour depress wages globally. Health threat: Infectious diseases (Ebola, COVID-19) originate in poverty hotspots and spread. Security threat: Poverty fuels extremism, terrorism, and migration crises. Environmental threat: Poor communities resort to deforestation, overfishing, and unsustainable practices. Conversely, reducing poverty expands markets, fosters innovation, and enhances global stability. SDG 1 (No Poverty) is therefore a collective responsibility.",
+        "cite": "U18",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Examples: Marshall Plan rebuilt Europe, benefiting USA. China's poverty reduction lifted global growth. India's prosperity through development helps global supply chains.",
+        "cite": "U18",
+        "order": 4
       },
       {
         "section": "Conclusion",
         "text": "Thus, poverty anywhere is a drag on global prosperity; eradicating it requires international cooperation, fair trade, debt relief, and technology transfer.",
-        "order": 3,
+        "order": 5,
         "cite": "U18"
       }
     ]
@@ -110,14 +176,22 @@
     "year": 2018,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "A4",
     "marks": 125,
     "importance": 3,
-    "question_text": "Management of Indian border disputes-a complex task",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U18",
-    "q_number": "A4",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Management of Indian border disputes-a complex task",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -127,14 +201,50 @@
       },
       {
         "section": "Body",
-        "text": "Complexities: Multiple unresolved disputes – China claims Aksai Chin and Arunachal; Pakistan claims Kashmir. Terrain – Himalayan ranges, high-altitude, thick forests, riverine. Bilateral relations – hostile with Pakistan, competitive with China, friendly with Nepal/Bhutan. Internal security – cross-border terrorism, smuggling, insurgency. International law – vague colonial-era boundaries (McMahon Line, Radcliffe Line). Strategies for management: Diplomatic engagement (high-level talks, CBMs like border personnel meetings); infrastructure development (border roads, fencing, smart surveillance); military preparedness (forward deployment, deterrence); economic integration (trade routes with Nepal, Bhutan). Also, use of technology (drones, sensors) and community involvement (border area programmes). Success depends on consistent policy and public awareness.",
-        "order": 2,
-        "cite": "U18"
+        "text": "Complexities: Multiple unresolved disputes – China claims Aksai Chin and Arunachal.",
+        "cite": "U18",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Pakistan claims Kashmir. Terrain – Himalayan ranges, high-altitude, thick forests, riverine. Bilateral relations – hostile with Pakistan, competitive with China, friendly with Nepal/Bhutan. Internal security – cross-border terrorism, smuggling, insurgency. International law – vague colonial-era boundaries (McMahon Line, Radcliffe Line).",
+        "cite": "U18",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Strategies for management: Diplomatic engagement (high-level talks, CBMs like border personnel meetings).",
+        "cite": "U18",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "infrastructure development (border roads, fencing, smart surveillance).",
+        "cite": "U18",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "military preparedness (forward deployment, deterrence).",
+        "cite": "U18",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "economic integration (trade routes with Nepal, Bhutan).",
+        "cite": "U18",
+        "order": 7
+      },
+      {
+        "section": "Body",
+        "text": "Also, use of technology (drones, sensors) and community involvement (border area programmes). Success depends on consistent policy and public awareness.",
+        "cite": "U18",
+        "order": 8
       },
       {
         "section": "Conclusion",
         "text": "Thus, managing border disputes requires a multi-pronged approach – not just military, but also diplomatic, infrastructural, and social – given the complexity of actors and interests.",
-        "order": 3,
+        "order": 9,
         "cite": "U18"
       }
     ]
@@ -145,14 +255,22 @@
     "year": 2018,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "B1",
     "marks": 125,
     "importance": 3,
-    "question_text": "Customary morality cannot be a guide to modern life",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U18",
-    "q_number": "B1",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Customary morality cannot be a guide to modern life",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -162,14 +280,38 @@
       },
       {
         "section": "Body",
-        "text": "Why not a guide? Many customs are outdated – caste discrimination, gender inequality, religious dogmas, honour killings – conflict with universal human rights and constitutional morality. Modern life demands rational, evidence-based ethics (e.g., environmental protection, data privacy, animal rights) that customs don't address. However, some customs (like hospitality, community support) are still valuable. The problem is blind adherence without critical examination. Modern ethics should be deliberative and dynamic, not static. Example: custom of dowry continues despite being illegal and harmful. Thus, customary morality can inform but not dictate modern life.",
-        "order": 2,
-        "cite": "U18"
+        "text": "Why not a guide? Many customs are outdated – caste discrimination, gender inequality, religious dogmas, honour killings – conflict with universal human rights and constitutional morality. Modern life demands rational, evidence-based ethics (e.g., environmental protection, data privacy, animal rights) that customs don't address.",
+        "cite": "U18",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "However, some customs (like hospitality, community support) are still valuable. The.",
+        "cite": "U18",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "problem is blind adherence without critical examination. Modern ethics should be deliberative and dynamic, not static.",
+        "cite": "U18",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Example: custom of dowry continues despite being illegal and harmful.",
+        "cite": "U18",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Thus, customary morality can inform but not dictate modern life.",
+        "cite": "U18",
+        "order": 6
       },
       {
         "section": "Conclusion",
         "text": "Therefore, we need a reflective balance – respecting cultural heritage while subjecting customs to rational scrutiny and reform.",
-        "order": 3,
+        "order": 7,
         "cite": "U18"
       }
     ]
@@ -180,14 +322,22 @@
     "year": 2018,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "B2",
     "marks": 125,
     "importance": 3,
-    "question_text": "'The past' is a permanent dimension of human consciousness and values",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U18",
-    "q_number": "B2",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "'The past' is a permanent dimension of human consciousness and values",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "Essay — Society",
+    "topics": [
+      "Essay — Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -197,14 +347,32 @@
       },
       {
         "section": "Body",
-        "text": "Permanent dimension means it cannot be erased; even when forgotten, it returns (repressed memory, trauma, heritage). Human consciousness is narrative – we understand ourselves through life stories rooted in past. Values (justice, loyalty, sacrifice) are shaped by historical examples (freedom fighters, philosophers). However, the past can also be a burden – unresolved conflicts (partition, colonialism) perpetuate hatred. The key is to engage critically with the past – not to be enslaved by it, but to learn. Architecture, rituals, laws, language all carry the past. Even radical revolutions (e.g., French Revolution) invoke past ideals. Thus, the past is a permanent, albeit reinterpreted, dimension.",
-        "order": 2,
-        "cite": "U18"
+        "text": "Permanent dimension means it cannot be erased.",
+        "cite": "U18",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "even when forgotten, it returns (repressed memory, trauma, heritage). Human consciousness is narrative – we understand ourselves through life stories rooted in past. Values (justice, loyalty, sacrifice) are shaped by historical.",
+        "cite": "U18",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "also be a burden – unresolved conflicts (partition, colonialism) perpetuate hatred. The key is to engage critically with the past – not to be enslaved by it, but to learn. Architecture, rituals, laws, language all carry the past. Even radical revolutions (e.g., French Revolution) invoke past ideals.",
+        "cite": "U18",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Thus, the past is a permanent, albeit reinterpreted, dimension.",
+        "cite": "U18",
+        "order": 5
       },
       {
         "section": "Conclusion",
         "text": "Thus, we must respect the past's influence while consciously reshaping its legacy for a better future.",
-        "order": 3,
+        "order": 6,
         "cite": "U18"
       }
     ]
@@ -215,14 +383,22 @@
     "year": 2018,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "B3",
     "marks": 125,
     "importance": 3,
-    "question_text": "A people that values its privileges above its principles loses both",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U18",
-    "q_number": "B3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "A people that values its privileges above its principles loses both",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "Essay — Society",
+    "topics": [
+      "Essay — Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -232,14 +408,20 @@
       },
       {
         "section": "Body",
-        "text": "Historical examples: French aristocracy kept feudal privileges while ignoring principles of equality – leading to revolution. Corporates that prioritize profit (privilege) over ethics (principles) collapse (Enron, Satyam). In democracies, politicians who cling to power (privilege) by subverting democratic principles (free press, rule of law) lose legitimacy and eventually power. India's own experience: individuals who sacrifice integrity for material gain lose reputation (principles) and eventually the gains (privileges). Conversely, societies that uphold principles (justice, freedom) create sustainable prosperity. Gandhi's fight against colonial privilege restored Indian dignity. Thus, privileging privileges over principles is self-defeating.",
-        "order": 2,
-        "cite": "U18"
+        "text": "examples: French aristocracy kept feudal privileges while ignoring principles of equality – leading to revolution. Corporates that prioritize profit (privilege) over ethics (principles) collapse (Enron, Satyam). In democracies, politicians who cling to power (privilege) by subverting democratic principles (free press, rule of law) lose legitimacy and eventually power. India's own experience: individuals who sacrifice integrity for material gain lose reputation (principles) and eventually the gains (privileges). Conversely, societies that uphold principles (justice, freedom) create sustainable prosperity. Gandhi's fight against colonial privilege restored Indian dignity.",
+        "cite": "U18",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Thus, privileging privileges over principles is self-defeating.",
+        "cite": "U18",
+        "order": 3
       },
       {
         "section": "Conclusion",
         "text": "Therefore, enduring success lies in placing principles above privileges; the latter, if earned, will follow naturally.",
-        "order": 3,
+        "order": 4,
         "cite": "U18"
       }
     ]
@@ -250,14 +432,22 @@
     "year": 2018,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "B4",
     "marks": 125,
     "importance": 3,
-    "question_text": "Reality does not conform to the ideal, but confirms it",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U18",
-    "q_number": "B4",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Reality does not conform to the ideal, but confirms it",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -267,14 +457,38 @@
       },
       {
         "section": "Body",
-        "text": "Explanation: No society achieves perfect justice (ideal), but struggles for justice (reality) prove that justice is a meaningful aspiration. If there were no ideal, we wouldn't call injustice 'bad'. Examples: Democracy never perfectly attains 'government by the people', but elections, rights, and protests confirm democracy as the better system. Medicine never fully cures all diseases, but its successes confirm the ideal of health. Scientific theories are ideal models; reality deviates, but through deviations we refine the ideal. In personal life, we fall short of our moral ideals, but the gap confirms the ideal's validity – it guides improvement. Thus, reality's imperfections do not refute ideals; they challenge us to strive harder.",
-        "order": 2,
-        "cite": "U18"
+        "text": "Explanation: No society achieves perfect justice (ideal), but struggles for justice (reality) prove that justice is a meaningful aspiration. If there were no ideal, we wouldn't call injustice 'bad'.",
+        "cite": "U18",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Examples: Democracy never perfectly attains 'government by the people', but elections, rights, and protests confirm democracy as the better system. Medicine never fully cures all diseases, but its successes confirm the ideal of health. Scientific theories are ideal models.",
+        "cite": "U18",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "reality deviates, but through deviations we refine the ideal. In personal life, we fall short of our moral ideals, but the gap confirms the ideal's validity – it guides improvement.",
+        "cite": "U18",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Thus, reality's imperfections do not refute ideals.",
+        "cite": "U18",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "they challenge us to strive harder.",
+        "cite": "U18",
+        "order": 6
       },
       {
         "section": "Conclusion",
         "text": "Thus, ideals are not illusions but compasses; reality confirms their worth by showing the consequences of ignoring them.",
-        "order": 3,
+        "order": 7,
         "cite": "U18"
       }
     ]

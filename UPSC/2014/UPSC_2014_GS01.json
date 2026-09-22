@@ -5,14 +5,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q1",
     "marks": 10,
     "importance": 2,
-    "question_text": "To what extent has the urban planning and culture of the Indus Valley Civilization provided inputs to the present day urbanization? Discuss. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q1",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "To what extent has the urban planning and culture of the Indus Valley Civilization provided inputs to the present day urbanization? Discuss. (200 words)",
+    "subjectId": "ancient",
+    "subjects": [
+      "Ancient & Medieval"
+    ],
+    "topic": "Ancient History",
+    "topics": [
+      "Ancient History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -52,14 +60,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q2",
     "marks": 10,
     "importance": 2,
-    "question_text": "Gandhara sculpture owed as much to the Romans as to the Greeks. Explain. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q2",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Gandhara sculpture owed as much to the Romans as to the Greeks. Explain. (200 words)",
+    "subjectId": "culture",
+    "subjects": [
+      "Art & Culture"
+    ],
+    "topic": "Indian Culture",
+    "topics": [
+      "Indian Culture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -99,14 +115,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q3",
     "marks": 10,
     "importance": 2,
-    "question_text": "Taxila university was one of the oldest universities of the world with which were associated a number of renowned learned personalities of different disciplines. Its strategic location caused its fame to flourish, but unlike Nalanda, it is not considered as a university in the modern sense. Discuss. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Taxila university was one of the oldest universities of the world with which were associated a number of renowned learned personalities of different disciplines. Its strategic location caused its fame to flourish, but unlike Nalanda, it is not considered as a university in the modern sense. Discuss. (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -152,14 +176,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q4",
     "marks": 10,
     "importance": 2,
-    "question_text": "The third battle of Panipat was fought in 1761. Why were so many empire-shaking battles fought at Panipat? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q4",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The third battle of Panipat was fought in 1761. Why were so many empire-shaking battles fought at Panipat? (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -205,14 +237,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q5",
     "marks": 10,
     "importance": 2,
-    "question_text": "Sufis and medieval mystic saints failed to modify either the religious ideas and practices or the outward structure of Hindu/Muslim societies to any appreciable extent. Comment. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q5",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Sufis and medieval mystic saints failed to modify either the religious ideas and practices or the outward structure of Hindu/Muslim societies to any appreciable extent. Comment. (200 words)",
+    "subjectId": "medieval",
+    "subjects": [
+      "Medieval India"
+    ],
+    "topic": "Medieval History",
+    "topics": [
+      "Medieval History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -252,14 +292,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q6",
     "marks": 10,
     "importance": 2,
-    "question_text": "Examine critically the various facets of economic policies of the British in India from mid-eighteenth century till independence. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q6",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Examine critically the various facets of economic policies of the British in India from mid-eighteenth century till independence. (200 words)",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -299,14 +347,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q7",
     "marks": 10,
     "importance": 2,
-    "question_text": "In what ways did the naval mutiny prove to be the last nail in the coffin of British colonial aspirations in India? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q7",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "In what ways did the naval mutiny prove to be the last nail in the coffin of British colonial aspirations in India? (200 words)",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -346,14 +402,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q8",
     "marks": 10,
     "importance": 2,
-    "question_text": "What were the major political, economic and social developments in the world which motivated the anti-colonial struggle in India? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q8",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What were the major political, economic and social developments in the world which motivated the anti-colonial struggle in India? (200 words)",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -393,14 +457,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q9",
     "marks": 10,
     "importance": 2,
-    "question_text": "What were the events that led to the Suez Crisis in 1956? How did it deal a final blow to Britain's self-image as a world power? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q9",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What were the events that led to the Suez Crisis in 1956? How did it deal a final blow to Britain's self-image as a world power? (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -440,14 +512,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q10",
     "marks": 10,
     "importance": 2,
-    "question_text": "The New Economic Policy 1921 of Lenin had influenced the policies adopted by India soon after independence. Evaluate. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q10",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The New Economic Policy 1921 of Lenin had influenced the policies adopted by India soon after independence. Evaluate. (200 words)",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -487,14 +567,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q11",
     "marks": 10,
     "importance": 2,
-    "question_text": "How does patriarchy impact the position of a middle class working woman in India? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q11",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "How does patriarchy impact the position of a middle class working woman in India? (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -534,14 +622,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q12",
     "marks": 10,
     "importance": 2,
-    "question_text": "Why do some of the most prosperous regions of India have an adverse sex ratio for women? Give your arguments. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q12",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Why do some of the most prosperous regions of India have an adverse sex ratio for women? Give your arguments. (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -581,14 +677,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q13",
     "marks": 10,
     "importance": 2,
-    "question_text": "The life cycle of a joint family depends on economic factors rather than social values. Discuss. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q13",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The life cycle of a joint family depends on economic factors rather than social values. Discuss. (200 words)",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -628,14 +732,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q14",
     "marks": 10,
     "importance": 2,
-    "question_text": "Discuss the various economic and socio-cultural forces that are driving increasing feminization of agriculture in India. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q14",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Discuss the various economic and socio-cultural forces that are driving increasing feminization of agriculture in India. (200 words)",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -675,14 +787,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q15",
     "marks": 10,
     "importance": 2,
-    "question_text": "How do the Indian debates on secularism differ from the debates in the West? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q15",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "How do the Indian debates on secularism differ from the debates in the West? (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -722,14 +842,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q16",
     "marks": 10,
     "importance": 2,
-    "question_text": "Most of the unusual climatic happenings are explained as an outcome of the El-Nino effect. Do you agree? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Most of the unusual climatic happenings are explained as an outcome of the El-Nino effect. Do you agree? (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -769,14 +897,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q17",
     "marks": 10,
     "importance": 2,
-    "question_text": "Why are the world's fold mountain systems located along the margins of continents? Bring out the association between the global distribution of fold mountains and the earthquakes and volcanoes. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q17",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Why are the world's fold mountain systems located along the margins of continents? Bring out the association between the global distribution of fold mountains and the earthquakes and volcanoes. (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -816,14 +952,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q18",
     "marks": 10,
     "importance": 2,
-    "question_text": "Explain the formation of thousands of islands in Indonesian and Philippines archipelagos. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q18",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Explain the formation of thousands of islands in Indonesian and Philippines archipelagos. (200 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -863,14 +1007,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q19",
     "marks": 10,
     "importance": 2,
-    "question_text": "Tropical cyclones are largely confined to South China Sea, Bay of Bengal and Gulf of Mexico. Why? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q19",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Tropical cyclones are largely confined to South China Sea, Bay of Bengal and Gulf of Mexico. Why? (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -910,14 +1062,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q20",
     "marks": 10,
     "importance": 2,
-    "question_text": "Bring out the relationship between the shrinking Himalayan glaciers and the symptoms of climate change in the Indian sub-continent. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q20",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Bring out the relationship between the shrinking Himalayan glaciers and the symptoms of climate change in the Indian sub-continent. (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -957,14 +1117,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q21",
     "marks": 10,
     "importance": 2,
-    "question_text": "Whereas the British planters had developed tea gardens all along the Shivaliks and Lesser Himalayas from Assam to Himachal Pradesh, in effect they did not succeed beyond the Darjeeling area. Explain. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q21",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Whereas the British planters had developed tea gardens all along the Shivaliks and Lesser Himalayas from Assam to Himachal Pradesh, in effect they did not succeed beyond the Darjeeling area. Explain. (200 words)",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -1004,14 +1172,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q22",
     "marks": 10,
     "importance": 2,
-    "question_text": "Why did the Green Revolution in India virtually by-pass the eastern region despite fertile soil and good availability of water? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q22",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Why did the Green Revolution in India virtually by-pass the eastern region despite fertile soil and good availability of water? (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -1051,14 +1227,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q23",
     "marks": 10,
     "importance": 2,
-    "question_text": "Account for the change in the spatial pattern of the Iron and Steel industry in the world. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q23",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Account for the change in the spatial pattern of the Iron and Steel industry in the world. (200 words)",
+    "subjectId": "ancient",
+    "subjects": [
+      "Ancient & Medieval"
+    ],
+    "topic": "Ancient History",
+    "topics": [
+      "Ancient History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -1098,14 +1282,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q24",
     "marks": 10,
     "importance": 2,
-    "question_text": "Critically evaluate the various resources of the oceans which can be harnessed to meet the resource crisis in the world. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q24",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Critically evaluate the various resources of the oceans which can be harnessed to meet the resource crisis in the world. (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -1151,14 +1343,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q25",
     "marks": 10,
     "importance": 2,
-    "question_text": "How does India see its place in the economic space of rising natural resource rich Africa? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q25",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "How does India see its place in the economic space of rising natural resource rich Africa? (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

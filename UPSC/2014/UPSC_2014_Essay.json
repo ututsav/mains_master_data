@@ -5,14 +5,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QA.1",
     "marks": 125,
     "importance": 3,
-    "question_text": "With greater power comes greater responsibility.",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "QA.1",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "With greater power comes greater responsibility.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -70,14 +78,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QA.2",
     "marks": 125,
     "importance": 3,
-    "question_text": "Is the growing level of competition good for the youth?",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "QA.2",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Is the growing level of competition good for the youth?",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -129,14 +145,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QA.3",
     "marks": 125,
     "importance": 3,
-    "question_text": "Are the standardized tests good measure of academic ability or progress?",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "QA.3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Are the standardized tests good measure of academic ability or progress?",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -188,14 +212,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QA.4",
     "marks": 125,
     "importance": 3,
-    "question_text": "Words are sharper than the two-edged sword.",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "QA.4",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Words are sharper than the two-edged sword.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -241,14 +273,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QB.1",
     "marks": 125,
     "importance": 3,
-    "question_text": "Was it the policy paralysis or the paralysis of implementation which slowed the growth of our country?",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "QB.1",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Was it the policy paralysis or the paralysis of implementation which slowed the growth of our country?",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -294,14 +334,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QB.2",
     "marks": 125,
     "importance": 3,
-    "question_text": "Is sting operation an invasion on privacy?",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "QB.2",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Is sting operation an invasion on privacy?",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -347,14 +395,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QB.3",
     "marks": 125,
     "importance": 3,
-    "question_text": "Fifty Golds in Olympics: Can this be a reality for India?",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "QB.3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Fifty Golds in Olympics: Can this be a reality for India?",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -406,14 +462,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "QB.4",
     "marks": 125,
     "importance": 3,
-    "question_text": "Tourism: Can this be the next big thing for India?",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "QB.4",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Tourism: Can this be the next big thing for India?",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "सामाजिक क्षेत्र",
+    "topics": [
+      "सामाजिक क्षेत्र"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

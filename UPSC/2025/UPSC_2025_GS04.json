@@ -5,14 +5,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q1.a",
     "marks": 10,
     "importance": 3,
-    "question_text": "In the present digital age, social media has revolutionised our way of communication and interaction. However, it has raised several ethical issues and challenges. Describe the key ethical dilemmas in this regard. (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747461600,
     "cite": "U4",
-    "q_number": "Q1.a",
+    "last_updated": 1747461600,
+    "is_structured": 1,
+    "question_text": "In the present digital age, social media has revolutionised our way of communication and interaction. However, it has raised several ethical issues and challenges. Describe the key ethical dilemmas in this regard. (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q1.b",
     "marks": 10,
     "importance": 3,
-    "question_text": "\"Constitutional morality is not a natural sentiment but a product of civil education and adherance of the rule of law.\" Examine the significance of constitutional morality for public servant highlighting the role in promoting good governance and ensuring accountability in public administration. (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747461600,
     "cite": "U4",
-    "q_number": "Q1.b",
+    "last_updated": 1747461600,
+    "is_structured": 1,
+    "question_text": "\"Constitutional morality is not a natural sentiment but a product of civil education and adherance of the rule of law.\" Examine the significance of constitutional morality for public servant highlighting the role in promoting good governance and ensuring accountability in public administration. (150 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q2.a",
     "marks": 10,
     "importance": 2,
-    "question_text": "Carl von Clausewitz once said, \"War is a diplomacy by other means.\" Critically analyse the above statement in the present context of contemporary geo-political conflict. (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747461600,
     "cite": "U4",
-    "q_number": "Q2.a",
+    "last_updated": 1747461600,
+    "is_structured": 1,
+    "question_text": "Carl von Clausewitz once said, \"War is a diplomacy by other means.\" Critically analyse the above statement in the present context of contemporary geo-political conflict. (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q2.b",
     "marks": 10,
     "importance": 2,
-    "question_text": "Keeping the national security in mind, examine the ethical dilemmas related to controversies over environmental clearance of development projects in ecologically sensitive border areas in the country. (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747461600,
     "cite": "U4",
-    "q_number": "Q2.b",
+    "last_updated": 1747461600,
+    "is_structured": 1,
+    "question_text": "Keeping the national security in mind, examine the ethical dilemmas related to controversies over environmental clearance of development projects in ecologically sensitive border areas in the country. (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q3.a",
     "marks": 10,
     "importance": 2,
-    "question_text": "\"Those who in trouble untroubled are, Will trouble trouble itself.\" - Thiruvalluvar (Answer in 150 words)",
-    "is_structured": 1,
-    "last_updated": 1747461600,
     "cite": "U4",
-    "q_number": "Q3.a",
+    "last_updated": 1747461600,
+    "is_structured": 1,
+    "question_text": "\"Those who in trouble untroubled are, Will trouble trouble itself.\" - Thiruvalluvar (Answer in 150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q3.b",
     "marks": 10,
     "importance": 2,
-    "question_text": "\"The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.\" - William James (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747465200,
     "cite": "U4",
-    "q_number": "Q3.b",
+    "last_updated": 1747465200,
+    "is_structured": 1,
+    "question_text": "\"The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.\" - William James (150 words)",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q3.c",
     "marks": 10,
     "importance": 2,
-    "question_text": "\"The strength of a society is not in its laws, but in the morality of its people.\" - Swami Vivekananda (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747465200,
     "cite": "U4",
-    "q_number": "Q3.c",
+    "last_updated": 1747465200,
+    "is_structured": 1,
+    "question_text": "\"The strength of a society is not in its laws, but in the morality of its people.\" - Swami Vivekananda (150 words)",
+    "subjectId": "thinkers",
+    "subjects": [
+      "Thinkers"
+    ],
+    "topic": "Thinkers",
+    "topics": [
+      "Thinkers"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q4.a",
     "marks": 10,
     "importance": 2,
-    "question_text": "\"For any kind of social re-engineering by successfully implementing welfare schemes, a civil servant must use reason and critical thinking in an ethical framework.\" Justify this statement with suitable examples. (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747465200,
     "cite": "U4",
-    "q_number": "Q4.a",
+    "last_updated": 1747465200,
+    "is_structured": 1,
+    "question_text": "\"For any kind of social re-engineering by successfully implementing welfare schemes, a civil servant must use reason and critical thinking in an ethical framework.\" Justify this statement with suitable examples. (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q4.b",
     "marks": 10,
     "importance": 2,
-    "question_text": "What are the major teachings of Mahavir? Explain their relevance in the contemporary world. (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747465200,
     "cite": "U4",
-    "q_number": "Q4.b",
+    "last_updated": 1747465200,
+    "is_structured": 1,
+    "question_text": "What are the major teachings of Mahavir? Explain their relevance in the contemporary world. (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -374,14 +446,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q5.a",
     "marks": 10,
     "importance": 2,
-    "question_text": "\"One who is devoted to one's duty attains highest perfection in life.\" Analyse this statement with reference to sense of responsibility and personal fulfilment as a civil servant. (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747465200,
     "cite": "U4",
-    "q_number": "Q5.a",
+    "last_updated": 1747465200,
+    "is_structured": 1,
+    "question_text": "\"One who is devoted to one's duty attains highest perfection in life.\" Analyse this statement with reference to sense of responsibility and personal fulfilment as a civil servant. (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -415,14 +495,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q5.b",
     "marks": 10,
     "importance": 2,
-    "question_text": "To achieve holistic development goal, a civil servant acts as an enabler and active facilitator of growth rather than a regulator. What specific measures will you suggest to achieve this goal? (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747468800,
     "cite": "U4",
-    "q_number": "Q5.b",
+    "last_updated": 1747468800,
+    "is_structured": 1,
+    "question_text": "To achieve holistic development goal, a civil servant acts as an enabler and active facilitator of growth rather than a regulator. What specific measures will you suggest to achieve this goal? (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -456,14 +544,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q6.a",
     "marks": 10,
     "importance": 2,
-    "question_text": "It is said that for an ethical work culture, there must be code of ethics in place in every organisation. To ensure value-based and compliance-based work culture, what suitable measures would you adopt in your work place ? (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747468800,
     "cite": "U4",
-    "q_number": "Q6.a",
+    "last_updated": 1747468800,
+    "is_structured": 1,
+    "question_text": "It is said that for an ethical work culture, there must be code of ethics in place in every organisation. To ensure value-based and compliance-based work culture, what suitable measures would you adopt in your work place ? (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -497,14 +593,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q6.b",
     "marks": 10,
     "importance": 3,
-    "question_text": "India is an emerging economic power of the world as it has recently secured the status of fourth largest economy of the world as per IMF projection. However, it has been observed that in some sectors, allocated funds remain either under-utilised or misutilised. What specific measures would you recommend for ensuring accountability in this regard to stop leakages and gaining the status of third largest economy of the world in near future? (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747468800,
     "cite": "U4",
-    "q_number": "Q6.b",
+    "last_updated": 1747468800,
+    "is_structured": 1,
+    "question_text": "India is an emerging economic power of the world as it has recently secured the status of fourth largest economy of the world as per IMF projection. However, it has been observed that in some sectors, allocated funds remain either under-utilised or misutilised. What specific measures would you recommend for ensuring accountability in this regard to stop leakages and gaining the status of third largest economy of the world in near future? (150 words)",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -538,14 +642,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 7,
     "marks": 20,
     "importance": 3,
-    "question_text": "Vijay was Deputy Commissioner of remote district of Hilly Northern State... (Full Case Study on disaster vs. personal loss)... (a) What are the options available with Vijay? (b) What are the ethical dilemma being faced by Vijay? (c) Critically evaluate and examine each of these options identified by Vijay. (d) Which of the options, do you think, would be most appropriate for Vijay to adopt and why? (250 words)",
-    "is_structured": 0,
-    "last_updated": 1747472400,
     "cite": "U4",
-    "q_number": 7,
+    "last_updated": 1747472400,
+    "is_structured": 0,
+    "question_text": "Vijay was Deputy Commissioner of remote district of Hilly Northern State... (Full Case Study on disaster vs. personal loss)... (a) What are the options available with Vijay? (b) What are the ethical dilemma being faced by Vijay? (c) Critically evaluate and examine each of these options identified by Vijay. (d) Which of the options, do you think, would be most appropriate for Vijay to adopt and why? (250 words)",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "General",
@@ -579,14 +691,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 8,
     "marks": 20,
     "importance": 3,
-    "question_text": "In line with the Directive Principles of State Policy... (Full Case Study on housing for homeless vs. ecologically sensitive forest zone)... (a) Can deforestation be ethically justified in the pursuit of social welfare objectives like, housing for the homeless ? (b) What are the socio-economic, administrative and ethical challenges in balancing environmental conservation with human development ? (c) What substantial alternatives or policy interventions can be proposed to ensure that both environmental integrity and human dignity are protected ? (250 words)",
-    "is_structured": 0,
-    "last_updated": 1747476000,
     "cite": "U4",
-    "q_number": 8,
+    "last_updated": 1747476000,
+    "is_structured": 0,
+    "question_text": "In line with the Directive Principles of State Policy... (Full Case Study on housing for homeless vs. ecologically sensitive forest zone)... (a) Can deforestation be ethically justified in the pursuit of social welfare objectives like, housing for the homeless ? (b) What are the socio-economic, administrative and ethical challenges in balancing environmental conservation with human development ? (c) What substantial alternatives or policy interventions can be proposed to ensure that both environmental integrity and human dignity are protected ? (250 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "General",
@@ -614,14 +734,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 9,
     "marks": 20,
     "importance": 3,
-    "question_text": "Subash is Secretary, PWD... (Full Case Study on conflict of interest/insider information for son and Minister's nephew)... (a) Discuss the ethical issues involved in the case. (b) Critically examine the options available to Subash in the above situation. (c) Which of the above would be most appropriate and why? (250 words)",
-    "is_structured": 0,
-    "last_updated": 1747476000,
     "cite": "U4",
-    "q_number": 9,
+    "last_updated": 1747476000,
+    "is_structured": 0,
+    "question_text": "Subash is Secretary, PWD... (Full Case Study on conflict of interest/insider information for son and Minister's nephew)... (a) Discuss the ethical issues involved in the case. (b) Critically examine the options available to Subash in the above situation. (c) Which of the above would be most appropriate and why? (250 words)",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "General",
@@ -649,14 +777,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 10,
     "marks": 20,
     "importance": 3,
-    "question_text": "Rajesh is a Group A officer... (Full Case Study on procurement/GFR rules vs. boss's pressure and promotion)... (a) What are the options available with Rajesh in the above situation? (b) What are the ethical issues involved in this case ? (c) Which would be the most appropriate option for Rajesh and why? (250 words)",
-    "is_structured": 0,
-    "last_updated": 1747476000,
     "cite": "U4",
-    "q_number": 10,
+    "last_updated": 1747476000,
+    "is_structured": 0,
+    "question_text": "Rajesh is a Group A officer... (Full Case Study on procurement/GFR rules vs. boss's pressure and promotion)... (a) What are the options available with Rajesh in the above situation? (b) What are the ethical issues involved in this case ? (c) Which would be the most appropriate option for Rajesh and why? (250 words)",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "General",
@@ -672,9 +808,15 @@
       },
       {
         "section": "General",
-        "text": "(c) Most Appropriate: Rajesh should choose Option 2. He must process the procurement as a single 35-lakh order according to GFR. He should politely point out the GFR limit to his boss. If the boss insists on a specific vendor, Rajesh must ensure a transparent bidding process (GeM portal) to protect himself from future audit objections and maintain his integrity.",
-        "order": 3,
-        "cite": "U4"
+        "text": "(c) Most Appropriate: Rajesh should choose Option 2. He must process the procurement as a single 35-lakh order according to GFR. He should politely point out the GFR.",
+        "cite": "U4",
+        "order": 3
+      },
+      {
+        "section": "General",
+        "text": "limit to his boss. If the boss insists on a specific vendor, Rajesh must ensure a transparent bidding process (GeM portal) to protect himself from future audit objections and maintain his integrity.",
+        "cite": "U4",
+        "order": 4
       }
     ]
   },
@@ -684,14 +826,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 11,
     "marks": 20,
     "importance": 3,
-    "question_text": "You have been appointed as an Administrator... (Full Case Study on MGNREGA mismanagement/siphoning of funds by predecessor)... (a) What is your reaction to the above situation and how do you restore the proper functioning of MGNREGA Program in this regard? (b) What actions would you initiate to solve the various issues listed above? (c) How would you deal with the above situation ? (250 words)",
-    "is_structured": 0,
-    "last_updated": 1747476000,
     "cite": "U4",
-    "q_number": 11,
+    "last_updated": 1747476000,
+    "is_structured": 0,
+    "question_text": "You have been appointed as an Administrator... (Full Case Study on MGNREGA mismanagement/siphoning of funds by predecessor)... (a) What is your reaction to the above situation and how do you restore the proper functioning of MGNREGA Program in this regard? (b) What actions would you initiate to solve the various issues listed above? (c) How would you deal with the above situation ? (250 words)",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "General",
@@ -719,14 +869,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 12,
     "marks": 20,
     "importance": 3,
-    "question_text": "Ashok is Divisional Commissioner of one of the border districts... (Full Case Study on border crisis/refugees/soldiers)... (a) What are the options available with Ashok to cope with the situation? (b) What are the ethical and legal dilemmas being faced by Ashok ? (c) Which of the options, do you think would be more appropriate for Ashok to adopt and why? (d) In the present situation, what are the extra precautionary measures to be taken by the Border Guarding Police in dealing with soldiers in uniform? (250 words)",
-    "is_structured": 0,
-    "last_updated": 1747472400,
     "cite": "U4",
-    "q_number": 12,
+    "last_updated": 1747472400,
+    "is_structured": 0,
+    "question_text": "Ashok is Divisional Commissioner of one of the border districts... (Full Case Study on border crisis/refugees/soldiers)... (a) What are the options available with Ashok to cope with the situation? (b) What are the ethical and legal dilemmas being faced by Ashok ? (c) Which of the options, do you think would be more appropriate for Ashok to adopt and why? (d) In the present situation, what are the extra precautionary measures to be taken by the Border Guarding Police in dealing with soldiers in uniform? (250 words)",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "General",

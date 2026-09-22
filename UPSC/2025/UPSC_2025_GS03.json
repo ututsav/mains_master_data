@@ -5,14 +5,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 1,
     "marks": 10,
     "importance": 3,
-    "question_text": "Distinguish between the Human Development Index (HDI) and the Inequality-adjusted Human Development Index (IHDI) with special reference to India. Why is the IHDI considered a better indicator of inclusive growth? (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747454400,
     "cite": "U3",
-    "q_number": 1,
+    "last_updated": 1747454400,
+    "is_structured": 1,
+    "question_text": "Distinguish between the Human Development Index (HDI) and the Inequality-adjusted Human Development Index (IHDI) with special reference to India. Why is the IHDI considered a better indicator of inclusive growth? (150 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 2,
     "marks": 10,
     "importance": 2,
-    "question_text": "What are the challenges before the Indian economy when the world is moving away from free trade and multilateralism to protectionism and bilateralism? How can these challenges be met? (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747454400,
     "cite": "U3",
-    "q_number": 2,
+    "last_updated": 1747454400,
+    "is_structured": 1,
+    "question_text": "What are the challenges before the Indian economy when the world is moving away from free trade and multilateralism to protectionism and bilateralism? How can these challenges be met? (150 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 3,
     "marks": 10,
     "importance": 2,
-    "question_text": "Explain the factors influencing the decision of the farmers on the selection of high value crops in India. (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747454400,
     "cite": "U3",
-    "q_number": 3,
+    "last_updated": 1747454400,
+    "is_structured": 1,
+    "question_text": "Explain the factors influencing the decision of the farmers on the selection of high value crops in India. (150 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -128,14 +152,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 4,
     "marks": 10,
     "importance": 3,
-    "question_text": "Elaborate the scope and significance of supply chain management of agricultural commodities in India. (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747454400,
     "cite": "U3",
-    "q_number": 4,
+    "last_updated": 1747454400,
+    "is_structured": 1,
+    "question_text": "Elaborate the scope and significance of supply chain management of agricultural commodities in India. (150 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -169,14 +201,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 5,
     "marks": 10,
     "importance": 2,
-    "question_text": "The fusion energy programme in India has steadily evolved over the past few decades. Mention India's contributions to the international fusion energy project International Thermonuclear Experimental Reactor (ITER). What will be the implications of the success of this project for the future of global energy? (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747454400,
     "cite": "U3",
-    "q_number": 5,
+    "last_updated": 1747454400,
+    "is_structured": 1,
+    "question_text": "The fusion energy programme in India has steadily evolved over the past few decades. Mention India's contributions to the international fusion energy project International Thermonuclear Experimental Reactor (ITER). What will be the implications of the success of this project for the future of global energy? (150 words)",
+    "subjectId": "essay-world",
+    "subjects": [
+      "Essay — World & Environment"
+    ],
+    "topic": "Essay — World",
+    "topics": [
+      "Essay — World"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -210,14 +250,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 6,
     "marks": 10,
     "importance": 2,
-    "question_text": "How can India achieve energy independence through clean technology by 2047? How can biotechnology can play a crucial role in this endeavour ? (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747454400,
     "cite": "U3",
-    "q_number": 6,
+    "last_updated": 1747454400,
+    "is_structured": 1,
+    "question_text": "How can India achieve energy independence through clean technology by 2047? How can biotechnology can play a crucial role in this endeavour ? (150 words)",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -251,14 +299,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 7,
     "marks": 10,
     "importance": 2,
-    "question_text": "What is Carbon Capture, Utilization and Storage (CCUS)? What is the potential role of CCUS in tackling climate change? (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747454400,
     "cite": "U3",
-    "q_number": 7,
+    "last_updated": 1747454400,
+    "is_structured": 1,
+    "question_text": "What is Carbon Capture, Utilization and Storage (CCUS)? What is the potential role of CCUS in tackling climate change? (150 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -292,14 +348,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 8,
     "marks": 10,
     "importance": 2,
-    "question_text": "Seawater intrusion in the coastal aquifers is a major concern in India. What are the causes of seawater intrusion and the remedial measures to combat this hazard? (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747454400,
     "cite": "U3",
-    "q_number": 8,
+    "last_updated": 1747454400,
+    "is_structured": 1,
+    "question_text": "Seawater intrusion in the coastal aquifers is a major concern in India. What are the causes of seawater intrusion and the remedial measures to combat this hazard? (150 words)",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "Essay — Society",
+    "topics": [
+      "Essay — Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,14 +397,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 9,
     "marks": 10,
     "importance": 3,
-    "question_text": "Terrorism is a global scourge. How has it manifested in India? Elaborate with contemporary examples. What are the counter measures adopted by the State? Explain. (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747454400,
     "cite": "U3",
-    "q_number": 9,
+    "last_updated": 1747454400,
+    "is_structured": 1,
+    "question_text": "Terrorism is a global scourge. How has it manifested in India? Elaborate with contemporary examples. What are the counter measures adopted by the State? Explain. (150 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -374,14 +446,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 10,
     "marks": 10,
     "importance": 3,
-    "question_text": "The Government of India recently stated that Left Wing Extremism (LWE) will be eliminated by 2026. What do you understand by LWE and how are the people affected by it? What measures have been taken by the government to eliminate LWE? (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747454400,
     "cite": "U3",
-    "q_number": 10,
+    "last_updated": 1747454400,
+    "is_structured": 1,
+    "question_text": "The Government of India recently stated that Left Wing Extremism (LWE) will be eliminated by 2026. What do you understand by LWE and how are the people affected by it? What measures have been taken by the government to eliminate LWE? (150 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -415,14 +495,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 11,
     "marks": 15,
     "importance": 2,
-    "question_text": "Explain how the Fiscal Health Index (FHI) can be used as a tool for assessing the fiscal performance of states in India. In what way would it encourage the states to adopt prudent and sustainable fiscal policies ? (250 words)",
-    "is_structured": 1,
-    "last_updated": 1747458000,
     "cite": "U3",
-    "q_number": 11,
+    "last_updated": 1747458000,
+    "is_structured": 1,
+    "question_text": "Explain how the Fiscal Health Index (FHI) can be used as a tool for assessing the fiscal performance of states in India. In what way would it encourage the states to adopt prudent and sustainable fiscal policies ? (250 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -456,14 +544,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 12,
     "marks": 15,
     "importance": 3,
-    "question_text": "Discuss the rationale of the Production Linked Incentive (PLI) scheme. What are its achievements? In what way can the functioning and outcomes of the scheme be improved? (250 words)",
-    "is_structured": 1,
-    "last_updated": 1747458000,
     "cite": "U3",
-    "q_number": 12,
+    "last_updated": 1747458000,
+    "is_structured": 1,
+    "question_text": "Discuss the rationale of the Production Linked Incentive (PLI) scheme. What are its achievements? In what way can the functioning and outcomes of the scheme be improved? (250 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -497,14 +593,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 13,
     "marks": 15,
     "importance": 2,
-    "question_text": "Examine the factors responsible for depleting groundwater in India. What are the steps taken by the government to mitigate such depletion of groundwater? (250 words)",
-    "is_structured": 1,
-    "last_updated": 1747458000,
     "cite": "U3",
-    "q_number": 13,
+    "last_updated": 1747458000,
+    "is_structured": 1,
+    "question_text": "Examine the factors responsible for depleting groundwater in India. What are the steps taken by the government to mitigate such depletion of groundwater? (250 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -538,14 +642,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 14,
     "marks": 15,
     "importance": 2,
-    "question_text": "Examine the scope of the food processing industries in India. Elaborate the measures taken by the government in the food processing industries for generating employment opportunities. (250 words)",
-    "is_structured": 1,
-    "last_updated": 1747458000,
     "cite": "U3",
-    "q_number": 14,
+    "last_updated": 1747458000,
+    "is_structured": 1,
+    "question_text": "Examine the scope of the food processing industries in India. Elaborate the measures taken by the government in the food processing industries for generating employment opportunities. (250 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -579,14 +691,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 15,
     "marks": 15,
     "importance": 2,
-    "question_text": "How does nanotechnology offer significant advancements in the field of agriculture? How can this technology help to uplift the socio-economic status of farmers? (250 words)",
-    "is_structured": 1,
-    "last_updated": 1747458000,
     "cite": "U3",
-    "q_number": 15,
+    "last_updated": 1747458000,
+    "is_structured": 1,
+    "question_text": "How does nanotechnology offer significant advancements in the field of agriculture? How can this technology help to uplift the socio-economic status of farmers? (250 words)",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -620,14 +740,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 16,
     "marks": 15,
     "importance": 3,
-    "question_text": "India aims to become a semiconductor manufacturing hub. What are the challenges faced by the semiconductor industry in India? Mention the salient features of the India Semiconductor Mission. (250 words)",
-    "is_structured": 1,
-    "last_updated": 1747458000,
     "cite": "U3",
-    "q_number": 16,
+    "last_updated": 1747458000,
+    "is_structured": 1,
+    "question_text": "India aims to become a semiconductor manufacturing hub. What are the challenges faced by the semiconductor industry in India? Mention the salient features of the India Semiconductor Mission. (250 words)",
+    "subjectId": "ancient",
+    "subjects": [
+      "Ancient & Medieval"
+    ],
+    "topic": "Ancient History",
+    "topics": [
+      "Ancient History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -661,14 +789,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 17,
     "marks": 15,
     "importance": 2,
-    "question_text": "Mineral resources are fundamental to the country's economy and these are exploited by mining. Why is mining considered an environmental hazard ? Explain the remedial measures required to reduce the environmental hazard due to mining. (250 words)",
-    "is_structured": 1,
-    "last_updated": 1747458000,
     "cite": "U3",
-    "q_number": 17,
+    "last_updated": 1747458000,
+    "is_structured": 1,
+    "question_text": "Mineral resources are fundamental to the country's economy and these are exploited by mining. Why is mining considered an environmental hazard ? Explain the remedial measures required to reduce the environmental hazard due to mining. (250 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -702,14 +838,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 18,
     "marks": 15,
     "importance": 3,
-    "question_text": "Write a review on India's climate commitments under the Paris Agreement (2015) and mention how these have been further strengthened in COP26 (2021). In this direction, how has the first Nationally Determined Contribution intended by India been updated in 2022? (250 words)",
-    "is_structured": 1,
-    "last_updated": 1747458000,
     "cite": "U3",
-    "q_number": 18,
+    "last_updated": 1747458000,
+    "is_structured": 1,
+    "question_text": "Write a review on India's climate commitments under the Paris Agreement (2015) and mention how these have been further strengthened in COP26 (2021). In this direction, how has the first Nationally Determined Contribution intended by India been updated in 2022? (250 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -743,14 +887,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 19,
     "marks": 15,
     "importance": 3,
-    "question_text": "What are the major challenges to internal security and peace process in the North-Eastern States? Map the various peace accords and agreements initiated by the government in the past decade. (250 words)",
-    "is_structured": 1,
-    "last_updated": 1747458000,
     "cite": "U3",
-    "q_number": 19,
+    "last_updated": 1747458000,
+    "is_structured": 1,
+    "question_text": "What are the major challenges to internal security and peace process in the North-Eastern States? Map the various peace accords and agreements initiated by the government in the past decade. (250 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -784,14 +936,22 @@
     "year": 2025,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": 20,
     "marks": 15,
     "importance": 3,
-    "question_text": "Why is maritime security vital to protect India's sea trade? Discuss maritime and coastal security challenges and the way forward. (250 words)",
-    "is_structured": 1,
-    "last_updated": 1747458000,
     "cite": "U3",
-    "q_number": 20,
+    "last_updated": 1747458000,
+    "is_structured": 1,
+    "question_text": "Why is maritime security vital to protect India's sea trade? Discuss maritime and coastal security challenges and the way forward. (250 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

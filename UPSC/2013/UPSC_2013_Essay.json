@@ -5,14 +5,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q1",
     "marks": 250,
     "importance": 3,
-    "question_text": "Be the change you want to see in others - Gandhiji.",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q1",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Be the change you want to see in others - Gandhiji.",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -64,14 +72,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q2",
     "marks": 250,
     "importance": 3,
-    "question_text": "Is the Colonial mentality hindering India's success?",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q2",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Is the Colonial mentality hindering India's success?",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -123,14 +139,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q3",
     "marks": 250,
     "importance": 3,
-    "question_text": "GDP (Gross Domestic Product) along with GDH (Gross Domestic Happiness) would be the right indices for judging the well-being of a country.",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "GDP (Gross Domestic Product) along with GDH (Gross Domestic Happiness) would be the right indices for judging the well-being of a country.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -182,14 +206,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q4",
     "marks": 250,
     "importance": 3,
-    "question_text": "Science and Technology is the panacea for the growth and security of the nation.",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q4",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Science and Technology is the panacea for the growth and security of the nation.",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

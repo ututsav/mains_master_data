@@ -5,14 +5,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q1",
     "marks": 10,
     "importance": 2,
-    "question_text": "The role of individual MPs (Members of Parliament) has diminished over the years and as a result healthy constructive debates on policy issues are not usually witnessed. How far can this be attributed to the anti-defection law which was legislated but with a different intention? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q1",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The role of individual MPs (Members of Parliament) has diminished over the years and as a result healthy constructive debates on policy issues are not usually witnessed. How far can this be attributed to the anti-defection law which was legislated but with a different intention? (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -52,14 +60,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q2",
     "marks": 10,
     "importance": 2,
-    "question_text": "Discuss Section 66A of IT Act, with reference to its alleged violation of Article 19 of the Constitution. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q2",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Discuss Section 66A of IT Act, with reference to its alleged violation of Article 19 of the Constitution. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -99,14 +115,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q3",
     "marks": 10,
     "importance": 2,
-    "question_text": "Recent directives from Ministry of Petroleum and Natural Gas are perceived by the 'Nagas' as a threat to override the exceptional status enjoyed by the State. Discuss in light of Article 371A of the Indian Constitution. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Recent directives from Ministry of Petroleum and Natural Gas are perceived by the 'Nagas' as a threat to override the exceptional status enjoyed by the State. Discuss in light of Article 371A of the Indian Constitution. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -152,14 +176,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q4",
     "marks": 10,
     "importance": 2,
-    "question_text": "The Supreme Court of India keeps a check on arbitrary power of the Parliament in amending the Constitution. Discuss critically. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q4",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The Supreme Court of India keeps a check on arbitrary power of the Parliament in amending the Constitution. Discuss critically. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -205,14 +237,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q5",
     "marks": 10,
     "importance": 2,
-    "question_text": "Many State Governments further bifurcate geographical administrative areas like Districts and Talukas for better governance. In light of the above, can it also be justified that more number of smaller States would bring in effective governance at State level ? Discuss. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q5",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Many State Governments further bifurcate geographical administrative areas like Districts and Talukas for better governance. In light of the above, can it also be justified that more number of smaller States would bring in effective governance at State level ? Discuss. (200 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -246,14 +286,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q6",
     "marks": 10,
     "importance": 2,
-    "question_text": "Constitutional mechanisms to resolve the inter-state water disputes have failed to address and solve the problems. Is the failure due to structural or process inadequacy or both ? Discuss. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q6",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Constitutional mechanisms to resolve the inter-state water disputes have failed to address and solve the problems. Is the failure due to structural or process inadequacy or both ? Discuss. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -287,14 +335,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q7",
     "marks": 10,
     "importance": 2,
-    "question_text": "Discuss the recommendations of the 13th Finance Commission which have been a departure from the previous commissions for strengthening the local government finances. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q7",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Discuss the recommendations of the 13th Finance Commission which have been a departure from the previous commissions for strengthening the local government finances. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -328,14 +384,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q8",
     "marks": 10,
     "importance": 2,
-    "question_text": "The product diversification of financial institutions and insurance companies, resulting in overlapping of products and services strengthens the case for the merger of the two regulatory agencies, namely SEBI and IRDA. Justify. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q8",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The product diversification of financial institutions and insurance companies, resulting in overlapping of products and services strengthens the case for the merger of the two regulatory agencies, namely SEBI and IRDA. Justify. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -369,14 +433,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q9",
     "marks": 10,
     "importance": 2,
-    "question_text": "The concept of Mid Day Meal (MDM) scheme is almost a century old in India with early beginnings in Madras Presidency in pre-independent India. The scheme has again been given impetus in most states in the last two decades. Critically examine its twin objectives, latest mandates and success. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q9",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The concept of Mid Day Meal (MDM) scheme is almost a century old in India with early beginnings in Madras Presidency in pre-independent India. The scheme has again been given impetus in most states in the last two decades. Critically examine its twin objectives, latest mandates and success. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -416,14 +488,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q10",
     "marks": 10,
     "importance": 2,
-    "question_text": "Pressure group politics is sometimes seen as the informal face of politics. With regards to the above, assess the structure and functioning of pressure groups in India. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q10",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Pressure group politics is sometimes seen as the informal face of politics. With regards to the above, assess the structure and functioning of pressure groups in India. (200 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -463,14 +543,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q11",
     "marks": 10,
     "importance": 2,
-    "question_text": "The legitimacy and accountability of Self Help Groups (SHGs) and their patrons, the micro-finance outfits, need systematic assessment and scrutiny for the sustained success of the concept. Discuss. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q11",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The legitimacy and accountability of Self Help Groups (SHGs) and their patrons, the micro-finance outfits, need systematic assessment and scrutiny for the sustained success of the concept. Discuss. (200 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -510,14 +598,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q12",
     "marks": 10,
     "importance": 2,
-    "question_text": "The Central Government frequently complains on the poor performance of the State Governments in eradicating suffering of the vulnerable sections of the society. Restructuring of Centrally sponsored schemes across the sectors for ameliorating the cause of vulnerable sections of population aims at providing flexibility to the States in better implementation. Critically evaluate. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q12",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The Central Government frequently complains on the poor performance of the State Governments in eradicating suffering of the vulnerable sections of the society. Restructuring of Centrally sponsored schemes across the sectors for ameliorating the cause of vulnerable sections of population aims at providing flexibility to the States in better implementation. Critically evaluate. (200 words)",
+    "subjectId": "justice",
+    "subjects": [
+      "Social Justice"
+    ],
+    "topic": "Social Justice",
+    "topics": [
+      "Social Justice"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -551,14 +647,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q13",
     "marks": 10,
     "importance": 2,
-    "question_text": "Electronic cash transfer system for the welfare schemes is an ambitious project to minimize corruption, eliminate wastage and facilitate reforms. Comment. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q13",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Electronic cash transfer system for the welfare schemes is an ambitious project to minimize corruption, eliminate wastage and facilitate reforms. Comment. (200 words)",
+    "subjectId": "justice",
+    "subjects": [
+      "Social Justice"
+    ],
+    "topic": "Social Justice",
+    "topics": [
+      "Social Justice"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -598,14 +702,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q14",
     "marks": 10,
     "importance": 2,
-    "question_text": "The basis of providing urban amenities in rural areas (PURA) is rooted in establishing connectivity. Comment. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q14",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The basis of providing urban amenities in rural areas (PURA) is rooted in establishing connectivity. Comment. (200 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -640,66 +752,82 @@
     ]
   },
   {
-  "uid": "UPSC_2013_GSP2_15",
-  "paper_title": "GS Paper 2",
-  "year": 2013,
-  "exam": "UPSC",
-  "origin": "PYQ",
-  "vault_path": null,
-  "marks": 10,
-  "importance": 2,
-  "question_text": "Identify the Millennium Development Goals (MDGs) that are related to health. Discuss the success of the actions taken by the Government for achieving the same. (200 words)",
-  "is_structured": 0,
-  "last_updated": 1747488000,
-  "cite": "U13",
-  "q_number": "Q15",
-  "points": [
-    {
-      "section": "General",
-      "text": "Health-related Millennium Development Goals (MDGs): Goal 4 – Reduce child mortality; Goal 5 – Improve maternal health; Goal 6 – Combat HIV/AIDS, malaria and other diseases",
-      "order": 1,
-      "cite": "U13"
-    },
-    {
-      "section": "General",
-      "text": "Government actions: National Rural Health Mission (NRHM, now NHM), Janani Suraksha Yojana (JSY) for institutional deliveries, Janani Shishu Suraksha Karyakram (JSSK), Rashtriya Bal Swasthya Karyakram (RBSK), National AIDS Control Programme (NACP), Revised National Tuberculosis Control Programme (RNTCP), National Vector Borne Disease Control Programme (NVBDCP)",
-      "order": 2,
-      "cite": "U13"
-    },
-    {
-      "section": "General",
-      "text": "Success indicators: Maternal Mortality Ratio (MMR) reduced from 398 (1997-98) to 167 (2011-13); Infant Mortality Rate (IMR) from 66 to 40; Under-5 mortality declined; TB incidence and mortality reduced; Malaria deaths decreased significantly",
-      "order": 3,
-      "cite": "U13"
-    },
-    {
-      "section": "General",
-      "text": "Shortfalls: MDG 5 target (MMR 109) missed; malnutrition remained high (stunting, wasting); regional disparities persisted (UP, Bihar, MP lagged); HIV targets partially met",
-      "order": 4,
-      "cite": "U13"
-    },
-    {
-      "section": "General",
-      "text": "Key takeaways: Significant progress but uneven; lessons inform SDG 3 (Good Health and Well-being) targets; need focus on quality, equity, and social determinants",
-      "order": 5,
-      "cite": "U13"
-    }
-  ]
-},
+    "uid": "UPSC_2013_GSP2_15",
+    "paper_title": "GS Paper 2",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q15",
+    "marks": 10,
+    "importance": 2,
+    "cite": "U13",
+    "last_updated": 1747488000,
+    "is_structured": 0,
+    "question_text": "Identify the Millennium Development Goals (MDGs) that are related to health. Discuss the success of the actions taken by the Government for achieving the same. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "General",
+        "text": "Health-related Millennium Development Goals (MDGs): Goal 4 – Reduce child mortality; Goal 5 – Improve maternal health; Goal 6 – Combat HIV/AIDS, malaria and other diseases",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Government actions: National Rural Health Mission (NRHM, now NHM), Janani Suraksha Yojana (JSY) for institutional deliveries, Janani Shishu Suraksha Karyakram (JSSK), Rashtriya Bal Swasthya Karyakram (RBSK), National AIDS Control Programme (NACP), Revised National Tuberculosis Control Programme (RNTCP), National Vector Borne Disease Control Programme (NVBDCP)",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Success indicators: Maternal Mortality Ratio (MMR) reduced from 398 (1997-98) to 167 (2011-13); Infant Mortality Rate (IMR) from 66 to 40; Under-5 mortality declined; TB incidence and mortality reduced; Malaria deaths decreased significantly",
+        "order": 3,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Shortfalls: MDG 5 target (MMR 109) missed; malnutrition remained high (stunting, wasting); regional disparities persisted (UP, Bihar, MP lagged); HIV targets partially met",
+        "order": 4,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Key takeaways: Significant progress but uneven; lessons inform SDG 3 (Good Health and Well-being) targets; need focus on quality, equity, and social determinants",
+        "order": 5,
+        "cite": "U13"
+      }
+    ]
+  },
   {
     "uid": "UPSC_2013_GSP2_16",
     "paper_title": "GS Paper 2",
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q16",
     "marks": 10,
     "importance": 2,
-    "question_text": "Though Citizens' charters have been formulated by many public service delivery organizations, there is no corresponding improvement in the level of citizens' satisfaction and quality of services being provided. Analyse. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Though Citizens' charters have been formulated by many public service delivery organizations, there is no corresponding improvement in the level of citizens' satisfaction and quality of services being provided. Analyse. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -739,14 +867,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q17",
     "marks": 10,
     "importance": 2,
-    "question_text": "A national Lokpal, however strong it may be, cannot resolve the problems of immorality in public affairs. Discuss. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q17",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "A national Lokpal, however strong it may be, cannot resolve the problems of immorality in public affairs. Discuss. (200 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -786,14 +922,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q18",
     "marks": 10,
     "importance": 2,
-    "question_text": "The proposed withdrawal of International Security Assistance Force (ISAF) from Afghanistan in 2014 is fraught with major security implications for the countries of the region. Examine in light of the fact that India is faced with a plethora of challenges and needs to safeguard its own strategic interests. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q18",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The proposed withdrawal of International Security Assistance Force (ISAF) from Afghanistan in 2014 is fraught with major security implications for the countries of the region. Examine in light of the fact that India is faced with a plethora of challenges and needs to safeguard its own strategic interests. (200 words)",
+    "subjectId": "essay-world",
+    "subjects": [
+      "Essay — World & Environment"
+    ],
+    "topic": "Essay — World",
+    "topics": [
+      "Essay — World"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -833,14 +977,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q19",
     "marks": 10,
     "importance": 2,
-    "question_text": "What do you understand by 'The String of Pearls' ? How does it impact India ? Briefly outline the steps taken by India to counter this. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q19",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What do you understand by 'The String of Pearls' ? How does it impact India ? Briefly outline the steps taken by India to counter this. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -880,14 +1032,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q20",
     "marks": 10,
     "importance": 2,
-    "question_text": "Economic ties between India and Japan while growing in the recent years are still far below their potential. Elucidate the policy constraints which are inhibiting this growth. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q20",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Economic ties between India and Japan while growing in the recent years are still far below their potential. Elucidate the policy constraints which are inhibiting this growth. (200 words)",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -927,14 +1087,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q21",
     "marks": 10,
     "importance": 2,
-    "question_text": "The protests in Shahbag Square in Dhaka in Bangladesh reveal a fundamental split in society between the nationalists and Islamic forces. What is its significance for India ? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q21",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The protests in Shahbag Square in Dhaka in Bangladesh reveal a fundamental split in society between the nationalists and Islamic forces. What is its significance for India ? (200 words)",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "Essay — Society",
+    "topics": [
+      "Essay — Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -974,14 +1142,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q22",
     "marks": 10,
     "importance": 2,
-    "question_text": "Discuss the political developments in Maldives in the last two years. Should they be of any cause of concern to India ? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q22",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Discuss the political developments in Maldives in the last two years. Should they be of any cause of concern to India ? (200 words)",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -1021,14 +1197,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q23",
     "marks": 10,
     "importance": 2,
-    "question_text": "In respect of India – Sri Lanka relations, discuss how domestic factors influence foreign policy. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q23",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "In respect of India – Sri Lanka relations, discuss how domestic factors influence foreign policy. (200 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -1068,14 +1252,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q24",
     "marks": 10,
     "importance": 2,
-    "question_text": "What is meant by Gujral doctrine ? Does it have any relevance today ? Discuss. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q24",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What is meant by Gujral doctrine ? Does it have any relevance today ? Discuss. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -1115,14 +1307,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q25",
     "marks": 10,
     "importance": 2,
-    "question_text": "The World Bank and the IMF, collectively known as the Bretton Woods Institutions, are the two inter-governmental pillars supporting the structure of the world's economic and financial order. Superficially, the World Bank and the IMF exhibit many common characteristics, yet their role, functions and mandate are distinctly different. Elucidate. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q25",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The World Bank and the IMF, collectively known as the Bretton Woods Institutions, are the two inter-governmental pillars supporting the structure of the world's economic and financial order. Superficially, the World Bank and the IMF exhibit many common characteristics, yet their role, functions and mandate are distinctly different. Elucidate. (200 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

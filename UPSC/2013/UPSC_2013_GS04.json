@@ -5,14 +5,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q1",
     "marks": 10,
     "importance": 2,
-    "question_text": "What do you understand by 'values' and 'ethics'? In what way is it important to be ethical along with being professionally competent? (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q1",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What do you understand by 'values' and 'ethics'? In what way is it important to be ethical along with being professionally competent? (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q2",
     "marks": 25,
     "importance": 2,
-    "question_text": "(a) What do you understand by the following terms in the context of public service? (250 words)\n(i) Integrity\n(ii) Perseverance\n(iii) Spirit of service\n(iv) Commitment\n(v) Courage of conviction\n\n(b) Indicate two more attributes which you consider important for public service. Justify your answer. (100 words)",
-    "is_structured": 0,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q2",
+    "last_updated": 1747488000,
+    "is_structured": 0,
+    "question_text": "(a) What do you understand by the following terms in the context of public service? (250 words)\n(i) Integrity\n(ii) Perseverance\n(iii) Spirit of service\n(iv) Commitment\n(v) Courage of conviction\n\n(b) Indicate two more attributes which you consider important for public service. Justify your answer. (100 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "General",
@@ -99,14 +115,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q3",
     "marks": 10,
     "importance": 2,
-    "question_text": "Some people feel that values keep changing with time and situation, while others strongly believe that there are certain universal and eternal human values. Give your perception in this regard with due justification. (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Some people feel that values keep changing with time and situation, while others strongly believe that there are certain universal and eternal human values. Give your perception in this regard with due justification. (150 words)",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "Essay — Society",
+    "topics": [
+      "Essay — Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -140,14 +164,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q4",
     "marks": 10,
     "importance": 2,
-    "question_text": "What is 'emotional intelligence' and how can it be developed in people? How does it help an individual in taking ethical decisions? (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q4",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What is 'emotional intelligence' and how can it be developed in people? How does it help an individual in taking ethical decisions? (150 words)",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -181,14 +213,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q5",
     "marks": 20,
     "importance": 2,
-    "question_text": "(a) What do you understand by the term 'voice of conscience'? How do you prepare yourself to heed to the voice of conscience? (150 words)\n(b) What is meant by 'crisis of conscience'? Narrate one incident in your life when you were faced with such a crisis and how you resolved the same. (150 words)",
-    "is_structured": 0,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q5",
+    "last_updated": 1747488000,
+    "is_structured": 0,
+    "question_text": "(a) What do you understand by the term 'voice of conscience'? How do you prepare yourself to heed to the voice of conscience? (150 words)\n(b) What is meant by 'crisis of conscience'? Narrate one incident in your life when you were faced with such a crisis and how you resolved the same. (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "General",
@@ -222,14 +262,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q6",
     "marks": 30,
     "importance": 2,
-    "question_text": "Given below are three quotations of great moral thinkers/philosophers. For each of these quotations, bring out what it means to you in the present context:\n(a) \"There is enough on this earth for every one's need but for no one's greed.\" -Mahatma Gandhi (150 words)\n(b) \"Nearly all men can withstand adversity, but if you want to test a man's character, give him power.\" -Abraham Lincoln (150 words)\n(c) \"I count him braver who overcomes his desires than him who overcomes his enemies.\" - Aristotle (150 words)",
-    "is_structured": 0,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q6",
+    "last_updated": 1747488000,
+    "is_structured": 0,
+    "question_text": "Given below are three quotations of great moral thinkers/philosophers. For each of these quotations, bring out what it means to you in the present context:\n(a) \"There is enough on this earth for every one's need but for no one's greed.\" -Mahatma Gandhi (150 words)\n(b) \"Nearly all men can withstand adversity, but if you want to test a man's character, give him power.\" -Abraham Lincoln (150 words)\n(c) \"I count him braver who overcomes his desires than him who overcomes his enemies.\" - Aristotle (150 words)",
+    "subjectId": "thinkers",
+    "subjects": [
+      "Thinkers"
+    ],
+    "topic": "Thinkers",
+    "topics": [
+      "Thinkers"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "General",
@@ -257,14 +305,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q7",
     "marks": 10,
     "importance": 2,
-    "question_text": "\"The good of an individual is contained in the good of all.\" What do you understand by this statement? How can this principle be implemented in public life? (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q7",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "\"The good of an individual is contained in the good of all.\" What do you understand by this statement? How can this principle be implemented in public life? (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -298,14 +354,22 @@
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q8",
     "marks": 10,
     "importance": 2,
-    "question_text": "It is often said that 'politics' and 'ethics' do not go together. What is your opinion in this regard? Justify your answer with illustrations. (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q8",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "It is often said that 'politics' and 'ethics' do not go together. What is your opinion in this regard? Justify your answer with illustrations. (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -333,120 +397,156 @@
       }
     ]
   },
- {
-  "uid": "UPSC_2013_GSP4_09",
-  "paper_title": "GS Paper 4",
-  "year": 2013,
-  "exam": "UPSC",
-  "origin": "PYQ",
-  "vault_path": null,
-  "marks": 20,
-  "importance": 2,
-  "question_text": "A Public Information Officer has received an application under RTI Act... (full case study).\nThe following are some suggested options... Also indicate what you would like to advise, giving proper reasons. (250 words)",
-  "is_structured": 0,
-  "last_updated": 1747488000,
-  "cite": "U13",
-  "q_number": "Q9",
-  "points": [
-    {
-      "section": "General",
-      "text": "Option (i) – Refer to superior and follow advice.\nMerits: follows hierarchy, avoids personal risk.\nDemerits: abdicates own responsibility, may perpetuate wrong decision, violates RTI spirit (transparency), moral cowardice.",
-      "order": 1,
-      "cite": "U13"
-    },
-    {
-      "section": "General",
-      "text": "Option (ii) – Go on leave or transfer application.\nMerits: temporary escape, avoids immediate conflict.\nDemerits: unethical evasion of duty, misconduct under conduct rules, problem remains for successor, betrays public trust.",
-      "order": 2,
-      "cite": "U13"
-    },
-    {
-      "section": "General",
-      "text": "Option (iii) – Disclose partially to protect career.\nMerits: avoids worst consequences, expedient.\nDemerits: illegal (RTI requires full disclosure), undermines rule of law, sets wrong precedent, compromises integrity.",
-      "order": 3,
-      "cite": "U13"
-    },
-    {
-      "section": "General",
-      "text": "Option (iv) – Consult colleagues.\nMerits: collective responsibility, shared risk.\nDemerits: colleagues are party to wrong decision – potential cover-up, no guarantee of ethical advice, groupthink.",
-      "order": 4,
-      "cite": "U13"
-    },
-    {
-      "section": "General",
-      "text": "Suggested advice: Disclose fully as per RTI Act (Section 7).\nTake responsibility for past wrong decision but rectify by being transparent.\nFace disciplinary action if warranted.\nUse lawful remedies (appeal to CIC if pressured).\nUphold constitutional morality over career.\nReason: RTI is for transparency; nondisclosure perpetuates corruption and violates oath of office.",
-      "order": 5,
-      "cite": "U13"
-    }
-  ]
-},
   {
-  "uid": "UPSC_2013_GSP4_10",
-  "paper_title": "GS Paper 4",
-  "year": 2013,
-  "exam": "UPSC",
-  "origin": "PYQ",
-  "vault_path": null,
-  "marks": 20,
-  "importance": 2,
-  "question_text": "You are working as an Executive Engineer... (full case study on flyover safety).\nWhat will you do? Evaluate options and suggest course of action. (250 words)",
-  "is_structured": 0,
-  "last_updated": 1747488000,
-  "cite": "U13",
-  "q_number": "Q10",
-  "points": [
-    {
-      "section": "General",
-      "text": "Option (i) – Follow Chief Engineer's advice.\nMerits: obeys superior, avoids conflict, project completes on time.\nDemerits: compromises public safety, violation of engineering ethics, potential collapse risk, criminal negligence, personal liability.",
-      "order": 1,
-      "cite": "U13"
-    },
-    {
-      "section": "General",
-      "text": "Option (ii) – Make exhaustive report, seek written orders.\nMerits: documents dissent, shifts responsibility to superior, protects self in audit/inquiry.\nDemerits: may still cause delay, but written orders create evidence; safest ethical option.",
-      "order": 2,
-      "cite": "U13"
-    },
-    {
-      "section": "General",
-      "text": "Option (iii) – Call JE explanation, order contractor rectification.\nMerits: directly addresses safety issue.\nDemerits: overrides Chief Engineer, insubordination, contractor may refuse without CE approval.",
-      "order": 3,
-      "cite": "U13"
-    },
-    {
-      "section": "General",
-      "text": "Option (iv) – Escalate above Chief Engineer.\nMerits: bypasses corrupt/non-cooperative superior, alerts higher authorities.\nDemerits: risks career retaliation, may violate hierarchy norms.",
-      "order": 4,
-      "cite": "U13"
-    },
-    {
-      "section": "General",
-      "text": "Option (v) – Seek transfer or report sick.\nMerits: avoids dilemma.\nDemerits: abdication of duty, problem persists, unethical evasion.",
-      "order": 5,
-      "cite": "U13"
-    },
-    {
-      "section": "General",
-      "text": "Recommended: Option (ii)\n- Prepare detailed report with facts, photos, technical analysis.\n- Submit to Chief Engineer with request for written orders.\n- Simultaneously, record proceedings in file.\n- If written order to ignore, forward to next level with note of dissent.\n- Uphold public safety as paramount (engineering ethics code).",
-      "order": 6,
-      "cite": "U13"
-    }
-  ]
-},
+    "uid": "UPSC_2013_GSP4_09",
+    "paper_title": "GS Paper 4",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q9",
+    "marks": 20,
+    "importance": 2,
+    "cite": "U13",
+    "last_updated": 1747488000,
+    "is_structured": 0,
+    "question_text": "A Public Information Officer has received an application under RTI Act... (full case study).\nThe following are some suggested options... Also indicate what you would like to advise, giving proper reasons. (250 words)",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "General",
+        "text": "Option (i) – Refer to superior and follow advice.\nMerits: follows hierarchy, avoids personal risk.\nDemerits: abdicates own responsibility, may perpetuate wrong decision, violates RTI spirit (transparency), moral cowardice.",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Option (ii) – Go on leave or transfer application.\nMerits: temporary escape, avoids immediate conflict.\nDemerits: unethical evasion of duty, misconduct under conduct rules, problem remains for successor, betrays public trust.",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Option (iii) – Disclose partially to protect career.\nMerits: avoids worst consequences, expedient.\nDemerits: illegal (RTI requires full disclosure), undermines rule of law, sets wrong precedent, compromises integrity.",
+        "order": 3,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Option (iv) – Consult colleagues.\nMerits: collective responsibility, shared risk.\nDemerits: colleagues are party to wrong decision – potential cover-up, no guarantee of ethical advice, groupthink.",
+        "order": 4,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Suggested advice: Disclose fully as per RTI Act (Section 7). Take responsibility for past wrong decision but rectify by being transparent. Face disciplinary action if warranted. Use lawful remedies (appeal to CIC if pressured). Uphold constitutional morality over career.",
+        "cite": "U13",
+        "order": 5
+      },
+      {
+        "section": "General",
+        "text": "Reason: RTI is for transparency.",
+        "cite": "U13",
+        "order": 6
+      },
+      {
+        "section": "General",
+        "text": "nondisclosure perpetuates corruption and violates oath of office.",
+        "cite": "U13",
+        "order": 7
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP4_10",
+    "paper_title": "GS Paper 4",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q10",
+    "marks": 20,
+    "importance": 2,
+    "cite": "U13",
+    "last_updated": 1747488000,
+    "is_structured": 0,
+    "question_text": "You are working as an Executive Engineer... (full case study on flyover safety).\nWhat will you do? Evaluate options and suggest course of action. (250 words)",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "General",
+        "text": "Option (i) – Follow Chief Engineer's advice.\nMerits: obeys superior, avoids conflict, project completes on time.\nDemerits: compromises public safety, violation of engineering ethics, potential collapse risk, criminal negligence, personal liability.",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Option (ii) – Make exhaustive report, seek written orders.\nMerits: documents dissent, shifts responsibility to superior, protects self in audit/inquiry.\nDemerits: may still cause delay, but written orders create evidence; safest ethical option.",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Option (iii) – Call JE explanation, order contractor rectification.\nMerits: directly addresses safety issue.\nDemerits: overrides Chief Engineer, insubordination, contractor may refuse without CE approval.",
+        "order": 3,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Option (iv) – Escalate above Chief Engineer.\nMerits: bypasses corrupt/non-cooperative superior, alerts higher authorities.\nDemerits: risks career retaliation, may violate hierarchy norms.",
+        "order": 4,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Option (v) – Seek transfer or report sick.\nMerits: avoids dilemma.\nDemerits: abdication of duty, problem persists, unethical evasion.",
+        "order": 5,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Recommended: Option (ii)\n- Prepare detailed report with facts, photos, technical analysis.\n- Submit to Chief Engineer with request for written orders.\n- Simultaneously, record proceedings in file.\n- If written order to ignore, forward to next level with note of dissent.\n- Uphold public safety as paramount (engineering ethics code).",
+        "order": 6,
+        "cite": "U13"
+      }
+    ]
+  },
   {
     "uid": "UPSC_2013_GSP4_11",
     "paper_title": "GS Paper 4",
     "year": 2013,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q11",
     "marks": 25,
     "importance": 2,
-    "question_text": "Sivakasi firecracker cluster case study (child labour).\n(a) Bring out and discuss the ethical issues involved.\n(b) What would be your reaction after your above visit? (300 words)",
-    "is_structured": 0,
-    "last_updated": 1747488000,
     "cite": "U13",
-    "q_number": "Q11",
+    "last_updated": 1747488000,
+    "is_structured": 0,
+    "question_text": "Sivakasi firecracker cluster case study (child labour).\n(a) Bring out and discuss the ethical issues involved.\n(b) What would be your reaction after your above visit? (300 words)",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "General",
@@ -463,108 +563,132 @@
     ]
   },
   {
-  "uid": "UPSC_2013_GSP4_12",
-  "paper_title": "GS Paper 4",
-  "year": 2013,
-  "exam": "UPSC",
-  "origin": "PYQ",
-  "vault_path": null,
-  "marks": 20,
-  "importance": 2,
-  "question_text": "You are heading a leading technical institute... (case study on interview selection and funding).\n(a) What are the options available to you?\n(b) Evaluate each of these options and choose the option which you would adopt, giving reasons. (250 words)",
-  "is_structured": 0,
-  "last_updated": 1747488000,
-  "cite": "U13",
-  "q_number": "Q12",
-  "points": [
-    {
-      "section": "General",
-      "text": "Options available:\n(i) Succumb to pressure and favor the relative – unethical, illegal, compromises merit.\n(ii) Refuse outright and risk funding denial.\n(iii) Report the matter to anti-corruption body / higher authority.\n(iv) Proceed with fair selection but document the call for future reference.\n(v) Seek intervention of institute's Board of Governors or Ethics Committee.",
-      "order": 1,
-      "cite": "U13"
-    },
-    {
-      "section": "General",
-      "text": "Evaluation:\n(i) – gains funding but destroys institution's reputation, violates UGC norms, sets bad precedent, personal liability.\n(ii) – ethically correct but may harm institute's development.\n(iii) – exposes corruption but may burn bridges.\n(iv) – conducts fair interview but leaves threat alive.\n(v) – collective decision, shared responsibility.",
-      "order": 2,
-      "cite": "U13"
-    },
-    {
-      "section": "General",
-      "text": "Recommended: Option (v) combined with (iv).\n- Inform Board of Governors about the call without naming (to protect identity) and seek institutional protection.\n- Conduct selection strictly on merit with transparent evaluation criteria.\n- Record the call details confidentially.\n- If the relative is selected on merit, no issue; if not, reject.\n- Simultaneously, pursue funding through proper channels.\n- If funding denied, raise the matter officially through RTI/media as last resort.\n- Uphold institutional integrity over personal gain.",
-      "order": 3,
-      "cite": "U13"
-    }
-  ]
-},
+    "uid": "UPSC_2013_GSP4_12",
+    "paper_title": "GS Paper 4",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q12",
+    "marks": 20,
+    "importance": 2,
+    "cite": "U13",
+    "last_updated": 1747488000,
+    "is_structured": 0,
+    "question_text": "You are heading a leading technical institute... (case study on interview selection and funding).\n(a) What are the options available to you?\n(b) Evaluate each of these options and choose the option which you would adopt, giving reasons. (250 words)",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "General",
+        "text": "Options available:\n(i) Succumb to pressure and favor the relative – unethical, illegal, compromises merit.\n(ii) Refuse outright and risk funding denial.\n(iii) Report the matter to anti-corruption body / higher authority.\n(iv) Proceed with fair selection but document the call for future reference.\n(v) Seek intervention of institute's Board of Governors or Ethics Committee.",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Evaluation:\n(i) – gains funding but destroys institution's reputation, violates UGC norms, sets bad precedent, personal liability.\n(ii) – ethically correct but may harm institute's development.\n(iii) – exposes corruption but may burn bridges.\n(iv) – conducts fair interview but leaves threat alive.\n(v) – collective decision, shared responsibility.",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Recommended: Option (v) combined with (iv).\n- Inform Board of Governors about the call without naming (to protect identity) and seek institutional protection.\n- Conduct selection strictly on merit with transparent evaluation criteria.\n- Record the call details confidentially.\n- If the relative is selected on merit, no issue; if not, reject.\n- Simultaneously, pursue funding through proper channels.\n- If funding denied, raise the matter officially through RTI/media as last resort.\n- Uphold institutional integrity over personal gain.",
+        "order": 3,
+        "cite": "U13"
+      }
+    ]
+  },
   {
-  "uid": "UPSC_2013_GSP4_13",
-  "paper_title": "GS Paper 4",
-  "year": 2013,
-  "exam": "UPSC",
-  "origin": "PYQ",
-  "vault_path": null,
-  "marks": 20,
-  "importance": 2,
-  "question_text": "As a senior officer in the Finance Ministry... (case study on insider information to builder).\n(a) What are the options available to you?\n(b) Evaluate each of these options and choose the option which you would adopt, giving reasons. (250 words)",
-  "is_structured": 0,
-  "last_updated": 1747488000,
-  "cite": "U13",
-  "q_number": "Q13",
-  "points": [
-    {
-      "section": "General",
-      "text": "Options available:\n(i) Disclose information to builder as asked – insider trading, illegal under SEBI Act, violation of Official Secrets Act.\n(ii) Refuse politely and explain legal/ethical reasons.\n(iii) Report the superior's request to Central Vigilance Commission or Cabinet Secretary.\n(iv) Seek written order from superior before disclosure.\n(v) Resign/seek transfer to avoid conflict.",
-      "order": 1,
-      "cite": "U13"
-    },
-    {
-      "section": "General",
-      "text": "Evaluation:\n(i) – personal gain (promotion/bonus?) but criminal offense, loss of career, jail term, damage to public trust.\n(ii) – maintains integrity but risks displeasing superior, possible retaliation.\n(iii) – whistleblowing may lead to departmental action against superior, but also personal risk.\n(iv) – creates evidence, but superior may not give written order.\n(v) – avoids direct confrontation but abdicates responsibility.",
-      "order": 2,
-      "cite": "U13"
-    },
-    {
-      "section": "General",
-      "text": "Recommended: Option (ii)\n- Clearly refuse, citing Civil Service Conduct Rules (Rule 11 – confidentiality), SEBI (Prohibition of Insider Trading) Regulations, and personal ethics.\n- Explain that disclosure would harm market integrity.\n- Advise superior to follow proper procedures.\n- If pressured, escalate to Secretary/Cabinet Secretary with documented evidence.\n- Maintain confidentiality of policy until official announcement.\n- Uphold constitutional morality and public interest over career concerns.",
-      "order": 3,
-      "cite": "U13"
-    }
-  ]
-},
+    "uid": "UPSC_2013_GSP4_13",
+    "paper_title": "GS Paper 4",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q13",
+    "marks": 20,
+    "importance": 2,
+    "cite": "U13",
+    "last_updated": 1747488000,
+    "is_structured": 0,
+    "question_text": "As a senior officer in the Finance Ministry... (case study on insider information to builder).\n(a) What are the options available to you?\n(b) Evaluate each of these options and choose the option which you would adopt, giving reasons. (250 words)",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "General",
+        "text": "Options available:\n(i) Disclose information to builder as asked – insider trading, illegal under SEBI Act, violation of Official Secrets Act.\n(ii) Refuse politely and explain legal/ethical reasons.\n(iii) Report the superior's request to Central Vigilance Commission or Cabinet Secretary.\n(iv) Seek written order from superior before disclosure.\n(v) Resign/seek transfer to avoid conflict.",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Evaluation:\n(i) – personal gain (promotion/bonus?) but criminal offense, loss of career, jail term, damage to public trust.\n(ii) – maintains integrity but risks displeasing superior, possible retaliation.\n(iii) – whistleblowing may lead to departmental action against superior, but also personal risk.\n(iv) – creates evidence, but superior may not give written order.\n(v) – avoids direct confrontation but abdicates responsibility.",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Recommended: Option (ii)\n- Clearly refuse, citing Civil Service Conduct Rules (Rule 11 – confidentiality), SEBI (Prohibition of Insider Trading) Regulations, and personal ethics.\n- Explain that disclosure would harm market integrity.\n- Advise superior to follow proper procedures.\n- If pressured, escalate to Secretary/Cabinet Secretary with documented evidence.\n- Maintain confidentiality of policy until official announcement.\n- Uphold constitutional morality and public interest over career concerns.",
+        "order": 3,
+        "cite": "U13"
+      }
+    ]
+  },
   {
-  "uid": "UPSC_2013_GSP4_14",
-  "paper_title": "GS Paper 4",
-  "year": 2013,
-  "exam": "UPSC",
-  "origin": "PYQ",
-  "vault_path": null,
-  "marks": 20,
-  "importance": 2,
-  "question_text": "You are the Executive Director of an Infotech Company... (case study on sexual harassment at workplace).\n(a) What are the options available to you?\n(b) Evaluate each of these options and choose the option you would adopt, giving reasons. (250 words)",
-  "is_structured": 0,
-  "last_updated": 1747488000,
-  "cite": "U13",
-  "q_number": "Q14",
-  "points": [
-    {
-      "section": "General",
-      "text": "Options available:\n(i) Ignore complaint to retain star performer – unethical, illegal under POSH Act.\n(ii) Counsel Mr. A informally and warn him – inadequate, may repeat.\n(iii) Accept Mrs. X's resignation without action – fails duty of care.\n(iv) Initiate formal inquiry under POSH Act (Internal Complaints Committee).\n(v) Suspend Mr. A pending inquiry, transfer him, or terminate after proven misconduct.\n(vi) Offer mediation if complainant agrees.",
-      "order": 1,
-      "cite": "U13"
-    },
-    {
-      "section": "General",
-      "text": "Evaluation of options:\n(i) Ignore – violates law (POSH Act 2013), exposes company to liability, demoralizes workforce, sets toxic culture.\n(ii) Counseling – insufficient deterrent, does not protect potential future victims, trivializes serious misconduct.\n(iii) Accept resignation – abdication of duty, tacit approval of harassment, fails to provide safe workplace.\n(iv) Formal inquiry – lawful, fair, protects both parties; may lose performer but upholds ethics and legal compliance.\n(v) Suspension/termination – strong action if proven; may be seen as harsh but justified for physical misconduct.\n(vi) Mediation – unsuitable for severe cases (physical touch, unwanted advances); undermines severity.",
-      "order": 2,
-      "cite": "U13"
-    },
-    {
-      "section": "General",
-      "text": "Recommended option: (iv) – Initiate formal inquiry under POSH Act.\nSteps:\n- Immediately form Internal Complaints Committee (ICC) as per POSH Act 2013.\n- Get written complaint from Mrs. X (if she withdraws resignation, encourage her to stay).\n- Notify Mr. A, conduct inquiry with confidentiality and natural justice.\n- Ensure no retaliation against complainant.\n- Pending inquiry, separate Mr. A from Mrs. X's team.\n- If misconduct proven, take disciplinary action (warning, transfer, or termination based on severity).\n- Conduct company-wide POSH training.\nReason: Prioritize women's safety and legal compliance over short-term business interests. True leadership values ethics over profits. Allows due process for both parties.",
-      "order": 3,
-      "cite": "U13"
-    }
-  ]
-}
+    "uid": "UPSC_2013_GSP4_14",
+    "paper_title": "GS Paper 4",
+    "year": 2013,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q14",
+    "marks": 20,
+    "importance": 2,
+    "cite": "U13",
+    "last_updated": 1747488000,
+    "is_structured": 0,
+    "question_text": "You are the Executive Director of an Infotech Company... (case study on sexual harassment at workplace).\n(a) What are the options available to you?\n(b) Evaluate each of these options and choose the option you would adopt, giving reasons. (250 words)",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "General",
+        "text": "Options available:\n(i) Ignore complaint to retain star performer – unethical, illegal under POSH Act.\n(ii) Counsel Mr. A informally and warn him – inadequate, may repeat.\n(iii) Accept Mrs. X's resignation without action – fails duty of care.\n(iv) Initiate formal inquiry under POSH Act (Internal Complaints Committee).\n(v) Suspend Mr. A pending inquiry, transfer him, or terminate after proven misconduct.\n(vi) Offer mediation if complainant agrees.",
+        "order": 1,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Evaluation of options:\n(i) Ignore – violates law (POSH Act 2013), exposes company to liability, demoralizes workforce, sets toxic culture.\n(ii) Counseling – insufficient deterrent, does not protect potential future victims, trivializes serious misconduct.\n(iii) Accept resignation – abdication of duty, tacit approval of harassment, fails to provide safe workplace.\n(iv) Formal inquiry – lawful, fair, protects both parties; may lose performer but upholds ethics and legal compliance.\n(v) Suspension/termination – strong action if proven; may be seen as harsh but justified for physical misconduct.\n(vi) Mediation – unsuitable for severe cases (physical touch, unwanted advances); undermines severity.",
+        "order": 2,
+        "cite": "U13"
+      },
+      {
+        "section": "General",
+        "text": "Recommended option: (iv) – Initiate formal inquiry under POSH Act.\nSteps:\n- Immediately form Internal Complaints Committee (ICC) as per POSH Act 2013.\n- Get written complaint from Mrs. X (if she withdraws resignation, encourage her to stay).\n- Notify Mr. A, conduct inquiry with confidentiality and natural justice.\n- Ensure no retaliation against complainant.\n- Pending inquiry, separate Mr. A from Mrs. X's team.\n- If misconduct proven, take disciplinary action (warning, transfer, or termination based on severity).\n- Conduct company-wide POSH training.\nReason: Prioritize women's safety and legal compliance over short-term business interests. True leadership values ethics over profits. Allows due process for both parties.",
+        "order": 3,
+        "cite": "U13"
+      }
+    ]
+  }
 ]

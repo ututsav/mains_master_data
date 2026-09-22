@@ -5,14 +5,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q1",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Discuss the possible factors that inhibit India from enacting for its citizens a uniform civil code as provided for in the Directive Principles of State Policy. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q1",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Discuss the possible factors that inhibit India from enacting for its citizens a uniform civil code as provided for in the Directive Principles of State Policy. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -46,14 +54,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q2",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "The concept of cooperative federalism has been increasingly emphasized in recent years. Highlight the drawbacks in the existing structure and the extent to which cooperative federalism would answer the shortcomings. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q2",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The concept of cooperative federalism has been increasingly emphasized in recent years. Highlight the drawbacks in the existing structure and the extent to which cooperative federalism would answer the shortcomings. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -87,14 +103,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q3",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "In absence of a well-educated and organized local level government system, 'Panchayats' and 'Samitis' have remained mainly political institutions and not effective instruments of governance. Critically discuss. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "In absence of a well-educated and organized local level government system, 'Panchayats' and 'Samitis' have remained mainly political institutions and not effective instruments of governance. Critically discuss. (200 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -134,14 +158,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q4",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Khap Panchayats have been in the news for functioning as extra-constitutional authorities, often delivering pronouncements amounting to human rights violations. Discuss critically the actions taken by the legislative, executive and the judiciary to set the things right in this regard. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q4",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Khap Panchayats have been in the news for functioning as extra-constitutional authorities, often delivering pronouncements amounting to human rights violations. Discuss critically the actions taken by the legislative, executive and the judiciary to set the things right in this regard. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -181,14 +213,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q5",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Resorting to ordinances has always raised concern on violation of the spirit of separation of powers doctrine. While noting the rationales justifying the power to promulgate ordinances, analyze whether the decisions of the Supreme Court on the issue have further facilitated resorting to this power. Should the power to promulgate ordinances be repealed? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q5",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Resorting to ordinances has always raised concern on violation of the spirit of separation of powers doctrine. While noting the rationales justifying the power to promulgate ordinances, analyze whether the decisions of the Supreme Court on the issue have further facilitated resorting to this power. Should the power to promulgate ordinances be repealed? (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -228,14 +268,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q6",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "What are the major changes brought in the Arbitration and Conciliation Act, 1996 through the recent Ordinance promulgated by the President? How far will it improve India's dispute resolution mechanism? Discuss. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q6",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What are the major changes brought in the Arbitration and Conciliation Act, 1996 through the recent Ordinance promulgated by the President? How far will it improve India's dispute resolution mechanism? Discuss. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -269,14 +317,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q7",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Does the right to clean environment entail legal regulations on burning crackers during Diwali? Discuss in the light of Article 21 of the Indian Constitution and Judgement(s) of the Apex Court in this regard. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q7",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Does the right to clean environment entail legal regulations on burning crackers during Diwali? Discuss in the light of Article 21 of the Indian Constitution and Judgement(s) of the Apex Court in this regard. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -310,14 +366,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q8",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Examine critically the recent changes in the rules governing foreign funding of NGOs under the Foreign Contribution (Regulation) Act (FCRA), 1976. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q8",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Examine critically the recent changes in the rules governing foreign funding of NGOs under the Foreign Contribution (Regulation) Act (FCRA), 1976. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -351,14 +415,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q9",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "The Self-Help Group (SHG) Bank Linkage Programme (SBLP), which is India's own innovation, has proved to be one of the most effective poverty alleviation and women empowerment programmes. Elucidate. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q9",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The Self-Help Group (SHG) Bank Linkage Programme (SBLP), which is India's own innovation, has proved to be one of the most effective poverty alleviation and women empowerment programmes. Elucidate. (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -398,14 +470,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q10",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "How can the role of NGOs be strengthened in India for development works relating to protection of the environment? Discuss throwing light on the major constraints. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q10",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "How can the role of NGOs be strengthened in India for development works relating to protection of the environment? Discuss throwing light on the major constraints. (200 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -439,14 +519,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q11",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "The quality of higher education in India requires major improvements to make it internationally competitive. Do you think that the entry of foreign educational institutions would help improve the quality of higher and technical education in the country? Discuss. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q11",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The quality of higher education in India requires major improvements to make it internationally competitive. Do you think that the entry of foreign educational institutions would help improve the quality of higher and technical education in the country? Discuss. (200 words)",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "Essay — Society",
+    "topics": [
+      "Essay — Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -480,14 +568,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q12",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Public health system has limitations in providing universal health coverage. Do you think that the private sector could help in bridging the gap? What other viable alternatives would you suggest? (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q12",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Public health system has limitations in providing universal health coverage. Do you think that the private sector could help in bridging the gap? What other viable alternatives would you suggest? (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -521,14 +617,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q13",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Though there have been several different estimates of poverty in India, all indicate reduction in poverty levels over time. Do you agree? Critically examine with reference to urban and rural poverty indicators. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q13",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Though there have been several different estimates of poverty in India, all indicate reduction in poverty levels over time. Do you agree? Critically examine with reference to urban and rural poverty indicators. (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -562,14 +666,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q14",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "In the light of the Satyam Scandal (2009), discuss the changes brought in corporate governance to ensure transparency, accountability. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q14",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "In the light of the Satyam Scandal (2009), discuss the changes brought in corporate governance to ensure transparency, accountability. (200 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -603,14 +715,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q15",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "\"If amendment bill to the Whistleblowers Act, 2011 tabled in the Parliament is passed, there may be no one left to protect.\" Critically evaluate. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q15",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "\"If amendment bill to the Whistleblowers Act, 2011 tabled in the Parliament is passed, there may be no one left to protect.\" Critically evaluate. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -650,14 +770,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q16",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "\"For achieving the desired objectives, it is necessary to ensure that the regulatory institutions remain independent and autonomous.\" Discuss in the light of the experiences in recent past. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "\"For achieving the desired objectives, it is necessary to ensure that the regulatory institutions remain independent and autonomous.\" Discuss in the light of the experiences in recent past. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -697,14 +825,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q17",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Increasing interest of India in Africa has its pros and cons. Critically examine. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q17",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Increasing interest of India in Africa has its pros and cons. Critically examine. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -738,14 +874,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q18",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Discuss the impediments India is facing in its pursuit of a permanent seat in UN Security Council. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q18",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Discuss the impediments India is facing in its pursuit of a permanent seat in UN Security Council. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -755,14 +899,44 @@
       },
       {
         "section": "Body",
-        "text": "Impediments:\n- Opposition from China (veto-wielding) – India's rival; China prefers African seats for Nigeria, Egypt; aligns with Pakistan\n- Lack of consensus among P5 (US, UK, France, Russia, China) – each has preferences; US supports India but conditionally (non-proliferation – India not NPT signatory)\n- Coffee Club (Uniting for Consensus) – countries like Italy, Pakistan, South Korea, Argentina, Canada oppose expansion of permanent seats; prefer more non-permanent seats\n- African Union demand – Africa must have two permanent seats with veto; who will represent? Complicates allocation\n- Veto power issue – new permanent members should have veto? P5 reluctant to share veto\n- Slow intergovernmental negotiations (IGN) – no consensus on framework (since 2009)",
-        "order": 2,
-        "cite": "U15"
+        "text": "Opposition from China (veto-wielding) – India's rival; China prefers African seats for Nigeria, Egypt; aligns with Pakistan.",
+        "cite": "U15",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Lack of consensus among P5 (US, UK, France, Russia, China) – each has preferences; US supports India but conditionally (non-proliferation – India not NPT signatory).",
+        "cite": "U15",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Coffee Club (Uniting for Consensus) – countries like Italy, Pakistan, South Korea, Argentina, Canada oppose expansion of permanent seats; prefer more non-permanent seats.",
+        "cite": "U15",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "African Union demand – Africa must have two permanent seats with veto; who will represent? Complicates allocation.",
+        "cite": "U15",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Veto power issue – new permanent members should have veto? P5 reluctant to share veto.",
+        "cite": "U15",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Slow intergovernmental negotiations (IGN) – no consensus on framework (since 2009).",
+        "cite": "U15",
+        "order": 7
       },
       {
         "section": "Conclusion",
         "text": "India's candidacy strong (largest democracy, economy, UN contributions, peacekeeping). But reform requires political will and consensus-building. Long-term strategy: bilateral support from P5 (except China), building coalition with Africa, G4 coordination, and waiting for opportune moment when global power distribution shifts further.",
-        "order": 3,
+        "order": 8,
         "cite": "U15"
       }
     ]
@@ -773,14 +947,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q19",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Project 'Mausam' is considered a unique foreign policy initiative of the Indian Government to improve relationship with its neighbours. Does the project have a strategic dimension? Discuss. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q19",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Project 'Mausam' is considered a unique foreign policy initiative of the Indian Government to improve relationship with its neighbours. Does the project have a strategic dimension? Discuss. (200 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -814,14 +996,22 @@
     "year": 2015,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q20",
     "marks": 12.5,
     "importance": 2,
-    "question_text": "Terrorist activities and mutual distrust have clouded India-Pakistan relations. To what extent the use of soft power like sports and cultural exchanges could help generate goodwill between the two countries? Discuss with suitable examples. (200 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U15",
-    "q_number": "Q20",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Terrorist activities and mutual distrust have clouded India-Pakistan relations. To what extent the use of soft power like sports and cultural exchanges could help generate goodwill between the two countries? Discuss with suitable examples. (200 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",

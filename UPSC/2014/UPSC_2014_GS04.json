@@ -5,14 +5,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q1a",
     "marks": 10,
     "importance": 2,
-    "question_text": "All human beings aspire for happiness. Do you agree? What does happiness mean to you? Explain with examples. (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q1a",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "All human beings aspire for happiness. Do you agree? What does happiness mean to you? Explain with examples. (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -22,14 +30,38 @@
       },
       {
         "section": "Body",
-        "text": "Definition of happiness to me:\n- Inner contentment, not merely pleasure or material wealth\n- Eudaimonic happiness (flourishing, meaning, purpose) vs hedonic (pleasure)\n- Balance of satisfaction, positive emotions, and sense of contribution\n- Examples: Mother Teresa's happiness in service; a farmer's happiness after harvest; spending time with loved ones",
-        "order": 2,
-        "cite": "U14"
+        "text": "Definition of happiness to me:",
+        "cite": "U14",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Inner contentment, not merely pleasure or material wealth.",
+        "cite": "U14",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Eudaimonic happiness (flourishing, meaning, purpose) vs hedonic (pleasure).",
+        "cite": "U14",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Balance of satisfaction, positive emotions, and sense of contribution.",
+        "cite": "U14",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Examples: Mother Teresa's happiness in service; a farmer's happiness after harvest; spending time with loved ones.",
+        "cite": "U14",
+        "order": 6
       },
       {
         "section": "Conclusion",
         "text": "Yes, all aspire, but definitions vary; true happiness lies in meaningful living, relationships, and self-actualization",
-        "order": 3,
+        "order": 7,
         "cite": "U14"
       }
     ]
@@ -40,14 +72,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q1b",
     "marks": 10,
     "importance": 2,
-    "question_text": "What does ethics seek to promote in human life? Why is it all the more important in public administration? (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q1b",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What does ethics seek to promote in human life? Why is it all the more important in public administration? (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -81,14 +121,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q2a",
     "marks": 10,
     "importance": 2,
-    "question_text": "In the context of defence services, 'patriotism' demands readiness to even lay down one's life in protecting the nation. According to you, what does patriotism imply in everyday civil life? Explain with illustrations and justify your answer. (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q2a",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "In the context of defence services, 'patriotism' demands readiness to even lay down one's life in protecting the nation. According to you, what does patriotism imply in everyday civil life? Explain with illustrations and justify your answer. (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -98,14 +146,56 @@
       },
       {
         "section": "Body",
-        "text": "Everyday patriotism implies:\n- Obeying laws and paying taxes (contributing to nation-building)\n- Voting responsibly and participating in democracy\n- Protecting public property (railways, parks, monuments)\n- Environmental stewardship (keeping streets clean – Swachh Bharat)\n- Promoting communal harmony (rejecting hate speech)\n- Supporting indigenous products (Atmanirbhar Bharat)\n- Doing one's job ethically and diligently\n- Example: a teacher shaping future citizens; a doctor serving in rural areas; a citizen reporting corruption",
-        "order": 2,
-        "cite": "U14"
+        "text": "Obeying laws and paying taxes (contributing to nation-building).",
+        "cite": "U14",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Voting responsibly and participating in democracy.",
+        "cite": "U14",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Protecting public property (railways, parks, monuments).",
+        "cite": "U14",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Environmental stewardship (keeping streets clean – Swachh Bharat).",
+        "cite": "U14",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Promoting communal harmony (rejecting hate speech).",
+        "cite": "U14",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Supporting indigenous products (Atmanirbhar Bharat).",
+        "cite": "U14",
+        "order": 7
+      },
+      {
+        "section": "Body",
+        "text": "Doing one's job ethically and diligently.",
+        "cite": "U14",
+        "order": 8
+      },
+      {
+        "section": "Body",
+        "text": "Example: a teacher shaping future citizens; a doctor serving in rural areas; a citizen reporting corruption.",
+        "cite": "U14",
+        "order": 9
       },
       {
         "section": "Conclusion",
         "text": "Civil patriotism is 'constructive nationalism' – daily actions that strengthen the nation without heroic sacrifice",
-        "order": 3,
+        "order": 10,
         "cite": "U14"
       }
     ]
@@ -116,14 +206,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q2b",
     "marks": 10,
     "importance": 2,
-    "question_text": "What do you understand by 'probity' in public life? What are the difficulties in practicing it in the present times? How can these difficulties be overcome? (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q2b",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What do you understand by 'probity' in public life? What are the difficulties in practicing it in the present times? How can these difficulties be overcome? (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -157,14 +255,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q3a",
     "marks": 10,
     "importance": 2,
-    "question_text": "\"Integrity without knowledge is weak and useless, but knowledge without integrity is dangerous and dreadful.\" What do you understand by this statement? Explain your stand with illustrations from the modern context. (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q3a",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "\"Integrity without knowledge is weak and useless, but knowledge without integrity is dangerous and dreadful.\" What do you understand by this statement? Explain your stand with illustrations from the modern context. (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -198,14 +304,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q3b",
     "marks": 10,
     "importance": 2,
-    "question_text": "\"Human beings should always be treated as 'ends' in themselves and never as merely 'means'.\" Explain the meaning and significance of this statement, giving its implications in the modern techno-economic society. (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q3b",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "\"Human beings should always be treated as 'ends' in themselves and never as merely 'means'.\" Explain the meaning and significance of this statement, giving its implications in the modern techno-economic society. (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -239,14 +353,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q4a",
     "marks": 10,
     "importance": 2,
-    "question_text": "Which eminent personality has inspired you the most in the context of ethical conduct in life? Give the gist of his/her teachings. Giving specific examples, describe how you have been able to apply these teachings for your own ethical development. (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q4a",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Which eminent personality has inspired you the most in the context of ethical conduct in life? Give the gist of his/her teachings. Giving specific examples, describe how you have been able to apply these teachings for your own ethical development. (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -280,14 +402,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q4b",
     "marks": 10,
     "importance": 2,
-    "question_text": "There is a heavy ethical responsibility on the public servants because they occupy positions of power, handle huge amounts of public funds, and their decisions have wide-ranging impact on society and environment. What steps have you taken to improve your ethical competence to handle such responsibility? (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q4b",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "There is a heavy ethical responsibility on the public servants because they occupy positions of power, handle huge amounts of public funds, and their decisions have wide-ranging impact on society and environment. What steps have you taken to improve your ethical competence to handle such responsibility? (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -297,14 +427,56 @@
       },
       {
         "section": "Body",
-        "text": "Steps taken:\n- Studying ethics syllabus (moral philosophers, case studies, public service values)\n- Self-reflection (journaling ethical dilemmas, analyzing my biases)\n- Seeking mentorship from ethical seniors (interactions with civil servants)\n- Participating in value-based workshops (integrity clubs, NCC/NSS camps)\n- Practicing transparency in student leadership roles (maintaining accounts open to all)\n- Developing emotional intelligence through mindfulness and empathy exercises\n- Reading biographies of ethical leaders (Lal Bahadur Shastri, E. Sreedharan)\n- Volunteering for social audits (campus activities) to understand accountability",
-        "order": 2,
-        "cite": "U14"
+        "text": "Studying ethics syllabus (moral philosophers, case studies, public service values).",
+        "cite": "U14",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Self-reflection (journaling ethical dilemmas, analyzing my biases).",
+        "cite": "U14",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Seeking mentorship from ethical seniors (interactions with civil servants).",
+        "cite": "U14",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Participating in value-based workshops (integrity clubs, NCC/NSS camps).",
+        "cite": "U14",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Practicing transparency in student leadership roles (maintaining accounts open to all).",
+        "cite": "U14",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Developing emotional intelligence through mindfulness and empathy exercises.",
+        "cite": "U14",
+        "order": 7
+      },
+      {
+        "section": "Body",
+        "text": "Reading biographies of ethical leaders (Lal Bahadur Shastri, E. Sreedharan).",
+        "cite": "U14",
+        "order": 8
+      },
+      {
+        "section": "Body",
+        "text": "Volunteering for social audits (campus activities) to understand accountability.",
+        "cite": "U14",
+        "order": 9
       },
       {
         "section": "Conclusion",
         "text": "Continuous self-improvement and adherence to constitutional morality will help me uphold trust reposed in public servants",
-        "order": 3,
+        "order": 10,
         "cite": "U14"
       }
     ]
@@ -315,14 +487,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q5a",
     "marks": 10,
     "importance": 2,
-    "question_text": "The current society is plagued with widespread trust-deficit. What are the consequences of this situation for personal well-being and for societal well-being? What can you do at the personal level to make yourself trustworthy? (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q5a",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The current society is plagued with widespread trust-deficit. What are the consequences of this situation for personal well-being and for societal well-being? What can you do at the personal level to make yourself trustworthy? (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -362,14 +542,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q5b",
     "marks": 10,
     "importance": 2,
-    "question_text": "It is often said that poverty leads to corruption. However, there is no dearth of instances where affluent and powerful people indulge in corruption in a big way. What are the basic causes of corruption among people? Support your answer with examples. (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q5b",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "It is often said that poverty leads to corruption. However, there is no dearth of instances where affluent and powerful people indulge in corruption in a big way. What are the basic causes of corruption among people? Support your answer with examples. (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -403,14 +591,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q6",
     "marks": 10,
     "importance": 2,
-    "question_text": "What factors affect the formation of a person's attitude towards social problems? In our society, contrasting attitudes are prevalent about many social problems. What contrasting attitudes do you notice about the caste system in our society? How do you explain the existence of these contrasting attitudes? (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q6",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What factors affect the formation of a person's attitude towards social problems? In our society, contrasting attitudes are prevalent about many social problems. What contrasting attitudes do you notice about the caste system in our society? How do you explain the existence of these contrasting attitudes? (150 words)",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Aptitude",
+    "topics": [
+      "Aptitude"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -450,14 +646,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q7",
     "marks": 10,
     "importance": 2,
-    "question_text": "What does 'accountability' mean in the context of public service? What measures can be adopted to ensure individual and collective accountability of public servants? (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q7",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What does 'accountability' mean in the context of public service? What measures can be adopted to ensure individual and collective accountability of public servants? (150 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -497,14 +701,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q8",
     "marks": 10,
     "importance": 2,
-    "question_text": "We are witnessing increasing instances of sexual violence against women in the country. Despite existing legal provisions against it, the number of such incidences is on the rise. Suggest some innovative measures to tackle this menace. (150 words)",
-    "is_structured": 1,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q8",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "We are witnessing increasing instances of sexual violence against women in the country. Despite existing legal provisions against it, the number of such incidences is on the rise. Suggest some innovative measures to tackle this menace. (150 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "Intro",
@@ -514,14 +726,44 @@
       },
       {
         "section": "Body",
-        "text": "Innovative measures:\n- Technology: panic buttons (mobile apps, buses, street lights), CCTV in dark spots, GPS trackers for safety, AI-based predictive policing (hotspot mapping)\n- Education: gender sensitization curriculum from school (including boys), compulsory self-defence training for girls, parenting workshops (respect, consent)\n- Urban design: well-lit streets, women-friendly public toilets, night shelters for working women, 'safe city' projects (Nirbhaya Fund)\n- Community: Mohalla committees (men as allies), bystander intervention training, community policing (women helpdesks)\n- Legal process: fast-track courts (timely justice), special prosecutors, victim protection (one-stop centres – Sakhi), witness protection, strict bail denial for repeat offenders\n- Awareness: media campaigns (men's responsibility, not victim-blaming), social norms change (challenging toxic masculinity, street plays)",
-        "order": 2,
-        "cite": "U14"
+        "text": "Technology: panic buttons (mobile apps, buses, street lights), CCTV in dark spots, GPS trackers for safety, AI-based predictive policing (hotspot mapping).",
+        "cite": "U14",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Education: gender sensitization curriculum from school (including boys), compulsory self-defence training for girls, parenting workshops (respect, consent).",
+        "cite": "U14",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Urban design: well-lit streets, women-friendly public toilets, night shelters for working women, 'safe city' projects (Nirbhaya Fund).",
+        "cite": "U14",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Community: Mohalla committees (men as allies), bystander intervention training, community policing (women helpdesks).",
+        "cite": "U14",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Legal process: fast-track courts (timely justice), special prosecutors, victim protection (one-stop centres – Sakhi), witness protection, strict bail denial for repeat offenders.",
+        "cite": "U14",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Awareness: media campaigns (men's responsibility, not victim-blaming), social norms change (challenging toxic masculinity, street plays).",
+        "cite": "U14",
+        "order": 7
       },
       {
         "section": "Conclusion",
         "text": "Multipronged approach – prevention, protection, prosecution, and social transformation – essential to end gender violence",
-        "order": 3,
+        "order": 8,
         "cite": "U14"
       }
     ]
@@ -532,20 +774,106 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q9",
     "marks": 20,
     "importance": 2,
-    "question_text": "Now-a-days, there is an increasing thrust on economic development all around the globe. At the same time, there is also an increasing concern about environmental degradation caused by development. Many a time, we face a direct conflict between developmental activity and environmental quality. It is neither feasible to stop or curtail the developmental process, nor it is advisable to keep degrading the environment, as it threatens our very survival. Discuss some feasible strategies which could be adopted to eliminate this conflict and which could lead to sustainable development. (250 words)",
-    "is_structured": 0,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q9",
+    "last_updated": 1747488000,
+    "is_structured": 0,
+    "question_text": "Now-a-days, there is an increasing thrust on economic development all around the globe. At the same time, there is also an increasing concern about environmental degradation caused by development. Many a time, we face a direct conflict between developmental activity and environmental quality. It is neither feasible to stop or curtail the developmental process, nor it is advisable to keep degrading the environment, as it threatens our very survival. Discuss some feasible strategies which could be adopted to eliminate this conflict and which could lead to sustainable development. (250 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "General",
-        "text": "Strategies to reconcile development and environment (sustainable development):\n- Green growth: decouple economic growth from resource use and emissions (renewable energy, circular economy, green GDP)\n- Environmental Impact Assessment (EIA) with public participation – stringent and transparent, cumulative impact assessment, post-project monitoring\n- Technology leapfrog: clean technologies (solar, wind, electric vehicles), energy efficiency (BEE standards), carbon capture (CCUS)\n- Natural capital accounting: value ecosystem services in project appraisal (e.g., forests as carbon sinks)\n- Payment for Ecosystem Services (PES): compensate communities for conservation (e.g., water user fees for watershed protection)\n- Zoning and land-use planning: designate ecologically sensitive areas (no-go zones), industrial corridors with environmental safeguards\n- Green infrastructure: eco-friendly construction (LEED, GRIHA), green buildings, permeable pavements, urban forests\n- Sustainable agriculture: organic farming, precision agriculture, agroforestry, reducing chemical inputs\n- Policy integration: climate change into development plans (NDC, SDGs), carbon pricing (carbon tax, emissions trading), green bonds financing\n- Community participation: Joint Forest Management, eco-tourism, local stewardship\n- International cooperation: technology transfer (loss and damage), climate finance (Green Climate Fund)\n- Education and awareness: environmental literacy, sustainability in school curriculum\n- Corporate responsibility: CSR for environment (Companies Act 2013), ESG (Environmental, Social, Governance) investing",
-        "order": 1,
-        "cite": "U14"
+        "text": "Strategies to reconcile development and environment (sustainable development):",
+        "cite": "U14",
+        "order": 1
+      },
+      {
+        "section": "General",
+        "text": "Green growth: decouple economic growth from resource use and emissions (renewable energy, circular economy, green GDP).",
+        "cite": "U14",
+        "order": 2
+      },
+      {
+        "section": "General",
+        "text": "Environmental Impact Assessment (EIA) with public participation – stringent and transparent, cumulative impact assessment, post-project monitoring.",
+        "cite": "U14",
+        "order": 3
+      },
+      {
+        "section": "General",
+        "text": "Technology leapfrog: clean technologies (solar, wind, electric vehicles), energy efficiency (BEE standards), carbon capture (CCUS).",
+        "cite": "U14",
+        "order": 4
+      },
+      {
+        "section": "General",
+        "text": "Natural capital accounting: value ecosystem services in project appraisal (e.g., forests as carbon sinks).",
+        "cite": "U14",
+        "order": 5
+      },
+      {
+        "section": "General",
+        "text": "Payment for Ecosystem Services (PES): compensate communities for conservation (e.g., water user fees for watershed protection).",
+        "cite": "U14",
+        "order": 6
+      },
+      {
+        "section": "General",
+        "text": "Zoning and land-use planning: designate ecologically sensitive areas (no-go zones), industrial corridors with environmental safeguards.",
+        "cite": "U14",
+        "order": 7
+      },
+      {
+        "section": "General",
+        "text": "Green infrastructure: eco-friendly construction (LEED, GRIHA), green buildings, permeable pavements, urban forests.",
+        "cite": "U14",
+        "order": 8
+      },
+      {
+        "section": "General",
+        "text": "Sustainable agriculture: organic farming, precision agriculture, agroforestry, reducing chemical inputs.",
+        "cite": "U14",
+        "order": 9
+      },
+      {
+        "section": "General",
+        "text": "Policy integration: climate change into development plans (NDC, SDGs), carbon pricing (carbon tax, emissions trading), green bonds financing.",
+        "cite": "U14",
+        "order": 10
+      },
+      {
+        "section": "General",
+        "text": "Community participation: Joint Forest Management, eco-tourism, local stewardship.",
+        "cite": "U14",
+        "order": 11
+      },
+      {
+        "section": "General",
+        "text": "International cooperation: technology transfer (loss and damage), climate finance (Green Climate Fund).",
+        "cite": "U14",
+        "order": 12
+      },
+      {
+        "section": "General",
+        "text": "Education and awareness: environmental literacy, sustainability in school curriculum.",
+        "cite": "U14",
+        "order": 13
+      },
+      {
+        "section": "General",
+        "text": "Corporate responsibility: CSR for environment (Companies Act 2013), ESG (Environmental, Social, Governance) investing.",
+        "cite": "U14",
+        "order": 14
       }
     ]
   },
@@ -555,14 +883,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q10",
     "marks": 20,
     "importance": 2,
-    "question_text": "Suppose one of your close friends, who is also aspiring for civil services, comes to you for discussing some of the issues related to ethical conduct in public service. He raises the following points:\n(i) In the present times, when unethical environment is quite prevalent, individual attempts to stick to ethical principles may cause a lot of problems in one's career. It may also cause hardship to the family members as well as risk to one's life. Why should we not be pragmatic and follow the path of least resistance, and be happy with doing whatever good we can?\n(ii) When so many people are adopting wrong means and are grossly harming the system, what difference would it make if only a small minority tries to be ethical? They are going to be rather ineffective and are bound to get frustrated.\n(iii) If we become fussy about ethical considerations, will it not hamper the economic progress of our country? After all, in the present age of high competition, we cannot afford to be left behind in the race of development.\n(iv) It is understandable that we should not get involved in grossly unethical practices, but giving and accepting small gratifications and doing small favours increases everybody's motivation. It also makes the system more efficient. What is wrong in adopting such practices?\nCritically analyze the above viewpoints. On the basis of this analysis, what will be your advice to your friend? (250 words)",
-    "is_structured": 0,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q10",
+    "last_updated": 1747488000,
+    "is_structured": 0,
+    "question_text": "Suppose one of your close friends, who is also aspiring for civil services, comes to you for discussing some of the issues related to ethical conduct in public service. He raises the following points:\n(i) In the present times, when unethical environment is quite prevalent, individual attempts to stick to ethical principles may cause a lot of problems in one's career. It may also cause hardship to the family members as well as risk to one's life. Why should we not be pragmatic and follow the path of least resistance, and be happy with doing whatever good we can?\n(ii) When so many people are adopting wrong means and are grossly harming the system, what difference would it make if only a small minority tries to be ethical? They are going to be rather ineffective and are bound to get frustrated.\n(iii) If we become fussy about ethical considerations, will it not hamper the economic progress of our country? After all, in the present age of high competition, we cannot afford to be left behind in the race of development.\n(iv) It is understandable that we should not get involved in grossly unethical practices, but giving and accepting small gratifications and doing small favours increases everybody's motivation. It also makes the system more efficient. What is wrong in adopting such practices?\nCritically analyze the above viewpoints. On the basis of this analysis, what will be your advice to your friend? (250 words)",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethics basics",
+    "topics": [
+      "Ethics basics"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "General",
@@ -602,14 +938,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q11",
     "marks": 20,
     "importance": 2,
-    "question_text": "You are a no-nonsense, honest officer... (case study on false sexual harassment complaint by employees).\nSome of the options... Suggest any other possible option(s). Evaluate all of them and suggest the best course of action, giving your reasons. (250 words)",
-    "is_structured": 0,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q11",
+    "last_updated": 1747488000,
+    "is_structured": 0,
+    "question_text": "You are a no-nonsense, honest officer... (case study on false sexual harassment complaint by employees).\nSome of the options... Suggest any other possible option(s). Evaluate all of them and suggest the best course of action, giving your reasons. (250 words)",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "General",
@@ -655,14 +999,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q12",
     "marks": 20,
     "importance": 2,
-    "question_text": "Suppose you are the CEO of a company that manufactures specialized electronic equipment used by a government department... (case study on bribe demand).\nValid arguments can be advanced both for giving the bribe and getting the order, and for refusing to pay the bribe and risking the loss of the order. What those arguments could be? Could there be any better way to get out of this dilemma? If so, outline the main elements of this third way, pointing out its merits. (250 words)",
-    "is_structured": 0,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q12",
+    "last_updated": 1747488000,
+    "is_structured": 0,
+    "question_text": "Suppose you are the CEO of a company that manufactures specialized electronic equipment used by a government department... (case study on bribe demand).\nValid arguments can be advanced both for giving the bribe and getting the order, and for refusing to pay the bribe and risking the loss of the order. What those arguments could be? Could there be any better way to get out of this dilemma? If so, outline the main elements of this third way, pointing out its merits. (250 words)",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "General",
@@ -702,14 +1054,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q13",
     "marks": 20,
     "importance": 2,
-    "question_text": "Rameshwar... (case study on malpractices in department).\nIndicate various options that you think are available in this situation. How would you help him to evaluate these options and choose the most appropriate path to be adopted? (250 words)",
-    "is_structured": 0,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q13",
+    "last_updated": 1747488000,
+    "is_structured": 0,
+    "question_text": "Rameshwar... (case study on malpractices in department).\nIndicate various options that you think are available in this situation. How would you help him to evaluate these options and choose the most appropriate path to be adopted? (250 words)",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "General",
@@ -725,14 +1085,50 @@
       },
       {
         "section": "General",
-        "text": "Most appropriate path – phased approach:\nStep 1: Document all malpractices (dates, amounts, names, evidence). Maintain personal diary (not official record).\nStep 2: Make one more formal representation to immediate superior with copy to next level (file note).\nStep 3: If no action, escalate to Head of Department with copy to Vigilance Officer.\nStep 4: Simultaneously, use RTI to seek information on funds utilization, recruitment process – creates public record.\nStep 5: If still no action, approach Central Vigilance Commission or Lokpal (if applicable).\nStep 6: As last resort, become whistleblower through media (after consulting legal experts and protecting identity).\nStep 7: Seek transfer only if personal safety at risk, but continue fighting from new position.\nAvoid resignation – better to reform from within.",
-        "order": 3,
-        "cite": "U14"
+        "text": "Most appropriate path – phased approach: Step 1: Document all malpractices (dates, amounts, names, evidence). Maintain personal diary (not official record).",
+        "cite": "U14",
+        "order": 3
+      },
+      {
+        "section": "General",
+        "text": "Step 2: Make one more formal representation to immediate superior with copy to next level (file note).",
+        "cite": "U14",
+        "order": 4
+      },
+      {
+        "section": "General",
+        "text": "Step 3: If no action, escalate to Head of Department with copy to Vigilance Officer.",
+        "cite": "U14",
+        "order": 5
+      },
+      {
+        "section": "General",
+        "text": "Step 4: Simultaneously, use RTI to seek information on funds utilization, recruitment process – creates public record.",
+        "cite": "U14",
+        "order": 6
+      },
+      {
+        "section": "General",
+        "text": "Step 5: If still no action, approach Central Vigilance Commission or Lokpal (if applicable).",
+        "cite": "U14",
+        "order": 7
+      },
+      {
+        "section": "General",
+        "text": "Step 6: As last resort, become whistleblower through media (after consulting legal experts and protecting identity).",
+        "cite": "U14",
+        "order": 8
+      },
+      {
+        "section": "General",
+        "text": "Step 7: Seek transfer only if personal safety at risk, but continue fighting from new position. Avoid resignation – better to reform from within.",
+        "cite": "U14",
+        "order": 9
       },
       {
         "section": "General",
         "text": "Support for Rameshwar: Join officers' association, seek mentorship from senior honest officers, build support network. Remember constitutional duty (Article 51A).",
-        "order": 4,
+        "order": 10,
         "cite": "U14"
       }
     ]
@@ -743,14 +1139,22 @@
     "year": 2014,
     "exam": "UPSC",
     "origin": "PYQ",
-    "vault_path": null,
+    "q_number": "Q14",
     "marks": 20,
     "importance": 2,
-    "question_text": "In our country, the migration of rural people to towns and cities is increasing drastically... (case study on rural-urban migration).\nAnalyze this problem in detail and indicate not only the socio-economic but also the emotional and attitudinal factors responsible.\nAlso, distinctly bring out why-\n(a) educated rural youth are trying to shift to urban areas;\n(b) landless poor people are migrating to urban slums;\n(c) even some farmers are selling off their land and trying to settle in urban areas taking up petty jobs.\nWhat feasible steps can you suggest which will be effective in controlling this serious problem of our country? (250 words)",
-    "is_structured": 0,
-    "last_updated": 1747488000,
     "cite": "U14",
-    "q_number": "Q14",
+    "last_updated": 1747488000,
+    "is_structured": 0,
+    "question_text": "In our country, the migration of rural people to towns and cities is increasing drastically... (case study on rural-urban migration).\nAnalyze this problem in detail and indicate not only the socio-economic but also the emotional and attitudinal factors responsible.\nAlso, distinctly bring out why-\n(a) educated rural youth are trying to shift to urban areas;\n(b) landless poor people are migrating to urban slums;\n(c) even some farmers are selling off their land and trying to settle in urban areas taking up petty jobs.\nWhat feasible steps can you suggest which will be effective in controlling this serious problem of our country? (250 words)",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Case Study",
+    "topics": [
+      "Case Study"
+    ],
+    "vault_path": null,
     "points": [
       {
         "section": "General",
