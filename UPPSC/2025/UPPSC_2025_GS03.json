@@ -20,6 +20,15 @@
     "topics": [
       "Inclusive Growth"
     ],
+    "subTopics": [
+      "Handicraft industry challenges"
+    ],
+    "keyPointers": [
+      "A skill without a steady market or credit",
+      "Middlemen and a cheap machine copy",
+      "The maker is informal and unprotected",
+      "The challenge is income, not only the beauty of the craft"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +77,15 @@
     "topic": "Science & Tech",
     "topics": [
       "Science & Tech"
+    ],
+    "subTopics": [
+      "New airports and development"
+    ],
+    "keyPointers": [
+      "They connect a city to capital, cargo and a tourist",
+      "They do not by themselves build a factory",
+      "Land, a road from the airport and a skill still decide",
+      "Examine the link; do not assume it"
     ],
     "vault_path": null,
     "points": [
@@ -118,6 +136,15 @@
     "topics": [
       "Science & Tech"
     ],
+    "subTopics": [
+      "NSSO measures of unemployment"
+    ],
+    "keyPointers": [
+      "Usual status, current weekly and current daily",
+      "A person can be employed in a year and idle in a week",
+      "It captures underemployment better than a single rate",
+      "The concept fits an informal economy"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -166,6 +193,15 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Digital payments and inclusion"
+    ],
+    "keyPointers": [
+      "A phone payment reaches a person a branch did not",
+      "It builds a record for credit",
+      "Inclusion fails without a signal, a phone and trust",
+      "The payment is the door, not the whole finance"
     ],
     "vault_path": null,
     "points": [
@@ -216,6 +252,15 @@
     "topics": [
       "Agriculture"
     ],
+    "subTopics": [
+      "Jobless growth"
+    ],
+    "keyPointers": [
+      "Output rose in sectors that use few workers",
+      "Factories did not absorb people leaving farms",
+      "Many new jobs are informal",
+      "Stagnation of employment is the quality and the count together"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -264,6 +309,15 @@
     "topic": "Energy",
     "topics": [
       "Energy"
+    ],
+    "subTopics": [
+      "SDG 9 and SDG 8"
+    ],
+    "keyPointers": [
+      "Industry that employs and does not only automate",
+      "Infrastructure and innovation as the means",
+      "Growth that spends the environment fails the third aim",
+      "The three have to be designed together"
     ],
     "vault_path": null,
     "points": [
@@ -314,6 +368,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Genome editing in agriculture"
+    ],
+    "keyPointers": [
+      "A precise change in a crop, not only a transferred gene",
+      "Yield, a pest and a nutrient can be targeted",
+      "Regulation and a farmer’s access decide the gain",
+      "Reshaping is possible; adoption is the test"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -362,6 +425,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Online radicalisation across borders"
+    ],
+    "keyPointers": [
+      "A video and a closed group cross a frontier",
+      "A grievance is given a simple enemy",
+      "The recruiter need not enter the country",
+      "The answer is a counter-story and a police, not only a block"
     ],
     "vault_path": null,
     "points": [
@@ -412,6 +484,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Human trafficking"
+    ],
+    "keyPointers": [
+      "Poverty, a false job and a weak border",
+      "Women and children are the usual victims",
+      "Rescue, a prosecution and rehabilitation",
+      "Protection fails if the survivor is only sent back"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -460,6 +541,15 @@
     "topic": "Disaster Management",
     "topics": [
       "Disaster Management"
+    ],
+    "subTopics": [
+      "Nuclear proliferation"
+    ],
+    "keyPointers": [
+      "More states and a non-state risk",
+      "Treaties slow it and do not stop a determined programme",
+      "The challenge is a weapon plus a weak control",
+      "Security is the spread, not only the size of an arsenal"
     ],
     "vault_path": null,
     "points": [
@@ -510,6 +600,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Rain and irrigation together"
+    ],
+    "keyPointers": [
+      "Rain is free and unreliable",
+      "Irrigation covers the gap and the dry week",
+      "Neither alone steadies the crop",
+      "Complement means storing the rain, not replacing it"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -558,6 +657,15 @@
     "topic": "Science & Tech",
     "topics": [
       "Science & Tech"
+    ],
+    "subTopics": [
+      "Reducing income inequality"
+    ],
+    "keyPointers": [
+      "The gap is wages, assets and a captured growth",
+      "Tax, a public school and a health floor",
+      "Jobs in labour-heavy work",
+      "Minimise by who gains, not only by the average"
     ],
     "vault_path": null,
     "points": [
@@ -608,6 +716,15 @@
     "topics": [
       "Food Security"
     ],
+    "subTopics": [
+      "Global tensions and India’s trade"
+    ],
+    "keyPointers": [
+      "A tariff, a disrupted route and a dearer input",
+      "Exports and a supply chain both feel it",
+      "The hit is uneven by sector",
+      "Diversify the market and the source"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -656,6 +773,15 @@
     "topic": "Science & Tech",
     "topics": [
       "Science & Tech"
+    ],
+    "subTopics": [
+      "Health and education as economic foundation"
+    ],
+    "keyPointers": [
+      "A skilled, healthy worker is the base of later growth",
+      "The government’s view is human capital, not only a plant",
+      "Under-spend here shows up as a jobless rise",
+      "The foundation is capability"
     ],
     "vault_path": null,
     "points": [
@@ -706,6 +832,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Unfinished land reform"
+    ],
+    "keyPointers": [
+      "A title that is unclear blocks credit and a sale",
+      "Tenancy is informal, so the tiller is unprotected",
+      "Ceilings were the old agenda; records are the present one",
+      "Unfinished means the cultivator still does not securely hold the land"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -754,6 +889,15 @@
     "topic": "Energy",
     "topics": [
       "Energy"
+    ],
+    "subTopics": [
+      "Startup schemes"
+    ],
+    "keyPointers": [
+      "A grant, a credit and a simpler rule",
+      "They move a laboratory idea toward a firm",
+      "Growth is real in some sectors and thin in jobs",
+      "Contribution is innovation more than mass employment"
     ],
     "vault_path": null,
     "points": [
@@ -804,6 +948,15 @@
     "topics": [
       "Disaster Management"
     ],
+    "subTopics": [
+      "Three technologies and development"
+    ],
+    "keyPointers": [
+      "IT is the service and the digital state",
+      "Space is communication, a map and a weather warning",
+      "Biotechnology is seed, a vaccine and a process",
+      "Together they raise capability; they do not replace land and school"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -852,6 +1005,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Drugs and organised crime"
+    ],
+    "keyPointers": [
+      "A route, a laundered profit and a local seller",
+      "They buy a gun and a official",
+      "Control is the border, the money and the treatment",
+      "One raid does not break the chain"
     ],
     "vault_path": null,
     "points": [
@@ -902,6 +1064,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Security and development together"
+    ],
+    "keyPointers": [
+      "A missing road and a missing school feed an insurgency",
+      "A secure area can then be built",
+      "Force without development returns the gun",
+      "The relationship is mutual, not a sequence of slogans"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -950,6 +1121,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Reducing man-made disaster risk"
+    ],
+    "keyPointers": [
+      "A standard, an inspection and a drill",
+      "Separate a hazard from a crowd",
+      "Intelligence and a response that has been practised",
+      "The strategy is prevention and a plan, not only relief"
     ],
     "vault_path": null,
     "points": [

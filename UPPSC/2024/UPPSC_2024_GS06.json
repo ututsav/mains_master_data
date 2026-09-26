@@ -20,6 +20,15 @@
     "topics": [
       "UP Industry"
     ],
+    "subTopics": [
+      "MSME policy in UP"
+    ],
+    "keyPointers": [
+      "Credit, a cluster and a simpler approval",
+      "The small unit is the state’s main employer",
+      "Programmes fail if the loan and the power do not arrive",
+      "Policy is the ease of staying open"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -74,6 +83,15 @@
     "topic": "UP Infrastructure",
     "topics": [
       "UP Infrastructure"
+    ],
+    "subTopics": [
+      "Infrastructure and economic diversification"
+    ],
+    "keyPointers": [
+      "Expressways, an airport and a power line open a new sector",
+      "Diversification is real in some corridors",
+      "A road does not by itself create a firm",
+      "Analyse the extent, not the announcement"
     ],
     "vault_path": null,
     "points": [
@@ -130,6 +148,15 @@
     "topics": [
       "UP Environment"
     ],
+    "subTopics": [
+      "Ramsar wetlands of UP"
+    ],
+    "keyPointers": [
+      "Wetlands of international importance",
+      "They recharge water, hold a flood and a bird",
+      "The Upper Ganga stretch is one; others sit across the state",
+      "Feature is the water, not only the label"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -184,6 +211,15 @@
     "topic": "UP Geography",
     "topics": [
       "UP Geography"
+    ],
+    "subTopics": [
+      "Natural vegetation of UP"
+    ],
+    "keyPointers": [
+      "Terai forest, a dry deciduous plain and a ravine",
+      "Rain and soil decide the type",
+      "Much of the original cover is now field",
+      "Distribution follows the ecozone"
     ],
     "vault_path": null,
     "points": [
@@ -240,6 +276,15 @@
     "topics": [
       "UP Agriculture"
     ],
+    "subTopics": [
+      "Commercial agriculture in UP"
+    ],
+    "keyPointers": [
+      "A cash crop and a market raise income",
+      "Risk and input cost rise with it",
+      "Benefit is real where the buyer is sure",
+      "It is not automatically better for every small farm"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -294,6 +339,15 @@
     "topic": "UP Agriculture",
     "topics": [
       "UP Agriculture"
+    ],
+    "subTopics": [
+      "Viticulture in UP"
+    ],
+    "keyPointers": [
+      "Climate, a variety and a cold chain",
+      "Challenges of skill, a market and a perishable fruit",
+      "It can support a local processing job",
+      "Potential if the grape is not only a hobby crop"
     ],
     "vault_path": null,
     "points": [
@@ -350,6 +404,15 @@
     "topics": [
       "UP Geography"
     ],
+    "subTopics": [
+      "Weather forecasting technology in UP"
+    ],
+    "keyPointers": [
+      "A denser observation and a better model",
+      "A warning that reaches the farmer’s phone",
+      "Technology is the forecast plus the last-mile alert",
+      "Improvement is earlier, local and usable"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -404,6 +467,15 @@
     "topic": "Science & Tech",
     "topics": [
       "Science & Tech"
+    ],
+    "subTopics": [
+      "Science and innovation policy in UP"
+    ],
+    "keyPointers": [
+      "A council, a startup and a lab grant",
+      "The policy aims at a local problem solved",
+      "Innovation needs an industry that will use it",
+      "A policy is the frame, not the invention"
     ],
     "vault_path": null,
     "points": [
@@ -460,6 +532,15 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "Digital India in UP"
+    ],
+    "keyPointers": [
+      "A service centre, a payment and an online scheme",
+      "The state is a large user of the national mission",
+      "Participation is uneven by connectivity",
+      "Examine use, not only a portal count"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -515,6 +596,15 @@
     "topics": [
       "UP Economy"
     ],
+    "subTopics": [
+      "Science challenges of a larger UP economy"
+    ],
+    "keyPointers": [
+      "Skills, energy, water and a research base",
+      "A bigger economy needs more than a road",
+      "The scientific challenge is productivity",
+      "Without it the number is a claim"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -569,6 +659,15 @@
     "topic": "UP Economy",
     "topics": [
       "UP Economy"
+    ],
+    "subTopics": [
+      "Global investor summits"
+    ],
+    "keyPointers": [
+      "They announce a large intent",
+      "Achievement is the unit that is built and the job that starts",
+      "Many proposals do not land",
+      "Evaluate conversion, not the headline"
     ],
     "vault_path": null,
     "points": [
@@ -631,6 +730,15 @@
     "topics": [
       "UP Welfare"
     ],
+    "subTopics": [
+      "Welfare schemes in the state budget"
+    ],
+    "keyPointers": [
+      "Women, youth and the farm are the usual heads",
+      "A scheme is a promise until it is released",
+      "Introduce the major ones and who they are for",
+      "The budget is the list; delivery is the test"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -692,6 +800,15 @@
     "topics": [
       "UP Environment"
     ],
+    "subTopics": [
+      "Wildlife sanctuaries of UP"
+    ],
+    "keyPointers": [
+      "A network across the Terai, the ravine and the wetlands",
+      "Some hold a tiger, a dolphin, a bird or a crocodile that is threatened",
+      "Crucial means the species would fail without that place",
+      "Sanctuary is habitat, not only a boundary"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -752,6 +869,15 @@
     "topic": "UP Agriculture",
     "topics": [
       "UP Agriculture"
+    ],
+    "subTopics": [
+      "Geographical regions of UP"
+    ],
+    "keyPointers": [
+      "The Himalayan fringe, the Terai, the plain, the east and Bundelkhand",
+      "Each has a different soil, crop and culture",
+      "Economic significance follows water and a mineral",
+      "Divide first, then explain"
     ],
     "vault_path": null,
     "points": [
@@ -838,6 +964,15 @@
     "topics": [
       "UP Agriculture"
     ],
+    "subTopics": [
+      "Farmer schools and natural farming"
+    ],
+    "keyPointers": [
+      "A seasonal school takes a practice to the field",
+      "Natural farming cuts the chemical load",
+      "They can sustain soil and a margin together",
+      "Key only if the farmer adopts and the yield holds"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -911,6 +1046,15 @@
     "topics": [
       "UP Agriculture"
     ],
+    "subTopics": [
+      "Floriculture in UP"
+    ],
+    "keyPointers": [
+      "A perishable crop needs a cold chain and a nearby market",
+      "Problems: seed, a price crash and a skill",
+      "Prospects: a city demand and an export",
+      "Reference the state’s belts, not a general India answer"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -971,6 +1115,15 @@
     "topic": "UP Environment",
     "topics": [
       "UP Environment"
+    ],
+    "subTopics": [
+      "Three ecozones of UP"
+    ],
+    "keyPointers": [
+      "Terai: wet, sal and teak, and a large mammal",
+      "The Gangetic plain: field, a wetland and a bird",
+      "The southern plateau and ravine: drier scrub and a different fauna",
+      "Name the condition before the species"
     ],
     "vault_path": null,
     "points": [
@@ -1057,6 +1210,15 @@
     "topics": [
       "Science & Tech"
     ],
+    "subTopics": [
+      "Biotechnology in UP"
+    ],
+    "keyPointers": [
+      "Seed, a diagnostic and a process",
+      "Achievements are in labs and a few crops",
+      "The poor gain if the result is cheap and local",
+      "Uplift is access, not the paper"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1118,6 +1280,15 @@
     "topics": [
       "UP Agriculture"
     ],
+    "subTopics": [
+      "Farm produce chain in UP"
+    ],
+    "keyPointers": [
+      "Small lots and a weak storage",
+      "A long chain of buyers",
+      "Marketing is where the farmer loses the price",
+      "The three stages fail separately and together"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1178,6 +1349,15 @@
     "topic": "UP Economy",
     "topics": [
       "UP Economy"
+    ],
+    "subTopics": [
+      "PPP and employability"
+    ],
+    "keyPointers": [
+      "A private trainer and a public scheme",
+      "Employability is a skill a firm will hire",
+      "The partnership works if the placement is real",
+      "Strengthen it by paying for the job, not only the course"
     ],
     "vault_path": null,
     "points": [

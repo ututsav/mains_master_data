@@ -20,6 +20,15 @@
     "topics": [
       "UP Economy"
     ],
+    "subTopics": [
+      "UP tax reforms"
+    ],
+    "keyPointers": [
+      "Digital GST and a simpler compliance",
+      "The aim is revenue and ease of business",
+      "A faceless process cuts a discretion",
+      "Reform is the procedure as much as the rate"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +77,15 @@
     "topic": "UP Economy",
     "topics": [
       "UP Economy"
+    ],
+    "subTopics": [
+      "Invest UP"
+    ],
+    "keyPointers": [
+      "A single window between the state and an investor",
+      "Nivesh Mitra and an investment summit",
+      "It shortens an approval",
+      "Development follows only if the unit is actually built"
     ],
     "vault_path": null,
     "points": [
@@ -118,6 +136,15 @@
     "topics": [
       "UP Energy"
     ],
+    "subTopics": [
+      "Green Star Rating"
+    ],
+    "keyPointers": [
+      "A benchmark for a cleaner industrial unit",
+      "Carbon, discharge and waste are the tests",
+      "A rating makes the practice visible",
+      "It works if a low star has a consequence"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -166,6 +193,15 @@
     "topic": "UP Economy",
     "topics": [
       "UP Economy"
+    ],
+    "subTopics": [
+      "Biomass energy in UP"
+    ],
+    "keyPointers": [
+      "Stubble, bagasse and dung are renewed each season",
+      "Using them cuts a burn and a waste",
+      "Sensitive because a wrong use can strip residue the soil needs",
+      "Renewable if the cycle is kept"
     ],
     "vault_path": null,
     "points": [
@@ -216,6 +252,15 @@
     "topics": [
       "UP Economy"
     ],
+    "subTopics": [
+      "Sericulture schemes in UP"
+    ],
+    "keyPointers": [
+      "Mulberry, eri and tussar",
+      "Subsidy for a plantation and a rearing house",
+      "A named silk scheme is the vehicle",
+      "Evaluate by the rearer’s income, not the announcement"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -264,6 +309,15 @@
     "topic": "UP Agriculture",
     "topics": [
       "UP Agriculture"
+    ],
+    "subTopics": [
+      "Soil health and input costs"
+    ],
+    "keyPointers": [
+      "Too much chemical and too little organic matter",
+      "The cost of fertiliser and energy rises faster than the price",
+      "Sustainability is both the soil and the margin",
+      "Analyse them as one threat"
     ],
     "vault_path": null,
     "points": [
@@ -314,6 +368,15 @@
     "topics": [
       "UP Agriculture"
     ],
+    "subTopics": [
+      "Municipal waste rules in UP"
+    ],
+    "keyPointers": [
+      "Door-to-door collection and segregation at source",
+      "Dry, wet and hazardous kept apart",
+      "Processing, not only a dump",
+      "The guideline is a city that does not mix the waste"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -362,6 +425,15 @@
     "topic": "UP Agriculture",
     "topics": [
       "UP Agriculture"
+    ],
+    "subTopics": [
+      "Drone Didi"
+    ],
+    "keyPointers": [
+      "Women in self-help groups trained to fly a farm drone",
+      "Spraying and a paid service",
+      "Empowerment is a skill and an income",
+      "It contributes if the woman, not a proxy, holds the control"
     ],
     "vault_path": null,
     "points": [
@@ -412,6 +484,15 @@
     "topics": [
       "UP Environment"
     ],
+    "subTopics": [
+      "Human–wildlife conflict in UP"
+    ],
+    "keyPointers": [
+      "Farms and roads cut the Terai habitat",
+      "Causes are fragmentation and a crop at the edge",
+      "Measures: a corridor, a quick compensation, and a barrier that works",
+      "Reduction is space and a response, not only a relocation"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -460,6 +541,15 @@
     "topic": "UP Infrastructure",
     "topics": [
       "UP Infrastructure"
+    ],
+    "subTopics": [
+      "Science outreach in UP"
+    ],
+    "keyPointers": [
+      "A fair lets a student test an idea on a local problem",
+      "It builds a temper, not only a prize",
+      "Campaigns against a superstition need the same public",
+      "The role is habit, not a one-day stall"
     ],
     "vault_path": null,
     "points": [
@@ -510,6 +600,15 @@
     "topics": [
       "UP Economy"
     ],
+    "subTopics": [
+      "Women and child schemes in UP"
+    ],
+    "keyPointers": [
+      "Institutional delivery and a better sex ratio are the gains",
+      "Kanya Sumangala and Mission Shakti are examples",
+      "Challenges: exclusion, a proxy and a weak last mile",
+      "A decade of schemes is not yet a decade of results everywhere"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -558,6 +657,15 @@
     "topic": "UP Industry",
     "topics": [
       "UP Industry"
+    ],
+    "subTopics": [
+      "Defence Industrial Corridor"
+    ],
+    "keyPointers": [
+      "Nodes that pull defence manufacture into the state",
+      "Jobs and a supplier chain beyond one city",
+      "Regional development if the small firm is included",
+      "A corridor is a cluster, not only a land allotment"
     ],
     "vault_path": null,
     "points": [
@@ -608,6 +716,15 @@
     "topics": [
       "UP Agriculture"
     ],
+    "subTopics": [
+      "Green hydrogen policy"
+    ],
+    "keyPointers": [
+      "Hydrogen from clean power, not from coal",
+      "Aims: industry, a new fuel and investment",
+      "Incentives are land, a tariff and a process",
+      "The policy is a bet on a fuel that is still costly"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -656,6 +773,15 @@
     "topic": "UP Industry",
     "topics": [
       "UP Industry"
+    ],
+    "subTopics": [
+      "Bundelkhand mining"
+    ],
+    "keyPointers": [
+      "The ore is there; the system is not",
+      "Illegal extraction, a thin rule and a damaged land",
+      "Illness is governance and ecology",
+      "Not a lack of the mineral"
     ],
     "vault_path": null,
     "points": [
@@ -706,6 +832,15 @@
     "topics": [
       "UP Geography"
     ],
+    "subTopics": [
+      "Integrated farm development"
+    ],
+    "keyPointers": [
+      "Crop, fruit, fish and an animal on a linked plan",
+      "A waste of one feeds another",
+      "Progress is income that is not only one harvest",
+      "Integration is the design"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -754,6 +889,15 @@
     "topic": "UP Environment",
     "topics": [
       "UP Environment"
+    ],
+    "subTopics": [
+      "Crop insurance in UP"
+    ],
+    "keyPointers": [
+      "A failed monsoon is the risk",
+      "Insurance pays only if the assessment is fast and fair",
+      "Impact is a farmer who can sow again",
+      "Weak if the claim is late or the excluded are many"
     ],
     "vault_path": null,
     "points": [
@@ -804,6 +948,15 @@
     "topics": [
       "UP Industry"
     ],
+    "subTopics": [
+      "Taj Trapezium industrial categories"
+    ],
+    "keyPointers": [
+      "Industries graded by how much they pollute",
+      "The aim is the monument and the air around Agra",
+      "A category decides who may operate and how",
+      "The criterion is pollution load, not only size"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -852,6 +1005,15 @@
     "topic": "UP Energy",
     "topics": [
       "UP Energy"
+    ],
+    "subTopics": [
+      "UP’s shift toward manufacturing and IT"
+    ],
+    "keyPointers": [
+      "An old label of backwardness",
+      "Expressways, a corridor and a service city",
+      "Key areas: electronics, defence and a digital firm",
+      "The shift is uneven; the claim needs the district, not only the capital"
     ],
     "vault_path": null,
     "points": [
@@ -902,6 +1064,15 @@
     "topics": [
       "UP Economy"
     ],
+    "subTopics": [
+      "Research facilities and innovation"
+    ],
+    "keyPointers": [
+      "Funds for instruments and a shared lab",
+      "They let a college do science it could not afford",
+      "Innovation follows if industry uses the result",
+      "The role is infrastructure for research"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -950,6 +1121,15 @@
     "topic": "UP Environment",
     "topics": [
       "UP Environment"
+    ],
+    "subTopics": [
+      "Digital UP as an investment destination"
+    ],
+    "keyPointers": [
+      "A service online and a single window for capital",
+      "Empowerment is the citizen’s access, not only the investor’s",
+      "The vision joins the two",
+      "Judge it by a village that can use it and a unit that stays"
     ],
     "vault_path": null,
     "points": [

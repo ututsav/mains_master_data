@@ -20,6 +20,15 @@
     "topics": [
       "Thinkers"
     ],
+    "subTopics": [
+      "Human values and the family"
+    ],
+    "keyPointers": [
+      "Values are what a person holds as worth doing",
+      "They are learnt before a code is read",
+      "The family is the first school of honesty and care",
+      "A public servant carries that early training into the file"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +77,15 @@
     "topic": "Ethics basics",
     "topics": [
       "Ethics basics"
+    ],
+    "subTopics": [
+      "Chanakya and ethical governance"
+    ],
+    "keyPointers": [
+      "The state exists for the people’s yogakshema",
+      "Means of rule were hard; the aim was order and welfare",
+      "Relevance is vigilance, a treasury and a king bound by duty",
+      "Use the aim, not every ancient tactic"
     ],
     "vault_path": null,
     "points": [
@@ -118,6 +136,15 @@
     "topics": [
       "Aptitude"
     ],
+    "subTopics": [
+      "Aristotelian virtue in administration"
+    ],
+    "keyPointers": [
+      "Virtue is a habit between excess and deficit",
+      "Courage, justice and practical wisdom",
+      "An officer needs the mean, not a slogan",
+      "Application is a repeated right decision"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -166,6 +193,15 @@
     "topic": "Civil Service Values",
     "topics": [
       "Civil Service Values"
+    ],
+    "subTopics": [
+      "Moral duty and official role"
+    ],
+    "keyPointers": [
+      "Role responsibility is what the post requires",
+      "Moral responsibility is what the person owes even then",
+      "They usually coincide and sometimes conflict",
+      "The servant is both the office and the conscience"
     ],
     "vault_path": null,
     "points": [
@@ -216,6 +252,15 @@
     "topics": [
       "Thinkers"
     ],
+    "subTopics": [
+      "Ends and means in public funds"
+    ],
+    "keyPointers": [
+      "A good scheme does not justify a dirty method",
+      "The means of spending is part of the result",
+      "Leakage corrupts the end",
+      "Desirable because the fund is a trust"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -264,6 +309,15 @@
     "topic": "Probity",
     "topics": [
       "Probity"
+    ],
+    "subTopics": [
+      "Self-regulation at work"
+    ],
+    "keyPointers": [
+      "Notice the impulse before it becomes the act",
+      "A standard one keeps without a supervisor",
+      "Components: awareness, restraint and a review of one’s own work",
+      "Performance rises when the check is internal"
     ],
     "vault_path": null,
     "points": [
@@ -314,6 +368,15 @@
     "topics": [
       "Attitude"
     ],
+    "subTopics": [
+      "Emotional intelligence"
+    ],
+    "keyPointers": [
+      "Name the feeling, then choose",
+      "Anger and fear make a worse order",
+      "Agree, with the limit that a moral anger should not be erased",
+      "Use the emotion as information"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -362,6 +425,15 @@
     "topic": "Integrity",
     "topics": [
       "Integrity"
+    ],
+    "subTopics": [
+      "Ethical persuasion in campaigns"
+    ],
+    "keyPointers": [
+      "Inform and invite, do not manipulate",
+      "Tell the truth about the cost and the benefit",
+      "A campaign may use example and a peer",
+      "It may not use fear or a false fact"
     ],
     "vault_path": null,
     "points": [
@@ -412,6 +484,15 @@
     "topics": [
       "Thinkers"
     ],
+    "subTopics": [
+      "Social skills and cyber crime"
+    ],
+    "keyPointers": [
+      "A platform rewards outrage and a false intimacy",
+      "The skill of checking a source and refusing a forward",
+      "Crime uses trust: a scam, a lure, a mob",
+      "Social skill now includes what not to share"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -460,6 +541,15 @@
     "topic": "Ethics basics",
     "topics": [
       "Ethics basics"
+    ],
+    "subTopics": [
+      "Induced compliance"
+    ],
+    "keyPointers": [
+      "A small public commitment makes the later act likelier",
+      "Used for a tax, a scheme and a behaviour",
+      "Useful when it is voluntary and true",
+      "Manipulative when the person is trapped into a consent"
     ],
     "vault_path": null,
     "points": [
@@ -510,6 +600,15 @@
     "topics": [
       "Civil Service Values"
     ],
+    "subTopics": [
+      "Ethical administration and good governance"
+    ],
+    "keyPointers": [
+      "Ethical administration is the conduct of the officer",
+      "Good governance is the system: rule, delivery, account",
+      "The system needs the conduct",
+      "Neither is enough alone; the system is the larger frame"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -558,6 +657,15 @@
     "topic": "Thinkers",
     "topics": [
       "Thinkers"
+    ],
+    "subTopics": [
+      "Ethics of automated decisions"
+    ],
+    "keyPointers": [
+      "A model can hide a bias in a clean screen",
+      "The official remains responsible for the output",
+      "Explainability and a human appeal",
+      "Big data does not cancel a reason"
     ],
     "vault_path": null,
     "points": [
@@ -608,6 +716,15 @@
     "topics": [
       "Aptitude"
     ],
+    "subTopics": [
+      "Ethical judgement against an order"
+    ],
+    "keyPointers": [
+      "Facts, the rule, the harm and one’s role",
+      "A legal order can still be unjust",
+      "Record the dissent and refuse the illegal act",
+      "Judgement is a reason, not a mood"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -656,6 +773,15 @@
     "topic": "Corruption",
     "topics": [
       "Corruption"
+    ],
+    "subTopics": [
+      "RTI as a moral basis, and secrecy"
+    ],
+    "keyPointers": [
+      "The citizen’s right to know is a moral claim",
+      "It disciplines the file",
+      "A real secret, a privacy and a security interest remain",
+      "The dilemma is disclosure against a harm, not against embarrassment"
     ],
     "vault_path": null,
     "points": [
@@ -706,6 +832,15 @@
     "topics": [
       "Case Study"
     ],
+    "subTopics": [
+      "Codes and values beyond the code"
+    ],
+    "keyPointers": [
+      "A code sets the floor",
+      "Values cover the case the code did not write",
+      "Adherence without judgement is compliance",
+      "Ethical governance needs both"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -754,6 +889,15 @@
     "topic": "Attitude",
     "topics": [
       "Attitude"
+    ],
+    "subTopics": [
+      "Tolerance, sympathy and mental health"
+    ],
+    "keyPointers": [
+      "The weak meet the state already afraid",
+      "A humiliating counter worsens the harm",
+      "Sympathy is seeing the person; tolerance is not punishing difference",
+      "The quality changes whether help is taken"
     ],
     "vault_path": null,
     "points": [
@@ -804,6 +948,15 @@
     "topics": [
       "Case Study"
     ],
+    "subTopics": [
+      "Persuasion and Swachh Bharat"
+    ],
+    "keyPointers": [
+      "A neighbour’s habit changes a habit",
+      "Pride, a visible clean lane and a local leader",
+      "Suggest: do not only fine; show and repeat",
+      "The campaign succeeds as a norm, not as a poster"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -853,6 +1006,15 @@
     "topics": [
       "Ethics basics"
     ],
+    "subTopics": [
+      "Unconscious attitudes"
+    ],
+    "keyPointers": [
+      "Family and the street teach a bias before the exam",
+      "The officer must notice it",
+      "Examination is the start of impartiality",
+      "What was absorbed can be reviewed"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -889,6 +1051,15 @@
     "topic": "Probity",
     "topics": [
       "Probity"
+    ],
+    "subTopics": [
+      "Integrity and efficiency in companies"
+    ],
+    "keyPointers": [
+      "Integrity is the books and the decision matching the stated value",
+      "Efficiency is doing the work well",
+      "One without the other is a fraud or a failure",
+      "Governance needs both in the board and the manager"
     ],
     "vault_path": null,
     "points": [
@@ -938,6 +1109,15 @@
     "topic": "Case Study",
     "topics": [
       "Case Study"
+    ],
+    "subTopics": [
+      "A parent’s call during a public duty"
+    ],
+    "keyPointers": [
+      "The dilemma is the child against the post",
+      "Options: leave, delegate and stay, or go once the immediate public danger is held",
+      "A child in real danger is not a small private matter",
+      "Choose by the seriousness of each harm, and record the handover"
     ],
     "vault_path": null,
     "points": [

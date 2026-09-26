@@ -20,6 +20,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Globalisation and industry"
+    ],
+    "keyPointers": [
+      "New investment, a supply chain and a competition",
+      "Some industries grew; some could not face the import",
+      "Evaluate the effect",
+      "Development was uneven by sector"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +77,15 @@
     "topic": "Energy",
     "topics": [
       "Energy"
+    ],
+    "subTopics": [
+      "Renewable targets in the energy policy"
+    ],
+    "keyPointers": [
+      "The draft raised the share of clean generation",
+      "Targets cover solar, wind and a lower dependence on fossil fuel",
+      "Describe the direction",
+      "A draft target is not yet the plant"
     ],
     "vault_path": null,
     "points": [
@@ -118,6 +136,15 @@
     "topics": [
       "Inclusive Growth"
     ],
+    "subTopics": [
+      "India and the Sustainable Development Goals"
+    ],
+    "keyPointers": [
+      "Schemes mapped onto the goals",
+      "Progress is uneven across goals and states",
+      "Throw light on the effort and the gap",
+      "Pursuit is a plan plus a result"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -166,6 +193,15 @@
     "topic": "Food Security",
     "topics": [
       "Food Security"
+    ],
+    "subTopics": [
+      "Kisan SAMPADA"
+    ],
+    "keyPointers": [
+      "A scheme for food parks, a cold chain and processing",
+      "Objective: less waste and a higher farm price",
+      "Provisions are the components of the chain",
+      "Name them"
     ],
     "vault_path": null,
     "points": [
@@ -216,6 +252,15 @@
     "topics": [
       "Agriculture"
     ],
+    "subTopics": [
+      "Technology missions in agriculture"
+    ],
+    "keyPointers": [
+      "A focused push on a crop or a method",
+      "Objectives: yield, a seed and a spread of the practice",
+      "Not a general science essay",
+      "The mission is the focus"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -264,6 +309,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Cyber security"
+    ],
+    "keyPointers": [
+      "The knowledge of protecting a network, a system and a data",
+      "Importance: banks, a grid and the state now run on them",
+      "A failure is a security failure",
+      "Mention why it matters"
     ],
     "vault_path": null,
     "points": [
@@ -314,6 +368,15 @@
     "topics": [
       "Science & Tech"
     ],
+    "subTopics": [
+      "Applications of biotechnology"
+    ],
+    "keyPointers": [
+      "Medicine, a crop, an industry and the environment",
+      "A vaccine, a seed and a process",
+      "Discuss the fields",
+      "The application is the use, not the definition alone"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -363,6 +426,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Strategies against left-wing extremism"
+    ],
+    "keyPointers": [
+      "Security and development together",
+      "A road, a surrender and a police that stays",
+      "Winning the citizen means a livelihood",
+      "The doctrine is not beaten by force alone"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -411,6 +483,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "National defence and security council"
+    ],
+    "keyPointers": [
+      "The question names a defence council; the working apex is the security machinery around the Cabinet",
+      "It advises and coordinates, it does not itself command a battle",
+      "Elaborate the structure",
+      "Do not invent a separate army"
     ],
     "vault_path": null,
     "points": [
@@ -473,6 +554,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Defence public–private partnership"
+    ],
+    "keyPointers": [
+      "A private firm builds or maintains what the forces need",
+      "The model shares capital and a technology",
+      "The state keeps the strategic control",
+      "It is production, not a private army"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -521,6 +611,15 @@
     "topic": "UP Economy",
     "topics": [
       "UP Economy"
+    ],
+    "subTopics": [
+      "UP Skill Development Mission"
+    ],
+    "keyPointers": [
+      "Training aimed at a job",
+      "Provisions: a course, a standard and a placement",
+      "Status: announce the gap between trained and hired",
+      "Implementation is the test"
     ],
     "vault_path": null,
     "points": [
@@ -577,6 +676,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Development and carbon emissions"
+    ],
+    "keyPointers": [
+      "Growth still uses coal and a vehicle",
+      "The balance is more output with less carbon",
+      "A note should hold both sides",
+      "Equilibrium is a design, not a slogan"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -625,6 +733,15 @@
     "topic": "Food Security",
     "topics": [
       "Food Security"
+    ],
+    "subTopics": [
+      "National Food Security Act"
+    ],
+    "keyPointers": [
+      "A legal entitlement to subsidised grain",
+      "Provisions: coverage, price and a grievance",
+      "Reforms: the list, nutrition and less leak",
+      "Strengthen means the household actually eats"
     ],
     "vault_path": null,
     "points": [
@@ -687,6 +804,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "MSMEs, growth and jobs"
+    ],
+    "keyPointers": [
+      "They employ more people per unit of capital than a large plant",
+      "They also lack credit and a market",
+      "Comment: a driver, and a fragile one",
+      "Discuss the claim"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -735,6 +861,15 @@
     "topic": "UP Economy",
     "topics": [
       "UP Economy"
+    ],
+    "subTopics": [
+      "Regional disparity in UP"
+    ],
+    "keyPointers": [
+      "The west is ahead of the east and Bundelkhand",
+      "Causes: water, industry, a city and a long neglect",
+      "Discuss the factors",
+      "The state is not one economy"
     ],
     "vault_path": null,
     "points": [
@@ -797,6 +932,15 @@
     "topics": [
       "Science & Tech"
     ],
+    "subTopics": [
+      "TIFAC and coming technologies"
+    ],
+    "keyPointers": [
+      "It forecasts and assesses technology for the government",
+      "Mandate is foresight, not a factory",
+      "In information technology the near horizon was intelligence, a cloud, a connected device and security",
+      "Enlist the direction"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -846,6 +990,15 @@
     "topics": [
       "Science & Tech"
     ],
+    "subTopics": [
+      "Technology Vision 2035"
+    ],
+    "keyPointers": [
+      "A long view of technology for India",
+      "Fields are the major sectors of life and production",
+      "The aim is a capability the citizen can use",
+      "‘Powers’ here are those capabilities, not a legal privilege"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -894,6 +1047,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Security challenges of globalisation"
+    ],
+    "keyPointers": [
+      "A border is easier to cross for a good, a person, a virus and a crime",
+      "Terror, cyber and a supply chain",
+      "The age widens the threat",
+      "Discuss the new challenges"
     ],
     "vault_path": null,
     "points": [
@@ -949,6 +1111,15 @@
     "topic": "Disaster Management",
     "topics": [
       "Disaster Management"
+    ],
+    "subTopics": [
+      "Disaster management at three levels"
+    ],
+    "keyPointers": [
+      "The Centre sets the law, the fund and the warning",
+      "The state coordinates",
+      "The district is where the rescue happens",
+      "Discuss all three"
     ],
     "vault_path": null,
     "points": [
@@ -1010,6 +1181,15 @@
     "topic": "UP Polity",
     "topics": [
       "UP Polity"
+    ],
+    "subTopics": [
+      "Law and order in UP"
+    ],
+    "keyPointers": [
+      "Crime, a communal flare and a slow case",
+      "Solutions: a fair police, a fast trial and a prevention",
+      "Present challenges, not a history",
+      "The solution has to match the challenge"
     ],
     "vault_path": null,
     "points": [

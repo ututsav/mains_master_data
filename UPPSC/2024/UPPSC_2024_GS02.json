@@ -20,6 +20,15 @@
     "topics": [
       "Constitution"
     ],
+    "subTopics": [
+      "Composition of the Constituent Assembly"
+    ],
+    "keyPointers": [
+      "Mostly elected by provincial assemblies, some nominated",
+      "Communities and the princely states were represented",
+      "It was not elected by universal suffrage",
+      "The composition shaped the bargain"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -74,6 +83,15 @@
     "topic": "Governance",
     "topics": [
       "Governance"
+    ],
+    "subTopics": [
+      "NITI Aayog"
+    ],
+    "keyPointers": [
+      "A think tank, not a fund allocator like the old Commission",
+      "Cooperative federalism and a state ranking",
+      "Strategy, a scheme design and a monitoring",
+      "Its role is advice; the money still sits with the finance ministry"
     ],
     "vault_path": null,
     "points": [
@@ -130,6 +148,15 @@
     "topics": [
       "Parliament"
     ],
+    "subTopics": [
+      "Special powers of the Rajya Sabha"
+    ],
+    "keyPointers": [
+      "It can authorise Parliament to legislate on a state subject",
+      "It can create or end an all-India service",
+      "A money bill is not its field",
+      "The special powers protect the federal side"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -184,6 +211,15 @@
     "topic": "Judiciary",
     "topics": [
       "Judiciary"
+    ],
+    "subTopics": [
+      "Judicial independence and basic structure"
+    ],
+    "keyPointers": [
+      "Security of tenure, a salary charged on the fund, and a hard removal",
+      "Separation from the executive",
+      "Basic structure puts independence beyond an ordinary amendment",
+      "Both are limits on the other branches"
     ],
     "vault_path": null,
     "points": [
@@ -240,6 +276,15 @@
     "topics": [
       "Social Justice"
     ],
+    "subTopics": [
+      "Public distribution and poverty"
+    ],
+    "keyPointers": [
+      "A subsidised grain steadies the poorest household",
+      "It does not by itself create a job or an asset",
+      "Leakage and exclusion cut the contribution",
+      "Review it as food security, not as the whole of poverty policy"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -294,6 +339,15 @@
     "topic": "Governance",
     "topics": [
       "Governance"
+    ],
+    "subTopics": [
+      "Self-help groups"
+    ],
+    "keyPointers": [
+      "Savings, a small loan and a collective voice",
+      "Women are the usual members",
+      "They link a household to a bank and a scheme",
+      "Development here is organisation plus credit"
     ],
     "vault_path": null,
     "points": [
@@ -350,6 +404,15 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "Civil society and administration"
+    ],
+    "keyPointers": [
+      "It watches, informs and fills a gap",
+      "It can improve a delivery the office misses",
+      "It is not the government",
+      "Useful when it is heard and not only suspected"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -404,6 +467,15 @@
     "topic": "International Relations",
     "topics": [
       "International Relations"
+    ],
+    "subTopics": [
+      "India–Maldives relations"
+    ],
+    "keyPointers": [
+      "Security of the Indian Ocean and a near neighbour",
+      "Development projects and a political swing in Male",
+      "Interests are shared and can be strained",
+      "Explain the link, not a permanent friendship"
     ],
     "vault_path": null,
     "points": [
@@ -460,6 +532,15 @@
     "topics": [
       "International Relations"
     ],
+    "subTopics": [
+      "Structure and funding of the WHO"
+    ],
+    "keyPointers": [
+      "An assembly of members, an executive board and a secretariat",
+      "Assessed contributions plus voluntary money",
+      "The voluntary share bends the agenda",
+      "Structure is universal; funding is not equally free"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -508,6 +589,15 @@
     "topic": "International Relations",
     "topics": [
       "International Relations"
+    ],
+    "subTopics": [
+      "India’s South-East Asia policy"
+    ],
+    "keyPointers": [
+      "Look East became Act East",
+      "Trade, connectivity and a maritime partnership",
+      "ASEAN is the centre",
+      "The policy is engagement, not a camp"
     ],
     "vault_path": null,
     "points": [
@@ -563,6 +653,15 @@
     "topic": "Federalism",
     "topics": [
       "Federalism"
+    ],
+    "subTopics": [
+      "State legislatures in the federation"
+    ],
+    "keyPointers": [
+      "They make law for the state list",
+      "They are the elected voice, and they are also bound by the Union in concurrent and emergency fields",
+      "Often seen as that voice; often overridden",
+      "Analyse the claim against the actual powers"
     ],
     "vault_path": null,
     "points": [
@@ -625,6 +724,15 @@
     "topics": [
       "Elections"
     ],
+    "subTopics": [
+      "Appointment of the Election Commission"
+    ],
+    "keyPointers": [
+      "A committee instead of the executive alone",
+      "Independence depends on who sits on that committee",
+      "A revised process can protect or can still lean",
+      "The implication is the credibility of the election itself"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -685,6 +793,15 @@
     "topic": "Constitution",
     "topics": [
       "Constitution"
+    ],
+    "subTopics": [
+      "Flexible and rigid features"
+    ],
+    "keyPointers": [
+      "Some articles amend by a simple majority",
+      "Most need a special majority, some also the states",
+      "More rigid than Britain, more flexible than a fully entrenched code",
+      "The mix is the comparison"
     ],
     "vault_path": null,
     "points": [
@@ -747,6 +864,15 @@
     "topics": [
       "Federalism"
     ],
+    "subTopics": [
+      "Finance Commission and regional disparity"
+    ],
+    "keyPointers": [
+      "It divides taxes and can give a grant for a gap",
+      "A formula can favour need, or population, or effort",
+      "It has tried to tilt toward the poorer state",
+      "It reduces a disparity; it does not remove its causes"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -807,6 +933,15 @@
     "topic": "Social Justice",
     "topics": [
       "Social Justice"
+    ],
+    "subTopics": [
+      "Welfare delivery to the vulnerable"
+    ],
+    "keyPointers": [
+      "They are unseen by the list",
+      "Distance, a document and a middleman",
+      "A scheme designed far away",
+      "The challenge is the last person, not the allocation"
     ],
     "vault_path": null,
     "points": [
@@ -869,6 +1004,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "New economic policy and labour"
+    ],
+    "keyPointers": [
+      "Informal work grew beside formal protection",
+      "A factory job was not the main gain",
+      "Contract and insecurity rose",
+      "The labour class felt the opening as risk as much as opportunity"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -929,6 +1073,15 @@
     "topic": "Social Justice",
     "topics": [
       "Social Justice"
+    ],
+    "subTopics": [
+      "Hunger and poverty after 2014"
+    ],
+    "keyPointers": [
+      "Poverty counts fell on some measures",
+      "Hunger and nutrition did not fall as fast",
+      "Schemes for food, a house and a transfer",
+      "Progress is real and incomplete"
     ],
     "vault_path": null,
     "points": [
@@ -991,6 +1144,15 @@
     "topics": [
       "International Relations"
     ],
+    "subTopics": [
+      "India–Bangladesh disputes"
+    ],
+    "keyPointers": [
+      "River water, a border, migration and trade irritants",
+      "The relationship is also a success of settlement",
+      "Suggestions: the water share, connectivity and a quiet border",
+      "Disputes are manageable if the larger tie is kept"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1052,6 +1214,15 @@
     "topics": [
       "International Relations"
     ],
+    "subTopics": [
+      "Israel–Palestine conflict and India"
+    ],
+    "keyPointers": [
+      "A regional war, an energy and a diaspora risk",
+      "India has ties to both sides and a stated support for a two-state outcome",
+      "Address it by evacuation, a balanced line and no imported communal use",
+      "The challenge is distance from the war and closeness of its effects"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1112,6 +1283,15 @@
     "topic": "International Relations",
     "topics": [
       "International Relations"
+    ],
+    "subTopics": [
+      "UN and international peace"
+    ],
+    "keyPointers": [
+      "It has stopped some wars and missed others",
+      "The veto blocks action when a great power is involved",
+      "Failure is partial, not total",
+      "Describe with cases, not a blanket"
     ],
     "vault_path": null,
     "points": [

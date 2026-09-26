@@ -20,6 +20,15 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "UMANG"
+    ],
+    "keyPointers": [
+      "One mobile app for many government services",
+      "A citizen reaches a department without a separate portal",
+      "Feature is integration",
+      "It works only if the service behind the icon works"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +77,15 @@
     "topic": "Social Justice",
     "topics": [
       "Social Justice"
+    ],
+    "subTopics": [
+      "Poverty, hunger and schemes"
+    ],
+    "keyPointers": [
+      "No asset, no job, poor health and a failed harvest",
+      "Hunger can remain after income poverty falls",
+      "Schemes: food, work, a transfer and nutrition",
+      "Name the scheme and the cause it hits"
     ],
     "vault_path": null,
     "points": [
@@ -118,6 +136,15 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "NGOs and policy-making"
+    ],
+    "keyPointers": [
+      "They bring a ground fact into the draft",
+      "They advocate and sometimes implement",
+      "They are not the elected authority",
+      "Useful when heard, risky when captured"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -166,6 +193,15 @@
     "topic": "Constitution",
     "topics": [
       "Constitution"
+    ],
+    "subTopics": [
+      "Article 21"
+    ],
+    "keyPointers": [
+      "Life and personal liberty, read widely",
+      "Dignity, privacy, livelihood, health and a clean environment have been drawn from it",
+      "The right is against a procedure that is not fair",
+      "The ambit grew by interpretation"
     ],
     "vault_path": null,
     "points": [
@@ -216,6 +252,15 @@
     "topics": [
       "Federalism"
     ],
+    "subTopics": [
+      "Chief Minister and Governor"
+    ],
+    "keyPointers": [
+      "The Chief Minister leads the elected government",
+      "The Governor is the constitutional head and acts on advice, with a few discretions",
+      "Relation is normal when there is a majority",
+      "It strains in a hung house or a reserved bill"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -264,6 +309,15 @@
     "topic": "Federalism",
     "topics": [
       "Federalism"
+    ],
+    "subTopics": [
+      "Finance Commission"
+    ],
+    "keyPointers": [
+      "It divides taxes and can recommend a grant",
+      "It is the constitutional channel of fiscal federalism",
+      "Critically: the formula and the Centre’s other transfers",
+      "It eases a disparity; it does not end it"
     ],
     "vault_path": null,
     "points": [
@@ -314,6 +368,15 @@
     "topics": [
       "Judiciary"
     ],
+    "subTopics": [
+      "Lok Adalats"
+    ],
+    "keyPointers": [
+      "A settlement that is quicker and final",
+      "They clear small disputes",
+      "A catalyst if the weaker party is not pushed",
+      "Elucidate the change and its limit"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -362,6 +425,15 @@
     "topic": "International Relations",
     "topics": [
       "International Relations"
+    ],
+    "subTopics": [
+      "Energy security and cooperation"
+    ],
+    "keyPointers": [
+      "Imported fuel is a risk to growth",
+      "Cooperation diversifies oil, gas and a clean technology",
+      "Security is supply, price and a route",
+      "Analyse the policy, not one deal"
     ],
     "vault_path": null,
     "points": [
@@ -412,6 +484,15 @@
     "topics": [
       "International Relations"
     ],
+    "subTopics": [
+      "Russia–Ukraine conflict"
+    ],
+    "keyPointers": [
+      "Security of a border and a sphere",
+      "NATO’s expansion as Moscow reads it, and Ukraine’s sovereignty",
+      "History and a failed settlement",
+      "Causes are political and military"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -460,6 +541,15 @@
     "topic": "International Relations",
     "topics": [
       "International Relations"
+    ],
+    "subTopics": [
+      "India–Nepal contentions"
+    ],
+    "keyPointers": [
+      "A border strip, a river and a trade dependence",
+      "Politics in Kathmandu swings the tone",
+      "The issues are real and manageable",
+      "Explain, do not reduce it to one map"
     ],
     "vault_path": null,
     "points": [
@@ -510,6 +600,15 @@
     "topics": [
       "Social Justice"
     ],
+    "subTopics": [
+      "Challenges of self-help groups"
+    ],
+    "keyPointers": [
+      "Weak credit, a captured group and no market",
+      "Measures: a fair loan, a skill and a link to a buyer",
+      "Effective when the woman, not a proxy, decides",
+      "The group needs more than a meeting"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -558,6 +657,15 @@
     "topic": "UP Welfare",
     "topics": [
       "UP Welfare"
+    ],
+    "subTopics": [
+      "Mission Shakti"
+    ],
+    "keyPointers": [
+      "Safety and empowerment of women in UP",
+      "An objective is a response to violence and a support service",
+      "How far: judge use, not the launch",
+      "Empowerment is the outcome"
     ],
     "vault_path": null,
     "points": [
@@ -608,6 +716,15 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "NITI Aayog"
+    ],
+    "keyPointers": [
+      "Strategy and cooperative federalism",
+      "The states sit in the governing council",
+      "Achievements are plans and rankings, not fund allocation",
+      "Significance is advice, not the old Commission’s power"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -656,6 +773,15 @@
     "topic": "Parliament",
     "topics": [
       "Parliament"
+    ],
+    "subTopics": [
+      "Parliamentary committees and the Estimates Committee"
+    ],
+    "keyPointers": [
+      "Committees examine what the floor cannot",
+      "The Estimates Committee looks at economy and efficiency of spending",
+      "Useful when the report is debated",
+      "A committee ignored is not useful"
     ],
     "vault_path": null,
     "points": [
@@ -706,6 +832,15 @@
     "topics": [
       "Constitution"
     ],
+    "subTopics": [
+      "Election of the President"
+    ],
+    "keyPointers": [
+      "An electoral college of elected MPs and MLAs",
+      "Votes are weighted so states and the Union balance",
+      "A single transferable vote",
+      "Not a direct popular election"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -754,6 +889,15 @@
     "topic": "Elections",
     "topics": [
       "Elections"
+    ],
+    "subTopics": [
+      "One nation, one election"
+    ],
+    "keyPointers": [
+      "Prospect: less cost and a longer governing spell",
+      "Limit: federal variety, a mid-term fall and a huge machine",
+      "Examine both",
+      "It is a design choice, not an obvious good"
     ],
     "vault_path": null,
     "points": [
@@ -804,6 +948,15 @@
     "topics": [
       "Constitution"
     ],
+    "subTopics": [
+      "Basic structure doctrine"
+    ],
+    "keyPointers": [
+      "Born in cases, not in the original text",
+      "It stops an amendment from repealing the Constitution’s core",
+      "Impact: Parliament is limited; the court is the judge of the limit",
+      "Evolution is a line of judgments"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -852,6 +1005,15 @@
     "topic": "UP Polity",
     "topics": [
       "UP Polity"
+    ],
+    "subTopics": [
+      "Administrative reform in UP"
+    ],
+    "keyPointers": [
+      "Delay, a transfer, and a weak last mile",
+      "Reforms: a digital service, a tenure and an account",
+      "Critical: many reforms stay on paper",
+      "The system is large, so a local failure looks systemic"
     ],
     "vault_path": null,
     "points": [
@@ -902,6 +1064,15 @@
     "topics": [
       "International Relations"
     ],
+    "subTopics": [
+      "India–US relations"
+    ],
+    "keyPointers": [
+      "Defence, technology and the Indo-Pacific are the cooperation",
+      "Trade, Russia and autonomy are the contention",
+      "Both run together",
+      "Discuss the areas, not a single mood"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -950,6 +1121,15 @@
     "topic": "International Relations",
     "topics": [
       "International Relations"
+    ],
+    "subTopics": [
+      "World Bank and sustainable development"
+    ],
+    "keyPointers": [
+      "Finance and a condition for a project",
+      "It has funded infrastructure, health and a reform",
+      "Evaluate whether the project was sustainable",
+      "The role is a lender and an agenda, not a government"
     ],
     "vault_path": null,
     "points": [

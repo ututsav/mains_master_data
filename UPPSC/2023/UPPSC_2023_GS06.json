@@ -20,6 +20,15 @@
     "topics": [
       "UP Economy"
     ],
+    "subTopics": [
+      "UP agriculture export policy"
+    ],
+    "keyPointers": [
+      "A cluster, a standard and a market link",
+      "It strengthens exports if quality and a cold chain exist",
+      "The policy is the frame",
+      "The farmer gains only if the price reaches the field"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +77,15 @@
     "topic": "UP Industry",
     "topics": [
       "UP Industry"
+    ],
+    "subTopics": [
+      "Defence Industrial Corridor"
+    ],
+    "keyPointers": [
+      "Nodes for defence manufacture",
+      "A supplier chain and a job beyond one city",
+      "Features: land, a plug-in and a link to ordnance demand",
+      "A corridor is a cluster"
     ],
     "vault_path": null,
     "points": [
@@ -118,6 +136,15 @@
     "topics": [
       "UP Geography"
     ],
+    "subTopics": [
+      "Lower Ganga Canal"
+    ],
+    "keyPointers": [
+      "An old canal system watering the western and central plain",
+      "Significance is the rabi and a dense farm",
+      "Features: a headworks, branches and a command",
+      "It is infrastructure the region still lives on"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -166,6 +193,15 @@
     "topic": "UP Environment",
     "topics": [
       "UP Environment"
+    ],
+    "subTopics": [
+      "ODOP skill development"
+    ],
+    "keyPointers": [
+      "Each district has a chosen product",
+      "The scheme trains people for that product",
+      "Skill is useless without the market of ODOP",
+      "The link is training to a local craft"
     ],
     "vault_path": null,
     "points": [
@@ -216,6 +252,15 @@
     "topics": [
       "UP Agriculture"
     ],
+    "subTopics": [
+      "Disability welfare in UP"
+    ],
+    "keyPointers": [
+      "A pension, an aid, education and a reservation in practice",
+      "The target is dignity and access",
+      "Major schemes must name the benefit",
+      "Welfare fails at the certificate and the last mile"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -264,6 +309,15 @@
     "topic": "UP Energy",
     "topics": [
       "UP Energy"
+    ],
+    "subTopics": [
+      "Poorvanchal Expressway"
+    ],
+    "keyPointers": [
+      "It connects the east of the state to the west and to Lucknow",
+      "Benefits: time, a market and a chance of industry",
+      "A road is not yet a factory",
+      "The benefit is access for a neglected region"
     ],
     "vault_path": null,
     "points": [
@@ -314,6 +368,15 @@
     "topics": [
       "UP Environment"
     ],
+    "subTopics": [
+      "Millets revival in UP"
+    ],
+    "keyPointers": [
+      "A coarse grain brought back for nutrition and a dry field",
+      "Seed, a minimum support and a market",
+      "Features are production and demand together",
+      "Revival fails if only the farmer grows it and no one buys"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -362,6 +425,15 @@
     "topic": "UP Industry",
     "topics": [
       "UP Industry"
+    ],
+    "subTopics": [
+      "Groundwater use in UP"
+    ],
+    "keyPointers": [
+      "Over-pumping and a falling table",
+      "Quality: arsenic, fluoride, nitrate in places",
+      "Free power encourages the draw",
+      "The challenge is the crop and the energy price together"
     ],
     "vault_path": null,
     "points": [
@@ -412,6 +484,15 @@
     "topics": [
       "UP Economy"
     ],
+    "subTopics": [
+      "Plastic waste management in UP"
+    ],
+    "keyPointers": [
+      "Segregation, a ban on some items and extended producer duty",
+      "Guidelines follow the national rules",
+      "The test is collection, not the order",
+      "Major points: less single-use and a recycler who is real"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -460,6 +541,15 @@
     "topic": "UP Geography",
     "topics": [
       "UP Geography"
+    ],
+    "subTopics": [
+      "Vision 2030 and the land ecosystem"
+    ],
+    "keyPointers": [
+      "Forest, soil and a wetland target to 2030",
+      "The vision ties a green cover to development",
+      "Reference is the state’s land, not only climate talk",
+      "A vision needs a measured hectare"
     ],
     "vault_path": null,
     "points": [
@@ -510,6 +600,15 @@
     "topics": [
       "UP Economy"
     ],
+    "subTopics": [
+      "Infrastructure in the state budget"
+    ],
+    "keyPointers": [
+      "Roads, power, irrigation and a city project",
+      "A provision is an allocation",
+      "Introduce what was funded",
+      "Delivery is later than the budget line"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -558,6 +657,15 @@
     "topic": "UP Agriculture",
     "topics": [
       "UP Agriculture"
+    ],
+    "subTopics": [
+      "Investment initiatives in UP"
+    ],
+    "keyPointers": [
+      "A summit, a single window and a sector policy",
+      "Attraction is an approval that is fast",
+      "Recent means name the actual instrument",
+      "Investment lands only if the unit starts"
     ],
     "vault_path": null,
     "points": [
@@ -608,6 +716,15 @@
     "topics": [
       "UP Environment"
     ],
+    "subTopics": [
+      "Social forestry in UP"
+    ],
+    "keyPointers": [
+      "Trees on a farm boundary, a roadside and a village land",
+      "The strategy is cover plus a local benefit",
+      "Social means the community plants and uses",
+      "Promotion fails if the sapling is not kept"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -656,6 +773,15 @@
     "topic": "UP Infrastructure",
     "topics": [
       "UP Infrastructure"
+    ],
+    "subTopics": [
+      "Horticulture support in UP"
+    ],
+    "keyPointers": [
+      "Planting material, a cold store, a subsidy and a market",
+      "Fruit and vegetable are perishable",
+      "Facilities matter at harvest",
+      "Discuss what the state actually offers"
     ],
     "vault_path": null,
     "points": [
@@ -706,6 +832,15 @@
     "topics": [
       "UP Agriculture"
     ],
+    "subTopics": [
+      "Bio-energy in UP"
+    ],
+    "keyPointers": [
+      "Bagasse, stubble and a waste-to-energy plant",
+      "Current work is real and small beside the residue",
+      "Prospects depend on a price and a collection chain",
+      "Analyse both, critically"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -754,6 +889,15 @@
     "topic": "UP Industry",
     "topics": [
       "UP Industry"
+    ],
+    "subTopics": [
+      "Meteorological Centre, Lucknow"
+    ],
+    "keyPointers": [
+      "It watches the state’s weather",
+      "A forecast for a farmer, a flood and a district",
+      "Importance is a local warning, not a national map only",
+      "The value is the last-mile alert"
     ],
     "vault_path": null,
     "points": [
@@ -804,6 +948,15 @@
     "topics": [
       "UP Geography"
     ],
+    "subTopics": [
+      "State climate action plan"
+    ],
+    "keyPointers": [
+      "Missions on agriculture, water, forest, energy and health",
+      "The plan localises a national mission",
+      "Account for what is included",
+      "A mission without a budget is a heading"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -852,6 +1005,15 @@
     "topic": "UP Energy",
     "topics": [
       "UP Energy"
+    ],
+    "subTopics": [
+      "Tarai wildlife sanctuaries"
+    ],
+    "keyPointers": [
+      "Wet forest at the Himalayan foot",
+      "A corridor for large animals and a water system",
+      "Importance is habitat, not only tourism",
+      "The Terai sanctuary protects what the plain has cleared"
     ],
     "vault_path": null,
     "points": [
@@ -902,6 +1064,15 @@
     "topics": [
       "UP Economy"
     ],
+    "subTopics": [
+      "Minerals of Bundelkhand"
+    ],
+    "keyPointers": [
+      "Stone, a minor mineral and some ore",
+      "Industry needs the mineral plus power, a rule and a road",
+      "Importance is potential and a present mess of extraction",
+      "Analyse the link, do not assume a boom"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -950,6 +1121,15 @@
     "topic": "UP Environment",
     "topics": [
       "UP Environment"
+    ],
+    "subTopics": [
+      "Innovation programmes of CST-UP"
+    ],
+    "keyPointers": [
+      "Students, a college and a local problem",
+      "Objectives: a prototype and a scientific temper",
+      "The target is not only a large firm",
+      "Promotion is a grant and a platform"
     ],
     "vault_path": null,
     "points": [

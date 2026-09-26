@@ -20,6 +20,15 @@
     "topics": [
       "Constitution"
     ],
+    "subTopics": [
+      "Preamble as constitutional philosophy"
+    ],
+    "keyPointers": [
+      "It states the aims: justice, liberty, equality, fraternity",
+      "It is the ‘why’ before the articles",
+      "Courts read it as the spirit",
+      "Philosophy, not a source of power by itself"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -74,6 +83,15 @@
     "topic": "Constitution",
     "topics": [
       "Constitution"
+    ],
+    "subTopics": [
+      "Forty-second Amendment"
+    ],
+    "keyPointers": [
+      "It changed so many parts that it rewrote the balance",
+      "More power to Parliament and the Centre, and the words socialist and secular",
+      "A revision in scale, later partly undone",
+      "The name marks the size of the change"
     ],
     "vault_path": null,
     "points": [
@@ -130,6 +148,15 @@
     "topics": [
       "Judiciary"
     ],
+    "subTopics": [
+      "Demerits of judicial activism"
+    ],
+    "keyPointers": [
+      "A judge can start making policy",
+      "No clear accountability for the order",
+      "It can weaken the legislature’s job",
+      "Three limits, not a rejection of review"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -172,6 +199,15 @@
     "topic": "Constitution",
     "topics": [
       "Constitution"
+    ],
+    "subTopics": [
+      "Governor’s pardon and Article 72"
+    ],
+    "keyPointers": [
+      "The President covers court-martial and all death sentences",
+      "The Governor’s power is over state-law offences",
+      "Both act on advice",
+      "The difference is the field, not the mercy itself"
     ],
     "vault_path": null,
     "points": [
@@ -228,6 +264,15 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "Transparency and accountability"
+    ],
+    "keyPointers": [
+      "You cannot account for what is hidden",
+      "A visible file makes a question possible",
+      "Each is weak alone",
+      "Comment: they complete each other"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -282,6 +327,15 @@
     "topic": "Social Justice",
     "topics": [
       "Social Justice"
+    ],
+    "subTopics": [
+      "Self-help groups"
+    ],
+    "keyPointers": [
+      "A small group, usually women, saving together",
+      "Functions: credit, a livelihood and a voice",
+      "Composition is local and voluntary",
+      "The group is the institution"
     ],
     "vault_path": null,
     "points": [
@@ -338,6 +392,15 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "ICT in service delivery"
+    ],
+    "keyPointers": [
+      "A portal, a payment and a certificate",
+      "It can cut a queue and a middleman",
+      "It fails without design and connectivity",
+      "Delivery is the test, not the software"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -392,6 +455,15 @@
     "topic": "International Relations",
     "topics": [
       "International Relations"
+    ],
+    "subTopics": [
+      "From SAARC to BIMSTEC"
+    ],
+    "keyPointers": [
+      "SAARC stalled on India–Pakistan politics",
+      "BIMSTEC leaves that deadlock out and looks to the Bay",
+      "The shift is practical",
+      "Explain the rationale, not a burial of the neighbourhood"
     ],
     "vault_path": null,
     "points": [
@@ -448,6 +520,15 @@
     "topics": [
       "International Relations"
     ],
+    "subTopics": [
+      "India and the Quad"
+    ],
+    "keyPointers": [
+      "A free Indo-Pacific and a balance to China",
+      "Not a treaty alliance",
+      "Technology, vaccines and maritime talk",
+      "The rationale is autonomy plus partners"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -503,6 +584,15 @@
     "topics": [
       "International Relations"
     ],
+    "subTopics": [
+      "India’s G20 presidency"
+    ],
+    "keyPointers": [
+      "A voice for the global South",
+      "A year of agenda-setting, not a permanent chair",
+      "Significance is status and a few concrete outcomes",
+      "Discuss what it could do, not a transformation of the world"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -557,6 +647,15 @@
     "topic": "Polity",
     "topics": [
       "Polity"
+    ],
+    "subTopics": [
+      "Prime ministerial power"
+    ],
+    "keyPointers": [
+      "The cabinet system can become a prime-ministerial one",
+      "Parliament, the cabinet and the party feel it",
+      "Impact is centralisation of decision",
+      "Examine the growth, do not only praise it"
     ],
     "vault_path": null,
     "points": [
@@ -619,6 +718,15 @@
     "topics": [
       "Federalism"
     ],
+    "subTopics": [
+      "Federalism and state diversity"
+    ],
+    "keyPointers": [
+      "Lists, a finance commission and asymmetric provisions",
+      "States can differ in policy",
+      "A strong Centre and a governor limit that room",
+      "Accommodation is real and uneven"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -679,6 +787,15 @@
     "topic": "Judiciary",
     "topics": [
       "Judiciary"
+    ],
+    "subTopics": [
+      "Alternative dispute resolution"
+    ],
+    "keyPointers": [
+      "Mediation, arbitration and a lok adalat",
+      "They are faster when both sides are willing",
+      "Less effective if the weaker party is pushed",
+      "Effective as a supplement, not a replacement of courts"
     ],
     "vault_path": null,
     "points": [
@@ -746,6 +863,15 @@
     "topic": "UP Polity",
     "topics": [
       "UP Polity"
+    ],
+    "subTopics": [
+      "Law-making in the UP Assembly"
+    ],
+    "keyPointers": [
+      "A bill, readings, a committee if needed, and passage",
+      "Money bills have a tighter route",
+      "The Council and the Governor come after, where they apply",
+      "The Assembly is the main elected stage"
     ],
     "vault_path": null,
     "points": [
@@ -832,6 +958,15 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "Civil servants and democracy"
+    ],
+    "keyPointers": [
+      "They carry out the elected government’s lawful policy",
+      "Neutrality keeps the process from becoming a party machine",
+      "They also advise and record",
+      "Strengthening democracy means serving the decision, not replacing it"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -892,6 +1027,15 @@
     "topic": "UP Health",
     "topics": [
       "UP Health"
+    ],
+    "subTopics": [
+      "Health service management in UP"
+    ],
+    "keyPointers": [
+      "Primary centres, staff, drugs and a referral",
+      "The gap is rural and uneven",
+      "Management is vacancies, supply and an account",
+      "A scheme does not manage itself"
     ],
     "vault_path": null,
     "points": [
@@ -954,6 +1098,15 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "Citizen’s charter and welfare"
+    ],
+    "keyPointers": [
+      "A published standard and a time",
+      "It tells the citizen what a welfare office owes",
+      "Role is accountability made specific",
+      "Weak without a remedy"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1014,6 +1167,15 @@
     "topic": "International Relations",
     "topics": [
       "International Relations"
+    ],
+    "subTopics": [
+      "India and world leadership"
+    ],
+    "keyPointers": [
+      "A larger economy and a bridging role",
+      "Not yet the capacity or the consensus of a leader of the system",
+      "Analyse readiness, do not assert it",
+      "Leadership here is responsibility, not popularity"
     ],
     "vault_path": null,
     "points": [
@@ -1076,6 +1238,15 @@
     "topics": [
       "International Relations"
     ],
+    "subTopics": [
+      "Indian diaspora in the United States"
+    ],
+    "keyPointers": [
+      "Professionals, firms and a political voice",
+      "They can support India’s case and also have their own",
+      "An asset when organised",
+      "Not a substitute for the state"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1136,6 +1307,15 @@
     "topic": "Social Justice",
     "topics": [
       "Social Justice"
+    ],
+    "subTopics": [
+      "Recurring India–Pakistan bitterness"
+    ],
+    "keyPointers": [
+      "Kashmir, terror and a trust that does not last",
+      "A talk is followed by a rupture",
+      "The inherent problems are political and military",
+      "Illusion names the gap between a summit and the ground"
     ],
     "vault_path": null,
     "points": [

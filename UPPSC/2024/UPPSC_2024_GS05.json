@@ -20,6 +20,15 @@
     "topics": [
       "UP History & Culture"
     ],
+    "subTopics": [
+      "Prayagraj in ancient India"
+    ],
+    "keyPointers": [
+      "The meeting of rivers as a sacred place",
+      "A site of pilgrimage and a political centre",
+      "Literature and ritual give it the significance",
+      "Culture here is the confluence, not only the modern city"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -75,6 +84,15 @@
     "topics": [
       "UP Ancient History"
     ],
+    "subTopics": [
+      "Ancient republics of UP"
+    ],
+    "keyPointers": [
+      "Ganas and sanghas beside the kingdoms",
+      "Assemblies and a shared rule, not a single king",
+      "The region held several of them",
+      "Their politics was collective and still elite"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -123,6 +141,15 @@
     "topic": "UP Modern History",
     "topics": [
       "UP Modern History"
+    ],
+    "subTopics": [
+      "Taluqdars of Awadh after 1857"
+    ],
+    "keyPointers": [
+      "The revolt had drawn on a dispossessed rural elite",
+      "After it, the British restored and tied the taluqdar",
+      "Policy shifted from upset to a loyal landlord",
+      "The aim was stability, not the peasant"
     ],
     "vault_path": null,
     "points": [
@@ -179,6 +206,15 @@
     "topics": [
       "UP Health"
     ],
+    "subTopics": [
+      "Health infrastructure in UP"
+    ],
+    "keyPointers": [
+      "More centres, a medical college and an insurance cover",
+      "The effort is real and uneven by district",
+      "Staff and a working primary centre are the test",
+      "Critically: a building is not yet care"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -234,6 +270,15 @@
     "topics": [
       "UP Polity"
     ],
+    "subTopics": [
+      "State consolidated and contingency funds"
+    ],
+    "keyPointers": [
+      "The consolidated fund is the regular receipt and spend, under the legislature",
+      "The contingency fund is an advance for an unforeseen need",
+      "One is the budget; the other is the emergency purse",
+      "They are not interchangeable"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -283,6 +328,15 @@
     "topics": [
       "UP Polity"
     ],
+    "subTopics": [
+      "Allahabad High Court"
+    ],
+    "keyPointers": [
+      "A chief justice and judges appointed under the Constitution",
+      "Writ, appellate and original jurisdiction over the state",
+      "A bench also sits at Lucknow",
+      "Jurisdiction is the state’s, with the Supreme Court above"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -331,6 +385,15 @@
     "topic": "UP Polity",
     "topics": [
       "UP Polity"
+    ],
+    "subTopics": [
+      "Law and order in UP"
+    ],
+    "keyPointers": [
+      "Crime, a communal flare and a slow case",
+      "Police numbers, politics and a trust deficit",
+      "The challenge is prevention as much as a case",
+      "A large state makes a local failure look systemic"
     ],
     "vault_path": null,
     "points": [
@@ -387,6 +450,15 @@
     "topics": [
       "UP Polity"
     ],
+    "subTopics": [
+      "NGOs in UP"
+    ],
+    "keyPointers": [
+      "Uneven capacity and a weak account",
+      "Some fill a gap; some exist only on paper",
+      "Funding and a political use are the problems",
+      "Analyse the sector, do not dismiss it"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -441,6 +513,15 @@
     "topic": "UP Infrastructure",
     "topics": [
       "UP Infrastructure"
+    ],
+    "subTopics": [
+      "Inland waterways in UP"
+    ],
+    "keyPointers": [
+      "Rivers that can move goods and a pilgrim",
+      "The authority’s role is the channel, a terminal and safety",
+      "Tourism follows a reliable boat, not a map",
+      "Boost needs depth, a season and a link to the road"
     ],
     "vault_path": null,
     "points": [
@@ -497,6 +578,15 @@
     "topics": [
       "Urbanisation"
     ],
+    "subTopics": [
+      "Smart cities in UP"
+    ],
+    "keyPointers": [
+      "Selected cities get a planned service upgrade",
+      "Living conditions improve if water, waste and a bus actually change",
+      "A command centre is not the resident’s day",
+      "Role is targeted, not statewide"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -551,6 +641,15 @@
     "topic": "UP Art & Architecture",
     "topics": [
       "UP Art & Architecture"
+    ],
+    "subTopics": [
+      "Architecture of UP"
+    ],
+    "keyPointers": [
+      "Temple towns, a Sultanate and a Mughal layer",
+      "Brick, stone and a later colonial public building",
+      "Styles sit by region: Mathura, Jaunpur, Agra, Lucknow",
+      "The key is layers, not one style"
     ],
     "vault_path": null,
     "points": [
@@ -613,6 +712,15 @@
     "topics": [
       "UP Ancient History"
     ],
+    "subTopics": [
+      "Rise of ancient towns in UP"
+    ],
+    "keyPointers": [
+      "Rivers, a trade route and a court",
+      "Craft and a surplus from the plain",
+      "Religion and a pilgrimage fixed some sites",
+      "Towns rose where power and exchange met"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -673,6 +781,15 @@
     "topic": "UP Modern History",
     "topics": [
       "UP Modern History"
+    ],
+    "subTopics": [
+      "UP in the freedom movement"
+    ],
+    "keyPointers": [
+      "1857, a later Congress heartland and peasant movements",
+      "Leaders and a mass base both",
+      "The role was central and not uniform across the province",
+      "Critically: elite politics and popular politics both"
     ],
     "vault_path": null,
     "points": [
@@ -741,6 +858,15 @@
     "topics": [
       "UP Culture"
     ],
+    "subTopics": [
+      "Rural festivals of UP"
+    ],
+    "keyPointers": [
+      "They mark a season, a harvest and a community",
+      "They move goods, work and a marriage",
+      "Socio-economic role is spending, a fair and a bond",
+      "Not only a ritual"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -801,6 +927,15 @@
     "topic": "UP Polity",
     "topics": [
       "UP Polity"
+    ],
+    "subTopics": [
+      "Utility of the UP Legislative Council"
+    ],
+    "keyPointers": [
+      "A delay can check a hurried bill",
+      "Agreement is revision, not a copy",
+      "It also holds teachers, graduates and local members",
+      "Useful as a pause; mischievous if it only blocks"
     ],
     "vault_path": null,
     "points": [
@@ -863,6 +998,15 @@
     "topics": [
       "UP Polity"
     ],
+    "subTopics": [
+      "Panchayati raj in UP"
+    ],
+    "keyPointers": [
+      "Reservation brought women and a weaker section into the chair",
+      "Some panchayats deliver; many remain thin on funds and staff",
+      "Success stories exist and are not the whole map",
+      "Corroborate with a real case, not a slogan"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -923,6 +1067,15 @@
     "topic": "UP Polity",
     "topics": [
       "UP Polity"
+    ],
+    "subTopics": [
+      "UP Public Service Commission"
+    ],
+    "keyPointers": [
+      "It recruits for the state services",
+      "Independence needs a secure tenure and a clean exam",
+      "Challenges: delay, a paper leak and political pressure",
+      "The role fails if the examination is not trusted"
     ],
     "vault_path": null,
     "points": [
@@ -985,6 +1138,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Organised crime and terrorism arrangements in UP"
+    ],
+    "keyPointers": [
+      "A special law, a special unit and a financial trail",
+      "Coordination with the Centre",
+      "The arrangement is force plus a case that reaches judgment",
+      "National security is local in this state"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1046,6 +1208,15 @@
     "topics": [
       "Food Security"
     ],
+    "subTopics": [
+      "Food security in UP"
+    ],
+    "keyPointers": [
+      "Production is large; access is uneven",
+      "A ration list, nutrition and a price shock",
+      "Storage and a district that is left out",
+      "The challenge is the household, not only the harvest"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1106,6 +1277,15 @@
     "topic": "UP Health",
     "topics": [
       "UP Health"
+    ],
+    "subTopics": [
+      "Public schooling in UP"
+    ],
+    "keyPointers": [
+      "Enrolment rose; learning often did not",
+      "Teachers, a building and a shift to private school",
+      "Failure is quality and trust",
+      "The future is a school a parent will not leave"
     ],
     "vault_path": null,
     "points": [

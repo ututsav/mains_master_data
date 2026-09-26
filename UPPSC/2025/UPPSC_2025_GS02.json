@@ -20,6 +20,15 @@
     "topics": [
       "Parliament"
     ],
+    "subTopics": [
+      "Joint Parliamentary Committees"
+    ],
+    "keyPointers": [
+      "Members of both Houses examine a bill or a scandal",
+      "They take evidence and write a report",
+      "They improve a law the floor would rush",
+      "They advise; the House still decides"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +77,15 @@
     "topic": "Judiciary",
     "topics": [
       "Judiciary"
+    ],
+    "subTopics": [
+      "Alternative dispute resolution"
+    ],
+    "keyPointers": [
+      "Mediation, arbitration and a lok adalat",
+      "Faster and cheaper than a full trial",
+      "It clears the court for the cases that need a judge",
+      "Efficient only if the weaker party is not pushed to settle"
     ],
     "vault_path": null,
     "points": [
@@ -118,6 +136,15 @@
     "topics": [
       "Constitution"
     ],
+    "subTopics": [
+      "Legislative supremacy without sovereignty"
+    ],
+    "keyPointers": [
+      "It makes law inside the Constitution",
+      "Basic structure and fundamental rights bind it",
+      "Courts can strike a law down",
+      "Supreme in the field, not above the Constitution"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -166,6 +193,15 @@
     "topic": "Polity",
     "topics": [
       "Polity"
+    ],
+    "subTopics": [
+      "Inter-State Council"
+    ],
+    "keyPointers": [
+      "A constitutional body for coordination",
+      "It can talk through a dispute the court would harden",
+      "It has been used rarely",
+      "Effective only if it meets and its advice is taken"
     ],
     "vault_path": null,
     "points": [
@@ -216,6 +252,15 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "Citizen’s charter"
+    ],
+    "keyPointers": [
+      "A published standard, a time and a remedy",
+      "It tells the citizen what is owed",
+      "Many charters are not enforceable",
+      "Landmark in idea; weak where there is no consequence"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -264,6 +309,15 @@
     "topic": "Social Justice",
     "topics": [
       "Social Justice"
+    ],
+    "subTopics": [
+      "Human resource development"
+    ],
+    "keyPointers": [
+      "School quality, skills and health",
+      "A young population with a thin formal skill",
+      "Mismatch between the course and the job",
+      "The issue is capability, not only a headcount"
     ],
     "vault_path": null,
     "points": [
@@ -314,6 +368,15 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "ICT in policy implementation"
+    ],
+    "keyPointers": [
+      "It tracks a payment, a ration and a grievance",
+      "It cuts a queue and can also exclude the unconnected",
+      "Useful where the process was redesigned",
+      "A portal on an old process does little"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -362,6 +425,15 @@
     "topic": "International Relations",
     "topics": [
       "International Relations"
+    ],
+    "subTopics": [
+      "India–EU agreement"
+    ],
+    "keyPointers": [
+      "Trade, technology and a shared worry about dependence",
+      "Not a military alliance",
+      "It diversifies partners beyond one power",
+      "View it as strategic economy, not only tariffs"
     ],
     "vault_path": null,
     "points": [
@@ -412,6 +484,15 @@
     "topics": [
       "International Relations"
     ],
+    "subTopics": [
+      "Sri Lanka in India’s foreign policy"
+    ],
+    "keyPointers": [
+      "It sits on the sea lane off the south",
+      "A port or a crisis there reaches India at once",
+      "Tamil Nadu’s politics is part of the policy",
+      "Significance is location plus a neighbour’s stability"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -460,6 +541,15 @@
     "topic": "International Relations",
     "topics": [
       "International Relations"
+    ],
+    "subTopics": [
+      "SCO summit and India"
+    ],
+    "keyPointers": [
+      "A Eurasian table that includes rivals",
+      "The declaration is a diplomatic gain, not a treaty",
+      "It lets India speak on terror, connectivity and a multipolar order",
+      "Significance is presence, with the limits of the grouping"
     ],
     "vault_path": null,
     "points": [
@@ -510,6 +600,15 @@
     "topics": [
       "Constitution"
     ],
+    "subTopics": [
+      "Colonial roots of the Constituent Assembly"
+    ],
+    "keyPointers": [
+      "Acts of 1909, 1919 and 1935 built elected bodies",
+      "The Assembly was also a national claim, not only a statute",
+      "The legal form came from that history",
+      "The political authority came from the movement"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -558,6 +657,15 @@
     "topic": "Federalism",
     "topics": [
       "Federalism"
+    ],
+    "subTopics": [
+      "Union legislative powers and centralisation"
+    ],
+    "keyPointers": [
+      "A long Union list and a concurrent override",
+      "Residuary power with the Centre",
+      "Parliament can legislate for a state in stated cases",
+      "The design leans to the Union in the name of unity"
     ],
     "vault_path": null,
     "points": [
@@ -608,6 +716,15 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "Comptroller and Auditor General"
+    ],
+    "keyPointers": [
+      "Audits the Union and the states",
+      "Reports to the legislature, does not spend or tax",
+      "Supreme as an auditor, not as a finance minister",
+      "The authority is independence and a report that cannot be quietly buried"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -656,6 +773,15 @@
     "topic": "Social Justice",
     "topics": [
       "Social Justice"
+    ],
+    "subTopics": [
+      "Public interest litigation"
+    ],
+    "keyPointers": [
+      "A court can be moved for those who cannot move it",
+      "Rights of the marginalised have been enforced this way",
+      "It can also become a policy bench",
+      "A tool, and a risk of the judge replacing the government"
     ],
     "vault_path": null,
     "points": [
@@ -706,6 +832,15 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "Direct benefit transfer"
+    ],
+    "keyPointers": [
+      "Money to a verified account",
+      "Less leakage, a clearer trail",
+      "It needs a number, a bank and a correct list",
+      "Good governance if the excluded are watched, not only the saving"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -754,6 +889,15 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "E-governance and access"
+    ],
+    "keyPointers": [
+      "A service on a phone, a single window, an open dashboard",
+      "Transparency is a status the citizen can see",
+      "Access fails without language, a device and a help desk",
+      "The new dimension is the user, not only the server"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -797,6 +941,15 @@
     "topic": "Governance",
     "topics": [
       "Governance"
+    ],
+    "subTopics": [
+      "Coordination in development"
+    ],
+    "keyPointers": [
+      "Many funders and many schemes for one village",
+      "Without coordination they duplicate and miss",
+      "The stakeholder closest to the work must be in the room",
+      "Need is real; the cost is a meeting that replaces delivery"
     ],
     "vault_path": null,
     "points": [
@@ -842,6 +995,15 @@
     "topics": [
       "Federalism"
     ],
+    "subTopics": [
+      "Jammu and Kashmir reorganisation"
+    ],
+    "keyPointers": [
+      "A special status ended; a state became Union Territories",
+      "The Assembly’s powers are bounded",
+      "Administrative control of the Centre increased",
+      "Political implication is integration argued as unity, contested as a loss of autonomy"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -886,6 +1048,15 @@
     "topics": [
       "International Relations"
     ],
+    "subTopics": [
+      "Reform of the Security Council"
+    ],
+    "keyPointers": [
+      "Five permanent members and a veto from 1945",
+      "New powers and whole regions are under-represented",
+      "India’s case is population, contribution and a democracy",
+      "The structure stays because those who hold the veto will not give it up"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -929,6 +1100,15 @@
     "topic": "International Relations",
     "topics": [
       "International Relations"
+    ],
+    "subTopics": [
+      "FTAs and US trade pressure"
+    ],
+    "keyPointers": [
+      "A deal with others diversifies the market",
+      "It does not cancel a tariff from Washington",
+      "Rules of origin and a standard still bind",
+      "Helpful as a hedge, not as a full shield"
     ],
     "vault_path": null,
     "points": [

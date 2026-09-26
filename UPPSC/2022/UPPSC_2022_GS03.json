@@ -20,6 +20,15 @@
     "topics": [
       "Agriculture"
     ],
+    "subTopics": [
+      "Digital agriculture"
+    ],
+    "keyPointers": [
+      "A sensor, a satellite and a phone advisory",
+      "Benefits: less waste of input and a better decision",
+      "The farmer needs a signal and a price he can pay",
+      "Comment on the benefit and the exclusion"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +77,15 @@
     "topic": "Agriculture",
     "topics": [
       "Agriculture"
+    ],
+    "subTopics": [
+      "Supply chains in food processing"
+    ],
+    "keyPointers": [
+      "From the field to storage, process and the shop",
+      "Importance is less waste and a higher farm price",
+      "The chain fails at the perishable gap",
+      "Management is the difference between a crop and a product"
     ],
     "vault_path": null,
     "points": [
@@ -118,6 +136,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "PM Gati Shakti"
+    ],
+    "keyPointers": [
+      "Integrated planning of roads, rail, ports and logistics",
+      "The pillar is one map for many ministries",
+      "It can cut delay and a missing link",
+      "Competitiveness follows only if the project is built"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -166,6 +193,15 @@
     "topic": "Inclusive Growth",
     "topics": [
       "Inclusive Growth"
+    ],
+    "subTopics": [
+      "Financial inclusion and social justice"
+    ],
+    "keyPointers": [
+      "An account, a credit and an insurance for the excluded",
+      "Justice needs more than a bank",
+      "Inclusion is a condition of a fair economy",
+      "Comment: necessary, not sufficient"
     ],
     "vault_path": null,
     "points": [
@@ -216,6 +252,15 @@
     "topics": [
       "Science & Tech"
     ],
+    "subTopics": [
+      "Industrial policy, Make in India and PLI"
+    ],
+    "keyPointers": [
+      "A push to manufacture at home",
+      "PLI pays for incremental output in chosen sectors",
+      "Evaluate jobs, local value and who received the incentive",
+      "Policy is the factory, not the slogan"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -264,6 +309,15 @@
     "topic": "Science & Tech",
     "topics": [
       "Science & Tech"
+    ],
+    "subTopics": [
+      "Science and national security"
+    ],
+    "keyPointers": [
+      "Missiles, cyber, space and a surveillance system",
+      "Security now depends on a domestic technology base",
+      "A gap in science is a gap in defence",
+      "The role is capability, not only a weapon count"
     ],
     "vault_path": null,
     "points": [
@@ -314,6 +368,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Electronic waste and space debris"
+    ],
+    "keyPointers": [
+      "E-waste is discarded devices and their toxins",
+      "Space pollution is debris in orbit",
+      "Both are wastes of a technology",
+      "Management: recycle, a rule, and a design that does not litter"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -362,6 +425,15 @@
     "topic": "Disaster Management",
     "topics": [
       "Disaster Management"
+    ],
+    "subTopics": [
+      "UP Defence Corridor"
+    ],
+    "keyPointers": [
+      "A cluster for defence manufacture",
+      "Jobs and a supplier chain in the state",
+      "Importance is reducing import and spreading industry",
+      "A corridor is land plus firms that actually produce"
     ],
     "vault_path": null,
     "points": [
@@ -412,6 +484,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Agniveer scheme"
+    ],
+    "keyPointers": [
+      "A short service tenure and a younger force",
+      "Needs: a skilled, retained and motivated military",
+      "Analyse the gain in youth against the loss of experience",
+      "The test is defence need, not only the budget"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -460,6 +541,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Types of disasters and management"
+    ],
+    "keyPointers": [
+      "Natural and man-made",
+      "Management is warning, response and recovery",
+      "India has shifted from relief alone toward preparedness",
+      "Elucidate the type and the matching response"
     ],
     "vault_path": null,
     "points": [
@@ -510,6 +600,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Inclusive growth"
+    ],
+    "keyPointers": [
+      "The gain must reach the poor, the region and the woman",
+      "It is now stated as the strategy",
+      "Discuss whether the design matches the claim",
+      "The centre is who benefits, not the average"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -558,6 +657,15 @@
     "topic": "Agriculture",
     "topics": [
       "Agriculture"
+    ],
+    "subTopics": [
+      "Skill development and the skill mission"
+    ],
+    "keyPointers": [
+      "A skill turns a young population into workers",
+      "Objectives: training, a standard and a placement",
+      "Features: short courses and an industry link",
+      "The role fails if there is no job at the end"
     ],
     "vault_path": null,
     "points": [
@@ -608,6 +716,15 @@
     "topics": [
       "Food Security"
     ],
+    "subTopics": [
+      "Liberalisation and agriculture"
+    ],
+    "keyPointers": [
+      "Opened markets and a new input",
+      "The farm faced price risk and a slow public support",
+      "Effects differ by crop and region",
+      "Particular reference means the cultivator, not only GDP"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -656,6 +773,15 @@
     "topic": "Science & Tech",
     "topics": [
       "Science & Tech"
+    ],
+    "subTopics": [
+      "Viability of solar projects"
+    ],
+    "keyPointers": [
+      "Cost has fallen; storage and land remain",
+      "Technical: intermittence and a grid",
+      "Financial: a tariff and a paying buyer",
+      "Government support is the purchase obligation and a park"
     ],
     "vault_path": null,
     "points": [
@@ -706,6 +832,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Backwardness of eastern UP"
+    ],
+    "keyPointers": [
+      "Floods, small farms, a thin industry and out-migration",
+      "Causes are geography and a long neglect",
+      "Suggestions: irrigation, a skill, a road and a local industry",
+      "Compare, do not only describe"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -754,6 +889,15 @@
     "topic": "Energy",
     "topics": [
       "Energy"
+    ],
+    "subTopics": [
+      "Nanoscience and nanotechnology"
+    ],
+    "keyPointers": [
+      "Work at the scale of a molecule",
+      "Potential in medicine, materials, energy and farming",
+      "The science is the understanding; the technology is the use",
+      "Potential needs a cost and a safety rule"
     ],
     "vault_path": null,
     "points": [
@@ -804,6 +948,15 @@
     "topics": [
       "Disaster Management"
     ],
+    "subTopics": [
+      "Intellectual property violations"
+    ],
+    "keyPointers": [
+      "A patent, a trademark and a copyright",
+      "Violation is copying and a biopiracy of traditional knowledge",
+      "Check by a search, a registration and an enforcement",
+      "The issue is reward versus access"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -852,6 +1005,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "AI in military and civil sectors"
+    ],
+    "keyPointers": [
+      "A forecast, a diagnosis and an autonomous system",
+      "Effects: speed, a bias and a job changed",
+      "Military use raises a responsibility the machine cannot hold",
+      "Explain both sectors"
     ],
     "vault_path": null,
     "points": [
@@ -902,6 +1064,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "North-East insurgency"
+    ],
+    "keyPointers": [
+      "Ethnic claims, a porous border and a thin state",
+      "The state is not one insurgency",
+      "Accords have reduced some and left others",
+      "Explain the variation after independence"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -950,6 +1121,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Government and local training in disasters"
+    ],
+    "keyPointers": [
+      "The state warns, funds and coordinates",
+      "Local citizens are the first responders",
+      "Training them is appropriate and necessary",
+      "Government does not replace the neighbour"
     ],
     "vault_path": null,
     "points": [

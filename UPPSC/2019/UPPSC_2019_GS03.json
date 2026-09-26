@@ -20,6 +20,15 @@
     "topics": [
       "Science & Tech"
     ],
+    "subTopics": [
+      "Science and national power"
+    ],
+    "keyPointers": [
+      "A weapon, a satellite, a vaccine and a manufacturing base",
+      "Power is capability, not only a count of soldiers",
+      "Examples should be concrete",
+      "Enhancement is what the country can do that it could not"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +77,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Corruption and internal security"
+    ],
+    "keyPointers": [
+      "A bribe buys a border, a gun and a silence",
+      "It weakens the institution that should protect",
+      "Analyse it as security, not only as morals",
+      "The threat is the captured state"
     ],
     "vault_path": null,
     "points": [
@@ -118,6 +136,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "AFSPA and the north-east"
+    ],
+    "keyPointers": [
+      "A wide power to search, arrest and use force",
+      "States and citizens call it impunity",
+      "The criticism is rights against a claimed necessity",
+      "Discuss the north-east’s experience"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -167,6 +194,15 @@
     "topics": [
       "Inclusive Growth"
     ],
+    "subTopics": [
+      "Inclusive growth"
+    ],
+    "keyPointers": [
+      "Growth whose gains reach the poor",
+      "It helps poverty if jobs and a service arrive",
+      "It helps inequality only if the share is designed",
+      "Helpful, and not automatic"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -215,6 +251,15 @@
     "topic": "Agriculture",
     "topics": [
       "Agriculture"
+    ],
+    "subTopics": [
+      "Green revolution and small farmers"
+    ],
+    "keyPointers": [
+      "Yield rose where water and the input could be bought",
+      "The small farmer gained less and took more debt",
+      "Impact was uneven",
+      "Explain who was left at the edge"
     ],
     "vault_path": null,
     "points": [
@@ -283,6 +328,15 @@
     "topics": [
       "Inclusive Growth"
     ],
+    "subTopics": [
+      "Measuring and reducing rural poverty"
+    ],
+    "keyPointers": [
+      "A line of income or consumption",
+      "Steps: work, food, a house, a transfer",
+      "Examine whether the step reached the village",
+      "Measurement and the programme are different"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -332,6 +386,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Industrial sickness"
+    ],
+    "keyPointers": [
+      "A bad management, a lost market, old technology and a debt",
+      "Sickness is a unit that cannot pay its way",
+      "Suggestions: a timely exit, a credit that is not a trap, and a skill",
+      "Overcome means revive or close cleanly"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -380,6 +443,15 @@
     "topic": "Energy",
     "topics": [
       "Energy"
+    ],
+    "subTopics": [
+      "Energy crisis"
+    ],
+    "keyPointers": [
+      "Demand rising faster than a reliable supply",
+      "Import dependence and a weak distribution",
+      "Causes are fuel, price and a wasteful use",
+      "Discuss more than one shortage"
     ],
     "vault_path": null,
     "points": [
@@ -442,6 +514,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Tropical biodiversity"
+    ],
+    "keyPointers": [
+      "The variety of life in a place",
+      "Tropics: steady warmth, rain and a long time without ice",
+      "Define, then the reason",
+      "Richness is climate and history"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -490,6 +571,15 @@
     "topic": "Science & Tech",
     "topics": [
       "Science & Tech"
+    ],
+    "subTopics": [
+      "Digital rights"
+    ],
+    "keyPointers": [
+      "Privacy, access, and a protection from abuse online",
+      "Objectives: the citizen is not helpless on a network",
+      "Discuss the rights, not only a crime",
+      "They extend older rights into the digital life"
     ],
     "vault_path": null,
     "points": [
@@ -540,6 +630,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "International terrorism and the response"
+    ],
+    "keyPointers": [
+      "Networks that cross a border",
+      "A global response of law, intelligence and a contested war",
+      "The escalation is real; the response is uneven",
+      "Discuss both"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -588,6 +687,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Nuclear deterrence"
+    ],
+    "keyPointers": [
+      "Deterrence can prevent a use by threatening a reply",
+      "It is not the only path: a treaty, a control and a no-first-use",
+      "The statement is too absolute",
+      "Examine the alternative and the limit"
     ],
     "vault_path": null,
     "points": [
@@ -638,6 +746,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Social media and national security"
+    ],
+    "keyPointers": [
+      "It can warn, inform and expose",
+      "It can also spread a panic and a recruitment",
+      "How far: a tool, not a substitute for intelligence",
+      "Explain the limit"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -686,6 +803,15 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "New industrial policy"
+    ],
+    "keyPointers": [
+      "A shift from licence and a closed market toward competition and an open investment",
+      "Features: less control, more private role",
+      "New is the direction, not one scheme",
+      "State the features"
     ],
     "vault_path": null,
     "points": [
@@ -742,6 +868,15 @@
     "topics": [
       "Inclusive Growth"
     ],
+    "subTopics": [
+      "Growth, equality and distributive justice"
+    ],
+    "keyPointers": [
+      "Output rose",
+      "The share did not spread equally",
+      "How far: partial",
+      "Discuss the gap between the aim and the result"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -790,6 +925,15 @@
     "topic": "UP Economy",
     "topics": [
       "UP Economy"
+    ],
+    "subTopics": [
+      "Educated unemployment in UP"
+    ],
+    "keyPointers": [
+      "A degree without a job the economy will hire",
+      "Causes: a mismatch, a thin industry and a chase of a government post",
+      "Critically explain",
+      "The problem is the educated who are idle, not only the unskilled"
     ],
     "vault_path": null,
     "points": [
@@ -852,6 +996,15 @@
     "topics": [
       "Food Security"
     ],
+    "subTopics": [
+      "Food security challenges"
+    ],
+    "keyPointers": [
+      "Availability, access and nutrition",
+      "A leak, an excluded household and a price shock",
+      "Removal: a better list, storage and a diverse diet",
+      "Explain the challenge and the step"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -912,6 +1065,15 @@
     "topic": "Agriculture",
     "topics": [
       "Agriculture"
+    ],
+    "subTopics": [
+      "Agricultural marketing reforms"
+    ],
+    "keyPointers": [
+      "A move beyond the old mandi monopoly",
+      "E-markets and a contract",
+      "Evaluate: the farmer’s price is the test",
+      "Adequate only if the small seller is not weaker"
     ],
     "vault_path": null,
     "points": [
@@ -974,6 +1136,15 @@
     "topics": [
       "Science & Tech"
     ],
+    "subTopics": [
+      "Cloud computing"
+    ],
+    "keyPointers": [
+      "Computing and storage hired over the network",
+      "Services: infrastructure, a platform and software",
+      "Advantages: scale, a lower upfront cost, access from anywhere",
+      "Name the service and the gain"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1022,6 +1193,15 @@
     "topic": "Science & Tech",
     "topics": [
       "Science & Tech"
+    ],
+    "subTopics": [
+      "Technology transfer"
+    ],
+    "keyPointers": [
+      "Moving a know-how from a lab or a firm to a user",
+      "Useful if the receiver can absorb it",
+      "How far: a machine without the skill is not a transfer",
+      "Dissemination needs training"
     ],
     "vault_path": null,
     "points": [

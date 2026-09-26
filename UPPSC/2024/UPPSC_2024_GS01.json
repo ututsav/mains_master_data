@@ -20,6 +20,15 @@
     "topics": [
       "Ancient History"
     ],
+    "subTopics": [
+      "Literary sources of ancient India"
+    ],
+    "keyPointers": [
+      "Vedas, epics, Puranas and a later chronicle",
+      "Foreign accounts and a play sit beside them",
+      "A text is a source and also a point of view",
+      "Use it with archaeology, not alone"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +77,15 @@
     "topic": "Post-Independence",
     "topics": [
       "Post-Independence"
+    ],
+    "subTopics": [
+      "Challenges after independence"
+    ],
+    "keyPointers": [
+      "Partition, refugees and a communal wound",
+      "Princely states still outside the Union",
+      "A poor economy and a food gap",
+      "The challenge was to make one state out of a broken start"
     ],
     "vault_path": null,
     "points": [
@@ -118,6 +136,15 @@
     "topics": [
       "World History"
     ],
+    "subTopics": [
+      "Napoleon and the French Revolution"
+    ],
+    "keyPointers": [
+      "He rose from the Revolution’s army and its careers open to talent",
+      "He kept equality before the law and the end of feudal privilege",
+      "He buried the republic in an empire",
+      "Son of the Revolution, and its closer"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -166,6 +193,15 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "Globalisation and Indian society"
+    ],
+    "keyPointers": [
+      "New goods, media and a job in a service",
+      "Family, language and a local craft feel the pressure",
+      "Inequality of who can join",
+      "The impact is mixed, not only loss or only gain"
     ],
     "vault_path": null,
     "points": [
@@ -216,6 +252,15 @@
     "topics": [
       "Women & Society"
     ],
+    "subTopics": [
+      "Women’s organisations in rural India"
+    ],
+    "keyPointers": [
+      "Self-help groups, a cooperative and a campaign",
+      "They push school, health and a voice in the panchayat",
+      "They reach women the state office misses",
+      "Contribution is organisation, not only a scheme"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -264,6 +309,15 @@
     "topic": "Indian Culture",
     "topics": [
       "Indian Culture"
+    ],
+    "subTopics": [
+      "Characteristics of Indian culture"
+    ],
+    "keyPointers": [
+      "Continuity with change",
+      "Many traditions inside one civilisation",
+      "Absorption of a new practice",
+      "Unity is not sameness"
     ],
     "vault_path": null,
     "points": [
@@ -314,6 +368,15 @@
     "topics": [
       "Physical Geography"
     ],
+    "subTopics": [
+      "Human uses of the ocean"
+    ],
+    "keyPointers": [
+      "Food, a route and a mineral",
+      "Climate and a coast that the ocean protects or hits",
+      "Energy and a dump, both",
+      "Use without a limit spends the sea"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -362,6 +425,15 @@
     "topic": "Physical Geography",
     "topics": [
       "Physical Geography"
+    ],
+    "subTopics": [
+      "Climate, soil and vegetation"
+    ],
+    "keyPointers": [
+      "Rain and heat decide the soil’s pace",
+      "The soil and the climate decide the plant",
+      "The plant in turn holds the soil",
+      "The three are one system"
     ],
     "vault_path": null,
     "points": [
@@ -412,6 +484,15 @@
     "topics": [
       "Urbanisation"
     ],
+    "subTopics": [
+      "Smart city"
+    ],
+    "keyPointers": [
+      "Technology used for a service: water, waste, a bus, a grievance",
+      "Characteristics: data, integration and a citizen interface",
+      "A label is not the city",
+      "Smart only if the ordinary resident can use it"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -460,6 +541,15 @@
     "topic": "Physical Geography",
     "topics": [
       "Physical Geography"
+    ],
+    "subTopics": [
+      "Seismic zones of India"
+    ],
+    "keyPointers": [
+      "The country is zoned by earthquake risk",
+      "The Himalaya and the north-east are the highest",
+      "A zone is a probability, not a prediction of a date",
+      "Building rules should follow the zone"
     ],
     "vault_path": null,
     "points": [
@@ -510,6 +600,15 @@
     "topics": [
       "World History"
     ],
+    "subTopics": [
+      "Enlightenment and the French Revolution"
+    ],
+    "keyPointers": [
+      "Reason, rights and a challenge to privilege",
+      "The ideas were in the books before the street",
+      "The Revolution also had bread, tax and a class",
+      "A great result, and not of ideas alone"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -558,6 +657,15 @@
     "topic": "Modern History",
     "topics": [
       "Modern History"
+    ],
+    "subTopics": [
+      "Revolutionary movement in Bengal"
+    ],
+    "keyPointers": [
+      "Secret societies after the Swadeshi years",
+      "Anushilan, Jugantar and a turn to arms",
+      "It grew from a blocked constitutional path",
+      "Bengal was a centre, not the whole movement"
     ],
     "vault_path": null,
     "points": [
@@ -608,6 +716,15 @@
     "topics": [
       "Ancient Culture"
     ],
+    "subTopics": [
+      "Sangam culture"
+    ],
+    "keyPointers": [
+      "Tamil poetry of love and war",
+      "Chiefs, a port and a gift economy",
+      "A distinct south Indian public",
+      "The culture is in the poems and the trade"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -656,6 +773,15 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "Uniqueness and diversity of Indian society"
+    ],
+    "keyPointers": [
+      "Many languages, faiths and regions in one polity",
+      "Uniqueness is the holding together, not one custom",
+      "Diversity is lived, not only listed",
+      "Discuss both the variety and the frame"
     ],
     "vault_path": null,
     "points": [
@@ -706,6 +832,15 @@
     "topics": [
       "Poverty & Society"
     ],
+    "subTopics": [
+      "Causes and consequences of poverty"
+    ],
+    "keyPointers": [
+      "Lack of land, skill, health and a job",
+      "Consequences: hunger, a child out of school, a short life",
+      "Poverty also reproduces itself",
+      "Cause and result feed each other"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -754,6 +889,15 @@
     "topic": "Society",
     "topics": [
       "Society"
+    ],
+    "subTopics": [
+      "Regionalism in economy and polity"
+    ],
+    "keyPointers": [
+      "A demand for a share of investment and a job",
+      "Parties and a state bargain around identity",
+      "It can correct neglect and can also fragment a policy",
+      "Economy and polity both feel the pressure"
     ],
     "vault_path": null,
     "points": [
@@ -804,6 +948,15 @@
     "topics": [
       "Population"
     ],
+    "subTopics": [
+      "Population and holistic development"
+    ],
+    "keyPointers": [
+      "Numbers press school, health, land and a job",
+      "Holistic development needs quality, not only a headcount",
+      "The rate has slowed; the size is still the challenge",
+      "Examine, do not treat it as the only cause"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -852,6 +1005,15 @@
     "topic": "Rural Development",
     "topics": [
       "Rural Development"
+    ],
+    "subTopics": [
+      "Smart village"
+    ],
+    "keyPointers": [
+      "A village with power, a road, health, school and a digital service",
+      "Not a small copy of a smart city",
+      "Local livelihood stays the centre",
+      "Features are basic services that actually work"
     ],
     "vault_path": null,
     "points": [
@@ -902,6 +1064,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Forest and wetland biodiversity"
+    ],
+    "keyPointers": [
+      "Species hold soil, water and a food chain",
+      "A forest and a wetland are not spare land",
+      "Balance fails when one link is cut",
+      "Conservation is the condition of the rest of the system"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -950,6 +1121,15 @@
     "topic": "Physical Geography",
     "topics": [
       "Physical Geography"
+    ],
+    "subTopics": [
+      "Tsunamis"
+    ],
+    "keyPointers": [
+      "A sudden sea-floor shift, usually a quake",
+      "A long wave that grows at a shallow coast",
+      "The 2004 Indian Ocean is the example",
+      "Effect is a coast destroyed in minutes"
     ],
     "vault_path": null,
     "points": [

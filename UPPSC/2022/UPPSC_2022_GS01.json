@@ -20,6 +20,15 @@
     "topics": [
       "Ancient Culture"
     ],
+    "subTopics": [
+      "Mauryan art and architecture"
+    ],
+    "keyPointers": [
+      "Polished stone pillars with an animal capital",
+      "Caves and a stupa built by the state",
+      "A public, imperial style",
+      "The finish shows a organised workshop"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +77,15 @@
     "topic": "UP Modern History",
     "topics": [
       "UP Modern History"
+    ],
+    "subTopics": [
+      "19th-century renaissance in UP"
+    ],
+    "keyPointers": [
+      "Social reform, print and a new education",
+      "Arya Samaj, Aligarh and a Hindi public",
+      "It was regional and tied to the national awakening",
+      "Nature: reform plus a recovered past"
     ],
     "vault_path": null,
     "points": [
@@ -118,6 +136,15 @@
     "topics": [
       "Modern History"
     ],
+    "subTopics": [
+      "Tilak and the freedom struggle"
+    ],
+    "keyPointers": [
+      "Swaraj as a right, not a petition",
+      "Festivals and a newspaper as mass tools",
+      "He widened the movement beyond the moderate method",
+      "Contribution is mobilisation"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -166,6 +193,15 @@
     "topic": "Population",
     "topics": [
       "Population"
+    ],
+    "subTopics": [
+      "Population explosion"
+    ],
+    "keyPointers": [
+      "High birth where child survival and schooling are weak",
+      "A young base keeps numbers rising even as the rate falls",
+      "Suggestions: women’s education, health and a later marriage",
+      "Combat the cause, not only the count"
     ],
     "vault_path": null,
     "points": [
@@ -216,6 +252,15 @@
     "topics": [
       "Indian Society"
     ],
+    "subTopics": [
+      "IT and social empowerment"
+    ],
+    "keyPointers": [
+      "A scheme, a payment and a voice reach further",
+      "Empowerment if the excluded can use it",
+      "It can also leave the unconnected behind",
+      "Evaluate access, not the tool alone"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -264,6 +309,15 @@
     "topic": "Poverty & Society",
     "topics": [
       "Poverty & Society"
+    ],
+    "subTopics": [
+      "Culture of poverty"
+    ],
+    "keyPointers": [
+      "A child inherits no school, no asset and a low expectation",
+      "The pattern starts to look normal",
+      "It is transmitted conditions, not a chosen culture",
+      "Elucidate the trap without blaming the poor"
     ],
     "vault_path": null,
     "points": [
@@ -314,6 +368,15 @@
     "topics": [
       "UP Culture"
     ],
+    "subTopics": [
+      "Heritage Arc of UP"
+    ],
+    "keyPointers": [
+      "A tourism link of the state’s major heritage cities",
+      "It packages faith, a monument and a circuit",
+      "Importance is visitors and a local job",
+      "The arc works only if the stay and the road match the site"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -362,6 +425,15 @@
     "topic": "Urbanisation",
     "topics": [
       "Urbanisation"
+    ],
+    "subTopics": [
+      "Smart cities in eastern UP"
+    ],
+    "keyPointers": [
+      "A selected city gets a planned upgrade of services",
+      "Characteristics: data, a citizen interface, water and waste",
+      "Eastern cities were included; the mission is not statewide",
+      "Judge by the resident’s day, not the command centre"
     ],
     "vault_path": null,
     "points": [
@@ -412,6 +484,15 @@
     "topics": [
       "UP Agriculture"
     ],
+    "subTopics": [
+      "Irrigation projects of UP"
+    ],
+    "keyPointers": [
+      "Canals from the Ganga and Yamuna systems",
+      "A tube-well belt beside the canal",
+      "Examples should be named projects, not a general India list",
+      "The account is the command and who gets the water"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -460,6 +541,15 @@
     "topic": "UP Culture",
     "topics": [
       "UP Culture"
+    ],
+    "subTopics": [
+      "Festivals of UP"
+    ],
+    "keyPointers": [
+      "Faith, a season and a harvest",
+      "Regional forms, not one calendar",
+      "They organise rural social and economic life",
+      "Mention the variety"
     ],
     "vault_path": null,
     "points": [
@@ -510,6 +600,15 @@
     "topics": [
       "Ancient History"
     ],
+    "subTopics": [
+      "Gupta period as a golden age"
+    ],
+    "keyPointers": [
+      "A high point of Sanskrit learning, art and a relatively stable rule",
+      "The label is strongest for the elite culture",
+      "It was not golden for everyone",
+      "Use the name with that limit"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -558,6 +657,15 @@
     "topic": "Modern History",
     "topics": [
       "Modern History"
+    ],
+    "subTopics": [
+      "Bhagat Singh’s philosophy"
+    ],
+    "keyPointers": [
+      "Not only a bomb: a reasoned attack on empire",
+      "Socialism, atheism and a fearless death as argument",
+      "He wanted a revolution of ideas",
+      "The philosophy outlived the act"
     ],
     "vault_path": null,
     "points": [
@@ -608,6 +716,15 @@
     "topics": [
       "Ancient Culture"
     ],
+    "subTopics": [
+      "Ancient knowledge and the idea of a world teacher"
+    ],
+    "keyPointers": [
+      "Mathematics, medicine, philosophy and a transmitted text",
+      "The claim is a past influence, not a present rank",
+      "Points of knowledge, not a slogan",
+      "Designate only what can be shown"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -656,6 +773,15 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "Continuity and change"
+    ],
+    "keyPointers": [
+      "Family, caste and a festival continue",
+      "Education, the city and the market change them",
+      "Both run together",
+      "The factors are not a clean break"
     ],
     "vault_path": null,
     "points": [
@@ -706,6 +832,15 @@
     "topics": [
       "Indian Society"
     ],
+    "subTopics": [
+      "Globalisation and privatisation"
+    ],
+    "keyPointers": [
+      "Globalisation opens trade, capital and ideas",
+      "Privatisation shifts production from the state to a firm",
+      "Objectives: efficiency, investment and a wider market",
+      "They are related and not the same"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -754,6 +889,15 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "Caste alliances and politics"
+    ],
+    "keyPointers": [
+      "A vote, a job and a policy make the alliance",
+      "Identity is the material, not the whole cause",
+      "Secular here means non-religious interest",
+      "Discuss the political making of the bloc"
     ],
     "vault_path": null,
     "points": [
@@ -804,6 +948,15 @@
     "topics": [
       "Physical Geography"
     ],
+    "subTopics": [
+      "Tropical cyclones"
+    ],
+    "keyPointers": [
+      "Warm sea, a spin and a low pressure",
+      "Eye, eyewall and spiral rain",
+      "They bring wind, a surge and heavy rain",
+      "Origin is the ocean; the structure explains the damage"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -852,6 +1005,15 @@
     "topic": "Indian Geography",
     "topics": [
       "Indian Geography"
+    ],
+    "subTopics": [
+      "Rural settlement patterns"
+    ],
+    "keyPointers": [
+      "Water, soil, a caste hamlet and security",
+      "Clustered on the plain, scattered where land allows",
+      "The pattern is geography plus society",
+      "Discuss the factors, not one map"
     ],
     "vault_path": null,
     "points": [
@@ -902,6 +1064,15 @@
     "topics": [
       "Physical Geography"
     ],
+    "subTopics": [
+      "Earthquake belts of India"
+    ],
+    "keyPointers": [
+      "The Himalaya, the north-east and a peninsular belt",
+      "Risk is zoned, not dated",
+      "The belt follows a plate boundary and old faults",
+      "Building rules should follow the belt"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -950,6 +1121,15 @@
     "topic": "UP Culture",
     "topics": [
       "UP Culture"
+    ],
+    "subTopics": [
+      "Folk songs of Purvanchal"
+    ],
+    "keyPointers": [
+      "Seasonal and narrative songs of the eastern region",
+      "Work, separation and a festival",
+      "Salient feature is that they are lived, not only staged",
+      "Name the forms and what they carry"
     ],
     "vault_path": null,
     "points": [

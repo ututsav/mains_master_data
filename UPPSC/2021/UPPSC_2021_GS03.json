@@ -20,6 +20,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Digital India"
+    ],
+    "keyPointers": [
+      "Infrastructure, a digital service and a citizen who can use it",
+      "Payments, identity and a common centre",
+      "Discuss the programme as access, not only a portal",
+      "The gap is connectivity and skill"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +77,15 @@
     "topic": "Agriculture",
     "topics": [
       "Agriculture"
+    ],
+    "subTopics": [
+      "Globalisation and formal employment"
+    ],
+    "keyPointers": [
+      "Some formal jobs in services grew",
+      "Many workers stayed informal beside the open economy",
+      "The formal sector did not absorb the numbers",
+      "Impact is uneven by skill"
     ],
     "vault_path": null,
     "points": [
@@ -118,6 +136,15 @@
     "topics": [
       "Inclusive Growth"
     ],
+    "subTopics": [
+      "Inclusive and sustainable growth"
+    ],
+    "keyPointers": [
+      "Inclusion is who shares the rise",
+      "Sustainability is not spending the future",
+      "A strategy can name both and deliver one",
+      "The intent has to be in the same plan"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -166,6 +193,15 @@
     "topic": "Science & Tech",
     "topics": [
       "Science & Tech"
+    ],
+    "subTopics": [
+      "Sustainable Development Goals"
+    ],
+    "keyPointers": [
+      "A set of goals to 2030: poverty, health, climate and the rest",
+      "Relevance is a common scoreboard",
+      "The agenda links goals that used to be separate",
+      "Discuss which agendas matter for India"
     ],
     "vault_path": null,
     "points": [
@@ -216,6 +252,15 @@
     "topics": [
       "Science & Tech"
     ],
+    "subTopics": [
+      "Technology missions in agriculture"
+    ],
+    "keyPointers": [
+      "A focused push: seed, oilseed, a pulse, a method",
+      "Usefulness is yield and a spread of a practice",
+      "A mission fails if the farmer cannot use the technology",
+      "Name the focus, not a general science"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -264,6 +309,15 @@
     "topic": "Environment",
     "topics": [
       "Environment"
+    ],
+    "subTopics": [
+      "Infrastructure constraints in UP"
+    ],
+    "keyPointers": [
+      "Land, a clearance, finance and a weak contract",
+      "Steps: a single window, a land policy and a finished link",
+      "The constraint is execution",
+      "Explain the step against the constraint"
     ],
     "vault_path": null,
     "points": [
@@ -314,6 +368,15 @@
     "topics": [
       "Energy"
     ],
+    "subTopics": [
+      "Food crops of UP"
+    ],
+    "keyPointers": [
+      "A leading producer of several food crops",
+      "The position is volume, with a yield and a regional gap",
+      "Evaluate: large output is not the same as a secure farmer",
+      "The statement needs the quality of that position"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -362,6 +425,15 @@
     "topic": "Disaster Management",
     "topics": [
       "Disaster Management"
+    ],
+    "subTopics": [
+      "Disaster management functions"
+    ],
+    "keyPointers": [
+      "Prevention, preparedness, response and recovery",
+      "Types follow natural and man-made hazards",
+      "The function changes by the stage",
+      "Management is the cycle, not only relief"
     ],
     "vault_path": null,
     "points": [
@@ -412,6 +484,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Insurgency"
+    ],
+    "keyPointers": [
+      "An armed challenge to the state’s authority from inside",
+      "It uses violence and a political claim",
+      "It is not ordinary crime and not a war between states",
+      "Explain the meaning before the examples"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -460,6 +541,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Media, social networks and internal security"
+    ],
+    "keyPointers": [
+      "A rumour can move a crowd",
+      "They also inform and can expose a failure",
+      "Security needs a true public line, not only a block",
+      "Analyse both the threat and the use"
     ],
     "vault_path": null,
     "points": [
@@ -510,6 +600,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "National policy on artificial intelligence"
+    ],
+    "keyPointers": [
+      "A push to use AI in health, farm, education and governance",
+      "Also a concern for ethics and a skill",
+      "The policy is adoption plus a guardrail",
+      "Explain the direction, not one app"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -558,6 +657,15 @@
     "topic": "Agriculture",
     "topics": [
       "Agriculture"
+    ],
+    "subTopics": [
+      "Types of cyber crime and self-protection"
+    ],
+    "keyPointers": [
+      "Fraud, a hack, identity theft and an abuse image",
+      "Protection: do not share a code, check the source, update the device",
+      "Types differ; the habit of caution is common",
+      "The person and the system both have a part"
     ],
     "vault_path": null,
     "points": [
@@ -608,6 +716,15 @@
     "topics": [
       "Food Security"
     ],
+    "subTopics": [
+      "Make in India and Skill India"
+    ],
+    "keyPointers": [
+      "A factory needs a worker who can run it",
+      "Agree: manufacturing without skill stays assembly or fails",
+      "The dependence is real",
+      "Both programmes have to meet on the shop floor"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -656,6 +773,15 @@
     "topic": "Science & Tech",
     "topics": [
       "Science & Tech"
+    ],
+    "subTopics": [
+      "UP Budget 2021-22 schemes"
+    ],
+    "keyPointers": [
+      "New schemes for welfare, a farm and infrastructure",
+      "Impact is who received the benefit",
+      "Examine the allocation against the need",
+      "A scheme in the budget is not yet an outcome"
     ],
     "vault_path": null,
     "points": [
@@ -706,6 +832,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Types of unemployment"
+    ],
+    "keyPointers": [
+      "Open, disguised, seasonal and educated unemployment",
+      "Steps: a skill, a public work, a credit and a labour-heavy industry",
+      "The type decides the step",
+      "One scheme does not fit all four"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -754,6 +889,15 @@
     "topic": "Energy",
     "topics": [
       "Energy"
+    ],
+    "subTopics": [
+      "Industrial growth and challenges in UP"
+    ],
+    "keyPointers": [
+      "Sugar, textiles and newer corridors",
+      "Challenges: power, skill, the east–west gap",
+      "Growth is real and uneven",
+      "Highlight both"
     ],
     "vault_path": null,
     "points": [
@@ -804,6 +948,15 @@
     "topics": [
       "Disaster Management"
     ],
+    "subTopics": [
+      "Lockdown and the budget response"
+    ],
+    "keyPointers": [
+      "A stopped informal wage and a broken supply",
+      "The budget answer was relief, credit and a push to demand",
+      "Review whether it reached the worker",
+      "Impact was sharp and unequal"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -852,6 +1005,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Terrorism, corruption and security"
+    ],
+    "keyPointers": [
+      "Terror is a direct attack",
+      "Corruption buys a border, a gun and a silence",
+      "They hinder security in different ways and can join",
+      "Examine the link, critically"
     ],
     "vault_path": null,
     "points": [
@@ -902,6 +1064,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Civil defence in UP"
+    ],
+    "keyPointers": [
+      "Volunteers and a system for a war, a disaster and a civil emergency",
+      "Functions: warning, rescue and a shelter",
+      "Effectiveness depends on training that is real",
+      "Explain how much, not only the scheme"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -950,6 +1121,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "CyberDome"
+    ],
+    "keyPointers": [
+      "A police centre for cyber crime, forensics and a shared threat picture",
+      "Useful against fraud and a coordinated scam",
+      "A model, not by itself a national shield",
+      "Control needs the tool plus a law"
     ],
     "vault_path": null,
     "points": [

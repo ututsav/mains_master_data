@@ -20,6 +20,15 @@
     "topics": [
       "Agriculture"
     ],
+    "subTopics": [
+      "Food-processing policy"
+    ],
+    "keyPointers": [
+      "Parks, a cold chain, credit and a standard",
+      "The aim is less waste and a higher farm price",
+      "Promotion fails if the raw material does not arrive",
+      "Evaluate the policy by plants that run"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +77,15 @@
     "topic": "Science & Tech",
     "topics": [
       "Science & Tech"
+    ],
+    "subTopics": [
+      "E-technology for farmers"
+    ],
+    "keyPointers": [
+      "A price, a weather alert and a soil advisory on a phone",
+      "It can cut a middle layer",
+      "Implication: those without a signal are left out",
+      "Help is real only if the advice is local"
     ],
     "vault_path": null,
     "points": [
@@ -118,6 +136,15 @@
     "topics": [
       "Inclusive Growth"
     ],
+    "subTopics": [
+      "Land reform implementation"
+    ],
+    "keyPointers": [
+      "Records, resistance of owners and a weak tenancy law",
+      "The tiller often still has no secure title",
+      "Suggestions: a clear record, a recorded tenant, a fast mutation",
+      "The challenge is the last plot, not the statute"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -166,6 +193,15 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Budget process and plan spending"
+    ],
+    "keyPointers": [
+      "Estimates from departments, a finance bill and a vote",
+      "Plan spending was the development head; non-plan was the rest",
+      "The distinction has been dropped in later budgets",
+      "Explain both the process and why the old split misled"
     ],
     "vault_path": null,
     "points": [
@@ -216,6 +252,15 @@
     "topics": [
       "Science & Tech"
     ],
+    "subTopics": [
+      "Infrastructure and growth"
+    ],
+    "keyPointers": [
+      "Power, a road, a port and a network lower the cost of producing",
+      "Without them a reform stays on paper",
+      "Infrastructure is a condition, not the whole development",
+      "Discuss the link with an example"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -264,6 +309,15 @@
     "topic": "Energy",
     "topics": [
       "Energy"
+    ],
+    "subTopics": [
+      "Blood moon"
+    ],
+    "keyPointers": [
+      "A total lunar eclipse",
+      "The moon looks red because Earth’s atmosphere bends red light onto it",
+      "It happens when the sun, Earth and moon line up",
+      "A name for an eclipse, not a separate event"
     ],
     "vault_path": null,
     "points": [
@@ -314,6 +368,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Chandrayaan-3"
+    ],
+    "keyPointers": [
+      "A soft landing near the south pole",
+      "A rover to study the surface",
+      "To show a landing India can repeat",
+      "The objective was the landing and the science, after a failed attempt"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -362,6 +425,15 @@
     "topic": "Disaster Management",
     "topics": [
       "Disaster Management"
+    ],
+    "subTopics": [
+      "Cyber crime and national security"
+    ],
+    "keyPointers": [
+      "A law, a forensic capacity and a protected critical system",
+      "Banks, a grid and an election are the targets",
+      "Protection is design and a fast response",
+      "Not only a police case after the loss"
     ],
     "vault_path": null,
     "points": [
@@ -412,6 +484,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Strengthening the security forces"
+    ],
+    "keyPointers": [
+      "Equipment, training and a joint command",
+      "The soldier’s conditions and a modern process",
+      "Suggestions should be practical, not only more numbers",
+      "Strength is capability and coordination"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -460,6 +541,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "India’s nuclear non-proliferation stand"
+    ],
+    "keyPointers": [
+      "India opposes spread and is not in the NPT",
+      "It has a declared no-first-use and a separation of civil and military",
+      "The stand is responsible possession, not the treaty’s inequality",
+      "Explain the distinction"
     ],
     "vault_path": null,
     "points": [
@@ -510,6 +600,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "NITI Aayog and the Planning Commission"
+    ],
+    "keyPointers": [
+      "Strategy and cooperative federalism, not allocating plan funds",
+      "A think tank with the states in the governing council",
+      "The Commission commanded; NITI advises",
+      "The difference is power over money"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -558,6 +657,15 @@
     "topic": "Agriculture",
     "topics": [
       "Agriculture"
+    ],
+    "subTopics": [
+      "Inclusive growth"
+    ],
+    "keyPointers": [
+      "Growth whose gains reach the poor",
+      "Issues: jobs, health, region and a captured benefit",
+      "A high average can hide exclusion",
+      "The challenge is the design of who gains"
     ],
     "vault_path": null,
     "points": [
@@ -608,6 +716,15 @@
     "topics": [
       "Food Security"
     ],
+    "subTopics": [
+      "India and the Sustainable Development Goals"
+    ],
+    "keyPointers": [
+      "Schemes for health, school, water, energy and a city",
+      "A national and a state plan",
+      "Effort is wide; several goals are behind",
+      "Describe the effort and the gap"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -656,6 +773,15 @@
     "topic": "Science & Tech",
     "topics": [
       "Science & Tech"
+    ],
+    "subTopics": [
+      "Remaining food-security challenges"
+    ],
+    "keyPointers": [
+      "Grain is available; nutrition and access are not solved",
+      "A list that excludes, a leak, and a price shock",
+      "The challenge is the household, not the warehouse alone",
+      "Explain with India in view"
     ],
     "vault_path": null,
     "points": [
@@ -706,6 +832,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Public distribution system"
+    ],
+    "keyPointers": [
+      "It steadies food for a poor household",
+      "It does not create a job or an asset",
+      "Effective against hunger, partial against poverty",
+      "The statement is too large"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -754,6 +889,15 @@
     "topic": "Energy",
     "topics": [
       "Energy"
+    ],
+    "subTopics": [
+      "Rising energy demand"
+    ],
+    "keyPointers": [
+      "More coal, more renewables, efficiency and a grid",
+      "Demand from a city, a factory and a vehicle",
+      "Steps are supply and also less waste",
+      "Discuss both, with the climate constraint"
     ],
     "vault_path": null,
     "points": [
@@ -804,6 +948,15 @@
     "topics": [
       "Disaster Management"
     ],
+    "subTopics": [
+      "Biotechnology and the poor"
+    ],
+    "keyPointers": [
+      "Vaccines, a seed and a diagnostic",
+      "Achievement in the lab is not yet access",
+      "The poor gain if the result is cheap",
+      "Uplift is delivery"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -852,6 +1005,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Disaster types and the management system"
+    ],
+    "keyPointers": [
+      "A quake or a flood against an industrial accident or a terror attack",
+      "The system now stresses warning and a plan, not only relief",
+      "Effectiveness is uneven by district",
+      "Distinguish the cause; judge the response"
     ],
     "vault_path": null,
     "points": [
@@ -902,6 +1064,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Money laundering and technology"
+    ],
+    "keyPointers": [
+      "Dirty money weakens tax, a bank and a policy",
+      "Technology both hides the trail and can trace it",
+      "Sovereignty is the state’s control of its economy",
+      "The threat and the tool are the same networks"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -950,6 +1121,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Media revolution and regulation"
+    ],
+    "keyPointers": [
+      "Faster news and a wider voice",
+      "Also a lie, a pile-on and a captured channel",
+      "Regulation should target harm, not a view",
+      "Explain the balance"
     ],
     "vault_path": null,
     "points": [

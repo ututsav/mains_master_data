@@ -20,6 +20,12 @@
     "topics": [
       "सरकारी पत्र"
     ],
+    "subTopics": [
+      "Hindi comprehension"
+    ],
+    "keyPointers": [
+      "Answer from the passage"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -62,6 +68,12 @@
     "topic": "सरकारी पत्र",
     "topics": [
       "सरकारी पत्र"
+    ],
+    "subTopics": [
+      "Hindi comprehension"
+    ],
+    "keyPointers": [
+      "Stay inside the passage"
     ],
     "vault_path": null,
     "points": [
@@ -106,6 +118,12 @@
     "topics": [
       "अधिसूचना"
     ],
+    "subTopics": [
+      "Official Hindi drafting"
+    ],
+    "keyPointers": [
+      "Correct form and the given points"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -143,6 +161,12 @@
     "topics": [
       "अर्धसरकारी पत्र"
     ],
+    "subTopics": [
+      "Hindi word formation"
+    ],
+    "keyPointers": [
+      "The affix must be used correctly"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -174,6 +198,12 @@
     "topics": [
       "सरकारी पत्र"
     ],
+    "subTopics": [
+      "Hindi antonyms"
+    ],
+    "keyPointers": [
+      "One precise opposite"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -204,6 +234,12 @@
     "topic": "सरकारी पत्र",
     "topics": [
       "सरकारी पत्र"
+    ],
+    "subTopics": [
+      "Hindi correction"
+    ],
+    "keyPointers": [
+      "Fix the error without changing the meaning"
     ],
     "vault_path": null,
     "points": [
@@ -241,6 +277,12 @@
     "topic": "सरकारी पत्र",
     "topics": [
       "सरकारी पत्र"
+    ],
+    "subTopics": [
+      "Hindi one-word substitution"
+    ],
+    "keyPointers": [
+      "The word must cover the whole phrase"
     ],
     "vault_path": null,
     "points": [
@@ -296,6 +338,12 @@
     "topic": "सरकारी पत्र",
     "topics": [
       "सरकारी पत्र"
+    ],
+    "subTopics": [
+      "Hindi idioms"
+    ],
+    "keyPointers": [
+      "Meaning first, then a sentence that shows it"
     ],
     "vault_path": null,
     "points": [

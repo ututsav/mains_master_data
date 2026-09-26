@@ -20,6 +20,15 @@
     "topics": [
       "Agriculture"
     ],
+    "subTopics": [
+      "Food-processing supply chain"
+    ],
+    "keyPointers": [
+      "Upstream is the farm, the collection and the raw quality",
+      "Downstream is processing, storage, brand and the shop",
+      "Loss sits in the gap between them",
+      "Both ends decide the farmer’s price"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +77,15 @@
     "topic": "Agriculture",
     "topics": [
       "Agriculture"
+    ],
+    "subTopics": [
+      "Farm credit"
+    ],
+    "keyPointers": [
+      "Priority lending, a kisan card and an interest subsidy",
+      "Cooperatives and a regional bank",
+      "Credit is adequate only if it arrives before the season",
+      "The measure fails when the informal lender remains cheaper"
     ],
     "vault_path": null,
     "points": [
@@ -130,6 +148,15 @@
     "topics": [
       "Land Reforms"
     ],
+    "subTopics": [
+      "Bhoodan movement"
+    ],
+    "keyPointers": [
+      "Vinoba’s appeal for a voluntary gift of land",
+      "It was moral reform beside the legal ceiling",
+      "Some land moved; much was unfit or not transferred",
+      "An effect, and not a substitute for the law"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -190,6 +217,15 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Employment structure after liberalisation"
+    ],
+    "keyPointers": [
+      "Services grew faster than factories",
+      "Informal work stayed the majority",
+      "Public employment shrank as a share",
+      "The structure shifted; secure work did not spread equally"
     ],
     "vault_path": null,
     "points": [
@@ -252,6 +288,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Demographic dividend"
+    ],
+    "keyPointers": [
+      "A large share of people in working age",
+      "It is a dividend only if they are skilled and employed",
+      "Education, health and a job are the measures",
+      "Without them the same numbers are a burden"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -312,6 +357,15 @@
     "topic": "Science & Tech",
     "topics": [
       "Science & Tech"
+    ],
+    "subTopics": [
+      "Technology for rural uplift"
+    ],
+    "keyPointers": [
+      "A digital payment, a soil card, a common service centre",
+      "Connectivity and a local person who can use it",
+      "Technology uplifts when it reaches the village",
+      "A portal in the capital does not"
     ],
     "vault_path": null,
     "points": [
@@ -374,6 +428,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Digital arrest scams"
+    ],
+    "keyPointers": [
+      "A caller pretends to be police or customs and freezes the victim on a video call",
+      "Fear of a false case is the method",
+      "Some states report far more cases",
+      "The response is a warning, a helpline and a faster block of the mule account"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -422,6 +485,15 @@
     "topic": "Disaster Management",
     "topics": [
       "Disaster Management"
+    ],
+    "subTopics": [
+      "AI in disaster management"
+    ],
+    "keyPointers": [
+      "A forecast, a map of damage and a faster warning",
+      "It can sort a distress call and a satellite image",
+      "It does not replace the rescue team",
+      "Useful before and during, if the data are local"
     ],
     "vault_path": null,
     "points": [
@@ -484,6 +556,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "DRDO and national security"
+    ],
+    "keyPointers": [
+      "Design of missiles, radar, a platform and a system",
+      "It reduces dependence on a foreign supplier",
+      "Delays and a gap with the user remain",
+      "Its role is the domestic defence science base"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -545,6 +626,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Indian Coast Guard"
+    ],
+    "keyPointers": [
+      "A long coast, smuggling, a poor boat and a disaster at sea",
+      "Ships, aircraft and coordination with the navy",
+      "The challenge is presence, not only a law",
+      "Efforts are more assets and a joint watch"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -593,6 +683,15 @@
     "topic": "Inclusive Growth",
     "topics": [
       "Inclusive Growth"
+    ],
+    "subTopics": [
+      "Inclusive growth and social justice"
+    ],
+    "keyPointers": [
+      "Inclusion is a share of the rise",
+      "Justice is also dignity, a right and a voice",
+      "Growth can include income and still miss justice",
+      "Steps: reservations, a transfer, a right to food and work"
     ],
     "vault_path": null,
     "points": [
@@ -655,6 +754,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Budget as more than a plan"
+    ],
+    "keyPointers": [
+      "A plan that is not spent is half a budget",
+      "Execution, audit and a mid-year correction are the other half",
+      "Examine the statement: planning is necessary and not sufficient",
+      "The use is the outcome, not the speech"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -715,6 +823,15 @@
     "topic": "Agriculture",
     "topics": [
       "Agriculture"
+    ],
+    "subTopics": [
+      "Irrigation and watershed development"
+    ],
+    "keyPointers": [
+      "Major canals are often a shared or central push",
+      "The field channel and the tank are the state’s and the local body’s",
+      "A watershed programme catches rain where the canal does not reach",
+      "Both levels are needed; neither finishes the last mile alone"
     ],
     "vault_path": null,
     "points": [
@@ -777,6 +894,15 @@
     "topics": [
       "Inclusive Growth"
     ],
+    "subTopics": [
+      "Recent poverty programmes"
+    ],
+    "keyPointers": [
+      "A direct transfer, a house, a gas connection and work",
+      "Targeting improved and exclusion remained",
+      "Evaluate whether the poorest were reached",
+      "Strategy shifted from a dole list toward a stack of schemes"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -837,6 +963,15 @@
     "topic": "Food Security",
     "topics": [
       "Food Security"
+    ],
+    "subTopics": [
+      "Buffer stock and food security"
+    ],
+    "keyPointers": [
+      "Grain held against a bad year and a price spike",
+      "It steadies the ration and the market",
+      "It is essential as insurance, costly if it rots",
+      "Essential in role, not in unlimited size"
     ],
     "vault_path": null,
     "points": [
@@ -899,6 +1034,15 @@
     "topics": [
       "Science & Tech"
     ],
+    "subTopics": [
+      "Traditional and modern aeronautics"
+    ],
+    "keyPointers": [
+      "Old texts imagine flight and materials; modern aeronautics is tested engineering",
+      "The comparison is inspiration against measurement",
+      "DST policy funds research, not a return to the text as design",
+      "Do not treat a legend as a prototype"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -959,6 +1103,15 @@
     "topic": "Environment",
     "topics": [
       "Environment"
+    ],
+    "subTopics": [
+      "Ecologically sensitive areas"
+    ],
+    "keyPointers": [
+      "A notified zone where ordinary projects are restricted",
+      "Western Ghats, a coast, a wetland and a park fringe",
+      "Policy is a clearance, a ban and a local livelihood",
+      "Protection fails if the notification is not enforced"
     ],
     "vault_path": null,
     "points": [
@@ -1021,6 +1174,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Social networks and cyber attacks"
+    ],
+    "keyPointers": [
+      "A profile is a door for a phishing link and a fake identity",
+      "Oversharing gives the attacker the story",
+      "Uncontrolled use is trust without a check",
+      "The attack follows the habit"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1082,6 +1244,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Narco-terrorism"
+    ],
+    "keyPointers": [
+      "Drug money funds a gun and a cross-border network",
+      "The threat is both crime and security",
+      "Measures: the route, the money, the treatment and a neighbour",
+      "One seizure does not end it"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1142,6 +1313,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "National Security Council"
+    ],
+    "keyPointers": [
+      "It advises the executive on security strategy",
+      "It coordinates ministries that otherwise work apart",
+      "Intelligence and a long view are its material",
+      "It advises; it does not command the forces"
     ],
     "vault_path": null,
     "points": [
