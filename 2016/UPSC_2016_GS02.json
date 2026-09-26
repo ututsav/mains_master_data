@@ -1,0 +1,1579 @@
+[
+  {
+    "uid": "UPSC_2016_GSP2_01",
+    "paper_title": "GS Paper 2",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q1",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Discuss the essentials of the 69th Constitutional Amendment Act and anomalies, if any, that have led to recent reported conflicts between the elected representatives and the institution of the Lieutenant Governor in the administration of Delhi. Do you think that this will give rise to a new trend in the functioning of the Indian federal politics?",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "subTopics": [
+      "Delhi and the Lieutenant Governor"
+    ],
+    "keyPointers": [
+      "1991: a legislature for the national capital",
+      "Police, public order and land stay out",
+      "Aid and advice was left unclear",
+      "Fights over officers and files",
+      "A special capital is not a full state"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the 69th Constitutional Amendment Act, 1991 which granted special status to Delhi as a National Capital Territory (NCT) with a Legislative Assembly. Mention the ongoing tussle between the elected government and the Lieutenant Governor.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Essentials: Article 239AA and 239BB – creation of Legislative Assembly, Council of Ministers led by Chief Minister, but with L-G having overriding powers on 'public order, police and land'.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Anomalies: ambiguous division of powers, L-G's discretionary authority, lack of clarity on 'aid and advice'.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Recent conflicts: 2015-16 episode over appointment of bureaucrats, 2018 strike by IAS officers, Supreme Court judgments (e.g., 2018 & 2019) clarifying L-G's binding by elected government's advice except on reserved matters.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Impact on federal politics: Delhi model not replicable elsewhere due to its unique NCT status, but may strengthen demands for greater statehood or clarity in centre-state relations.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while conflicts highlight structural flaws, they do not necessarily set a new trend for Indian federalism because Delhi's sui generis status limits precedential value. However, they underscore the need for constitutional clarity and cooperative federalism.",
+        "order": 6,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP2_02",
+    "paper_title": "GS Paper 2",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q2",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "To what extent is Article 370 of the Indian Constitution, bearing marginal note \"Temporary provision with respect to the State of Jammu and Kashmir\", temporary? Discuss the future prospects of this provision in the context of Indian polity.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "subTopics": [
+      "Article 370 as a temporary provision"
+    ],
+    "keyPointers": [
+      "Special status for Jammu and Kashmir, placed in the temporary part",
+      "The President could end it with the old state assembly",
+      "That assembly had gone, so the clause froze in practice",
+      "Orders slowly narrowed it",
+      "Its future was a political and constitutional fight, later ended in 2019"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce Article 370 as a temporary provision granting special autonomous status to Jammu and Kashmir, incorporated into the Constitution in 1954 under Part XXI.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Extent of temporariness: Article 370(3) allows President to declare it inoperative with Constituent Assembly's concurrence, but that Assembly dissolved in 1957. Since then, it has been made permanent by judicial interpretation (e.g., Prem Nath Kaul case).",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "However, successive Presidential Orders have diluted it. Future prospects: Abrogation via Article 370(3) without state's concurrence is debatable. Post-2019, the government revoked Article 370 through Presidential Order and Parliament resolution, leading to reorganization into Union Territories. This changed the discourse – future prospect is that the provision no longer exists in practical terms, but its constitutional legacy raises questions about federalism and special provisions for other regions.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that Article 370 was never truly temporary but was gradually eroded. Its complete revocation in 2019 marks a new chapter in Indian polity, raising debates on integration versus autonomy.",
+        "order": 4,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP2_03",
+    "paper_title": "GS Paper 2",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q3",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "\"The Indian party system is passing through a phase of transition which looks to be full of contradictions and paradoxes.\" Discuss.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "subTopics": [
+      "Contradictions in the party system"
+    ],
+    "keyPointers": [
+      "From one dominant party to many, then a new dominant party",
+      "Regional parties stay strong but bargain less",
+      "Ideology hardens while alliances stay flexible",
+      "Welfare promises sit beside a claim of fiscal care",
+      "High voting, weak inner-party democracy, crime and money"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the evolution of Indian party system from Congress dominance (1950s-60s) to multi-party system (1990s) and now to a 'dominant party plus' system post-2014.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Rise of BJP as a hegemonic force yet facing regional challenges (e.g., TMC, DMK, BJD).",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Decline of Congress but survival as main opposition.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Proliferation of regional parties but their reduced bargaining power due to lack of coalition necessity.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Increased ideological polarization (Hindutva vs secularism) alongside issue-based alliances.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Use of welfare populism (freebies) versus fiscal prudence.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Internal democracy deficit yet high electoral participation.",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Body",
+        "text": "Criminalization of politics but also judicial intervention (disqualification of convicted MPs/MLAs).",
+        "cite": "U16",
+        "order": 8
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that transition indicates a realignment rather than fragmentation. Paradoxes reflect India's complex social cleavages and the adaptive nature of its party system. Future will likely see further centralization with regional variations.",
+        "order": 9,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP2_04",
+    "paper_title": "GS Paper 2",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q4",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Exercise of CAG's powers in relation to the accounts of the Union and the States is derived from Article 149 of the Indian Constitution. Discuss whether audit of the Government's policy implementation could amount to overstepping its own (CAG) jurisdiction.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "subTopics": [
+      "CAG and the audit of policy results"
+    ],
+    "keyPointers": [
+      "Article 149 and the 1971 Act set the audit",
+      "Regularity, economy, efficiency and effectiveness",
+      "A performance audit looks at results, not only receipts",
+      "Critics say that judges the policy itself",
+      "The line is waste and failure, not a new policy"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce CAG as a constitutional authority under Article 148, with duties and powers prescribed by Parliament under Article 149 (CAG's DPC Act, 1971).",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "CAG's mandate includes audit of expenditure from Consolidated Fund, receipts, and accounts of government departments.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Policy implementation audit: CAG examines whether funds were used efficiently, economically, and effectively (performance audit).",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "This involves assessing outcomes of policies, which can be seen as 'policy audit'.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Critics argue that questioning policy design enters executive domain.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Supporters cite Section 14 of CAG's Act allowing 'regularity, economy, efficiency and effectiveness'.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Supreme Court in various rulings (e.g., Jaya Bachchan case) affirmed CAG's right to comment on implementation but not on policy wisdom.",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Body",
+        "text": "Balanced view: CAG can flag implementation gaps without prescribing alternative policies.",
+        "cite": "U16",
+        "order": 8
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that CAG's audit of policy implementation is within its jurisdiction as long as it focuses on execution, not policy merits. Healthy tension exists, but parliamentary oversight ensures accountability.",
+        "order": 9,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP2_05",
+    "paper_title": "GS Paper 2",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q5",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Discuss each adjective attached to the word 'Republic' in the 'Preamble'. Are they defendable in the present circumstances?",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "subTopics": [
+      "Adjectives of the Republic in the Preamble"
+    ],
+    "keyPointers": [
+      "Sovereign: no outside master, strained by global markets",
+      "Socialist: welfare, strained by sell-offs",
+      "Secular: equal faiths, strained by polarisation",
+      "Democratic: vote and rights",
+      "Republic: the head of state is elected, not born to it"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Explain that the Preamble describes India as a 'Sovereign, Socialist, Secular, Democratic, Republic'. The word 'Republic' is modified by these adjectives.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Sovereign: India is externally independent and internally supreme.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Yes, though economic sovereignty is challenged by globalization.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Socialist: Added in 1976, implies mixed economy and welfare state.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Partially – recent privatization and reduced subsidies raise questions, but social justice schemes (MGNREGA, food security) uphold spirit.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Secular: State treats all religions equally.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Increasing communal polarization and religious rhetoric in politics challenge it, but constitutional mechanisms and judiciary remain robust.",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Body",
+        "text": "Democratic: Representative democracy with universal suffrage.",
+        "cite": "U16",
+        "order": 8
+      },
+      {
+        "section": "Body",
+        "text": "Yes, despite concerns over money power, criminalization, and EVM trust, elections remain free and fair.",
+        "cite": "U16",
+        "order": 9
+      },
+      {
+        "section": "Body",
+        "text": "Republic: Head of state is elected, not hereditary.",
+        "cite": "U16",
+        "order": 10
+      },
+      {
+        "section": "Body",
+        "text": "Absolutely, with President as nominal executive.",
+        "cite": "U16",
+        "order": 11
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while each adjective faces contemporary pressures, they are largely defendable as guiding principles. Their practical realization requires constant vigilance and reform.",
+        "order": 12,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP2_06",
+    "paper_title": "GS Paper 2",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q6",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What was held in the Coelho case? In this context, can you say that judicial review is of key importance amongst the basic features of the Constitution?",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "subTopics": [
+      "Coelho and judicial review"
+    ],
+    "keyPointers": [
+      "Ninth Schedule laws after Kesavananda are not immune",
+      "They fall if they break rights or the basic structure",
+      "Judicial review itself is part of that structure",
+      "Without it, Parliament could bury a right in the Schedule"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce I.R. Coelho v. State of Tamil Nadu (2007) – a landmark judgment on the Ninth Schedule and basic structure doctrine.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Holding in Coelho: Laws placed in Ninth Schedule after April 24, 1973 (Kesavananda Bharati date) are not immune from judicial review.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "they can be struck down if they violate fundamental rights or basic structure. The case overturned the earlier theory of 'immunity through Ninth Schedule'. Judicial review as basic feature: Coelho reaffirmed that judicial review is an essential element of the basic structure. Without it, Parliament could arbitrarily abrogate rights and alter constitutional fundamentals. The judgment expanded the scope of review to include all constitutional amendments, not just substantive laws.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that Coelho solidifies judicial review as a cornerstone of Indian constitutionalism. It ensures that no power – including amendment power – is absolute, thus preserving the basic structure.",
+        "order": 4,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP2_07",
+    "paper_title": "GS Paper 2",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q7",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Did the Government of India Act, 1935 lay down a federal constitution? Discuss.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "subTopics": [
+      "Federal scheme of the 1935 Act"
+    ],
+    "keyPointers": [
+      "Federal, provincial and concurrent lists",
+      "A federal court",
+      "The Governor-General could override",
+      "Princely states never joined, so the federation did not start",
+      "Only provincial autonomy ran from 1937"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Introduce the Government of India Act, 1935 as a major constitutional legislation that proposed a federal structure for British India.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Federal features: Division of powers into Federal, Provincial, Concurrent lists.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "a Federal Court. Unitary features: Governor-General's overriding powers, reserved subjects, centre's control over provinces in emergencies. Why it did not fully operate? The federal part (for British India + princely states) never came into effect because princely states did not join.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Thus, only provincial autonomy was implemented in 1937. Therefore, it laid down a federal scheme on paper but was not a functioning federal constitution.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the 1935 Act was a quasi-federal blueprint with strong unitary biases. It influenced the Indian Constitution's federal provisions but itself remained largely unimplemented at the federal level.",
+        "order": 5,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP2_08",
+    "paper_title": "GS Paper 2",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q8",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What is a quasi-judicial body? Explain with the help of concrete examples.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "subTopics": [
+      "Quasi-judicial bodies"
+    ],
+    "keyPointers": [
+      "Decides a dispute and can penalise, but is not a regular court",
+      "Created by law, bound by natural justice",
+      "Its order can still be reviewed by a court",
+      "Information commission, green tribunal, competition commission",
+      "Election disputes on symbols sit in the same family"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define quasi-judicial body as an entity that has powers analogous to a court of law but is not part of the regular judiciary. It can adjudicate disputes, impose penalties, and summon witnesses.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Characteristics: Created by statute, follows principles of natural justice, decisions are binding but subject to judicial review. Examples:",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Central Information Commission (CIC) – hears appeals under RTI Act, orders disclosure of information.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "National Green Tribunal (NGT) – handles environmental disputes, has powers of civil court.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Competition Commission of India (CCI) – adjudicates anti-competitive practices, imposes fines.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Election Commission of India – decides disputes on recognition of political parties, disqualification of candidates.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Income Tax Appellate Tribunal (ITAT) – hears tax appeals.",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that quasi-judicial bodies reduce burden on courts, provide specialized expertise, and ensure faster dispute resolution, but must maintain independence and procedural fairness.",
+        "order": 8,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP2_09",
+    "paper_title": "GS Paper 2",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q9",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Professor Amartya Sen has advocated important reforms in the realms of primary education and primary health care. What are your suggestions to improve their status and performance?",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "Essay — Society",
+    "topics": [
+      "Essay — Society"
+    ],
+    "subTopics": [
+      "Primary school and primary health"
+    ],
+    "keyPointers": [
+      "Capability starts with school and health",
+      "Learning, not only enrolment",
+      "More public money and fewer empty classrooms",
+      "Health centres close to home, not only big hospitals",
+      "Staff, medicines and a community watch"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Reference Amartya Sen's capability approach emphasizing education and health as foundational for human development. India lags on indicators like ASER and NFHS.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Suggestions for primary education:",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Strengthen RTE implementation – improve teacher-student ratio, reduce high-stakes exams.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Focus on foundational literacy and numeracy (NEP 2020's NIPUN Bharat).",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Increase public spending to 6% of GDP.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Address digital divide and learning loss post-COVID.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Community involvement (SMCs) and vocational training. For primary health care:",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Body",
+        "text": "Increase health expenditure to 2.5% of GDP (from ~1.3%).",
+        "cite": "U16",
+        "order": 8
+      },
+      {
+        "section": "Body",
+        "text": "Strengthen Ayushman Bharat Health and Wellness Centres.",
+        "cite": "U16",
+        "order": 9
+      },
+      {
+        "section": "Body",
+        "text": "Address shortage of doctors and paramedics via task-shifting.",
+        "cite": "U16",
+        "order": 10
+      },
+      {
+        "section": "Body",
+        "text": "Improve sanitation, nutrition, and immunization coverage.",
+        "cite": "U16",
+        "order": 11
+      },
+      {
+        "section": "Body",
+        "text": "Focus on maternal and child health, and non-communicable diseases at primary level.",
+        "cite": "U16",
+        "order": 12
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that a combined push for quality education and accessible primary healthcare can unlock demographic dividend and reduce inequality. Political will and accountable governance are key.",
+        "order": 13,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP2_10",
+    "paper_title": "GS Paper 2",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q10",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "\"In the Indian governance system, the role of non-state actors has been only marginal.\" Critically examine this statement.",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "subTopics": [
+      "Non-state actors in governance"
+    ],
+    "keyPointers": [
+      "NGOs, media, firms and local groups",
+      "They grew after 1991: movements, social audit, service delivery",
+      "They also draft ideas for policy",
+      "Foreign-fund rules and capture limit them",
+      "Marginal is too strong; uneven is fairer"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define non-state actors: civil society organizations, NGOs, media, private sector, community-based groups, international bodies, and informal networks.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Marginal role? Pre-1990s: state dominated development, NGOs limited to charity. Post-1990s: liberalization, rise of activism (e.g., Narmada Bachao Andolan, RTI movement). Significant roles: Implementation of schemes (NREGA social audits), advocacy (Janagraha, PRS Legislative Research), service delivery (private healthcare, education), policy inputs (NITI Aayog's partnerships).",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "However, limitations: Dependence on government funding, regulatory hurdles (FCRA), uneven reach, co-option by political interests. Still, compared to developed countries, Indian non-state actors face trust deficits and limited decision-making power.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Thus, role is growing but not yet central.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that the statement is an overgeneralization. While historically marginal, non-state actors today play a complementary and sometimes critical role, especially in accountability and service delivery, though they remain secondary to state authority.",
+        "order": 5,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP2_11",
+    "paper_title": "GS Paper 2",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q11",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "\"Effectiveness of the government system at various levels and people's participation in the governance system are inter-dependent.\" Discuss their relationship in the context of India.",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "subTopics": [
+      "Participation and effective government"
+    ],
+    "keyPointers": [
+      "A working office creates trust; trust brings people in",
+      "Gram sabha and ward bodies",
+      "Social audit and the right to information",
+      "Online grievance portals",
+      "Where people are shut out, delivery stays poor"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Assert the mutual reinforcement between good governance and citizen participation. Effective government creates trust and channels for participation; participation improves responsiveness and accountability.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Panchayati Raj Institutions (PRIs) – constitutional mandate for Gram Sabhas, but effectiveness varies; where active (e.g., Kerala, Maharashtra), development outcomes improve.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Urban local bodies – ward committees and resident welfare associations enhance service delivery.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Social audits (NREGA) – increase transparency but face resistance.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "RTI Act – empowers citizens to hold government accountable.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "E-governance (e.g., MyGov, grievance portals) – facilitates participation but digital divide limits reach. Challenges: bureaucratic apathy, elite capture, low awareness, political interference. Conversely, when government is ineffective (corruption, delayed services), participation declines (alienation) or turns confrontational (protests). Positive examples: Participatory budgeting in Pune, Mohalla clinics in Delhi.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that interdependence is strong but not automatic. India requires capacity building at local levels, legal backing for participation, and behavioral change among officials to realize this synergy.",
+        "order": 7,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP2_12",
+    "paper_title": "GS Paper 2",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q12",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "In the integrity index of Transparency International, India stands very low. Discuss briefly the legal, political, economic, social and cultural factors that have caused the decline of public morality in India.",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "subTopics": [
+      "Causes of weak public morality"
+    ],
+    "keyPointers": [
+      "Slow courts and rare conviction",
+      "Crime and money in elections",
+      "Black money and a rent on every permit",
+      "Inequality makes a bribe the way to a service",
+      "A habit of looking away, and status over honesty"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Refer to Transparency International's Corruption Perception Index (CPI) – India's rank around 80-90 out of 180, indicating high perceived corruption. Public morality erosion is multi-causal.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Legal factors: Weak enforcement, delays in courts, low conviction rates, lack of witness protection, loopholes in electoral funding (electoral bonds, anonymous donations).",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Political factors: Criminalization of politics, money power in elections, lack of internal democracy in parties, misuse of public office for patronage.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Economic factors: Rampant black money, shadow economy, rent-seeking in licensing and contracts, inequality fueling bribery for basic services.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Social factors: Caste and kinship networks normalizing favoritism, tolerance of 'small' bribes, lack of civic consciousness.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Cultural factors: 'Gift-giving' culture blurring lines with bribery, hierarchical patronage ('Jajmani system' remnants), acceptance of 'file-pushing' corruption as inevitable.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that decline in public morality is a systemic issue requiring legal reforms (Lokpal, whistleblower protection), political accountability (state funding of elections), economic transparency, and cultural shift through education and media activism.",
+        "order": 7,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP2_13",
+    "paper_title": "GS Paper 2",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q13",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Has the Indian governmental system responded adequately to the demands of Liberalization, Privatization and Globalization started in 1991? What can the government do to be responsive to this important change?",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "subTopics": [
+      "The state's answer to liberalisation"
+    ],
+    "keyPointers": [
+      "Licences cut, tariffs cut, foreign investment opened",
+      "One tax, an insolvency law, some sell-offs",
+      "Farm markets, land and labour stayed stuck",
+      "Crony deals and a thin safety net",
+      "One window, stable rules and protection for those who lose jobs"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Contextualize 1991 economic reforms as response to BOP crisis. LPG policies aimed at deregulation, private sector participation, and global integration.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Adequacy of response: Positive: Abolition of industrial licensing (except few), reduction of tariffs, FDI liberalization, creation of SEZs, privatization of PSUs (e.g., Air India, BPCL), GST unification, insolvency code. Shortfalls: Agricultural sector reforms stalled (APMC Acts), labor laws still rigid (despite recent codes), land acquisition hurdles, slow disinvestment, crony capitalism (2G, coal scam), inadequate social safety nets. What more can be done:",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Further ease of doing business – single-window clearances.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Strategic disinvestment and asset monetization.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Reforms in judiciary for contract enforcement.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Strengthen competition law and regulate Big Tech.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Upskill workforce for global competition.",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Body",
+        "text": "Ensure inclusive globalization (MSME support, export promotion).",
+        "cite": "U16",
+        "order": 8
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that response has been partially adequate – successes in macro stability and growth, but lag in structural reforms and social protection. Future requires balanced approach between market openness and state support.",
+        "order": 9,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP2_14",
+    "paper_title": "GS Paper 2",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q14",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "\"Traditional bureaucratic structure and culture have hampered the process of socio-economic development in India.\" Comment.",
+    "subjectId": "culture",
+    "subjects": [
+      "Art & Culture"
+    ],
+    "topic": "Indian Culture",
+    "topics": [
+      "Indian Culture"
+    ],
+    "subTopics": [
+      "Colonial bureaucracy and development"
+    ],
+    "keyPointers": [
+      "Hierarchy, files and fear of a risk",
+      "Seniority over results",
+      "A generalist over a specialist",
+      "Article 311 makes removal hard",
+      "A nexus with politics",
+      "Process replaced the outcome"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Indian bureaucracy inherited colonial legacy – Weberian hierarchy, rule-bound, risk-averse. Post-independence, it was expected to drive development but often became a hindrance.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Red-tapism and procedural delays – clearances for projects take years.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Rigid promotion based on seniority, not performance.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Resistance to change – e.g., digital transformation opposed by lower staff.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Corruption and rent-seeking – 'babu raj'.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Generalist domination over specialists – IAS officers heading technical departments.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Lack of accountability – protected by Article 311, weak performance evaluation.",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Body",
+        "text": "Bureaucratic-political nexus undermining policy implementation. Result: Poor delivery of health, education, infrastructure; slow industrial growth; underutilized funds. Counterpoints: Some reforms (e.g., e-governance, right to service acts) have improved. Need for second-generation administrative reforms.",
+        "cite": "U16",
+        "order": 8
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while the statement is largely true, bureaucracy also provided stability and continuity. Reforms like lateral entry, fixed tenure, performance-linked incentives, and citizen charters are essential.",
+        "order": 9,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP2_15",
+    "paper_title": "GS Paper 2",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q15",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Examine the main provisions of the National Child Policy and throw light on the status of its implementation.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "subTopics": [
+      "National Policy for Children, 2013"
+    ],
+    "keyPointers": [
+      "A child is under 18; rights, not charity",
+      "Survival, development, protection and a voice",
+      "School, early care, and laws against abuse and labour",
+      "Deaths fell and enrolment rose",
+      "Street children, the girl child and real protection still lag"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India adopted National Child Policy (NCP) in 2013 (replacing 1974 policy). It defines a child as up to 18 years and adopts a rights-based approach.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Right to survival – health, nutrition, safe drinking water.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Right to development – free and compulsory education up to 14 years (RTE), early childhood care.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Right to protection – against abuse, trafficking, child labour, corporal punishment.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Right to participation – views of children to be heard.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Special focus on vulnerable groups (girl child, disabled, street children). Implementation status: Positive: Decline in child mortality (NFHS-5), increase in school enrollment (ASER 2022), POSCO Act, JJ Act amendments, Beti Bachao Beti Padhao. Challenges: Malnutrition (stunting 35%), child labour still prevalent (10 million+), child marriage (23% girls married before 18), low budgetary allocation (~2.5% of budget on children), weak enforcement of Child Labour Act, digital divide impacting education.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that while policy framework is robust, implementation gaps remain due to inadequate resources, social norms, and coordination failures. Need for integrated child development schemes and stricter monitoring.",
+        "order": 7,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP2_16",
+    "paper_title": "GS Paper 2",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q16",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "\"Demographic Dividend in India will remain only theoretical unless our manpower becomes more educated, aware, skilled and creative.\" What measures have been taken by the government to enhance the capacity of our population to be more productive and employable?",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "subTopics": [
+      "Demographic dividend and skills"
+    ],
+    "keyPointers": [
+      "A young population is an asset only if it can work",
+      "Short skill courses and sector councils",
+      "Digital literacy and tinkering labs",
+      "Vocational work from school",
+      "Apprenticeship and startups",
+      "A certificate without a job is not a dividend"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's demographic dividend – 65% population below 35 years – can boost growth if workforce is productive. Without skills, it becomes a demographic disaster.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Skill India Mission (2015) – PMKVY (Pradhan Mantri Kaushal Vikas Yojana) providing short-term training.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "National Skill Development Corporation (NSDC) and Sector Skill Councils.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Digital India – improving digital literacy.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Atal Tinkering Labs and Atal Innovation Mission – fostering creativity in schools.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "National Education Policy 2020 – focus on experiential learning, vocational education from class 6.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Apprenticeship Act amendments – incentivizing industry training.",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Body",
+        "text": "Start-up India and Stand-up India – promoting entrepreneurship.",
+        "cite": "U16",
+        "order": 8
+      },
+      {
+        "section": "Body",
+        "text": "Recognition of Prior Learning (RPL) for informal sector workers. Challenges: Low gross enrollment ratio in higher education (27%), skill mismatch, underfunded ITIs, low industry participation, poor quality of training.",
+        "cite": "U16",
+        "order": 9
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that measures are substantial but implementation lags. Need to integrate skilling with formal education, increase public-private partnerships, and focus on emerging sectors (AI, green energy).",
+        "order": 10,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP2_17",
+    "paper_title": "GS Paper 2",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q17",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "\"The broader aims and objectives of WTO are to manage and promote international trade in the era of globalization. But the Doha round of negotiations seem doomed due to differences between the developed and the developing countries.\" Discuss in the Indian perspective.",
+    "subjectId": "essay-world",
+    "subjects": [
+      "Essay — World & Environment"
+    ],
+    "topic": "Essay — World",
+    "topics": [
+      "Essay — World"
+    ],
+    "subTopics": [
+      "Doha round and India"
+    ],
+    "keyPointers": [
+      "WTO was meant to manage rules-based trade",
+      "Rich countries wanted open markets in goods and services",
+      "Poor countries wanted farm subsidies cut",
+      "India's sticking point was public stocks for food security",
+      "Labour and green rules used as a new barrier"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "WTO aims to liberalize trade, resolve disputes, and provide a rules-based system. Doha Development Round (launched 2001) focused on addressing developing countries' concerns.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Reasons for Doha deadlock: Developed countries demand market access in services and industrial goods, while developing countries seek agricultural subsidies reduction (EU/US farm subsidies) and special safeguard mechanisms. Sticking points: TRIPS and public health, non-agricultural market access (NAMA), fisheries subsidies. India's perspective: India defends food security (public stockholding for MSP), protects farmers from import surges, opposes labour and environmental standards linked to trade sanctions. India has used WTO disputes (e.g., US steel tariffs, solar panels) to assert interests.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "also benefits from trade facilitation agreement and services liberalization. Failure of Doha has led to regional trade agreements (RCEP, IPEF), which India has approached cautiously.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that Doha's doom reflects deeper North-South divide. India must balance offensive interests (services, digital trade) with defensive (agriculture, MSMEs) while engaging in plurilateral negotiations within WTO framework.",
+        "order": 4,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP2_18",
+    "paper_title": "GS Paper 2",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q18",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Evaluate the economic and strategic dimensions of India's Look East Policy in the context of the post Cold War international scenario.",
+    "subjectId": "world",
+    "subjects": [
+      "World History"
+    ],
+    "topic": "World History",
+    "topics": [
+      "World History"
+    ],
+    "subTopics": [
+      "Look East, later Act East"
+    ],
+    "keyPointers": [
+      "After 1991, India turned to South-East and East Asia",
+      "Trade pact with ASEAN and roads through Myanmar",
+      "Investment in the poorer ASEAN states",
+      "A check on one power dominating the sea lanes",
+      "Naval exercises and ties with Japan and Korea"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Look East Policy (LEP) launched by Narasimha Rao in 1991, later upgraded to Act East Policy (2014) – focused on Southeast Asia and East Asia.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Economic dimensions: Strengthening trade ties with ASEAN (FTA signed 2009), connectivity projects (India-Myanmar-Thailand trilateral highway, Kaladan Multimodal Project), investment in CLMV countries (Cambodia, Laos, Myanmar, Vietnam). Strategic dimensions: Countering Chinese influence (Maritime Silk Road, Malacca dilemma), naval cooperation (joint exercises with Vietnam, Philippines, Singapore), engaging Japan and South Korea for infrastructure and technology (Asia-Africa Growth Corridor). Post-Cold War context: End of bipolarity allowed India to move beyond non-alignment and build multi-alignment. LEP.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "also aims to develop Northeast India (BIMSTEC, BBIN).",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "However, limited success due to poor infrastructure, Myanmar's political instability, and China's aggressive countermeasures.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that LEP has been economically modest but strategically significant. It has enhanced India's Indo-Pacific footprint and provided alternative partnerships, though requires greater implementation push.",
+        "order": 5,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP2_19",
+    "paper_title": "GS Paper 2",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q19",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "\"Increasing cross-border terrorist attacks in India and growing interference in the internal affairs of several member-states by Pakistan are not conducive for the future of SAARC (South Asian Association for Regional Cooperation).\" Explain with suitable examples.",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "subTopics": [
+      "Terror and the stalling of SAARC"
+    ],
+    "keyPointers": [
+      "A regional club cannot meet if two members are at war by proxy",
+      "Parliament, Mumbai, Pathankot, Uri, Pulwama",
+      "Shelter for armed groups",
+      "The 2016 summit did not happen",
+      "India shifted energy to other regional groups"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "SAARC founded in 1985 to promote regional cooperation, but has been paralyzed by India-Pakistan bilateral tensions, particularly cross-border terrorism.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Examples of cross-border terrorism: 2001 Indian Parliament attack (links to Pakistan-based LeT), 2008 Mumbai attacks (Ajmal Kasab from Pakistan), 2016 Pathankot, 2019 Pulwama (Jaish-e-Mohammed). Pakistan's interference: supporting Taliban (affecting Afghanistan), fomenting insurgencies in Indian-administered Kashmir, using state machinery to shelter terror groups. Impact on SAARC: 19th SAARC summit (2016) cancelled after India's boycott over Uri attack.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "India has shifted focus to BIMSTEC, SCO, and bilateral/trilateral forums. Other members (Bangladesh, Sri Lanka, Nepal).",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "also face internal interference but remain diplomatically constrained. Without trust, SAARC cannot advance connectivity, trade (SAFTA is ineffective), or joint security mechanisms.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that SAARC's future is bleak unless Pakistan curtails cross-border terrorism and interference. India's pursuit of sub-regional groupings may prove more effective for South Asian cooperation.",
+        "order": 5,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP2_20",
+    "paper_title": "GS Paper 2",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q20",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What are the aims and objectives of the McBride Commission of the UNESCO? What is India's position on these?",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "subTopics": [
+      "McBride Commission and a fair information order"
+    ],
+    "keyPointers": [
+      "1977: imbalance in world news",
+      "Developing countries depended on a few Western agencies",
+      "A new order: flow of news with responsibility",
+      "Less concentration and a national communication policy",
+      "India, with the non-aligned, backed a fairer flow"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "McBride Commission (International Commission for the Study of Communication Problems) was set up by UNESCO in 1977, chaired by Sean MacBride, to examine global communication imbalances.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Aims and objectives: Reduce dependence of developing countries on Western news agencies (Reuter, AFP, AP, UPI).",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "promote New World Information and Communication Order (NWICO).",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "ensure free flow of information balanced with social responsibility.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "address media concentration and commercialization.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "support national communication policies. India's position: India supported NWICO as a Non-Aligned Movement member, advocating for democratization of information. India favoured regulating transborder data flows, strengthening national news agencies (PTI, UNI), and promoting South-South cooperation in media.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "However, after US and UK withdrawal from UNESCO (1984-85) opposing NWICO as censorship, India moderated its stance. Today, India supports UNESCO's media development goals but emphasizes digital inclusion and pluralism over strict regulation.",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that McBride Commission's ideals remain relevant in the era of Big Tech and information asymmetry. India balances between sovereignty over digital space and commitment to open internet.",
+        "order": 8,
+        "cite": "U16"
+      }
+    ]
+  }
+]

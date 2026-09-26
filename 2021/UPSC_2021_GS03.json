@@ -1,0 +1,1282 @@
+[
+  {
+    "uid": "UPSC_2021_GSP3_01",
+    "paper_title": "GS Paper 3",
+    "year": 2021,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q1",
+    "marks": 10,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Explain the difference between computing methodology of India's Gross Domestic Product (GDP) before the year 2015 and after the year 2015. (Answer in 150 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "GDP computation before and after 2015",
+    "topics": [
+      "GDP computation before and after 2015"
+    ],
+    "subTopics": [
+      "Change in GDP methodology"
+    ],
+    "keyPointers": [
+      "Base year moved to 2011-12",
+      "GVA at basic prices and GDP at market prices",
+      "Corporate data from the ministry filings replaced a thin sample",
+      "The level and the growth rate are not comparable without care"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The series released around 2015 changed how India's GDP is built.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "The base year shifted to 2011-12, and the headline became GDP at market prices built from GVA at basic prices.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Company results filed with the corporate ministry replaced a narrower sample, and some informal activity was estimated differently.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "A growth rate from the old series cannot be lined up with the new one without an adjustment.",
+        "order": 4,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "The difference is the base, the price concept and the data, not a new economy.",
+        "order": 5,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP3_02",
+    "paper_title": "GS Paper 3",
+    "year": 2021,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q2",
+    "marks": 10,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Distinguish between Capital Budget and Revenue Budget. Explain the components of both these Budgets. (Answer in 150 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Capital and revenue budgets",
+    "topics": [
+      "Capital and revenue budgets"
+    ],
+    "subTopics": [
+      "Capital budget and revenue budget"
+    ],
+    "keyPointers": [
+      "Revenue is the year's income and running cost",
+      "Capital is an asset and a liability",
+      "A surplus on revenue can fund the capital gap",
+      "The distinction is the nature of the item, not its size"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Union Budget splits into a revenue account and a capital account.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Revenue receipts are tax and non-tax income; revenue expenditure is a salary, a subsidy and an interest that creates no asset.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Capital receipts are a borrowing and a disinvestment; capital expenditure builds an asset or reduces a liability.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "A revenue deficit means the government borrows for running costs.",
+        "order": 4,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "The distinction tells whether the state is maintaining itself or building for later.",
+        "order": 5,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP3_03",
+    "paper_title": "GS Paper 3",
+    "year": 2021,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q3",
+    "marks": 10,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "How did land reforms in some parts of the country help to improve the socio-economic conditions of marginal and small farmers? (Answer in 150 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Land reforms and small farmers",
+    "topics": [
+      "Land reforms and small farmers"
+    ],
+    "subTopics": [
+      "Land reforms and small farmers"
+    ],
+    "keyPointers": [
+      "A ceiling and a tenancy right where they were real",
+      "The tiller gained a stake",
+      "Many states did not implement",
+      "Help was local, not national"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Land reform helped where a ceiling and a tenancy law were actually applied.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "In parts of Kerala and West Bengal, a tenant gained a recorded right and a reason to invest.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "A small owner with a secure title could seek credit and improve the plot.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Where the law stayed on paper, the marginal farmer gained nothing.",
+        "order": 4,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "The improvement was real in the states that enforced it, and absent elsewhere.",
+        "order": 5,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP3_04",
+    "paper_title": "GS Paper 3",
+    "year": 2021,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q4",
+    "marks": 10,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "How and to what extent would micro-irrigation help in solving India's water crisis? (Answer in 150 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Micro-irrigation and the water crisis",
+    "topics": [
+      "Micro-irrigation and the water crisis"
+    ],
+    "subTopics": [
+      "Micro-irrigation"
+    ],
+    "keyPointers": [
+      "Drip and a sprinkler use less water per crop",
+      "They help where the crop and the power price allow",
+      "They do not refill an overdrawn aquifer by themselves",
+      "Extent: a large saving in irrigation, not the whole crisis"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Most of India's used water goes to irrigation, much of it by flood.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Drip and sprinkler put water at the root and can cut the amount used for the same yield.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "They help to the extent farmers can pay, maintain the system and are not pushed to a thirstier crop.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "A city shortage and a dying river are not solved by a farm drip alone.",
+        "order": 4,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Micro-irrigation is a major help on the farm side of the crisis, not the whole solution.",
+        "order": 5,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP3_05",
+    "paper_title": "GS Paper 3",
+    "year": 2021,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q5",
+    "marks": 10,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "How is S-400 air defence system technically superior to any other system presently available in the world? (Answer in 150 words)",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "S-400 air defence",
+    "topics": [
+      "S-400 air defence"
+    ],
+    "subTopics": [
+      "S-400 air defence"
+    ],
+    "keyPointers": [
+      "Several missile types in one system",
+      "A long reach and many targets at once",
+      "Superior to many fielded systems, not proven against every future one",
+      "The question's absolute claim should be qualified"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The S-400 is a mobile, long-range air-defence system with several missile layers.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "It can engage aircraft, a cruise missile and some ballistic targets, at ranges longer than many systems in service.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "One battery tracks and engages many targets, which a short-range gun system cannot.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "'Superior to any other' is too absolute: newer systems exist, and a defence is only as good as its integration.",
+        "order": 4,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Its technical edge is range, layers and the number of targets, not an unbeatable shield.",
+        "order": 5,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP3_06",
+    "paper_title": "GS Paper 3",
+    "year": 2021,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q6",
+    "marks": 10,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Explain the purpose of the Green Grid Initiative launched at the COP26 World Leaders Summit in Glasgow in November 2021. When was this idea first floated in the International Solar Alliance (ISA)? (Answer in 150 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Green Grid Initiative",
+    "topics": [
+      "Green Grid Initiative"
+    ],
+    "subTopics": [
+      "Green Grid and One Sun One World One Grid"
+    ],
+    "keyPointers": [
+      "Connect solar grids across time zones",
+      "Purpose: clean power when the local sun is down",
+      "The idea was floated with the ISA, around its founding vision",
+      "COP26 was the launch with partners, not the first thought"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Green Grid, or One Sun One World One Grid, aims to link solar-rich regions so power can flow across time zones.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Its purpose is clean electricity at night in one place from the day's sun in another, and less storage and less coal.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "The idea was first floated in the International Solar Alliance around its creation in 2015, by India with France.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "COP26 in Glasgow was where it was launched with the United Kingdom as a political initiative.",
+        "order": 4,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "The purpose is a shared solar grid; the ISA was where the idea began.",
+        "order": 5,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP3_07",
+    "paper_title": "GS Paper 3",
+    "year": 2021,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q7",
+    "marks": 10,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Describe the key points of the revised Global Air Quality Guidelines (AQGs) recently released by the WHO. How are these different from its last update in 2005? What changes in India's National Clean Air Programme are required to achieve these revised standards? (Answer in 150 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "WHO air quality guidelines and NCAP",
+    "topics": [
+      "WHO air quality guidelines and NCAP"
+    ],
+    "subTopics": [
+      "WHO air guidelines and NCAP"
+    ],
+    "keyPointers": [
+      "The 2021 lines are much tighter, especially for fine dust and nitrogen dioxide",
+      "2005 levels were looser",
+      "India's programme aims at a percentage cut, not the WHO line",
+      "NCAP would need a harder target and a source control"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The WHO's 2021 guidelines cut the advised levels of key pollutants sharply.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Annual fine particulate matter moved from 10 to 5 micrograms per cubic metre, and nitrogen dioxide from 40 to 10.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "The 2005 update was looser because later evidence tied lower levels to harm.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "India's NCAP, built around a percentage reduction from a high base, would need tighter city targets and a control of dust, a vehicle and a fuel.",
+        "order": 4,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Meeting the new lines is a much harder programme than the present percentage cut.",
+        "order": 5,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP3_08",
+    "paper_title": "GS Paper 3",
+    "year": 2021,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q8",
+    "marks": 10,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Discuss the vulnerability of India to earthquake-related hazards. Give examples including the salient features of major disasters caused by earthquakes in different parts of India during the last three decades. (Answer in 150 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Earthquake vulnerability in India",
+    "topics": [
+      "Earthquake vulnerability in India"
+    ],
+    "subTopics": [
+      "Earthquakes in India"
+    ],
+    "keyPointers": [
+      "The Himalaya, the north-east and parts of the peninsula",
+      "Building kills more than the shake",
+      "Bhuj, Uttarkashi, Killari, Sikkim are the recent set",
+      "Vulnerability is the house on the belt"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's vulnerability follows the Himalayan collision, the north-east and some peninsular faults.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "A dense, non-engineered building turns a moderate shake into a disaster.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Examples: Uttarkashi 1991, Latur 1993, Bhuj 2001 and Sikkim 2011, each with collapse of ordinary houses.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Bhuj showed a large urban toll; Latur showed that a 'stable' region is not immune.",
+        "order": 4,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "The hazard is the belt; the disaster is the building.",
+        "order": 5,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP3_09",
+    "paper_title": "GS Paper 3",
+    "year": 2021,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q9",
+    "marks": 10,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Discuss how emerging technologies and globalisation contribute to money laundering. Elaborate measures to tackle the problem of money laundering both at national and international levels. (Answer in 150 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Technology, globalisation and money laundering",
+    "topics": [
+      "Technology, globalisation and money laundering"
+    ],
+    "subTopics": [
+      "Money laundering"
+    ],
+    "keyPointers": [
+      "A payment, a crypto and a shell company cross borders",
+      "Globalisation multiplies the jurisdiction",
+      "National: a reporting duty and a law",
+      "International: share the information"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Dirty money now moves as a digital transfer through several countries.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "A shell firm, a crypto and a trade invoice hide the origin; global banks connect them.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Nationally, a reporting duty on banks, a strong law and a financial intelligence unit are the tools.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Internationally, shared beneficial-owner data and mutual legal help are needed, or the trail stops at the border.",
+        "order": 4,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Technology sped the crime; the answer is a faster, shared trace.",
+        "order": 5,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP3_10",
+    "paper_title": "GS Paper 3",
+    "year": 2021,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q10",
+    "marks": 10,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Keeping in view India's internal security, analyse the impact of cross-border cyber attacks. Also discuss defensive measures against these sophisticated attacks. (Answer in 150 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Cross-border cyber attacks",
+    "topics": [
+      "Cross-border cyber attacks"
+    ],
+    "subTopics": [
+      "Cross-border cyber attacks"
+    ],
+    "keyPointers": [
+      "A grid, a bank and a government network are the targets",
+      "The attacker sits outside Indian police reach",
+      "Impact is disruption and a stolen data",
+      "Defence is a law, a centre and a basic hygiene"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "A cross-border cyber attack can hit a grid, a bank or a ministry without a soldier crossing.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "The impact is a stopped service, a leaked data and a cost of trust.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Attribution is hard, so a reply is slow.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Defence: a national response centre, a sector audit, and the ordinary habits of update and access control.",
+        "order": 4,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Internal security now includes the network, and the defence has to be continuous.",
+        "order": 5,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP3_11",
+    "paper_title": "GS Paper 3",
+    "year": 2021,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q11",
+    "marks": 15,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Do you agree that the Indian economy has recently experienced V-shaped recovery? Give reasons in support of your answer. (Answer in 250 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "V-shaped recovery",
+    "topics": [
+      "V-shaped recovery"
+    ],
+    "subTopics": [
+      "V-shaped recovery"
+    ],
+    "keyPointers": [
+      "Output fell hard and then rose fast",
+      "The average hides a K-shaped informal sector",
+      "Agree only for the headline GDP",
+      "The recovery was real and unequal"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Headline GDP fell sharply in the lockdown and then rebounded, which looks like a V.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "The rebound was helped by a base effect, a formal-sector return and a public spend.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Informal work, small firms and contact services did not trace the same V.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "So the letter fits the average and not the labour market.",
+        "order": 4,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Agree for the GDP chart; do not agree that every household recovered.",
+        "order": 5,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP3_12",
+    "paper_title": "GS Paper 3",
+    "year": 2021,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q12",
+    "marks": 15,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "\"Investment in infrastructure is essential for more rapid and inclusive economic growth.\" Discuss in the light of India's experience. (Answer in 250 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Infrastructure and inclusive growth",
+    "topics": [
+      "Infrastructure and inclusive growth"
+    ],
+    "subTopics": [
+      "Infrastructure and inclusive growth"
+    ],
+    "keyPointers": [
+      "A road, a power and a port raise growth",
+      "Inclusion needs the last-mile, not only a highway",
+      "India's experience is both a boom and a stuck project",
+      "Essential, and not sufficient"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Infrastructure lowers the cost of moving a good, a person and a power.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "India's highways, a rural road and a phone network did widen markets and some jobs.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "A project that stops, or that connects only the city, does not include the poor region.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Power for a workshop and a road to a mandi are the inclusive pieces.",
+        "order": 4,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "The statement holds in Indian experience when the asset reaches the producer, not only the corridor.",
+        "order": 5,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP3_13",
+    "paper_title": "GS Paper 3",
+    "year": 2021,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q13",
+    "marks": 15,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What are the salient features of the National Food Security Act, 2013? How has the Food Security Bill helped in eliminating hunger and malnutrition in India? (Answer in 250 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "National Food Security Act",
+    "topics": [
+      "National Food Security Act"
+    ],
+    "subTopics": [
+      "National Food Security Act"
+    ],
+    "keyPointers": [
+      "A legal grain entitlement at a fixed price",
+      "Coverage, a woman as the head, and a grievance",
+      "Hunger of calories fell more than malnutrition",
+      "Helped, and did not eliminate"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Act turned a cheap grain into a legal entitlement for a large part of the population.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Features: subsidised foodgrains, a priority household, maternity support and a grievance redress.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "It reduced the worst calorie hunger where the list and the shop worked.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Malnutrition of protein and a micronutrient moved less, because grain is not a diverse diet.",
+        "order": 4,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "It helped against hunger; it has not eliminated hunger or malnutrition.",
+        "order": 5,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP3_14",
+    "paper_title": "GS Paper 3",
+    "year": 2021,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q14",
+    "marks": 15,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What are the present challenges before crop diversification? How do emerging technologies provide an opportunity for crop diversification? (Answer in 250 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Crop diversification",
+    "topics": [
+      "Crop diversification"
+    ],
+    "subTopics": [
+      "Crop diversification"
+    ],
+    "keyPointers": [
+      "Price support and a habit lock the farmer into rice and wheat",
+      "Water and a market are the challenges",
+      "Technology: a seed, a sensor and a storage",
+      "Opportunity if the price follows the new crop"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Diversification means moving off a few cereals into pulses, oilseeds, a horticulture and a fodder.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Challenges: a guaranteed price for rice and wheat, a missing market for the alternative, and a water habit.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "A new seed, a precise irrigation, a cold chain and a price information make another crop less risky.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Technology is an opportunity only if the buyer and the insurance exist.",
+        "order": 4,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "The tool can open the shift; the policy has to stop punishing it.",
+        "order": 5,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP3_15",
+    "paper_title": "GS Paper 3",
+    "year": 2021,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q15",
+    "marks": 15,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What are the research and developmental achievements in applied biotechnology? How will these achievements help to uplift the poorer sections of the society? (Answer in 250 words)",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Applied biotechnology and the poor",
+    "topics": [
+      "Applied biotechnology and the poor"
+    ],
+    "subTopics": [
+      "Applied biotechnology"
+    ],
+    "keyPointers": [
+      "A seed, a vaccine, a diagnostic and a bio-input",
+      "Achievements are in health and the farm",
+      "The poor gain only if the price and the access are designed",
+      "Uplift is not automatic"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Applied biotechnology has produced a seed, a vaccine, a cheap diagnostic and a bio-fertiliser.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "A fortified crop and a disease-resistant variety can raise a small farmer's yield.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "A vaccine and a diagnostic cut the health shock that pushes a household into debt.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "The poor are uplifted only when the product is cheap, allowed and available outside the city lab.",
+        "order": 4,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "The achievement helps the poor if access is part of the design.",
+        "order": 5,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP3_16",
+    "paper_title": "GS Paper 3",
+    "year": 2021,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q16",
+    "marks": 15,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The Nobel Prize in Physics of 2014 was jointly awarded to Akasaki, Amano and Nakamura for the invention of Blue LEDs in the 1990s. How has this invention impacted the everyday life of human beings? (Answer in 250 words)",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Blue LED and daily life",
+    "topics": [
+      "Blue LED and daily life"
+    ],
+    "subTopics": [
+      "Blue LEDs"
+    ],
+    "keyPointers": [
+      "Blue made white LED light possible",
+      "Less electricity for the same light",
+      "Phones, a screen and a rural lamp",
+      "The daily impact is lighting and a display"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "A blue LED completed the set of colours needed for a white solid-state light.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "White LED bulbs use far less power and last longer than a filament lamp.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Screens of phones and televisions, and a cheap solar lamp, depend on it.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "For a poor household the impact is light after dark at a cost they can pay.",
+        "order": 4,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "The invention changed ordinary lighting more than it changed a laboratory.",
+        "order": 5,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP3_17",
+    "paper_title": "GS Paper 3",
+    "year": 2021,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q17",
+    "marks": 15,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Describe the major outcomes of the 26th session of the Conference of the Parties (COP) to the UNFCCC. What are the commitments made by India in this conference? (Answer in 250 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "COP26 and India's commitments",
+    "topics": [
+      "COP26 and India's commitments"
+    ],
+    "subTopics": [
+      "COP26"
+    ],
+    "keyPointers": [
+      "Glasgow kept the 1.5 degree aim and pushed coal and methane",
+      "Rules on carbon markets moved",
+      "India's panchamrit: capacity, intensity, a billion tonnes and net zero 2070",
+      "Outcomes were a step, not a finished treaty"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "COP26 in Glasgow tried to keep the 1.5 degree path alive.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Outcomes included a call to phase down unabated coal, a methane pledge by many countries, and progress on carbon-market rules.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "India announced five commitments: 500 GW of non-fossil capacity by 2030, half of energy from renewables by 2030, a 45 per cent cut in emissions intensity, a billion tonnes of carbon reduction, and net zero by 2070.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Finance from the rich countries remained the unfinished part.",
+        "order": 4,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "India's commitments were the domestic headline; the global outcome was a partial tightening.",
+        "order": 5,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP3_18",
+    "paper_title": "GS Paper 3",
+    "year": 2021,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q18",
+    "marks": 15,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Describe the various causes and the effects of landslides. Mention the important components of the National Landslide Risk Management Strategy. (Answer in 250 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Landslides and the national strategy",
+    "topics": [
+      "Landslides and the national strategy"
+    ],
+    "subTopics": [
+      "Landslide risk management"
+    ],
+    "keyPointers": [
+      "Cause: slope, water, a quake and a cut",
+      "Effect: a buried road, a village and a river dammed",
+      "The strategy is map, warn, build differently and prepare",
+      "Components, not only relief"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "A landslide is a slope that fails under gravity, usually with water or a shake.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Causes: a steep weak rock, a heavy rain, a quake, deforestation and a road cut.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Effects: death, a blocked road, a dammed river and a lost farm.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "The national strategy's components are a hazard map, an early warning, a land-use rule, a resilient infrastructure and a community preparedness.",
+        "order": 4,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Management is knowing the slope before the rain, not only clearing it after.",
+        "order": 5,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP3_19",
+    "paper_title": "GS Paper 3",
+    "year": 2021,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q19",
+    "marks": 15,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Analyse the multidimensional challenges posed by external state and non-state actors to the internal security of India. Also discuss measures required to be taken to combat these threats. (Answer in 250 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "External state and non-state actors",
+    "topics": [
+      "External state and non-state actors"
+    ],
+    "subTopics": [
+      "External actors and internal security"
+    ],
+    "keyPointers": [
+      "A state can fund, arm and give a sanctuary",
+      "A non-state group uses a border, a cyber tool and a crime",
+      "The challenge is terror, a insurgency and a smuggling",
+      "Measures: a border, an intelligence and a development"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's internal security is pressed from outside by both governments and armed groups.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "State actors use a proxy, a cyber attack and a border pressure.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Non-state actors use terror, a drug route and a fake identity.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Measures: a managed border, a shared intelligence, a terror finance trace, and a development that denies a recruit.",
+        "order": 4,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "The threat is multidimensional, so the reply cannot be only a force.",
+        "order": 5,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP3_20",
+    "paper_title": "GS Paper 3",
+    "year": 2021,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q20",
+    "marks": 15,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Analyse the complexity and intensity of terrorism, its causes, linkages and obnoxious nexus. Also suggest measures required to be taken to eradicate the menace of terrorism. (Answer in 250 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Terrorism: causes and nexus",
+    "topics": [
+      "Terrorism: causes and nexus"
+    ],
+    "subTopics": [
+      "Terrorism and its nexus"
+    ],
+    "keyPointers": [
+      "A political aim plus a civilian target",
+      "Causes: a grievance, an ideology and a sponsor",
+      "Nexus with a drug, a fake currency and a crime",
+      "Eradication needs a law, a money trail and a politics"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Terrorism is organised violence against civilians for a political aim, and it is harder than ordinary crime.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Causes include a real grievance, a justifying ideology and a state or a diaspora that funds it.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "The nexus is with drugs, a hawala, a fake note and an organised crime.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Measures: a precise law, a dry finance, an intelligence share, and a politics that does not feed the recruit.",
+        "order": 4,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Intensity comes from the nexus; ending it needs more than an encounter.",
+        "order": 5,
+        "cite": "U3"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1704 @@
+[
+  {
+    "uid": "UPSC_2016_GSP3_01",
+    "paper_title": "GS Paper 3",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q1",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "How globalization has led to the reduction of employment in the formal sector of the Indian economy? Is increased informalization detrimental to the development of the country?",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "subTopics": [
+      "Informalisation of work"
+    ],
+    "keyPointers": [
+      "Firms cut permanent staff to compete",
+      "Contracts, outsourcing and machines",
+      "Services and gig work grew",
+      "Informal work has no security or a pension",
+      "Cheap and flexible, but it blocks skill and stable demand"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Define globalization as increased integration of Indian economy with world since 1991. Formal sector (organized) provides job security and social security, while informal sector (unorganized) lacks these. Post-liberalization, formal employment share has declined.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "How globalization reduced formal employment:",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Increased competition forced firms to cut costs – outsourcing, contract labour, downsizing permanent workforce.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Technological upgradation (automation, IT) replaced manual labour.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Shift from manufacturing to services – services often informal or gig-based.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Labour law rigidities led firms to prefer informal hiring.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Decline of PSUs and traditional industries (textiles, steel). Is informalization detrimental? Yes: Low wages, no social security, exploitation, poor productivity, loss of tax revenue. But also provides livelihood to millions. Long-term detrimental for human development and formal tax base.",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that globalization has indeed reduced formal employment. Informalization is detrimental unless accompanied by social protection, skill development, and formalization drives (e.g., code on social security, e-Shram portal).",
+        "order": 8,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP3_02",
+    "paper_title": "GS Paper 3",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q2",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Women empowerment in India needs gender budgeting. What are the requirements and status of gender budgeting in the Indian context?",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "subTopics": [
+      "Gender budgeting"
+    ],
+    "keyPointers": [
+      "A budget can help men and women unequally",
+      "Need data split by sex, and officers who can read it",
+      "India publishes a gender statement since the mid-2000s",
+      "A small share of the budget is marked this way",
+      "A line in the budget is not the same as money that reaches women"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Gender budgeting (GB) is a fiscal tool to analyze government budgets for their gender-differential impact and reallocate resources to promote gender equality.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Requirements for effective GB:",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Gender-disaggregated data across ministries.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Capacity building of planners and budget officers.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Gender audit of schemes and programs.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Political will and institutional mechanisms. Status in India: Introduced in 2005-06; Gender Budget Statement (Statement 20) presented annually. Allocation as % of total budget: ~4-5% (e.g., 2023-24 ~Rs 2.4 lakh crore). Major ministries: Women & Child Development, Rural Development, Health, Education. Achievements: Increased focus on schemes like Beti Bachao Beti Padhao, Swachh Bharat (girl toilets), maternity benefits (PMMVY). Gaps: Poor implementation tracking, many schemes not gender-tagged, low capacity in line ministries, lack of gender audit.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that gender budgeting is necessary but not sufficient. India needs stronger accountability mechanisms, parliamentary oversight, and integration with outcome budgeting to truly empower women.",
+        "order": 7,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP3_03",
+    "paper_title": "GS Paper 3",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q3",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Pradhan Mantri Jan-Dhan Yojana (PMJDY) is necessary for bringing unbanked to the institutional finance fold. Do you agree with this for financial inclusion of the poorer section of the Indian society? Give arguments to justify your opinion.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "Essay — Society",
+    "topics": [
+      "Essay — Society"
+    ],
+    "subTopics": [
+      "Jan-Dhan and financial inclusion"
+    ],
+    "keyPointers": [
+      "A zero-balance account, a card and a small overdraft",
+      "Tens of crores of new accounts",
+      "Subsidies paid into the account, less leakage",
+      "Many accounts stay empty",
+      "Correspondents and distance still limit use",
+      "Necessary, not sufficient"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "PMJDY launched in August 2014 to ensure universal access to banking facilities, with zero-balance accounts, RuPay debit card, and overdraft facility.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Arguments agreeing: PMJDY brought over 50 crore accounts (as of 2023), largely of previously unbanked poor. Enabled direct benefit transfers (DBT) for subsidies (LPG, MGNREGA), reducing leakage. Provided overdraft to women, insurance and pension coverage.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Arguments against: Many accounts dormant or zero-balance.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "poor usage of overdraft due to documentation hurdles.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "branch penetration still low in remote areas.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "reliance on business correspondents with limited capacity. But.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "overall, PMJDY has been a game-changer for financial inclusion – necessary first.",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that PMJDY is necessary and largely successful in bringing unbanked into formal finance. However, to achieve deeper inclusion, need for financial literacy, credit linkage, and digital infrastructure (UPI, Jan Dhan-Aadhaar-Mobile trinity).",
+        "order": 8,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP3_04",
+    "paper_title": "GS Paper 3",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q4",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What are 'Smart Cities'? Examine their relevance for urban development in India. Will it increase rural-urban differences? Give arguments for 'Smart Villages' in the light of PURA and RURBAN Mission.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "subTopics": [
+      "Smart cities and smart villages"
+    ],
+    "keyPointers": [
+      "Selected cities get digital and basic services",
+      "They can pull talent and money away from the rest",
+      "A village cluster can have the same amenities",
+      "PURA and the Rurban mission",
+      "Urban smartness without rural smartness widens the gap"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Smart Cities Mission (2015) aims to develop 100 cities with core infrastructure, sustainable environment, and 'smart' solutions (e-governance, waste management, mobility).",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Relevance for urban development: Addresses rapid urbanization (35% of Indians in cities by 2030), improves quality of life, attracts investment.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "However, focus on selected cities may ignore smaller towns. Will it increase rural-urban.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "differences? Yes – resources concentrated in smart cities may accelerate migration and neglect rural areas.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Arguments for 'Smart Villages' based on PURA (Providing Urban Amenities in Rural Areas) and Shyama Prasad Mukherjee RURBAN Mission (2014): cluster of villages with economic and social infrastructure, livelihood promotion.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Need to balance smart cities with smart villages to prevent disparity.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that smart cities alone are insufficient; holistic development requires smart villages with digital connectivity, local entrepreneurship, and basic amenities, reducing forced rural-to-urban migration.",
+        "order": 7,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP3_05",
+    "paper_title": "GS Paper 3",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q5",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Justify the need for FDI for the development of the Indian economy. Why there is gap between MOUs signed and actual FDIs? Suggest remedial steps to be taken for increasing actual FDIs in India.",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "subTopics": [
+      "Foreign direct investment"
+    ],
+    "keyPointers": [
+      "Capital, technology and a place in a supply chain",
+      "MoUs die in land, clearance and changing rules",
+      "Infrastructure and labour uncertainty",
+      "One window and a stable tax",
+      "A signature is not money in the ground"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Foreign Direct Investment (FDI) brings capital, technology, management expertise, and market access. India has progressively liberalized FDI policy (defense, insurance, e-commerce, etc.).",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Need for FDI: Supplements domestic savings, boosts infrastructure, creates jobs, integrates India into global value chains, improves productivity through competition. Gap between MOUs signed and actual FDI: Reasons – regulatory delays (land, environment clearances), policy inconsistency (retrospective taxation, frequent changes), infrastructure bottlenecks, labour issues, global economic conditions. Remedial steps:",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Single-window clearance at central and state level.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Stable and predictable tax regime (e.g., grandfathering provisions).",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Fast-track dispute resolution (commercial courts).",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Improving ease of doing business rank.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Sector-specific strategies (manufacturing, services).",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that FDI is essential but actual inflow requires credible implementation. India has improved (record FDI inflows ~$84 billion in 2021-22), but gap persists; sustained reforms are key.",
+        "order": 8,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP3_06",
+    "paper_title": "GS Paper 3",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q6",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Comment on the challenges for inclusive growth which include careless and useless manpower in the Indian context. Suggest measures to be taken for facing these challenges.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "subTopics": [
+      "Skills and inclusive growth"
+    ],
+    "keyPointers": [
+      "Growth that leaves people out is not inclusive",
+      "Weak schooling and a skill that firms do not want",
+      "Health and nutrition shape the ability to learn",
+      "Align training with jobs and apprenticeships",
+      "A young population without skill is a burden"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Inclusive growth requires participation of all sections in growth process and equitable distribution of benefits. 'Careless and useless manpower' refers to unskilled, undereducated, or employability-deficient workforce.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Challenges: Large informal sector with low productivity; poor quality of school education (ASER reports); skill mismatch – engineering graduates unemployable; lack of career guidance; dropout rates; health and nutrition deficits affecting cognitive abilities. Measures:",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Revamp school education (NEP 2020 foundational literacy and numeracy).",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "National Skill Qualification Framework (NSQF) aligning vocational training with industry needs.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Apprenticeship promotion and on-job training.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Career counseling from secondary level.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Focus on soft skills (communication, teamwork).",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Body",
+        "text": "Special programs for disadvantaged groups (SC/ST, minorities, women).",
+        "cite": "U16",
+        "order": 8
+      },
+      {
+        "section": "Body",
+        "text": "Linking MGNREGA to skill development.",
+        "cite": "U16",
+        "order": 9
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that converting 'careless and useless' manpower into productive human capital is central to inclusive growth. A multi-pronged education, skilling, and health strategy is essential.",
+        "order": 10,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP3_07",
+    "paper_title": "GS Paper 3",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q7",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What is water-use efficiency? Describe the role of micro-irrigation in increasing the water-use efficiency.",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "subTopics": [
+      "Micro-irrigation and water-use efficiency"
+    ],
+    "keyPointers": [
+      "More crop for each unit of water",
+      "Drip and sprinkler cut evaporation and runoff",
+      "Fertiliser can travel with the water",
+      "Weeds and salt are less",
+      "Cost and small plots slow adoption"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Water-use efficiency (WUE) is the ratio of beneficial water output (crop yield) to water input (irrigation). High WUE means more crop per drop.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Micro-irrigation includes drip and sprinkler systems that deliver water directly to root zone. Role in increasing WUE:",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Reduces evaporation and runoff losses (30-70% water saving compared to flood irrigation).",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Improves fertilizer use efficiency (fertigation).",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Allows precise application based on crop stage.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Reduces weed growth and soil salinity.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Enables cultivation in water-scarce areas. Examples: Drip in sugarcane, cotton, vegetables; sprinkler in wheat, pulses. Challenges: High initial cost, small landholdings, lack of awareness. Government subsidies (PMKSY – Per Drop More Crop) have promoted adoption.",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that micro-irrigation is a proven technology to enhance WUE, critical for India's water security. Need to scale up through subsidization, farmer training, and maintenance support.",
+        "order": 8,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP3_08",
+    "paper_title": "GS Paper 3",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q8",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "What is allelopathy? Discuss its role in major cropping systems of irrigated agriculture.",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "subTopics": [
+      "Allelopathy in cropping systems"
+    ],
+    "keyPointers": [
+      "One plant releases chemicals that help or harm another",
+      "Rice residue can slow the next wheat",
+      "A cover crop can suppress weeds",
+      "Sugarcane ratoon can poison its own regrowth",
+      "Residue management and a break crop"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Allelopathy is the biological phenomenon where plants release chemicals (allelochemicals) that affect the growth, survival, or reproduction of other plants (usually weeds or other crops).",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Role in major cropping systems:",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Rice-wheat system: Rice residues left after harvest release ferulic acid, p-coumaric acid inhibiting wheat germination. Management: incorporation of residues with decomposers, or surface retention for mulch.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Maize-based systems: Sorghum, sunflower as cover crops suppress weeds (Cyperus, Parthenium) through allelopathy.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Sugarcane: Ratoon crop shows autotoxicity – allelochemicals from previous crop inhibit regrowth; need break crop.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Irrigated horticulture: Eucalyptus and poplar affect intercropped vegetables. Positive use: Allelopathic crops as bioherbicides (e.g., rice straw extract against barnyard grass). Negative: Yield loss in rotation sequences.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that understanding allelopathy helps in designing crop rotations, residue management, and integrated weed management in irrigated agriculture, reducing chemical herbicide dependency.",
+        "order": 7,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP3_09",
+    "paper_title": "GS Paper 3",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q9",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Discuss the role of land reforms in agricultural development. Identify the factors that were responsible for the success of land reforms in India.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "subTopics": [
+      "Land reform and farm development"
+    ],
+    "keyPointers": [
+      "End of intermediaries, ceilings, secure tenants, consolidated plots",
+      "Security makes a tenant invest",
+      "Most of India implemented this weakly",
+      "West Bengal and Kerala had political will and records",
+      "Without records and will, the law stays on paper"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Land reforms in post-independence India aimed at redistributing land from zamindars to tillers, ceiling on holdings, tenancy regulation, and consolidation of holdings.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Role in agricultural development: Abolition of intermediaries (Zamindari, Jagirdari) freed tenants from exploitation; tenancy reforms provided security and incentive to invest; ceiling and redistribution marginally increased equity; consolidation improved farm size and productivity. However, impact was limited due to poor implementation. Factors responsible for success in some states (West Bengal, Kerala, Jammu & Kashmir):",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Strong political will (Left Front in West Bengal – Operation Barga).",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Effective bureaucracy and grassroots organization (land records digitization).",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Mass mobilization of landless and tenants.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Legal protection against eviction.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Land tribunals and fast-track courts. Where reforms failed (Bihar, UP): elite capture, poor record-keeping, benami transfers.",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that land reforms were necessary but incompletely implemented. Success depended on political commitment, administrative capability, and social movements. Further reforms (land leasing, digitization) remain needed.",
+        "order": 8,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP3_10",
+    "paper_title": "GS Paper 3",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q10",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Given the vulnerability of Indian agriculture to vagaries of nature, discuss the need for crop insurance and bring out the salient features of the Pradhan Mantri Fasal Bima Yojana (PMFBY).",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "subTopics": [
+      "Crop insurance under PMFBY"
+    ],
+    "keyPointers": [
+      "Monsoon, flood, pest and cyclone",
+      "Cover stops a distress sale and keeps bank credit flowing",
+      "A low farmer premium; the rest is subsidised",
+      "Yield loss from risks the farmer cannot prevent",
+      "The scheme fails if the claim is late"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Indian agriculture is highly vulnerable to monsoon variability, droughts, floods, cyclones, pests. Crop insurance provides risk cover to farmers against crop loss, ensuring income stability.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Need for crop insurance: Protects farmers from distress sales, prevents debt trap, encourages adoption of modern inputs (seeds, fertilizers) by reducing risk, supports credit flow from banks. PMFBY launched in 2016 replacing earlier schemes. Salient features:",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Uniform premium of 1.5% for rabi, 2% for kharif, 5% for commercial/horticulture crops; balance premium subsidized equally by centre and state.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Covers yield loss due to non-preventable risks (drought, flood, pest, disease) and post-harvest losses (up to 14 days).",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Use of technology – remote sensing, drones for crop cutting experiments.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Voluntary for farmers, compulsory for loanee farmers.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Cluster approach for better implementation.",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that PMFBY has increased coverage but faced issues – delayed claims, budget constraints, states opting out. Reforms (e.g., 2020 changes making it voluntary for states) have diluted impact. Need for timely settlement and actuarial efficiency.",
+        "order": 8,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP3_11",
+    "paper_title": "GS Paper 3",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q11",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Give an account of the current status and the targets to be achieved pertaining to renewable energy sources in the country. Discuss in brief the importance of National Programme on Light Emitting Diodes (LEDs).",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "subTopics": [
+      "Renewable energy and LED bulbs"
+    ],
+    "keyPointers": [
+      "Solar, wind, small hydro and bioenergy",
+      "Targets rose from a modest 2022 goal toward a much larger non-fossil share",
+      "LEDs use far less power than old bulbs",
+      "Lower bills and a lower evening peak",
+      "A small bulb is a large saving when millions switch"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India has committed to 500 GW of non-fossil fuel capacity by 2030 and net-zero by 2070 (updated from earlier targets). Renewable energy (RE) includes solar, wind, hydro, bioenergy.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Current status (as of 2016 – earlier context, but updated for.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "relevance): In 2016, RE capacity ~45 GW.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "by 2023 reached ~180 GW (excluding large hydro). Target by 2022 was 175 GW (achieved 2021?). Solar leads (Gujarat, Rajasthan). National Programme on LEDs (UJALA scheme launched 2015): Distributes LED bulbs at subsidized rates.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Importance: LEDs consume 80% less energy than incandescent bulbs, reduce household electricity bills, lower peak demand, reduce CO2 emissions. UJALA saved over 40 billion kWh annually by 2018.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that India has made rapid strides in RE, but needs to address grid integration, storage, and financing. LED program is a low-hanging fruit for energy efficiency and climate action.",
+        "order": 6,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP3_12",
+    "paper_title": "GS Paper 3",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q12",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Discuss India's achievements in the field of Space Science and Technology. How the application of this technology has helped India in its socio-economic development?",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "subTopics": [
+      "Space technology for development"
+    ],
+    "keyPointers": [
+      "Own launchers and satellites",
+      "Moon and Mars missions at low cost",
+      "Weather, crop and disaster images",
+      "Communication and navigation for remote areas",
+      "A prestige mission that also serves a village"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's space program (ISRO) has achieved self-reliance in launch vehicles (PSLV, GSLV), satellites (INSAT, IRS, GSAT), and planetary missions (Chandrayaan, Mangalyaan).",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Achievements: PSLV's 104 satellites in one launch (2017); Mars Orbiter Mission (Mangalyaan) – first Asian nation to reach Mars orbit in first attempt; Chandrayaan-1 detected water on moon; GSLV Mk-III for heavy payloads; successful Chandrayaan-3 (2023). Applications for socio-economic development:",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Telecommunication and broadcasting (INSAT) – rural connectivity, distance education, telemedicine.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Remote sensing (IRS) – crop forecasting, water resources, forest mapping, disaster management (cyclones, floods).",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Navigation (NavIC) – fisheries, transport, surveying.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Weather forecasting – advance warning of cyclones (e.g., Phailin 2013 saved thousands).",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Village resource centres using satellite imagery.",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that space technology has directly contributed to agriculture, infrastructure, disaster risk reduction, and governance. Low-cost innovation model (e.g., Mangalyaan at $74 million) makes it sustainable.",
+        "order": 8,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP3_13",
+    "paper_title": "GS Paper 3",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q13",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Why is nanotechnology one of the key technologies of the 21st century? Describe the salient features of Indian Government's Mission on Nanoscience and Technology and the scope of its application in the development process of the country.",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "subTopics": [
+      "Nanotechnology and India's mission"
+    ],
+    "keyPointers": [
+      "Matter changed at a tiny scale behaves differently",
+      "Medicine, chips, solar cells, stronger materials, clean water",
+      "A public mission for research and people",
+      "Use in health, energy and farming",
+      "Risk and regulation have to travel with the use"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Nanotechnology involves manipulation of matter at atomic scale (1-100 nm). It enables novel properties and applications across sectors, hence a key 21st century technology.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "reasons: Revolutionizes medicine (targeted drug delivery, nanosensors), electronics (smaller chips, quantum dots), energy (high-efficiency solar cells, batteries), materials (stronger composites, self-cleaning surfaces), environment (water purification, pollution control). Indian Government's Mission on Nanoscience and Technology (initiated 2007, extended): Salient features – setting up Nano Mission Council, funding Centers of Excellence (IITs, IISc), promoting R&D in nano-electronics, nano-biology, nano-materials.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "international collaborations. Scope in India: Low-cost water filters (nanosilver), point-of-care diagnostics for rural health, nano-fertilizers for efficient nutrient delivery, nano-coatings for heritage preservation, energy storage for solar power.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that nanotechnology offers transformative potential for India's development challenges. Need to balance safety regulations (nanotoxicology) and affordable manufacturing to realize benefits.",
+        "order": 4,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP3_14",
+    "paper_title": "GS Paper 3",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q14",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Rehabilitation of human settlements is one of the important environmental impacts which always attracts controversy while planning major projects. Discuss the measures suggested for mitigation of this impact while proposing major developmental projects.",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "subTopics": [
+      "Displacement and rehabilitation"
+    ],
+    "keyPointers": [
+      "Dams, mines and corridors move whole settlements",
+      "Loss of land, work and a community",
+      "Social impact study before acquisition",
+      "Consent of the gram sabha where the law requires it",
+      "Land for land, a livelihood, and a site with services"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Major developmental projects (dams, mines, industrial corridors, SEZs) often displace local communities, causing loss of livelihood, culture, and social capital. Rehabilitation and Resettlement (R&R) is a critical environmental and social impact.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Measures for mitigation (as per RFCTLARR Act, 2013):",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Social Impact Assessment (SIA) mandatory before acquisition.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Consent of gram sabha in case of land acquisition for private projects.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Comprehensive R&R package: cash compensation (market value plus solatium), land-for-land (preferably), housing, subsistence allowance, transport subsidy.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Provision for job in project or skill training.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Infrastructure in resettlement sites (schools, hospitals, roads, water).",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Body",
+        "text": "Special provisions for SC/ST and vulnerable groups (tribal rights under PESA, FRA).",
+        "cite": "U16",
+        "order": 8
+      },
+      {
+        "section": "Body",
+        "text": "Grievance redressal authority and rehabilitation committees. Successful examples: Sardar Sarovar R&R (partial), Singur (controversial) – shows need for participatory approach. Also, avoid displacement through alternative alignments (linear projects).",
+        "cite": "U16",
+        "order": 9
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that timely, adequate, and participatory R&R can mitigate controversy. Development should not be at cost of human dignity; resettlement must restore livelihoods and improve living standards.",
+        "order": 10,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP3_15",
+    "paper_title": "GS Paper 3",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q15",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The frequency of urban floods due to high intensity rainfall is increasing over the years. Discussing the reasons for urban floods, highlight the mechanisms for preparedness to reduce the risk during such events.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "subTopics": [
+      "Urban flood preparedness"
+    ],
+    "keyPointers": [
+      "Built-over lakes and drains",
+      "Hard surfaces and choked drains",
+      "Short, very heavy rain",
+      "Maps of risk, cleared drains and an early warning",
+      "A sponge city lets water into the ground"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Urban flooding (Chennai 2015, Mumbai 2005, Hyderabad 2020, Bengaluru 2022) has become recurrent due to climate change and unplanned urbanization.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Reasons: Encroachment on natural drainage (lakes, wetlands, stormwater channels), impervious surfaces (concrete, asphalt) increasing runoff, inadequate or choked drainage systems, poor solid waste management (clogging drains), high-intensity short-duration rainfall, sea-level rise in coastal cities, failure of early warning and response. Preparedness mechanisms:",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Real-time rainfall and river level monitoring (automatic weather stations).",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "GIS-based flood hazard mapping and zoning.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Maintain and desilt stormwater drains regularly.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Restoration of water bodies and creation of retention basins.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Permeable pavements and rainwater harvesting.",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Body",
+        "text": "Early warning dissemination via mobile alerts, sirens.",
+        "cite": "U16",
+        "order": 8
+      },
+      {
+        "section": "Body",
+        "text": "Emergency response plans – evacuation routes, rescue teams.",
+        "cite": "U16",
+        "order": 9
+      },
+      {
+        "section": "Body",
+        "text": "Building codes restricting basement habitation in flood-prone zones.",
+        "cite": "U16",
+        "order": 10
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that flood resilience requires integrated urban planning, nature-based solutions (sponge city concept), and community awareness. NDMA guidelines provide a framework for disaster risk reduction.",
+        "order": 11,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP3_16",
+    "paper_title": "GS Paper 3",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q16",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "With reference to National Disaster Management Authority (NDMA) guidelines, discuss the measures to be adopted to mitigate the impact of the recent incidents of cloudbursts in many places of Uttarakhand.",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "subTopics": [
+      "Cloudburst risk in the Himalaya"
+    ],
+    "keyPointers": [
+      "A violent local downpour sets off flash floods and slides",
+      "Map the hazard",
+      "Radar that warns a few hours ahead",
+      "Do not build in the drain path",
+      "Drills and a safe route uphill"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Cloudbursts (extreme rainfall >100mm/hour over a small area) frequently occur in Himalayan states like Uttarakhand, triggering flash floods, landslides, and debris flows (e.g., 2013 Kedarnath, 2021 Chamoli).",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "NDMA guidelines on cloudbursts (and similar hydro-meteorological disasters):",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Hazard zonation using high-resolution satellite imagery and historical data.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Installation of Doppler weather radars for real-time nowcasting (3-6 hour lead time).",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Early warning systems linked to sirens and mobile networks in vulnerable valleys.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Land-use regulation – no construction on steep slopes, drainage channels, or floodplains.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Structural measures – check dams, retaining walls, bio-engineering (vetiver planting for slope stabilization).",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Body",
+        "text": "Community-based disaster preparedness – mock drills, evacuation routes, safe shelters.",
+        "cite": "U16",
+        "order": 8
+      },
+      {
+        "section": "Body",
+        "text": "Integrated emergency communication network in remote areas.",
+        "cite": "U16",
+        "order": 9
+      },
+      {
+        "section": "Body",
+        "text": "Post-disaster guidelines – rapid assessment teams, debris clearance, disease surveillance.",
+        "cite": "U16",
+        "order": 10
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that Uttarakhand needs a dedicated Himalayan risk mitigation plan incorporating NDMA guidelines, with focus on early warning, infrastructure resilience, and ecosystem restoration (forests, springs).",
+        "order": 11,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP3_17",
+    "paper_title": "GS Paper 3",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q17",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "The terms 'Hot Pursuit' and 'Surgical Strikes' are often used in connection with armed action against terrorist attacks. Discuss the strategic impact of such actions.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "subTopics": [
+      "Hot pursuit and surgical strikes"
+    ],
+    "keyPointers": [
+      "Chase across a border right after an attack",
+      "A limited strike on a launch pad, not a war",
+      "Shows a cost will be imposed",
+      "Raises domestic morale",
+      "Risk of escalation and of a habit of force"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Hot pursuit refers to crossing international borders to chase attackers immediately after an incident. Surgical strikes are limited, precision strikes against terrorist launch pads without engaging military targets.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Strategic impact – Positive: Demonstrates resolve and capability to retaliate across border (India's 2016 surgical strikes after Uri). Deters future attacks by imposing costs. Boosts domestic morale and political standing. Signals to international community that state-sponsored terrorism will be answered.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Negative: Risk of escalation into conventional war. May violate international law (territorial sovereignty). Provokes retaliatory attacks. Can be perceived as propaganda tool. In context of India-Pakistan: Surgical strikes changed the response norm – from passive diplomacy to proactive military action. Hot pursuit (e.g., 2015 Myanmar operation) effective against non-state actors in weak states.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Overall, strategic impact depends on proportionality, international support, and post-strike communication.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that surgical strikes have become a new tool in India's counter-terrorism strategy, raising deterrence but requiring careful calibration to avoid escalation. They complement diplomatic and covert actions.",
+        "order": 5,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP3_18",
+    "paper_title": "GS Paper 3",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q18",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "\"Terrorism is emerging as a competitive industry over the last few decades.\" Analyze the above statement.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "subTopics": [
+      "Terrorism as an industry"
+    ],
+    "keyPointers": [
+      "Money from drugs, ransom, extortion and a patron state",
+      "Recruitment as marketing",
+      "Arms, documents and safe houses as logistics",
+      "Local branches of a larger brand",
+      "It persists because the trade pays"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The statement metaphorically describes terrorism as a self-sustaining, profit-driven enterprise with supply chains, franchises, and market dynamics.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Funding sources: drug trafficking (Taliban), kidnapping for ransom, extortion, illicit trade (oil, antiquities), state sponsorship.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Recruitment: ideology marketing, social media propaganda, radicalization networks – 'talent pipeline'.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Logistics: arms smuggling, forged documents, safe havens.",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Franchising: ISIS provincial branches in Afghanistan, Africa; Al-Qaeda affiliates.",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Innovation: drone attacks, cyber terrorism, IED improvements.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Competition: rival groups compete for recruits, territory, and funding (e.g., ISIS vs Al-Qaeda). Why 'competitive industry'? Groups differentiate through brutality (ISIS), national focus (Lashkar-e-Taiba), or ideological purity. Market responds to counter-terrorism pressure – shifts to less monitored regions. However, analogy has limits – terrorism is not profit-maximizing in economic sense; primary goal remains political.",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Conclusion",
+        "conclusion": "Conclude that the industry analogy captures the organizational sophistication and resilience of modern terrorism. Countering requires disrupting financial networks, counter-radicalization, and international cooperation, just as one would fight an illicit industry.",
+        "order": 8
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP3_19",
+    "paper_title": "GS Paper 3",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q19",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Border management is a complex task due to difficult terrain and hostile relations with some countries. Elucidate the challenges and strategies for effective border management.",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "subTopics": [
+      "Border management"
+    ],
+    "keyPointers": [
+      "Mountains, rivers, forests and a long coast",
+      "Terror, smuggling and an unsettled line",
+      "Fences, sensors and more posts",
+      "Talks where the neighbour is friendly",
+      "One template cannot fit every border"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India shares over 15,000 km of land border with 7 countries, plus 7,500 km coastline. Terrain varies from high-altitude desert (Ladakh) to dense forest (Northeast), swamps (Bengal), and plains (Punjab). Relations range from friendly (Bhutan) to hostile (Pakistan, China).",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "Challenges: Difficult terrain (Himalayan passes, riverine, mangrove) restricts surveillance and patrolling; cross-border terrorism (Pakistan); infiltration and smuggling; border disputes (LAC with China, Sir Creek, Doklam); lack of proper fencing in some sectors; tribal and ethnic sensitivities (Nagaland, Mizoram); poor infrastructure and connectivity; coordination among multiple agencies (BSF, ITBP, SSB, Assam Rifles). Strategies:",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "Comprehensive integrated border management system (CIBMS) – sensors, cameras, radar.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "Fencing and floodlighting where feasible (Punjab, Rajasthan).",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Border roads and forward infrastructure (BRO).",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Smart fencing and drones for real-time surveillance.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Village border committees and border area development program (BADP).",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Body",
+        "text": "Coordinated patrolling and joint exercises with friendly neighbors.",
+        "cite": "U16",
+        "order": 8
+      },
+      {
+        "section": "Body",
+        "text": "Diplomatic engagement to resolve disputes (mechanism for India-China border talks).",
+        "cite": "U16",
+        "order": 9
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that effective border management balances security with development of border communities. Technology and bilateral confidence-building measures are key to addressing both terrain and hostility challenges.",
+        "order": 10,
+        "cite": "U16"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2016_GSP3_20",
+    "paper_title": "GS Paper 3",
+    "year": 2016,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": "Q20",
+    "marks": 12.5,
+    "importance": 2,
+    "cite": "U16",
+    "last_updated": 1747488000,
+    "is_structured": 1,
+    "question_text": "Use of Internet and social media by non-state actors for subversive activities is a major security concern. How have these been misused in the recent past? Suggest effective guidelines to curb the above threat.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "Essay — Society",
+    "topics": [
+      "Essay — Society"
+    ],
+    "subTopics": [
+      "Social media and subversion"
+    ],
+    "keyPointers": [
+      "Recruitment, live violence and rumour",
+      "Mob attacks fed by forwards",
+      "Election manipulation",
+      "Trace, take down, and punish the organiser",
+      "Do not hand the state a switch for all speech"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Internet and social media provide anonymity, reach, and speed, making them attractive for non-state actors (terrorists, extremists, hate groups) for recruitment, radicalization, planning, and propaganda.",
+        "order": 1,
+        "cite": "U16"
+      },
+      {
+        "section": "Body",
+        "text": "ISIS used Telegram, Twitter for recruiting foreign fighters and claiming attacks.",
+        "cite": "U16",
+        "order": 2
+      },
+      {
+        "section": "Body",
+        "text": "2019 Christchurch shooting live-streamed on Facebook.",
+        "cite": "U16",
+        "order": 3
+      },
+      {
+        "section": "Body",
+        "text": "WhatsApp forwards inciting mob lynching in India (2018-19).",
+        "cite": "U16",
+        "order": 4
+      },
+      {
+        "section": "Body",
+        "text": "Coordinated disinformation campaigns during elections (Cambridge Analytica style).",
+        "cite": "U16",
+        "order": 5
+      },
+      {
+        "section": "Body",
+        "text": "Encrypted apps (Signal, WhatsApp) used for terror communication.",
+        "cite": "U16",
+        "order": 6
+      },
+      {
+        "section": "Body",
+        "text": "Radicalization of youth through YouTube propaganda videos. Guidelines to curb threat:",
+        "cite": "U16",
+        "order": 7
+      },
+      {
+        "section": "Body",
+        "text": "Stricter takedown policies for hate speech and terror content (IT Rules 2021).",
+        "cite": "U16",
+        "order": 8
+      },
+      {
+        "section": "Body",
+        "text": "Mandatory traceability for first originator of messages (WhatsApp challenges).",
+        "cite": "U16",
+        "order": 9
+      },
+      {
+        "section": "Body",
+        "text": "Algorithm transparency for social media platforms.",
+        "cite": "U16",
+        "order": 10
+      },
+      {
+        "section": "Body",
+        "text": "Cyber hygiene and awareness campaigns.",
+        "cite": "U16",
+        "order": 11
+      },
+      {
+        "section": "Body",
+        "text": "International cooperation (GIFCT – Global Internet Forum to Counter Terrorism).",
+        "cite": "U16",
+        "order": 12
+      },
+      {
+        "section": "Body",
+        "text": "Rapid response teams to counter online radicalization.",
+        "cite": "U16",
+        "order": 13
+      },
+      {
+        "section": "Body",
+        "text": "Balance with privacy and free speech – oversight mechanisms.",
+        "cite": "U16",
+        "order": 14
+      },
+      {
+        "section": "Conclusion",
+        "text": "Conclude that curbing misuse requires multi-stakeholder approach – government regulation, platform accountability, and citizen resilience. Over-regulation risks censorship, under-regulation enables subversion.",
+        "order": 15,
+        "cite": "U16"
+      }
+    ]
+  }
+]

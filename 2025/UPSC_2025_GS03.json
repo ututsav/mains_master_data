@@ -1,0 +1,1162 @@
+[
+  {
+    "uid": "UPSC_2025_GSP3_01",
+    "paper_title": "GS Paper 3",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": 1,
+    "marks": 10,
+    "importance": 3,
+    "cite": "U3",
+    "last_updated": 1747454400,
+    "is_structured": 1,
+    "question_text": "Distinguish between the Human Development Index (HDI) and the Inequality-adjusted Human Development Index (IHDI) with special reference to India. Why is the IHDI considered a better indicator of inclusive growth? (150 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "subTopics": [
+      "HDI and inequality-adjusted HDI"
+    ],
+    "keyPointers": [
+      "HDI averages health, school and income",
+      "IHDI cuts that average by how unequally they are shared",
+      "India’s gap between the two is the hidden inequality",
+      "The adjusted index is the fairer national picture"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Human Development Index (HDI) measures average achievement in key dimensions of human development, while the Inequality-adjusted HDI (IHDI) accounts for how these achievements are distributed across the population.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "In the Indian context, the gap between HDI and IHDI highlights the significant impact of inequality on health, education, and income, effectively 'discounting' the average value based on the level of disparity.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "IHDI is a superior indicator of inclusive growth because it captures the 'potential' human development that is lost due to inequality, reflecting whether the benefits of progress are truly reaching the marginalized.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "For India to transition to a high human development category, policy focus must shift from improving averages to reducing the internal disparities captured by the IHDI.",
+        "order": 4,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP3_02",
+    "paper_title": "GS Paper 3",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": 2,
+    "marks": 10,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747454400,
+    "is_structured": 1,
+    "question_text": "What are the challenges before the Indian economy when the world is moving away from free trade and multilateralism to protectionism and bilateralism? How can these challenges be met? (150 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "subTopics": [
+      "Protectionism and India’s economy"
+    ],
+    "keyPointers": [
+      "Exports, inputs and a supply chain face new walls",
+      "A bilateral deal can open one door and close a multilateral rule",
+      "Domestic industry wants a shield and a market",
+      "The challenge is access without becoming only a protected market"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The global shift toward 'sovereign nationalism' and protectionism threatens India's export-led growth and its integration into global value chains.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Challenges include reduced market access for Indian goods, the 'weaponization' of supply chains, and the weakening of the WTO, which leaves developing nations vulnerable in bilateral negotiations with major powers.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "These can be met by strengthening 'Atmanirbhar Bharat' to build resilient domestic supply chains, negotiating strategic Free Trade Agreements (FTAs) with complementary economies, and enhancing export competitiveness through logistics reforms.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "By balancing self-reliance with strategic external engagement, India can navigate the era of deglobalization while maintaining its trajectory toward a 5-trillion dollar economy.",
+        "order": 4,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP3_03",
+    "paper_title": "GS Paper 3",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": 3,
+    "marks": 10,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747454400,
+    "is_structured": 1,
+    "question_text": "Explain the factors influencing the decision of the farmers on the selection of high value crops in India. (150 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "subTopics": [
+      "Choice of high-value crops"
+    ],
+    "keyPointers": [
+      "Price, a sure buyer and the cost of the input",
+      "Water, risk and a cold store",
+      "Credit and a road decide as much as the seed",
+      "The choice is a calculation, not a slogan"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Diversification into high-value crops (HVCs) like fruits, vegetables, and medicinal plants is essential for increasing farm income and ensuring agricultural sustainability in India.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Key factors include market demand and price signals, access to irrigation and cold-chain infrastructure, and the availability of institutional credit to cover higher initial input costs.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Risk perception also plays a major role; farmers often stick to traditional cereals due to the safety net of Minimum Support Prices (MSP) and the perishability of HVCs.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Promoting HVCs requires a robust policy framework that includes crop insurance, improved market linkages (e-NAM), and investment in post-harvest processing.",
+        "order": 4,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP3_04",
+    "paper_title": "GS Paper 3",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": 4,
+    "marks": 10,
+    "importance": 3,
+    "cite": "U3",
+    "last_updated": 1747454400,
+    "is_structured": 1,
+    "question_text": "Elaborate the scope and significance of supply chain management of agricultural commodities in India. (150 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "subTopics": [
+      "Agricultural supply chains"
+    ],
+    "keyPointers": [
+      "From the field to storage, process and the shop",
+      "Loss and a middle layer sit in the gaps",
+      "A managed chain raises the farmer’s share and cuts waste",
+      "Significance is income and a stable food price"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Supply chain management (SCM) in agriculture involves the efficient movement of produce from the 'farm-gate' to the 'food-plate,' aiming to minimize waste and maximize value.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "The scope in India is vast, covering procurement, cold storage, transportation, and retail, yet it is currently hindered by fragmentation and a lack of integrated logistics.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Its significance lies in reducing post-harvest losses (estimated at 15-20%), ensuring price stability for consumers, and increasing the farmer's share in the final retail price.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Modernizing SCM through private investment and digital tracking is a prerequisite for India to become a global leader in food processing and exports.",
+        "order": 4,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP3_05",
+    "paper_title": "GS Paper 3",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": 5,
+    "marks": 10,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747454400,
+    "is_structured": 1,
+    "question_text": "The fusion energy programme in India has steadily evolved over the past few decades. Mention India's contributions to the international fusion energy project International Thermonuclear Experimental Reactor (ITER). What will be the implications of the success of this project for the future of global energy? (150 words)",
+    "subjectId": "essay-world",
+    "subjects": [
+      "Essay — World & Environment"
+    ],
+    "topic": "Essay — World",
+    "topics": [
+      "Essay — World"
+    ],
+    "subTopics": [
+      "India and fusion energy"
+    ],
+    "keyPointers": [
+      "India builds major ITER parts, including the cryostat",
+      "Cooling and power systems are part of the contribution",
+      "Success would be a large, low-carbon baseload",
+      "The implication is energy without the fuel limit of fission"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Nuclear fusion represents the 'holy grail' of clean energy, and India has emerged as a key global partner through its indigenous Tokamak research and participation in the ITER project.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "India's contributions to ITER include high-tech components like the cryostat (the world's largest stainless-steel vacuum vessel), cooling water systems, and power supplies.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "The success of ITER would provide a blueprint for 'Sun-like' carbon-free energy, offering a near-limitless power source with minimal radioactive waste compared to fission.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "For the future of global energy, fusion would decouple human progress from carbon emissions, providing a permanent solution to the global energy crisis.",
+        "order": 4,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP3_06",
+    "paper_title": "GS Paper 3",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": 6,
+    "marks": 10,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747454400,
+    "is_structured": 1,
+    "question_text": "How can India achieve energy independence through clean technology by 2047? How can biotechnology can play a crucial role in this endeavour ? (150 words)",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "subTopics": [
+      "Clean energy independence by 2047"
+    ],
+    "keyPointers": [
+      "Domestic sun, wind, nuclear and storage instead of imported fuel",
+      "Efficiency is half the independence",
+      "Biotechnology can give a biofuel, a better crop and a lower farm energy need",
+      "2047 is a direction that needs a grid, not only a target"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Achieving energy independence by the centenary of independence (2047) requires a fundamental shift from fossil-fuel imports to decentralized clean technology and green fuels.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Clean technology pathways include the aggressive expansion of Green Hydrogen, solar-wind hybrids, and large-scale grid storage to manage the intermittency of renewables.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Biotechnology plays a crucial role through the development of 2nd and 3rd generation biofuels (from agricultural waste and algae) and microbes that can efficiently convert CO2 into value-added products.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "By integrating agritech with energy tech, India can achieve a 'Green Energy' revolution that supports both national security and rural livelihoods.",
+        "order": 4,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP3_07",
+    "paper_title": "GS Paper 3",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": 7,
+    "marks": 10,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747454400,
+    "is_structured": 1,
+    "question_text": "What is Carbon Capture, Utilization and Storage (CCUS)? What is the potential role of CCUS in tackling climate change? (150 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "subTopics": [
+      "Carbon capture, use and storage"
+    ],
+    "keyPointers": [
+      "Catch CO2 from a plant or the air",
+      "Use it or lock it underground",
+      "It can cut emissions from a hard industry",
+      "It is not a licence to keep burning without a limit"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "CCUS involves a suite of technologies designed to capture carbon dioxide emissions from industrial sources and either reuse them or store them permanently underground.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "In tackling climate change, CCUS is vital for decarbonizing 'hard-to-abate' sectors like cement, steel, and chemicals, where electrification is currently not feasible.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "The 'Utilization' aspect allows captured CO2 to be converted into building materials or synthetic fuels, creating a circular economy while preventing it from reaching the atmosphere.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "While expensive, CCUS is a necessary bridge technology for India to achieve its 'Net Zero' goals by 2070 while maintaining its industrial growth.",
+        "order": 4,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP3_08",
+    "paper_title": "GS Paper 3",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": 8,
+    "marks": 10,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747454400,
+    "is_structured": 1,
+    "question_text": "Seawater intrusion in the coastal aquifers is a major concern in India. What are the causes of seawater intrusion and the remedial measures to combat this hazard? (150 words)",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay — Literature & Society"
+    ],
+    "topic": "Essay — Society",
+    "topics": [
+      "Essay — Society"
+    ],
+    "subTopics": [
+      "Seawater intrusion"
+    ],
+    "keyPointers": [
+      "Over-pumping lets the sea push in",
+      "A fallen water table and a rise in sea level both help it",
+      "The well turns salt and the crop fails",
+      "Remedy: recharge, a limit on pumping, and a barrier of fresh water"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Seawater intrusion is the movement of saline water into freshwater aquifers, a growing hazard that threatens water security along India's 7,500 km coastline.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Primary causes include the over-extraction of groundwater for agriculture and tourism, which lowers the water table, and rising sea levels that push the salt-freshwater interface inland.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Remedial measures include regulated groundwater pumping, the construction of artificial recharge structures to push back the saline front, and the restoration of coastal mangroves as bio-shields.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Sustainable coastal water management is essential to prevent the irreversible salinization of productive lands and the displacement of coastal communities.",
+        "order": 4,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP3_09",
+    "paper_title": "GS Paper 3",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": 9,
+    "marks": 10,
+    "importance": 3,
+    "cite": "U3",
+    "last_updated": 1747454400,
+    "is_structured": 1,
+    "question_text": "Terrorism is a global scourge. How has it manifested in India? Elaborate with contemporary examples. What are the counter measures adopted by the State? Explain. (150 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "subTopics": [
+      "Terrorism in India"
+    ],
+    "keyPointers": [
+      "Cross-border, a lone actor, and a local insurgent network",
+      "Cities, a convoy and a crowded place",
+      "Law, intelligence, a financial trail and a neighbour",
+      "The counter-measure fails if it treats every community as the suspect"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "In India, terrorism has manifested as a hybrid threat, ranging from state-sponsored cross-border attacks to localized insurgencies and cyber-radicalization.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Contemporary manifestations include lone-wolf attacks, the use of drones for narco-terror logistics along the border, and the spread of extremist ideology through encrypted digital platforms.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Countermeasures include the strengthening of the NIA, the proactive 'Zero Tolerance' policy, surgical strikes, and the NATGRID for intelligence integration.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "A whole-of-society approach that combines hard security with community de-radicalization is essential to secure India's internal stability.",
+        "order": 4,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP3_10",
+    "paper_title": "GS Paper 3",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": 10,
+    "marks": 10,
+    "importance": 3,
+    "cite": "U3",
+    "last_updated": 1747454400,
+    "is_structured": 1,
+    "question_text": "The Government of India recently stated that Left Wing Extremism (LWE) will be eliminated by 2026. What do you understand by LWE and how are the people affected by it? What measures have been taken by the government to eliminate LWE? (150 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "subTopics": [
+      "Ending left-wing extremism"
+    ],
+    "keyPointers": [
+      "An armed challenge in the remaining red corridor",
+      "People lose a road, a school and safety",
+      "Security, rights on land, and a visible state",
+      "A date is a goal; the end is the grievance plus the gun"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Left-Wing Extremism (LWE), or Naxalism, is an armed insurgency that aims to overthrow the democratic state, currently concentrated in the 'Red Corridor' of central and eastern India.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "People in affected areas suffer from a 'development deficit' as insurgents target public infrastructure; they are often caught between security forces and rebels, leading to displacement and social trauma.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "The government’s elimination strategy, such as the 'SAMADHAN' doctrine, combines intensive security operations with rapid road and telecom infrastructure development in sensitive districts.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "By integrating tribal rights (FRA) with security measures, the state aims to shrink the 'psychological' and 'geographical' space for LWE by 2026.",
+        "order": 4,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP3_11",
+    "paper_title": "GS Paper 3",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": 11,
+    "marks": 15,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747458000,
+    "is_structured": 1,
+    "question_text": "Explain how the Fiscal Health Index (FHI) can be used as a tool for assessing the fiscal performance of states in India. In what way would it encourage the states to adopt prudent and sustainable fiscal policies ? (250 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "subTopics": [
+      "Fiscal Health Index"
+    ],
+    "keyPointers": [
+      "It compares deficit, debt, revenue and the quality of spend",
+      "A state can see where it is weak",
+      "It can guide a transfer and a reform",
+      "A useful tool if it does not punish a poor state for being poor"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The Fiscal Health Index (FHI) is a comprehensive numerical tool designed to rank and assess the financial stability of states based on parameters like fiscal deficit, tax revenue growth, and debt-to-GSDP ratios.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "It serves as an assessment tool by providing a standardized benchmark that allows for a comparative analysis of state-level financial management, highlighting areas of structural weakness or revenue leakage.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "The index encourages prudent policies by creating 'fiscal competition' among states, where high rankings can lead to better credit ratings and increased access to performance-linked grants from the Finance Commission.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "By institutionalizing transparency and accountability, the FHI can guide India's states toward long-term fiscal sustainability and improved public service delivery.",
+        "order": 4,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP3_12",
+    "paper_title": "GS Paper 3",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": 12,
+    "marks": 15,
+    "importance": 3,
+    "cite": "U3",
+    "last_updated": 1747458000,
+    "is_structured": 1,
+    "question_text": "Discuss the rationale of the Production Linked Incentive (PLI) scheme. What are its achievements? In what way can the functioning and outcomes of the scheme be improved? (250 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "subTopics": [
+      "Production Linked Incentive"
+    ],
+    "keyPointers": [
+      "Pay a firm for incremental output in a chosen sector",
+      "The aim is scale, jobs and less import",
+      "Achievements are uneven across sectors",
+      "Improve it by tying the cheque to local value and a real job"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The PLI scheme was launched to boost domestic manufacturing, reduce import dependency, and integrate India into global value chains by offering financial incentives based on incremental sales.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Achievements include significant FDI inflows in electronics and mobile manufacturing, the emergence of 'National Champions' in strategic sectors, and a notable surge in exports of high-tech goods.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Outcomes can be improved by simplifying the application process for MSMEs, ensuring timely disbursement of incentives, and focusing more on domestic R&D and component manufacturing rather than just final assembly.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "With periodic reviews and a focus on building a robust ecosystem, the PLI scheme can become the primary engine for making India a global manufacturing powerhouse.",
+        "order": 4,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP3_13",
+    "paper_title": "GS Paper 3",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": 13,
+    "marks": 15,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747458000,
+    "is_structured": 1,
+    "question_text": "Examine the factors responsible for depleting groundwater in India. What are the steps taken by the government to mitigate such depletion of groundwater? (250 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "subTopics": [
+      "Groundwater depletion"
+    ],
+    "keyPointers": [
+      "Free power, a water-heavy crop and a million pumps",
+      "Recharge is slower than the draw",
+      "Missions for harvesting, a crop shift and mapped aquifers",
+      "Mitigation fails if the price of pumping stays zero"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India is the world's largest consumer of groundwater, and the rapid depletion of this 'invisible resource' poses a severe threat to food security and public health.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Responsible factors include the high-intensity cultivation of water-guzzling crops like paddy and sugarcane, subsidized electricity for irrigation, and the lack of regulated extraction in urban centers.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Government steps include the 'Atal Bhujal Yojana' for community-led water management, the 'Jal Shakti Abhiyan' for rainwater harvesting, and promoting micro-irrigation under 'Per Drop More Crop'.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Mitigating depletion requires a fundamental shift toward crop diversification and the scientific mapping of aquifers to ensure sustainable water governance.",
+        "order": 4,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP3_14",
+    "paper_title": "GS Paper 3",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": 14,
+    "marks": 15,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747458000,
+    "is_structured": 1,
+    "question_text": "Examine the scope of the food processing industries in India. Elaborate the measures taken by the government in the food processing industries for generating employment opportunities. (250 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "subTopics": [
+      "Food processing industry"
+    ],
+    "keyPointers": [
+      "A large farm output and a large waste",
+      "Scope in jobs, export and a higher farm price",
+      "Parks, a cold chain, credit and a standard",
+      "The measure works if the raw material arrives unspoiled"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Food processing acts as a critical link between agriculture and industry, with immense scope to add value, reduce waste, and improve farmer remuneration in India.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "The scope is vast due to India's diverse agro-climatic zones and a growing middle class; currently, only about 10% of India's produce is processed, indicating massive untapped potential.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "To generate employment, the government has launched the 'PMKSY' (Pradhan Mantri Kisan SAMPADA Yojana) to build Mega Food Parks and integrated cold chains, which create jobs in logistics, processing, and retail.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "By fostering entrepreneurship through the 'PM-FME' scheme for micro-enterprises, the sector can become a primary engine for rural job creation and inclusive growth.",
+        "order": 4,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP3_15",
+    "paper_title": "GS Paper 3",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": 15,
+    "marks": 15,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747458000,
+    "is_structured": 1,
+    "question_text": "How does nanotechnology offer significant advancements in the field of agriculture? How can this technology help to uplift the socio-economic status of farmers? (250 words)",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay — Polity, Sci, Economy, Agri"
+    ],
+    "topic": "Essay — Polity/Econ",
+    "topics": [
+      "Essay — Polity/Econ"
+    ],
+    "subTopics": [
+      "Nanotechnology in farming"
+    ],
+    "keyPointers": [
+      "A precise fertiliser, a sensor and a protected input",
+      "Less waste of chemical, more control of a pest",
+      "It can raise a yield and cut a cost",
+      "The socio-economic gain needs a price the small farmer can pay"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Nanotechnology involves the manipulation of matter at the molecular scale, offering precision-based solutions that can transform traditional agricultural practices.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Advancements include 'Nano-fertilizers' that allow for the controlled release of nutrients, 'Nano-sensors' for real-time monitoring of soil health, and 'Nano-pesticides' that reduce environmental toxicity.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "It uplifts the socio-economic status of farmers by significantly reducing input costs, increasing crop yields through targeted nutrient delivery, and minimizing post-harvest losses using 'Nano-coatings' for fruits and vegetables.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "While promising, the widespread adoption of nanotechnology requires a robust regulatory framework and affordable access to ensure that the benefits reach small and marginal farmers.",
+        "order": 4,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP3_16",
+    "paper_title": "GS Paper 3",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": 16,
+    "marks": 15,
+    "importance": 3,
+    "cite": "U3",
+    "last_updated": 1747458000,
+    "is_structured": 1,
+    "question_text": "India aims to become a semiconductor manufacturing hub. What are the challenges faced by the semiconductor industry in India? Mention the salient features of the India Semiconductor Mission. (250 words)",
+    "subjectId": "ancient",
+    "subjects": [
+      "Ancient & Medieval"
+    ],
+    "topic": "Ancient History",
+    "topics": [
+      "Ancient History"
+    ],
+    "subTopics": [
+      "Semiconductor manufacturing"
+    ],
+    "keyPointers": [
+      "Capital, ultra-clean water, power and a skilled line",
+      "A global supply chain that can be cut",
+      "Incentives, a fab policy and design-linked support",
+      "A hub is a decade of process, not one announcement"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "Semiconductors are the 'oil' of the digital age, and building a domestic chip ecosystem is vital for India's strategic autonomy and technological leadership.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Challenges include the massive capital investment required for fabs, the need for consistent ultra-pure water and power supply, and a significant shortage of highly specialized fabrication talent.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "The India Semiconductor Mission (ISM) features a massive financial outlay providing up to 50% fiscal support for setting up fabs, and emphasizes building a sustainable supply chain for chemicals and gases.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "The success of the ISM depends on sustained government commitment and a focus on both high-end fabrication and the design-led startup ecosystem.",
+        "order": 4,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP3_17",
+    "paper_title": "GS Paper 3",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": 17,
+    "marks": 15,
+    "importance": 2,
+    "cite": "U3",
+    "last_updated": 1747458000,
+    "is_structured": 1,
+    "question_text": "Mineral resources are fundamental to the country's economy and these are exploited by mining. Why is mining considered an environmental hazard ? Explain the remedial measures required to reduce the environmental hazard due to mining. (250 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "subTopics": [
+      "Mining as an environmental hazard"
+    ],
+    "keyPointers": [
+      "It strips soil, fouls water and displaces a village",
+      "The hazard is the method and the waste, not the mineral’s existence",
+      "Sustainable mining: a limit, a closed waste, consent and restoration",
+      "The economy needs the mineral and a land that survives it"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "While minerals are the backbone of industrial growth, the process of mining involves the deep-scale alteration of land, often leading to severe ecological imbalances.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Mining is a hazard because it causes massive deforestation, loss of biodiversity, soil erosion, and the contamination of groundwater with toxic heavy metals like mercury and arsenic.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Remedial measures include mandatory land reclamation (restoring mined pits), the use of 'Green Mining' technologies that minimize dust and noise, and strict enforcement of the 'Polluter Pays' principle.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "Balancing mineral security with ecological health requires a shift toward sustainable mining practices and a focus on 'urban mining' or recycling of materials.",
+        "order": 4,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP3_18",
+    "paper_title": "GS Paper 3",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": 18,
+    "marks": 15,
+    "importance": 3,
+    "cite": "U3",
+    "last_updated": 1747458000,
+    "is_structured": 1,
+    "question_text": "Write a review on India's climate commitments under the Paris Agreement (2015) and mention how these have been further strengthened in COP26 (2021). In this direction, how has the first Nationally Determined Contribution intended by India been updated in 2022? (250 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "subTopics": [
+      "Paris Agreement and COP26"
+    ],
+    "keyPointers": [
+      "A national target on emissions intensity, a non-fossil share and a carbon sink",
+      "COP26 added net zero by 2070 and a higher clean-power aim",
+      "The strengthening is a tighter promise",
+      "Delivery is the grid, the coal transition and the finance"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "India's climate policy has transitioned from 'constructive engagement' to 'assertive leadership,' as seen in its evolving Nationally Determined Contributions (NDCs).",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "The original Paris goals focused on emission intensity and renewable capacity, which were strengthened at COP26 through the 'Panchamrit' pledge, including a net-zero target by 2070.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "The 2022 update formalizes these goals, committing to reduce emission intensity of GDP by 45% and achieving 50% cumulative electric power capacity from non-fossil sources by 2030.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "India's updated NDCs reflect its commitment to the 'LiFE' (Lifestyle for Environment) movement, seeking a global order based on sustainable consumption and climate justice.",
+        "order": 4,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP3_19",
+    "paper_title": "GS Paper 3",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": 19,
+    "marks": 15,
+    "importance": 3,
+    "cite": "U3",
+    "last_updated": 1747458000,
+    "is_structured": 1,
+    "question_text": "What are the major challenges to internal security and peace process in the North-Eastern States? Map the various peace accords and agreements initiated by the government in the past decade. (250 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "subTopics": [
+      "North-East security and peace accords"
+    ],
+    "keyPointers": [
+      "Insurgent groups, a porous border and an unfinished ethnic claim",
+      "Accords have brought some groups into politics",
+      "Extortion and a split faction remain",
+      "Map the accord to the ground: a ceasefire is not yet a settlement"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "The North-East remains a complex security theater due to ethnic diversity, historical alienation, and its porous international borders with neighboring countries.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Major challenges include inter-ethnic clashes, illegal migration and demographic shifts, and the persistence of insurgent 'safe havens' across the border in Myanmar.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Peace accords in the last decade include the Bodo Accord (2020), the Bru-Reang agreement, and the landmark Naga Peace Framework Agreement, aiming for structural integration.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "The gradual withdrawal of AFSPA from several areas indicates a shift from a 'security-first' to a 'development-first' approach in the region.",
+        "order": 4,
+        "cite": "U3"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2025_GSP3_20",
+    "paper_title": "GS Paper 3",
+    "year": 2025,
+    "exam": "UPSC",
+    "origin": "PYQ",
+    "q_number": 20,
+    "marks": 15,
+    "importance": 3,
+    "cite": "U3",
+    "last_updated": 1747458000,
+    "is_structured": 1,
+    "question_text": "Why is maritime security vital to protect India's sea trade? Discuss maritime and coastal security challenges and the way forward. (250 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "subTopics": [
+      "Maritime and coastal security"
+    ],
+    "keyPointers": [
+      "Most of India’s trade moves by sea",
+      "Piracy, a rival navy, smuggling and a coastal landing",
+      "Challenges are both blue-water and the creek",
+      "The way forward is a navy, a coast guard and a port that shares information"
+    ],
+    "vault_path": null,
+    "points": [
+      {
+        "section": "Intro",
+        "text": "With over 90% of India's trade by volume moving through the sea, the Indian Ocean is the lifeblood of the nation's economy and its gateway to the world.",
+        "order": 1,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "Challenges include piracy in the Gulf of Aden, the growing 'extra-regional' naval presence in the IOR, and the vulnerability of coastal infrastructure to infiltration and terror attacks.",
+        "order": 2,
+        "cite": "U3"
+      },
+      {
+        "section": "Body",
+        "text": "The way forward involves strengthening the 'Coastal Security Ring,' enhancing maritime domain awareness (MDA) through satellites, and fostering regional partnerships through the 'SAGAR' initiative.",
+        "order": 3,
+        "cite": "U3"
+      },
+      {
+        "section": "Conclusion",
+        "text": "By establishing itself as the 'Net Security Provider' in the IOR, India can ensure the safety of its trade routes and regional stability.",
+        "order": 4,
+        "cite": "U3"
+      }
+    ]
+  }
+]
