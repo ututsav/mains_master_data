@@ -20,6 +20,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Equity within and across generations"
+    ],
+    "keyPointers": [
+      "Intra: the poor of today must share the growth",
+      "Inter: today's use must not exhaust tomorrow",
+      "Inclusive growth is the first; sustainability is the second",
+      "A mine or a debt can fail one or both"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -86,6 +95,15 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Potential GDP"
+    ],
+    "keyPointers": [
+      "The output an economy can sustain without overheating",
+      "Labour, capital, skills and productivity set it",
+      "India is held back by skills, infrastructure, farm stagnation and a small factory",
+      "The gap is unused capacity of people, not only machines"
     ],
     "vault_path": null,
     "points": [
@@ -154,6 +172,15 @@
     "topics": [
       "Essay — Polity/Econ"
     ],
+    "subTopics": [
+      "Farm transport and marketing"
+    ],
+    "keyPointers": [
+      "Small lots, many agents and a weak cold chain",
+      "A market that is far and a road that fails in rain",
+      "Price discovery is poor",
+      "The constraint is the chain between the field and the buyer"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -220,6 +247,15 @@
     "topic": "Agriculture",
     "topics": [
       "Agriculture"
+    ],
+    "subTopics": [
+      "Food processing and farm income"
+    ],
+    "keyPointers": [
+      "Waste, standards and a seasonal raw material",
+      "A plant near the farm can pay more than a distress sale",
+      "Opportunity is export and a branded food",
+      "Income rises if the farmer is in the chain, not only beside it"
     ],
     "vault_path": null,
     "points": [
@@ -294,6 +330,15 @@
     "topics": [
       "Science & Tech"
     ],
+    "subTopics": [
+      "Nanotechnology in health"
+    ],
+    "keyPointers": [
+      "Work at a scale of a molecule",
+      "Targeted delivery of a drug and a finer diagnostic",
+      "Less dose, more precision",
+      "The help is real and still costly and regulated"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -366,6 +411,15 @@
     "topic": "Essay — Polity/Econ",
     "topics": [
       "Essay — Polity/Econ"
+    ],
+    "subTopics": [
+      "Science in life and in farming"
+    ],
+    "keyPointers": [
+      "A phone, a medicine and a forecast are applied science",
+      "In farming: seed, fertiliser, irrigation and a satellite advisory",
+      "The striking change is yield and a new risk of input dependence",
+      "Science is ordinary life, not only a laboratory"
     ],
     "vault_path": null,
     "points": [
@@ -440,6 +494,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Draft EIA 2020 versus 2006"
+    ],
+    "keyPointers": [
+      "Post-facto approval for a project already built",
+      "Fewer mandatory public hearings",
+      "Wider exemptions",
+      "The shift was towards easier clearance and a weaker hearing"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -512,6 +575,15 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Jal Shakti Abhiyan"
+    ],
+    "keyPointers": [
+      "A campaign for conservation and security of water",
+      "Rainwater harvesting, reuse and a check on groundwater",
+      "Focused on water-stressed blocks",
+      "A campaign works only if the structure is maintained after the drive"
     ],
     "vault_path": null,
     "points": [
@@ -586,6 +658,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Types of cyber crime"
+    ],
+    "keyPointers": [
+      "Fraud, a hack of infrastructure, abuse images and a fake identity",
+      "Measures: a law, a forensic capacity and a citizen habit",
+      "Sharing of threat information across agencies",
+      "The menace is ordinary crime with a new tool"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -659,6 +740,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Local support in border areas"
+    ],
+    "keyPointers": [
+      "Harbouring survives on fear and alienation",
+      "Arrest the support network and protect an informant",
+      "Jobs, a road and a fair force change the perception",
+      "Security without a grievance heard recreates the support"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -731,6 +821,15 @@
     "topic": "Essay — Polity/Econ",
     "topics": [
       "Essay — Polity/Econ"
+    ],
+    "subTopics": [
+      "Investment and capital formation"
+    ],
+    "keyPointers": [
+      "Investment is the addition to the stock of capital",
+      "Savings, a bank and a public project turn money into that stock",
+      "A policy must watch who saves, the risk, and whether it builds a productive asset",
+      "A financial boom is not capital formation"
     ],
     "vault_path": null,
     "points": [
@@ -823,6 +922,15 @@
     "topics": [
       "Constitution"
     ],
+    "subTopics": [
+      "GST compensation and COVID"
+    ],
+    "keyPointers": [
+      "States gave up taxes for a promised growth in revenue",
+      "Compensation was the political bargain",
+      "COVID crashed collections and widened the gap",
+      "The rationale held; the money did not"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -902,6 +1010,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Rice-wheat system"
+    ],
+    "keyPointers": [
+      "Assured water, a seed and a price support made it succeed",
+      "It filled the food gap",
+      "Water, soil and a narrow diet are the bale",
+      "Success in grain became a failure in sustainability"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -980,6 +1097,15 @@
     "topic": "Agriculture",
     "topics": [
       "Agriculture"
+    ],
+    "subTopics": [
+      "Storage and judicious irrigation"
+    ],
+    "keyPointers": [
+      "Store rain instead of mining the aquifer",
+      "Micro-irrigation uses less for the same crop",
+      "Tanks, recharge and a crop that fits the water",
+      "Judicious use is the crop choice, not only a new dam"
     ],
     "vault_path": null,
     "points": [
@@ -1066,6 +1192,15 @@
     "topics": [
       "Essay — Polity/Econ"
     ],
+    "subTopics": [
+      "Technology in the COVID response"
+    ],
+    "keyPointers": [
+      "Testing, tracing and a vaccine platform",
+      "Work and school moved online",
+      "The same tools excluded those without a device",
+      "Technology reduced the harm and revealed the gap"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1151,6 +1286,15 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "Solar power versus conventional power"
+    ],
+    "keyPointers": [
+      "No fuel, no local smoke, a falling cost",
+      "Intermittent and hungry for land and a grid",
+      "Initiatives: parks, rooftops and a purchase obligation",
+      "The benefit is clean energy; the condition is storage and a line"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1229,6 +1373,15 @@
     "topic": "Governance",
     "topics": [
       "Governance"
+    ],
+    "subTopics": [
+      "National Clean Air Programme"
+    ],
+    "keyPointers": [
+      "A time-bound cut in particulate pollution in listed cities",
+      "City plans, monitoring and sectoral action",
+      "It is a programme, not yet a statutory right to clean air",
+      "The feature that matters is whether the city plan is enforced"
     ],
     "vault_path": null,
     "points": [
@@ -1315,6 +1468,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "From reaction to preparedness"
+    ],
+    "keyPointers": [
+      "The old habit was relief after the event",
+      "Newer steps stress early warning, a map and a drill",
+      "Funds and a dedicated authority before the flood",
+      "Departure is real only if the preparation is funded"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1399,6 +1561,15 @@
     "topic": "Modern History",
     "topics": [
       "Modern History"
+    ],
+    "subTopics": [
+      "Left-wing extremism in the east"
+    ],
+    "keyPointers": [
+      "Land, forest rights and a missing state",
+      "A gun economy in the vacuum",
+      "Strategy: security, rights on land, and a visible school and road",
+      "Force without the grievance recreates the cadre"
     ],
     "vault_path": null,
     "points": [
@@ -1490,6 +1661,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Crime and security on three borders"
+    ],
+    "keyPointers": [
+      "Insurgents, drugs, arms and a fake note use different borders",
+      "The Line of Control is infiltration and fire",
+      "Myanmar and Bangladesh are more porous and economic",
+      "Each border needs its own mix of fence, neighbour and livelihood"
     ],
     "vault_path": null,
     "points": [

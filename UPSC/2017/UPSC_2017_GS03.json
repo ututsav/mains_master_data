@@ -20,6 +20,17 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Savings and other sources of growth"
+    ],
+    "keyPointers": [
+      "Savings fund investment",
+      "A high saving rate without productivity stalls",
+      "Skills, technology and infrastructure",
+      "How much output one unit of capital gives",
+      "Foreign investment and institutions",
+      "Savings are necessary, not sufficient"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -74,6 +85,17 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Labour-intensive exports"
+    ],
+    "keyPointers": [
+      "Exports are fuels, chemicals and parts, not cloth, leather and toys",
+      "Rigid labour rules and small firms",
+      "Land, logistics and an inverted duty",
+      "East Asia took the labour-heavy orders",
+      "Clusters, skills and access to large markets",
+      "Labour codes help only if they are actually used"
     ],
     "vault_path": null,
     "points": [
@@ -130,6 +152,17 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "PPP airports"
+    ],
+    "keyPointers": [
+      "Delhi, Mumbai and other cities got private terminals",
+      "Passengers and non-ticket revenue rose",
+      "Tariff fights and user fees",
+      "Regulator uncertainty",
+      "Small airports do not pay a private partner",
+      "COVID showed the financial risk"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -184,6 +217,17 @@
     "topic": "Agriculture",
     "topics": [
       "Agriculture"
+    ],
+    "subTopics": [
+      "Farm revolutions and food security"
+    ],
+    "keyPointers": [
+      "Green Revolution in wheat and rice",
+      "White Revolution in milk",
+      "Oilseeds, horticulture, poultry and fish",
+      "Imports fell and prices steadied",
+      "Small farmers gained more from milk than from grain alone",
+      "Gains were regional and ecologically costly"
     ],
     "vault_path": null,
     "points": [
@@ -276,6 +320,17 @@
     "topics": [
       "Agriculture"
     ],
+    "subTopics": [
+      "Small food-processing units"
+    ],
+    "keyPointers": [
+      "Weak credit, power, skill and a brand",
+      "Rules and big firms crowd them out",
+      "Less waste after harvest",
+      "A higher price and work beyond the field",
+      "Sale in the lean season",
+      "Training and a market link decide success"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -355,6 +410,17 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Stem cell therapy"
+    ],
+    "keyPointers": [
+      "Unspecialised cells that can become a needed tissue",
+      "Bone marrow and cord blood as sources",
+      "Replaces cells instead of only easing symptoms",
+      "Used in blood disorders, cornea and burns",
+      "Own cells lower rejection",
+      "Ethics, cost and unproven clinics"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -421,6 +487,17 @@
     "topic": "Science & Tech",
     "topics": [
       "Science & Tech"
+    ],
+    "subTopics": [
+      "Obstacles to a crewed space flight"
+    ],
+    "keyPointers": [
+      "A rocket reliable enough for a crew",
+      "Escape system, air, heat shield and radiation",
+      "Training, sea recovery and medical watch",
+      "Little experience of humans in weightlessness",
+      "Cost is high but the unmanned record helps",
+      "Test flights before a crew"
     ],
     "vault_path": null,
     "points": [
@@ -489,6 +566,17 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "River linking"
+    ],
+    "keyPointers": [
+      "Move water from a surplus basin to a dry one",
+      "Flood control, irrigation, power and navigation",
+      "Forests and farmland go under",
+      "Changed flow, silt and river life",
+      "Waterlogging and salt",
+      "Neighbours share some of these rivers"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -555,6 +643,17 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Cyber attacks and India's framework"
+    ],
+    "keyPointers": [
+      "Grids, banks and defence are targets",
+      "Theft, ransomware and false information",
+      "A national policy, a computer emergency team and a critical-infrastructure body",
+      "Duty to report an incident",
+      "A data-protection law",
+      "People, firms and skilled staff matter as much as the law"
     ],
     "vault_path": null,
     "points": [
@@ -635,6 +734,17 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Why North-East insurgency lasts"
+    ],
+    "keyPointers": [
+      "Hills and open borders give a sanctuary",
+      "Arms and a safe rear in neighbouring countries",
+      "Fear of migration and of being ignored",
+      "Peace accords left factions out",
+      "Special powers alienate villages",
+      "Jobs and a complete political deal, not only operations"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -689,6 +799,17 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Union Budget 2017-18 priorities"
+    ],
+    "keyPointers": [
+      "Rural wages and roads as transformation",
+      "Rail safety and infrastructure spend",
+      "Solar, power-utility reform and village roads",
+      "Toilets, a cleaner Ganga and cooking gas",
+      "A push toward digital payments",
+      "The test is whether the money arrives, not the slogan"
     ],
     "vault_path": null,
     "points": [
@@ -787,6 +908,16 @@
     "topics": [
       "Ancient History"
     ],
+    "subTopics": [
+      "Industrial growth after 1991"
+    ],
+    "keyPointers": [
+      "Services grew; factories stayed a small share of output",
+      "Logistics, credit, land and labour rules",
+      "Make in India, production incentives and a lower company tax",
+      "New labour codes and a logistics plan",
+      "Incentives fail if payment and rules lag"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -860,6 +991,17 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Inclusive growth"
+    ],
+    "keyPointers": [
+      "Growth that cuts poverty and spreads work",
+      "Health, school, farm and regional balance",
+      "Poverty fell while wealth piled at the top",
+      "Job growth stayed weak",
+      "Labour-intensive industry, skills and public services",
+      "Small farmers need land, price and credit"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -927,6 +1069,18 @@
     "topics": [
       "Agriculture"
     ],
+    "subTopics": [
+      "Rice-wheat yield stagnation",
+      "Crop diversification"
+    ],
+    "keyPointers": [
+      "Tired soil and missing micronutrients",
+      "Falling water tables",
+      "Burning residue and too much nitrogen",
+      "Pests and heat at grain filling",
+      "A different crop breaks the pest cycle and uses less water",
+      "Legumes and millets steady both soil and income"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -981,6 +1135,17 @@
     "topic": "Agriculture",
     "topics": [
       "Agriculture"
+    ],
+    "subTopics": [
+      "Farm subsidies and small-farmer supports"
+    ],
+    "keyPointers": [
+      "Free power and cheap urea lock in rice and sugarcane",
+      "Large farmers capture more of the subsidy",
+      "Crop insurance should cover a failed season",
+      "Support price is real mainly for wheat and rice",
+      "Small farmers often sell below it",
+      "Processing cuts waste and adds a rural wage"
     ],
     "vault_path": null,
     "points": [
@@ -1042,6 +1207,18 @@
     "topic": "Essay — Polity/Econ",
     "topics": [
       "Essay — Polity/Econ"
+    ],
+    "subTopics": [
+      "India's nuclear programme",
+      "Fast breeder reactors"
+    ],
+    "keyPointers": [
+      "Three stages: heavy water, breeder, thorium",
+      "Research reactor, power plants and the tests",
+      "Uses in seed, medicine and industry",
+      "A breeder makes more fuel than it burns",
+      "Thorium becomes usable in the later stage",
+      "Less dependence on imported uranium"
     ],
     "vault_path": null,
     "points": [
@@ -1109,6 +1286,18 @@
     "topic": "Physical Geography",
     "topics": [
       "Physical Geography"
+    ],
+    "subTopics": [
+      "Climate change in India",
+      "Himalayan and coastal impacts"
+    ],
+    "keyPointers": [
+      "Heat cuts wheat and rice",
+      "Worse floods and droughts",
+      "Glaciers retreat and rivers change",
+      "Glacial-lake floods in the mountains",
+      "Coasts face a higher sea, storms and salt in fields",
+      "The poor in farming and fishing are hit first"
     ],
     "vault_path": null,
     "points": [
@@ -1207,6 +1396,16 @@
     "topics": [
       "Physical Geography"
     ],
+    "subTopics": [
+      "Tsunami causes and preparedness"
+    ],
+    "keyPointers": [
+      "A great undersea quake and a sudden shift of the sea floor",
+      "Death, lost boats, salted fields and broken ports",
+      "Indian warning centre, seabed sensors and tide gauges",
+      "Drills, evacuation routes and coastal plans",
+      "Warning is useless if the village is not ready"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1273,6 +1472,17 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Mob violence and lynching"
+    ],
+    "keyPointers": [
+      "Rumour, social media and a communal or caste spark",
+      "Cattle vigilantism and child-lifting panics",
+      "Slow or partisan police",
+      "No separate offence for a long time",
+      "Fear among minorities and a private idea of justice",
+      "The Supreme Court told states to prevent it"
     ],
     "vault_path": null,
     "points": [
@@ -1370,6 +1580,18 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Counter-terrorism",
+      "Terrorist funding"
+    ],
+    "keyPointers": [
+      "Shared intelligence and a national agency",
+      "Law that can name an individual, used with care",
+      "Borders, drones and financial tracking",
+      "Jobs and a counter to radical talk",
+      "State sponsors, drugs, fake charities and smuggling",
+      "Foreign blacklists and cooperation"
     ],
     "vault_path": null,
     "points": [

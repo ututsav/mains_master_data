@@ -20,6 +20,19 @@
     "topics": [
       "Indian Culture"
     ],
+    "subTopics": [
+      "Protection of art heritage",
+      "Monuments and antiquities"
+    ],
+    "keyPointers": [
+      "Neglect, vandalism, theft and development pressure",
+      "Loss of identity, tourism and irreversible damage",
+      "Antiquities and Art Treasures Act, 1972",
+      "Capacity of ASI and state archaeology",
+      "Illicit trafficking of idols",
+      "3D documentation and surveillance",
+      "Adopt a Heritage and community care"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -99,6 +112,19 @@
     "topics": [
       "Indian Society"
     ],
+    "subTopics": [
+      "Foreign travellers as historical sources",
+      "Chinese and Arab accounts of India"
+    ],
+    "keyPointers": [
+      "Faxian, Xuanzang and Yijing",
+      "Al-Biruni, Ibn Battuta and Sulaiman",
+      "Politics, caste, trade, religion and towns",
+      "Kitab-ul-Hind",
+      "Fills gaps in Indian records",
+      "Bias, language limits and selective seeing",
+      "Must be checked against inscriptions and archaeology"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -147,6 +173,18 @@
     "topic": "Modern History",
     "topics": [
       "Modern History"
+    ],
+    "subTopics": [
+      "Gandhi's ideas today",
+      "Ahimsa, swadeshi and sarvodaya"
+    ],
+    "keyPointers": [
+      "Ahimsa, satya, swadeshi and sarvodaya",
+      "Simple living and a limit on consumption",
+      "Non-violence in riots and conflict",
+      "Gram Swaraj and small industry",
+      "Against untouchability and communalism",
+      "The means matter as much as the end"
     ],
     "vault_path": null,
     "points": [
@@ -209,6 +247,19 @@
     "topics": [
       "Indian Society"
     ],
+    "subTopics": [
+      "NavIC and regional navigation",
+      "Strategic autonomy in satellite navigation"
+    ],
+    "keyPointers": [
+      "Foreign GPS can be switched off in a conflict",
+      "Covers India and about 1500 km around it",
+      "Gives position, speed and time",
+      "Open civilian service and restricted defence service",
+      "Land, air and sea navigation",
+      "Disaster response, vehicle tracking and fleet management",
+      "Timing for power grids and banking"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -263,6 +314,18 @@
     "topic": "Physical Geography",
     "topics": [
       "Physical Geography"
+    ],
+    "subTopics": [
+      "India's Arctic interests",
+      "Arctic resources and sea routes"
+    ],
+    "keyPointers": [
+      "Himadri station and Observer status in the Arctic Council",
+      "Arctic warming and the Indian monsoon",
+      "Oil, gas, minerals and rare earths",
+      "Northern Sea Route shortens shipping",
+      "Interest is science, environment and trade, not territory",
+      "A presence beside other powers in the Arctic"
     ],
     "vault_path": null,
     "points": [
@@ -331,6 +394,18 @@
     "topics": [
       "Physical Geography"
     ],
+    "subTopics": [
+      "Mantle plumes",
+      "Hotspots and intra-plate volcanism"
+    ],
+    "keyPointers": [
+      "Unusually hot rock rising from deep in the mantle",
+      "Volcanoes inside a plate, not only at the edge",
+      "Hawaii, Reunion and the Deccan Traps",
+      "A moving plate leaves a chain of hotspot volcanoes",
+      "Can help split a continent and produce flood basalt",
+      "Slab pull still moves plates more than plumes do"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -379,6 +454,19 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "Ocean dead zones",
+      "Nutrient pollution and low oxygen"
+    ],
+    "keyPointers": [
+      "Fertiliser and sewage feed algal blooms",
+      "Decay of the bloom uses up oxygen",
+      "Fish and bottom animals die",
+      "Fisheries and coastal jobs collapse",
+      "Food webs break",
+      "Toxic blooms can spoil seafood",
+      "Gulf of Mexico, Baltic Sea and Arabian Sea"
     ],
     "vault_path": null,
     "points": [
@@ -453,6 +541,18 @@
     "topics": [
       "Indian Society"
     ],
+    "subTopics": [
+      "Caste in new associational forms",
+      "Persistence and weakening of caste"
+    ],
+    "keyPointers": [
+      "Caste as parties, associations and vote banks",
+      "Yadav, Kurmi, Jat and Maratha mobilisation",
+      "Group bargaining keeps caste consciousness alive",
+      "Inter-caste marriage, school and cities weaken the old hierarchy",
+      "Law and reservations against untouchability",
+      "Caste is changing shape, not disappearing"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -501,6 +601,18 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "Why poverty programmes fall short",
+      "Leakage and structural poverty"
+    ],
+    "keyPointers": [
+      "Wrong people included and poor people left out",
+      "Leakage in delivery, including the PDS",
+      "Weak health and schooling pass poverty to the next generation",
+      "Low informal wages and too few good jobs",
+      "Regional gaps and shocks such as COVID",
+      "MGNREGA, housing and income support help, but do not close the gap"
     ],
     "vault_path": null,
     "points": [
@@ -587,6 +699,18 @@
     "topics": [
       "Indian Society"
     ],
+    "subTopics": [
+      "Indian and Western secularism",
+      "Principled distance of the state"
+    ],
+    "keyPointers": [
+      "Equal respect for all religions, not a wall between state and religion",
+      "The state may reform a religious practice",
+      "The state may fund a festival and still treat religions equally",
+      "The Western model grew from church-state conflict",
+      "The Indian model grew from many religions living together",
+      "Indian secularism is active and contextual"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -647,6 +771,19 @@
     "topic": "Medieval History",
     "topics": [
       "Medieval History"
+    ],
+    "subTopics": [
+      "Chaitanya and Gaudiya Vaishnavism",
+      "Reorientation of the Bhakti movement"
+    ],
+    "keyPointers": [
+      "Sankirtana, group chanting open to all castes and to women",
+      "Achintya bheda-abheda, oneness and difference with Krishna",
+      "Emotional prema bhakti, not only philosophy",
+      "Rejection of heavy ritual and caste bar",
+      "Haridas Thakur and the inclusion of Muslims",
+      "Spread through Bengal and Odisha",
+      "Shikshashtakam"
     ],
     "vault_path": null,
     "points": [
@@ -720,6 +857,19 @@
     "topic": "Essay — Polity/Econ",
     "topics": [
       "Essay — Polity/Econ"
+    ],
+    "subTopics": [
+      "New states and the economy",
+      "Costs and gains of bifurcation"
+    ],
+    "keyPointers": [
+      "Chhattisgarh, Uttarakhand, Jharkhand and Telangana",
+      "A smaller state can focus money and administration",
+      "A resource region may keep its own revenue",
+      "New capital, assembly and staff cost money",
+      "Andhra lost Hyderabad and faced a revenue gap",
+      "Water and power disputes between the new states",
+      "The result depends on governance after the split"
     ],
     "vault_path": null,
     "points": [
@@ -806,6 +956,19 @@
     "topics": [
       "Modern History"
     ],
+    "subTopics": [
+      "Indian indentured labour",
+      "Cultural identity of the Girmitiya diaspora"
+    ],
+    "keyPointers": [
+      "Slavery had ended and plantations still needed workers",
+      "Girmitiya contracts, roughly 1834 to 1920",
+      "Mauritius, Fiji, the Caribbean, Natal and Ceylon",
+      "Poverty and famine pushed people from north and south India",
+      "Language, Holi, Diwali, food and music survived",
+      "Creole and mixed cultures also formed",
+      "Temples, festivals and community bodies kept an Indian core"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -854,6 +1017,19 @@
     "topic": "Physical Geography",
     "topics": [
       "Physical Geography"
+    ],
+    "subTopics": [
+      "Urban rainwater harvesting",
+      "Groundwater depletion in cities"
+    ],
+    "keyPointers": [
+      "Make harvesting compulsory in new buildings and actually enforce it",
+      "Help older buildings add the system",
+      "Restore tanks and ponds and connect them to drains",
+      "Recharge wells and percolation pits on storm drains",
+      "Property-tax rebate as an incentive",
+      "Train builders and watch groundwater levels",
+      "Chennai rose after Tamil Nadu made harvesting compulsory in 2003"
     ],
     "vault_path": null,
     "points": [
@@ -945,6 +1121,19 @@
     "topic": "Essay — Society",
     "topics": [
       "Essay — Society"
+    ],
+    "subTopics": [
+      "Blue Revolution and pisciculture",
+      "Problems of fish farming in India"
+    ],
+    "keyPointers": [
+      "Farming of fish, shrimp and molluscs for food and livelihoods",
+      "Poor seed, poor feed and disease",
+      "Pond pollution from intensive farming",
+      "Weak cold chain and losses after harvest",
+      "Small ponds, weak credit and weak insurance",
+      "Inland wild catch is overfished",
+      "Farmer groups, cage culture, cold stores and disease-free broodstock"
     ],
     "vault_path": null,
     "points": [
@@ -1043,6 +1232,19 @@
     "topics": [
       "Ancient History"
     ],
+    "subTopics": [
+      "Industrial corridors",
+      "Manufacturing belts and freight routes"
+    ],
+    "keyPointers": [
+      "A rail, road and port spine with factories along it",
+      "Jobs, lower transport cost and foreign investment",
+      "Delhi-Mumbai, Chennai-Bengaluru, Amritsar-Kolkata and Vizag-Chennai",
+      "Planned nodes such as Dholera and Shendra-Bidkin",
+      "Logistics parks, power, water and special zones",
+      "Tied to Make in India",
+      "Needs land, money and agreement among states"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1116,6 +1318,19 @@
     "topics": [
       "Indian Society"
     ],
+    "subTopics": [
+      "Aspirational Districts Programme",
+      "Convergence, collaboration and competition"
+    ],
+    "keyPointers": [
+      "Health, education, agriculture, finance and basic infrastructure",
+      "Live data and a monthly ranking of improvement",
+      "Many central and state schemes aimed at the same district",
+      "Collector, a central officer and private partners",
+      "Ranking makes districts compete",
+      "Gains in nutrition, schooling and sanitation",
+      "Lasts only if local staff can keep it going"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1164,6 +1379,19 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "Women's movement and the caste-class gap",
+      "Issues of Dalit, Adivasi and poor women"
+    ],
+    "keyPointers": [
+      "Early reform often focused on upper-caste women",
+      "Dowry and workplace law helped educated urban women more",
+      "Wage gap, land, water and manual scavenging",
+      "Abuse at brick kilns, farms and in sterilisation drives",
+      "Dalit feminists said mainstream feminism missed caste",
+      "AIDWA and similar groups widened the agenda",
+      "Lower-strata issues are still under-represented"
     ],
     "vault_path": null,
     "points": [
@@ -1244,6 +1472,19 @@
     "topics": [
       "Essay — Society"
     ],
+    "subTopics": [
+      "Globalisation and cultural homogenisation",
+      "Glocalisation in Indian culture"
+    ],
+    "keyPointers": [
+      "Global brands, clothes, fast food and English",
+      "Regional cinema and local stories also grew",
+      "Classical arts found new audiences",
+      "Handloom and craft gained outside markets",
+      "Yoga and Ayurveda became global and more visibly Indian",
+      "Festivals became louder through media and the diaspora",
+      "Local culture was reasserted, not only erased"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1298,6 +1539,19 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "Causes of communalism",
+      "Power struggle and relative deprivation"
+    ],
+    "keyPointers": [
+      "Religious identity used for political or economic gain",
+      "Elites compete for power",
+      "Partition as a struggle over political power",
+      "Later mobilisation of a religious vote",
+      "A felt loss of land or jobs can be turned communal",
+      "Assam migration and riots as an illustration",
+      "The two causes often work together"
     ],
     "vault_path": null,
     "points": [

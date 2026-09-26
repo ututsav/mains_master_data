@@ -20,6 +20,16 @@
     "topics": [
       "Ethics basics"
     ],
+    "subTopics": [
+      "Environmental ethics"
+    ],
+    "keyPointers": [
+      "Moral duty is not only to other humans",
+      "It asks who bears the harm of a damaged nature",
+      "The unborn have a claim",
+      "Anthropocentrism treats nature as a store",
+      "A forest or a river is a test: development does not automatically win"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +78,15 @@
     "topic": "Ethics basics",
     "topics": [
       "Ethics basics"
+    ],
+    "subTopics": [
+      "Four ethical distinctions"
+    ],
+    "keyPointers": [
+      "Law is enforced; ethics is a conscience",
+      "Ethical management builds honesty into decisions; managing ethics is a code and a committee",
+      "Discrimination excludes; preference can correct a historical wrong",
+      "Personal ethics is private; professional ethics binds the role"
     ],
     "vault_path": null,
     "points": [
@@ -118,6 +137,16 @@
     "topics": [
       "Thinkers"
     ],
+    "subTopics": [
+      "Forgiveness as strength"
+    ],
+    "keyPointers": [
+      "Revenge is often fear",
+      "To forgive and still seek justice takes security",
+      "A public cycle of hate needs someone who stops it",
+      "Forgiveness is not forgetting a crime",
+      "Strength is ending the next injury"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -167,6 +196,16 @@
     "topics": [
       "Ethics basics"
     ],
+    "subTopics": [
+      "Fear of the truth"
+    ],
+    "keyPointers": [
+      "A child's fear of the unknown is natural",
+      "An adult's fear of scrutiny is a choice",
+      "Audits, a right to information and a whistleblower are the light",
+      "Comfort prefers the dark",
+      "Progress needs people who will look"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -209,6 +248,16 @@
     "topic": "Ethics basics",
     "topics": [
       "Ethics basics"
+    ],
+    "subTopics": [
+      "Law is not enough"
+    ],
+    "keyPointers": [
+      "The law is a floor",
+      "An act can be legal and still unfair",
+      "An act can break a minor rule and still save a person",
+      "Two tests: life against a file, and a technical rejection that harms the public",
+      "Sensibility is knowing which value is at stake"
     ],
     "vault_path": null,
     "points": [
@@ -259,6 +308,16 @@
     "topics": [
       "Ethics basics"
     ],
+    "subTopics": [
+      "Trustworthiness and fortitude"
+    ],
+    "keyPointers": [
+      "Keep the promise in a citizen charter",
+      "Do not leak or twist a fact",
+      "Fortitude is staying with a correct order under pressure",
+      "Transfers and threats are the test",
+      "Trust is built in public; courage is proved in private"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -307,6 +366,16 @@
     "topic": "Essay — Society",
     "topics": [
       "Essay — Society"
+    ],
+    "subTopics": [
+      "Social values and inclusive growth"
+    ],
+    "keyPointers": [
+      "Growth that leaves people out fails the social test",
+      "Equality, dignity and a safety net",
+      "A poor country also needs output or the net is empty",
+      "Scandinavia and India show different mixes",
+      "Inclusive growth needs both, with the social value setting the aim"
     ],
     "vault_path": null,
     "points": [
@@ -357,6 +426,16 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "Accountability and a fear of deciding"
+    ],
+    "keyPointers": [
+      "A right to information, a free press and a court check the office",
+      "They are also used to blackmail, try a person in public, or stall a file",
+      "Honest officers then refuse to decide",
+      "Shield a reasoned decision; punish a real wrong",
+      "Do not close the window because some use it badly"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -406,6 +485,16 @@
     "topics": [
       "Aptitude"
     ],
+    "subTopics": [
+      "Bureaucratic and democratic attitudes"
+    ],
+    "keyPointers": [
+      "One treats the citizen as a file and a rule",
+      "The other treats the citizen as the reason for the office",
+      "Rules still matter",
+      "A democratic attitude explains, listens and does not humiliate",
+      "The service needs both the rule and the respect"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -449,6 +538,16 @@
     "topics": [
       "Ethics basics"
     ],
+    "subTopics": [
+      "Why anti-corruption tools fail"
+    ],
+    "keyPointers": [
+      "A code on the wall is not a habit",
+      "Vigilance arrives after the deal",
+      "Conviction is slow",
+      "Political protection and a social shrug",
+      "Tools work when the honest are safe and the guilty are punished"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -485,6 +584,16 @@
     "topic": "Ethics basics",
     "topics": [
       "Ethics basics"
+    ],
+    "subTopics": [
+      "National interest and a global ethic"
+    ],
+    "keyPointers": [
+      "States bargain for themselves",
+      "Climate, terror and disease do not stop at a border",
+      "A narrow interest can destroy the shared condition",
+      "Global ethics is a limit on that bargain",
+      "Cooperation is also self-interest, seen further ahead"
     ],
     "vault_path": null,
     "points": [
@@ -535,6 +644,16 @@
     "topics": [
       "Ethics basics"
     ],
+    "subTopics": [
+      "Conflict of interest"
+    ],
+    "keyPointers": [
+      "A private stake clashes with the public duty",
+      "Actual now, or potential later",
+      "Declare it and step out of the decision",
+      "A relative's contract is the plain case",
+      "The appearance of a clash also damages trust"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -584,6 +703,16 @@
     "topics": [
       "Case Study"
     ],
+    "subTopics": [
+      "Political pressure on a fair workplace"
+    ],
+    "keyPointers": [
+      "The firm's reputation is efficiency and welfare",
+      "A politician demanding entry or a favour is not a business input",
+      "Hear a lawful request; refuse a threat",
+      "Record it and use the firm's rule",
+      "Do not trade employee welfare for access"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -627,6 +756,16 @@
     "topics": [
       "Case Study"
     ],
+    "subTopics": [
+      "Caste discrimination in a midday meal"
+    ],
+    "keyPointers": [
+      "A public meal cannot be served by caste",
+      "The feasible path is the law plus the parents",
+      "Separate sittings or cooks by caste must stop",
+      "Use the school committee and a public warning",
+      "If it continues, report it; do not bargain with humiliation"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -663,6 +802,16 @@
     "topic": "Case Study",
     "topics": [
       "Case Study"
+    ],
+    "subTopics": [
+      "Pricing a drug the poor need"
+    ],
+    "keyPointers": [
+      "The lab spent heavily; the firm wants a return",
+      "A high price keeps the cure from the poor",
+      "The issues are patent, cost and a life",
+      "A lower price, a licence, or a public buy-down",
+      "Profit is legitimate; exclusion from a cure is not the only option"
     ],
     "vault_path": null,
     "points": [
@@ -701,6 +850,16 @@
     "topics": [
       "Case Study"
     ],
+    "subTopics": [
+      "Rescue priority after a disaster"
+    ],
+    "keyPointers": [
+      "Save the living who can still be saved",
+      "Children, the injured and those cut off come before property",
+      "Do not sort people by status or religion",
+      "Use the local knowledge of who is missing",
+      "Record the choice so it can be defended"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -738,6 +897,16 @@
     "topics": [
       "Case Study"
     ],
+    "subTopics": [
+      "School versus a heritage site"
+    ],
+    "keyPointers": [
+      "Education and a protected past both matter",
+      "List the damage: the monument, the livelihood, the children's need",
+      "Look for another plot before you break the fort",
+      "If there is no other land, design around the remains",
+      "Do not present a false choice"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -774,6 +943,16 @@
     "topic": "Case Study",
     "topics": [
       "Case Study"
+    ],
+    "subTopics": [
+      "Girls' education and safety"
+    ],
+    "keyPointers": [
+      "Parents will withdraw girls if the road is unsafe",
+      "The aim is school, not a speech about school",
+      "A safe route, a complaint that is acted on, and women staff",
+      "Punish the offender in public view of the law",
+      "Do not close the school to look decisive"
     ],
     "vault_path": null,
     "points": [

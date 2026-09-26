@@ -20,6 +20,15 @@
     "topics": [
       "Ancient History"
     ],
+    "subTopics": [
+      "Harappan architecture"
+    ],
+    "keyPointers": [
+      "A grid of streets and a standard brick",
+      "Drains, wells and the Great Bath",
+      "A raised citadel and a lower town",
+      "Granaries and a dock, built for use more than for a king’s monument"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +77,15 @@
     "topic": "Medieval History",
     "topics": [
       "Medieval History"
+    ],
+    "subTopics": [
+      "Akbar’s religious syncretism"
+    ],
+    "keyPointers": [
+      "Sulh-i-kul: peace with all sects",
+      "The ibadat khana and a talk across faiths",
+      "Jizya ended; translations of Hindu texts",
+      "Din-i-Ilahi was a small circle, not a mass religion"
     ],
     "vault_path": null,
     "points": [
@@ -118,6 +136,15 @@
     "topics": [
       "Medieval History"
     ],
+    "subTopics": [
+      "Chandella sculpture"
+    ],
+    "keyPointers": [
+      "Khajuraho temples carry sacred and everyday life",
+      "Bodies are vigorous, not stiff icons only",
+      "Court, dance, war and love sit on the same wall",
+      "The art is a full life, not a single mood"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -166,6 +193,15 @@
     "topic": "Physical Geography",
     "topics": [
       "Physical Geography"
+    ],
+    "subTopics": [
+      "Sea-level rise and island nations"
+    ],
+    "keyPointers": [
+      "A low island loses land, a well and a home",
+      "Salt enters the field and the drinking water",
+      "Maldives, Tuvalu and Kiribati are the plain cases",
+      "Existence here means a place to stand, not only a flag"
     ],
     "vault_path": null,
     "points": [
@@ -216,6 +252,15 @@
     "topics": [
       "Physical Geography"
     ],
+    "subTopics": [
+      "Non-farm primary activities"
+    ],
+    "keyPointers": [
+      "Mining, fishing, forestry and quarrying",
+      "The coast, the forest, the plateau and the mineral belt decide them",
+      "They follow the land, not a factory choice",
+      "Physiography is the map of these livelihoods"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -264,6 +309,15 @@
     "topic": "Environment",
     "topics": [
       "Environment"
+    ],
+    "subTopics": [
+      "Solar energy in India"
+    ],
+    "keyPointers": [
+      "No smoke and no imported fuel at the plant",
+      "A falling cost and a job in installation",
+      "Desert and rooftop both work, unevenly",
+      "The ecological gain needs a grid and a panel that is later recycled"
     ],
     "vault_path": null,
     "points": [
@@ -314,6 +368,15 @@
     "topics": [
       "Physical Geography"
     ],
+    "subTopics": [
+      "Tsunamis"
+    ],
+    "keyPointers": [
+      "A sudden shift of the sea floor, usually a quake under the ocean",
+      "The wave travels far and grows at a shallow coast",
+      "The Indian Ocean 2004 and Japan’s coast are the examples",
+      "The consequence is a coast erased in minutes"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -362,6 +425,15 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "Smart cities, poverty and justice"
+    ],
+    "keyPointers": [
+      "A sensor and an app do not house the poor",
+      "They can improve a bus, a drain and a grievance",
+      "Justice fails if the smart zone pushes the slum out",
+      "Address poverty only if the poor are users, not obstacles"
     ],
     "vault_path": null,
     "points": [
@@ -412,6 +484,15 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "Ethos of the Indian civil service"
+    ],
+    "keyPointers": [
+      "Skill and a rule, plus a sense of the country",
+      "Professionalism without the nation becomes a private career",
+      "National feeling without skill becomes rhetoric",
+      "The combination is competence in the public interest"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -460,6 +541,15 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "Globalisation beyond consumer culture"
+    ],
+    "keyPointers": [
+      "It does sell a uniform want",
+      "It also moves ideas, rights, a skill and a diaspora",
+      "Consumer culture is one result, not the only one",
+      "Justify a no: the same opening can carry a local product out"
     ],
     "vault_path": null,
     "points": [
@@ -510,6 +600,15 @@
     "topics": [
       "Modern History"
     ],
+    "subTopics": [
+      "Phule and the subaltern"
+    ],
+    "keyPointers": [
+      "Shudras, Dalits and women were named together",
+      "Education, especially for girls, was the tool",
+      "He attacked caste and the priestly story",
+      "The reach was the oppressed as a whole, not one group"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -558,6 +657,15 @@
     "topic": "Post-Independence",
     "topics": [
       "Post-Independence"
+    ],
+    "subTopics": [
+      "Consolidation after independence"
+    ],
+    "keyPointers": [
+      "States were joined and a constitution took hold",
+      "Planning and a public sector set the economy",
+      "Schools, universities and a scientific base",
+      "Non-alignment was the foreign face of the same consolidation"
     ],
     "vault_path": null,
     "points": [
@@ -608,6 +716,15 @@
     "topics": [
       "World History"
     ],
+    "subTopics": [
+      "Enduring relevance of the French Revolution"
+    ],
+    "keyPointers": [
+      "Liberty, equality and fraternity are still the test",
+      "Popular sovereignty against privilege",
+      "Rights written down, and the danger of terror in their name",
+      "Later constitutions and anti-colonial claims used that language"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -656,6 +773,15 @@
     "topic": "Physical Geography",
     "topics": [
       "Physical Geography"
+    ],
+    "subTopics": [
+      "Offshore and onshore oil"
+    ],
+    "keyPointers": [
+      "Offshore sits on continental shelves and some deep basins",
+      "The big fields cluster in a few gulfs and seas",
+      "Onshore is easier to drill and harder to hide from a community",
+      "Offshore is costlier, riskier at sea, and geopolitically shared"
     ],
     "vault_path": null,
     "points": [
@@ -706,6 +832,15 @@
     "topics": [
       "Science & Tech"
     ],
+    "subTopics": [
+      "AI, drones, GIS and planning"
+    ],
+    "keyPointers": [
+      "A satellite sees the region; a drone sees the plot",
+      "GIS stacks land, flood and a settlement",
+      "AI finds a pattern a planner would miss",
+      "The plan is better only if the ground check remains"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -754,6 +889,15 @@
     "topic": "Physical Geography",
     "topics": [
       "Physical Geography"
+    ],
+    "subTopics": [
+      "Tectonics reshaping continents and basins"
+    ],
+    "keyPointers": [
+      "Plates split, collide and slide",
+      "A rift opens a sea; a collision raises a range and closes an ocean",
+      "Basins deepen at a trench and widen at a ridge",
+      "Shape and size change slowly, and they are still changing"
     ],
     "vault_path": null,
     "points": [
@@ -804,6 +948,15 @@
     "topics": [
       "Physical Geography"
     ],
+    "subTopics": [
+      "Population of the Ganga basin"
+    ],
+    "keyPointers": [
+      "Flat land, alluvial soil and river water hold a dense people",
+      "The upper, middle and delta are not equally dense",
+      "Cities pile on the same fertile plain",
+      "The density follows the resource, and now presses it"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -852,6 +1005,15 @@
     "topic": "Ancient History",
     "topics": [
       "Ancient History"
+    ],
+    "subTopics": [
+      "Fast food and health concerns"
+    ],
+    "keyPointers": [
+      "Time, price, advertising and a city habit",
+      "Health knowledge does not equal a change of meal",
+      "The industry fits a working life",
+      "The growth is convenience winning over the warning"
     ],
     "vault_path": null,
     "points": [
@@ -902,6 +1064,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Environment versus the needs of the poor"
+    ],
+    "keyPointers": [
+      "A forest rule can block a fuel and a field",
+      "A mine can be a job and a poisoned river",
+      "The poor live closest to both the resource and the damage",
+      "The conflict is real unless the protection includes their livelihood"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -950,6 +1121,15 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "Tribal development: displacement and rehabilitation"
+    ],
+    "keyPointers": [
+      "Dams, mines and parks have moved tribal communities",
+      "Rehabilitation is often late and thin",
+      "Development also needs school, health and a title, not only a shifted village",
+      "Displacement is a central axis, not the only one"
     ],
     "vault_path": null,
     "points": [

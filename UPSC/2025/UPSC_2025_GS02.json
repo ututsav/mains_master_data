@@ -20,6 +20,15 @@
     "topics": [
       "Physical Geography"
     ],
+    "subTopics": [
+      "Corrupt practices and disproportionate assets"
+    ],
+    "keyPointers": [
+      "Bribery, a communal appeal and undue influence are named",
+      "Undue influence is interference with a free vote",
+      "A jump in assets is a red flag, not automatically that offence",
+      "It becomes a corrupt practice only if it is tied to the election"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +77,15 @@
     "topic": "Constitution",
     "topics": [
       "Constitution"
+    ],
+    "subTopics": [
+      "Administrative tribunals and reform"
+    ],
+    "keyPointers": [
+      "They were meant to be faster and specialist",
+      "They are not a substitute for a constitutional court",
+      "Recent reforms changed tenure, appointments and structure",
+      "The impact is on independence as much as on speed"
     ],
     "vault_path": null,
     "points": [
@@ -118,6 +136,15 @@
     "topics": [
       "Constitution"
     ],
+    "subTopics": [
+      "Pardon in India and the United States"
+    ],
+    "keyPointers": [
+      "India: Article 72, on the cabinet’s advice, with a limited court review",
+      "The US power is wider and more personal",
+      "Both have some outer limit, thinner in the US",
+      "A preemptive pardon covers an offence before a conviction"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -166,6 +193,15 @@
     "topic": "Physical Geography",
     "topics": [
       "Physical Geography"
+    ],
+    "subTopics": [
+      "J&K Assembly as a Union Territory legislature"
+    ],
+    "keyPointers": [
+      "A state became a Union Territory with a legislature",
+      "The pattern is closer to Puducherry than to a full state",
+      "The Lieutenant Governor and Parliament sit above it",
+      "Its powers are real and bounded"
     ],
     "vault_path": null,
     "points": [
@@ -216,6 +252,15 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "Attorney General of India"
+    ],
+    "keyPointers": [
+      "Chief legal adviser and the government’s lawyer in the Supreme Court",
+      "May speak in the House, does not vote",
+      "Holds office at the President’s pleasure",
+      "The role guides the Union; it is not a judge"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -264,6 +309,15 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "Women’s social capital"
+    ],
+    "keyPointers": [
+      "Networks of trust, a self-help group, a collective voice",
+      "They complement income and a law",
+      "Equity advances when women can act together",
+      "Capital here is relation, not only money"
     ],
     "vault_path": null,
     "points": [
@@ -314,6 +368,15 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "Technology bias in e-governance"
+    ],
+    "keyPointers": [
+      "The system is built for the department’s database",
+      "The citizen’s language, device and time come second",
+      "Back-end integration is necessary and not sufficient",
+      "Examine: many projects are supply-led"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -362,6 +425,15 @@
     "topic": "Essay — Society",
     "topics": [
       "Essay — Society"
+    ],
+    "subTopics": [
+      "Civil society: anti-state or non-state"
+    ],
+    "keyPointers": [
+      "A critic of a policy is not an enemy of the state",
+      "Some groups do oppose the state as such",
+      "Most fill a gap the state leaves",
+      "Disagree with the blanket label"
     ],
     "vault_path": null,
     "points": [
@@ -412,6 +484,15 @@
     "topics": [
       "Thinkers"
     ],
+    "subTopics": [
+      "India–Africa digital partnership"
+    ],
+    "keyPointers": [
+      "Mutual respect and co-development, not a one-way transfer",
+      "Training, platforms and an institution that lasts",
+      "Digital public goods are the offer",
+      "A partnership shows up in local capacity"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -460,6 +541,15 @@
     "topic": "World History",
     "topics": [
       "World History"
+    ],
+    "subTopics": [
+      "Sovereign nationalism after globalisation"
+    ],
+    "keyPointers": [
+      "Trade, tech and borders are being renationalised",
+      "Sovereignty is asserted against a shared rule",
+      "The post-Cold War openness is thinning",
+      "Nationalism here is a state claim, not only a feeling"
     ],
     "vault_path": null,
     "points": [
@@ -510,6 +600,15 @@
     "topics": [
       "Constitution"
     ],
+    "subTopics": [
+      "Constitutional morality and the judiciary"
+    ],
+    "keyPointers": [
+      "Loyalty to liberty, equality and the rule of law, not only the text",
+      "It checks a high functionary and a citizen",
+      "Independence protects rights from the executive",
+      "Accountability stops that independence becoming a private power"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -558,6 +657,15 @@
     "topic": "Constitution",
     "topics": [
       "Constitution"
+    ],
+    "subTopics": [
+      "Amending power of ordinary legislatures"
+    ],
+    "keyPointers": [
+      "Article 368 uses Parliament, not a separate convention",
+      "A special majority, and sometimes state ratification, are the hurdles",
+      "The basic structure is a further, judicial hurdle",
+      "Ordinary institutions, extraordinary procedure"
     ],
     "vault_path": null,
     "points": [
@@ -608,6 +716,15 @@
     "topics": [
       "Constitution"
     ],
+    "subTopics": [
+      "The collegium system"
+    ],
+    "keyPointers": [
+      "Judges appointing judges grew from cases, not from the original text",
+      "It protects independence from the executive",
+      "It is opaque, narrow and hard to question",
+      "The advantage is insulation; the disadvantage is no account"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -656,6 +773,15 @@
     "topic": "Constitution",
     "topics": [
       "Constitution"
+    ],
+    "subTopics": [
+      "Centre–state finance"
+    ],
+    "keyPointers": [
+      "Planning concentrated money and schemes at the Centre",
+      "States depended on a share and a grant",
+      "Recent finance commissions and GST changed the bargain",
+      "The pattern is still central, with more formal sharing"
     ],
     "vault_path": null,
     "points": [
@@ -706,6 +832,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Environmental pressure groups"
+    ],
+    "keyPointers": [
+      "They teach a public and watch a clearance",
+      "They push a law and a court",
+      "They advocate for a place that cannot vote",
+      "Their role is pressure, not a substitute for the state"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -754,6 +889,15 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "Ownership, poverty and its paradox"
+    ],
+    "keyPointers": [
+      "Land, capital and a skill are held by few",
+      "Growth can raise output and leave the ownerless poor",
+      "The paradox: a rich country, or a rich average, with mass poverty",
+      "Income schemes do not replace who owns the resource"
     ],
     "vault_path": null,
     "points": [
@@ -804,6 +948,15 @@
     "topics": [
       "Constitution"
     ],
+    "subTopics": [
+      "Decisions far from the ground"
+    ],
+    "keyPointers": [
+      "A capital designs what a village must live",
+      "Information asymmetry wastes the project",
+      "Execution fails when the solver never sees the problem",
+      "Closeness of the decision to the fact is the remedy"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -852,6 +1005,15 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "Child rights in the digital era"
+    ],
+    "keyPointers": [
+      "Abuse images, a game addiction, data and online bullying",
+      "The existing law is built more for a physical harm",
+      "The commission must watch platforms, schools and a parent",
+      "The digital child is the new protected person"
     ],
     "vault_path": null,
     "points": [
@@ -902,6 +1064,15 @@
     "topics": [
       "International Relations"
     ],
+    "subTopics": [
+      "Energy security and the Middle East"
+    ],
+    "keyPointers": [
+      "Oil and gas still tie India to the Gulf",
+      "Diaspora, remittances and a sea lane travel with the barrel",
+      "Influence follows the need, and also a partnership",
+      "Energy is a driver, not the whole policy"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -950,6 +1121,15 @@
     "topic": "International Relations",
     "topics": [
       "International Relations"
+    ],
+    "subTopics": [
+      "Why UN reform is stuck"
+    ],
+    "keyPointers": [
+      "The Security Council still reflects 1945",
+      "East and West, and the South, do not agree who joins",
+      "The veto-holders will not dilute themselves",
+      "The US position is part of the knot, not the only one"
     ],
     "vault_path": null,
     "points": [

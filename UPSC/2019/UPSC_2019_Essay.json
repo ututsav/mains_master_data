@@ -20,6 +20,15 @@
     "topics": [
       "सामाजिक क्षेत्र"
     ],
+    "subTopics": [
+      "Wisdom and truth"
+    ],
+    "keyPointers": [
+      "Cleverness can win an argument and miss the fact",
+      "Wisdom is the patience to look again",
+      "Truth is found, not invented to suit a side",
+      "A public lie fails the test of wisdom"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -93,6 +102,15 @@
     "topics": [
       "Essay — Society"
     ],
+    "subTopics": [
+      "Values as an ought"
+    ],
+    "keyPointers": [
+      "A description of how people behave is not a value",
+      "Values pull conduct above the usual",
+      "They judge a custom, they do not bless it",
+      "The gap between is and ought is the work of ethics"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -165,6 +183,15 @@
     "topic": "Essay — Society",
     "topics": [
       "Essay — Society"
+    ],
+    "subTopics": [
+      "Individual best and social best"
+    ],
+    "keyPointers": [
+      "A private gain can be a public cost",
+      "The market and the commons diverge here",
+      "Society needs a rule where the two split",
+      "The best life is not always the largest private advantage"
     ],
     "vault_path": null,
     "points": [
@@ -245,6 +272,15 @@
     "topics": [
       "सामाजिक क्षेत्र"
     ],
+    "subTopics": [
+      "Accepting a flaw and improving it"
+    ],
+    "keyPointers": [
+      "Denial wastes the effort",
+      "Acceptance without work is resignation",
+      "Dedication is the repeated correction",
+      "Success here is improvement, not a single win"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -324,6 +360,15 @@
     "topics": [
       "Essay — Society"
     ],
+    "subTopics": [
+      "Plural identity before the state"
+    ],
+    "keyPointers": [
+      "Language, faith and caste organised life before the modern border",
+      "The state is late and often thin",
+      "Pluralism is the weave, not a problem to be erased",
+      "A state that denies it tears the society"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -396,6 +441,15 @@
     "topic": "Essay — Society",
     "topics": [
       "Essay — Society"
+    ],
+    "subTopics": [
+      "Primary health, school and backwardness"
+    ],
+    "keyPointers": [
+      "A child untaught and untreated cannot use a later opportunity",
+      "Backwardness is a capability failure, not only a lack of factories",
+      "The neglect is old and uneven",
+      "Growth on top of it stays narrow"
     ],
     "vault_path": null,
     "points": [
@@ -470,6 +524,15 @@
     "topics": [
       "Essay — Polity/Econ"
     ],
+    "subTopics": [
+      "Biased media and democracy"
+    ],
+    "keyPointers": [
+      "A citizen votes on what they are shown",
+      "A slanted story manufactures an enemy",
+      "Ownership, a channel war and a false forward",
+      "Democracy needs a press that can be wrong and still correct itself"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -542,6 +605,15 @@
     "topic": "Governance",
     "topics": [
       "Governance"
+    ],
+    "subTopics": [
+      "AI, jobs and reskilling"
+    ],
+    "keyPointers": [
+      "Routine tasks go first",
+      "New work appears beside the loss",
+      "The threat is a worker who is not retrained",
+      "The outcome is a policy choice, not a fate"
     ],
     "vault_path": null,
     "points": [

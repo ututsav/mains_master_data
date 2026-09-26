@@ -20,6 +20,18 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Energy access and SDG 7"
+    ],
+    "keyPointers": [
+      "Electricity to households",
+      "LPG instead of smoky cooking fuel",
+      "Growth of solar and wind",
+      "Cheaper solar power",
+      "Coal still dominates",
+      "Unreliable supply and bills the poor cannot pay",
+      "Efficiency and storage"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +80,18 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Long-term capital gains tax",
+      "Dividend tax change"
+    ],
+    "keyPointers": [
+      "Tax on equity gains above a threshold",
+      "Gains before the cut-off date left untaxed",
+      "Dividend moved from the company to the shareholder",
+      "Tax deducted on larger dividends",
+      "A wider tax base",
+      "A short shock to the market"
     ],
     "vault_path": null,
     "points": [
@@ -142,6 +166,18 @@
     "topics": [
       "Agriculture"
     ],
+    "subTopics": [
+      "Minimum Support Price",
+      "MSP and the low-income trap"
+    ],
+    "keyPointers": [
+      "A price announced before sowing",
+      "Checks a crash and a distress sale",
+      "Mostly wheat and rice are actually bought",
+      "Small farmers often cannot reach the mandi",
+      "Pulses, oilseeds and millets are left out",
+      "Needs real procurement, storage and payment into the bank"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -209,6 +245,18 @@
     "topics": [
       "Essay — Society"
     ],
+    "subTopics": [
+      "Supermarkets and the food supply chain"
+    ],
+    "keyPointers": [
+      "Direct purchase from farmers and their groups",
+      "Fewer mandi layers",
+      "A cold store and a distribution centre",
+      "Less waste after harvest",
+      "A higher share for the farmer",
+      "Small farmers can be left out",
+      "One big buyer can push the price down"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -257,6 +305,17 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Bose-Einstein statistics"
+    ],
+    "keyPointers": [
+      "A new way to count indistinguishable photons",
+      "Einstein extended it to atoms",
+      "A new state of matter at very low temperature",
+      "Later seen in the laboratory",
+      "Bosons differ from fermions",
+      "Basis of lasers, superfluidity and superconductivity"
     ],
     "vault_path": null,
     "points": [
@@ -330,6 +389,19 @@
     "topic": "Environment",
     "topics": [
       "Environment"
+    ],
+    "subTopics": [
+      "Barriers to solid-waste disposal",
+      "Safe removal of toxic waste"
+    ],
+    "keyPointers": [
+      "Waste is not sorted at home",
+      "Too few compost and recycle plants",
+      "Open dumps",
+      "Solid waste rules are weakly enforced",
+      "The polluter should pay",
+      "Cement kilns and common treatment sites",
+      "Cleaning of old dumps"
     ],
     "vault_path": null,
     "points": [
@@ -410,6 +482,19 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Wetlands",
+      "Ramsar wise use"
+    ],
+    "keyPointers": [
+      "Land that stays wet, natural or made",
+      "Use that keeps the ecological character",
+      "Fishing and water supply can continue",
+      "Drainage and pollution cannot",
+      "Chilika",
+      "Keoladeo",
+      "Local livelihood inside a management plan"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -464,6 +549,18 @@
     "topic": "Environment",
     "topics": [
       "Environment"
+    ],
+    "subTopics": [
+      "Sikkim as an organic state"
+    ],
+    "keyPointers": [
+      "Chemical fertiliser and pesticide banned",
+      "Better soil, cleaner water and more pollinators",
+      "A higher price for spices and crops",
+      "Lower spending on inputs",
+      "Farm tourism",
+      "Yields dipped at first",
+      "Certification and markets are still hard"
     ],
     "vault_path": null,
     "points": [
@@ -544,6 +641,17 @@
     "topics": [
       "International Relations"
     ],
+    "subTopics": [
+      "CPEC and India's objections"
+    ],
+    "keyPointers": [
+      "A road and port link from Xinjiang to Gwadar",
+      "It passes through Pakistan-occupied Kashmir",
+      "Sovereignty over a disputed territory",
+      "A port that can serve a strategic purpose",
+      "Pakistan's rising debt",
+      "India uses Chabahar and other corridors instead"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -593,6 +701,17 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Government approach to Left Wing Extremism"
+    ],
+    "keyPointers": [
+      "Specialised police and roads into remote areas",
+      "Schools, phone towers, banks and power",
+      "Surrender and rehabilitation",
+      "Forest rights and a fair price for forest produce",
+      "Security plus development, not police alone",
+      "Violence is down, but some pockets remain"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -641,6 +760,17 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "NITI Aayog and the Planning Commission"
+    ],
+    "keyPointers": [
+      "A fixed five-year plan versus a shorter action agenda",
+      "Schemes designed at the Centre versus schemes shaped by states",
+      "NITI does not divide plan funds",
+      "A think tank, not a command body",
+      "Chief ministers sit on the governing council",
+      "Rankings push states to compete"
     ],
     "vault_path": null,
     "points": [
@@ -745,6 +875,18 @@
     "topics": [
       "Essay — Polity/Econ"
     ],
+    "subTopics": [
+      "Protectionism and currency moves",
+      "Effect on India's macroeconomic stability"
+    ],
+    "keyPointers": [
+      "Higher tariffs and loss of trade preferences",
+      "Weaker world demand",
+      "A cheap currency abroad hurts Indian goods",
+      "Some factories may shift to India",
+      "Slower exports, a weaker rupee and costlier oil",
+      "Large reserves and a big home market are a cushion"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -830,6 +972,17 @@
     "topics": [
       "Essay — Society"
     ],
+    "subTopics": [
+      "National Horticulture Mission and farm income"
+    ],
+    "keyPointers": [
+      "Help for nurseries, pest control and cold stores",
+      "Clusters of horticulture farms",
+      "Fruit and vegetable output rose",
+      "Less loss after harvest",
+      "Gains are uneven for small farmers",
+      "Income needs markets and farmer groups, not production alone"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -897,6 +1050,18 @@
     "topics": [
       "Agriculture"
     ],
+    "subTopics": [
+      "Policy and cropping pattern",
+      "Millets"
+    ],
+    "keyPointers": [
+      "Support prices locked farmers into rice and wheat",
+      "Water-heavy paddy spread into dry regions",
+      "Pulses and oilseeds lost area",
+      "Millets need less water and give better nutrition",
+      "Support price, ration shops and processing",
+      "Area shifts slowly if there is no market"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -957,6 +1122,19 @@
     "topic": "Science & Tech",
     "topics": [
       "Science & Tech"
+    ],
+    "subTopics": [
+      "Why biotechnology grew in India",
+      "Gains for biopharma"
+    ],
+    "keyPointers": [
+      "Public research support and incubators",
+      "City clusters and private firms",
+      "Skilled scientists at a lower cost",
+      "Vaccines, insulin, antibodies and biosimilars",
+      "Lower prices",
+      "Trials and contract research",
+      "Patents and rules are still a constraint"
     ],
     "vault_path": null,
     "points": [
@@ -1024,6 +1202,19 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Case for nuclear power",
+      "Fears about nuclear power"
+    ],
+    "keyPointers": [
+      "Steady power with low carbon",
+      "Dense fuel and thorium in a three-stage plan",
+      "Fear of accident and earthquake",
+      "Waste with no final store",
+      "High cost and a long build",
+      "The liability law discourages foreign suppliers",
+      "Keep solar and wind in the mix"
     ],
     "vault_path": null,
     "points": [
@@ -1098,6 +1289,18 @@
     "topics": [
       "Indian Society"
     ],
+    "subTopics": [
+      "Variation of biodiversity in India",
+      "Biological Diversity Act, 2002"
+    ],
+    "keyPointers": [
+      "Hotspots and zones from desert to rainforest",
+      "Many species found only in the Ghats, the North-East and the islands",
+      "National, state and village bodies",
+      "Outsiders need permission and must share benefits",
+      "People's biodiversity registers",
+      "Traditional knowledge and heritage sites"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1158,6 +1361,18 @@
     "topic": "Environment",
     "topics": [
       "Environment"
+    ],
+    "subTopics": [
+      "Disaster risk reduction in India",
+      "Sendai and Hyogo"
+    ],
+    "keyPointers": [
+      "Disaster Management Act, NDMA and NDRF before Sendai",
+      "Early warning",
+      "A national plan aligned to Sendai",
+      "Build back better and insurance",
+      "Hyogo listed actions; Sendai sets numbered targets",
+      "From relief after the event to governing the risk"
     ],
     "vault_path": null,
     "points": [
@@ -1244,6 +1459,19 @@
     "topics": [
       "Science & Tech"
     ],
+    "subTopics": [
+      "Srikrishna report on personal data"
+    ],
+    "keyPointers": [
+      "Consent before use",
+      "Critical personal data stored in India",
+      "A data protection authority",
+      "Right to be forgotten and notice of a breach",
+      "Privacy as a fundamental right",
+      "Wide exemptions for the state",
+      "A heavy load on small firms",
+      "The later law narrowed some of these rights"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1298,6 +1526,18 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Drug routes into India",
+      "Drugs linked to other crime"
+    ],
+    "keyPointers": [
+      "Golden Crescent and Golden Triangle",
+      "The same networks move guns",
+      "Hawala, property and shell firms hide the money",
+      "Human trafficking uses the same corridors",
+      "Drug money funds armed groups",
+      "Borders, financial tracking, NDPS cases and less demand"
     ],
     "vault_path": null,
     "points": [

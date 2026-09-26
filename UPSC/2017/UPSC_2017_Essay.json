@@ -20,6 +20,17 @@
     "topics": [
       "Agriculture"
     ],
+    "subTopics": [
+      "Farming no longer feeds the farmer"
+    ],
+    "keyPointers": [
+      "Holdings have shrunk; most farmers are small",
+      "Input costs rose faster than prices",
+      "Support price covers few crops and is weakly enforced",
+      "Debt and suicide mark the crisis",
+      "Climate shocks on a single crop",
+      "Needs consolidation, irrigation, markets and income, not output alone"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +79,17 @@
     "topic": "Essay — Polity/Econ",
     "topics": [
       "Essay — Polity/Econ"
+    ],
+    "subTopics": [
+      "Centre-state fiscal ties after reform"
+    ],
+    "keyPointers": [
+      "A larger untied share of taxes",
+      "GST made one market but states waited on compensation",
+      "End of the Planning Commission cut state voice in plans",
+      "Sponsored schemes still come with conditions",
+      "Deficit rules bind both sides",
+      "Cooperation needs a clear compensation rule"
     ],
     "vault_path": null,
     "points": [
@@ -154,6 +176,16 @@
     "topics": [
       "सामाजिक क्षेत्र"
     ],
+    "subTopics": [
+      "Education as the maker of a nation"
+    ],
+    "keyPointers": [
+      "Classrooms build skill, judgment and civic habit",
+      "Countries that bet on school changed their economy",
+      "Uneven learning, dropouts and a rigid syllabus",
+      "A good school is teachers, buildings and who is let in",
+      "Without it, inequality and weak institutions last"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -208,6 +240,16 @@
     "topic": "सामाजिक क्षेत्र",
     "topics": [
       "सामाजिक क्षेत्र"
+    ],
+    "subTopics": [
+      "Non-Alignment in a multipolar world"
+    ],
+    "keyPointers": [
+      "Born as a third way in the Cold War",
+      "Members now pull in different directions",
+      "Some join new groups while still speaking of non-alignment",
+      "Still a voice of the Global South on climate, debt and trade rules",
+      "Needs issue-based coalitions, not the old posture"
     ],
     "vault_path": null,
     "points": [
@@ -288,6 +330,16 @@
     "topics": [
       "सामाजिक क्षेत्र"
     ],
+    "subTopics": [
+      "Joy and gratitude"
+    ],
+    "keyPointers": [
+      "Joy as contentment, not a pile of goods",
+      "Thankfulness reduces envy",
+      "A small gift met with delight",
+      "Entitlement blocks joy",
+      "Service and attention are everyday forms of thanks"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -349,6 +401,17 @@
     "topics": [
       "सामाजिक क्षेत्र"
     ],
+    "subTopics": [
+      "The new woman in India"
+    ],
+    "keyPointers": [
+      "Education and a job do not equal freedom",
+      "Low and falling participation in paid work",
+      "Violence at home and outside",
+      "Unpaid care still falls on women",
+      "Marriage, mobility and choice remain restricted",
+      "The picture is real for a few, not the majority"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -403,6 +466,16 @@
     "topic": "सामाजिक क्षेत्र",
     "topics": [
       "सामाजिक क्षेत्र"
+    ],
+    "subTopics": [
+      "Human law and natural limits"
+    ],
+    "keyPointers": [
+      "A statute can be dodged; a physical limit cannot",
+      "Price controls still meet supply and demand",
+      "Pollution returns as disease and a changed climate",
+      "A virus spreads despite an order",
+      "Wise law works with natural limits, not against them"
     ],
     "vault_path": null,
     "points": [
@@ -470,6 +543,16 @@
     "topic": "Essay — Society",
     "topics": [
       "Essay — Society"
+    ],
+    "subTopics": [
+      "Selfish design of social media"
+    ],
+    "keyPointers": [
+      "Profiles, likes and a personal brand",
+      "Attention rewards display of the self",
+      "Comparison, envy and loneliness",
+      "Collective campaigns exist, but the business sells engagement",
+      "The bias is in the design, not only in the user"
     ],
     "vault_path": null,
     "points": [

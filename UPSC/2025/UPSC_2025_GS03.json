@@ -20,6 +20,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "HDI and inequality-adjusted HDI"
+    ],
+    "keyPointers": [
+      "HDI averages health, school and income",
+      "IHDI cuts that average by how unequally they are shared",
+      "India’s gap between the two is the hidden inequality",
+      "The adjusted index is the fairer national picture"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +77,15 @@
     "topic": "International Relations",
     "topics": [
       "International Relations"
+    ],
+    "subTopics": [
+      "Protectionism and India’s economy"
+    ],
+    "keyPointers": [
+      "Exports, inputs and a supply chain face new walls",
+      "A bilateral deal can open one door and close a multilateral rule",
+      "Domestic industry wants a shield and a market",
+      "The challenge is access without becoming only a protected market"
     ],
     "vault_path": null,
     "points": [
@@ -118,6 +136,15 @@
     "topics": [
       "Agriculture"
     ],
+    "subTopics": [
+      "Choice of high-value crops"
+    ],
+    "keyPointers": [
+      "Price, a sure buyer and the cost of the input",
+      "Water, risk and a cold store",
+      "Credit and a road decide as much as the seed",
+      "The choice is a calculation, not a slogan"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -166,6 +193,15 @@
     "topic": "International Relations",
     "topics": [
       "International Relations"
+    ],
+    "subTopics": [
+      "Agricultural supply chains"
+    ],
+    "keyPointers": [
+      "From the field to storage, process and the shop",
+      "Loss and a middle layer sit in the gaps",
+      "A managed chain raises the farmer’s share and cuts waste",
+      "Significance is income and a stable food price"
     ],
     "vault_path": null,
     "points": [
@@ -216,6 +252,15 @@
     "topics": [
       "Essay — World"
     ],
+    "subTopics": [
+      "India and fusion energy"
+    ],
+    "keyPointers": [
+      "India builds major ITER parts, including the cryostat",
+      "Cooling and power systems are part of the contribution",
+      "Success would be a large, low-carbon baseload",
+      "The implication is energy without the fuel limit of fission"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -264,6 +309,15 @@
     "topic": "Essay — Polity/Econ",
     "topics": [
       "Essay — Polity/Econ"
+    ],
+    "subTopics": [
+      "Clean energy independence by 2047"
+    ],
+    "keyPointers": [
+      "Domestic sun, wind, nuclear and storage instead of imported fuel",
+      "Efficiency is half the independence",
+      "Biotechnology can give a biofuel, a better crop and a lower farm energy need",
+      "2047 is a direction that needs a grid, not only a target"
     ],
     "vault_path": null,
     "points": [
@@ -314,6 +368,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Carbon capture, use and storage"
+    ],
+    "keyPointers": [
+      "Catch CO2 from a plant or the air",
+      "Use it or lock it underground",
+      "It can cut emissions from a hard industry",
+      "It is not a licence to keep burning without a limit"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -362,6 +425,15 @@
     "topic": "Essay — Society",
     "topics": [
       "Essay — Society"
+    ],
+    "subTopics": [
+      "Seawater intrusion"
+    ],
+    "keyPointers": [
+      "Over-pumping lets the sea push in",
+      "A fallen water table and a rise in sea level both help it",
+      "The well turns salt and the crop fails",
+      "Remedy: recharge, a limit on pumping, and a barrier of fresh water"
     ],
     "vault_path": null,
     "points": [
@@ -412,6 +484,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Terrorism in India"
+    ],
+    "keyPointers": [
+      "Cross-border, a lone actor, and a local insurgent network",
+      "Cities, a convoy and a crowded place",
+      "Law, intelligence, a financial trail and a neighbour",
+      "The counter-measure fails if it treats every community as the suspect"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -460,6 +541,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Ending left-wing extremism"
+    ],
+    "keyPointers": [
+      "An armed challenge in the remaining red corridor",
+      "People lose a road, a school and safety",
+      "Security, rights on land, and a visible state",
+      "A date is a goal; the end is the grievance plus the gun"
     ],
     "vault_path": null,
     "points": [
@@ -510,6 +600,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Fiscal Health Index"
+    ],
+    "keyPointers": [
+      "It compares deficit, debt, revenue and the quality of spend",
+      "A state can see where it is weak",
+      "It can guide a transfer and a reform",
+      "A useful tool if it does not punish a poor state for being poor"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -558,6 +657,15 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Production Linked Incentive"
+    ],
+    "keyPointers": [
+      "Pay a firm for incremental output in a chosen sector",
+      "The aim is scale, jobs and less import",
+      "Achievements are uneven across sectors",
+      "Improve it by tying the cheque to local value and a real job"
     ],
     "vault_path": null,
     "points": [
@@ -608,6 +716,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Groundwater depletion"
+    ],
+    "keyPointers": [
+      "Free power, a water-heavy crop and a million pumps",
+      "Recharge is slower than the draw",
+      "Missions for harvesting, a crop shift and mapped aquifers",
+      "Mitigation fails if the price of pumping stays zero"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -656,6 +773,15 @@
     "topic": "Agriculture",
     "topics": [
       "Agriculture"
+    ],
+    "subTopics": [
+      "Food processing industry"
+    ],
+    "keyPointers": [
+      "A large farm output and a large waste",
+      "Scope in jobs, export and a higher farm price",
+      "Parks, a cold chain, credit and a standard",
+      "The measure works if the raw material arrives unspoiled"
     ],
     "vault_path": null,
     "points": [
@@ -706,6 +832,15 @@
     "topics": [
       "Essay — Polity/Econ"
     ],
+    "subTopics": [
+      "Nanotechnology in farming"
+    ],
+    "keyPointers": [
+      "A precise fertiliser, a sensor and a protected input",
+      "Less waste of chemical, more control of a pest",
+      "It can raise a yield and cut a cost",
+      "The socio-economic gain needs a price the small farmer can pay"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -754,6 +889,15 @@
     "topic": "Ancient History",
     "topics": [
       "Ancient History"
+    ],
+    "subTopics": [
+      "Semiconductor manufacturing"
+    ],
+    "keyPointers": [
+      "Capital, ultra-clean water, power and a skilled line",
+      "A global supply chain that can be cut",
+      "Incentives, a fab policy and design-linked support",
+      "A hub is a decade of process, not one announcement"
     ],
     "vault_path": null,
     "points": [
@@ -804,6 +948,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Mining as an environmental hazard"
+    ],
+    "keyPointers": [
+      "It strips soil, fouls water and displaces a village",
+      "The hazard is the method and the waste, not the mineral’s existence",
+      "Sustainable mining: a limit, a closed waste, consent and restoration",
+      "The economy needs the mineral and a land that survives it"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -852,6 +1005,15 @@
     "topic": "Environment",
     "topics": [
       "Environment"
+    ],
+    "subTopics": [
+      "Paris Agreement and COP26"
+    ],
+    "keyPointers": [
+      "A national target on emissions intensity, a non-fossil share and a carbon sink",
+      "COP26 added net zero by 2070 and a higher clean-power aim",
+      "The strengthening is a tighter promise",
+      "Delivery is the grid, the coal transition and the finance"
     ],
     "vault_path": null,
     "points": [
@@ -902,6 +1064,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "North-East security and peace accords"
+    ],
+    "keyPointers": [
+      "Insurgent groups, a porous border and an unfinished ethnic claim",
+      "Accords have brought some groups into politics",
+      "Extortion and a split faction remain",
+      "Map the accord to the ground: a ceasefire is not yet a settlement"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -950,6 +1121,15 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Maritime and coastal security"
+    ],
+    "keyPointers": [
+      "Most of India’s trade moves by sea",
+      "Piracy, a rival navy, smuggling and a coastal landing",
+      "Challenges are both blue-water and the creek",
+      "The way forward is a navy, a coast guard and a port that shares information"
     ],
     "vault_path": null,
     "points": [

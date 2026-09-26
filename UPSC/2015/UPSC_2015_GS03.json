@@ -20,6 +20,16 @@
     "topics": [
       "Essay — Polity/Econ"
     ],
+    "subTopics": [
+      "Jobless growth"
+    ],
+    "keyPointers": [
+      "Output rose faster than jobs",
+      "Factories did not absorb the people leaving farms",
+      "Services growth used capital more than labour",
+      "Many new jobs are informal and weak",
+      "The label fits the quality of work, not a total absence of jobs"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +78,16 @@
     "topic": "Agriculture",
     "topics": [
       "Agriculture"
+    ],
+    "subTopics": [
+      "Livestock and rural income"
+    ],
+    "keyPointers": [
+      "Milk, poultry, goats and fish employ the landless and women",
+      "Breed improvement and a vet at the village",
+      "Fodder and disease control",
+      "A cold chain and a market, not only a scheme",
+      "It is income beside the crop, not instead of land reform"
     ],
     "vault_path": null,
     "points": [
@@ -118,6 +138,16 @@
     "topics": [
       "Agriculture"
     ],
+    "subTopics": [
+      "Contract farming and land leasing"
+    ],
+    "keyPointers": [
+      "Most holdings are now too small to live on",
+      "A contract can bring seed, advice and a buyer",
+      "It can also reject the crop and lock in one plant",
+      "Leasing lets land be used without a forced sale",
+      "Protect the small farmer in the written terms"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -166,6 +196,16 @@
     "topic": "Agriculture",
     "topics": [
       "Agriculture"
+    ],
+    "subTopics": [
+      "Digital tools for farmers"
+    ],
+    "keyPointers": [
+      "Soil health, weather and a price on the phone",
+      "A national electronic market",
+      "Digital land records and satellite crop insurance",
+      "A step only works if the farmer can use the phone",
+      "Information is not a substitute for water and a road"
     ],
     "vault_path": null,
     "points": [
@@ -216,6 +256,16 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Direct benefit transfer of subsidies"
+    ],
+    "keyPointers": [
+      "Cash to the account cuts a ghost beneficiary",
+      "LPG showed a large saving",
+      "Food and fertiliser are harder: the poor must still be able to buy",
+      "A price cap protects consumption; cash can be spent elsewhere",
+      "Targeting improves only if the list is honest"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -264,6 +314,16 @@
     "topic": "Agriculture",
     "topics": [
       "Agriculture"
+    ],
+    "subTopics": [
+      "Food processing supply chains"
+    ],
+    "keyPointers": [
+      "Many middlemen and little cold storage",
+      "Weak roads and a seasonal crop",
+      "Farm laws and small plots limit a steady supply",
+      "Online sale can skip a layer and show a price",
+      "It still needs a cold store and a standard"
     ],
     "vault_path": null,
     "points": [
@@ -314,6 +374,16 @@
     "topics": [
       "Essay — Society"
     ],
+    "subTopics": [
+      "Gold imports and monetisation"
+    ],
+    "keyPointers": [
+      "Household gold widens the trade deficit",
+      "The scheme asks idle gold to be deposited",
+      "Jewellers can borrow metal instead of importing it",
+      "The depositor earns interest",
+      "Purity tests, trust and short tenures kept deposits low"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -362,6 +432,16 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Make in India, skills and labour law"
+    ],
+    "keyPointers": [
+      "A factory needs people who can run the machine",
+      "Very few workers are formally skilled",
+      "Old labour laws made firms stay small",
+      "Codes that simplify hiring help only if skills exist",
+      "Both have to move together"
     ],
     "vault_path": null,
     "points": [
@@ -412,6 +492,16 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Falling solar costs"
+    ],
+    "keyPointers": [
+      "Chinese scale, better cells and competitive bids",
+      "Cheaper finance",
+      "Coal power looks expensive beside a low solar bid",
+      "Old plants run less and become stranded",
+      "The grid and storage have to catch the cheap sun"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -460,6 +550,16 @@
     "topic": "Essay — Polity/Econ",
     "topics": [
       "Essay — Polity/Econ"
+    ],
+    "subTopics": [
+      "Special Economic Zones"
+    ],
+    "keyPointers": [
+      "Meant for manufacture and export",
+      "Tax changes and a minimum tax dulled the offer",
+      "Land, labour and environment delays",
+      "Domestic sale and export rules clash",
+      "The tool works if the rule is stable and the land is not grabbed"
     ],
     "vault_path": null,
     "points": [
@@ -515,6 +615,16 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Satellite navigation"
+    ],
+    "keyPointers": [
+      "A standard signal is free and good enough for a map",
+      "Precision needs a correction for surveying and arms",
+      "A foreign signal can be switched or degraded",
+      "India's regional system is under its own control",
+      "Civil use and a secure use are different services"
     ],
     "vault_path": null,
     "points": [
@@ -595,6 +705,16 @@
     "topics": [
       "Science & Tech"
     ],
+    "subTopics": [
+      "Robots in prohibitive work"
+    ],
+    "keyPointers": [
+      "Mines, sewers, disaster sites and repetitive factory lines",
+      "A robot does not tire or breathe the gas",
+      "It displaces a worker if there is no new task",
+      "Training and safety standards have to come first",
+      "Use it where a human should not be"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -643,6 +763,16 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Cloud hosting and security"
+    ],
+    "keyPointers": [
+      "Less hardware, faster scale, a specialist watching the system",
+      "Data sits with someone else and maybe abroad",
+      "A breach or a foreign law can reach government files",
+      "In-house is slower and still not safe if badly run",
+      "Classify data: routine in the cloud, sensitive at home"
     ],
     "vault_path": null,
     "points": [
@@ -699,6 +829,16 @@
     "topics": [
       "Thinkers"
     ],
+    "subTopics": [
+      "Traditional Knowledge Digital Library"
+    ],
+    "keyPointers": [
+      "A formatted record of Ayurveda, Unani and yoga",
+      "Patent offices can search it before a grant",
+      "It stops a firm claiming an old remedy as new",
+      "Language and format were built for examiners",
+      "Protection of knowledge is not the same as sharing the benefit"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -747,6 +887,16 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Cleaning the Ganga"
+    ],
+    "keyPointers": [
+      "Sewage, industry and a reduced flow",
+      "A mission and a dedicated authority",
+      "Treatment plants were built and not always run",
+      "States, cities and faith uses all pull the river",
+      "A plant without a working drain does not clean a river"
     ],
     "vault_path": null,
     "points": [
@@ -803,6 +953,16 @@
     "topics": [
       "Physical Geography"
     ],
+    "subTopics": [
+      "Earthquake preparedness"
+    ],
+    "keyPointers": [
+      "The Himalaya and plate boundaries were always active",
+      "Better instruments report more events",
+      "Building codes exist and are ignored",
+      "Schools, hospitals and old cities are the risk",
+      "Drills and enforcement matter more than a new slogan"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -851,6 +1011,16 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Armed Forces Special Powers Act"
+    ],
+    "keyPointers": [
+      "It lets the forces search, arrest and use force in a disturbed area",
+      "Rights groups call the immunity a licence",
+      "Soldiers say they cannot operate without it",
+      "Prolonged use alienates the people it is meant to protect",
+      "Review the area, punish abuse, and do not treat it as permanent"
     ],
     "vault_path": null,
     "points": [
@@ -907,6 +1077,16 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "ISIS and online radicalisation"
+    ],
+    "keyPointers": [
+      "A group that claimed a state and a global war",
+      "It used video and closed apps to recruit",
+      "A local grievance plus a simple story",
+      "The answer is families, police and a counter-story",
+      "A ban alone does not stop a private channel"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -956,6 +1136,16 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Industry and tribal isolation"
+    ],
+    "keyPointers": [
+      "Land and forest taken for a plant or a mine",
+      "Jobs promised and not given to locals",
+      "The new town does not include the old village",
+      "Displacement without rehabilitation",
+      "Development that consults the gram sabha and shares the gain"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1004,6 +1194,16 @@
     "topic": "Science & Tech",
     "topics": [
       "Science & Tech"
+    ],
+    "subTopics": [
+      "A digital armed force"
+    ],
+    "keyPointers": [
+      "Cyberspace can hit banks, grids and elections",
+      "A dedicated capacity is needed",
+      "A force that only attacks is the wrong shape",
+      "Defence, police, the emergency team and firms must share",
+      "Law and skill, not only a new uniform"
     ],
     "vault_path": null,
     "points": [

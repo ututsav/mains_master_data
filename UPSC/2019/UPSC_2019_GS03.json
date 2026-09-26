@@ -20,6 +20,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Taxes merged into GST"
+    ],
+    "keyPointers": [
+      "Excise, service tax and state VAT were the core",
+      "Entry tax, luxury and several cesses followed",
+      "Octroi and many small levies ended at the state line",
+      "Revenue rose unevenly; compensation became the political fact"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -87,6 +96,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Growth, inflation and the real economy"
+    ],
+    "keyPointers": [
+      "A stable price and a rising GDP are not the whole picture",
+      "Jobs, farm distress and a weak demand can sit underneath",
+      "The shape is good on the headline and strained in the household",
+      "Agree only with that qualification"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -142,6 +160,15 @@
     "topics": [
       "Essay — Polity/Econ"
     ],
+    "subTopics": [
+      "Integrated farming system"
+    ],
+    "keyPointers": [
+      "Crop, animal, fish and a tree on one holding",
+      "A waste of one becomes an input of another",
+      "It steadies income when one crop fails",
+      "It sustains a small farm more than it replaces irrigation"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -196,6 +223,15 @@
     "topic": "Essay — Polity/Econ",
     "topics": [
       "Essay — Polity/Econ"
+    ],
+    "subTopics": [
+      "Watershed treatment and farm output"
+    ],
+    "keyPointers": [
+      "Catch the rain where it falls",
+      "Soil, a pond and a check dam raise a second crop",
+      "The gain is local and slow",
+      "It fails if the community does not maintain the work"
     ],
     "vault_path": null,
     "points": [
@@ -258,6 +294,15 @@
     "topics": [
       "Essay — Polity/Econ"
     ],
+    "subTopics": [
+      "Visvesvaraya and Swaminathan"
+    ],
+    "keyPointers": [
+      "Visvesvaraya: dams, flood control and a planned use of water",
+      "Swaminathan: the science behind the high-yielding crop",
+      "One built the water system, the other the seed system",
+      "India's farm surplus rests on both"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -306,6 +351,15 @@
     "topic": "Science & Tech",
     "topics": [
       "Science & Tech"
+    ],
+    "subTopics": [
+      "Indian space station"
+    ],
+    "keyPointers": [
+      "A station after a human flight, built in stages",
+      "Short crew stays in low orbit",
+      "It extends human spaceflight beyond a single mission",
+      "Science, pride and a habit of long missions are the benefit"
     ],
     "vault_path": null,
     "points": [
@@ -386,6 +440,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Coastal sand mining"
+    ],
+    "keyPointers": [
+      "Sand holds the beach and the groundwater",
+      "Mining erodes the shore and salts the well",
+      "Legal and illegal both remove the same sand",
+      "A permit does not restore a dune"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -441,6 +504,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Reducing vulnerability"
+    ],
+    "keyPointers": [
+      "The hazard may stay; the weakness can be cut",
+      "Stronger houses, a warning and a livelihood that survives",
+      "The poor, the old and the coast are the usual vulnerable",
+      "Impact falls when those are protected before the event"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -489,6 +561,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Over-ground workers"
+    ],
+    "keyPointers": [
+      "They are not the gunman; they shelter, fund and signal",
+      "A ban on the organisation pushes the support underground",
+      "They link a militant to a village",
+      "Security has to separate a sympathiser's crime from a whole community"
     ],
     "vault_path": null,
     "points": [
@@ -581,6 +662,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "CyberDome"
+    ],
+    "keyPointers": [
+      "A Kerala police centre for cyber crime and research",
+      "Forensics, a shared threat picture, and tools to patrol the net",
+      "Useful against fraud, child abuse images and a coordinated scam",
+      "One state centre is a model, not a national shield"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -641,6 +731,15 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Inclusive and sustainable growth"
+    ],
+    "keyPointers": [
+      "Inclusion means the poor share the rise",
+      "Sustainability means the rise does not spend the future",
+      "A strategy can name both and deliver one",
+      "Jobs, health and a resource limit have to be in the same plan"
     ],
     "vault_path": null,
     "points": [
@@ -703,6 +802,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Public expenditure management"
+    ],
+    "keyPointers": [
+      "A deficit, a subsidy and a capital need compete",
+      "The challenge is what to cut without cutting the poor",
+      "Off-budget borrowing hides the true size",
+      "Management is priority and honesty, not only a speech"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -757,6 +865,15 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Reforms in the food distribution system"
+    ],
+    "keyPointers": [
+      "A digitised ration card and a point-of-sale machine",
+      "One nation, one ration card for the migrant",
+      "Direct transfer where cash is better than grain",
+      "Leakage falls only if the exclusion of the real poor is watched"
     ],
     "vault_path": null,
     "points": [
@@ -842,6 +959,15 @@
     "topic": "Agriculture",
     "topics": [
       "Agriculture"
+    ],
+    "subTopics": [
+      "Food processing policy"
+    ],
+    "keyPointers": [
+      "Cold chain, a mega park and a credit",
+      "Standards and a testing lab",
+      "The farm is small and the season is short",
+      "Policy works if the raw material reaches the plant unspoiled"
     ],
     "vault_path": null,
     "points": [
@@ -934,6 +1060,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Protecting traditional medicine from patents"
+    ],
+    "keyPointers": [
+      "A digital library in a form patent examiners can search",
+      "A wrong patent can be opposed with the prior record",
+      "Documentation is not the same as a share of the benefit",
+      "The defence is prior knowledge, made visible"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1006,6 +1141,15 @@
     "topic": "Agriculture",
     "topics": [
       "Agriculture"
+    ],
+    "subTopics": [
+      "Biotechnology and farmers"
+    ],
+    "keyPointers": [
+      "A seed that resists a pest or a drought",
+      "Faster breeding and a diagnostic for a disease",
+      "The gain needs a price the farmer can pay",
+      "A living standard rises only if the extra yield is theirs"
     ],
     "vault_path": null,
     "points": [
@@ -1086,6 +1230,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Ecological carrying capacity"
+    ],
+    "keyPointers": [
+      "The most use a place can take without collapsing",
+      "Tourism, a herd or a city can exceed it",
+      "Policy that ignores it spends the system",
+      "Understanding it is the basis of a limit, not a ban on all use"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1158,6 +1311,15 @@
     "topic": "Environment",
     "topics": [
       "Environment"
+    ],
+    "subTopics": [
+      "Hazard zonation mapping"
+    ],
+    "keyPointers": [
+      "It marks where a quake, a flood or a slide is likely",
+      "Preparedness then puts the school and the store in the safer zone",
+      "A map unused is not preparedness",
+      "The first step is to know the ground"
     ],
     "vault_path": null,
     "points": [
@@ -1232,6 +1394,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "UAPA amendment and the NIA"
+    ],
+    "keyPointers": [
+      "An individual, not only an organisation, can be named a terrorist",
+      "The agency's reach widened, including property and cases abroad",
+      "The security case is a lone actor and a cross-border plot",
+      "The opposition is designation without a prior judicial finding, and a hard bail"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1298,6 +1469,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "North-East border policing"
+    ],
+    "keyPointers": [
+      "A long, open border with several countries",
+      "Drugs, arms, trade and migration use the same path",
+      "Insurgent movement is one stream",
+      "Policing needs posts, a neighbour and a local economy, not only a patrol"
     ],
     "vault_path": null,
     "points": [

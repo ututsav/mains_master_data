@@ -20,6 +20,18 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "EVM and voter trust",
+      "Election Commission's credibility"
+    ],
+    "keyPointers": [
+      "VVPAT slip that the voter can see",
+      "Voters must know how to check the slip",
+      "Sample counting of slips delays the result",
+      "Safe storage and transport of machines",
+      "Rumours of hacking without proof",
+      "Open challenge and public demonstration"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -99,6 +111,18 @@
     "topics": [
       "Social Justice"
     ],
+    "subTopics": [
+      "SC reservation in minority institutions",
+      "Limits of the NCSC"
+    ],
+    "keyPointers": [
+      "Article 338 powers of the NCSC",
+      "Article 30 right of minorities to run institutions",
+      "Inamdar: unaided minority institutions are not bound by state quotas",
+      "NCSC can advise and inquire",
+      "NCSC cannot impose a caste quota there",
+      "It can still act against discrimination"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -153,6 +177,17 @@
     "topic": "Constitution",
     "topics": [
       "Constitution"
+    ],
+    "subTopics": [
+      "Financial Emergency under Article 360"
+    ],
+    "keyPointers": [
+      "Threat to financial stability or credit",
+      "Never used so far",
+      "Salaries, including judges, can be cut",
+      "Centre can direct states on money matters",
+      "State money bills need the President's approval",
+      "Parliament must approve it within two months"
     ],
     "vault_path": null,
     "points": [
@@ -214,6 +249,18 @@
     "topic": "Constitution",
     "topics": [
       "Constitution"
+    ],
+    "subTopics": [
+      "Use of parliamentary committees",
+      "Estimates Committee"
+    ],
+    "keyPointers": [
+      "The full House lacks time for detail",
+      "Committees call officials and experts",
+      "Work across parties",
+      "Estimates Committee is only from the Lok Sabha",
+      "It examines spending, not the policy itself",
+      "It suggests economies and sits beside the CAG audit"
     ],
     "vault_path": null,
     "points": [
@@ -282,6 +329,18 @@
     "topics": [
       "Constitution"
     ],
+    "subTopics": [
+      "Appointment and independence of the CAG",
+      "Audit of the public purse"
+    ],
+    "keyPointers": [
+      "Article 148",
+      "Appointed by the President",
+      "Removed only like a Supreme Court judge",
+      "Audits the Consolidated Fund and public companies",
+      "Certifies the tax share between Centre and states",
+      "Reports are laid before the House"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -343,6 +402,17 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Clash between development policy and environment law"
+    ],
+    "keyPointers": [
+      "Forest clearance versus mines and rail lines",
+      "Water law versus factories on the Ganga",
+      "Coastal rules versus ports and real estate",
+      "Power and fertiliser subsidies harm water and soil",
+      "The environment ministry is often overruled",
+      "Fast clearance weakens safeguards"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -391,6 +461,18 @@
     "topic": "Social Justice",
     "topics": [
       "Social Justice"
+    ],
+    "subTopics": [
+      "Community-level healthcare",
+      "Health for All"
+    ],
+    "keyPointers": [
+      "PHC and ASHA as the first contact",
+      "Rural distance and local belief",
+      "Prevention and maternal care",
+      "Nutrition and sanitation sit beside the clinic",
+      "Local committees, as in Kerala",
+      "A big hospital alone does not reach the poor"
     ],
     "vault_path": null,
     "points": [
@@ -446,6 +528,17 @@
     "topic": "Governance",
     "topics": [
       "Governance"
+    ],
+    "subTopics": [
+      "Use value of information in e-governance"
+    ],
+    "keyPointers": [
+      "A website is not enough",
+      "Local language, a simple screen and offline help",
+      "Common Service Centres for the last mile",
+      "Land records help only if linked to registration",
+      "Alerts that lead to action, not stored data alone",
+      "The digital divide"
     ],
     "vault_path": null,
     "points": [
@@ -507,6 +600,18 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "India-Israel partnership"
+    ],
+    "keyPointers": [
+      "Full diplomatic ties since 1992",
+      "Defence purchases",
+      "Agriculture centres and drip irrigation",
+      "Water treatment and desalination",
+      "Intelligence sharing",
+      "Joint research",
+      "Palestine policy kept separate"
     ],
     "vault_path": null,
     "points": [
@@ -593,6 +698,17 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "Ashgabat Agreement and access to Central Asia"
+    ],
+    "keyPointers": [
+      "A transport corridor toward the Persian Gulf",
+      "Route through Chabahar, not through Pakistan",
+      "Trade in energy and goods",
+      "Less dependence on one land route",
+      "Afghanistan's instability and the cost of infrastructure",
+      "Fits Connect Central Asia"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -647,6 +763,17 @@
     "topic": "Constitution",
     "topics": [
       "Constitution"
+    ],
+    "subTopics": [
+      "Lieutenant Governor and the elected government of Delhi"
+    ],
+    "keyPointers": [
+      "2018 Supreme Court ruling",
+      "Aid and advice, except police, public order and land",
+      "The LG is not to hold every file",
+      "Services were left undecided then",
+      "Later fights were about officers",
+      "The principle was settled, not every dispute"
     ],
     "vault_path": null,
     "points": [
@@ -709,6 +836,17 @@
     "topics": [
       "Constitution"
     ],
+    "subTopics": [
+      "Tribunals and ordinary courts"
+    ],
+    "keyPointers": [
+      "Articles 323A and 323B",
+      "Some disputes move from courts to specialised bodies",
+      "Chandra Kumar keeps High Court review",
+      "Validity depends on independence",
+      "Weak technical members and executive control",
+      "A tribunal must not be a rubber stamp"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -770,6 +908,17 @@
     "topics": [
       "International Relations"
     ],
+    "subTopics": [
+      "Parliamentary and presidential democracy"
+    ],
+    "keyPointers": [
+      "Executive inside Parliament versus a separate president",
+      "Basic structure versus a very rigid constitution",
+      "Rights with limits versus a bill of rights",
+      "Federalism with a unitary tilt versus dual citizenship",
+      "Positive secularism versus a wall of separation",
+      "A welfare role versus limited government"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -824,6 +973,19 @@
     "topic": "Constitution",
     "topics": [
       "Constitution"
+    ],
+    "subTopics": [
+      "How the Finance Commission is set up",
+      "Terms of reference"
+    ],
+    "keyPointers": [
+      "Article 280",
+      "A chairman and four members, every five years",
+      "Share of taxes, grants and help to state funds",
+      "Disaster and security spending in the terms",
+      "Rewards for performance",
+      "Which population count is used",
+      "It recommends; it does not spend"
     ],
     "vault_path": null,
     "points": [
@@ -903,6 +1065,19 @@
     "topic": "Constitution",
     "topics": [
       "Constitution"
+    ],
+    "subTopics": [
+      "Panchayats as local government",
+      "Own sources of panchayat finance"
+    ],
+    "keyPointers": [
+      "73rd Amendment and the Eleventh Schedule",
+      "Gram Sabha",
+      "Reservation for women, Scheduled Castes and Scheduled Tribes",
+      "Own tax on property and markets",
+      "User charges",
+      "State Finance Commission grants",
+      "CSR, bonds and community funds where the state allows them"
     ],
     "vault_path": null,
     "points": [
@@ -989,6 +1164,17 @@
     "topics": [
       "Social Justice"
     ],
+    "subTopics": [
+      "Overlap among commissions for vulnerable groups"
+    ],
+    "keyPointers": [
+      "Separate bodies for SC, ST, women, minorities, children and human rights",
+      "The same complaint is inquired into twice",
+      "One window would save effort",
+      "A merger can hide a group's special safeguard",
+      "Articles 338 and 338A need a focused body",
+      "Shared data and joint sittings are safer than a full merger"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1043,6 +1229,18 @@
     "topic": "Constitution",
     "topics": [
       "Constitution"
+    ],
+    "subTopics": [
+      "Hunger beyond food stocks",
+      "Human development and nutrition"
+    ],
+    "keyPointers": [
+      "Grain stocks can be full while people stay hungry",
+      "Access, use and a steady supply matter",
+      "Stunting, sanitation, water and women's schooling",
+      "Anganwadi quality",
+      "From food security to nutrition security",
+      "Poshan Abhiyaan"
     ],
     "vault_path": null,
     "points": [
@@ -1110,6 +1308,17 @@
     "topic": "Governance",
     "topics": [
       "Governance"
+    ],
+    "subTopics": [
+      "Limits of the Citizens' Charter"
+    ],
+    "keyPointers": [
+      "Not enforceable in court",
+      "Citizens often do not know it exists",
+      "Drafted without the users",
+      "No penalty for delay",
+      "Promises are too vague",
+      "Needs a time limit, the local language, an audit and a link to staff appraisal"
     ],
     "vault_path": null,
     "points": [
@@ -1190,6 +1399,17 @@
     "topics": [
       "International Relations"
     ],
+    "subTopics": [
+      "WTO reform and India's trade interests"
+    ],
+    "keyPointers": [
+      "The dispute body is blocked",
+      "New rules on e-commerce and investment",
+      "Farm subsidy and public stockholding",
+      "Special treatment for developing countries",
+      "Small-scale fisheries",
+      "Deals among a few countries that leave the rest out"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1250,6 +1470,17 @@
     "topic": "Constitution",
     "topics": [
       "Constitution"
+    ],
+    "subTopics": [
+      "US-Iran sanctions and India's interests"
+    ],
+    "keyPointers": [
+      "Oil supply and a higher import bill",
+      "Chabahar and the route to Central Asia",
+      "Stalled gas investment",
+      "Balance between the US and Iran",
+      "Buy oil from more countries",
+      "Rupee trade and the north-south corridor"
     ],
     "vault_path": null,
     "points": [

@@ -20,6 +20,16 @@
     "topics": [
       "Indian Society"
     ],
+    "subTopics": [
+      "Informalisation of work"
+    ],
+    "keyPointers": [
+      "Firms cut permanent staff to compete",
+      "Contracts, outsourcing and machines",
+      "Services and gig work grew",
+      "Informal work has no security or a pension",
+      "Cheap and flexible, but it blocks skill and stable demand"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -93,6 +103,16 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Gender budgeting"
+    ],
+    "keyPointers": [
+      "A budget can help men and women unequally",
+      "Need data split by sex, and officers who can read it",
+      "India publishes a gender statement since the mid-2000s",
+      "A small share of the budget is marked this way",
+      "A line in the budget is not the same as money that reaches women"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -159,6 +179,17 @@
     "topic": "Essay — Society",
     "topics": [
       "Essay — Society"
+    ],
+    "subTopics": [
+      "Jan-Dhan and financial inclusion"
+    ],
+    "keyPointers": [
+      "A zero-balance account, a card and a small overdraft",
+      "Tens of crores of new accounts",
+      "Subsidies paid into the account, less leakage",
+      "Many accounts stay empty",
+      "Correspondents and distance still limit use",
+      "Necessary, not sufficient"
     ],
     "vault_path": null,
     "points": [
@@ -233,6 +264,16 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Smart cities and smart villages"
+    ],
+    "keyPointers": [
+      "Selected cities get digital and basic services",
+      "They can pull talent and money away from the rest",
+      "A village cluster can have the same amenities",
+      "PURA and the Rurban mission",
+      "Urban smartness without rural smartness widens the gap"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -299,6 +340,16 @@
     "topic": "Essay — Polity/Econ",
     "topics": [
       "Essay — Polity/Econ"
+    ],
+    "subTopics": [
+      "Foreign direct investment"
+    ],
+    "keyPointers": [
+      "Capital, technology and a place in a supply chain",
+      "MoUs die in land, clearance and changing rules",
+      "Infrastructure and labour uncertainty",
+      "One window and a stable tax",
+      "A signature is not money in the ground"
     ],
     "vault_path": null,
     "points": [
@@ -372,6 +423,16 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Skills and inclusive growth"
+    ],
+    "keyPointers": [
+      "Growth that leaves people out is not inclusive",
+      "Weak schooling and a skill that firms do not want",
+      "Health and nutrition shape the ability to learn",
+      "Align training with jobs and apprenticeships",
+      "A young population without skill is a burden"
     ],
     "vault_path": null,
     "points": [
@@ -458,6 +519,16 @@
     "topics": [
       "Agriculture"
     ],
+    "subTopics": [
+      "Micro-irrigation and water-use efficiency"
+    ],
+    "keyPointers": [
+      "More crop for each unit of water",
+      "Drip and sprinkler cut evaporation and runoff",
+      "Fertiliser can travel with the water",
+      "Weeds and salt are less",
+      "Cost and small plots slow adoption"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -531,6 +602,16 @@
     "topics": [
       "Agriculture"
     ],
+    "subTopics": [
+      "Allelopathy in cropping systems"
+    ],
+    "keyPointers": [
+      "One plant releases chemicals that help or harm another",
+      "Rice residue can slow the next wheat",
+      "A cover crop can suppress weeds",
+      "Sugarcane ratoon can poison its own regrowth",
+      "Residue management and a break crop"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -597,6 +678,16 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Land reform and farm development"
+    ],
+    "keyPointers": [
+      "End of intermediaries, ceilings, secure tenants, consolidated plots",
+      "Security makes a tenant invest",
+      "Most of India implemented this weakly",
+      "West Bengal and Kerala had political will and records",
+      "Without records and will, the law stays on paper"
     ],
     "vault_path": null,
     "points": [
@@ -671,6 +762,16 @@
     "topics": [
       "Agriculture"
     ],
+    "subTopics": [
+      "Crop insurance under PMFBY"
+    ],
+    "keyPointers": [
+      "Monsoon, flood, pest and cyclone",
+      "Cover stops a distress sale and keeps bank credit flowing",
+      "A low farmer premium; the rest is subsidised",
+      "Yield loss from risks the farmer cannot prevent",
+      "The scheme fails if the claim is late"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -744,6 +845,16 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Renewable energy and LED bulbs"
+    ],
+    "keyPointers": [
+      "Solar, wind, small hydro and bioenergy",
+      "Targets rose from a modest 2022 goal toward a much larger non-fossil share",
+      "LEDs use far less power than old bulbs",
+      "Lower bills and a lower evening peak",
+      "A small bulb is a large saving when millions switch"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -804,6 +915,16 @@
     "topic": "Essay — Polity/Econ",
     "topics": [
       "Essay — Polity/Econ"
+    ],
+    "subTopics": [
+      "Space technology for development"
+    ],
+    "keyPointers": [
+      "Own launchers and satellites",
+      "Moon and Mars missions at low cost",
+      "Weather, crop and disaster images",
+      "Communication and navigation for remote areas",
+      "A prestige mission that also serves a village"
     ],
     "vault_path": null,
     "points": [
@@ -878,6 +999,16 @@
     "topics": [
       "Essay — Polity/Econ"
     ],
+    "subTopics": [
+      "Nanotechnology and India's mission"
+    ],
+    "keyPointers": [
+      "Matter changed at a tiny scale behaves differently",
+      "Medicine, chips, solar cells, stronger materials, clean water",
+      "A public mission for research and people",
+      "Use in health, energy and farming",
+      "Risk and regulation have to travel with the use"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -926,6 +1057,16 @@
     "topic": "Environment",
     "topics": [
       "Environment"
+    ],
+    "subTopics": [
+      "Displacement and rehabilitation"
+    ],
+    "keyPointers": [
+      "Dams, mines and corridors move whole settlements",
+      "Loss of land, work and a community",
+      "Social impact study before acquisition",
+      "Consent of the gram sabha where the law requires it",
+      "Land for land, a livelihood, and a site with services"
     ],
     "vault_path": null,
     "points": [
@@ -1011,6 +1152,16 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Urban flood preparedness"
+    ],
+    "keyPointers": [
+      "Built-over lakes and drains",
+      "Hard surfaces and choked drains",
+      "Short, very heavy rain",
+      "Maps of risk, cleared drains and an early warning",
+      "A sponge city lets water into the ground"
     ],
     "vault_path": null,
     "points": [
@@ -1103,6 +1254,16 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Cloudburst risk in the Himalaya"
+    ],
+    "keyPointers": [
+      "A violent local downpour sets off flash floods and slides",
+      "Map the hazard",
+      "Radar that warns a few hours ahead",
+      "Do not build in the drain path",
+      "Drills and a safe route uphill"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1194,6 +1355,16 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Hot pursuit and surgical strikes"
+    ],
+    "keyPointers": [
+      "Chase across a border right after an attack",
+      "A limited strike on a launch pad, not a war",
+      "Shows a cost will be imposed",
+      "Raises domestic morale",
+      "Risk of escalation and of a habit of force"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1248,6 +1419,16 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Terrorism as an industry"
+    ],
+    "keyPointers": [
+      "Money from drugs, ransom, extortion and a patron state",
+      "Recruitment as marketing",
+      "Arms, documents and safe houses as logistics",
+      "Local branches of a larger brand",
+      "It persists because the trade pays"
     ],
     "vault_path": null,
     "points": [
@@ -1320,6 +1501,16 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Border management"
+    ],
+    "keyPointers": [
+      "Mountains, rivers, forests and a long coast",
+      "Terror, smuggling and an unsettled line",
+      "Fences, sensors and more posts",
+      "Talks where the neighbour is friendly",
+      "One template cannot fit every border"
     ],
     "vault_path": null,
     "points": [
@@ -1405,6 +1596,16 @@
     "topic": "Essay — Society",
     "topics": [
       "Essay — Society"
+    ],
+    "subTopics": [
+      "Social media and subversion"
+    ],
+    "keyPointers": [
+      "Recruitment, live violence and rumour",
+      "Mob attacks fed by forwards",
+      "Election manipulation",
+      "Trace, take down, and punish the organiser",
+      "Do not hand the state a switch for all speech"
     ],
     "vault_path": null,
     "points": [

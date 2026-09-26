@@ -20,6 +20,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Corporate social responsibility and inclusive growth"
+    ],
+    "keyPointers": [
+      "A share of profit is now a duty for larger firms",
+      "It can fund a local need the budget misses",
+      "It can also be a token or a related-party spend",
+      "Inclusion needs the money to leave the balance sheet"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -74,6 +83,15 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Fiscal responsibility law"
+    ],
+    "keyPointers": [
+      "Deficits and debt were crowding out and risking a crisis",
+      "The Act set a path for the deficit",
+      "A crisis and a political waiver broke the path",
+      "A number without a will is a pause"
     ],
     "vault_path": null,
     "points": [
@@ -130,6 +148,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Tax expenditure"
+    ],
+    "keyPointers": [
+      "A tax break is spending done through the tax code",
+      "Housing deductions favour those who already borrow",
+      "The poor who do not pay that tax get nothing",
+      "A concession should be judged like a subsidy"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -184,6 +211,15 @@
     "topic": "Agriculture",
     "topics": [
       "Agriculture"
+    ],
+    "subTopics": [
+      "Food security law"
+    ],
+    "keyPointers": [
+      "A legal grain entitlement can cut hunger",
+      "The fear is cost, leakage and a cereal bias",
+      "Identification and storage decide the result",
+      "A law does not mill the grain or stop malnutrition alone"
     ],
     "vault_path": null,
     "points": [
@@ -240,6 +276,15 @@
     "topics": [
       "Agriculture"
     ],
+    "subTopics": [
+      "Farm subsidies and cropping pattern"
+    ],
+    "keyPointers": [
+      "Fertiliser, power, water and a price support",
+      "They make rice, wheat and sugarcane safer than a pulse",
+      "The large farmer captures more",
+      "A subsidy can steady income and still wreck the soil"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -294,6 +339,15 @@
     "topic": "Ancient History",
     "topics": [
       "Ancient History"
+    ],
+    "subTopics": [
+      "Meat, poultry and the pink revolution"
+    ],
+    "keyPointers": [
+      "Animal protein and a rural job",
+      "Hygiene, cold chain and a disease risk",
+      "Export demand can raise the local price",
+      "Nutrition needs the chain, not only the slogan"
     ],
     "vault_path": null,
     "points": [
@@ -350,6 +404,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Indian firms after liberalisation"
+    ],
+    "keyPointers": [
+      "Competition forced scale, quality and a foreign buy",
+      "Some Indian firms became multinationals",
+      "Many stayed small and lost the home market",
+      "Competing well is uneven, sector by sector"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -404,6 +467,15 @@
     "topic": "Essay — Polity/Econ",
     "topics": [
       "Essay — Polity/Econ"
+    ],
+    "subTopics": [
+      "Land reform, yield and poverty"
+    ],
+    "keyPointers": [
+      "A secure tiller invests",
+      "Ceilings and tenancy worked where records and will existed",
+      "Productivity rose more from seed and water than from land law",
+      "Poverty falls when the tiller both owns and can sell"
     ],
     "vault_path": null,
     "points": [
@@ -466,6 +538,15 @@
     "topics": [
       "Essay — Polity/Econ"
     ],
+    "subTopics": [
+      "Retail FDI and supply chains"
+    ],
+    "keyPointers": [
+      "A big retailer can build a cold store and cut a middle layer",
+      "It can also squeeze the small shop and the farmer's price",
+      "The chain improves only if the farmer can enter it",
+      "Back-end investment was the stated bargain"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -515,6 +596,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Political resistance to retail FDI"
+    ],
+    "keyPointers": [
+      "A joint venture does not remove the fear of a foreign chain",
+      "Kirana shops and state politics blocked the door",
+      "Conditions on local sourcing were the compromise",
+      "Permission on paper is not a store on the ground"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -563,6 +653,15 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Why GST was delayed"
+    ],
+    "keyPointers": [
+      "One tax to end cascading and state border checks",
+      "States feared a loss of their own tax",
+      "Compensation, petroleum and the rate were the fights",
+      "The rationale was clear; the trust was not"
     ],
     "vault_path": null,
     "points": [
@@ -619,6 +718,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Green energy corridor"
+    ],
+    "keyPointers": [
+      "Wind and solar are stranded without a line",
+      "A corridor moves renewable power to the load",
+      "It eases the coal plant, it does not replace the grid overnight",
+      "Transmission is the missing half of green power"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -674,6 +782,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Criticism of public-private partnerships"
+    ],
+    "keyPointers": [
+      "Private money built roads and airports",
+      "Renegotiation, a user fee and a hidden guarantee drew fire",
+      "Risk often returned to the public",
+      "A PPP fails when the contract hides the true cost"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -728,6 +845,15 @@
     "topic": "Constitution",
     "topics": [
       "Constitution"
+    ],
+    "subTopics": [
+      "Section 3(d) and evergreening"
+    ],
+    "keyPointers": [
+      "A new form of an old drug is not a new invention unless it works better",
+      "The Novartis fight was the occasion",
+      "It keeps a life-saving drug from a trivial patent",
+      "The balance is invention versus access"
     ],
     "vault_path": null,
     "points": [
@@ -790,6 +916,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Fixed-dose combinations"
+    ],
+    "keyPointers": [
+      "Two drugs in one pill can improve use",
+      "A bad mix hides a dose and adds a side effect",
+      "Many combinations were sold without a real need",
+      "Merit is compliance; demerit is an irrational mix"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -844,6 +979,15 @@
     "topic": "Economy",
     "topics": [
       "Economy"
+    ],
+    "subTopics": [
+      "Cricket decision review and ball-tracking"
+    ],
+    "keyPointers": [
+      "A team can challenge an umpire's call",
+      "Hawk-eye, snick and a replay are the parts",
+      "Tracking predicts a path the camera did not fully see",
+      "Technology reduces error and still leaves a margin"
     ],
     "vault_path": null,
     "points": [
@@ -900,6 +1044,15 @@
     "topics": [
       "Thinkers"
     ],
+    "subTopics": [
+      "Digital signature"
+    ],
+    "keyPointers": [
+      "A cryptographic mark that the sender is who they claim",
+      "Authentication is proving that identity",
+      "It can show the document was not altered",
+      "Trust sits in the key, not in a scanned ink signature"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -948,6 +1101,15 @@
     "topic": "Essay — Polity/Econ",
     "topics": [
       "Essay — Polity/Econ"
+    ],
+    "subTopics": [
+      "3D printing"
+    ],
+    "keyPointers": [
+      "An object is built layer by layer from a digital file",
+      "Custom parts, less waste, a local workshop",
+      "Slow, costly material, and a weak large part",
+      "It changes making; it does not replace every factory"
     ],
     "vault_path": null,
     "points": [
@@ -1004,6 +1166,15 @@
     "topics": [
       "Ancient History"
     ],
+    "subTopics": [
+      "Fibre-reinforced composites"
+    ],
+    "keyPointers": [
+      "A fibre in a resin, stronger for its weight than metal",
+      "Used in airframes and car panels",
+      "Lighter means less fuel",
+      "Cost, repair and recycling are the limits"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1059,6 +1230,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Run-of-river hydro"
+    ],
+    "keyPointers": [
+      "It uses the flow, with little storage",
+      "A dam holds a reservoir and floods a valley",
+      "Less displacement, and less power in a dry month",
+      "It is not impact-free: the river's pulse still changes"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1107,6 +1287,15 @@
     "topic": "Environment",
     "topics": [
       "Environment"
+    ],
+    "subTopics": [
+      "Pre-disaster risk assessment"
+    ],
+    "keyPointers": [
+      "Hazard is the event; vulnerability is who cannot cope",
+      "A map of both tells an administrator where to spend",
+      "Key areas: schools, hospitals, the poor settlement, the drain",
+      "Assessment without a drill is a report"
     ],
     "vault_path": null,
     "points": [
@@ -1163,6 +1352,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "Illegal mining and no-go forests"
+    ],
+    "keyPointers": [
+      "Rivers, forests and a local livelihood are the cost",
+      "Revenue is lost and violence can follow",
+      "Go and no-go tried to keep dense forest out of coal",
+      "A line on a map works only if the mine is actually stopped"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1218,6 +1416,15 @@
     "topics": [
       "Environment"
     ],
+    "subTopics": [
+      "National Water Policy and the Ganga"
+    ],
+    "keyPointers": [
+      "Treat the basin, price the use, and protect the groundwater",
+      "The Ganga needs sewage stopped, not only a riverfront",
+      "Industry, towns and faith uses all load the river",
+      "A policy fails if the drain is not treated"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1266,6 +1473,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Money laundering"
+    ],
+    "keyPointers": [
+      "Dirty money enters the legal economy",
+      "It funds crime and buys influence",
+      "Banks, shell firms and a cross-border transfer",
+      "Sovereignty is the ability to know whose money it is"
     ],
     "vault_path": null,
     "points": [
@@ -1322,6 +1538,15 @@
     "topics": [
       "Economy"
     ],
+    "subTopics": [
+      "Social networks and security"
+    ],
+    "keyPointers": [
+      "A profile is a map of a person and a unit",
+      "Radicalisation, a leak and a fake crowd",
+      "The site is private profit and public risk",
+      "Security is use and a law, not only a block"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1376,6 +1601,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Cyber warfare"
+    ],
+    "keyPointers": [
+      "A political attack on a grid, a bank or a command system",
+      "State and criminal actors both try",
+      "India's networks are wide and unevenly defended",
+      "A computer emergency team is not a full defence"
     ],
     "vault_path": null,
     "points": [
@@ -1432,6 +1666,15 @@
     "topics": [
       "Internal Security"
     ],
+    "subTopics": [
+      "Fifth Schedule and left-wing extremism"
+    ],
+    "keyPointers": [
+      "Article 244 was meant to guard tribal land and custom",
+      "Governors rarely used the special power",
+      "Land passed out; the council stayed weak",
+      "Extremism grew in the gap the Constitution had already named"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1486,6 +1729,15 @@
     "topic": "Internal Security",
     "topics": [
       "Internal Security"
+    ],
+    "subTopics": [
+      "Borders and internal security"
+    ],
+    "keyPointers": [
+      "A river, a hill and a coast cannot all be fenced the same way",
+      "Migration, smuggling and an armed crossing use the same gap",
+      "The internal problem often starts at the line",
+      "Management is posts, papers and a neighbour, together"
     ],
     "vault_path": null,
     "points": [

@@ -20,6 +20,15 @@
     "topics": [
       "Essay — Polity/Econ"
     ],
+    "subTopics": [
+      "Sangam literature as social history"
+    ],
+    "keyPointers": [
+      "Thin political chronology, vivid daily life",
+      "Five landscapes, each with its own work",
+      "Trade, towns and a war ethic",
+      "It shows society more than a king-list"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -68,6 +77,16 @@
     "topic": "Indian Culture",
     "topics": [
       "Indian Culture"
+    ],
+    "subTopics": [
+      "Tandava in inscriptions",
+      "Chola temples"
+    ],
+    "keyPointers": [
+      "Shiva's dance of creation and destruction",
+      "Rules of the dance carved and recorded",
+      "Chola temples as a high point of the southern style",
+      "Stone, scale and a living ritual space"
     ],
     "vault_path": null,
     "points": [
@@ -118,6 +137,15 @@
     "topics": [
       "Indian Society"
     ],
+    "subTopics": [
+      "Women in the freedom struggle"
+    ],
+    "keyPointers": [
+      "They left the home for the street and the jail",
+      "Salt, khadi and Quit India",
+      "Across faith and class, not one type of woman",
+      "The movement became a mass movement because they joined"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -166,6 +194,15 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "Foreigners in the Indian freedom struggle"
+    ],
+    "keyPointers": [
+      "They chose India and its fight",
+      "Annie Besant, the Irish and others in Congress politics",
+      "They brought a world audience",
+      "Their role was real and still auxiliary to Indian leadership"
     ],
     "vault_path": null,
     "points": [
@@ -216,6 +253,15 @@
     "topics": [
       "Indian Society"
     ],
+    "subTopics": [
+      "Dalhousie and modern India"
+    ],
+    "keyPointers": [
+      "Rail, telegraph and the public works",
+      "Annexations and the Doctrine of Lapse",
+      "He built tools of rule, not an Indian modernity",
+      "The same changes fed the revolt of 1857"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -264,6 +310,15 @@
     "topic": "Governance",
     "topics": [
       "Governance"
+    ],
+    "subTopics": [
+      "Bhoodan and Gramdan"
+    ],
+    "keyPointers": [
+      "Vinoba asked land as a gift, not by law",
+      "Gramdan asked the whole village to share",
+      "The aim was land to the tiller without a fight",
+      "Gifts came; lasting titles and use often did not"
     ],
     "vault_path": null,
     "points": [
@@ -314,6 +369,15 @@
     "topics": [
       "Indian Society"
     ],
+    "subTopics": [
+      "Jai Jawan Jai Kisan"
+    ],
+    "keyPointers": [
+      "Shastri tied the soldier and the farmer in one line",
+      "It answered war and a food shortage together",
+      "Defence and the harvest were both national work",
+      "The slogan still names two unfinished duties"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -362,6 +426,15 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "Maulana Azad"
+    ],
+    "keyPointers": [
+      "A scholar who argued for a composite nation",
+      "Congress leadership against partition",
+      "Education minister who built institutions",
+      "Unity of faiths was his political point"
     ],
     "vault_path": null,
     "points": [
@@ -412,6 +485,16 @@
     "topics": [
       "Indian Society"
     ],
+    "subTopics": [
+      "Tashkent Agreement"
+    ],
+    "keyPointers": [
+      "It followed the 1965 war",
+      "Both sides agreed to withdraw to old positions",
+      "No settlement of Kashmir",
+      "Shastri's death overshadowed the paper",
+      "It stopped the fighting, not the dispute"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -460,6 +543,15 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "India and the birth of Bangladesh"
+    ],
+    "keyPointers": [
+      "A refugee flood and a crackdown next door",
+      "Strategic fear of a hostile east and west",
+      "Mukti Bahini and then the 1971 war",
+      "The compulsion was humanitarian and security together"
     ],
     "vault_path": null,
     "points": [
@@ -510,6 +602,15 @@
     "topics": [
       "Ancient History"
     ],
+    "subTopics": [
+      "Japan's late industrialisation"
+    ],
+    "keyPointers": [
+      "The state led, the West had private pioneers",
+      "It borrowed technology and kept its own order",
+      "It skipped some early misery and some early freedom",
+      "Latecomer did not mean a copy"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -558,6 +659,15 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "Artificial borders in Africa"
+    ],
+    "keyPointers": [
+      "Borders followed claims, not peoples",
+      "The Berlin scramble drew lines on a map",
+      "One people split, rival peoples locked together",
+      "The states are real now, the accidents remain"
     ],
     "vault_path": null,
     "points": [
@@ -608,6 +718,15 @@
     "topics": [
       "World History"
     ],
+    "subTopics": [
+      "American Revolution and mercantilism"
+    ],
+    "keyPointers": [
+      "Trade was tied to the mother country",
+      "Taxes without a voice in the bargain",
+      "The political cry rode an economic grievance",
+      "Liberty and the market were argued together"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -656,6 +775,15 @@
     "topic": "Essay — Polity/Econ",
     "topics": [
       "Essay — Polity/Econ"
+    ],
+    "subTopics": [
+      "Fighting the Great Depression"
+    ],
+    "keyPointers": [
+      "Public works and a deficit, not only balanced books",
+      "Bank reform and a safer deposit",
+      "Tariffs and devaluation, often harmful",
+      "The lesson was that the state must spend when private demand dies"
     ],
     "vault_path": null,
     "points": [
@@ -706,6 +834,15 @@
     "topics": [
       "Indian Society"
     ],
+    "subTopics": [
+      "Social costs of fast urbanisation"
+    ],
+    "keyPointers": [
+      "Slums, crowding and a broken drain",
+      "A split between the new migrant and the old resident",
+      "Crime, loneliness and a weaker family net",
+      "The city grew faster than its services"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -754,6 +891,15 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "Men in women's organisations"
+    ],
+    "keyPointers": [
+      "A women-only body can still mirror the old roles",
+      "Men who join can change the home, not only the meeting",
+      "Inclusion is not handing the organisation to men",
+      "Bias falls when both are responsible"
     ],
     "vault_path": null,
     "points": [
@@ -804,6 +950,15 @@
     "topics": [
       "Indian Society"
     ],
+    "subTopics": [
+      "Globalisation and the elderly"
+    ],
+    "keyPointers": [
+      "Children move; the joint roof thins",
+      "Care becomes a paid service the poor cannot buy",
+      "A pension and a phone help some",
+      "Isolation is the new risk, not only poverty"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -852,6 +1007,15 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "Regionalism and new states"
+    ],
+    "keyPointers": [
+      "A feeling of neglect becomes a demand for a capital",
+      "Language, culture and uneven growth feed it",
+      "A new state can answer a real grievance",
+      "It can also multiply claims without fixing the cause"
     ],
     "vault_path": null,
     "points": [
@@ -902,6 +1066,16 @@
     "topics": [
       "Physical Geography"
     ],
+    "subTopics": [
+      "Continental drift",
+      "Naming of cyclones"
+    ],
+    "keyPointers": [
+      "Wegener: one landmass, then a drift",
+      "Fit of coasts, fossils and matching rocks",
+      "Cyclone names are listed in advance by region",
+      "A name is for warning, not for blame"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -950,6 +1124,16 @@
     "topic": "Indian Society",
     "topics": [
       "Indian Society"
+    ],
+    "subTopics": [
+      "Urban heat islands",
+      "Temperature inversion"
+    ],
+    "keyPointers": [
+      "Concrete, tall blocks and less green make a city hotter",
+      "The city stores the day's heat",
+      "An inversion puts cold air under warm air",
+      "Smoke and fog then sit on the people"
     ],
     "vault_path": null,
     "points": [
@@ -1006,6 +1190,15 @@
     "topics": [
       "Physical Geography"
     ],
+    "subTopics": [
+      "Location of hot deserts"
+    ],
+    "keyPointers": [
+      "Sinking dry air of the subtropical belt",
+      "Cold currents on the west coast kill rain",
+      "Rain shadows behind a range",
+      "The same latitude inland can still be wet if the wind brings moisture"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1054,6 +1247,16 @@
     "topic": "Physical Geography",
     "topics": [
       "Physical Geography"
+    ],
+    "subTopics": [
+      "Himalayan landslides",
+      "No deltas on the west coast"
+    ],
+    "keyPointers": [
+      "Young, loose, quake-prone slopes",
+      "The Ghats are older, harder rock",
+      "West-flowing rivers are short and steep",
+      "They meet a deep sea before a delta can grow"
     ],
     "vault_path": null,
     "points": [
@@ -1110,6 +1313,16 @@
     "topics": [
       "Ancient History"
     ],
+    "subTopics": [
+      "Shift of sugar mills south",
+      "Decentralised cotton textiles"
+    ],
+    "keyPointers": [
+      "Longer crushing and sweeter cane in the tropics",
+      "Cooperatives and a sure market",
+      "Cotton cloth can be made in small looms near cotton or near the buyer",
+      "Power, labour and history scattered the mills"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1165,6 +1378,15 @@
     "topics": [
       "Indian Society"
     ],
+    "subTopics": [
+      "Uranium and thorium for atomic energy"
+    ],
+    "keyPointers": [
+      "Uranium is concentrated in a few countries",
+      "India's own uranium is limited",
+      "Thorium is abundant and is the later stage",
+      "Fuel geography shapes the programme"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -1213,6 +1435,15 @@
     "topic": "Physical Geography",
     "topics": [
       "Physical Geography"
+    ],
+    "subTopics": [
+      "Shale oil and gas in India"
+    ],
+    "keyPointers": [
+      "Basins such as Cambay and Krishna-Godavari are named",
+      "Fracturing needs huge water and can foul groundwater",
+      "Land, technology and a dense countryside",
+      "The reserve on paper is not a well in the ground"
     ],
     "vault_path": null,
     "points": [

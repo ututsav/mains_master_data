@@ -20,6 +20,16 @@
     "topics": [
       "Ethics basics"
     ],
+    "subTopics": [
+      "Ethics and well-being"
+    ],
+    "keyPointers": [
+      "Fairness lowers conflict",
+      "Care and giving hold a society together",
+      "A clean conscience is part of a good life",
+      "Trust makes cooperation cheaper",
+      "Stewardship of people and nature"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -87,6 +97,16 @@
     "topics": [
       "Aptitude"
     ],
+    "subTopics": [
+      "Impartiality and non-partisanship"
+    ],
+    "keyPointers": [
+      "Treat people by rule, not by caste, faith or party",
+      "The election body must not pick a side",
+      "An officer who acts as a party worker loses trust",
+      "Policy should survive a change of government",
+      "Without this, office becomes patronage"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -148,6 +168,15 @@
     "topics": [
       "Governance"
     ],
+    "subTopics": [
+      "Three meanings of governance"
+    ],
+    "keyPointers": [
+      "Governance is how a decision is made and carried out",
+      "Good governance adds law, voice, fairness and an answer for results",
+      "Ethical governance adds honesty and no hidden interest",
+      "Efficiency without honesty is not enough"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -203,6 +232,18 @@
     "topics": [
       "Thinkers"
     ],
+    "subTopics": [
+      "Gandhi's seven sins"
+    ],
+    "keyPointers": [
+      "Wealth without work",
+      "Pleasure without conscience",
+      "Knowledge without character",
+      "Commerce without morality",
+      "Science without humanity",
+      "Worship without sacrifice",
+      "Politics without principles"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -251,6 +292,16 @@
     "topic": "Thinkers",
     "topics": [
       "Thinkers"
+    ],
+    "subTopics": [
+      "Rawls and Indian social justice"
+    ],
+    "keyPointers": [
+      "Equal basic liberties",
+      "Inequality allowed only if the worst-off gain",
+      "A fair chance, not only a formal right",
+      "Reservation and food or work schemes echo the difference principle",
+      "Caste and capture still break the fair chance"
     ],
     "vault_path": null,
     "points": [
@@ -306,6 +357,16 @@
     "topic": "Ethics basics",
     "topics": [
       "Ethics basics"
+    ],
+    "subTopics": [
+      "A public services code"
+    ],
+    "keyPointers": [
+      "Integrity, impartiality and service written as a code",
+      "Meant to be enforceable, beyond conduct rules",
+      "Declare assets and protect a whistleblower",
+      "An ethics body to enforce it",
+      "Recommended, not brought into force"
     ],
     "vault_path": null,
     "points": [
@@ -368,6 +429,16 @@
     "topics": [
       "Thinkers"
     ],
+    "subTopics": [
+      "Kautilya's view of corruption"
+    ],
+    "keyPointers": [
+      "Many ways an official can steal",
+      "The treasury leaks",
+      "Duty is replaced by a private gain",
+      "Projects slow and turn shoddy",
+      "Surprise checks, audits and hard punishment"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -429,6 +500,16 @@
     "topics": [
       "Aptitude"
     ],
+    "subTopics": [
+      "Behaviour change for sanitation"
+    ],
+    "keyPointers": [
+      "People copy a leader who builds a toilet",
+      "Shame and praise move a village faster than a fine alone",
+      "A child's health is a stronger argument than a slogan",
+      "A pledge and public recognition",
+      "The scheme needed habit, not only a structure"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -478,6 +559,17 @@
     "topics": [
       "Ethics basics"
     ],
+    "subTopics": [
+      "Law and ethics"
+    ],
+    "keyPointers": [
+      "Law uses a written rule and a punishment",
+      "Ethics uses conscience and the approval of others",
+      "Both reduce harm",
+      "Law is legal or illegal; ethics is a matter of degree",
+      "A lie can be legal and still wrong",
+      "Law is the floor; ethics asks for more"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -514,6 +606,16 @@
     "topic": "Aptitude",
     "topics": [
       "Aptitude"
+    ],
+    "subTopics": [
+      "Unlearning harmful social attitudes"
+    ],
+    "keyPointers": [
+      "Caste, patriarchy and a shrug at corruption",
+      "Fatalism and dislike of dissent",
+      "Schools and training can name these habits",
+      "Seniors who behave well matter more than a lecture",
+      "A rural posting and a safe way to report wrongdoing"
     ],
     "vault_path": null,
     "points": [
@@ -552,6 +654,16 @@
     "topics": [
       "Ethics basics"
     ],
+    "subTopics": [
+      "Managing anger"
+    ],
+    "keyPointers": [
+      "It becomes abuse, a bad order and a broken team",
+      "Judgment narrows",
+      "Health and relationships pay",
+      "Notice the trigger and pause",
+      "Reframe, speak firmly, do not attack"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -588,6 +700,16 @@
     "topic": "Ethics basics",
     "topics": [
       "Ethics basics"
+    ],
+    "subTopics": [
+      "Bureaucratic morality and personal conscience"
+    ],
+    "keyPointers": [
+      "Follow the law and the consequence, not only a private belief",
+      "Neutrality and hierarchy are part of the office",
+      "A personal conscience can still refuse a cruel illegal order",
+      "Rule-following without judgment becomes cruelty",
+      "The office has its own ethic, not an empty one"
     ],
     "vault_path": null,
     "points": [
@@ -656,6 +778,16 @@
     "topics": [
       "Ethics basics"
     ],
+    "subTopics": [
+      "Silence about industrial harm"
+    ],
+    "keyPointers": [
+      "A job is not a reason to hide harm to a village",
+      "An engineer's first duty is safety",
+      "Silence can make her part of the offence",
+      "Record it, tell a senior in writing, then a lawful authority",
+      "Do not rely on 'everyone does it'"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -692,6 +824,16 @@
     "topic": "Case Study",
     "topics": [
       "Case Study"
+    ],
+    "subTopics": [
+      "Compensation and rehabilitation of displaced people"
+    ],
+    "keyPointers": [
+      "Ask the gram sabha; do not draft in a closed room",
+      "Study the social impact and publish it",
+      "Land for land in the same region where possible",
+      "If cash, market value plus a solatium and a yearly support",
+      "A resettlement site with work, school and water"
     ],
     "vault_path": null,
     "points": [
@@ -784,6 +926,16 @@
     "topics": [
       "Case Study"
     ],
+    "subTopics": [
+      "Papers versus a welfare entitlement"
+    ],
+    "keyPointers": [
+      "The rule wants a document; the person needs the benefit now",
+      "Give a short provisional benefit",
+      "Help her get an identity through the village and the welfare office",
+      "Use any honest-intent clause already in the scheme",
+      "Do not invent a permanent waiver, and do not abandon her"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -821,6 +973,16 @@
     "topics": [
       "Case Study"
     ],
+    "subTopics": [
+      "Witnessing domestic violence by a senior"
+    ],
+    "keyPointers": [
+      "Ignoring it leaves the victim in danger",
+      "Reporting is lawful and may bring retaliation",
+      "A third path: support the victim, record facts, use a complaint channel that is not the boss",
+      "Consequences of each option must be faced",
+      "Personal matter stops where violence starts"
+    ],
     "vault_path": null,
     "points": [
       {
@@ -857,6 +1019,16 @@
     "topic": "Modern History",
     "topics": [
       "Modern History"
+    ],
+    "subTopics": [
+      "Company goals and residents' concerns"
+    ],
+    "keyPointers": [
+      "Investment against a peaceful neighbourhood",
+      "The state promotes the project and must protect people",
+      "Right to life includes a liveable place",
+      "Hear residents before the court is the only door",
+      "Change design, compensate, and publish the impact"
     ],
     "vault_path": null,
     "points": [
@@ -942,6 +1114,16 @@
     "topic": "Ethics basics",
     "topics": [
       "Ethics basics"
+    ],
+    "subTopics": [
+      "Regulating NGOs without blocking them"
+    ],
+    "keyPointers": [
+      "One window and a time limit",
+      "Small local groups should not face the same file as foreign-funded ones",
+      "An online permission trail",
+      "Audit the money, do not choke the purpose",
+      "Control fraud; do not treat every NGO as a suspect"
     ],
     "vault_path": null,
     "points": [
