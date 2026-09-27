@@ -1,514 +1,515 @@
 [
   {
     "uid": "UPPSC_2021_Essay_QA1",
-    "paper_title": "Essay",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QA.1",
+    "year": 2021,
+    "paper_title": "Essay",
+    "q_number": "A1",
     "marks": 50,
+    "word_limit": 700,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 Essay",
-    "last_updated": 1778953000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 Essay",
     "question_text": "Art and social liberty.",
     "subjectId": "essay-lit",
     "subjects": [
-      "Essay — Literature & Society"
+      "Essay"
     ],
-    "topic": "सामाजिक क्षेत्र",
+    "topic": "Art and social liberty",
     "topics": [
-      "सामाजिक क्षेत्र"
+      "Art and social liberty"
     ],
     "subTopics": [
       "Art and liberty"
     ],
     "keyPointers": [
-      "Art needs room to say what power dislikes",
-      "Liberty without art is thinner",
-      "Each protects the other"
+      "Patronage and art",
+      "Freedom of speech and its limits",
+      "Diversity and pluralism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "An art can show a life a power would rather hide",
+      "Social liberty is the room to make that art and to see it",
+      "The link breaks when the work is allowed only if it flatters"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define the intrinsic relationship between art and society, where art acts as both a mirror reflecting societal truths and a catalyst for social liberation.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Define the intrinsic relationship between art and society, where art acts as both a mirror reflecting societal truths and a catalyst for social liberation."
       },
       {
         "section": "Body",
-        "text": "Discuss historical contexts: Illustrate how art forms (literature, painting, music) have historically challenged oppressive regimes, dogmas, and caste hierarchies (e.g., Bhakti movement poetry, Renaissance art, Dalit literature).",
         "order": 2,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Discuss historical contexts: Illustrate how art forms (literature, painting, music) have historically challenged oppressive regimes, dogmas, and caste hierarchies (e.g., Bhakti movement poetry, Renaissance art, Dalit literature)."
       },
       {
         "section": "Body",
-        "text": "Analyze modern manifestations: Explore contemporary mediums like cinema, street theatre, and digital art acting as powerful tools for advocating gender equality, LGBTQ+ rights, and freedom of expression against authoritarianism.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Analyze modern manifestations: Explore contemporary mediums like cinema, street theatre, and digital art acting as powerful tools for advocating gender equality, LGBTQ+ rights, and freedom of expression against authoritarianism."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that true social liberty is unattainable without artistic freedom, as art continuously pushes the boundaries of human thought and paves the way for emancipation.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Conclude that true social liberty is unattainable without artistic freedom, as art continuously pushes the boundaries of human thought and paves the way for emancipation."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_Essay_QA2",
-    "paper_title": "Essay",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QA.2",
+    "year": 2021,
+    "paper_title": "Essay",
+    "q_number": "A2",
     "marks": 50,
+    "word_limit": 700,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 Essay",
-    "last_updated": 1778953000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 Essay",
     "question_text": "Secular Politics: Needs and Challenges.",
     "subjectId": "essay-lit",
     "subjects": [
-      "Essay — Literature & Society"
+      "Essay"
     ],
-    "topic": "सामाजिक क्षेत्र",
+    "topic": "A secular politics",
     "topics": [
-      "सामाजिक क्षेत्र"
+      "A secular politics"
     ],
     "subTopics": [
       "Secular politics"
     ],
     "keyPointers": [
-      "A diverse country needs a state that does not belong to one faith",
-      "The challenge is a vote that uses religion",
-      "Need and challenge are both present"
+      "Secularism",
+      "Diversity and pluralism",
+      "Rule of law"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The need is a state that does not belong to one faith",
+      "The challenge is a vote built on that faith",
+      "Secular politics is a practice, not a word in a preamble"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define secular politics in the Indian context (Sarva Dharma Sambhava) as the equitable treatment of all religions by the state, essential for maintaining the fabric of a diverse democracy.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Define secular politics in the Indian context (Sarva Dharma Sambhava) as the equitable treatment of all religions by the state, essential for maintaining the fabric of a diverse democracy."
       },
       {
         "section": "Body",
-        "text": "Discuss the needs: Emphasize its necessity for maintaining communal harmony, protecting minority rights, preventing the tyranny of the majority, and ensuring policies are driven by scientific temper and economic welfare rather than religious dogma.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Discuss the needs: Emphasize its necessity for maintaining communal harmony, protecting minority rights, preventing the tyranny of the majority, and ensuring policies are driven by scientific temper and economic welfare rather than religious dogma."
       },
       {
         "section": "Body",
-        "text": "Discuss the challenges: Analyze hurdles like vote-bank politics, the rise of religious majoritarianism and minority appeasement, communal riots, and the deep-rooted intertwining of religion and caste in electoral mobilization.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Discuss the challenges: Analyze hurdles like vote-bank politics, the rise of religious majoritarianism and minority appeasement, communal riots, and the deep-rooted intertwining of religion and caste in electoral mobilization."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that strengthening constitutional institutions and promoting civic education are vital to insulating politics from religious polarization and safeguarding India's secular ethos.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Conclude that strengthening constitutional institutions and promoting civic education are vital to insulating politics from religious polarization and safeguarding India's secular ethos."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_Essay_QA3",
-    "paper_title": "Essay",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QA.3",
+    "year": 2021,
+    "paper_title": "Essay",
+    "q_number": "A3",
     "marks": 50,
+    "word_limit": 700,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 Essay",
-    "last_updated": 1778953000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 Essay",
     "question_text": "Status of Higher Education and Research in India: Ways of Future.",
-    "subjectId": "essay-lit",
+    "subjectId": "essay-econ",
     "subjects": [
-      "Essay — Literature & Society"
+      "Essay"
     ],
-    "topic": "सामाजिक क्षेत्र",
+    "topic": "Higher education and research",
     "topics": [
-      "सामाजिक क्षेत्र"
+      "Higher education and research"
     ],
     "subTopics": [
       "Higher education and research"
     ],
     "keyPointers": [
-      "Enrolment rose faster than quality",
-      "Research needs a lab, a teacher and a use",
-      "The way ahead is depth, not only more colleges"
+      "Education and social change",
+      "Scientific temper",
+      "Skill and employability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The status is a large enrolment and a thin research",
+      "The way forward is a teacher, a lab and a question the country needs answered",
+      "A degree without that is not yet a higher education"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Highlight India's demographic dividend and the critical role of robust higher education and research in transitioning the nation to a global knowledge economy.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Highlight India's demographic dividend and the critical role of robust higher education and research in transitioning the nation to a global knowledge economy."
       },
       {
         "section": "Body",
-        "text": "Assess the current status and challenges: Note the relatively low Gross Enrolment Ratio (GER), poor industry-academia linkages, inadequate national funding for R&D (less than 1% of GDP), the phenomenon of brain drain, and outdated curricula.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Assess the current status and challenges: Note the relatively low Gross Enrolment Ratio (GER), poor industry-academia linkages, inadequate national funding for R&D (less than 1% of GDP), the phenomenon of brain drain, and outdated curricula."
       },
       {
         "section": "Body",
-        "text": "Discuss the ways of the future: Explore the transformational vision of the National Education Policy (NEP 2020) including promoting multidisciplinary institutions, establishing the National Research Foundation (NRF), fostering private sector investment, and leveraging digital universities.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Discuss the ways of the future: Explore the transformational vision of the National Education Policy (NEP 2020) including promoting multidisciplinary institutions, establishing the National Research Foundation (NRF), fostering private sector investment, and leveraging digital universities."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that revitalizing higher education from a degree-centric, rote-learning system to an innovation-driven ecosystem is non-negotiable for achieving self-reliance (Aatmanirbhar Bharat).",
         "order": 4,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Conclude that revitalizing higher education from a degree-centric, rote-learning system to an innovation-driven ecosystem is non-negotiable for achieving self-reliance (Aatmanirbhar Bharat)."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_Essay_QB1",
-    "paper_title": "Essay",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QB.1",
+    "year": 2021,
+    "paper_title": "Essay",
+    "q_number": "B1",
     "marks": 50,
+    "word_limit": 700,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 Essay",
-    "last_updated": 1778953000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 Essay",
     "question_text": "New Agriculture Laws and Peasant Movement.",
-    "subjectId": "agri",
+    "subjectId": "essay-econ",
     "subjects": [
-      "Agriculture & Food"
+      "Essay"
     ],
-    "topic": "Agriculture",
+    "topic": "The farm laws and the peasant protest",
     "topics": [
-      "Agriculture"
+      "The farm laws and the peasant protest"
     ],
     "subTopics": [
       "Farm laws and the peasant movement"
     ],
     "keyPointers": [
-      "A law on the market met a fear of losing the assured price",
-      "The movement was about livelihood, not only a clause",
-      "A reform fails if the farmer does not trust it"
+      "Farmer income",
+      "Agricultural marketing",
+      "Agrarian relations"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The laws opened a sale outside the mandi and raised a fear of a lost price",
+      "The movement was the grower's answer",
+      "The argument is who the new market would have favoured"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Contextualize the introduction of the three farm laws in 2020 aimed at liberalizing agricultural markets, which subsequently sparked one of the largest democratic peasant movements in post-independence India.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Contextualize the introduction of the three farm laws in 2020 aimed at liberalizing agricultural markets, which subsequently sparked one of the largest democratic peasant movements in post-independence India."
       },
       {
         "section": "Body",
-        "text": "Analyze the intended benefits of the laws: Discuss the government's perspective of bypassing APMC monopolies, facilitating contract farming, and deregulating essential commodities to attract private investment and boost farmers' incomes.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Analyze the intended benefits of the laws: Discuss the government's perspective of bypassing APMC monopolies, facilitating contract farming, and deregulating essential commodities to attract private investment and boost farmers' incomes."
       },
       {
         "section": "Body",
-        "text": "Analyze the farmers' concerns and the movement: Detail the fears over the dismantling of the Minimum Support Price (MSP) regime, corporatization of agriculture, and the perceived threat to small and marginal farmers' land security, which led to the prolonged protests and eventual repeal of the laws.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Analyze the farmers' concerns and the movement: Detail the fears over the dismantling of the Minimum Support Price (MSP) regime, corporatization of agriculture, and the perceived threat to small and marginal farmers' land security, which led to the prolonged protests and eventual repeal of the laws."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while agrarian reforms are deeply necessary to resolve structural crises, they must be achieved through extensive stakeholder consultation and consensus-building to ensure mutual trust.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Conclude that while agrarian reforms are deeply necessary to resolve structural crises, they must be achieved through extensive stakeholder consultation and consensus-building to ensure mutual trust."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_Essay_QB2",
-    "paper_title": "Essay",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QB.2",
+    "year": 2021,
+    "paper_title": "Essay",
+    "q_number": "B2",
     "marks": 50,
+    "word_limit": 700,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 Essay",
-    "last_updated": 1778953000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 Essay",
     "question_text": "Citizenship Amendment Act and Inclusive India.",
-    "subjectId": "economy",
+    "subjectId": "essay-lit",
     "subjects": [
-      "Economy & Development"
+      "Essay"
     ],
-    "topic": "Economy",
+    "topic": "The citizenship law and an inclusive India",
     "topics": [
-      "Economy"
+      "The citizenship law and an inclusive India"
     ],
     "subTopics": [
       "Citizenship amendment and inclusion"
     ],
     "keyPointers": [
-      "A law that speeds citizenship for some groups raises who is left out",
-      "Inclusion is equal belonging",
-      "The essay is the tension between refuge and equal citizenship"
+      "Inclusive growth",
+      "Secularism",
+      "Diversity and pluralism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The amendment made faith a factor in who could become a citizen",
+      "Inclusive India is the claim that belonging is not a religion",
+      "The tension is between a stated relief and the line it drew"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Citizenship Amendment Act (CAA) 2019, which fast-tracked citizenship for persecuted religious minorities from neighboring countries, sparking intense national debates on India's secular identity.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Introduce the Citizenship Amendment Act (CAA) 2019, which fast-tracked citizenship for persecuted religious minorities from neighboring countries, sparking intense national debates on India's secular identity."
       },
       {
         "section": "Body",
-        "text": "Discuss the arguments in favor: Highlight the humanitarian perspective of providing a safe haven for historically persecuted minorities (Hindus, Sikhs, Christians, Parsis, Buddhists) fulfilling civilizational and partition-era moral obligations.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Discuss the arguments in favor: Highlight the humanitarian perspective of providing a safe haven for historically persecuted minorities (Hindus, Sikhs, Christians, Parsis, Buddhists) fulfilling civilizational and partition-era moral obligations."
       },
       {
         "section": "Body",
-        "text": "Discuss the arguments against and the impact on inclusivity: Examine constitutional concerns that linking citizenship to religion violates the secular ethos of Article 14, fears of marginalization among the Muslim community, and socio-demographic anxieties regarding migration in the North-Eastern states.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Discuss the arguments against and the impact on inclusivity: Examine constitutional concerns that linking citizenship to religion violates the secular ethos of Article 14, fears of marginalization among the Muslim community, and socio-demographic anxieties regarding migration in the North-Eastern states."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that true inclusivity requires balancing compassionate refugee policies with strict adherence to constitutional secularism, ensuring that no community feels alienated from the idea of India.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Conclude that true inclusivity requires balancing compassionate refugee policies with strict adherence to constitutional secularism, ensuring that no community feels alienated from the idea of India."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_Essay_QB3",
-    "paper_title": "Essay",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QB.3",
+    "year": 2021,
+    "paper_title": "Essay",
+    "q_number": "B3",
     "marks": 50,
+    "word_limit": 700,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 Essay",
-    "last_updated": 1778953000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 Essay",
     "question_text": "Effect of change in Global Environment: Challenges and way to go out.",
-    "subjectId": "geo",
+    "subjectId": "essay-econ",
     "subjects": [
-      "Geography"
+      "Essay"
     ],
-    "topic": "Environment",
+    "topic": "A changing global environment",
     "topics": [
-      "Environment"
+      "A changing global environment"
     ],
     "subTopics": [
       "Global environmental change"
     ],
     "keyPointers": [
-      "Heat, a failed rain and a rising sea",
-      "The challenge is shared and unequal",
-      "The way out is a limit that the poor can live with"
+      "Global warming",
+      "Sustainable development",
+      "Climate and agriculture",
+      "Disaster risk reduction"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A hotter season, a harder rain and a rising sea are the effects",
+      "The challenge is a country that did little of the damage and feels much of it",
+      "The way out is a cut in the cause and a preparation for what is already coming"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Establish global environmental change as the defining existential crisis of the 21st century, primarily driven by anthropogenic activities, rampant carbon emissions, and unsustainable resource extraction.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Establish global environmental change as the defining existential crisis of the 21st century, primarily driven by anthropogenic activities, rampant carbon emissions, and unsustainable resource extraction."
       },
       {
         "section": "Body",
-        "text": "Discuss the challenges and effects: Detail the impacts of rising global temperatures, melting glaciers, increasingly erratic weather events (floods, droughts, cyclones), loss of biodiversity, and the disproportionate humanitarian impact on developing nations (climate refugees, food insecurity).",
         "order": 2,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Discuss the challenges and effects: Detail the impacts of rising global temperatures, melting glaciers, increasingly erratic weather events (floods, droughts, cyclones), loss of biodiversity, and the disproportionate humanitarian impact on developing nations (climate refugees, food insecurity)."
       },
       {
         "section": "Body",
-        "text": "Discuss the ways out (mitigation and adaptation): Outline strategies such as transitioning to renewable energy (solar, wind), strictly adhering to the Paris Agreement/COP targets, transitioning to a circular economy, and ensuring climate finance for the Global South.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Discuss the ways out (mitigation and adaptation): Outline strategies such as transitioning to renewable energy (solar, wind), strictly adhering to the Paris Agreement/COP targets, transitioning to a circular economy, and ensuring climate finance for the Global South."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that combating environmental degradation requires unprecedented multilateral cooperation, political will, and a fundamental shift from mindless consumption to sustainable coexistence.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Conclude that combating environmental degradation requires unprecedented multilateral cooperation, political will, and a fundamental shift from mindless consumption to sustainable coexistence."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_Essay_QC1",
-    "paper_title": "Essay",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QC.1",
+    "year": 2021,
+    "paper_title": "Essay",
+    "q_number": "C1",
     "marks": 50,
+    "word_limit": 700,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 Essay",
-    "last_updated": 1778953000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 Essay",
     "question_text": "Global economy under COVID-19.",
-    "subjectId": "essay-lit",
+    "subjectId": "essay-econ",
     "subjects": [
-      "Essay — Literature & Society"
+      "Essay"
     ],
-    "topic": "सामाजिक क्षेत्र",
+    "topic": "The world economy under COVID-19",
     "topics": [
-      "सामाजिक क्षेत्र"
+      "The world economy under COVID-19"
     ],
     "subTopics": [
       "The world economy in the pandemic"
     ],
     "keyPointers": [
-      "A stopped movement of people and goods",
-      "The poor worker paid first",
-      "The economy showed how connected and how unequal it is"
+      "Economic growth",
+      "Unemployment",
+      "Informal economy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A stopped factory, a broken supply and a worker with no contract were the shock",
+      "The global economy shrank unevenly",
+      "Recovery followed the country that could spend and the worker who could stay home"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Outline the unprecedented shock of the COVID-19 pandemic, which simultaneously paralyzed global supply chains and plummeted aggregate demand, throwing the world into turmoil.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Outline the unprecedented shock of the COVID-19 pandemic, which simultaneously paralyzed global supply chains and plummeted aggregate demand, throwing the world into turmoil."
       },
       {
         "section": "Body",
-        "text": "Analyze the negative impacts: Detail the \"Great Lockdown\" leading to a severe global recession, soaring unemployment, the collapse of the tourism and aviation sectors, and the exacerbation of extreme poverty and wealth inequality globally.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Analyze the negative impacts: Detail the \"Great Lockdown\" leading to a severe global recession, soaring unemployment, the collapse of the tourism and aviation sectors, and the exacerbation of extreme poverty and wealth inequality globally."
       },
       {
         "section": "Body",
-        "text": "Analyze the recovery, resilience, and restructuring: Discuss massive fiscal stimuli by central banks, the accelerated digital transformation of businesses (e-commerce, remote work), and the strategic shift towards building resilient, diversified 'China-plus-one' supply chains.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Analyze the recovery, resilience, and restructuring: Discuss massive fiscal stimuli by central banks, the accelerated digital transformation of businesses (e-commerce, remote work), and the strategic shift towards building resilient, diversified 'China-plus-one' supply chains."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the pandemic acted as a harsh stress test, revealing the fragilities of hyper-globalization and underscoring the urgent need for robust global health architecture and economic safety nets.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Conclude that the pandemic acted as a harsh stress test, revealing the fragilities of hyper-globalization and underscoring the urgent need for robust global health architecture and economic safety nets."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_Essay_QC2",
-    "paper_title": "Essay",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QC.2",
+    "year": 2021,
+    "paper_title": "Essay",
+    "q_number": "C2",
     "marks": 50,
+    "word_limit": 700,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 Essay",
-    "last_updated": 1778953000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 Essay",
     "question_text": "Democracy, election and caste.",
-    "subjectId": "society",
+    "subjectId": "essay-lit",
     "subjects": [
-      "Indian Society"
+      "Essay"
     ],
-    "topic": "Indian Society",
+    "topic": "Democracy, the election and caste",
     "topics": [
-      "Indian Society"
+      "Democracy, the election and caste"
     ],
     "subTopics": [
       "Caste in elections"
     ],
     "keyPointers": [
-      "Caste organises a vote",
-      "Democracy needs that voice and is damaged when it is only that",
-      "Election is where the three meet"
+      "Regionalism",
+      "Inequality",
+      "Federalism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A vote is equal, and the group that is mobilised is often a caste",
+      "Democracy uses that bloc and is also narrowed by it",
+      "The election is where the three meet"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Describe India as the world's largest democracy, observing the unique phenomenon where the modern, egalitarian electoral process is deeply intertwined with the ancient, hierarchical social stratification of caste.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Describe India as the world's largest democracy, observing the unique phenomenon where the modern, egalitarian electoral process is deeply intertwined with the ancient, hierarchical social stratification of caste."
       },
       {
         "section": "Body",
-        "text": "Discuss the politicization of caste: Analyze how universal adult franchise transformed caste groups into powerful vote banks, leading to the rise of regional caste-based parties successfully demanding affirmative action and social justice representation.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Discuss the politicization of caste: Analyze how universal adult franchise transformed caste groups into powerful vote banks, leading to the rise of regional caste-based parties successfully demanding affirmative action and social justice representation."
       },
       {
         "section": "Body",
-        "text": "Discuss the detrimental impacts on democracy: Highlight the fragmentation of the electorate, ticket distribution based on caste arithmetic rather than merit, and the perpetuation of primordial identities over substantive developmental and economic agendas.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Discuss the detrimental impacts on democracy: Highlight the fragmentation of the electorate, ticket distribution based on caste arithmetic rather than merit, and the perpetuation of primordial identities over substantive developmental and economic agendas."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while caste politics initially democratized power by providing a voice to the marginalized, maturing the democracy requires shifting the electoral focus from identity politics to inclusive, issue-based governance.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Conclude that while caste politics initially democratized power by providing a voice to the marginalized, maturing the democracy requires shifting the electoral focus from identity politics to inclusive, issue-based governance."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_Essay_QC3",
-    "paper_title": "Essay",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QC.3",
+    "year": 2021,
+    "paper_title": "Essay",
+    "q_number": "C3",
     "marks": 50,
+    "word_limit": 700,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 Essay",
-    "last_updated": 1778953000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 Essay",
     "question_text": "India's Foreign Policy at present: condition and direction.",
-    "subjectId": "ir",
+    "subjectId": "essay-world",
     "subjects": [
-      "International Relations"
+      "Essay"
     ],
-    "topic": "International Relations",
+    "topic": "India's foreign policy now",
     "topics": [
-      "International Relations"
+      "India's foreign policy now"
     ],
     "subTopics": [
       "Present Indian foreign policy"
     ],
     "keyPointers": [
-      "More partners, more economy, and a harder neighbourhood",
-      "The condition is a larger India in a tenser world",
-      "The direction is autonomy with several friends"
+      "Strategic autonomy",
+      "Multilateralism",
+      "Trade and foreign policy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The condition is a larger economy and a harder neighbourhood",
+      "The direction is more partners and no single camp",
+      "Present policy is a balance, and it is under more pressure than before"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Contextualize India's foreign policy in a rapidly changing, multipolar world, noting its transition from the strict confines of non-alignment to a dynamic posture of strategic autonomy and multi-alignment.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Contextualize India's foreign policy in a rapidly changing, multipolar world, noting its transition from the strict confines of non-alignment to a dynamic posture of strategic autonomy and multi-alignment."
       },
       {
         "section": "Body",
-        "text": "Discuss the current condition and challenges: Detail the immediate imperatives of managing a volatile neighborhood (belligerence of China at the LAC, unstable borders with Pakistan), navigating the complex US-China strategic rivalry, and absorbing global geopolitical shocks.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Discuss the current condition and challenges: Detail the immediate imperatives of managing a volatile neighborhood (belligerence of China at the LAC, unstable borders with Pakistan), navigating the complex US-China strategic rivalry, and absorbing global geopolitical shocks."
       },
       {
         "section": "Body",
-        "text": "Discuss the direction and strategies: Highlight proactive measures like strengthening Indo-Pacific security partnerships (e.g., the Quad), acting as a leading voice for the Global South, engaging in active neighborhood diplomacy, and effectively leveraging soft power and the diaspora.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Discuss the direction and strategies: Highlight proactive measures like strengthening Indo-Pacific security partnerships (e.g., the Quad), acting as a leading voice for the Global South, engaging in active neighborhood diplomacy, and effectively leveraging soft power and the diaspora."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that India's current foreign policy trajectory is highly pragmatic and assertive, aiming to seamlessly secure its national interests while actively shaping a rule-based, equitable global order.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 Essay"
+        "text": "Conclude that India's current foreign policy trajectory is highly pragmatic and assertive, aiming to seamlessly secure its national interests while actively shaping a rule-based, equitable global order."
       }
     ]
   }
