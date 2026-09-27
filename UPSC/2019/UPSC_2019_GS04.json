@@ -1,16 +1,16 @@
 [
   {
     "uid": "UPSC_2019_GSP4_01a",
-    "paper_title": "GS Paper 4",
-    "year": 2019,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q1a",
+    "year": 2019,
+    "paper_title": "GS Paper 4",
+    "q_number": "1(a)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U19",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPSC Mains 2019 GS Paper 4",
     "question_text": "What are the basic principles of public life? Illustrate any three of these with suitable examples. (150 words)",
     "subjectId": "ethics",
     "subjects": [
@@ -24,51 +24,51 @@
       "Principles of public life"
     ],
     "keyPointers": [
-      "Selflessness, integrity, objectivity",
-      "Accountability, openness, honesty, leadership",
-      "A principle is shown in a decision, not a poster",
-      "Three examples should be concrete acts"
+      "Integrity",
+      "Impartiality",
+      "Accountability",
+      "Probity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Selflessness, objectivity, openness, honesty and leadership belong on the same list",
+      "A principle counts only if it shows in a decision",
+      "The examples have to be concrete acts, not a poster"
+    ],
     "points": [
       {
-        "section": "General",
-        "text": "Principles: selflessness, integrity, objectivity, accountability, openness, honesty, leadership.",
+        "section": "Point",
         "order": 1,
-        "cite": "U19"
+        "text": "Principles: selflessness, integrity, objectivity, accountability, openness, honesty, leadership."
       },
       {
-        "section": "General",
-        "text": "Integrity – No financial obligations. Example: Procurement officer refusing a bribe.",
+        "section": "Point",
         "order": 2,
-        "cite": "U19"
+        "text": "Integrity – No financial obligations. Example: Procurement officer refusing a bribe."
       },
       {
-        "section": "General",
-        "text": "Objectivity – Merit‑based decisions. Example: Selecting lowest bidder despite pressure.",
+        "section": "Point",
         "order": 3,
-        "cite": "U19"
+        "text": "Objectivity – Merit‑based decisions. Example: Selecting lowest bidder despite pressure."
       },
       {
-        "section": "General",
-        "text": "Accountability – Answerable for actions. Example: District collector’s public meeting on fund use.",
+        "section": "Point",
         "order": 4,
-        "cite": "U19"
+        "text": "Accountability – Answerable for actions. Example: District collector’s public meeting on fund use."
       }
     ]
   },
   {
     "uid": "UPSC_2019_GSP4_01b",
-    "paper_title": "GS Paper 4",
-    "year": 2019,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q1b",
+    "year": 2019,
+    "paper_title": "GS Paper 4",
+    "q_number": "1(b)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U19",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPSC Mains 2019 GS Paper 4",
     "question_text": "What do you understand by the term 'public servant'? Reflect on the expected role of public servant. (150 words)",
     "subjectId": "ethics",
     "subjects": [
@@ -82,63 +82,61 @@
       "The expected role of a public servant"
     ],
     "keyPointers": [
-      "A person paid to exercise public power",
-      "Expected: impartial, lawful, and answerable",
-      "The citizen is the principal, not an obstacle",
+      "Dedication to public service",
+      "Impartiality",
+      "Accountability",
+      "Civil service neutrality"
+    ],
+    "customKeyPointers": [
+      "A public servant is a person paid to use public power",
+      "The citizen is the person the office serves, not an obstacle",
       "The role is service, not status"
     ],
-    "vault_path": null,
     "points": [
       {
-        "section": "General",
-        "text": "Public servant: government employee (central/state/local) implementing policies, delivering services, upholding rule of law – a position of trust.",
+        "section": "Point",
         "order": 1,
-        "cite": "U19"
+        "text": "Public servant: government employee (central/state/local) implementing policies, delivering services, upholding rule of law – a position of trust."
       },
       {
-        "section": "General",
-        "text": "Impartial execution of laws.",
+        "section": "Point",
         "order": 2,
-        "cite": "U19"
+        "text": "Impartial execution of laws."
       },
       {
-        "section": "General",
-        "text": "Service delivery (health, education, pensions) especially for marginalised.",
+        "section": "Point",
         "order": 3,
-        "cite": "U19"
+        "text": "Service delivery (health, education, pensions) especially for marginalised."
       },
       {
-        "section": "General",
-        "text": "Protection of constitutional rights.",
+        "section": "Point",
         "order": 4,
-        "cite": "U19"
+        "text": "Protection of constitutional rights."
       },
       {
-        "section": "General",
-        "text": "Transparency and accountability.",
+        "section": "Point",
         "order": 5,
-        "cite": "U19"
+        "text": "Transparency and accountability."
       },
       {
-        "section": "General",
-        "text": "Ethical stewardship – resisting corruption and political pressure. Example: DM ensuring fair food grain distribution.",
+        "section": "Point",
         "order": 6,
-        "cite": "U19"
+        "text": "Ethical stewardship – resisting corruption and political pressure. Example: DM ensuring fair food grain distribution."
       }
     ]
   },
   {
     "uid": "UPSC_2019_GSP4_02a",
-    "paper_title": "GS Paper 4",
-    "year": 2019,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q2a",
+    "year": 2019,
+    "paper_title": "GS Paper 4",
+    "q_number": "2(a)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U19",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPSC Mains 2019 GS Paper 4",
     "question_text": "Effective utilization of public funds is crucial to meet development goals. Critically examine the reasons for under-utilization and mis-utilization of public funds and their implications. (150 words)",
     "subjectId": "ethics",
     "subjects": [
@@ -152,45 +150,45 @@
       "Under-use and misuse of public funds"
     ],
     "keyPointers": [
-      "Late release, a rigid rule and a fear of audit",
-      "A scheme designed far from the ground",
-      "Misuse is leakage; under-use is also a failure",
-      "Development goals die in an unspent grant"
+      "Accountability",
+      "Corruption",
+      "Probity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Money released late, a rigid rule and a fear of audit",
+      "A scheme designed far from the ground",
+      "Money that is stolen is a failure, and money that is never spent is also a failure"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Under‑utilisation (unspent budgets) and mis‑utilisation (diversion/waste) both harm development.",
         "order": 1,
-        "cite": "U19"
+        "text": "Under‑utilisation (unspent budgets) and mis‑utilisation (diversion/waste) both harm development."
       },
       {
         "section": "Body",
-        "text": "Reasons: Under‑utilisation – bureaucratic delays, low local capacity, rigid budgeting. Mis‑utilisation – corruption, political interference, weak audits. Implications: stalled projects, inequality, loss of trust. Example: CAG on MGNREGA.",
         "order": 2,
-        "cite": "U19"
+        "text": "Reasons: Under‑utilisation – bureaucratic delays, low local capacity, rigid budgeting. Mis‑utilisation – corruption, political interference, weak audits. Implications: stalled projects, inequality, loss of trust. Example: CAG on MGNREGA."
       },
       {
         "section": "Conclusion",
-        "text": "Remedies: outcome budgeting, real‑time dashboards, social audits, stronger PC Act.",
         "order": 3,
-        "cite": "U19"
+        "text": "Remedies: outcome budgeting, real‑time dashboards, social audits, stronger PC Act."
       }
     ]
   },
   {
     "uid": "UPSC_2019_GSP4_02b",
-    "paper_title": "GS Paper 4",
-    "year": 2019,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q2b",
+    "year": 2019,
+    "paper_title": "GS Paper 4",
+    "q_number": "2(b)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U19",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPSC Mains 2019 GS Paper 4",
     "question_text": "\"Non-performance of duty by a public servant is a form of corruption\". Do you agree with this view? Justify your answer. (150 words)",
     "subjectId": "ethics",
     "subjects": [
@@ -204,121 +202,117 @@
       "Non-performance as corruption"
     ],
     "keyPointers": [
+      "Corruption",
+      "Dedication to public service",
+      "Integrity"
+    ],
+    "customKeyPointers": [
       "Corruption is not only a bribe",
       "A file that sleeps denies a right",
-      "Agree where the delay is wilful or for a gain",
-      "Distinguish a hard constraint from a refusal to work"
+      "Agree where the delay is deliberate or for a gain, and separate that from a real constraint"
     ],
-    "vault_path": null,
     "points": [
       {
         "section": "Intro",
-        "text": "Corruption traditionally means bribery. Non‑performance can cause equal harm.",
         "order": 1,
-        "cite": "U19"
+        "text": "Corruption traditionally means bribery. Non‑performance can cause equal harm."
       },
       {
         "section": "Body",
-        "text": "I largely agree. Willful non‑performance denies rights and often hides extortion. SC called it ‘corruption by connivance’. But distinction: resource constraints ≠ corruption. Deliberate refusal for personal gain qualifies.",
-        "cite": "U19",
-        "order": 2
+        "order": 2,
+        "text": "I largely agree. Willful non‑performance denies rights and often hides extortion. SC called it ‘corruption by connivance’. But distinction: resource constraints ≠ corruption. Deliberate refusal for personal gain qualifies."
       },
       {
         "section": "Body",
-        "text": "Example: Passport officer sitting on applications unless bribed.",
-        "cite": "U19",
-        "order": 3
+        "order": 3,
+        "text": "Example: Passport officer sitting on applications unless bribed."
       },
       {
         "section": "Conclusion",
-        "text": "Willful non‑performance should be treated as corruption; systemic failures need administrative remedies.",
         "order": 4,
-        "cite": "U19"
+        "text": "Willful non‑performance should be treated as corruption; systemic failures need administrative remedies."
       }
     ]
   },
   {
     "uid": "UPSC_2019_GSP4_03a",
-    "paper_title": "GS Paper 4",
-    "year": 2019,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q3a",
+    "year": 2019,
+    "paper_title": "GS Paper 4",
+    "q_number": "3(a)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U19",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPSC Mains 2019 GS Paper 4",
     "question_text": "What is meant by the term 'constitutional morality'? How does one uphold constitutional morality? (150 words)",
-    "subjectId": "constitution",
+    "subjectId": "ethics",
     "subjects": [
-      "Constitution & Polity"
+      "Ethics"
     ],
-    "topic": "Constitution",
+    "topic": "Constitutional morality",
     "topics": [
-      "Constitution"
+      "Constitutional morality"
     ],
     "subTopics": [
       "Constitutional morality"
     ],
     "keyPointers": [
-      "Loyalty to the Constitution's values, not only to a text or a majority",
-      "Liberty, equality, fraternity and the restraint of power",
-      "Uphold it by deciding as the Constitution requires when it is unpopular",
-      "A court, an officer and a citizen all have the duty"
+      "Constitutional morality",
+      "Rule of law",
+      "Courage of conviction"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It is loyalty to the Constitution's values, not only to a line of text or to a majority",
+      "Liberty, equality, fraternity and a restraint on power",
+      "It is upheld by deciding as the Constitution requires when that decision is unpopular"
+    ],
     "points": [
       {
-        "section": "General",
-        "text": "Constitutional morality (Ambedkar): adherence to core principles – democracy, rule of law, rights, tolerance – as a spirit of reasoned deliberation.",
+        "section": "Point",
         "order": 1,
-        "cite": "U19"
+        "text": "Constitutional morality (Ambedkar): adherence to core principles – democracy, rule of law, rights, tolerance – as a spirit of reasoned deliberation."
       },
       {
-        "section": "General",
-        "text": "Follow due process even when inconvenient (e.g., accepting court orders).",
+        "section": "Point",
         "order": 2,
-        "cite": "U19"
+        "text": "Follow due process even when inconvenient (e.g., accepting court orders)."
       },
       {
-        "section": "General",
-        "text": "Protect minority rights against majoritarian impulses.",
+        "section": "Point",
         "order": 3,
-        "cite": "U19"
+        "text": "Protect minority rights against majoritarian impulses."
       },
       {
-        "section": "General",
-        "text": "Use constitutional remedies (PILs, judicial review).",
+        "section": "Point",
         "order": 4,
-        "cite": "U19"
+        "text": "Use constitutional remedies (PILs, judicial review)."
       },
       {
-        "section": "General",
-        "text": "Civic education.",
+        "section": "Point",
         "order": 5,
-        "cite": "U19"
+        "text": "Civic education."
       },
       {
-        "section": "General",
-        "text": "Political leaders avoiding hate speech and respecting parliamentary norms.",
+        "section": "Point",
         "order": 6,
-        "cite": "U19"
+        "text": "Political leaders avoiding hate speech and respecting parliamentary norms."
       }
     ]
   },
   {
     "uid": "UPSC_2019_GSP4_03b",
-    "paper_title": "GS Paper 4",
-    "year": 2019,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q3b",
+    "year": 2019,
+    "paper_title": "GS Paper 4",
+    "q_number": "3(b)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U19",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPSC Mains 2019 GS Paper 4",
     "question_text": "What is meant by 'crisis of conscience'? How does it manifest itself in the public domain? (150 words)",
     "subjectId": "ethics",
     "subjects": [
@@ -332,57 +326,55 @@
       "Crisis of conscience in public"
     ],
     "keyPointers": [
-      "Two duties both accuse you",
-      "It shows as a resignation, a dissent note, or a silence",
-      "In public it is visible when an officer will not sign",
-      "The crisis is resolved by naming the higher duty"
+      "Conscience",
+      "Conflict of values",
+      "Integrity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Two duties both accuse you",
+      "It shows as a resignation, a note of dissent, or a silence",
+      "In public it is visible when an officer will not sign"
+    ],
     "points": [
       {
-        "section": "General",
-        "text": "Crisis of conscience: inner moral conflict when ethical values clash with professional duties or legal obligations.",
+        "section": "Point",
         "order": 1,
-        "cite": "U19"
+        "text": "Crisis of conscience: inner moral conflict when ethical values clash with professional duties or legal obligations."
       },
       {
-        "section": "General",
-        "text": "Whistleblowers – fear retaliation for exposing fraud.",
+        "section": "Point",
         "order": 2,
-        "cite": "U19"
+        "text": "Whistleblowers – fear retaliation for exposing fraud."
       },
       {
-        "section": "General",
-        "text": "Doctors – forced to treat patients under unsafe conditions.",
+        "section": "Point",
         "order": 3,
-        "cite": "U19"
+        "text": "Doctors – forced to treat patients under unsafe conditions."
       },
       {
-        "section": "General",
-        "text": "Police – ordered to disperse peaceful protests.",
+        "section": "Point",
         "order": 4,
-        "cite": "U19"
+        "text": "Police – ordered to disperse peaceful protests."
       },
       {
-        "section": "General",
-        "text": "Civil servants – pressured to manipulate data for political favourites. Example: DM ordered to release land without environmental clearance.",
+        "section": "Point",
         "order": 5,
-        "cite": "U19"
+        "text": "Civil servants – pressured to manipulate data for political favourites. Example: DM ordered to release land without environmental clearance."
       }
     ]
   },
   {
     "uid": "UPSC_2019_GSP4_04a",
-    "paper_title": "GS Paper 4",
-    "year": 2019,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q4a",
+    "year": 2019,
+    "paper_title": "GS Paper 4",
+    "q_number": "4(a)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U19",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPSC Mains 2019 GS Paper 4",
     "question_text": "Explain the basic principles of citizens charter movement and bring out its importance. (150 words)",
     "subjectId": "ethics",
     "subjects": [
@@ -396,57 +388,55 @@
       "Citizen's charter"
     ],
     "keyPointers": [
+      "Citizen charter",
+      "Accountability",
+      "Transparency and the right to information"
+    ],
+    "customKeyPointers": [
       "A published standard, a time, and a remedy",
       "The citizen knows what is owed",
-      "Importance is accountability made specific",
       "A charter without a consequence is a pamphlet"
     ],
-    "vault_path": null,
     "points": [
       {
         "section": "Intro",
-        "text": "Citizens Charter: voluntary declaration by public authority detailing services, standards, and redressal.",
         "order": 1,
-        "cite": "U19"
+        "text": "Citizens Charter: voluntary declaration by public authority detailing services, standards, and redressal."
       },
       {
         "section": "Body",
-        "text": "Principles: quality, choice, standards, value for money, accountability, transparency.",
-        "cite": "U19",
-        "order": 2
+        "order": 2,
+        "text": "Principles: quality, choice, standards, value for money, accountability, transparency."
       },
       {
         "section": "Body",
-        "text": "Importance: empowers citizens, reduces corruption, improves governance, builds trust.",
-        "cite": "U19",
-        "order": 3
+        "order": 3,
+        "text": "Importance: empowers citizens, reduces corruption, improves governance, builds trust."
       },
       {
         "section": "Body",
-        "text": "Example: Passport Seva Kendras’ charter (3‑5 days for re‑issue).",
-        "cite": "U19",
-        "order": 4
+        "order": 4,
+        "text": "Example: Passport Seva Kendras’ charter (3‑5 days for re‑issue)."
       },
       {
         "section": "Conclusion",
-        "text": "Need statutory grievance redressal and social audits for effectiveness.",
         "order": 5,
-        "cite": "U19"
+        "text": "Need statutory grievance redressal and social audits for effectiveness."
       }
     ]
   },
   {
     "uid": "UPSC_2019_GSP4_04b",
-    "paper_title": "GS Paper 4",
-    "year": 2019,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q4b",
+    "year": 2019,
+    "paper_title": "GS Paper 4",
+    "q_number": "4(b)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U19",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPSC Mains 2019 GS Paper 4",
     "question_text": "There is a view that the Official Secrets Act is an obstacle to the implementation of Right to Information Act. Do you agree with the view? Discuss. (150 words)",
     "subjectId": "ethics",
     "subjects": [
@@ -460,57 +450,54 @@
       "Official secrets and the right to information"
     ],
     "keyPointers": [
-      "A secret protects a real security interest",
-      "A blanket secret hides embarrassment",
-      "The information law already has exemptions",
-      "The obstacle is over-classification, not the existence of a secret"
+      "Transparency and the right to information",
+      "Rule of law"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A secret can protect a real security interest",
+      "A blanket secret often hides embarrassment",
+      "The information law already has exemptions; the obstacle is marking too much as secret"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "OSA (1923) criminalises sharing classified info; RTI (2005) promotes transparency. Tension exists.",
         "order": 1,
-        "cite": "U19"
+        "text": "OSA (1923) criminalises sharing classified info; RTI (2005) promotes transparency. Tension exists."
       },
       {
         "section": "Body",
-        "text": "I largely agree. OSA has been used to obstruct RTI – officials overuse Section 8(1)(a) exemption by invoking OSA. Second ARC noted its colonial sweep. But limited OSA needed for genuine security.",
-        "cite": "U19",
-        "order": 2
+        "order": 2,
+        "text": "I largely agree. OSA has been used to obstruct RTI – officials overuse Section 8(1)(a) exemption by invoking OSA. Second ARC noted its colonial sweep. But limited OSA needed for genuine security."
       },
       {
         "section": "Body",
-        "text": "Problem: no clear classification or independent review.",
-        "cite": "U19",
-        "order": 3
+        "order": 3,
+        "text": "Problem: no clear classification or independent review."
       },
       {
         "section": "Body",
-        "text": "Example: CIC fined officer for rejecting RTI query under OSA without.",
-        "cite": "U19",
-        "order": 4
+        "order": 4,
+        "text": "Example: CIC fined officer for rejecting RTI query under OSA without."
       },
       {
         "section": "Conclusion",
-        "text": "Reform OSA into a National Security Information Act balancing transparency and secrecy, with oversight.",
         "order": 5,
-        "cite": "U19"
+        "text": "Reform OSA into a National Security Information Act balancing transparency and secrecy, with oversight."
       }
     ]
   },
   {
     "uid": "UPSC_2019_GSP4_05a",
-    "paper_title": "GS Paper 4",
-    "year": 2019,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q5a",
+    "year": 2019,
+    "paper_title": "GS Paper 4",
+    "q_number": "5(a)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U19",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPSC Mains 2019 GS Paper 4",
     "question_text": "What do you understand by probity in governance? Based on your understanding of the term, suggest measures for ensuring probity in government. (150 words)",
     "subjectId": "ethics",
     "subjects": [
@@ -524,69 +511,66 @@
       "Probity in governance"
     ],
     "keyPointers": [
-      "Conduct that would survive being made public",
-      "Declare a conflict, record a reason, rotate a sensitive post",
-      "Protect the person who refuses",
-      "Probity is a system, not a sermon"
+      "Probity",
+      "Conflict of interest",
+      "Transparency and the right to information",
+      "Integrity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Conduct that would survive being made public",
+      "Declare a conflict, record a reason, and rotate a sensitive post",
+      "Protect the person who refuses a wrong order"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Probity: unwavering integrity, honesty, uprightness in public affairs – beyond legality to ethical conduct.",
         "order": 1,
-        "cite": "U19"
+        "text": "Probity: unwavering integrity, honesty, uprightness in public affairs – beyond legality to ethical conduct."
       },
       {
         "section": "Body",
-        "text": "Measures: mandatory asset declaration with random verification.",
-        "cite": "U19",
-        "order": 2
+        "order": 2,
+        "text": "Measures: mandatory asset declaration with random verification."
       },
       {
         "section": "Body",
-        "text": "independent anti‑corruption bodies (Lokpal, Lokayuktas).",
-        "cite": "U19",
-        "order": 3
+        "order": 3,
+        "text": "independent anti‑corruption bodies (Lokpal, Lokayuktas)."
       },
       {
         "section": "Body",
-        "text": "Whistleblower Protection Act effectively implemented.",
-        "cite": "U19",
-        "order": 4
+        "order": 4,
+        "text": "Whistleblower Protection Act effectively implemented."
       },
       {
         "section": "Body",
-        "text": "ethics codes (Public Service Ethics Law).",
-        "cite": "U19",
-        "order": 5
+        "order": 5,
+        "text": "ethics codes (Public Service Ethics Law)."
       },
       {
         "section": "Body",
-        "text": "e‑governance and transparent procurement (GeM).",
-        "cite": "U19",
-        "order": 6
+        "order": 6,
+        "text": "e‑governance and transparent procurement (GeM)."
       },
       {
         "section": "Conclusion",
-        "text": "Probity needs systemic checks and cultural shift towards ethical leadership from the top.",
         "order": 7,
-        "cite": "U19"
+        "text": "Probity needs systemic checks and cultural shift towards ethical leadership from the top."
       }
     ]
   },
   {
     "uid": "UPSC_2019_GSP4_05b",
-    "paper_title": "GS Paper 4",
-    "year": 2019,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q5b",
+    "year": 2019,
+    "paper_title": "GS Paper 4",
+    "q_number": "5(b)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U19",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPSC Mains 2019 GS Paper 4",
     "question_text": "\"Emotional Intelligence is the ability to make your emotions work for you instead of against you\". Do you agree with this view? Discuss. (150 words)",
     "subjectId": "attitude",
     "subjects": [
@@ -600,109 +584,107 @@
       "Emotional intelligence in decisions"
     ],
     "keyPointers": [
-      "Agree: name the feeling before it names the decision",
-      "Anger and fear produce a worse order",
-      "It does not mean suppressing a moral anger",
-      "Use the emotion as information, then choose"
+      "Emotional intelligence",
+      "Moral reasoning",
+      "Attitude"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Name the feeling before it names the decision",
+      "Anger and fear produce a worse order",
+      "It does not mean suppressing a justified moral anger"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Emotional Intelligence includes self‑awareness, self‑regulation, motivation, empathy, social skills. The definition focuses on intra‑personal benefit.",
         "order": 1,
-        "cite": "U19"
+        "text": "Emotional Intelligence includes self‑awareness, self‑regulation, motivation, empathy, social skills. The definition focuses on intra‑personal benefit."
       },
       {
         "section": "Body",
-        "text": "I partially agree. It captures self‑regulation – e.g., civil servant using frustration to improve. But EI.",
-        "cite": "U19",
-        "order": 2
+        "order": 2,
+        "text": "I partially agree. It captures self‑regulation – e.g., civil servant using frustration to improve. But EI."
       },
       {
         "section": "Body",
-        "text": "Example: IAS officer Aruna Sundararajan using empathy to resolve dispute. The definition misses empathy and social skills. Still, mastering one’s emotions is vital.",
-        "cite": "U19",
-        "order": 3
+        "order": 3,
+        "text": "Example: IAS officer Aruna Sundararajan using empathy to resolve dispute. The definition misses empathy and social skills. Still, mastering one’s emotions is vital."
       },
       {
         "section": "Conclusion",
-        "text": "The definition is useful but incomplete; complete EI balances personal and interpersonal domains.",
         "order": 4,
-        "cite": "U19"
+        "text": "The definition is useful but incomplete; complete EI balances personal and interpersonal domains."
       }
     ]
   },
   {
     "uid": "UPSC_2019_GSP4_06a",
-    "paper_title": "GS Paper 4",
-    "year": 2019,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q6a",
+    "year": 2019,
+    "paper_title": "GS Paper 4",
+    "q_number": "6(a)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U19",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPSC Mains 2019 GS Paper 4",
     "question_text": "What does each of the following quotations mean to you? (a) \"An unexamined life is not worth living.\" - Socrates (150 words)",
-    "subjectId": "ethics",
+    "subjectId": "thinkers",
     "subjects": [
-      "Ethics & Values"
+      "Thinkers"
     ],
-    "topic": "Ethics basics",
+    "topic": "The unexamined life",
     "topics": [
-      "Ethics basics"
+      "The unexamined life"
     ],
     "subTopics": [
       "The examined life"
     ],
     "keyPointers": [
-      "Socrates: a life not questioned is lived by habit",
-      "For an officer, examine the order and one's own bias",
-      "Worth lies in knowing why one acts",
-      "Examination is a duty, not a luxury"
+      "Self-knowledge",
+      "Integrity",
+      "Moral reasoning"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Socrates: a life that is not questioned is lived by habit",
+      "An officer has to examine the order and also his or her own bias",
+      "The examination is a duty, not a luxury"
+    ],
     "points": [
       {
-        "section": "General",
-        "text": "Meaning: life without self‑reflection and critical questioning is meaningless.",
+        "section": "Point",
         "order": 1,
-        "cite": "U19"
+        "text": "Meaning: life without self‑reflection and critical questioning is meaningless."
       },
       {
-        "section": "General",
-        "text": "For public servant: regular ethical self‑audit – Am I serving citizens? Are my decisions fair?",
+        "section": "Point",
         "order": 2,
-        "cite": "U19"
+        "text": "For public servant: regular ethical self‑audit – Am I serving citizens? Are my decisions fair?"
       },
       {
-        "section": "General",
-        "text": "Example: T.N. Seshan examined his role and transformed the Election Commission.",
+        "section": "Point",
         "order": 3,
-        "cite": "U19"
+        "text": "Example: T.N. Seshan examined his role and transformed the Election Commission."
       },
       {
-        "section": "General",
-        "text": "The quote urges conscious, values‑driven living.",
+        "section": "Point",
         "order": 4,
-        "cite": "U19"
+        "text": "The quote urges conscious, values‑driven living."
       }
     ]
   },
   {
     "uid": "UPSC_2019_GSP4_06b",
-    "paper_title": "GS Paper 4",
-    "year": 2019,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q6b",
+    "year": 2019,
+    "paper_title": "GS Paper 4",
+    "q_number": "6(b)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U19",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPSC Mains 2019 GS Paper 4",
     "question_text": "What does each of the following quotations mean to you? (b) \"A man is but a product of his thoughts. What he thinks he becomes.\" - M. K. Gandhi (150 words)",
     "subjectId": "thinkers",
     "subjects": [
@@ -716,51 +698,50 @@
       "Thought shapes character"
     ],
     "keyPointers": [
-      "Repeated thought becomes a habit and then a person",
-      "A corrupt excuse rehearsed becomes a corrupt act",
-      "The line asks for custody of one's thinking",
-      "Character is built before the crisis"
+      "Gandhi's ethics",
+      "Attitude",
+      "Integrity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A thought that is repeated becomes a habit and then a person",
+      "A corrupt excuse rehearsed often enough becomes a corrupt act",
+      "Character is built before the crisis arrives"
+    ],
     "points": [
       {
-        "section": "General",
-        "text": "Meaning: thoughts shape character and destiny.",
+        "section": "Point",
         "order": 1,
-        "cite": "U19"
+        "text": "Meaning: thoughts shape character and destiny."
       },
       {
-        "section": "General",
-        "text": "Dwell on greed or fear, and those qualities manifest; cultivate service and truth, and you become ethical.",
+        "section": "Point",
         "order": 2,
-        "cite": "U19"
+        "text": "Dwell on greed or fear, and those qualities manifest; cultivate service and truth, and you become ethical."
       },
       {
-        "section": "General",
-        "text": "For public servant: mental discipline is key. An officer thinking ‘How can I get a bribe?’ rationalises corruption.",
+        "section": "Point",
         "order": 3,
-        "cite": "U19"
+        "text": "For public servant: mental discipline is key. An officer thinking ‘How can I get a bribe?’ rationalises corruption."
       },
       {
-        "section": "General",
-        "text": "Example: Honest tax officer who sees herself as trustee of public revenue resists collusion.",
+        "section": "Point",
         "order": 4,
-        "cite": "U19"
+        "text": "Example: Honest tax officer who sees herself as trustee of public revenue resists collusion."
       }
     ]
   },
   {
     "uid": "UPSC_2019_GSP4_06c",
-    "paper_title": "GS Paper 4",
-    "year": 2019,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q6c",
+    "year": 2019,
+    "paper_title": "GS Paper 4",
+    "q_number": "6(c)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U19",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPSC Mains 2019 GS Paper 4",
     "question_text": "What does each of the following quotations mean to you? (c) \"Where there is righteousness in the heart... there is peace in the world.\" - A. P. J. Abdul Kalam (150 words)",
     "subjectId": "ethics",
     "subjects": [
@@ -774,51 +755,50 @@
       "From a righteous heart to peace"
     ],
     "keyPointers": [
-      "The chain runs from character to home to nation to the world",
-      "Peace is built upward, not only by a treaty",
-      "For a civil servant, righteousness is an unbiased duty",
-      "Kalam's point is that public peace starts in a private honesty"
+      "Integrity",
+      "Dedication to public service",
+      "Compassion"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The chain runs from character to the home, to the nation, and then to the world",
+      "Peace is built upward, not only by a treaty",
+      "For a civil servant, righteousness begins as an unbiased duty"
+    ],
     "points": [
       {
-        "section": "General",
-        "text": "Cascading model: righteousness in heart → beauty of character → harmony in home → order in nation → peace in world.",
+        "section": "Point",
         "order": 1,
-        "cite": "U19"
+        "text": "Cascading model: righteousness in heart → beauty of character → harmony in home → order in nation → peace in world."
       },
       {
-        "section": "General",
-        "text": "Peace is built bottom‑up, not merely by treaties.",
+        "section": "Point",
         "order": 2,
-        "cite": "U19"
+        "text": "Peace is built bottom‑up, not merely by treaties."
       },
       {
-        "section": "General",
-        "text": "For civil servant: righteousness means unbiased duty, rejecting bribes, treating citizens with dignity.",
+        "section": "Point",
         "order": 3,
-        "cite": "U19"
+        "text": "For civil servant: righteousness means unbiased duty, rejecting bribes, treating citizens with dignity."
       },
       {
-        "section": "General",
-        "text": "Example: Dr. Kalam’s own life – his heart for children radiated goodwill.",
+        "section": "Point",
         "order": 4,
-        "cite": "U19"
+        "text": "Example: Dr. Kalam’s own life – his heart for children radiated goodwill."
       }
     ]
   },
   {
     "uid": "UPSC_2019_GSP4_07",
-    "paper_title": "GS Paper 4",
-    "year": 2019,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q7",
+    "year": 2019,
+    "paper_title": "GS Paper 4",
+    "q_number": "7",
     "marks": 20,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U19",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPSC Mains 2019 GS Paper 4",
     "question_text": "You are heading the rescue operations in an area affected by severe natural calamity. Thousands of people are rendered homeless and deprived of food, drinking water and other basic amenities. Rescue work has been disrupted by heavy rainfall and damage to supply routes. The local people are seething with anger against the delayed limited rescue operations. When your team reaches the affected area, the people there heckle and even assault some of the team members. One of your team members is even severely injured. Faced with this crisis, some team members plead with you to call off the operations fearing threats to their life. In such trying circumstances, what will be your response? Examine the qualities of a public servant which will be required to manage the situation. (250 words)",
     "subjectId": "cases",
     "subjects": [
@@ -832,93 +812,86 @@
       "Rescue under shortage and public anger"
     ],
     "keyPointers": [
-      "Do not abandon the injured team or the operation",
-      "Tell the crowd the truth and show one visible relief",
-      "Use a local leader and ask for another route or an air drop",
-      "Empathy plus a concrete act, not a speech alone"
+      "Compassion",
+      "Emotional intelligence",
+      "Disaster risk reduction",
+      "Conflict of values"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Do not abandon the injured team or the rescue",
+      "Tell the crowd the truth and show one visible piece of relief",
+      "Use a local leader, and ask for another route or a drop from the air"
+    ],
     "points": [
       {
-        "section": "General",
-        "text": "Secure injured team member and evacuate to safety.",
+        "section": "Point",
         "order": 1,
-        "cite": "U19"
+        "text": "Secure injured team member and evacuate to safety."
       },
       {
-        "section": "General",
-        "text": "Do not call off operations – address crowd with empathy, acknowledge suffering, explain challenges, show concrete actions.",
+        "section": "Point",
         "order": 2,
-        "cite": "U19"
+        "text": "Do not call off operations – address crowd with empathy, acknowledge suffering, explain challenges, show concrete actions."
       },
       {
-        "section": "General",
-        "text": "Deploy small team for immediate relief (food, tarpaulins) while engaging community leaders.",
+        "section": "Point",
         "order": 3,
-        "cite": "U19"
+        "text": "Deploy small team for immediate relief (food, tarpaulins) while engaging community leaders."
       },
       {
-        "section": "General",
-        "text": "Request reinforcements and alternative supply routes (air drop if needed).",
+        "section": "Point",
         "order": 4,
-        "cite": "U19"
+        "text": "Request reinforcements and alternative supply routes (air drop if needed)."
       },
       {
-        "section": "General",
-        "text": "Emotional stability – remain calm under provocation.",
+        "section": "Point",
         "order": 5,
-        "cite": "U19"
+        "text": "Emotional stability – remain calm under provocation."
       },
       {
-        "section": "General",
-        "text": "Empathy – understand victims’ desperation.",
+        "section": "Point",
         "order": 6,
-        "cite": "U19"
+        "text": "Empathy – understand victims’ desperation."
       },
       {
-        "section": "General",
-        "text": "Courage – continue despite personal risk.",
+        "section": "Point",
         "order": 7,
-        "cite": "U19"
+        "text": "Courage – continue despite personal risk."
       },
       {
-        "section": "General",
-        "text": "Communication – explain plan clearly.",
+        "section": "Point",
         "order": 8,
-        "cite": "U19"
+        "text": "Communication – explain plan clearly."
       },
       {
-        "section": "General",
-        "text": "Problem‑solving – creative logistics.",
+        "section": "Point",
         "order": 9,
-        "cite": "U19"
+        "text": "Problem‑solving – creative logistics."
       },
       {
-        "section": "General",
-        "text": "Resilience – absorb setbacks without losing focus.",
+        "section": "Point",
         "order": 10,
-        "cite": "U19"
+        "text": "Resilience – absorb setbacks without losing focus."
       },
       {
-        "section": "General",
-        "text": "Public servant must embody servant leadership – prioritising affected population while protecting team, using moral authority not force.",
+        "section": "Point",
         "order": 11,
-        "cite": "U19"
+        "text": "Public servant must embody servant leadership – prioritising affected population while protecting team, using moral authority not force."
       }
     ]
   },
   {
     "uid": "UPSC_2019_GSP4_08",
-    "paper_title": "GS Paper 4",
-    "year": 2019,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q8",
+    "year": 2019,
+    "paper_title": "GS Paper 4",
+    "q_number": "8",
     "marks": 20,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U19",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPSC Mains 2019 GS Paper 4",
     "question_text": "Honesty and uprightness are the hallmarks of a civil servant. Civil servants possessing these qualities are considered as the backbone of any strong organization. In line of duty, they take various decisions, at times some become bonafide mistakes. As long as such decisions are not taken intentionally and do not benefit personally, the officer cannot be said to be guilty. Though such decisions may, at times, lead to unforeseen adverse consequences in the long-term. In the recent past, a few instances have surfaced wherein civil servants have been implicated for bonafide mistakes. They have often been prosecuted and even imprisoned. These instances have greatly rattled the moral fibre of the civil servants. How does this trend affect the functioning of the civil services? What measures can be taken to ensure that honest civil servants are not implicated for bonafide mistakes on their part? Justify your answer. (250 words)",
     "subjectId": "cases",
     "subjects": [
@@ -932,281 +905,262 @@
       "Fear of a bona fide mistake"
     ],
     "keyPointers": [
-      "Policy paralysis and a file that moves nowhere",
-      "Demoralisation of the upright",
-      "Separate an error without gain from a corrupt act",
-      "A prior review before a criminal case protects honest decision"
+      "Integrity",
+      "Corruption",
+      "Civil service neutrality",
+      "Personal cost of doing right"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Fear of a later case can freeze a file",
+      "The upright officer is demoralised",
+      "An honest mistake without a gain has to be separated from a corrupt act"
+    ],
     "points": [
       {
-        "section": "General",
-        "text": "Risk aversion, policy paralysis.",
+        "section": "Point",
         "order": 1,
-        "cite": "U19"
+        "text": "Risk aversion, policy paralysis."
       },
       {
-        "section": "General",
-        "text": "Demoralisation of honest officers.",
+        "section": "Point",
         "order": 2,
-        "cite": "U19"
+        "text": "Demoralisation of honest officers."
       },
       {
-        "section": "General",
-        "text": "Preference for ‘file pushing’ over innovation.",
+        "section": "Point",
         "order": 3,
-        "cite": "U19"
+        "text": "Preference for ‘file pushing’ over innovation."
       },
       {
-        "section": "General",
-        "text": "Erosion of public trust.",
+        "section": "Point",
         "order": 4,
-        "cite": "U19"
+        "text": "Erosion of public trust."
       },
       {
-        "section": "General",
-        "text": "Amend Prevention of Corruption Act to exclude bonafide errors without personal gain.",
+        "section": "Point",
         "order": 5,
-        "cite": "U19"
+        "text": "Amend Prevention of Corruption Act to exclude bonafide errors without personal gain."
       },
       {
-        "section": "General",
-        "text": "Internal three‑member committee (bureaucrats, legal expert, judge) to review cases before FIR.",
+        "section": "Point",
         "order": 6,
-        "cite": "U19"
+        "text": "Internal three‑member committee (bureaucrats, legal expert, judge) to review cases before FIR."
       },
       {
-        "section": "General",
-        "text": "Departmental inquiry first – criminal proceedings last resort.",
+        "section": "Point",
         "order": 7,
-        "cite": "U19"
+        "text": "Departmental inquiry first – criminal proceedings last resort."
       },
       {
-        "section": "General",
-        "text": "Legal aid and indemnity for accused officers.",
+        "section": "Point",
         "order": 8,
-        "cite": "U19"
+        "text": "Legal aid and indemnity for accused officers."
       },
       {
-        "section": "General",
-        "text": "Training and circulars clarifying that honest errors are not misconduct; publish exonerations.",
+        "section": "Point",
         "order": 9,
-        "cite": "U19"
+        "text": "Training and circulars clarifying that honest errors are not misconduct; publish exonerations."
       },
       {
-        "section": "General",
-        "text": "Justification: Without these, civil service becomes paralysed. The state needs bold, honest decision‑makers, not fearful clerks.",
+        "section": "Point",
         "order": 10,
-        "cite": "U19"
+        "text": "Justification: Without these, civil service becomes paralysed. The state needs bold, honest decision‑makers, not fearful clerks."
       }
     ]
   },
   {
     "uid": "UPSC_2019_GSP4_09",
-    "paper_title": "GS Paper 4",
-    "year": 2019,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q9",
+    "year": 2019,
+    "paper_title": "GS Paper 4",
+    "q_number": "9",
     "marks": 20,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U19",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPSC Mains 2019 GS Paper 4",
     "question_text": "An apparel manufacturing company having large number of women employees was losing sales due to various factors. The company hired a reputed marketing executive, who increased the volume of sales within a short span of time. However, some unconfirmed reports came up regarding his indulgence in sexual harassment at the work place. After sometime, a woman employee lodged a formal complaint to the management against the marketing executive about sexually harassing her. Faced with the company's indifference in not taking cognizance of her grievance, she lodged an FIR with the Police. Realizing the sensitivity and gravity of the situation, the company called the woman employee to negotiate. In that she was offered a hefty sum of money to withdraw the complaint and the FIR and also give in writing that the marketing executive is not involved in the case. Identify the ethical issues involved in this case. What options are available to the woman employee? (250 words)",
-    "subjectId": "modern",
+    "subjectId": "cases",
     "subjects": [
-      "Modern India"
+      "Case Studies"
     ],
-    "topic": "Modern History",
+    "topic": "A complaint and a sales target",
     "topics": [
-      "Modern History"
+      "A complaint and a sales target"
     ],
     "subTopics": [
       "Harassment and a hush offer"
     ],
     "keyPointers": [
+      "Integrity",
+      "Rule of law",
+      "Corruption",
+      "Women and work"
+    ],
+    "customKeyPointers": [
       "The complaint is a legal duty, not a sales problem",
-      "Money to withdraw a case obstructs justice",
-      "Reject the offer and let the inquiry run",
+      "Money offered to withdraw a case obstructs justice",
       "A rise in sales does not buy immunity"
     ],
-    "vault_path": null,
     "points": [
       {
-        "section": "General",
-        "text": "Sexual harassment – violation of PoSH Act and fundamental rights.",
+        "section": "Point",
         "order": 1,
-        "cite": "U19"
+        "text": "Sexual harassment – violation of PoSH Act and fundamental rights."
       },
       {
-        "section": "General",
-        "text": "Management indifference – failure to act on complaint.",
+        "section": "Point",
         "order": 2,
-        "cite": "U19"
+        "text": "Management indifference – failure to act on complaint."
       },
       {
-        "section": "General",
-        "text": "Offering hush money – corruption and witness tampering.",
+        "section": "Point",
         "order": 3,
-        "cite": "U19"
+        "text": "Offering hush money – corruption and witness tampering."
       },
       {
-        "section": "General",
-        "text": "Coercion to withdraw FIR – obstructing justice.",
+        "section": "Point",
         "order": 4,
-        "cite": "U19"
+        "text": "Coercion to withdraw FIR – obstructing justice."
       },
       {
-        "section": "General",
-        "text": "Power imbalance and normalisation of harassment.",
+        "section": "Point",
         "order": 5,
-        "cite": "U19"
+        "text": "Power imbalance and normalisation of harassment."
       },
       {
-        "section": "General",
-        "text": "Option 1: Reject offer – continue FIR and prosecution under IPC/PoSH Act, file complaint with Women’s Commission. Upholds justice but risks retaliation.",
+        "section": "Point",
         "order": 6,
-        "cite": "U19"
+        "text": "Option 1: Reject offer – continue FIR and prosecution under IPC/PoSH Act, file complaint with Women’s Commission. Upholds justice but risks retaliation."
       },
       {
-        "section": "General",
-        "text": "Option 2: Accept money – withdraw complaint, sign false statement. Provides financial security but compromises dignity and allows perpetrator to continue.",
+        "section": "Point",
         "order": 7,
-        "cite": "U19"
+        "text": "Option 2: Accept money – withdraw complaint, sign false statement. Provides financial security but compromises dignity and allows perpetrator to continue."
       },
       {
-        "section": "General",
-        "text": "Option 3: Negotiate – accept settlement only if executive removed, company implements PoSH committee, written apology. Still undermines criminal case.",
+        "section": "Point",
         "order": 8,
-        "cite": "U19"
+        "text": "Option 3: Negotiate – accept settlement only if executive removed, company implements PoSH committee, written apology. Still undermines criminal case."
       },
       {
-        "section": "General",
-        "text": "Option 4: Go public – media/NGOs, creates pressure but risks safety.",
+        "section": "Point",
         "order": 9,
-        "cite": "U19"
+        "text": "Option 4: Go public – media/NGOs, creates pressure but risks safety."
       },
       {
-        "section": "General",
-        "text": "Option 5: Legal escalation – approach High Court, seek whistleblower protection.",
+        "section": "Point",
         "order": 10,
-        "cite": "U19"
+        "text": "Option 5: Legal escalation – approach High Court, seek whistleblower protection."
       },
       {
-        "section": "General",
-        "text": "Best ethical choice: Option 1 – refuse money, pursue justice, seek support from women’s organisations.",
+        "section": "Point",
         "order": 11,
-        "cite": "U19"
+        "text": "Best ethical choice: Option 1 – refuse money, pursue justice, seek support from women’s organisations."
       }
     ]
   },
   {
     "uid": "UPSC_2019_GSP4_10",
-    "paper_title": "GS Paper 4",
-    "year": 2019,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q10",
+    "year": 2019,
+    "paper_title": "GS Paper 4",
+    "q_number": "10",
     "marks": 20,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U19",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPSC Mains 2019 GS Paper 4",
     "question_text": "In a modern democratic polity, there is the concept of political executive and permanent executive. Elected people's representatives form the political executive and bureaucracy forms the permanent executive. Ministers frame policy decisions and bureaucrats execute these. In the initial decades after independence, relationship between the permanent executive and the political executive were characterized by mutual understanding, respect and co-operation, without encroaching upon each others domain. However, in the subsequent decades, the situation has changed. There are instances of the political executive insisting upon the permanent executive to follow its agenda. Respect for and appreciation of upright bureaucrats has declined. There is an increasing tendency among the political executive to get involved in routine administrative matters such as transfers, postings etc. Under this scenario, there is a difinitive trend towards 'politicization of bureaucracy'. The rising materialism and acquisitiveness in social life has also adversely impacted upon the ethical values of both the permanent executive and the political executive. What are the consequences of this 'politicization of bureaucracy'? Discuss. (250 words)",
-    "subjectId": "essay-econ",
+    "subjectId": "cases",
     "subjects": [
-      "Essay — Polity, Sci, Economy, Agri"
+      "Case Studies"
     ],
-    "topic": "Essay — Polity/Econ",
+    "topic": "The political and the permanent executive",
     "topics": [
-      "Essay — Polity/Econ"
+      "The political and the permanent executive"
     ],
     "subTopics": [
       "Neutrality of the permanent executive"
     ],
     "keyPointers": [
-      "Ministers decide policy; officers execute it lawfully",
-      "Arbitrary transfer rewards the pliable",
-      "Paid postings become corruption",
-      "The damage is service quality and a loss of the constitutional officer"
+      "Civil service neutrality",
+      "Political pressure",
+      "Corruption",
+      "Minister and civil servant"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Ministers decide policy; officers carry it out within the law",
+      "An arbitrary transfer rewards the officer who bends",
+      "A paid posting is corruption, and the service the citizen receives gets worse"
+    ],
     "points": [
       {
-        "section": "General",
-        "text": "Loss of neutrality – bureaucrats loyal to ruling party, not Constitution.",
+        "section": "Point",
         "order": 1,
-        "cite": "U19"
+        "text": "Loss of neutrality – bureaucrats loyal to ruling party, not Constitution."
       },
       {
-        "section": "General",
-        "text": "Arbitrary transfers – honest officers shunted, pliable ones promoted.",
+        "section": "Point",
         "order": 2,
-        "cite": "U19"
+        "text": "Arbitrary transfers – honest officers shunted, pliable ones promoted."
       },
       {
-        "section": "General",
-        "text": "Decline in service delivery – postings based on connections, not competence.",
+        "section": "Point",
         "order": 3,
-        "cite": "U19"
+        "text": "Decline in service delivery – postings based on connections, not competence."
       },
       {
-        "section": "General",
-        "text": "Corruption – officers pay for postings, recover via bribes; political patronage protects.",
+        "section": "Point",
         "order": 4,
-        "cite": "U19"
+        "text": "Corruption – officers pay for postings, recover via bribes; political patronage protects."
       },
       {
-        "section": "General",
-        "text": "Brain drain – talented officers quit early.",
+        "section": "Point",
         "order": 5,
-        "cite": "U19"
+        "text": "Brain drain – talented officers quit early."
       },
       {
-        "section": "General",
-        "text": "Policy paralysis – officers avoid writing clear opinions.",
+        "section": "Point",
         "order": 6,
-        "cite": "U19"
+        "text": "Policy paralysis – officers avoid writing clear opinions."
       },
       {
-        "section": "General",
-        "text": "Erosion of public trust – administration seen as party arm.",
+        "section": "Point",
         "order": 7,
-        "cite": "U19"
+        "text": "Erosion of public trust – administration seen as party arm."
       },
       {
-        "section": "General",
-        "text": "Constitutional crisis – fearless advice silenced, leading to bad decisions.",
+        "section": "Point",
         "order": 8,
-        "cite": "U19"
+        "text": "Constitutional crisis – fearless advice silenced, leading to bad decisions."
       },
       {
-        "section": "General",
-        "text": "Rise of ‘yes‑men’ – those who say no to illegal orders sidelined.",
+        "section": "Point",
         "order": 9,
-        "cite": "U19"
+        "text": "Rise of ‘yes‑men’ – those who say no to illegal orders sidelined."
       },
       {
-        "section": "General",
-        "text": "Remedies (implied): fixed tenures, independent transfer boards, strengthening UPSC disciplinary powers.",
+        "section": "Point",
         "order": 10,
-        "cite": "U19"
+        "text": "Remedies (implied): fixed tenures, independent transfer boards, strengthening UPSC disciplinary powers."
       }
     ]
   },
   {
     "uid": "UPSC_2019_GSP4_11",
-    "paper_title": "GS Paper 4",
-    "year": 2019,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q11",
+    "year": 2019,
+    "paper_title": "GS Paper 4",
+    "q_number": "11",
     "marks": 20,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U19",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPSC Mains 2019 GS Paper 4",
     "question_text": "In one of the districts of a frontier state, narcotics menace has been rampant. This has resulted in money laundering, mushrooming of poppy farming, arms smuggling and near stalling of education. The system is on the verge of collapse. The situation has been further worsened by unconfirmed reports that local politicians as well as some senior police officers are providing surreptitious patronage to the drug mafia. At that point of time a woman police officer, known for her skills in handling such situations is appointed as Superintendent of Police to bring the situation to normalcy. If you are the same police officer, identify the various dimensions of the crisis. Based on your understanding, suggest measures to deal with the crisis. (250 words)",
     "subjectId": "cases",
     "subjects": [
@@ -1220,123 +1174,111 @@
       "Narcotics collapse of a frontier district"
     ],
     "keyPointers": [
-      "The drug funds arms and a real-estate wash",
-      "Education dies from addiction and fear",
-      "A police-political nexus protects the trade",
-      "The response has to be crop, case, school and the nexus together"
+      "Organised crime",
+      "Money laundering",
+      "Corruption",
+      "Education and social change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The drug trade funds arms and a wash through property",
+      "Schooling dies from addiction and from fear",
+      "A link between the police and local politics protects the trade"
+    ],
     "points": [
       {
-        "section": "General",
-        "text": "Narcotics trade – rampant poppy farming and drug consumption.",
+        "section": "Point",
         "order": 1,
-        "cite": "U19"
+        "text": "Narcotics trade – rampant poppy farming and drug consumption."
       },
       {
-        "section": "General",
-        "text": "Money laundering – drug profits funneled into real estate and businesses.",
+        "section": "Point",
         "order": 2,
-        "cite": "U19"
+        "text": "Money laundering – drug profits funneled into real estate and businesses."
       },
       {
-        "section": "General",
-        "text": "Arms smuggling – nexus between drug cartels and gun runners.",
+        "section": "Point",
         "order": 3,
-        "cite": "U19"
+        "text": "Arms smuggling – nexus between drug cartels and gun runners."
       },
       {
-        "section": "General",
-        "text": "Collapse of education – schools dysfunctional due to addiction and fear.",
+        "section": "Point",
         "order": 4,
-        "cite": "U19"
+        "text": "Collapse of education – schools dysfunctional due to addiction and fear."
       },
       {
-        "section": "General",
-        "text": "Political‑police nexus – local politicians and senior officers protecting mafia.",
+        "section": "Point",
         "order": 5,
-        "cite": "U19"
+        "text": "Political‑police nexus – local politicians and senior officers protecting mafia."
       },
       {
-        "section": "General",
-        "text": "Social breakdown – families destroyed, crime rising, health system overwhelmed.",
+        "section": "Point",
         "order": 6,
-        "cite": "U19"
+        "text": "Social breakdown – families destroyed, crime rising, health system overwhelmed."
       },
       {
-        "section": "General",
-        "text": "Intelligence – informants, technical surveillance, financial trail analysis.",
+        "section": "Point",
         "order": 7,
-        "cite": "U19"
+        "text": "Intelligence – informants, technical surveillance, financial trail analysis."
       },
       {
-        "section": "General",
-        "text": "Break nexus – transfer corrupt officers, involve NCB/ED.",
+        "section": "Point",
         "order": 8,
-        "cite": "U19"
+        "text": "Break nexus – transfer corrupt officers, involve NCB/ED."
       },
       {
-        "section": "General",
-        "text": "Synchronised raids on poppy fields, drug dens, arms caches using outside forces.",
+        "section": "Point",
         "order": 9,
-        "cite": "U19"
+        "text": "Synchronised raids on poppy fields, drug dens, arms caches using outside forces."
       },
       {
-        "section": "General",
-        "text": "Asset seizure under PMLA.",
+        "section": "Point",
         "order": 10,
-        "cite": "U19"
+        "text": "Asset seizure under PMLA."
       },
       {
-        "section": "General",
-        "text": "Community policing – protect whistleblowers, rehabilitation for addicts.",
+        "section": "Point",
         "order": 11,
-        "cite": "U19"
+        "text": "Community policing – protect whistleblowers, rehabilitation for addicts."
       },
       {
-        "section": "General",
-        "text": "Education revival – secure schools, bridge courses.",
+        "section": "Point",
         "order": 12,
-        "cite": "U19"
+        "text": "Education revival – secure schools, bridge courses."
       },
       {
-        "section": "General",
-        "text": "Alternative livelihoods – legal crops (horticulture) with procurement.",
+        "section": "Point",
         "order": 13,
-        "cite": "U19"
+        "text": "Alternative livelihoods – legal crops (horticulture) with procurement."
       },
       {
-        "section": "General",
-        "text": "Fast‑track prosecution with witness protection.",
+        "section": "Point",
         "order": 14,
-        "cite": "U19"
+        "text": "Fast‑track prosecution with witness protection."
       },
       {
-        "section": "General",
-        "text": "Media strategy – build public confidence.",
+        "section": "Point",
         "order": 15,
-        "cite": "U19"
+        "text": "Media strategy – build public confidence."
       },
       {
-        "section": "General",
-        "text": "Long‑term – border sealing, anti‑drug curriculum, de‑addiction centres.",
+        "section": "Point",
         "order": 16,
-        "cite": "U19"
+        "text": "Long‑term – border sealing, anti‑drug curriculum, de‑addiction centres."
       }
     ]
   },
   {
     "uid": "UPSC_2019_GSP4_12",
-    "paper_title": "GS Paper 4",
-    "year": 2019,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q12",
+    "year": 2019,
+    "paper_title": "GS Paper 4",
+    "q_number": "12",
     "marks": 20,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U19",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPSC Mains 2019 GS Paper 4",
     "question_text": "In recent times, there has been an increasing concern in India to develop effective civil service ethics, codes of conduct, transparency measures, ethics and integrity systems and anti-corruption agencies. In view of this, there is a need being felt to focus on three specific areas, which are directly relevant to the problems of internalizing integrity and ethics in the civil services. These are as follows: 1. Anticipating specific threats to ethical standards and integrity in the civil services, 2. Strengthening the ethical competence of civil servants and 3. Developing administrative processes and practices which promote ethical values and integrity in civil services. Suggest institutional measures to address the above three issues. (250 words)",
     "subjectId": "ethics",
     "subjects": [
@@ -1350,108 +1292,96 @@
       "Building civil-service ethics systems"
     ],
     "keyPointers": [
-      "Find the risky posts before the scandal",
-      "Check assets and a lifestyle at posting",
-      "Train with cases, not only a code on the wall",
-      "Rotate, disclose and punish, or the agency is ornamental"
+      "Probity",
+      "Civil service neutrality",
+      "Transparency and the right to information",
+      "Integrity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Find the risky posts before the scandal",
+      "Check assets and a lifestyle at the time of posting",
+      "Rotate, disclose and punish, or the ethics body is only for show"
+    ],
     "points": [
       {
-        "section": "General",
-        "text": "Ethics Risk Assessment Unit in DoPT for annual vulnerability mapping.",
+        "section": "Point",
         "order": 1,
-        "cite": "U19"
+        "text": "Ethics Risk Assessment Unit in DoPT for annual vulnerability mapping."
       },
       {
-        "section": "General",
-        "text": "Pre‑posting integrity checks (assets, complaints, lifestyle audits).",
+        "section": "Point",
         "order": 2,
-        "cite": "U19"
+        "text": "Pre‑posting integrity checks (assets, complaints, lifestyle audits)."
       },
       {
-        "section": "General",
-        "text": "Early warning system using data analytics.",
+        "section": "Point",
         "order": 3,
-        "cite": "U19"
+        "text": "Early warning system using data analytics."
       },
       {
-        "section": "General",
-        "text": "Rotational transfer policies to prevent capture.",
+        "section": "Point",
         "order": 4,
-        "cite": "U19"
+        "text": "Rotational transfer policies to prevent capture."
       },
       {
-        "section": "General",
-        "text": "Ethics training at all stages (foundation, mid‑career, refreshers) with case‑based modules.",
+        "section": "Point",
         "order": 5,
-        "cite": "U19"
+        "text": "Ethics training at all stages (foundation, mid‑career, refreshers) with case‑based modules."
       },
       {
-        "section": "General",
-        "text": "National Centre for Ethics in Governance to develop curriculum.",
+        "section": "Point",
         "order": 6,
-        "cite": "U19"
+        "text": "National Centre for Ethics in Governance to develop curriculum."
       },
       {
-        "section": "General",
-        "text": "Compulsory ethics paper in probationary training.",
+        "section": "Point",
         "order": 7,
-        "cite": "U19"
+        "text": "Compulsory ethics paper in probationary training."
       },
       {
-        "section": "General",
-        "text": "Online ethics certification every three years linked to promotion.",
+        "section": "Point",
         "order": 8,
-        "cite": "U19"
+        "text": "Online ethics certification every three years linked to promotion."
       },
       {
-        "section": "General",
-        "text": "Ethics mentorship – senior officers as ethics counsellors.",
+        "section": "Point",
         "order": 9,
-        "cite": "U19"
+        "text": "Ethics mentorship – senior officers as ethics counsellors."
       },
       {
-        "section": "General",
-        "text": "E‑governance and contactless service delivery to reduce discretion.",
+        "section": "Point",
         "order": 10,
-        "cite": "U19"
+        "text": "E‑governance and contactless service delivery to reduce discretion."
       },
       {
-        "section": "General",
-        "text": "Integrity pacts in large contracts with independent monitors.",
+        "section": "Point",
         "order": 11,
-        "cite": "U19"
+        "text": "Integrity pacts in large contracts with independent monitors."
       },
       {
-        "section": "General",
-        "text": "Mandatory social audits above ₹10 crore.",
+        "section": "Point",
         "order": 12,
-        "cite": "U19"
+        "text": "Mandatory social audits above ₹10 crore."
       },
       {
-        "section": "General",
-        "text": "Whistleblower protection with anonymous portal and statutory authority.",
+        "section": "Point",
         "order": 13,
-        "cite": "U19"
+        "text": "Whistleblower protection with anonymous portal and statutory authority."
       },
       {
-        "section": "General",
-        "text": "Annual ‘Ethics Index’ ranking of departments published publicly.",
+        "section": "Point",
         "order": 14,
-        "cite": "U19"
+        "text": "Annual ‘Ethics Index’ ranking of departments published publicly."
       },
       {
-        "section": "General",
-        "text": "Lokpal/Lokayuktas with suo motu powers to investigate systemic failures.",
+        "section": "Point",
         "order": 15,
-        "cite": "U19"
+        "text": "Lokpal/Lokayuktas with suo motu powers to investigate systemic failures."
       },
       {
-        "section": "General",
-        "text": "Public online asset declaration for gazetted officers (with privacy safeguards).",
+        "section": "Point",
         "order": 16,
-        "cite": "U19"
+        "text": "Public online asset declaration for gazetted officers (with privacy safeguards)."
       }
     ]
   }

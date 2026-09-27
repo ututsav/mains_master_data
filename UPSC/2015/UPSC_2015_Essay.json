@@ -1,527 +1,505 @@
 [
   {
     "uid": "UPSC_2015_ESSAY_A1",
-    "paper_title": "Essay",
-    "year": 2015,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "QA.1",
+    "year": 2015,
+    "paper_title": "Essay",
+    "q_number": "A1",
     "marks": 125,
+    "word_limit": 1200,
     "importance": 3,
-    "cite": "U15",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPSC Mains 2015 Essay",
     "question_text": "Lending hands to someone is better than giving a dole.",
     "subjectId": "essay-lit",
     "subjects": [
-      "Essay — Literature & Society"
+      "Essay"
     ],
-    "topic": "सामाजिक क्षेत्र",
+    "topic": "A hand, not a dole",
     "topics": [
-      "सामाजिक क्षेत्र"
+      "A hand, not a dole"
     ],
     "subTopics": [
       "Help versus a dole"
     ],
     "keyPointers": [
-      "A dole feeds today and can create dependence",
-      "A hand up is a skill, a loan or a job",
-      "Work with dignity beats a queue for charity",
-      "Some people still need direct support",
-      "The better help makes the person able to stop needing it"
+      "Compassion",
+      "Self-help groups",
+      "Welfare state"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A dole can feed a day and leave the person waiting",
+      "A hand is a skill, a tool or a place in the work",
+      "The better help is the one that can be put down"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Dole (charity) provides temporary relief; lending hands (empowerment, skill, support) enables self-reliance and dignity.",
         "order": 1,
-        "cite": "U15"
+        "text": "Dole (charity) provides temporary relief; lending hands (empowerment, skill, support) enables self-reliance and dignity."
       },
       {
         "section": "Body",
-        "text": "Problems with dole: creates dependency, humiliation, unsustainable, may discourage work (welfare trap). Example: free food without jobs perpetuates poverty.",
         "order": 2,
-        "cite": "U15"
+        "text": "Problems with dole: creates dependency, humiliation, unsustainable, may discourage work (welfare trap). Example: free food without jobs perpetuates poverty."
       },
       {
         "section": "Body",
-        "text": "Benefits of lending hands: skill training (vocational education), microcredit (SHGs), mentorship, employment opportunities. Example: MGNREGA (right to work) vs mere dole; Kudumbashree in Kerala.",
         "order": 3,
-        "cite": "U15"
+        "text": "Benefits of lending hands: skill training (vocational education), microcredit (SHGs), mentorship, employment opportunities. Example: MGNREGA (right to work) vs mere dole; Kudumbashree in Kerala."
       },
       {
         "section": "Body",
-        "text": "Indian context: PMKVY (Skill India), Stand-Up India, Mudra loans – enabling entrepreneurship. Contrast with freebies culture (politics of dole).",
         "order": 4,
-        "cite": "U15"
+        "text": "Indian context: PMKVY (Skill India), Stand-Up India, Mudra loans – enabling entrepreneurship. Contrast with freebies culture (politics of dole)."
       },
       {
         "section": "Conclusion",
-        "text": "Sustainable development requires empowerment, not alms. 'Give a man a fish vs teach him to fish' – Gandhian economics of self-reliance.",
         "order": 5,
-        "cite": "U15"
+        "text": "Sustainable development requires empowerment, not alms. 'Give a man a fish vs teach him to fish' – Gandhian economics of self-reliance."
       }
     ]
   },
   {
     "uid": "UPSC_2015_ESSAY_A2",
-    "paper_title": "Essay",
-    "year": 2015,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "QA.2",
+    "year": 2015,
+    "paper_title": "Essay",
+    "q_number": "A2",
     "marks": 125,
+    "word_limit": 1200,
     "importance": 3,
-    "cite": "U15",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPSC Mains 2015 Essay",
     "question_text": "Quick but steady wins the race.",
     "subjectId": "essay-lit",
     "subjects": [
-      "Essay — Literature & Society"
+      "Essay"
     ],
-    "topic": "सामाजिक क्षेत्र",
+    "topic": "Quick, and still steady",
     "topics": [
-      "सामाजिक क्षेत्र"
+      "Quick, and still steady"
     ],
     "subTopics": [
       "Speed with steadiness"
     ],
     "keyPointers": [
-      "Speed without a rhythm collapses",
-      "A steady pace compounds",
-      "In policy, a reform that lasts beats a shock that reverses",
-      "In a life, a daily habit beats a burst",
-      "Quick is useful only if it can be repeated"
+      "Moral reasoning",
+      "Integrity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Speed without a footing is a stumble",
+      "Steadiness without any speed misses the moment",
+      "The race is won by a pace that can be kept"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Hare and tortoise fable – speed without consistency fails; steady pace with persistence succeeds.",
         "order": 1,
-        "cite": "U15"
+        "text": "Hare and tortoise fable – speed without consistency fails; steady pace with persistence succeeds."
       },
       {
         "section": "Body",
-        "text": "Application in personal life: consistent study (not cramming), regular exercise, disciplined saving. Example: successful athletes (consistent training over years).",
         "order": 2,
-        "cite": "U15"
+        "text": "Application in personal life: consistent study (not cramming), regular exercise, disciplined saving. Example: successful athletes (consistent training over years)."
       },
       {
         "section": "Body",
-        "text": "In business: sustainable growth vs short-term profit maximization (e.g., Tata vs Enron). Rapid expansion leads to collapse (IL&FS, DHFL).",
         "order": 3,
-        "cite": "U15"
+        "text": "In business: sustainable growth vs short-term profit maximization (e.g., Tata vs Enron). Rapid expansion leads to collapse (IL&FS, DHFL)."
       },
       {
         "section": "Body",
-        "text": "In governance: incremental reforms (land acquisition, GST, labour codes) sustainable; revolutionary changes may fail (demonetization debate). China's gradual economic reforms vs 'shock therapy' in Russia.",
         "order": 4,
-        "cite": "U15"
+        "text": "In governance: incremental reforms (land acquisition, GST, labour codes) sustainable; revolutionary changes may fail (demonetization debate). China's gradual economic reforms vs 'shock therapy' in Russia."
       },
       {
         "section": "Conclusion",
-        "text": "Patience, perseverance, and steady progress are virtues in a fast-paced world. Quick wins may be tempting but lasting success requires consistent effort.",
         "order": 5,
-        "cite": "U15"
+        "text": "Patience, perseverance, and steady progress are virtues in a fast-paced world. Quick wins may be tempting but lasting success requires consistent effort."
       }
     ]
   },
   {
     "uid": "UPSC_2015_ESSAY_A3",
-    "paper_title": "Essay",
-    "year": 2015,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "QA.3",
+    "year": 2015,
+    "paper_title": "Essay",
+    "q_number": "A3",
     "marks": 125,
+    "word_limit": 1200,
     "importance": 3,
-    "cite": "U15",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPSC Mains 2015 Essay",
     "question_text": "Character of an institution is reflected in its leader.",
     "subjectId": "essay-lit",
     "subjects": [
-      "Essay — Literature & Society"
+      "Essay"
     ],
-    "topic": "सामाजिक क्षेत्र",
+    "topic": "The leader and the institution",
     "topics": [
-      "सामाजिक क्षेत्र"
+      "The leader and the institution"
     ],
     "subTopics": [
       "Leaders and institutional character"
     ],
     "keyPointers": [
-      "A leader sets what is rewarded and what is punished",
-      "Integrity at the top licences integrity below",
-      "A fraud at the top becomes the culture",
-      "Rules cannot fully replace the example",
-      "The institution outlives the leader only if the habit was built"
+      "Integrity",
+      "Probity",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "People copy the person at the top more than they copy the rule book",
+      "A careful leader makes a careful office, and a casual one makes a casual office",
+      "The character people meet is the character the leader permits"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Leadership sets culture, values, and ethical tone; institutions mirror leaders' character – for better or worse.",
         "order": 1,
-        "cite": "U15"
+        "text": "Leadership sets culture, values, and ethical tone; institutions mirror leaders' character – for better or worse."
       },
       {
         "section": "Body",
-        "text": "Positive examples: Dr. Verghese Kurien (Amul) – cooperative spirit, empowerment. E. Sreedharan (DMRC) – punctuality, integrity. Narayana Murthy (Infosys) – transparency, governance.",
         "order": 2,
-        "cite": "U15"
+        "text": "Positive examples: Dr. Verghese Kurien (Amul) – cooperative spirit, empowerment. E. Sreedharan (DMRC) – punctuality, integrity. Narayana Murthy (Infosys) – transparency, governance."
       },
       {
         "section": "Body",
-        "text": "Negative examples: Satyam (Ramalinga Raju) – fraud, corruption. Enron (Kenneth Lay) – greed. Institutional character collapses with leader's moral failure.",
         "order": 3,
-        "cite": "U15"
+        "text": "Negative examples: Satyam (Ramalinga Raju) – fraud, corruption. Enron (Kenneth Lay) – greed. Institutional character collapses with leader's moral failure."
       },
       {
         "section": "Body",
-        "text": "Implication for civil services: an honest, courageous leader (e.g., T.N. Seshan at Election Commission) transforms institution; a corrupt leader demoralizes entire department.",
         "order": 4,
-        "cite": "U15"
+        "text": "Implication for civil services: an honest, courageous leader (e.g., T.N. Seshan at Election Commission) transforms institution; a corrupt leader demoralizes entire department."
       },
       {
         "section": "Conclusion",
-        "text": "Leadership selection and training crucial; institutions must also have checks to prevent over-reliance on individual character (systems matter too).",
         "order": 5,
-        "cite": "U15"
+        "text": "Leadership selection and training crucial; institutions must also have checks to prevent over-reliance on individual character (systems matter too)."
       }
     ]
   },
   {
     "uid": "UPSC_2015_ESSAY_A4",
-    "paper_title": "Essay",
-    "year": 2015,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "QA.4",
+    "year": 2015,
+    "paper_title": "Essay",
+    "q_number": "A4",
     "marks": 125,
+    "word_limit": 1200,
     "importance": 3,
-    "cite": "U15",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPSC Mains 2015 Essay",
     "question_text": "Education without values, as useful as it is, seems rather to make a man more clever devil.",
     "subjectId": "essay-lit",
     "subjects": [
-      "Essay — Literature & Society"
+      "Essay"
     ],
-    "topic": "Essay — Society",
+    "topic": "Education without values",
     "topics": [
-      "Essay — Society"
+      "Education without values"
     ],
     "subTopics": [
       "Education without values"
     ],
     "keyPointers": [
-      "Skill raises the power to help or to harm",
-      "A clever fraud uses the school, not the lack of it",
-      "Values are honesty, care and a civic limit",
-      "Knowledge without character is a sharper weapon",
-      "The aim of education is judgment, not only a technique"
+      "Education and social change",
+      "Ethics and morals",
+      "Integrity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Skill without a limit makes a more able harm",
+      "The cleverness is useful, and the missing value decides whom it serves",
+      "A devil with a degree is the risk in the line"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Education enhances intelligence, but without ethics it produces skillful wrongdoers – clever devils (e.g., cybercriminals, scamsters).",
         "order": 1,
-        "cite": "U15"
+        "text": "Education enhances intelligence, but without ethics it produces skillful wrongdoers – clever devils (e.g., cybercriminals, scamsters)."
       },
       {
         "section": "Body",
-        "text": "Examples: educated white-collar criminals (2G scam, Nirav Modi, Harshad Mehta) – used knowledge for fraud. Engineers designing unsafe buildings, doctors recommending unnecessary procedures.",
         "order": 2,
-        "cite": "U15"
+        "text": "Examples: educated white-collar criminals (2G scam, Nirav Modi, Harshad Mehta) – used knowledge for fraud. Engineers designing unsafe buildings, doctors recommending unnecessary procedures."
       },
       {
         "section": "Body",
-        "text": "Value education: compassion, honesty, integrity, civic sense. NEP 2020 emphasizes moral education, experiential learning. Ancient Indian gurukul system focused on character.",
         "order": 3,
-        "cite": "U15"
+        "text": "Value education: compassion, honesty, integrity, civic sense. NEP 2020 emphasizes moral education, experiential learning. Ancient Indian gurukul system focused on character."
       },
       {
         "section": "Body",
-        "text": "Consequences of value-less education: corruption, environmental degradation (educated polluters), social inequality (meritocracy without empathy).",
         "order": 4,
-        "cite": "U15"
+        "text": "Consequences of value-less education: corruption, environmental degradation (educated polluters), social inequality (meritocracy without empathy)."
       },
       {
         "section": "Conclusion",
-        "text": "Education must balance knowledge with wisdom; character building and ethics should be core curriculum to produce not just skilled professionals but responsible citizens.",
         "order": 5,
-        "cite": "U15"
+        "text": "Education must balance knowledge with wisdom; character building and ethics should be core curriculum to produce not just skilled professionals but responsible citizens."
       }
     ]
   },
   {
     "uid": "UPSC_2015_ESSAY_B1",
-    "paper_title": "Essay",
-    "year": 2015,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "QB.1",
+    "year": 2015,
+    "paper_title": "Essay",
+    "q_number": "B1",
     "marks": 125,
+    "word_limit": 1200,
     "importance": 3,
-    "cite": "U15",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPSC Mains 2015 Essay",
     "question_text": "Technology cannot replace manpower.",
     "subjectId": "essay-econ",
     "subjects": [
-      "Essay — Polity, Sci, Economy, Agri"
+      "Essay"
     ],
-    "topic": "Essay — Polity/Econ",
+    "topic": "Machines and people",
     "topics": [
-      "Essay — Polity/Econ"
+      "Machines and people"
     ],
     "subTopics": [
       "Technology and human work"
     ],
     "keyPointers": [
-      "Machines take repetitive and dangerous tasks",
-      "Judgment, care, teaching and trust stay human",
-      "New tools also create new jobs",
-      "Replacement of a task is not replacement of a person",
-      "The policy question is who is retrained"
+      "Technology and inequality",
+      "Skill and employability",
+      "Unemployment",
+      "Manufacturing"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A machine can do a repeated task faster",
+      "It cannot replace the judgment, the care and the new idea",
+      "The manpower that remains has to be trained for the work the machine cannot do"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Automation and AI replacing routine jobs, but human qualities (creativity, empathy, judgment) remain irreplaceable.",
         "order": 1,
-        "cite": "U15"
+        "text": "Automation and AI replacing routine jobs, but human qualities (creativity, empathy, judgment) remain irreplaceable."
       },
       {
         "section": "Body",
-        "text": "Where technology complements: manufacturing (robots), data processing (AI), dangerous tasks. Where it cannot replace: teaching (human touch), healthcare (bedside manner), leadership, art, ethics, caregiving.",
         "order": 2,
-        "cite": "U15"
+        "text": "Where technology complements: manufacturing (robots), data processing (AI), dangerous tasks. Where it cannot replace: teaching (human touch), healthcare (bedside manner), leadership, art, ethics, caregiving."
       },
       {
         "section": "Body",
-        "text": "Examples: ATMs reduced bank teller roles but created new jobs (customer service, tech support). ChatGPT aids writing but cannot replicate human creativity. Emotional intelligence (EI) remains human domain.",
         "order": 3,
-        "cite": "U15"
+        "text": "Examples: ATMs reduced bank teller roles but created new jobs (customer service, tech support). ChatGPT aids writing but cannot replicate human creativity. Emotional intelligence (EI) remains human domain."
       },
       {
         "section": "Body",
-        "text": "Indian context: fear of job loss in IT, BPO. But new sectors emerge (AI trainers, data annotation). Manpower will adapt, not vanish. Need reskilling.",
         "order": 4,
-        "cite": "U15"
+        "text": "Indian context: fear of job loss in IT, BPO. But new sectors emerge (AI trainers, data annotation). Manpower will adapt, not vanish. Need reskilling."
       },
       {
         "section": "Conclusion",
-        "text": "Technology augments manpower, freeing humans for higher-order tasks. The future is human-machine collaboration, not replacement.",
         "order": 5,
-        "cite": "U15"
+        "text": "Technology augments manpower, freeing humans for higher-order tasks. The future is human-machine collaboration, not replacement."
       }
     ]
   },
   {
     "uid": "UPSC_2015_ESSAY_B2",
-    "paper_title": "Essay",
-    "year": 2015,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "QB.2",
+    "year": 2015,
+    "paper_title": "Essay",
+    "q_number": "B2",
     "marks": 125,
+    "word_limit": 1200,
     "importance": 3,
-    "cite": "U15",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPSC Mains 2015 Essay",
     "question_text": "Crisis faced in India - moral or economic.",
     "subjectId": "essay-econ",
     "subjects": [
-      "Essay — Polity, Sci, Economy, Agri"
+      "Essay"
     ],
-    "topic": "Essay — Polity/Econ",
+    "topic": "A moral crisis or an economic one",
     "topics": [
-      "Essay — Polity/Econ"
+      "A moral crisis or an economic one"
     ],
     "subTopics": [
       "Moral crisis and economic crisis"
     ],
     "keyPointers": [
-      "Corruption, violence and a weak institution are moral facts",
-      "Jobs, farm distress and inequality are economic facts",
-      "Each feeds the other",
-      "A bribe slows a road; a hungry person takes a shortcut",
-      "Treating only one side leaves the crisis"
+      "Inequality",
+      "Corruption",
+      "Inclusive growth",
+      "Moral reasoning"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A shortage of jobs and a shortage of honesty can be the same crisis",
+      "The economic pain makes the shortcut tempting",
+      "The moral failure keeps the economic fix from being trusted"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Debate: Is India's crisis economic (growth, jobs, inflation) or moral (corruption, social values, ethics)? Both intertwined.",
         "order": 1,
-        "cite": "U15"
+        "text": "Debate: Is India's crisis economic (growth, jobs, inflation) or moral (corruption, social values, ethics)? Both intertwined."
       },
       {
         "section": "Body",
-        "text": "Evidence of moral crisis: corruption (scams), declining civic sense, communal violence, crimes against women, political opportunism, erosion of institutions.",
         "order": 2,
-        "cite": "U15"
+        "text": "Evidence of moral crisis: corruption (scams), declining civic sense, communal violence, crimes against women, political opportunism, erosion of institutions."
       },
       {
         "section": "Body",
-        "text": "Evidence of economic crisis: unemployment, inequality (top 10% own 80% wealth), agrarian distress, fiscal deficit, infrastructure gaps.",
         "order": 3,
-        "cite": "U15"
+        "text": "Evidence of economic crisis: unemployment, inequality (top 10% own 80% wealth), agrarian distress, fiscal deficit, infrastructure gaps."
       },
       {
         "section": "Body",
-        "text": "Interconnection: moral crisis causes economic crisis (corruption slows growth, tax evasion reduces revenue). Economic crisis can fuel moral crisis (poverty drives crime, desperation). Example: 2008 financial crisis – greed (moral) led to economic collapse.",
         "order": 4,
-        "cite": "U15"
+        "text": "Interconnection: moral crisis causes economic crisis (corruption slows growth, tax evasion reduces revenue). Economic crisis can fuel moral crisis (poverty drives crime, desperation). Example: 2008 financial crisis – greed (moral) led to economic collapse."
       },
       {
         "section": "Conclusion",
-        "text": "Both crises coexist and reinforce each other. Need holistic solution: institutional integrity (Lokpal, RTI) and growth with equity (inclusive development).",
         "order": 5,
-        "cite": "U15"
+        "text": "Both crises coexist and reinforce each other. Need holistic solution: institutional integrity (Lokpal, RTI) and growth with equity (inclusive development)."
       }
     ]
   },
   {
     "uid": "UPSC_2015_ESSAY_B3",
-    "paper_title": "Essay",
-    "year": 2015,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "QB.3",
+    "year": 2015,
+    "paper_title": "Essay",
+    "q_number": "B3",
     "marks": 125,
+    "word_limit": 1200,
     "importance": 3,
-    "cite": "U15",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPSC Mains 2015 Essay",
     "question_text": "Dreams which should not let India sleep.",
     "subjectId": "essay-lit",
     "subjects": [
-      "Essay — Literature & Society"
+      "Essay"
     ],
-    "topic": "सामाजिक क्षेत्र",
+    "topic": "Dreams that should keep India awake",
     "topics": [
-      "सामाजिक क्षेत्र"
+      "Dreams that should keep India awake"
     ],
     "subTopics": [
       "Unfinished national dreams"
     ],
     "keyPointers": [
-      "School and health for everyone",
-      "Work that is not a permanent informal trap",
-      "Clean air and water",
-      "Dignity across caste and gender",
-      "A dream is a duty only if someone stays awake to it"
+      "Inclusive growth",
+      "Education and social change",
+      "Poverty and nutrition",
+      "Inequality"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A dream of dignity, a school and a life without hunger",
+      "Sleeping on it means treating it as a speech",
+      "The dream is useful only if it disturbs the present arrangement"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Dreams of a better India – poverty-free, educated, empowered, developed – should keep citizens and leaders awake, striving.",
         "order": 1,
-        "cite": "U15"
+        "text": "Dreams of a better India – poverty-free, educated, empowered, developed – should keep citizens and leaders awake, striving."
       },
       {
         "section": "Body",
-        "text": "Dream of universal education and healthcare – yet millions lack access. Should keep policymakers awake (right to education, Ayushman Bharat).",
         "order": 2,
-        "cite": "U15"
+        "text": "Dream of universal education and healthcare – yet millions lack access. Should keep policymakers awake (right to education, Ayushman Bharat)."
       },
       {
         "section": "Body",
-        "text": "Dream of economic equality – rising inequality (Gini coefficient). Need to address wealth concentration, jobless growth.",
         "order": 3,
-        "cite": "U15"
+        "text": "Dream of economic equality – rising inequality (Gini coefficient). Need to address wealth concentration, jobless growth."
       },
       {
         "section": "Body",
-        "text": "Dream of clean environment – air pollution, water scarcity, climate change. India's NDC commitments demand action.",
         "order": 4,
-        "cite": "U15"
+        "text": "Dream of clean environment – air pollution, water scarcity, climate change. India's NDC commitments demand action."
       },
       {
         "section": "Body",
-        "text": "Dream of social harmony – caste, communal tensions, gender violence. Constitutional ideals yet unfulfilled.",
         "order": 5,
-        "cite": "U15"
+        "text": "Dream of social harmony – caste, communal tensions, gender violence. Constitutional ideals yet unfulfilled."
       },
       {
         "section": "Conclusion",
-        "text": "These dreams are not nightmares but aspirational goals. They should inspire persistent effort, not anxiety. India's progress requires waking up to these challenges.",
         "order": 6,
-        "cite": "U15"
+        "text": "These dreams are not nightmares but aspirational goals. They should inspire persistent effort, not anxiety. India's progress requires waking up to these challenges."
       }
     ]
   },
   {
     "uid": "UPSC_2015_ESSAY_B4",
-    "paper_title": "Essay",
-    "year": 2015,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "QB.4",
+    "year": 2015,
+    "paper_title": "Essay",
+    "q_number": "B4",
     "marks": 125,
+    "word_limit": 1200,
     "importance": 3,
-    "cite": "U15",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPSC Mains 2015 Essay",
     "question_text": "Can capitalism bring inclusive growth?",
-    "subjectId": "economy",
+    "subjectId": "essay-econ",
     "subjects": [
-      "Economy & Development"
+      "Essay"
     ],
-    "topic": "Economy",
+    "topic": "Can capitalism include everyone",
     "topics": [
-      "Economy"
+      "Can capitalism include everyone"
     ],
     "subTopics": [
       "Capitalism and inclusive growth"
     ],
     "keyPointers": [
-      "Markets raise output and can cut poverty",
-      "They also pile wealth at the top",
-      "Health and school are not well left to price alone",
-      "Inclusive growth needs a rule and a redistribution",
-      "Capitalism can serve it; it does not do it by itself"
+      "Inclusive growth",
+      "Inequality",
+      "Economic growth",
+      "Welfare state"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A market can raise the average and still leave a large number out",
+      "Inclusion needs a rule, a school and a floor the market will not set by itself",
+      "Capitalism can serve the growth, and it does not by itself serve the share"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Capitalism drives innovation, efficiency, growth, but historically excludes poor, creates inequality (Piketty). Inclusive growth requires redistribution.",
         "order": 1,
-        "cite": "U15"
+        "text": "Capitalism drives innovation, efficiency, growth, but historically excludes poor, creates inequality (Piketty). Inclusive growth requires redistribution."
       },
       {
         "section": "Body",
-        "text": "Arguments for: rising tide lifts all boats – China lifted 800 million from poverty via market reforms. India's growth reduced poverty from 45% to 10%. Capitalism creates jobs, opportunities.",
         "order": 2,
-        "cite": "U15"
+        "text": "Arguments for: rising tide lifts all boats – China lifted 800 million from poverty via market reforms. India's growth reduced poverty from 45% to 10%. Capitalism creates jobs, opportunities."
       },
       {
         "section": "Body",
-        "text": "Arguments against: US, UK saw inequality rise; India's top 1% holds 40% wealth. Market failures (healthcare, education) leave poor behind. Capitalism incentivises profit over social good.",
         "order": 3,
-        "cite": "U15"
+        "text": "Arguments against: US, UK saw inequality rise; India's top 1% holds 40% wealth. Market failures (healthcare, education) leave poor behind. Capitalism incentivises profit over social good."
       },
       {
         "section": "Body",
-        "text": "Inclusive capitalism model: Nordic countries – free markets with strong welfare state, progressive taxation, universal services. Germany's 'social market economy'. India's mixed economy approach.",
         "order": 4,
-        "cite": "U15"
+        "text": "Inclusive capitalism model: Nordic countries – free markets with strong welfare state, progressive taxation, universal services. Germany's 'social market economy'. India's mixed economy approach."
       },
       {
         "section": "Conclusion",
-        "text": "Pure capitalism cannot; regulated capitalism with social safety nets and affirmative action (reservations, subsidies, public goods) can. India needs 'capitalism with a human face'.",
         "order": 5,
-        "cite": "U15"
+        "text": "Pure capitalism cannot; regulated capitalism with social safety nets and affirmative action (reservations, subsidies, public goods) can. India needs 'capitalism with a human face'."
       }
     ]
   }

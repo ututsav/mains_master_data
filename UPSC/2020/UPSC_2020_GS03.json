@@ -1,17 +1,17 @@
 [
   {
     "uid": "UPSC_2020_GSP3_01",
-    "paper_title": "GS Paper 3",
-    "year": 2020,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q1",
+    "year": 2020,
+    "paper_title": "GS Paper 3",
+    "q_number": "1",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U20",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "Explain intra-generational and inter-generational issues of equity from the perspective of inclusive growth and sustainable development. (Answer in 150 words)",
+    "cite": "UPSC Mains 2020 GS Paper 3",
+    "question_text": "Explain intra-generational and inter-generational issues of equity from the perspective of inclusive growth and sustainable development.",
     "subjectId": "economy",
     "subjects": [
       "Economy & Development"
@@ -24,70 +24,66 @@
       "Equity within and across generations"
     ],
     "keyPointers": [
-      "Intra: the poor of today must share the growth",
-      "Inter: today's use must not exhaust tomorrow",
-      "Inclusive growth is the first; sustainability is the second",
-      "A mine or a debt can fail one or both"
+      "Inclusive growth",
+      "Sustainable development",
+      "Inequality"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Equity within this generation means the poor of today must share the growth",
+      "Equity across generations means today's use must not exhaust tomorrow",
+      "A mine or a debt can fail one of them, or both"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Equity in sustainable development has two dimensions: intra‑generational (within current generation) and inter‑generational (between present and future generations).",
         "order": 1,
-        "cite": "U20"
+        "text": "Equity in sustainable development has two dimensions: intra‑generational (within current generation) and inter‑generational (between present and future generations)."
       },
       {
         "section": "Body",
-        "text": "Intra‑generational equity: Fair distribution of resources, opportunities, and environmental benefits among all people alive today – addressing poverty, inequality, and access to healthcare, education, clean water.",
         "order": 2,
-        "cite": "U20"
+        "text": "Intra‑generational equity: Fair distribution of resources, opportunities, and environmental benefits among all people alive today – addressing poverty, inequality, and access to healthcare, education, clean water."
       },
       {
         "section": "Body",
-        "text": "Example: Inclusive growth requires that economic gains reach marginalized groups (SC/ST, women, rural poor).",
         "order": 3,
-        "cite": "U20"
+        "text": "Example: Inclusive growth requires that economic gains reach marginalized groups (SC/ST, women, rural poor)."
       },
       {
         "section": "Body",
-        "text": "Inter‑generational equity: Present generation should not compromise the ability of future generations to meet their needs – sustainable use of natural resources, climate action, biodiversity conservation.",
         "order": 4,
-        "cite": "U20"
+        "text": "Inter‑generational equity: Present generation should not compromise the ability of future generations to meet their needs – sustainable use of natural resources, climate action, biodiversity conservation."
       },
       {
         "section": "Body",
-        "text": "Example: Overexploitation of groundwater or fossil fuels leaves future generations with depleted resources and climate crisis.",
         "order": 5,
-        "cite": "U20"
+        "text": "Example: Overexploitation of groundwater or fossil fuels leaves future generations with depleted resources and climate crisis."
       },
       {
         "section": "Body",
-        "text": "Conflict: Rapid industrialization (intra‑generational growth) may cause pollution (inter‑generational harm). Balancing requires green technologies and just transition policies.",
         "order": 6,
-        "cite": "U20"
+        "text": "Conflict: Rapid industrialization (intra‑generational growth) may cause pollution (inter‑generational harm). Balancing requires green technologies and just transition policies."
       },
       {
         "section": "Conclusion",
-        "text": "Thus, both equity dimensions are essential for sustainable development – policies must ensure inclusive growth today without stealing from tomorrow.",
         "order": 7,
-        "cite": "U20"
+        "text": "Thus, both equity dimensions are essential for sustainable development – policies must ensure inclusive growth today without stealing from tomorrow."
       }
     ]
   },
   {
     "uid": "UPSC_2020_GSP3_02",
-    "paper_title": "GS Paper 3",
-    "year": 2020,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q2",
+    "year": 2020,
+    "paper_title": "GS Paper 3",
+    "q_number": "2",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U20",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "Define potential GDP and explain its determinants. What are the factors that have been inhibiting India from realizing its potential GDP? (Answer in 150 words)",
+    "cite": "UPSC Mains 2020 GS Paper 3",
+    "question_text": "Define potential GDP and explain its determinants. What are the factors that have been inhibiting India from realizing its potential GDP?",
     "subjectId": "economy",
     "subjects": [
       "Economy & Development"
@@ -100,146 +96,138 @@
       "Potential GDP"
     ],
     "keyPointers": [
-      "The output an economy can sustain without overheating",
-      "Labour, capital, skills and productivity set it",
-      "India is held back by skills, infrastructure, farm stagnation and a small factory",
-      "The gap is unused capacity of people, not only machines"
+      "Economic growth",
+      "Skill and employability",
+      "Infrastructure",
+      "Manufacturing"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Potential output is what an economy can sustain without overheating",
+      "Labour, capital, skills and productivity set it",
+      "India is held back by skills, infrastructure, a stagnant farm and a small factory sector"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Potential GDP is the maximum output an economy can produce when all resources (labour, capital, land, technology) are fully employed at normal capacity utilisation.",
         "order": 1,
-        "cite": "U20"
+        "text": "Potential GDP is the maximum output an economy can produce when all resources (labour, capital, land, technology) are fully employed at normal capacity utilisation."
       },
       {
         "section": "Body",
-        "text": "Determinants: Labour force size and quality (education, health); capital stock (machinery, infrastructure); total factor productivity (technology, efficiency); natural resources.",
         "order": 2,
-        "cite": "U20"
+        "text": "Determinants: Labour force size and quality (education, health); capital stock (machinery, infrastructure); total factor productivity (technology, efficiency); natural resources."
       },
       {
         "section": "Body",
-        "text": "Inhibiting factors in India: Low labour force participation (especially women); skill mismatch and poor education outcomes (ASER reports).",
         "order": 3,
-        "cite": "U20"
+        "text": "Inhibiting factors in India: Low labour force participation (especially women); skill mismatch and poor education outcomes (ASER reports)."
       },
       {
         "section": "Body",
-        "text": "Inadequate infrastructure (power, transport, logistics) – raises cost of production; low private investment (debt‑burdened banks, policy uncertainty).",
         "order": 4,
-        "cite": "U20"
+        "text": "Inadequate infrastructure (power, transport, logistics) – raises cost of production; low private investment (debt‑burdened banks, policy uncertainty)."
       },
       {
         "section": "Body",
-        "text": "Structural issues: Land and labour laws rigidities; slow technology absorption in agriculture and manufacturing; informal sector dominance with low productivity.",
         "order": 5,
-        "cite": "U20"
+        "text": "Structural issues: Land and labour laws rigidities; slow technology absorption in agriculture and manufacturing; informal sector dominance with low productivity."
       },
       {
         "section": "Body",
-        "text": "Recent COVID shock further widened the output gap (actual GDP below potential).",
         "order": 6,
-        "cite": "U20"
+        "text": "Recent COVID shock further widened the output gap (actual GDP below potential)."
       },
       {
         "section": "Conclusion",
-        "text": "Closing the gap requires reforms in education, infrastructure, labour laws, and boosting private investment to reach potential GDP.",
         "order": 7,
-        "cite": "U20"
+        "text": "Closing the gap requires reforms in education, infrastructure, labour laws, and boosting private investment to reach potential GDP."
       }
     ]
   },
   {
     "uid": "UPSC_2020_GSP3_03",
-    "paper_title": "GS Paper 3",
-    "year": 2020,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q3",
+    "year": 2020,
+    "paper_title": "GS Paper 3",
+    "q_number": "3",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U20",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "What are the main constraints in transport and marketing of agricultural produce in India? (Answer in 150 words)",
-    "subjectId": "essay-econ",
+    "cite": "UPSC Mains 2020 GS Paper 3",
+    "question_text": "What are the main constraints in transport and marketing of agricultural produce in India?",
+    "subjectId": "agri",
     "subjects": [
-      "Essay — Polity, Sci, Economy, Agri"
+      "Agriculture"
     ],
-    "topic": "Essay — Polity/Econ",
+    "topic": "Moving the harvest",
     "topics": [
-      "Essay — Polity/Econ"
+      "Moving the harvest"
     ],
     "subTopics": [
       "Farm transport and marketing"
     ],
     "keyPointers": [
+      "Agricultural marketing",
+      "Logistics"
+    ],
+    "customKeyPointers": [
       "Small lots, many agents and a weak cold chain",
-      "A market that is far and a road that fails in rain",
-      "Price discovery is poor",
+      "The market is far, and the road fails in the rain",
       "The constraint is the chain between the field and the buyer"
     ],
-    "vault_path": null,
     "points": [
       {
         "section": "Intro",
-        "text": "Efficient transport and marketing reduce post‑harvest losses and ensure better prices. India faces multiple constraints.",
         "order": 1,
-        "cite": "U20"
+        "text": "Efficient transport and marketing reduce post‑harvest losses and ensure better prices. India faces multiple constraints."
       },
       {
         "section": "Body",
-        "text": "Transport constraints: Poor rural road connectivity (especially in eastern and hilly regions); inadequate refrigerated vehicles (cold chain gaps) for perishables.",
         "order": 2,
-        "cite": "U20"
+        "text": "Transport constraints: Poor rural road connectivity (especially in eastern and hilly regions); inadequate refrigerated vehicles (cold chain gaps) for perishables."
       },
       {
         "section": "Body",
-        "text": "High logistics cost (14-15% of GDP vs global 8%) due to fragmented supply chains, multiple checkpoints, and delays at state borders.",
         "order": 3,
-        "cite": "U20"
+        "text": "High logistics cost (14-15% of GDP vs global 8%) due to fragmented supply chains, multiple checkpoints, and delays at state borders."
       },
       {
         "section": "Body",
-        "text": "Marketing constraints: APMC mandis – limited number, high commission, cartelisation of traders; lack of direct farmer‑buyer linkage.",
         "order": 4,
-        "cite": "U20"
+        "text": "Marketing constraints: APMC mandis – limited number, high commission, cartelisation of traders; lack of direct farmer‑buyer linkage."
       },
       {
         "section": "Body",
-        "text": "Price volatility and lack of market information (though e‑NAM helps); small landholdings limit bargaining power; intermediaries take large margins.",
         "order": 5,
-        "cite": "U20"
+        "text": "Price volatility and lack of market information (though e‑NAM helps); small landholdings limit bargaining power; intermediaries take large margins."
       },
       {
         "section": "Body",
-        "text": "Post‑harvest losses: 10-15% due to lack of storage (godowns, silos, cold storage) and poor packaging.",
         "order": 6,
-        "cite": "U20"
+        "text": "Post‑harvest losses: 10-15% due to lack of storage (godowns, silos, cold storage) and poor packaging."
       },
       {
         "section": "Conclusion",
-        "text": "Addressing these requires investment in rural infrastructure, cold chains, reform of APMC (contract farming, direct marketing), and strengthening e‑NAM.",
         "order": 7,
-        "cite": "U20"
+        "text": "Addressing these requires investment in rural infrastructure, cold chains, reform of APMC (contract farming, direct marketing), and strengthening e‑NAM."
       }
     ]
   },
   {
     "uid": "UPSC_2020_GSP3_04",
-    "paper_title": "GS Paper 3",
-    "year": 2020,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q4",
+    "year": 2020,
+    "paper_title": "GS Paper 3",
+    "q_number": "4",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U20",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "What are the challenges and opportunities of food processing sector in the country? How can income of the farmers be substantially increased by encouraging food processing? (Answer in 150 words)",
+    "cite": "UPSC Mains 2020 GS Paper 3",
+    "question_text": "What are the challenges and opportunities of food processing sector in the country? How can income of the farmers be substantially increased by encouraging food processing?",
     "subjectId": "agri",
     "subjects": [
       "Agriculture & Food"
@@ -252,76 +240,71 @@
       "Food processing and farm income"
     ],
     "keyPointers": [
-      "Waste, standards and a seasonal raw material",
-      "A plant near the farm can pay more than a distress sale",
-      "Opportunity is export and a branded food",
-      "Income rises if the farmer is in the chain, not only beside it"
+      "Food processing",
+      "Farmer income",
+      "Logistics"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Waste, standards and a seasonal raw material are the challenges",
+      "A plant near the farm can pay more than a distress sale",
+      "The farmer's income rises if the farmer is inside the chain, not only beside it"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "India is 2nd largest producer of fruits & vegetables but processes only 10% (vs 80% in developed nations). The sector has huge potential.",
         "order": 1,
-        "cite": "U20"
+        "text": "India is 2nd largest producer of fruits & vegetables but processes only 10% (vs 80% in developed nations). The sector has huge potential."
       },
       {
         "section": "Body",
-        "text": "Challenges: Inadequate cold chain and warehousing; fragmented supply chain; high taxation (GST complexities); lack of quality control and food safety standards.",
         "order": 2,
-        "cite": "U20"
+        "text": "Challenges: Inadequate cold chain and warehousing; fragmented supply chain; high taxation (GST complexities); lack of quality control and food safety standards."
       },
       {
         "section": "Body",
-        "text": "Credit constraints for SMEs; competition from unorganised sector; seasonality of raw materials; low technology adoption.",
         "order": 3,
-        "cite": "U20"
+        "text": "Credit constraints for SMEs; competition from unorganised sector; seasonality of raw materials; low technology adoption."
       },
       {
         "section": "Body",
-        "text": "Opportunities: Rising urbanisation, middle‑class demand for processed food (ready‑to‑eat, packaged); export potential (mango pulp, frozen vegetables).",
         "order": 4,
-        "cite": "U20"
+        "text": "Opportunities: Rising urbanisation, middle‑class demand for processed food (ready‑to‑eat, packaged); export potential (mango pulp, frozen vegetables)."
       },
       {
         "section": "Body",
-        "text": "Government initiatives (PMKSY, Mega Food Parks, Kisan SAMPADA Yojana) provide infrastructure and subsidies.",
         "order": 5,
-        "cite": "U20"
+        "text": "Government initiatives (PMKSY, Mega Food Parks, Kisan SAMPADA Yojana) provide infrastructure and subsidies."
       },
       {
         "section": "Body",
-        "text": "Increasing farmer income: Processing reduces post‑harvest losses (currently 10-15%) – directly adds to farmer’s revenue. Contract farming ensures assured prices and reduces price volatility.",
         "order": 6,
-        "cite": "U20"
+        "text": "Increasing farmer income: Processing reduces post‑harvest losses (currently 10-15%) – directly adds to farmer’s revenue. Contract farming ensures assured prices and reduces price volatility."
       },
       {
         "section": "Body",
-        "text": "Value addition (e.g., tomato paste instead of raw tomato) multiplies farmer’s share. Creation of non‑seasonal employment in rural areas.",
         "order": 7,
-        "cite": "U20"
+        "text": "Value addition (e.g., tomato paste instead of raw tomato) multiplies farmer’s share. Creation of non‑seasonal employment in rural areas."
       },
       {
         "section": "Conclusion",
-        "text": "Thus, promoting food processing through infrastructure, credit, and technology can double farmer incomes and reduce waste.",
         "order": 8,
-        "cite": "U20"
+        "text": "Thus, promoting food processing through infrastructure, credit, and technology can double farmer incomes and reduce waste."
       }
     ]
   },
   {
     "uid": "UPSC_2020_GSP3_05",
-    "paper_title": "GS Paper 3",
-    "year": 2020,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q5",
+    "year": 2020,
+    "paper_title": "GS Paper 3",
+    "q_number": "5",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U20",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "What do you understand by nanotechnology and how is it helping in health sector? (Answer in 150 words)",
+    "cite": "UPSC Mains 2020 GS Paper 3",
+    "question_text": "What do you understand by nanotechnology and how is it helping in health sector?",
     "subjectId": "stech",
     "subjects": [
       "Science & Technology"
@@ -334,158 +317,147 @@
       "Nanotechnology in health"
     ],
     "keyPointers": [
-      "Work at a scale of a molecule",
-      "Targeted delivery of a drug and a finer diagnostic",
-      "Less dose, more precision",
-      "The help is real and still costly and regulated"
+      "Nanotechnology",
+      "Health technology"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The work is at the scale of a molecule",
+      "It can carry a drug to a chosen place and sharpen a diagnostic test",
+      "The help is real, and it is still costly and tightly regulated"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Nanotechnology deals with materials at 1‑100 nanometre scale, where properties (chemical, physical, biological) differ significantly from bulk materials.",
         "order": 1,
-        "cite": "U20"
+        "text": "Nanotechnology deals with materials at 1‑100 nanometre scale, where properties (chemical, physical, biological) differ significantly from bulk materials."
       },
       {
         "section": "Body",
-        "text": "Health sector applications: Targeted drug delivery – nanoparticles carry drugs directly to cancer cells, reducing side effects (e.g., Abraxane for breast cancer).",
         "order": 2,
-        "cite": "U20"
+        "text": "Health sector applications: Targeted drug delivery – nanoparticles carry drugs directly to cancer cells, reducing side effects (e.g., Abraxane for breast cancer)."
       },
       {
         "section": "Body",
-        "text": "Diagnostics: Nanosensors for early detection of diseases (e.g., gold nanoparticles for HIV, malaria); lab‑on‑a‑chip devices for rapid testing.",
         "order": 3,
-        "cite": "U20"
+        "text": "Diagnostics: Nanosensors for early detection of diseases (e.g., gold nanoparticles for HIV, malaria); lab‑on‑a‑chip devices for rapid testing."
       },
       {
         "section": "Body",
-        "text": "Imaging: Quantum dots for high‑resolution imaging of tumours and cellular processes.",
         "order": 4,
-        "cite": "U20"
+        "text": "Imaging: Quantum dots for high‑resolution imaging of tumours and cellular processes."
       },
       {
         "section": "Body",
-        "text": "Antimicrobial coatings: Silver nanoparticles in wound dressings, catheters to prevent infections.",
         "order": 5,
-        "cite": "U20"
+        "text": "Antimicrobial coatings: Silver nanoparticles in wound dressings, catheters to prevent infections."
       },
       {
         "section": "Body",
-        "text": "Regenerative medicine: Nanoscaffolds for tissue engineering (bone, skin grafting).",
         "order": 6,
-        "cite": "U20"
+        "text": "Regenerative medicine: Nanoscaffolds for tissue engineering (bone, skin grafting)."
       },
       {
         "section": "Body",
-        "text": "COVID‑19: Some nanoparticle‑based vaccines (e.g., Novavax) use spike protein on nanoparticle platform.",
         "order": 7,
-        "cite": "U20"
+        "text": "COVID‑19: Some nanoparticle‑based vaccines (e.g., Novavax) use spike protein on nanoparticle platform."
       },
       {
         "section": "Conclusion",
-        "text": "Nanotechnology revolutionises healthcare by enabling precision medicine, early diagnosis, and better therapeutic outcomes, though safety and ethical concerns remain.",
         "order": 8,
-        "cite": "U20"
+        "text": "Nanotechnology revolutionises healthcare by enabling precision medicine, early diagnosis, and better therapeutic outcomes, though safety and ethical concerns remain."
       }
     ]
   },
   {
     "uid": "UPSC_2020_GSP3_06",
-    "paper_title": "GS Paper 3",
-    "year": 2020,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q6",
+    "year": 2020,
+    "paper_title": "GS Paper 3",
+    "q_number": "6",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U20",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "How is science interwoven deeply with our lives? What are the striking changes in agriculture triggered off by the science-based technologies? (Answer in 150 words)",
-    "subjectId": "essay-econ",
+    "cite": "UPSC Mains 2020 GS Paper 3",
+    "question_text": "How is science interwoven deeply with our lives? What are the striking changes in agriculture triggered off by the science-based technologies?",
+    "subjectId": "agri",
     "subjects": [
-      "Essay — Polity, Sci, Economy, Agri"
+      "Agriculture"
     ],
-    "topic": "Essay — Polity/Econ",
+    "topic": "Science in the field",
     "topics": [
-      "Essay — Polity/Econ"
+      "Science in the field"
     ],
     "subTopics": [
       "Science in life and in farming"
     ],
     "keyPointers": [
-      "A phone, a medicine and a forecast are applied science",
-      "In farming: seed, fertiliser, irrigation and a satellite advisory",
-      "The striking change is yield and a new risk of input dependence",
-      "Science is ordinary life, not only a laboratory"
+      "Biotechnology",
+      "Irrigation",
+      "Climate and agriculture"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A phone, a medicine and a weather forecast are applied science in ordinary life",
+      "In farming the changes were seed, fertiliser, irrigation and a satellite advisory",
+      "The striking result is higher yield, and a new dependence on inputs"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Science permeates daily life – from smartphones and electricity to medicines and weather forecasts. In agriculture, science has transformed productivity.",
         "order": 1,
-        "cite": "U20"
+        "text": "Science permeates daily life – from smartphones and electricity to medicines and weather forecasts. In agriculture, science has transformed productivity."
       },
       {
         "section": "Body",
-        "text": "Green Revolution: High‑yielding varieties (HYVs), chemical fertilisers, and pesticides – led to food self‑sufficiency but also ecological issues.",
         "order": 2,
-        "cite": "U20"
+        "text": "Green Revolution: High‑yielding varieties (HYVs), chemical fertilisers, and pesticides – led to food self‑sufficiency but also ecological issues."
       },
       {
         "section": "Body",
-        "text": "Biotechnology: Genetically modified (Bt cotton) – reduced pesticide use; future GM crops (drought‑resistant, biofortified).",
         "order": 3,
-        "cite": "U20"
+        "text": "Biotechnology: Genetically modified (Bt cotton) – reduced pesticide use; future GM crops (drought‑resistant, biofortified)."
       },
       {
         "section": "Body",
-        "text": "Precision agriculture: GPS, remote sensing, and IoT for variable rate irrigation, fertiliser application – increases efficiency and reduces waste.",
         "order": 4,
-        "cite": "U20"
+        "text": "Precision agriculture: GPS, remote sensing, and IoT for variable rate irrigation, fertiliser application – increases efficiency and reduces waste."
       },
       {
         "section": "Body",
-        "text": "Drones for crop monitoring, pest detection, and spraying; soil health cards based on scientific analysis.",
         "order": 5,
-        "cite": "U20"
+        "text": "Drones for crop monitoring, pest detection, and spraying; soil health cards based on scientific analysis."
       },
       {
         "section": "Body",
-        "text": "Micro‑irrigation (sprinklers, drip) – science of water management; greenhouse cultivation for off‑season crops.",
         "order": 6,
-        "cite": "U20"
+        "text": "Micro‑irrigation (sprinklers, drip) – science of water management; greenhouse cultivation for off‑season crops."
       },
       {
         "section": "Body",
-        "text": "Post‑harvest technology: Cold storage, dehydrators, packaging – scientific methods reduce losses.",
         "order": 7,
-        "cite": "U20"
+        "text": "Post‑harvest technology: Cold storage, dehydrators, packaging – scientific methods reduce losses."
       },
       {
         "section": "Conclusion",
-        "text": "Thus, science has made agriculture more productive and resilient, but sustainable use requires balancing technology with ecological wisdom.",
         "order": 8,
-        "cite": "U20"
+        "text": "Thus, science has made agriculture more productive and resilient, but sustainable use requires balancing technology with ecological wisdom."
       }
     ]
   },
   {
     "uid": "UPSC_2020_GSP3_07",
-    "paper_title": "GS Paper 3",
-    "year": 2020,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q7",
+    "year": 2020,
+    "paper_title": "GS Paper 3",
+    "q_number": "7",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U20",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "How does the draft Environment Impact Assessment (EIA) Notification, 2020 differ from the existing EIA Notification, 2006? (Answer in 150 words)",
+    "cite": "UPSC Mains 2020 GS Paper 3",
+    "question_text": "How does the draft Environment Impact Assessment (EIA) Notification, 2020 differ from the existing EIA Notification, 2006?",
     "subjectId": "energyenv",
     "subjects": [
       "Energy, Environment, Disaster"
@@ -498,422 +470,392 @@
       "Draft EIA 2020 versus 2006"
     ],
     "keyPointers": [
-      "Post-facto approval for a project already built",
-      "Fewer mandatory public hearings",
-      "Wider exemptions",
-      "The shift was towards easier clearance and a weaker hearing"
+      "Pollution control boards"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The draft allowed approval after a project was already built",
+      "It reduced the cases that needed a public hearing",
+      "It widened the list of projects that could skip a full assessment",
+      "The shift was toward an easier clearance and a weaker hearing"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Draft EIA 2020 proposed to replace the 2006 notification. Key differences have raised concerns about environmental governance.",
         "order": 1,
-        "cite": "U20"
+        "text": "Draft EIA 2020 proposed to replace the 2006 notification. Key differences have raised concerns about environmental governance."
       },
       {
         "section": "Body",
-        "text": "Public consultation: 2020 draft removes mandatory public hearings for certain projects; allows ‘post‑facto’ approval for projects already built (not allowed earlier).",
         "order": 2,
-        "cite": "U20"
+        "text": "Public consultation: 2020 draft removes mandatory public hearings for certain projects; allows ‘post‑facto’ approval for projects already built (not allowed earlier)."
       },
       {
         "section": "Body",
-        "text": "Exemptions: 2020 draft exempts certain projects from EIA (e.g., strategic defence, some industrial estates). 2006 had fewer exemptions.",
         "order": 3,
-        "cite": "U20"
+        "text": "Exemptions: 2020 draft exempts certain projects from EIA (e.g., strategic defence, some industrial estates). 2006 had fewer exemptions."
       },
       {
         "section": "Body",
-        "text": "Time limits: 2020 reduces appraisal time from 105 to 60 days – critics fear rushed assessment. Also allows ‘offline’ submissions without physical meetings.",
         "order": 4,
-        "cite": "U20"
+        "text": "Time limits: 2020 reduces appraisal time from 105 to 60 days – critics fear rushed assessment. Also allows ‘offline’ submissions without physical meetings."
       },
       {
         "section": "Body",
-        "text": "Appellate authority: 2020 removes National Environment Appellate Authority (ineffective) but no replacement – gaps in grievance redressal.",
         "order": 5,
-        "cite": "U20"
+        "text": "Appellate authority: 2020 removes National Environment Appellate Authority (ineffective) but no replacement – gaps in grievance redressal."
       },
       {
         "section": "Body",
-        "text": "Penalties: 2020 introduces civil penalties (instead of criminal) for violations, which critics say dilutes deterrence.",
         "order": 6,
-        "cite": "U20"
+        "text": "Penalties: 2020 introduces civil penalties (instead of criminal) for violations, which critics say dilutes deterrence."
       },
       {
         "section": "Body",
-        "text": "2006 notification had stronger public participation and time‑tested procedures. Draft 2020 was withdrawn after criticism.",
         "order": 7,
-        "cite": "U20"
+        "text": "2006 notification had stronger public participation and time‑tested procedures. Draft 2020 was withdrawn after criticism."
       },
       {
         "section": "Conclusion",
-        "text": "Thus, draft 2020 sought to fast‑track clearances but at the cost of transparency and environmental safeguards, leading to its withdrawal.",
         "order": 8,
-        "cite": "U20"
+        "text": "Thus, draft 2020 sought to fast‑track clearances but at the cost of transparency and environmental safeguards, leading to its withdrawal."
       }
     ]
   },
   {
     "uid": "UPSC_2020_GSP3_08",
-    "paper_title": "GS Paper 3",
-    "year": 2020,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q8",
+    "year": 2020,
+    "paper_title": "GS Paper 3",
+    "q_number": "8",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U20",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "What are the salient features of the Jal Shakti Abhiyan launched by the Government of India for water conservation and water security? (Answer in 150 words)",
-    "subjectId": "economy",
+    "cite": "UPSC Mains 2020 GS Paper 3",
+    "question_text": "What are the salient features of the Jal Shakti Abhiyan launched by the Government of India for water conservation and water security?",
+    "subjectId": "energyenv",
     "subjects": [
-      "Economy & Development"
+      "Environment & Ecology"
     ],
-    "topic": "Economy",
+    "topic": "The water campaign",
     "topics": [
-      "Economy"
+      "The water campaign"
     ],
     "subTopics": [
       "Jal Shakti Abhiyan"
     ],
     "keyPointers": [
-      "A campaign for conservation and security of water",
-      "Rainwater harvesting, reuse and a check on groundwater",
-      "Focused on water-stressed blocks",
-      "A campaign works only if the structure is maintained after the drive"
+      "Freshwater availability",
+      "Groundwater depletion"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The campaign was for saving water and for water security",
+      "It pushed rainwater harvesting, reuse and a check on groundwater",
+      "It was focused on water-stressed blocks, and it works only if the structure is maintained after the drive"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Jal Shakti Abhiyan (2019) is a time‑bound, inter‑ministerial campaign focused on water conservation in water‑stressed districts.",
         "order": 1,
-        "cite": "U20"
+        "text": "Jal Shakti Abhiyan (2019) is a time‑bound, inter‑ministerial campaign focused on water conservation in water‑stressed districts."
       },
       {
         "section": "Body",
-        "text": "Focus areas: 256 water‑stressed districts across India, with a team of central government officers deployed to each.",
         "order": 2,
-        "cite": "U20"
+        "text": "Focus areas: 256 water‑stressed districts across India, with a team of central government officers deployed to each."
       },
       {
         "section": "Body",
-        "text": "Key interventions: Rainwater harvesting – construction of check dams, percolation tanks, recharge pits; renovation of traditional water bodies (ponds, stepwells).",
         "order": 3,
-        "cite": "U20"
+        "text": "Key interventions: Rainwater harvesting – construction of check dams, percolation tanks, recharge pits; renovation of traditional water bodies (ponds, stepwells)."
       },
       {
         "section": "Body",
-        "text": "Intensive afforestation and watershed development; reuse of treated wastewater; promotion of drip/sprinkler irrigation.",
         "order": 4,
-        "cite": "U20"
+        "text": "Intensive afforestation and watershed development; reuse of treated wastewater; promotion of drip/sprinkler irrigation."
       },
       {
         "section": "Body",
-        "text": "Monitoring: Real‑time geotagging of structures; ‘Jal Shakti Abhiyan’ app for citizen reporting; district‑level water budgets.",
         "order": 5,
-        "cite": "U20"
+        "text": "Monitoring: Real‑time geotagging of structures; ‘Jal Shakti Abhiyan’ app for citizen reporting; district‑level water budgets."
       },
       {
         "section": "Body",
-        "text": "Convergence: MGNREGS, PMKSY, National Rural Drinking Water Mission (Jal Jeevan Mission).",
         "order": 6,
-        "cite": "U20"
+        "text": "Convergence: MGNREGS, PMKSY, National Rural Drinking Water Mission (Jal Jeevan Mission)."
       },
       {
         "section": "Body",
-        "text": "Impact: Over 10 lakh water harvesting structures created in first phase; improved groundwater levels in some blocks.",
         "order": 7,
-        "cite": "U20"
+        "text": "Impact: Over 10 lakh water harvesting structures created in first phase; improved groundwater levels in some blocks."
       },
       {
         "section": "Conclusion",
-        "text": "Thus, Jal Shakti Abhiyan adopts a participatory, mission‑mode approach to water security, but long‑term behavioural change remains key.",
         "order": 8,
-        "cite": "U20"
+        "text": "Thus, Jal Shakti Abhiyan adopts a participatory, mission‑mode approach to water security, but long‑term behavioural change remains key."
       }
     ]
   },
   {
     "uid": "UPSC_2020_GSP3_09",
-    "paper_title": "GS Paper 3",
-    "year": 2020,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q9",
+    "year": 2020,
+    "paper_title": "GS Paper 3",
+    "q_number": "9",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U20",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "Discuss different types of cyber crimes and measures required to be taken to fight the menace. (Answer in 150 words)",
-    "subjectId": "economy",
+    "cite": "UPSC Mains 2020 GS Paper 3",
+    "question_text": "Discuss different types of cyber crimes and measures required to be taken to fight the menace.",
+    "subjectId": "security",
     "subjects": [
-      "Economy & Development"
+      "Internal Security"
     ],
-    "topic": "Economy",
+    "topic": "Cyber crime",
     "topics": [
-      "Economy"
+      "Cyber crime"
     ],
     "subTopics": [
       "Types of cyber crime"
     ],
     "keyPointers": [
-      "Fraud, a hack of infrastructure, abuse images and a fake identity",
-      "Measures: a law, a forensic capacity and a citizen habit",
-      "Sharing of threat information across agencies",
-      "The menace is ordinary crime with a new tool"
+      "Cyber attacks",
+      "Cyber security",
+      "Organised crime"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The types include fraud, an attack on infrastructure, abuse images and a fake identity",
+      "The tools are a law, a forensic capacity and a citizen habit",
+      "Agencies also have to share what they know about the threat"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Cyber crimes are illegal activities using computers or networks. They have grown with digitalisation, especially during COVID.",
         "order": 1,
-        "cite": "U20"
+        "text": "Cyber crimes are illegal activities using computers or networks. They have grown with digitalisation, especially during COVID."
       },
       {
         "section": "Body",
-        "text": "Types: Phishing (fraudulent emails/links to steal credentials); ransomware (encrypting data for ransom); identity theft (using stolen personal info).",
         "order": 2,
-        "cite": "U20"
+        "text": "Types: Phishing (fraudulent emails/links to steal credentials); ransomware (encrypting data for ransom); identity theft (using stolen personal info)."
       },
       {
         "section": "Body",
-        "text": "Online financial frauds (UPI scams, card cloning); cyber stalking/harassment; child pornography; cryptocurrency scams; data breaches.",
         "order": 3,
-        "cite": "U20"
+        "text": "Online financial frauds (UPI scams, card cloning); cyber stalking/harassment; child pornography; cryptocurrency scams; data breaches."
       },
       {
         "section": "Body",
-        "text": "Measures: Strengthen legal framework (IT Act 2000 amendments); establish dedicated cyber crime cells in all districts (I4C).",
         "order": 4,
-        "cite": "U20"
+        "text": "Measures: Strengthen legal framework (IT Act 2000 amendments); establish dedicated cyber crime cells in all districts (I4C)."
       },
       {
         "section": "Body",
-        "text": "Capacity building: Train law enforcement in digital forensics; public awareness campaigns (cyber hygiene, two‑factor authentication).",
         "order": 5,
-        "cite": "U20"
+        "text": "Capacity building: Train law enforcement in digital forensics; public awareness campaigns (cyber hygiene, two‑factor authentication)."
       },
       {
         "section": "Body",
-        "text": "International cooperation (Mutual Legal Assistance Treaties); private‑public partnership (banks, social media platforms for quick reporting).",
         "order": 6,
-        "cite": "U20"
+        "text": "International cooperation (Mutual Legal Assistance Treaties); private‑public partnership (banks, social media platforms for quick reporting)."
       },
       {
         "section": "Body",
-        "text": "Technical measures: Use of AI for threat detection; mandatory data breach notification; CERT‑In’s proactive roles.",
         "order": 7,
-        "cite": "U20"
+        "text": "Technical measures: Use of AI for threat detection; mandatory data breach notification; CERT‑In’s proactive roles."
       },
       {
         "section": "Conclusion",
-        "text": "Fighting cyber crime requires a multi‑pronged strategy – legal, technical, institutional, and behavioural – given its cross‑border nature.",
         "order": 8,
-        "cite": "U20"
+        "text": "Fighting cyber crime requires a multi‑pronged strategy – legal, technical, institutional, and behavioural – given its cross‑border nature."
       }
     ]
   },
   {
     "uid": "UPSC_2020_GSP3_10",
-    "paper_title": "GS Paper 3",
-    "year": 2020,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q10",
+    "year": 2020,
+    "paper_title": "GS Paper 3",
+    "q_number": "10",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U20",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "For effective border area management, discuss the steps required to be taken to deny local support to militants and also suggest ways to manage favourable perception among locals. (Answer in 150 words)",
-    "subjectId": "economy",
+    "cite": "UPSC Mains 2020 GS Paper 3",
+    "question_text": "For effective border area management, discuss the steps required to be taken to deny local support to militants and also suggest ways to manage favourable perception among locals.",
+    "subjectId": "security",
     "subjects": [
-      "Economy & Development"
+      "Internal Security"
     ],
-    "topic": "Economy",
+    "topic": "Border areas and local support",
     "topics": [
-      "Economy"
+      "Border areas and local support"
     ],
     "subTopics": [
       "Local support in border areas"
     ],
     "keyPointers": [
-      "Harbouring survives on fear and alienation",
-      "Arrest the support network and protect an informant",
-      "Jobs, a road and a fair force change the perception",
-      "Security without a grievance heard recreates the support"
+      "Border management",
+      "Development and security",
+      "Terrorism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Shelter for militants survives on fear and alienation",
+      "The support network has to be reached, and an informant protected",
+      "A job, a road and a fair force change how local people see the state"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Border areas (J&K, Northeast, Maoist‑affected) often have militant presence sustained by local support due to alienation or fear.",
         "order": 1,
-        "cite": "U20"
+        "text": "Border areas (J&K, Northeast, Maoist‑affected) often have militant presence sustained by local support due to alienation or fear."
       },
       {
         "section": "Body",
-        "text": "Deny local support: Intelligence‑led operations to identify and arrest sympathisers; provide security to informants; enforce strict law against harbouring militants.",
         "order": 2,
-        "cite": "U20"
+        "text": "Deny local support: Intelligence‑led operations to identify and arrest sympathisers; provide security to informants; enforce strict law against harbouring militants."
       },
       {
         "section": "Body",
-        "text": "Economic development: Improve infrastructure (roads, electricity, internet), healthcare, education – reduce grievances that fuel militancy.",
         "order": 3,
-        "cite": "U20"
+        "text": "Economic development: Improve infrastructure (roads, electricity, internet), healthcare, education – reduce grievances that fuel militancy."
       },
       {
         "section": "Body",
-        "text": "Employment generation (skill development, border tourism, horticulture) – give economic alternatives to joining militancy.",
         "order": 4,
-        "cite": "U20"
+        "text": "Employment generation (skill development, border tourism, horticulture) – give economic alternatives to joining militancy."
       },
       {
         "section": "Body",
-        "text": "Manage perception: Respect local culture, language, and customary laws; avoid human rights violations during counter‑insurgency operations.",
         "order": 5,
-        "cite": "U20"
+        "text": "Manage perception: Respect local culture, language, and customary laws; avoid human rights violations during counter‑insurgency operations."
       },
       {
         "section": "Body",
-        "text": "Civil‑military liaison: Community policing, regular public meetings, grievance redressal cells. Rehabilitation of surrendered militants with skill training.",
         "order": 6,
-        "cite": "U20"
+        "text": "Civil‑military liaison: Community policing, regular public meetings, grievance redressal cells. Rehabilitation of surrendered militants with skill training."
       },
       {
         "section": "Body",
-        "text": "Example: Mizoram’s successful integration of surrendered MNF cadres through peace accord and development.",
         "order": 7,
-        "cite": "U20"
+        "text": "Example: Mizoram’s successful integration of surrendered MNF cadres through peace accord and development."
       },
       {
         "section": "Conclusion",
-        "text": "Thus, denying local support requires a ‘hearts and minds’ approach – development plus security, with respect for local identity.",
         "order": 8,
-        "cite": "U20"
+        "text": "Thus, denying local support requires a ‘hearts and minds’ approach – development plus security, with respect for local identity."
       }
     ]
   },
   {
     "uid": "UPSC_2020_GSP3_11",
-    "paper_title": "GS Paper 3",
-    "year": 2020,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q11",
+    "year": 2020,
+    "paper_title": "GS Paper 3",
+    "q_number": "11",
     "marks": 15,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U20",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "Explain the meaning of investment in an economy in terms of capital formation. Discuss the factors to be considered while designing a concession agreement between a public entity and a private entity. (Answer in 250 words)",
-    "subjectId": "essay-econ",
+    "cite": "UPSC Mains 2020 GS Paper 3",
+    "question_text": "Explain the meaning of investment in an economy in terms of capital formation. Discuss the factors to be considered while designing a concession agreement between a public entity and a private entity.",
+    "subjectId": "economy",
     "subjects": [
-      "Essay — Polity, Sci, Economy, Agri"
+      "Economy & Development"
     ],
-    "topic": "Essay — Polity/Econ",
+    "topic": "Investment and capital",
     "topics": [
-      "Essay — Polity/Econ"
+      "Investment and capital"
     ],
     "subTopics": [
       "Investment and capital formation"
     ],
     "keyPointers": [
-      "Investment is the addition to the stock of capital",
-      "Savings, a bank and a public project turn money into that stock",
-      "A policy must watch who saves, the risk, and whether it builds a productive asset",
-      "A financial boom is not capital formation"
+      "Infrastructure",
+      "Public debt",
+      "Ease of doing business"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Investment, in this sense, is an addition to the stock of capital",
+      "Savings, a bank and a public project turn money into that stock",
+      "A financial boom is not the same as capital formation"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Investment in economics refers to capital formation – addition to physical capital (machinery, buildings, infrastructure) that increases future productive capacity.",
         "order": 1,
-        "cite": "U20"
+        "text": "Investment in economics refers to capital formation – addition to physical capital (machinery, buildings, infrastructure) that increases future productive capacity."
       },
       {
         "section": "Body",
-        "text": "Capital formation includes gross fixed capital formation (GFCF) and change in inventories. It is financed by savings (domestic or foreign).",
         "order": 2,
-        "cite": "U20"
+        "text": "Capital formation includes gross fixed capital formation (GFCF) and change in inventories. It is financed by savings (domestic or foreign)."
       },
       {
         "section": "Body",
-        "text": "Concession agreement: A contract where public entity grants private entity the right to build and operate infrastructure (e.g., toll road, power plant) for a specified period.",
         "order": 3,
-        "cite": "U20"
+        "text": "Concession agreement: A contract where public entity grants private entity the right to build and operate infrastructure (e.g., toll road, power plant) for a specified period."
       },
       {
         "section": "Body",
-        "text": "Factors to consider while designing: Risk allocation – construction risk, demand risk, regulatory risk should be borne by party best able to manage them.",
         "order": 4,
-        "cite": "U20"
+        "text": "Factors to consider while designing: Risk allocation – construction risk, demand risk, regulatory risk should be borne by party best able to manage them."
       },
       {
         "section": "Body",
-        "text": "Term length: Long enough for private entity to recover investment (typically 20-30 years) but not excessive to avoid monopoly pricing.",
         "order": 5,
-        "cite": "U20"
+        "text": "Term length: Long enough for private entity to recover investment (typically 20-30 years) but not excessive to avoid monopoly pricing."
       },
       {
         "section": "Body",
-        "text": "Tariff/revenue model: Fixed user fee vs. government annuity; inflation indexation; revenue sharing beyond a threshold.",
         "order": 6,
-        "cite": "U20"
+        "text": "Tariff/revenue model: Fixed user fee vs. government annuity; inflation indexation; revenue sharing beyond a threshold."
       },
       {
         "section": "Body",
-        "text": "Performance standards: Quality, safety, maintenance obligations with penalty clauses; independent monitoring mechanism.",
         "order": 7,
-        "cite": "U20"
+        "text": "Performance standards: Quality, safety, maintenance obligations with penalty clauses; independent monitoring mechanism."
       },
       {
         "section": "Body",
-        "text": "Termination and force majeure: Clear conditions for termination, compensation for early termination, and handling of unforeseen events (e.g., COVID).",
         "order": 8,
-        "cite": "U20"
+        "text": "Termination and force majeure: Clear conditions for termination, compensation for early termination, and handling of unforeseen events (e.g., COVID)."
       },
       {
         "section": "Body",
-        "text": "Dispute resolution: Arbitration (domestic or international) to avoid lengthy court battles.",
         "order": 9,
-        "cite": "U20"
+        "text": "Dispute resolution: Arbitration (domestic or international) to avoid lengthy court battles."
       },
       {
         "section": "Body",
-        "text": "Examples: National Highway Authority of India’s model concession agreement for BOT (Toll) projects.",
         "order": 10,
-        "cite": "U20"
+        "text": "Examples: National Highway Authority of India’s model concession agreement for BOT (Toll) projects."
       },
       {
         "section": "Conclusion",
-        "text": "Well‑designed concession agreements balance private profitability with public interest, crucial for PPP success and infrastructure investment.",
         "order": 11,
-        "cite": "U20"
+        "text": "Well‑designed concession agreements balance private profitability with public interest, crucial for PPP success and infrastructure investment."
       }
     ]
   },
   {
     "uid": "UPSC_2020_GSP3_12",
-    "paper_title": "GS Paper 3",
-    "year": 2020,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q12",
+    "year": 2020,
+    "paper_title": "GS Paper 3",
+    "q_number": "12",
     "marks": 15,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U20",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "Explain the rationale behind the Goods and Services Tax (Compensation to States) Act of 2017. How has COVID-19 impacted the GST compensation fund and created new federal tensions? (Answer in 250 words)",
+    "cite": "UPSC Mains 2020 GS Paper 3",
+    "question_text": "Explain the rationale behind the Goods and Services Tax (Compensation to States) Act of 2017. How has COVID-19 impacted the GST compensation fund and created new federal tensions?",
     "subjectId": "constitution",
     "subjects": [
       "Constitution & Polity"
@@ -926,170 +868,159 @@
       "GST compensation and COVID"
     ],
     "keyPointers": [
-      "States gave up taxes for a promised growth in revenue",
-      "Compensation was the political bargain",
-      "COVID crashed collections and widened the gap",
-      "The rationale held; the money did not"
+      "Goods and Services Tax",
+      "Centre-state finance",
+      "Cooperative federalism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "States gave up their own taxes for a promised growth in revenue",
+      "The compensation law was the political bargain",
+      "The pandemic crashed collections and widened the gap the Centre had promised to fill"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "GST Compensation Act 2017 guaranteed states a 14% annual revenue growth over base year (2015-16) for five years, funded by a compensation cess.",
         "order": 1,
-        "cite": "U20"
+        "text": "GST Compensation Act 2017 guaranteed states a 14% annual revenue growth over base year (2015-16) for five years, funded by a compensation cess."
       },
       {
         "section": "Body",
-        "text": "Rationale: States feared revenue loss after subsuming their taxes (VAT, entry tax) into GST. Compensation assured them of no loss, facilitating consensus for GST rollout.",
         "order": 2,
-        "cite": "U20"
+        "text": "Rationale: States feared revenue loss after subsuming their taxes (VAT, entry tax) into GST. Compensation assured them of no loss, facilitating consensus for GST rollout."
       },
       {
         "section": "Body",
-        "text": "Cess levied on luxury/demerger goods (cars, tobacco, coal) – collected in a non‑lapsable fund. Any shortfall in states’ actual revenue vs. protected revenue paid from this fund.",
         "order": 3,
-        "cite": "U20"
+        "text": "Cess levied on luxury/demerger goods (cars, tobacco, coal) – collected in a non‑lapsable fund. Any shortfall in states’ actual revenue vs. protected revenue paid from this fund."
       },
       {
         "section": "Body",
-        "text": "COVID impact: Economic slowdown reduced GST collections drastically; compensation cess collection also fell. The fund had a shortfall of ~₹2.35 lakh crore for 2020-21.",
         "order": 4,
-        "cite": "U20"
+        "text": "COVID impact: Economic slowdown reduced GST collections drastically; compensation cess collection also fell. The fund had a shortfall of ~₹2.35 lakh crore for 2020-21."
       },
       {
         "section": "Body",
-        "text": "Federal tensions: Centre offered states two options – borrow the shortfall from RBI (with interest) or accept a lower amount. Opposition‑ruled states accused Centre of reneging on promise.",
         "order": 5,
-        "cite": "U20"
+        "text": "Federal tensions: Centre offered states two options – borrow the shortfall from RBI (with interest) or accept a lower amount. Opposition‑ruled states accused Centre of reneging on promise."
       },
       {
         "section": "Body",
-        "text": "Centre argued that Act only promised compensation for five years (till June 2022) but did not guarantee borrowing; states wanted Centre to borrow on their behalf.",
         "order": 6,
-        "cite": "U20"
+        "text": "Centre argued that Act only promised compensation for five years (till June 2022) but did not guarantee borrowing; states wanted Centre to borrow on their behalf."
       },
       {
         "section": "Body",
-        "text": "Compromise reached: Centre borrowed ₹1.1 lakh crore and lent to states at interest; additional borrowing via special window. But trust deficit increased.",
         "order": 7,
-        "cite": "U20"
+        "text": "Compromise reached: Centre borrowed ₹1.1 lakh crore and lent to states at interest; additional borrowing via special window. But trust deficit increased."
       },
       {
         "section": "Body",
-        "text": "Long‑term issue: Post‑2022, no compensation mechanism exists. States demand extending compensation or devolution of greater tax powers.",
         "order": 8,
-        "cite": "U20"
+        "text": "Long‑term issue: Post‑2022, no compensation mechanism exists. States demand extending compensation or devolution of greater tax powers."
       },
       {
         "section": "Conclusion",
-        "text": "COVID exposed the fragility of GST compensation model, straining centre‑state relations. A permanent solution (e.g., higher devolution) is needed.",
         "order": 9,
-        "cite": "U20"
+        "text": "COVID exposed the fragility of GST compensation model, straining centre‑state relations. A permanent solution (e.g., higher devolution) is needed."
       }
     ]
   },
   {
     "uid": "UPSC_2020_GSP3_13",
-    "paper_title": "GS Paper 3",
-    "year": 2020,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q13",
+    "year": 2020,
+    "paper_title": "GS Paper 3",
+    "q_number": "13",
     "marks": 15,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U20",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "What are the major factors responsible for making rice-wheat system a success? In spite of this success how has this system become bane in India? (Answer in 250 words)",
-    "subjectId": "economy",
+    "cite": "UPSC Mains 2020 GS Paper 3",
+    "question_text": "What are the major factors responsible for making rice-wheat system a success? In spite of this success how has this system become bane in India?",
+    "subjectId": "agri",
     "subjects": [
-      "Economy & Development"
+      "Agriculture"
     ],
-    "topic": "Economy",
+    "topic": "The rice-wheat system",
     "topics": [
-      "Economy"
+      "The rice-wheat system"
     ],
     "subTopics": [
       "Rice-wheat system"
     ],
     "keyPointers": [
-      "Assured water, a seed and a price support made it succeed",
-      "It filled the food gap",
-      "Water, soil and a narrow diet are the bale",
-      "Success in grain became a failure in sustainability"
+      "Cropping pattern",
+      "Minimum support price",
+      "Irrigation",
+      "Groundwater depletion"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Assured water, a new seed and a support price made it succeed",
+      "It closed the food gap",
+      "Water, soil and a narrow diet are the cost of that success"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Rice‑wheat cropping system dominates the Indo‑Gangetic Plains, ensuring food security. Its success factors are now causing ecological and economic distress.",
         "order": 1,
-        "cite": "U20"
+        "text": "Rice‑wheat cropping system dominates the Indo‑Gangetic Plains, ensuring food security. Its success factors are now causing ecological and economic distress."
       },
       {
         "section": "Body",
-        "text": "Success factors: Green Revolution – high‑yielding varieties (IR8 rice, Kalyan Sona wheat) with fertiliser and pesticide response; assured irrigation (tube wells, canals).",
         "order": 2,
-        "cite": "U20"
+        "text": "Success factors: Green Revolution – high‑yielding varieties (IR8 rice, Kalyan Sona wheat) with fertiliser and pesticide response; assured irrigation (tube wells, canals)."
       },
       {
         "section": "Body",
-        "text": "Government support: Minimum Support Price (MSP) for both crops, procurement by FCI, subsidised electricity and fertilisers (urea).",
         "order": 3,
-        "cite": "U20"
+        "text": "Government support: Minimum Support Price (MSP) for both crops, procurement by FCI, subsidised electricity and fertilisers (urea)."
       },
       {
         "section": "Body",
-        "text": "Matching climate: Winter wheat after monsoon rice fits well in north India; crop rotation improves soil structure (initially).",
         "order": 4,
-        "cite": "U20"
+        "text": "Matching climate: Winter wheat after monsoon rice fits well in north India; crop rotation improves soil structure (initially)."
       },
       {
         "section": "Body",
-        "text": "Bane aspects: Groundwater depletion – free electricity led to over‑extraction; Punjab water table falling 1 m/year. Soil degradation – continuous puddling destroys soil aggregates, causing hardpan.",
         "order": 5,
-        "cite": "U20"
+        "text": "Bane aspects: Groundwater depletion – free electricity led to over‑extraction; Punjab water table falling 1 m/year. Soil degradation – continuous puddling destroys soil aggregates, causing hardpan."
       },
       {
         "section": "Body",
-        "text": "Air pollution: Paddy stubble burning in Oct‑Nov worsens Delhi’s smog. Overuse of fertilisers – nitrogen imbalance, nitrate contamination of water.",
         "order": 6,
-        "cite": "U20"
+        "text": "Air pollution: Paddy stubble burning in Oct‑Nov worsens Delhi’s smog. Overuse of fertilisers – nitrogen imbalance, nitrate contamination of water."
       },
       {
         "section": "Body",
-        "text": "Economic unsustainability: Rising input costs (labour, diesel) and falling output prices (except MSP) squeeze farmer incomes. Monoculture leads to pest outbreaks (brown plant hopper).",
         "order": 7,
-        "cite": "U20"
+        "text": "Economic unsustainability: Rising input costs (labour, diesel) and falling output prices (except MSP) squeeze farmer incomes. Monoculture leads to pest outbreaks (brown plant hopper)."
       },
       {
         "section": "Body",
-        "text": "Climate vulnerability: Rice requires flooding – methane emission; wheat needs cool winters – heat waves reduce yield.",
         "order": 8,
-        "cite": "U20"
+        "text": "Climate vulnerability: Rice requires flooding – methane emission; wheat needs cool winters – heat waves reduce yield."
       },
       {
         "section": "Conclusion",
-        "text": "Thus, success turned into bane due to ecological externalities and policy distortions. Diversification to pulses, oilseeds, and direct‑seeded rice (DSR) is needed.",
         "order": 9,
-        "cite": "U20"
+        "text": "Thus, success turned into bane due to ecological externalities and policy distortions. Diversification to pulses, oilseeds, and direct‑seeded rice (DSR) is needed."
       }
     ]
   },
   {
     "uid": "UPSC_2020_GSP3_14",
-    "paper_title": "GS Paper 3",
-    "year": 2020,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q14",
+    "year": 2020,
+    "paper_title": "GS Paper 3",
+    "q_number": "14",
     "marks": 15,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U20",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "Suggest measures to improve water storage and irrigation system to make its judicious use under depleting scenario. (Answer in 250 words)",
+    "cite": "UPSC Mains 2020 GS Paper 3",
+    "question_text": "Suggest measures to improve water storage and irrigation system to make its judicious use under depleting scenario.",
     "subjectId": "agri",
     "subjects": [
       "Agriculture & Food"
@@ -1102,364 +1033,335 @@
       "Storage and judicious irrigation"
     ],
     "keyPointers": [
-      "Store rain instead of mining the aquifer",
-      "Micro-irrigation uses less for the same crop",
-      "Tanks, recharge and a crop that fits the water",
-      "Judicious use is the crop choice, not only a new dam"
+      "Irrigation",
+      "Groundwater depletion",
+      "Freshwater availability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Store the rain instead of mining the aquifer",
+      "Drip and sprinkler use less water for the same crop",
+      "The careful choice is also which crop is planted, not only whether a new dam is built"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "India’s per capita water availability is declining; groundwater is overexploited. Improved storage and efficient irrigation are critical.",
         "order": 1,
-        "cite": "U20"
+        "text": "India’s per capita water availability is declining; groundwater is overexploited. Improved storage and efficient irrigation are critical."
       },
       {
         "section": "Body",
-        "text": "Water storage measures: Renovate traditional water bodies (tanks, stepwells, johads); construct check dams and percolation pits in catchment areas.",
         "order": 2,
-        "cite": "U20"
+        "text": "Water storage measures: Renovate traditional water bodies (tanks, stepwells, johads); construct check dams and percolation pits in catchment areas."
       },
       {
         "section": "Body",
-        "text": "Rainwater harvesting mandatory in urban buildings (Rooftop harvesting); artificial recharge of aquifers through injection wells.",
         "order": 3,
-        "cite": "U20"
+        "text": "Rainwater harvesting mandatory in urban buildings (Rooftop harvesting); artificial recharge of aquifers through injection wells."
       },
       {
         "section": "Body",
-        "text": "Farm ponds (Atal Bhujal Yojana) – store rainwater for dry spells; revival of lakes (e.g., Bengaluru’s lakes under rejuvenation).",
         "order": 4,
-        "cite": "U20"
+        "text": "Farm ponds (Atal Bhujal Yojana) – store rainwater for dry spells; revival of lakes (e.g., Bengaluru’s lakes under rejuvenation)."
       },
       {
         "section": "Body",
-        "text": "Irrigation improvements: Shift from flood to micro‑irrigation (drip and sprinkler) – water saving up to 50%. Subsidies under PMKSY (Per Drop More Crop).",
         "order": 5,
-        "cite": "U20"
+        "text": "Irrigation improvements: Shift from flood to micro‑irrigation (drip and sprinkler) – water saving up to 50%. Subsidies under PMKSY (Per Drop More Crop)."
       },
       {
         "section": "Body",
-        "text": "Lining of canals to reduce seepage; use of solar pumps with smart controllers to prevent over‑extraction.",
         "order": 6,
-        "cite": "U20"
+        "text": "Lining of canals to reduce seepage; use of solar pumps with smart controllers to prevent over‑extraction."
       },
       {
         "section": "Body",
-        "text": "Precision irrigation: Soil moisture sensors, weather‑based scheduling; laser land levelling reduces water use by 20%.",
         "order": 7,
-        "cite": "U20"
+        "text": "Precision irrigation: Soil moisture sensors, weather‑based scheduling; laser land levelling reduces water use by 20%."
       },
       {
         "section": "Body",
-        "text": "Water‑efficient crops: Promote millets, pulses, oilseeds over paddy in water‑scarce regions (e.g., Punjab’s diversification).",
         "order": 8,
-        "cite": "U20"
+        "text": "Water‑efficient crops: Promote millets, pulses, oilseeds over paddy in water‑scarce regions (e.g., Punjab’s diversification)."
       },
       {
         "section": "Body",
-        "text": "Policy measures: Separate electricity feeder for agriculture; pricing water (volumetric) to discourage waste; groundwater regulation (Jal Shakti Ministry).",
         "order": 9,
-        "cite": "U20"
+        "text": "Policy measures: Separate electricity feeder for agriculture; pricing water (volumetric) to discourage waste; groundwater regulation (Jal Shakti Ministry)."
       },
       {
         "section": "Conclusion",
-        "text": "Judicious use requires storage enhancement, efficient delivery, and demand management – integrated water resource management (IWRM) approach.",
         "order": 10,
-        "cite": "U20"
+        "text": "Judicious use requires storage enhancement, efficient delivery, and demand management – integrated water resource management (IWRM) approach."
       }
     ]
   },
   {
     "uid": "UPSC_2020_GSP3_15",
-    "paper_title": "GS Paper 3",
-    "year": 2020,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q15",
+    "year": 2020,
+    "paper_title": "GS Paper 3",
+    "q_number": "15",
     "marks": 15,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U20",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "COVID-19 pandemic has caused unprecedented devastation worldwide. However, technological advancements are being availed readily to win over the crisis. Give an account of how technology was sought to aid management of the pandemic. (Answer in 250 words)",
-    "subjectId": "essay-econ",
+    "cite": "UPSC Mains 2020 GS Paper 3",
+    "question_text": "COVID-19 pandemic has caused unprecedented devastation worldwide. However, technological advancements are being availed readily to win over the crisis. Give an account of how technology was sought to aid management of the pandemic.",
+    "subjectId": "stech",
     "subjects": [
-      "Essay — Polity, Sci, Economy, Agri"
+      "Science & Technology"
     ],
-    "topic": "Essay — Polity/Econ",
+    "topic": "Technology in the pandemic",
     "topics": [
-      "Essay — Polity/Econ"
+      "Technology in the pandemic"
     ],
     "subTopics": [
       "Technology in the COVID response"
     ],
     "keyPointers": [
-      "Testing, tracing and a vaccine platform",
-      "Work and school moved online",
-      "The same tools excluded those without a device",
-      "Technology reduced the harm and revealed the gap"
+      "Vaccines",
+      "Digital divide",
+      "Health technology"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Testing, tracing and a vaccine platform were used at once",
+      "Work and school moved online",
+      "The same tools left out people without a device"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "COVID‑19 accelerated technology adoption for surveillance, diagnosis, treatment, and vaccination. Digital tools became crucial.",
         "order": 1,
-        "cite": "U20"
+        "text": "COVID‑19 accelerated technology adoption for surveillance, diagnosis, treatment, and vaccination. Digital tools became crucial."
       },
       {
         "section": "Body",
-        "text": "Contact tracing and monitoring: India’s Aarogya Setu app (bluetooth/GPS); South Korea’s GPS‑based quarantine system; China’s health codes.",
         "order": 2,
-        "cite": "U20"
+        "text": "Contact tracing and monitoring: India’s Aarogya Setu app (bluetooth/GPS); South Korea’s GPS‑based quarantine system; China’s health codes."
       },
       {
         "section": "Body",
-        "text": "Diagnostics: RT‑PCR automation, rapid antigen tests; AI‑based analysis of chest X‑rays/CT scans (e.g., qXR by Qure.ai).",
         "order": 3,
-        "cite": "U20"
+        "text": "Diagnostics: RT‑PCR automation, rapid antigen tests; AI‑based analysis of chest X‑rays/CT scans (e.g., qXR by Qure.ai)."
       },
       {
         "section": "Body",
-        "text": "Telemedicine: e‑Sanjeevani platform (India), remote consultations reduced hospital load; mental health chatbots.",
         "order": 4,
-        "cite": "U20"
+        "text": "Telemedicine: e‑Sanjeevani platform (India), remote consultations reduced hospital load; mental health chatbots."
       },
       {
         "section": "Body",
-        "text": "Vaccine development: mRNA technology (Pfizer, Moderna) – never used before; viral vector vaccines (AstraZeneca, Sputnik).",
         "order": 5,
-        "cite": "U20"
+        "text": "Vaccine development: mRNA technology (Pfizer, Moderna) – never used before; viral vector vaccines (AstraZeneca, Sputnik)."
       },
       {
         "section": "Body",
-        "text": "Supply chain and logistics: CoWIN platform for vaccine registration and certificate; temperature‑controlled冷链 (cold chain) tracking.",
         "order": 6,
-        "cite": "U20"
+        "text": "Supply chain and logistics: CoWIN platform for vaccine registration and certificate; temperature‑controlled冷链 (cold chain) tracking."
       },
       {
         "section": "Body",
-        "text": "Remote work and education: Zoom, Microsoft Teams; online learning (DIKSHA, SWAYAM) kept services running.",
         "order": 7,
-        "cite": "U20"
+        "text": "Remote work and education: Zoom, Microsoft Teams; online learning (DIKSHA, SWAYAM) kept services running."
       },
       {
         "section": "Body",
-        "text": "Robotics and drones: Disinfection robots in hospitals; drone delivery of medicines in remote areas.",
         "order": 8,
-        "cite": "U20"
+        "text": "Robotics and drones: Disinfection robots in hospitals; drone delivery of medicines in remote areas."
       },
       {
         "section": "Body",
-        "text": "AI for forecasting: Models to predict case surges and ICU bed demand; genomic sequencing (INSACOG) to track variants.",
         "order": 9,
-        "cite": "U20"
+        "text": "AI for forecasting: Models to predict case surges and ICU bed demand; genomic sequencing (INSACOG) to track variants."
       },
       {
         "section": "Conclusion",
-        "text": "Technology proved indispensable, but digital divide and privacy concerns highlighted need for inclusive and ethical deployment.",
         "order": 10,
-        "cite": "U20"
+        "text": "Technology proved indispensable, but digital divide and privacy concerns highlighted need for inclusive and ethical deployment."
       }
     ]
   },
   {
     "uid": "UPSC_2020_GSP3_16",
-    "paper_title": "GS Paper 3",
-    "year": 2020,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q16",
+    "year": 2020,
+    "paper_title": "GS Paper 3",
+    "q_number": "16",
     "marks": 15,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U20",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "Describe the benefits of deriving electric energy from sunlight in contrast to the conventional energy generation. What are the initiatives offered by our Government for this purpose? (Answer in 250 words)",
-    "subjectId": "governance",
+    "cite": "UPSC Mains 2020 GS Paper 3",
+    "question_text": "Describe the benefits of deriving electric energy from sunlight in contrast to the conventional energy generation. What are the initiatives offered by our Government for this purpose?",
+    "subjectId": "energyenv",
     "subjects": [
-      "Governance"
+      "Environment & Ecology"
     ],
-    "topic": "Governance",
+    "topic": "Electricity from sunlight",
     "topics": [
-      "Governance"
+      "Electricity from sunlight"
     ],
     "subTopics": [
       "Solar power versus conventional power"
     ],
     "keyPointers": [
-      "No fuel, no local smoke, a falling cost",
-      "Intermittent and hungry for land and a grid",
-      "Initiatives: parks, rooftops and a purchase obligation",
-      "The benefit is clean energy; the condition is storage and a line"
+      "Solar and wind potential",
+      "Renewable energy",
+      "Grid and storage"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "There is no fuel bill and no smoke at the site, and the cost has fallen",
+      "The supply is intermittent and it needs land and a grid",
+      "The public initiatives have been parks, rooftops and a duty to buy renewable power"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Solar energy is abundant, renewable, and clean. Compared to conventional (coal, gas, nuclear), it offers multiple benefits.",
         "order": 1,
-        "cite": "U20"
+        "text": "Solar energy is abundant, renewable, and clean. Compared to conventional (coal, gas, nuclear), it offers multiple benefits."
       },
       {
         "section": "Body",
-        "text": "Environmental benefits: Zero greenhouse gas emissions during operation; no air pollution (SOx, NOx, particulate matter); reduces water consumption (thermal plants use huge water).",
         "order": 2,
-        "cite": "U20"
+        "text": "Environmental benefits: Zero greenhouse gas emissions during operation; no air pollution (SOx, NOx, particulate matter); reduces water consumption (thermal plants use huge water)."
       },
       {
         "section": "Body",
-        "text": "Economic benefits: After initial capital cost, no fuel cost – stable electricity price; decentralised generation reduces transmission losses; job creation in installation & maintenance.",
         "order": 3,
-        "cite": "U20"
+        "text": "Economic benefits: After initial capital cost, no fuel cost – stable electricity price; decentralised generation reduces transmission losses; job creation in installation & maintenance."
       },
       {
         "section": "Body",
-        "text": "Energy security: Reduces import dependency (coal, oil); harness domestic resource; modular deployment – can power remote villages.",
         "order": 4,
-        "cite": "U20"
+        "text": "Energy security: Reduces import dependency (coal, oil); harness domestic resource; modular deployment – can power remote villages."
       },
       {
         "section": "Body",
-        "text": "Government initiatives: National Solar Mission (phase 1,2,3) – target 100 GW solar by 2022 (achieved ~97 GW grid‑connected).",
         "order": 5,
-        "cite": "U20"
+        "text": "Government initiatives: National Solar Mission (phase 1,2,3) – target 100 GW solar by 2022 (achieved ~97 GW grid‑connected)."
       },
       {
         "section": "Body",
-        "text": "PM KUSUM: Solar pumps for farmers (off‑grid) and solarisation of grid‑connected pumps – reduces subsidy burden.",
         "order": 6,
-        "cite": "U20"
+        "text": "PM KUSUM: Solar pumps for farmers (off‑grid) and solarisation of grid‑connected pumps – reduces subsidy burden."
       },
       {
         "section": "Body",
-        "text": "Rooftop solar subsidy (40% for residential); Surya Mitra scheme for skilled manpower; International Solar Alliance (ISA) secretariat in India.",
         "order": 7,
-        "cite": "U20"
+        "text": "Rooftop solar subsidy (40% for residential); Surya Mitra scheme for skilled manpower; International Solar Alliance (ISA) secretariat in India."
       },
       {
         "section": "Body",
-        "text": "VGF schemes for large parks (Bhadla, Rewa); Green Energy Corridor for grid integration; waiver of interstate transmission charges.",
         "order": 8,
-        "cite": "U20"
+        "text": "VGF schemes for large parks (Bhadla, Rewa); Green Energy Corridor for grid integration; waiver of interstate transmission charges."
       },
       {
         "section": "Conclusion",
-        "text": "Solar energy is environmentally and economically superior to conventional sources, and government initiatives are scaling it rapidly, though storage remains a challenge.",
         "order": 9,
-        "cite": "U20"
+        "text": "Solar energy is environmentally and economically superior to conventional sources, and government initiatives are scaling it rapidly, though storage remains a challenge."
       }
     ]
   },
   {
     "uid": "UPSC_2020_GSP3_17",
-    "paper_title": "GS Paper 3",
-    "year": 2020,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q17",
+    "year": 2020,
+    "paper_title": "GS Paper 3",
+    "q_number": "17",
     "marks": 15,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U20",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "What are the key features of the National Clean Air Programme (NCAP) initiated by the Government of India? (Answer in 250 words)",
-    "subjectId": "governance",
+    "cite": "UPSC Mains 2020 GS Paper 3",
+    "question_text": "What are the key features of the National Clean Air Programme (NCAP) initiated by the Government of India?",
+    "subjectId": "energyenv",
     "subjects": [
-      "Governance"
+      "Environment & Ecology"
     ],
-    "topic": "Governance",
+    "topic": "The clean air programme",
     "topics": [
-      "Governance"
+      "The clean air programme"
     ],
     "subTopics": [
       "National Clean Air Programme"
     ],
     "keyPointers": [
-      "A time-bound cut in particulate pollution in listed cities",
-      "City plans, monitoring and sectoral action",
-      "It is a programme, not yet a statutory right to clean air",
-      "The feature that matters is whether the city plan is enforced"
+      "Air pollution"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It sets a time-bound cut in particulate pollution in listed cities",
+      "City plans, monitoring and action by sector are the method",
+      "It is a programme, not yet a legal right to clean air"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "NCAP launched in 2019 as a national framework to reduce particulate matter (PM) pollution by 20-30% (revised to 40%) by 2024 (baseline 2017).",
         "order": 1,
-        "cite": "U20"
+        "text": "NCAP launched in 2019 as a national framework to reduce particulate matter (PM) pollution by 20-30% (revised to 40%) by 2024 (baseline 2017)."
       },
       {
         "section": "Body",
-        "text": "Targets: Reduce PM10 and PM2.5 levels in 132 non‑attainment cities (cities exceeding standards).",
         "order": 2,
-        "cite": "U20"
+        "text": "Targets: Reduce PM10 and PM2.5 levels in 132 non‑attainment cities (cities exceeding standards)."
       },
       {
         "section": "Body",
-        "text": "City‑specific action plans: Each city prepares plan with sectoral activities (dust control, vehicle emission, waste burning, industry, construction).",
         "order": 3,
-        "cite": "U20"
+        "text": "City‑specific action plans: Each city prepares plan with sectoral activities (dust control, vehicle emission, waste burning, industry, construction)."
       },
       {
         "section": "Body",
-        "text": "Institutional mechanism: Central Pollution Control Board (CPCB) monitors; State Pollution Control Boards implement; Steering Committee under MoEFCC.",
         "order": 4,
-        "cite": "U20"
+        "text": "Institutional mechanism: Central Pollution Control Board (CPCB) monitors; State Pollution Control Boards implement; Steering Committee under MoEFCC."
       },
       {
         "section": "Body",
-        "text": "Funding: ₹4,400 crore over five years (partly from central, partly state and city). Additional via 15th Finance Commission grants for urban environment.",
         "order": 5,
-        "cite": "U20"
+        "text": "Funding: ₹4,400 crore over five years (partly from central, partly state and city). Additional via 15th Finance Commission grants for urban environment."
       },
       {
         "section": "Body",
-        "text": "Technology and monitoring: Expand manual and real‑time monitoring stations (Continuous Ambient Air Quality Monitoring Stations – CAAQMS).",
         "order": 6,
-        "cite": "U20"
+        "text": "Technology and monitoring: Expand manual and real‑time monitoring stations (Continuous Ambient Air Quality Monitoring Stations – CAAQMS)."
       },
       {
         "section": "Body",
-        "text": "Public awareness: PRANA (Portal for Regulation of Air‑pollution in Non‑Attainment cities) dashboard for citizen information.",
         "order": 7,
-        "cite": "U20"
+        "text": "Public awareness: PRANA (Portal for Regulation of Air‑pollution in Non‑Attainment cities) dashboard for citizen information."
       },
       {
         "section": "Body",
-        "text": "Norms for dust control, biomass burning, and vehicle inspection (PUC) strictly enforced.",
         "order": 8,
-        "cite": "U20"
+        "text": "Norms for dust control, biomass burning, and vehicle inspection (PUC) strictly enforced."
       },
       {
         "section": "Body",
-        "text": "Criticism: Limited focus on ozone and other pollutants; no legal backing (unlike ECA); progress slow in early years.",
         "order": 9,
-        "cite": "U20"
+        "text": "Criticism: Limited focus on ozone and other pollutants; no legal backing (unlike ECA); progress slow in early years."
       },
       {
         "section": "Conclusion",
-        "text": "NCAP is a significant first step, but achieving targets requires inter‑state coordination, behavioural change, and increased funding.",
         "order": 10,
-        "cite": "U20"
+        "text": "NCAP is a significant first step, but achieving targets requires inter‑state coordination, behavioural change, and increased funding."
       }
     ]
   },
   {
     "uid": "UPSC_2020_GSP3_18",
-    "paper_title": "GS Paper 3",
-    "year": 2020,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q18",
+    "year": 2020,
+    "paper_title": "GS Paper 3",
+    "q_number": "18",
     "marks": 15,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U20",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "Discuss the recent measures initiated in disaster management by the Government of India departing from the earlier reactive approach. (Answer in 250 words)",
+    "cite": "UPSC Mains 2020 GS Paper 3",
+    "question_text": "Discuss the recent measures initiated in disaster management by the Government of India departing from the earlier reactive approach.",
     "subjectId": "energyenv",
     "subjects": [
       "Energy, Environment, Disaster"
@@ -1472,188 +1374,171 @@
       "From reaction to preparedness"
     ],
     "keyPointers": [
-      "The old habit was relief after the event",
-      "Newer steps stress early warning, a map and a drill",
-      "Funds and a dedicated authority before the flood",
-      "Departure is real only if the preparation is funded"
+      "Disaster risk reduction"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The older habit was relief after the event",
+      "The newer stress is early warning, a hazard map and a drill",
+      "A fund and an authority before the flood matter only if the preparation is actually paid for"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "India has shifted from relief‑centric, post‑disaster response to a proactive, preparedness‑oriented disaster management approach post‑2005 (DM Act).",
         "order": 1,
-        "cite": "U20"
+        "text": "India has shifted from relief‑centric, post‑disaster response to a proactive, preparedness‑oriented disaster management approach post‑2005 (DM Act)."
       },
       {
         "section": "Body",
-        "text": "Institutional architecture: National Disaster Management Authority (NDMA), State DMAs, District DMs – well‑structured hierarchy.",
         "order": 2,
-        "cite": "U20"
+        "text": "Institutional architecture: National Disaster Management Authority (NDMA), State DMAs, District DMs – well‑structured hierarchy."
       },
       {
         "section": "Body",
-        "text": "Early warning systems: Improved cyclone warning (IMD’s advanced models) – led to zero‑casualty cyclones (Fani 2019, Yaas 2021).",
         "order": 3,
-        "cite": "U20"
+        "text": "Early warning systems: Improved cyclone warning (IMD’s advanced models) – led to zero‑casualty cyclones (Fani 2019, Yaas 2021)."
       },
       {
         "section": "Body",
-        "text": "National Disaster Response Force (NDRF): 12 battalions, pre‑positioned in vulnerable areas; trained in specialised rescue (flood, earthquake, chemical).",
         "order": 4,
-        "cite": "U20"
+        "text": "National Disaster Response Force (NDRF): 12 battalions, pre‑positioned in vulnerable areas; trained in specialised rescue (flood, earthquake, chemical)."
       },
       {
         "section": "Body",
-        "text": "Scheme reforms: National Disaster Mitigation Fund (NDMF); Sendai Framework alignment (targets for reducing mortality, economic loss).",
         "order": 5,
-        "cite": "U20"
+        "text": "Scheme reforms: National Disaster Mitigation Fund (NDMF); Sendai Framework alignment (targets for reducing mortality, economic loss)."
       },
       {
         "section": "Body",
-        "text": "Technology use: Satellite imagery for flood mapping (Bhuvan portal); mobile apps for real‑time alerts; drone assessments.",
         "order": 6,
-        "cite": "U20"
+        "text": "Technology use: Satellite imagery for flood mapping (Bhuvan portal); mobile apps for real‑time alerts; drone assessments."
       },
       {
         "section": "Body",
-        "text": "Community‑based disaster preparedness: Aapda Mitra scheme (training volunteers); mock drills in schools and coastal areas.",
         "order": 7,
-        "cite": "U20"
+        "text": "Community‑based disaster preparedness: Aapda Mitra scheme (training volunteers); mock drills in schools and coastal areas."
       },
       {
         "section": "Body",
-        "text": "Specific initiatives: National Cyclone Risk Mitigation Project (NCRMP); Coalition for Disaster Resilient Infrastructure (CDRI) – global initiative launched by India.",
         "order": 8,
-        "cite": "U20"
+        "text": "Specific initiatives: National Cyclone Risk Mitigation Project (NCRMP); Coalition for Disaster Resilient Infrastructure (CDRI) – global initiative launched by India."
       },
       {
         "section": "Body",
-        "text": "COVID response: Integrated Disease Surveillance Programme (IDSP) and emergency procurement – though initial reactive, later proactive.",
         "order": 9,
-        "cite": "U20"
+        "text": "COVID response: Integrated Disease Surveillance Programme (IDSP) and emergency procurement – though initial reactive, later proactive."
       },
       {
         "section": "Conclusion",
-        "text": "Recent measures show a clear departure from reactive approach, focusing on prevention, mitigation, and capacity building, reducing disaster fatalities significantly.",
         "order": 10,
-        "cite": "U20"
+        "text": "Recent measures show a clear departure from reactive approach, focusing on prevention, mitigation, and capacity building, reducing disaster fatalities significantly."
       }
     ]
   },
   {
     "uid": "UPSC_2020_GSP3_19",
-    "paper_title": "GS Paper 3",
-    "year": 2020,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q19",
+    "year": 2020,
+    "paper_title": "GS Paper 3",
+    "q_number": "19",
     "marks": 15,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U20",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "What are the determinants of left-wing extremism in Eastern part of India? What strategy should Government of India, civil administration and security forces adopt to counter the threat in the affected areas? (Answer in 250 words)",
-    "subjectId": "modern",
+    "cite": "UPSC Mains 2020 GS Paper 3",
+    "question_text": "What are the determinants of left-wing extremism in Eastern part of India? What strategy should Government of India, civil administration and security forces adopt to counter the threat in the affected areas?",
+    "subjectId": "security",
     "subjects": [
-      "Modern India"
+      "Internal Security"
     ],
-    "topic": "Modern History",
+    "topic": "Left-wing extremism in the east",
     "topics": [
-      "Modern History"
+      "Left-wing extremism in the east"
     ],
     "subTopics": [
       "Left-wing extremism in the east"
     ],
     "keyPointers": [
-      "Land, forest rights and a missing state",
-      "A gun economy in the vacuum",
-      "Strategy: security, rights on land, and a visible school and road",
-      "Force without the grievance recreates the cadre"
+      "Left-wing extremism",
+      "Development and security",
+      "Tribal communities"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Land, forest rights and a missing state are the conditions",
+      "A gun economy grows in that vacuum",
+      "Force without a heard grievance recreates the cadre"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Left‑wing extremism (LWE) affects Red Corridor (eastern states – Chhattisgarh, Jharkhand, Odisha, Bihar). Determinants are multiple.",
         "order": 1,
-        "cite": "U20"
+        "text": "Left‑wing extremism (LWE) affects Red Corridor (eastern states – Chhattisgarh, Jharkhand, Odisha, Bihar). Determinants are multiple."
       },
       {
         "section": "Body",
-        "text": "Determinants: Underdevelopment – lack of roads, electricity, healthcare, education in tribal areas; land alienation (mining, forest laws) causing displacement.",
         "order": 2,
-        "cite": "U20"
+        "text": "Determinants: Underdevelopment – lack of roads, electricity, healthcare, education in tribal areas; land alienation (mining, forest laws) causing displacement."
       },
       {
         "section": "Body",
-        "text": "Exploitation by contractors and moneylenders; poor implementation of Forest Rights Act; police excesses and lack of grievance redressal.",
         "order": 3,
-        "cite": "U20"
+        "text": "Exploitation by contractors and moneylenders; poor implementation of Forest Rights Act; police excesses and lack of grievance redressal."
       },
       {
         "section": "Body",
-        "text": "Geographical advantage: dense forests for hideouts; cross‑state coordination (Naxal umbrella organizations).",
         "order": 4,
-        "cite": "U20"
+        "text": "Geographical advantage: dense forests for hideouts; cross‑state coordination (Naxal umbrella organizations)."
       },
       {
         "section": "Body",
-        "text": "Strategy for countering: Security – intelligence‑led operations (e.g., Operation Green Hunt); better equipment and training for state police (SPF).",
         "order": 5,
-        "cite": "U20"
+        "text": "Strategy for countering: Security – intelligence‑led operations (e.g., Operation Green Hunt); better equipment and training for state police (SPF)."
       },
       {
         "section": "Body",
-        "text": "Development – fast‑track roads and mobile towers under Pradhan Mantri Gram Sadak Yojana and BharatNet; skill development and MSP for minor forest produce (MFPs).",
         "order": 6,
-        "cite": "U20"
+        "text": "Development – fast‑track roads and mobile towers under Pradhan Mantri Gram Sadak Yojana and BharatNet; skill development and MSP for minor forest produce (MFPs)."
       },
       {
         "section": "Body",
-        "text": "Civil administration: Ensure land rights under FRA; improve public distribution system; strengthen local self‑government (panchayats).",
         "order": 7,
-        "cite": "U20"
+        "text": "Civil administration: Ensure land rights under FRA; improve public distribution system; strengthen local self‑government (panchayats)."
       },
       {
         "section": "Body",
-        "text": "Security forces: Adopt ‘hearts and minds’ – avoid collateral damage; engage in civic action programs (medical camps, schools).",
         "order": 8,
-        "cite": "U20"
+        "text": "Security forces: Adopt ‘hearts and minds’ – avoid collateral damage; engage in civic action programs (medical camps, schools)."
       },
       {
         "section": "Body",
-        "text": "Surrender and rehabilitation policy (monetary incentives, job placement); inter‑state coordination (e.g., Greyhounds in Andhra).",
         "order": 9,
-        "cite": "U20"
+        "text": "Surrender and rehabilitation policy (monetary incentives, job placement); inter‑state coordination (e.g., Greyhounds in Andhra)."
       },
       {
         "section": "Body",
-        "text": "Example: Success in Bastar (Chhattisgarh) – improved roads and security reduced incidents.",
         "order": 10,
-        "cite": "U20"
+        "text": "Example: Success in Bastar (Chhattisgarh) – improved roads and security reduced incidents."
       },
       {
         "section": "Conclusion",
-        "text": "A holistic strategy – security + development + grievance redressal – is needed to eliminate LWE sustainably.",
         "order": 11,
-        "cite": "U20"
+        "text": "A holistic strategy – security + development + grievance redressal – is needed to eliminate LWE sustainably."
       }
     ]
   },
   {
     "uid": "UPSC_2020_GSP3_20",
-    "paper_title": "GS Paper 3",
-    "year": 2020,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q20",
+    "year": 2020,
+    "paper_title": "GS Paper 3",
+    "q_number": "20",
     "marks": 15,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U20",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "Analyze internal security threats and transborder crimes along Myanmar, Bangladesh and Pakistan borders including Line of Control (LoC). Also discuss the role played by various security forces in this regard. (Answer in 250 words)",
+    "cite": "UPSC Mains 2020 GS Paper 3",
+    "question_text": "Analyze internal security threats and transborder crimes along Myanmar, Bangladesh and Pakistan borders including Line of Control (LoC). Also discuss the role played by various security forces in this regard.",
     "subjectId": "security",
     "subjects": [
       "Internal Security"
@@ -1666,84 +1551,76 @@
       "Crime and security on three borders"
     ],
     "keyPointers": [
-      "Insurgents, drugs, arms and a fake note use different borders",
-      "The Line of Control is infiltration and fire",
-      "Myanmar and Bangladesh are more porous and economic",
-      "Each border needs its own mix of fence, neighbour and livelihood"
+      "Border management",
+      "Cross-border threats",
+      "Terrorism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Insurgents, drugs, arms and fake currency use different borders",
+      "The Line of Control is infiltration and fire",
+      "The Myanmar and Bangladesh borders are more porous and more economic",
+      "Each border needs its own mix of a fence, the neighbour and a livelihood"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "India’s borders face diverse threats – insurgency, smuggling, infiltration, and cross‑border terrorism. Each border has unique challenges.",
         "order": 1,
-        "cite": "U20"
+        "text": "India’s borders face diverse threats – insurgency, smuggling, infiltration, and cross‑border terrorism. Each border has unique challenges."
       },
       {
         "section": "Body",
-        "text": "Myanmar border (Mizoram, Manipur, Nagaland, Arunachal): Insurgent camps (NSCN, ULFA); drug and arms smuggling (Golden Triangle link). Free movement regime (FMR) exploited.",
         "order": 2,
-        "cite": "U20"
+        "text": "Myanmar border (Mizoram, Manipur, Nagaland, Arunachal): Insurgent camps (NSCN, ULFA); drug and arms smuggling (Golden Triangle link). Free movement regime (FMR) exploited."
       },
       {
         "section": "Body",
-        "text": "Bangladesh border (West Bengal, Assam, Meghalaya, Tripura): Fencing partially complete – cattle smuggling, fake currency, illegal immigration. Also, human trafficking and small arms.",
         "order": 3,
-        "cite": "U20"
+        "text": "Bangladesh border (West Bengal, Assam, Meghalaya, Tripura): Fencing partially complete – cattle smuggling, fake currency, illegal immigration. Also, human trafficking and small arms."
       },
       {
         "section": "Body",
-        "text": "Pakistan border (J&K, Punjab, Rajasthan, Gujarat): LoC – cross‑border terrorism (infiltration of militants); drone drops of weapons; narcotics (via Afghanistan).",
         "order": 4,
-        "cite": "U20"
+        "text": "Pakistan border (J&K, Punjab, Rajasthan, Gujarat): LoC – cross‑border terrorism (infiltration of militants); drone drops of weapons; narcotics (via Afghanistan)."
       },
       {
         "section": "Body",
-        "text": "Role of security forces: BSF – Pakistan and Bangladesh borders (anti‑infiltration, smuggling); conducts patrols, uses night vision, and coordinates with IB.",
         "order": 5,
-        "cite": "U20"
+        "text": "Role of security forces: BSF – Pakistan and Bangladesh borders (anti‑infiltration, smuggling); conducts patrols, uses night vision, and coordinates with IB."
       },
       {
         "section": "Body",
-        "text": "SSB – Nepal and Bhutan borders; ITBP – China border (LoC also involves Army).",
         "order": 6,
-        "cite": "U20"
+        "text": "SSB – Nepal and Bhutan borders; ITBP – China border (LoC also involves Army)."
       },
       {
         "section": "Body",
-        "text": "Army along LoC – counter‑infiltration operations (Operation Rakshak); Rashtriya Rifles in J&K for counter‑terrorism.",
         "order": 7,
-        "cite": "U20"
+        "text": "Army along LoC – counter‑infiltration operations (Operation Rakshak); Rashtriya Rifles in J&K for counter‑terrorism."
       },
       {
         "section": "Body",
-        "text": "Assam Rifles – Myanmar border (counter‑insurgency and border guarding dual role).",
         "order": 8,
-        "cite": "U20"
+        "text": "Assam Rifles – Myanmar border (counter‑insurgency and border guarding dual role)."
       },
       {
         "section": "Body",
-        "text": "Coast Guard – maritime border with Pakistan (Gulf of Kutch) and Bangladesh (Sunderbans).",
         "order": 9,
-        "cite": "U20"
+        "text": "Coast Guard – maritime border with Pakistan (Gulf of Kutch) and Bangladesh (Sunderbans)."
       },
       {
         "section": "Body",
-        "text": "Measures: Integrated check posts (ICPs) on Pakistan/Bangladesh; border fencing and floodlighting; use of drones, thermal cameras, and smart fences (BOLD‑QIT).",
         "order": 10,
-        "cite": "U20"
+        "text": "Measures: Integrated check posts (ICPs) on Pakistan/Bangladesh; border fencing and floodlighting; use of drones, thermal cameras, and smart fences (BOLD‑QIT)."
       },
       {
         "section": "Body",
-        "text": "Coordination with central agencies (NIA, IB) and state police; bilateral border talks (DG level meetings).",
         "order": 11,
-        "cite": "U20"
+        "text": "Coordination with central agencies (NIA, IB) and state police; bilateral border talks (DG level meetings)."
       },
       {
         "section": "Conclusion",
-        "text": "Effective border management requires technology, surveillance, community liaison, and inter‑force synergy to counter transborder crimes and insurgent support.",
         "order": 12,
-        "cite": "U20"
+        "text": "Effective border management requires technology, surveillance, community liaison, and inter‑force synergy to counter transborder crimes and insurgent support."
       }
     ]
   }

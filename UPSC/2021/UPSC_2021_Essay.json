@@ -1,0 +1,495 @@
+[
+  {
+    "uid": "UPSC_2021_ESSAY_A1",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "Essay",
+    "q_number": "A1",
+    "marks": 125,
+    "word_limit": 1200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 Essay",
+    "question_text": "The process of self-discovery has now been technologically outsourced.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay"
+    ],
+    "topic": "Technology and self-discovery",
+    "topics": [
+      "Technology and self-discovery"
+    ],
+    "subTopics": [
+      "Self-discovery and technology"
+    ],
+    "keyPointers": [
+      "Technology and the self",
+      "Self-knowledge",
+      "Artificial intelligence"
+    ],
+    "customKeyPointers": [
+      "A feed, a test and an algorithm now tell people who they are",
+      "Handing the search to a tool is not the same as knowing oneself",
+      "A discovery that is only a recommendation is someone else's map"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Self-discovery used to be a slow inward work. Much of it is now handed to a device, a test and a feed."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "A personality quiz, a curated timeline and a recommendation decide taste, mood and even a vocation."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "The gain is a mirror the person did not have. The loss is a self assembled by a company."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "What is outsourced is not only information but the patience to sit with an unanswered question."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Technology can assist the search. It cannot be the self that is being searched for."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_ESSAY_A2",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "Essay",
+    "q_number": "A2",
+    "marks": 125,
+    "word_limit": 1200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 Essay",
+    "question_text": "Your perception of me is a reflection of you; my reaction to you is an awareness of me.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay"
+    ],
+    "topic": "Perception and reaction",
+    "topics": [
+      "Perception and reaction"
+    ],
+    "subTopics": [
+      "Perception and reaction"
+    ],
+    "keyPointers": [
+      "Perception and reaction",
+      "Self-knowledge",
+      "Emotional intelligence"
+    ],
+    "customKeyPointers": [
+      "We often see in others what we already carry",
+      "A reaction reveals the self more than it reveals the other person",
+      "The line asks for responsibility on both sides"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The sentence splits a meeting into two mirrors: what you see, and what I do with it."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "A harsh perception often says more about the perceiver's fear or need than about the person seen."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "The reaction — anger, patience, contempt — is the part the reactor owns and can examine."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "In public life this is how prejudice and a reply to prejudice both get made."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "The line is an invitation to check the eye and the answer, not to blame only the other."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_ESSAY_A3",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "Essay",
+    "q_number": "A3",
+    "marks": 125,
+    "word_limit": 1200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 Essay",
+    "question_text": "Philosophy of wantlessness is Utopian, while materialism is a chimera.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay"
+    ],
+    "topic": "Want and material life",
+    "topics": [
+      "Want and material life"
+    ],
+    "subTopics": [
+      "Wantlessness and materialism"
+    ],
+    "keyPointers": [
+      "Happiness",
+      "Means and ends",
+      "Self-knowledge"
+    ],
+    "customKeyPointers": [
+      "A life with no want is an ideal almost nobody lives",
+      "A life of things that will finally satisfy is also a mirage",
+      "The useful path is a limit, not either extreme"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The topic refuses two comforts: that we can want nothing, and that wanting things will be enough."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Wantlessness as a total rule ignores hunger, care and a just ambition. As a check on greed it is not utopian."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Materialism as a promise of fulfilment keeps moving the target. The next object does not close the want."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "A public ethic needs enough material life and a limit on the endless more."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Neither pole works as a life. A bounded want is the adult position."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_ESSAY_A4",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "Essay",
+    "q_number": "A4",
+    "marks": 125,
+    "word_limit": 1200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 Essay",
+    "question_text": "The real is rational and the rational is real.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay"
+    ],
+    "topic": "The real and the rational",
+    "topics": [
+      "The real and the rational"
+    ],
+    "subTopics": [
+      "The real and the rational"
+    ],
+    "keyPointers": [
+      "Moral reasoning",
+      "Scientific temper"
+    ],
+    "customKeyPointers": [
+      "The line claims that what exists has a reason, and that what is reasonable can exist",
+      "History is full of facts that are real and still cruel",
+      "Do not treat the phrase as a blessing of every fact"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The sentence, in the tradition of Hegel, says reality is intelligible and that a true reason is not a daydream."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "It warns against a fantasy politics and against treating the world as pure chaos."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "It becomes dangerous if 'real' is taken to mean 'therefore justified' — a cruelty is real and still wrong."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "The useful reading: understand why a thing exists, and do not propose a reform that ignores how the world works."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "The rational should guide the real. The merely existing does not become right by existing."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_ESSAY_B1",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "Essay",
+    "q_number": "B1",
+    "marks": 125,
+    "word_limit": 1200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 Essay",
+    "question_text": "Hand that rocks the cradle rules the world.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay"
+    ],
+    "topic": "Care and power",
+    "topics": [
+      "Care and power"
+    ],
+    "subTopics": [
+      "The hand that rocks the cradle"
+    ],
+    "keyPointers": [
+      "Care economy",
+      "Patriarchy",
+      "Gender and the household"
+    ],
+    "customKeyPointers": [
+      "Early care shapes a person and therefore a society",
+      "The line has been used to praise mothers and also to confine them",
+      "Care is a kind of power, and it is unequally borne"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The proverb says the person who raises the child shapes the future more than the person who later commands it."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "There is truth in it: the first years form habit, language and a sense of safety."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "It has also been used to keep women at the cradle and out of the other rooms where the world is actually ruled."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "A just reading shares the cradle and lets the carer into the public rule as well."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "The hand matters. It should not be only one sex's hand, and it should not be their only work."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_ESSAY_B2",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "Essay",
+    "q_number": "B2",
+    "marks": 125,
+    "word_limit": 1200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 Essay",
+    "question_text": "What is research, but a blind date with knowledge!",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay"
+    ],
+    "topic": "Research and the unknown",
+    "topics": [
+      "Research and the unknown"
+    ],
+    "subTopics": [
+      "Research and the unknown"
+    ],
+    "keyPointers": [
+      "Research and development",
+      "Doubt in science",
+      "Scientific temper"
+    ],
+    "customKeyPointers": [
+      "Research begins without knowing what will answer",
+      "Method makes the meeting less blind, not certain",
+      "A result that was already decided is not research"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Research is a planned meeting with something you do not yet know."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "The blindness is the honest part: the result is not guaranteed, and a surprise is allowed."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Method, a review and a record keep the meeting from being a mere wander."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "When a sponsor demands a chosen answer, the date is no longer blind and no longer research."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "The line celebrates curiosity that is willing to be wrong, inside a discipline."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_ESSAY_B3",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "Essay",
+    "q_number": "B3",
+    "marks": 125,
+    "word_limit": 1200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 Essay",
+    "question_text": "History repeats itself, first as a tragedy, second as a farce.",
+    "subjectId": "essay-world",
+    "subjects": [
+      "Essay"
+    ],
+    "topic": "History repeated",
+    "topics": [
+      "History repeated"
+    ],
+    "subTopics": [
+      "Repetition in history"
+    ],
+    "keyPointers": [
+      "Continuity and change",
+      "Moral reasoning"
+    ],
+    "customKeyPointers": [
+      "A repeated mistake is not the same event",
+      "The first time the cost is not fully seen",
+      "The second time people are copying a disaster they already know"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The line, from Marx on Hegel, says a historical pattern can return, and the return is uglier in a different way."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "The first occurrence is a tragedy because people are inside a real crisis."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "The second is a farce when leaders copy the costume and the slogan of the first, without its necessity."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "History does not literally repeat. Institutions, memory and a choice can break the rhyme."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "The sentence is useful as a warning against imitation, not as a fate."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_ESSAY_B4",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "Essay",
+    "q_number": "B4",
+    "marks": 125,
+    "word_limit": 1200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 Essay",
+    "question_text": "There are better practices to \"best practices\".",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay"
+    ],
+    "topic": "Beyond best practice",
+    "topics": [
+      "Beyond best practice"
+    ],
+    "subTopics": [
+      "Best practices and better ones"
+    ],
+    "keyPointers": [
+      "Scientific temper",
+      "Research and development"
+    ],
+    "customKeyPointers": [
+      "A best practice is a frozen success from somewhere else",
+      "The local context can make that 'best' a poor fit",
+      "Better means tested here, and open to being replaced"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Calling a method 'best' can stop the search for a better one."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "A practice that worked in one office, one firm or one country is a lesson, not a law."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Copied without the local constraint, a best practice becomes a ritual."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "A better practice is one that can be measured here and dropped when it fails."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "The topic asks for learning without the arrogance of a final method."
+      }
+    ]
+  }
+]

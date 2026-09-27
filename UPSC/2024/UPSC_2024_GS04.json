@@ -1,17 +1,17 @@
 [
   {
     "uid": "UPSC_2024_GSP4_1a",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q1a",
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "1(a)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U4",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "The application of Artificial Intelligence as a dependable source of input for administrative rational decision-making is a debatable issue. Critically examine the statement from the ethical point of view. (Answer in 150 words)",
+    "cite": "UPSC Mains 2024 GS Paper 4",
+    "question_text": "The application of Artificial Intelligence as a dependable source of input for administrative rational decision-making is a debatable issue. Critically examine the statement from the ethical point of view.",
     "subjectId": "ethics",
     "subjects": [
       "Ethics & Values"
@@ -24,52 +24,51 @@
       "AI and administrative ethics"
     ],
     "keyPointers": [
-      "A rational decision needs a reason a person can own",
-      "An AI input can be fast and also opaque and biased",
-      "Dependable is the wrong word if nobody can explain the output",
+      "Artificial intelligence",
+      "Ethics of digital government",
+      "Accountability"
+    ],
+    "customKeyPointers": [
+      "A decision needs a reason a person can own",
+      "An AI input can be fast, and also opaque and biased",
       "The ethical use is an aid that a named officer can reject"
     ],
-    "vault_path": null,
     "points": [
       {
         "section": "Intro",
-        "text": "Using AI as an input can make an administrative decision better informed. Treating it as a dependable source confuses a tool with a reason.",
         "order": 1,
-        "cite": "U4"
+        "text": "Using AI as an input can make an administrative decision better informed. Treating it as a dependable source confuses a tool with a reason."
       },
       {
         "section": "Body",
-        "text": "A model trained on old decisions will repeat their bias, and a score that cannot be explained cannot be justified to the person it affects.",
         "order": 2,
-        "cite": "U4"
+        "text": "A model trained on old decisions will repeat their bias, and a score that cannot be explained cannot be justified to the person it affects."
       },
       {
         "section": "Body",
-        "text": "The ethical test is whether a human remains responsible, can override the output, and can tell the citizen why.",
         "order": 3,
-        "cite": "U4"
+        "text": "The ethical test is whether a human remains responsible, can override the output, and can tell the citizen why."
       },
       {
         "section": "Conclusion",
-        "text": "AI is ethically usable as a checked input. It is not ethically usable as the decision.",
         "order": 4,
-        "cite": "U4"
+        "text": "AI is ethically usable as a checked input. It is not ethically usable as the decision."
       }
     ]
   },
   {
     "uid": "UPSC_2024_GSP4_1b",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q1b",
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "1(b)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U4",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "\"Ethics encompasses several key dimensions that are crucial in guiding individuals and organizations towards morally responsible behaviour.\" Explain the key dimensions of ethics that influence human actions. Discuss how these dimensions shape ethical decision-making in the professional context. (Answer in 150 words)",
+    "cite": "UPSC Mains 2024 GS Paper 4",
+    "question_text": "\"Ethics encompasses several key dimensions that are crucial in guiding individuals and organizations towards morally responsible behaviour.\" Explain the key dimensions of ethics that influence human actions. Discuss how these dimensions shape ethical decision-making in the professional context.",
     "subjectId": "ethics",
     "subjects": [
       "Ethics & Values"
@@ -82,52 +81,52 @@
       "Dimensions of ethics"
     ],
     "keyPointers": [
-      "The dimensions are what one ought to do, what sort of person one is, and what the act does to others",
+      "Ethics and morals",
+      "Kant and duty",
+      "Utilitarianism",
+      "Aristotle and virtue"
+    ],
+    "customKeyPointers": [
       "Duty, consequence, character and justice pull a decision in different directions",
       "A profession adds a code and a person who will bear the result",
       "A decision that honours only one dimension is usually incomplete"
     ],
-    "vault_path": null,
     "points": [
       {
         "section": "Intro",
-        "text": "Ethics guides action through several dimensions at once: duty, the consequence, the character of the actor, and justice to the person affected.",
         "order": 1,
-        "cite": "U4"
+        "text": "Ethics guides action through several dimensions at once: duty, the consequence, the character of the actor, and justice to the person affected."
       },
       {
         "section": "Body",
-        "text": "A professional decision is shaped by a code that states the duty, by the harm or benefit that will follow, and by whether the act is one an honest officer could own.",
         "order": 2,
-        "cite": "U4"
+        "text": "A professional decision is shaped by a code that states the duty, by the harm or benefit that will follow, and by whether the act is one an honest officer could own."
       },
       {
         "section": "Body",
-        "text": "Ignoring justice while chasing a target, or ignoring the consequence while quoting a rule, is how a formally correct decision becomes a wrong one.",
         "order": 3,
-        "cite": "U4"
+        "text": "Ignoring justice while chasing a target, or ignoring the consequence while quoting a rule, is how a formally correct decision becomes a wrong one."
       },
       {
         "section": "Conclusion",
-        "text": "Responsible behaviour is the decision that can survive all four questions, not the one that wins on a single dimension.",
         "order": 4,
-        "cite": "U4"
+        "text": "Responsible behaviour is the decision that can survive all four questions, not the one that wins on a single dimension."
       }
     ]
   },
   {
     "uid": "UPSC_2024_GSP4_2a",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q2a",
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "2(a)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U4",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "\"It is not enough to talk about peace, one must believe in it; and it is not enough to believe in it, one must act upon it.\" In the present context, the major arms industries of developed nations are adversely influencing the continuation of a number of wars for their own self-interest. What are the ethical considerations of powerful nations in today's international arena to stop the continuation of ongoing conflicts? (Answer in 150 words)",
+    "cite": "UPSC Mains 2024 GS Paper 4",
+    "question_text": "\"It is not enough to talk about peace, one must believe in it; and it is not enough to believe in it, one must act upon it.\" In the present context, the major arms industries of developed nations are adversely influencing the continuation of a number of wars for their own self-interest. What are the ethical considerations of powerful nations in today's international arena to stop the continuation of ongoing conflicts?",
     "subjectId": "ethics",
     "subjects": [
       "Ethics & Values"
@@ -140,52 +139,50 @@
       "Ethics of ending ongoing wars"
     ],
     "keyPointers": [
+      "Ethics of war",
+      "Conflict of interest"
+    ],
+    "customKeyPointers": [
       "Talk and belief without an act leave the war funded",
       "An arms industry that profits from duration has an interest against peace",
-      "A powerful nation is ethically exposed because it can act and often supplies both sides of the sentence",
-      "The consideration is to stop feeding the war one claims to regret"
+      "Stop feeding the war one claims to regret"
     ],
-    "vault_path": null,
     "points": [
       {
         "section": "Intro",
-        "text": "The quotation judges a state that speaks of peace while its industry lives on the war.",
         "order": 1,
-        "cite": "U4"
+        "text": "The quotation judges a state that speaks of peace while its industry lives on the war."
       },
       {
         "section": "Body",
-        "text": "The ethical considerations are not to sell the weapon that prolongs a conflict one is mediating, to prefer a ceasefire over a market, and not to treat a smaller people's suffering as a theatre for influence.",
         "order": 2,
-        "cite": "U4"
+        "text": "The ethical considerations are not to sell the weapon that prolongs a conflict one is mediating, to prefer a ceasefire over a market, and not to treat a smaller people's suffering as a theatre for influence."
       },
       {
         "section": "Body",
-        "text": "A powerful nation also has a duty to use its leverage on the party it actually can influence, rather than only on the one it dislikes.",
         "order": 3,
-        "cite": "U4"
+        "text": "A powerful nation also has a duty to use its leverage on the party it actually can influence, rather than only on the one it dislikes."
       },
       {
         "section": "Conclusion",
-        "text": "To act upon peace is to make the continuation of the war less profitable than its end.",
         "order": 4,
-        "cite": "U4"
+        "text": "To act upon peace is to make the continuation of the war less profitable than its end."
       }
     ]
   },
   {
     "uid": "UPSC_2024_GSP4_2b",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q2b",
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "2(b)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U4",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "Global warming and climate change are the outcomes of human greed in the name of development, indicating the direction in which extinction of organisms, including human beings, is heading towards loss of life on Earth. How do you put an end to this to protect life and bring equilibrium between society and the environment? (Answer in 150 words)",
+    "cite": "UPSC Mains 2024 GS Paper 4",
+    "question_text": "Global warming and climate change are the outcomes of human greed in the name of development, indicating the direction in which extinction of organisms, including human beings, is heading towards loss of life on Earth. How do you put an end to this to protect life and bring equilibrium between society and the environment?",
     "subjectId": "ethics",
     "subjects": [
       "Ethics & Values"
@@ -198,52 +195,51 @@
       "Development and ecological limit"
     ],
     "keyPointers": [
-      "The harm is a development that counts only the taker",
-      "Ending it is a limit on extraction, not a sermon against growth",
-      "Equilibrium is a society that can live inside what the earth renews",
-      "The ethical move is to price the damage and to stop treating the future as free"
+      "Sustainable development",
+      "Environment versus livelihood",
+      "Climate justice"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The harm is a development that counts only the taker",
+      "The answer is a limit on extraction, not a sermon against growth",
+      "Price the damage, and stop treating the future as free"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The way out is not to abandon development. It is to stop calling a one-sided extraction by that name.",
         "order": 1,
-        "cite": "U4"
+        "text": "The way out is not to abandon development. It is to stop calling a one-sided extraction by that name."
       },
       {
         "section": "Body",
-        "text": "A limit on emissions, a protection of the forest and the river, and a cost on the polluter put the greed back inside a rule.",
         "order": 2,
-        "cite": "U4"
+        "text": "A limit on emissions, a protection of the forest and the river, and a cost on the polluter put the greed back inside a rule."
       },
       {
         "section": "Body",
-        "text": "Equilibrium also needs the poor to have a livelihood that does not require them to finish the resource, which means the richer user cuts first.",
         "order": 3,
-        "cite": "U4"
+        "text": "Equilibrium also needs the poor to have a livelihood that does not require them to finish the resource, which means the richer user cuts first."
       },
       {
         "section": "Conclusion",
-        "text": "Life is protected when development is required to leave the system able to continue.",
         "order": 4,
-        "cite": "U4"
+        "text": "Life is protected when development is required to leave the system able to continue."
       }
     ]
   },
   {
     "uid": "UPSC_2024_GSP4_3a",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q3a",
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "3(a)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U4",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "\"Learn everything that is good from others, but bring it in, and in your own way absorb it; do not become others.\" — Swami Vivekananda. What does this quotation convey to you in the present context? (Answer in 150 words)",
+    "cite": "UPSC Mains 2024 GS Paper 4",
+    "question_text": "\"Learn everything that is good from others, but bring it in, and in your own way absorb it; do not become others.\" — Swami Vivekananda. What does this quotation convey to you in the present context?",
     "subjectId": "thinkers",
     "subjects": [
       "Thinkers"
@@ -256,52 +252,49 @@
       "Learning without becoming a copy"
     ],
     "keyPointers": [
+      "Vivekananda"
+    ],
+    "customKeyPointers": [
       "The line separates learning from imitation",
       "A civilisation can take a science and keep its own centre",
-      "The present danger is to import a form and lose the judgement",
       "Absorbing is harder than copying, and it is the actual lesson"
     ],
-    "vault_path": null,
     "points": [
       {
         "section": "Intro",
-        "text": "Vivekananda is warning against both refusal and mimicry. Take what is good, and do not hand over the self that receives it.",
         "order": 1,
-        "cite": "U4"
+        "text": "Vivekananda is warning against both refusal and mimicry. Take what is good, and do not hand over the self that receives it."
       },
       {
         "section": "Body",
-        "text": "In the present, a country and a person can learn a technology, a law or a method without becoming a copy of the place it came from.",
         "order": 2,
-        "cite": "U4"
+        "text": "In the present, a country and a person can learn a technology, a law or a method without becoming a copy of the place it came from."
       },
       {
         "section": "Body",
-        "text": "To absorb is to test the import against one's own conditions. To become the other is to skip that test.",
         "order": 3,
-        "cite": "U4"
+        "text": "To absorb is to test the import against one's own conditions. To become the other is to skip that test."
       },
       {
         "section": "Conclusion",
-        "text": "The quotation asks for a confident learner, not for a closed one and not for an imitator.",
         "order": 4,
-        "cite": "U4"
+        "text": "The quotation asks for a confident learner, not for a closed one and not for an imitator."
       }
     ]
   },
   {
     "uid": "UPSC_2024_GSP4_3b",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q3b",
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "3(b)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U4",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "\"Faith is of no avail in the absence of strength. Faith and strength, both are essential to accomplish any great work.\" — Sardar Patel. What does this quotation convey to you in the present context? (Answer in 150 words)",
+    "cite": "UPSC Mains 2024 GS Paper 4",
+    "question_text": "\"Faith is of no avail in the absence of strength. Faith and strength, both are essential to accomplish any great work.\" — Sardar Patel. What does this quotation convey to you in the present context?",
     "subjectId": "thinkers",
     "subjects": [
       "Thinkers"
@@ -314,52 +307,50 @@
       "Faith and strength"
     ],
     "keyPointers": [
+      "Courage of conviction",
+      "Dedication to public service"
+    ],
+    "customKeyPointers": [
       "Faith without the capacity to act is a wish",
       "Strength without a purpose is only force",
-      "A great work needs the conviction and the means together",
-      "The present lesson is to build the institution, not only the slogan"
+      "Build the institution, not only the slogan"
     ],
-    "vault_path": null,
     "points": [
       {
         "section": "Intro",
-        "text": "Patel is saying that a belief which cannot be carried out, and a power which believes in nothing, both fail.",
         "order": 1,
-        "cite": "U4"
+        "text": "Patel is saying that a belief which cannot be carried out, and a power which believes in nothing, both fail."
       },
       {
         "section": "Body",
-        "text": "Integration of the country, or any hard public task now, needs a clear aim and the administrative strength to enforce it.",
         "order": 2,
-        "cite": "U4"
+        "text": "Integration of the country, or any hard public task now, needs a clear aim and the administrative strength to enforce it."
       },
       {
         "section": "Body",
-        "text": "A campaign of faith that has no capacity leaves the work undone. A capacity used with no larger faith becomes mere control.",
         "order": 3,
-        "cite": "U4"
+        "text": "A campaign of faith that has no capacity leaves the work undone. A capacity used with no larger faith becomes mere control."
       },
       {
         "section": "Conclusion",
-        "text": "Great work is the meeting of the two. Either one, alone, is not enough.",
         "order": 4,
-        "cite": "U4"
+        "text": "Great work is the meeting of the two. Either one, alone, is not enough."
       }
     ]
   },
   {
     "uid": "UPSC_2024_GSP4_3c",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q3c",
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "3(c)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U4",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "\"In law, a man is guilty when he violates the rights of others. In ethics, he is guilty if he only thinks of doing so.\" — Immanuel Kant. What does this quotation convey to you in the present context? (Answer in 150 words)",
+    "cite": "UPSC Mains 2024 GS Paper 4",
+    "question_text": "\"In law, a man is guilty when he violates the rights of others. In ethics, he is guilty if he only thinks of doing so.\" — Immanuel Kant. What does this quotation convey to you in the present context?",
     "subjectId": "thinkers",
     "subjects": [
       "Thinkers"
@@ -372,52 +363,51 @@
       "Law, ethics and intention"
     ],
     "keyPointers": [
+      "Kant and duty",
+      "Law and ethics",
+      "Conscience"
+    ],
+    "customKeyPointers": [
       "Law waits for the act. Ethics examines the will",
       "A person can be legally innocent and ethically already compromised",
-      "The line is a demand on intention, not a demand to punish a thought",
-      "In public life the thought that one is willing to do the wrong is already a corruption"
+      "The willingness to do the wrong is already a corruption"
     ],
-    "vault_path": null,
     "points": [
       {
         "section": "Intro",
-        "text": "Kant draws a line the law cannot cross and ethics must: guilt begins in the will, not only in the completed harm.",
         "order": 1,
-        "cite": "U4"
+        "text": "Kant draws a line the law cannot cross and ethics must: guilt begins in the will, not only in the completed harm."
       },
       {
         "section": "Body",
-        "text": "A public servant who is ready to take the bribe, and has not yet been offered it, has broken no section and has already failed the ethic.",
         "order": 2,
-        "cite": "U4"
+        "text": "A public servant who is ready to take the bribe, and has not yet been offered it, has broken no section and has already failed the ethic."
       },
       {
         "section": "Body",
-        "text": "The present temptation is to treat anything not yet proved as therefore fine. The quotation refuses that comfort.",
         "order": 3,
-        "cite": "U4"
+        "text": "The present temptation is to treat anything not yet proved as therefore fine. The quotation refuses that comfort."
       },
       {
         "section": "Conclusion",
-        "text": "Law should not punish the mere thought. A person who wants to be ethical cannot wait for the law to catch the act.",
         "order": 4,
-        "cite": "U4"
+        "text": "Law should not punish the mere thought. A person who wants to be ethical cannot wait for the law to catch the act."
       }
     ]
   },
   {
     "uid": "UPSC_2024_GSP4_4a",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q4a",
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "4(a)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U4",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "\"The concept of just and unjust is contextual. What was just a year back may turn out to be unjust in today's context. Changing context should be constantly under scrutiny to prevent miscarriage of justice.\" Examine the statement with suitable examples. (Answer in 150 words)",
+    "cite": "UPSC Mains 2024 GS Paper 4",
+    "question_text": "\"The concept of just and unjust is contextual. What was just a year back may turn out to be unjust in today's context. Changing context should be constantly under scrutiny to prevent miscarriage of justice.\" Examine the statement with suitable examples.",
     "subjectId": "ethics",
     "subjects": [
       "Ethics & Values"
@@ -430,52 +420,51 @@
       "Contextual justice"
     ],
     "keyPointers": [
+      "Moral reasoning",
+      "Conflict of values",
+      "Rule of law"
+    ],
+    "customKeyPointers": [
       "Some judgements of justice depend on the facts of the time",
       "A rule that ignores a changed context can itself become the injustice",
-      "Scrutiny is not the same as having no principle",
-      "The miscarriage is to apply last year's answer to this year's case without looking"
+      "Scrutiny is not the same as having no principle"
     ],
-    "vault_path": null,
     "points": [
       {
         "section": "Intro",
-        "text": "What is just can change when the facts change, and a rigid application of an old answer can itself be unjust.",
         "order": 1,
-        "cite": "U4"
+        "text": "What is just can change when the facts change, and a rigid application of an old answer can itself be unjust."
       },
       {
         "section": "Body",
-        "text": "A punishment that fitted a scarce, deliberate harm can become unjust when the same act is now a widespread, differently caused one. A restraint that was protective in an emergency can become unjust when the emergency has passed.",
         "order": 2,
-        "cite": "U4"
+        "text": "A punishment that fitted a scarce, deliberate harm can become unjust when the same act is now a widespread, differently caused one. A restraint that was protective in an emergency can become unjust when the emergency has passed."
       },
       {
         "section": "Body",
-        "text": "The principle — do not punish the innocent, proportion the response — stays. The context decides whether a given rule still serves it.",
         "order": 3,
-        "cite": "U4"
+        "text": "The principle — do not punish the innocent, proportion the response — stays. The context decides whether a given rule still serves it."
       },
       {
         "section": "Conclusion",
-        "text": "Constant scrutiny prevents a miscarriage. It does not licence a justice that changes whenever it is inconvenient.",
         "order": 4,
-        "cite": "U4"
+        "text": "Constant scrutiny prevents a miscarriage. It does not licence a justice that changes whenever it is inconvenient."
       }
     ]
   },
   {
     "uid": "UPSC_2024_GSP4_4b",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q4b",
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "4(b)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U4",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "\"Mindless addiction to form, ignoring the substance of the matter, results in rendering of injustice. A perceptive civil servant is one who ignores such literalness and carries out true intent.\" Examine the statement with suitable illustrations. (Answer in 150 words)",
+    "cite": "UPSC Mains 2024 GS Paper 4",
+    "question_text": "\"Mindless addiction to form, ignoring the substance of the matter, results in rendering of injustice. A perceptive civil servant is one who ignores such literalness and carries out true intent.\" Examine the statement with suitable illustrations.",
     "subjectId": "ethics",
     "subjects": [
       "Ethics & Values"
@@ -488,52 +477,51 @@
       "Form and substance"
     ],
     "keyPointers": [
+      "Rule of law",
+      "Dedication to public service",
+      "Integrity"
+    ],
+    "customKeyPointers": [
       "Form exists so that substance is not decided by whim",
-      "Addiction to form is using the procedure to defeat the purpose",
-      "The perceptive officer asks what the rule was for",
+      "Addiction to form uses the procedure to defeat the purpose",
       "Ignoring literalness is not ignoring the law"
     ],
-    "vault_path": null,
     "points": [
       {
         "section": "Intro",
-        "text": "A procedure is a means. When it is worshipped and the purpose is refused, the result is often an injustice with a file number.",
         "order": 1,
-        "cite": "U4"
+        "text": "A procedure is a means. When it is worshipped and the purpose is refused, the result is often an injustice with a file number."
       },
       {
         "section": "Body",
-        "text": "A benefit denied because a date is one day out, or a relief refused because the heading of an application is wrong, can be a victory of form over the person the rule was written for.",
         "order": 2,
-        "cite": "U4"
+        "text": "A benefit denied because a date is one day out, or a relief refused because the heading of an application is wrong, can be a victory of form over the person the rule was written for."
       },
       {
         "section": "Body",
-        "text": "The perceptive civil servant cures the defect, records why, and serves the intent. He does not invent a benefit the rule never contained.",
         "order": 3,
-        "cite": "U4"
+        "text": "The perceptive civil servant cures the defect, records why, and serves the intent. He does not invent a benefit the rule never contained."
       },
       {
         "section": "Conclusion",
-        "text": "Literalness is a duty when it protects a right. It is a failure when it is used to avoid a duty.",
         "order": 4,
-        "cite": "U4"
+        "text": "Literalness is a duty when it protects a right. It is a failure when it is used to avoid a duty."
       }
     ]
   },
   {
     "uid": "UPSC_2024_GSP4_5a",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q5a",
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "5(a)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U4",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "The 'Code of Conduct' and 'Code of Ethics' are sources of guidance in public administration. A code of conduct is already in operation, whereas a code of ethics is not yet fully in place. Suggest a suitable model for a code of ethics to maintain integrity, probity and transparency in governance. (Answer in 150 words)",
+    "cite": "UPSC Mains 2024 GS Paper 4",
+    "question_text": "The 'Code of Conduct' and 'Code of Ethics' are sources of guidance in public administration. A code of conduct is already in operation, whereas a code of ethics is not yet fully in place. Suggest a suitable model for a code of ethics to maintain integrity, probity and transparency in governance.",
     "subjectId": "ethics",
     "subjects": [
       "Ethics & Values"
@@ -546,52 +534,52 @@
       "Code of ethics"
     ],
     "keyPointers": [
-      "Conduct tells the officer what is forbidden. Ethics tells him what he is for",
-      "A model code states values, a conflict rule and a duty to explain",
-      "It has to be usable in a real file, not only declarable",
-      "Integrity, probity and transparency are three tests of the same act"
+      "Code of ethics",
+      "Code of conduct",
+      "Integrity",
+      "Probity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Conduct says what is forbidden. Ethics says what the officer is for",
+      "A model code states values, a conflict rule and a duty to explain",
+      "It has to be usable in a real file, not only declarable"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "A code of conduct punishes a listed act. A code of ethics should guide the decision that no list has yet described.",
         "order": 1,
-        "cite": "U4"
+        "text": "A code of conduct punishes a listed act. A code of ethics should guide the decision that no list has yet described."
       },
       {
         "section": "Body",
-        "text": "A suitable model would state a few values — public interest above private, impartiality, a truth told in time — and require an officer to record a conflict and to give reasons for a discretion.",
         "order": 2,
-        "cite": "U4"
+        "text": "A suitable model would state a few values — public interest above private, impartiality, a truth told in time — and require an officer to record a conflict and to give reasons for a discretion."
       },
       {
         "section": "Body",
-        "text": "It would be taught, reviewed on real cases, and linked to a protection for the officer who follows it against pressure.",
         "order": 3,
-        "cite": "U4"
+        "text": "It would be taught, reviewed on real cases, and linked to a protection for the officer who follows it against pressure."
       },
       {
         "section": "Conclusion",
-        "text": "Without that, integrity stays a poster. With it, probity and transparency have a standard the officer can be asked to meet.",
         "order": 4,
-        "cite": "U4"
+        "text": "Without that, integrity stays a poster. With it, probity and transparency have a standard the officer can be asked to meet."
       }
     ]
   },
   {
     "uid": "UPSC_2024_GSP4_5b",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q5b",
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "5(b)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U4",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "The soul of the new law, Bharatiya Nyaya Sanhita (BNS), is justice, equality and impartiality based on Indian culture and ethos. Discuss this in the light of the major shift from a doctrine of punishment to justice in the present judicial system. (Answer in 150 words)",
+    "cite": "UPSC Mains 2024 GS Paper 4",
+    "question_text": "The soul of the new law, Bharatiya Nyaya Sanhita (BNS), is justice, equality and impartiality based on Indian culture and ethos. Discuss this in the light of the major shift from a doctrine of punishment to justice in the present judicial system.",
     "subjectId": "ethics",
     "subjects": [
       "Ethics & Values"
@@ -604,52 +592,51 @@
       "Bharatiya Nyaya Sanhita"
     ],
     "keyPointers": [
-      "A criminal law can be organised around pain or around a just outcome",
-      "The claimed shift is from a colonial punishment code toward justice",
-      "Equality and impartiality are the tests of whether the shift is real",
-      "Culture and ethos justify a law only if they do not narrow who receives justice"
+      "Rule of law",
+      "Impartiality",
+      "Equality and reasonable classification"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A criminal law can be organised around pain or around a just outcome",
+      "Equality and impartiality are the tests of whether the shift is real",
+      "Culture justifies a law only if it does not narrow who receives justice"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The claim is that the new criminal law aims at justice rather than at punishment as an end in itself.",
         "order": 1,
-        "cite": "U4"
+        "text": "The claim is that the new criminal law aims at justice rather than at punishment as an end in itself."
       },
       {
         "section": "Body",
-        "text": "A shift toward justice would show in proportion, in a victim who is heard, in a speedy process, and in a punishment that is not the only response available.",
         "order": 2,
-        "cite": "U4"
+        "text": "A shift toward justice would show in proportion, in a victim who is heard, in a speedy process, and in a punishment that is not the only response available."
       },
       {
         "section": "Body",
-        "text": "Equality and impartiality require that the same act meet the same law, whatever the accused's status. An appeal to culture does not relax that.",
         "order": 3,
-        "cite": "U4"
+        "text": "Equality and impartiality require that the same act meet the same law, whatever the accused's status. An appeal to culture does not relax that."
       },
       {
         "section": "Conclusion",
-        "text": "The soul is proved in outcomes. A renamed code that still only punishes, and punishes unevenly, has not made the shift.",
         "order": 4,
-        "cite": "U4"
+        "text": "The soul is proved in outcomes. A renamed code that still only punishes, and punishes unevenly, has not made the shift."
       }
     ]
   },
   {
     "uid": "UPSC_2024_GSP4_6a",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q6a",
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "6(a)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U4",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "\"In Indian culture and value system, an equal opportunity has been provided irrespective of gender identity. The number of women in public service has been steadily increasing over the years.\" Examine the gender-specific challenges faced by female public servants and suggest suitable measures to increase their efficiency in discharging their duties and maintaining high standards of probity. (Answer in 150 words)",
+    "cite": "UPSC Mains 2024 GS Paper 4",
+    "question_text": "\"In Indian culture and value system, an equal opportunity has been provided irrespective of gender identity. The number of women in public service has been steadily increasing over the years.\" Examine the gender-specific challenges faced by female public servants and suggest suitable measures to increase their efficiency in discharging their duties and maintaining high standards of probity.",
     "subjectId": "ethics",
     "subjects": [
       "Ethics & Values"
@@ -662,52 +649,51 @@
       "Gender and the public service"
     ],
     "keyPointers": [
-      "The entry has widened. The conditions of work have not caught up",
-      "Safety, a care load and a bias about 'hard' postings are the specific challenges",
-      "Efficiency rises when the obstacle is removed, not when she is asked to cope harder",
-      "Probity is not gendered. The pressure that tests it can be"
+      "Women in public office",
+      "Patriarchy",
+      "Gender and the household"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The entry has widened. The conditions of work have not",
+      "Safety, a care load and a bias about hard postings are the specific challenges",
+      "Efficiency rises when the obstacle is removed, not when she is asked to cope harder"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "More women are entering the service. The service is still organised as if the officer had no care work and no safety to negotiate.",
         "order": 1,
-        "cite": "U4"
+        "text": "More women are entering the service. The service is still organised as if the officer had no care work and no safety to negotiate."
       },
       {
         "section": "Body",
-        "text": "Remote postings without a safe housing, a meeting culture of late hours, and a doubt cast on a woman who refuses a favour are gender-specific.",
         "order": 2,
-        "cite": "U4"
+        "text": "Remote postings without a safe housing, a meeting culture of late hours, and a doubt cast on a woman who refuses a favour are gender-specific."
       },
       {
         "section": "Body",
-        "text": "Measures are a real creche, a posting policy that is fair rather than protective, a complaint route that works, and an end to the assumption that a field job is a man's.",
         "order": 3,
-        "cite": "U4"
+        "text": "Measures are a real creche, a posting policy that is fair rather than protective, a complaint route that works, and an end to the assumption that a field job is a man's."
       },
       {
         "section": "Conclusion",
-        "text": "Efficiency and probity improve when the extra burden is lifted, not when it is praised as her special strength.",
         "order": 4,
-        "cite": "U4"
+        "text": "Efficiency and probity improve when the extra burden is lifted, not when it is praised as her special strength."
       }
     ]
   },
   {
     "uid": "UPSC_2024_GSP4_6b",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q6b",
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "6(b)",
     "marks": 10,
+    "word_limit": 150,
     "importance": 2,
-    "cite": "U4",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "Mission Karmayogi is aiming at maintaining a very high standard of conduct and behaviour to ensure efficiency for serving citizens and, in turn, developing oneself. How will this scheme empower civil servants in enhancing productive efficiency and delivering services at the grassroots level? (Answer in 150 words)",
+    "cite": "UPSC Mains 2024 GS Paper 4",
+    "question_text": "Mission Karmayogi is aiming at maintaining a very high standard of conduct and behaviour to ensure efficiency for serving citizens and, in turn, developing oneself. How will this scheme empower civil servants in enhancing productive efficiency and delivering services at the grassroots level?",
     "subjectId": "attitude",
     "subjects": [
       "Attitude, EI, Aptitude"
@@ -720,52 +706,51 @@
       "Mission Karmayogi"
     ],
     "keyPointers": [
-      "The scheme tries to train a role, not only pass an examination once",
-      "Efficiency at the grassroots is a skill plus an attitude",
-      "A platform can teach. It empowers only if the posting then lets the officer use it",
-      "Conduct and delivery are linked: a rude, untrained counter is an inefficient one"
+      "Aptitude for public service",
+      "Dedication to public service",
+      "Attitude"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The scheme tries to train a role, not only to pass an examination once",
+      "A platform empowers only if the posting then lets the officer use it",
+      "A rude, untrained counter is an inefficient one"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Mission Karmayogi seeks to make a civil servant continuously competent and citizen-facing, rather than trained once at recruitment.",
         "order": 1,
-        "cite": "U4"
+        "text": "Mission Karmayogi seeks to make a civil servant continuously competent and citizen-facing, rather than trained once at recruitment."
       },
       {
         "section": "Body",
-        "text": "A role-based module on the actual work of a counter, a field visit and a grievance can raise the productive efficiency of the person the citizen meets.",
         "order": 2,
-        "cite": "U4"
+        "text": "A role-based module on the actual work of a counter, a field visit and a grievance can raise the productive efficiency of the person the citizen meets."
       },
       {
         "section": "Body",
-        "text": "It empowers delivery at the grassroots only if the trained officer is posted there, has the tool, and is assessed on the service and not only on the course completed.",
         "order": 3,
-        "cite": "U4"
+        "text": "It empowers delivery at the grassroots only if the trained officer is posted there, has the tool, and is assessed on the service and not only on the course completed."
       },
       {
         "section": "Conclusion",
-        "text": "The scheme helps if it changes the counter. A certificate that never reaches the village does not.",
         "order": 4,
-        "cite": "U4"
+        "text": "The scheme helps if it changes the counter. A certificate that never reaches the village does not."
       }
     ]
   },
   {
     "uid": "UPSC_2024_GSP4_7",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q7",
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "7",
     "marks": 20,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U4",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 0,
-    "question_text": "You are the CEO and majority shareholder of ABC Incorporated, a large technology company in the developing world. Data-centre demand from AI has raised your greenhouse-gas emissions 48 percent since 2019. You have a net-zero pledge for 2030, but meeting it needs heavy investment in renewable power, while competition demands rapid innovation. (a) What is your immediate response? (b) What ethical issues are involved? (c) Your company may be penalised by bigger technology firms. What logical and ethical arguments would you make? (d) What measures would you adopt to balance AI innovation and the environmental footprint? (Answer in 250 words)",
+    "cite": "UPSC Mains 2024 GS Paper 4",
+    "question_text": "You are the CEO and majority shareholder of ABC Incorporated, a large technology company in the developing world. Data-centre demand from AI has raised your greenhouse-gas emissions 48 percent since 2019. You have a net-zero pledge for 2030, but meeting it needs heavy investment in renewable power, while competition demands rapid innovation. (a) What is your immediate response? (b) What ethical issues are involved? (c) Your company may be penalised by bigger technology firms. What logical and ethical arguments would you make? (d) What measures would you adopt to balance AI innovation and the environmental footprint?",
     "subjectId": "cases",
     "subjects": [
       "Case Studies"
@@ -778,52 +763,52 @@
       "AI growth and a climate pledge"
     ],
     "keyPointers": [
+      "Net zero",
+      "Corporate social responsibility",
+      "Environment versus livelihood",
+      "Conflict of values"
+    ],
+    "customKeyPointers": [
       "A pledge is an obligation, not a slogan to be postponed",
       "Growth that hides its energy cost is a shifted harm",
-      "The ethical case to a larger firm is that a penalty for trying to grow clean is perverse",
-      "The balance is a limit on the dirtier compute, not a refusal of the technology"
+      "The balance is a limit on the dirtier computing, not a refusal of the technology"
     ],
-    "vault_path": null,
     "points": [
       {
-        "section": "General",
-        "text": "The immediate response is to publish the 48 percent figure, freeze the expansion that cannot be powered cleanly, and commission the renewable capacity the 2030 pledge requires.",
+        "section": "Point",
         "order": 1,
-        "cite": "U4"
+        "text": "The immediate response is to publish the 48 percent figure, freeze the expansion that cannot be powered cleanly, and commission the renewable capacity the 2030 pledge requires."
       },
       {
-        "section": "General",
-        "text": "Ethical issues: a promise made to the public, a harm displaced onto a climate the company does not own, a duty to shareholders that is real and not supreme, and the temptation to meet a target by a creative account.",
+        "section": "Point",
         "order": 2,
-        "cite": "U4"
+        "text": "Ethical issues: a promise made to the public, a harm displaced onto a climate the company does not own, a duty to shareholders that is real and not supreme, and the temptation to meet a target by a creative account."
       },
       {
-        "section": "General",
-        "text": "To a larger firm threatening a penalty: the growth serves users in a developing market, the emissions are being cut on a dated plan, and punishing the firm that discloses and invests rewards the firm that hides.",
+        "section": "Point",
         "order": 3,
-        "cite": "U4"
+        "text": "To a larger firm threatening a penalty: the growth serves users in a developing market, the emissions are being cut on a dated plan, and punishing the firm that discloses and invests rewards the firm that hides."
       },
       {
-        "section": "General",
-        "text": "Measures: power new centres only with additional renewable supply, retire the dirtiest load, design models that use less compute, and report the footprint with the profit. Innovation continues inside that limit.",
+        "section": "Point",
         "order": 4,
-        "cite": "U4"
+        "text": "Measures: power new centres only with additional renewable supply, retire the dirtiest load, design models that use less compute, and report the footprint with the profit. Innovation continues inside that limit."
       }
     ]
   },
   {
     "uid": "UPSC_2024_GSP4_8",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q8",
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "8",
     "marks": 20,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U4",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 0,
-    "question_text": "Raman, newly posted as DGP, learns that a new global terrorist group is recruiting unemployed graduates in his state, with a focus on one community, through social media and local communal contacts. Many of these youths spend hours online endorsing the group and forwarding anti-national messages. (a) What options does Raman have? (b) What measures would strengthen the set-up so such groups cannot vitiate the state? (c) What action plan would you advise for the police intelligence system? (Answer in 250 words)",
+    "cite": "UPSC Mains 2024 GS Paper 4",
+    "question_text": "Raman, newly posted as DGP, learns that a new global terrorist group is recruiting unemployed graduates in his state, with a focus on one community, through social media and local communal contacts. Many of these youths spend hours online endorsing the group and forwarding anti-national messages. (a) What options does Raman have? (b) What measures would strengthen the set-up so such groups cannot vitiate the state? (c) What action plan would you advise for the police intelligence system?",
     "subjectId": "cases",
     "subjects": [
       "Case Studies"
@@ -836,52 +821,52 @@
       "Terror recruitment and unemployment"
     ],
     "keyPointers": [
+      "Terrorism",
+      "Radicalisation",
+      "Unemployment",
+      "Social media and encryption"
+    ],
+    "customKeyPointers": [
       "The target is a young person with no work and a phone",
       "Arresting every forwarder makes the recruiter's story true",
-      "The options run from a crackdown to a job and a counter-message",
-      "Intelligence has to see the online approach early, with a legal basis"
+      "The fitting mix is a job, a counter-message and a lawful early look at the online approach"
     ],
-    "vault_path": null,
     "points": [
       {
-        "section": "General",
-        "text": "Options: a wide arrest of anyone who forwarded a post; a focused case against the recruiters and the core; or that case plus a public counter and a job pathway for the unemployed pool being targeted.",
+        "section": "Point",
         "order": 1,
-        "cite": "U4"
+        "text": "Options: a wide arrest of anyone who forwarded a post; a focused case against the recruiters and the core; or that case plus a public counter and a job pathway for the unemployed pool being targeted."
       },
       {
-        "section": "General",
-        "text": "The first feeds the grievance. The second is necessary and not sufficient. The third treats the method, which is unemployment plus a lie.",
+        "section": "Point",
         "order": 2,
-        "cite": "U4"
+        "text": "The first feeds the grievance. The second is necessary and not sufficient. The third treats the method, which is unemployment plus a lie."
       },
       {
-        "section": "General",
-        "text": "Strengthen the set-up with a community contact that is not only a raid, a fast takedown of the recruiting account, and a scheme that puts a graduate into a visible first job.",
+        "section": "Point",
         "order": 3,
-        "cite": "U4"
+        "text": "Strengthen the set-up with a community contact that is not only a raid, a fast takedown of the recruiting account, and a scheme that puts a graduate into a visible first job."
       },
       {
-        "section": "General",
-        "text": "For intelligence: a dedicated cyber cell that flags the approach early, shares it with the district in time, and stays inside a written authorisation. Collect the recruiter. Do not build a file on every angry young man.",
+        "section": "Point",
         "order": 4,
-        "cite": "U4"
+        "text": "For intelligence: a dedicated cyber cell that flags the approach early, shares it with the district in time, and stays inside a written authorisation. Collect the recruiter. Do not build a file on every angry young man."
       }
     ]
   },
   {
     "uid": "UPSC_2024_GSP4_9",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q9",
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "9",
     "marks": 20,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U4",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 0,
-    "question_text": "Rohit, SP (Special Operations), has cordoned a village and captured ten hardcore Naxalites, two of them with large rewards and linked to a recent ambush. More than five hundred tribal women surround the village and demand their release, calling them protectors. He cannot reach his IG. Firing may be the only way to hold the captives, and it would kill civilians. (a) What options does Rohit have? (b) What ethical dilemmas does he face? (c) Which option should he adopt, and why? (d) What extra precautions should police take with women protesters? (Answer in 250 words)",
+    "cite": "UPSC Mains 2024 GS Paper 4",
+    "question_text": "Rohit, SP (Special Operations), has cordoned a village and captured ten hardcore Naxalites, two of them with large rewards and linked to a recent ambush. More than five hundred tribal women surround the village and demand their release, calling them protectors. He cannot reach his IG. Firing may be the only way to hold the captives, and it would kill civilians. (a) What options does Rohit have? (b) What ethical dilemmas does he face? (c) Which option should he adopt, and why? (d) What extra precautions should police take with women protesters?",
     "subjectId": "cases",
     "subjects": [
       "Case Studies"
@@ -894,52 +879,53 @@
       "Force, civilians and a captured squad"
     ],
     "keyPointers": [
-      "The captives are lawful arrests of men linked to an ambush",
-      "The crowd is civilian, many of them women, and a shot would be a different kind of harm",
-      "Losing communication does not create a permission to fire into them",
-      "The appropriate act is to hold the men and hold the fire"
+      "Left-wing extremism",
+      "Conflict of values",
+      "Compassion",
+      "Rule of law"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The captives are lawful arrests of men linked to an ambush",
+      "The crowd is civilian, and a shot would be a different kind of harm",
+      "Losing communication does not permit firing into them",
+      "Hold the men and hold the fire"
+    ],
     "points": [
       {
-        "section": "General",
-        "text": "Options: release the two prize militants to disperse the crowd; fire to hold them; or withdraw to a tighter cordon, keep the captives, and wait out the crowd without firing.",
+        "section": "Point",
         "order": 1,
-        "cite": "U4"
+        "text": "Options: release the two prize militants to disperse the crowd; fire to hold them; or withdraw to a tighter cordon, keep the captives, and wait out the crowd without firing."
       },
       {
-        "section": "General",
-        "text": "The dilemma is a duty to bring armed men to law against a duty not to kill the civilians being used as the pressure. There is also the danger of a panic decision made alone.",
+        "section": "Point",
         "order": 2,
-        "cite": "U4"
+        "text": "The dilemma is a duty to bring armed men to law against a duty not to kill the civilians being used as the pressure. There is also the danger of a panic decision made alone."
       },
       {
-        "section": "General",
-        "text": "He should adopt the third. Releasing the two rewards the tactic and returns men tied to an ambush. Firing on five hundred women is a worse wrong than a delayed extraction. A tighter cordon, women officers at the front, and no first shot buy time until communication returns.",
+        "section": "Point",
         "order": 3,
-        "cite": "U4"
+        "text": "He should adopt the third. Releasing the two rewards the tactic and returns men tied to an ambush. Firing on five hundred women is a worse wrong than a delayed extraction. A tighter cordon, women officers at the front, and no first shot buy time until communication returns."
       },
       {
-        "section": "General",
-        "text": "Precautions: women personnel in the contact line, a clear warning, no male officer laying a hand where it can be alleged, medical help ready, and a record of every order.",
+        "section": "Point",
         "order": 4,
-        "cite": "U4"
+        "text": "Precautions: women personnel in the contact line, a clear warning, no male officer laying a hand where it can be alleged, medical help ready, and a record of every order."
       }
     ]
   },
   {
     "uid": "UPSC_2024_GSP4_10",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q10",
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "10",
     "marks": 20,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U4",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 0,
-    "question_text": "Sneha, senior manager of a private hospital chain, is procuring equipment for a new super-speciality centre. Her brother, a known supplier whose firm is in financial trouble, has bid. The hospital need not take the lowest bid and will back her decision. Giving him the order would save his firm and expose her to a charge of favouritism. (a) What should she do? (b) How should she justify it? (c) How is medical ethics compromised by vested personal interest here? (Answer in 250 words)",
+    "cite": "UPSC Mains 2024 GS Paper 4",
+    "question_text": "Sneha, senior manager of a private hospital chain, is procuring equipment for a new super-speciality centre. Her brother, a known supplier whose firm is in financial trouble, has bid. The hospital need not take the lowest bid and will back her decision. Giving him the order would save his firm and expose her to a charge of favouritism. (a) What should she do? (b) How should she justify it? (c) How is medical ethics compromised by vested personal interest here?",
     "subjectId": "cases",
     "subjects": [
       "Case Studies"
@@ -952,52 +938,51 @@
       "Conflict of interest in hospital procurement"
     ],
     "keyPointers": [
-      "A private owner does not cancel a conflict of interest",
-      "The patient depends on the machine being the right one, not the related one",
-      "She can compete him fairly only if she does not judge him",
-      "Medical ethics is compromised when a purchase serves a family balance sheet"
+      "Conflict of interest",
+      "Integrity",
+      "Corporate governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A private owner does not cancel a conflict of interest",
+      "The patient depends on the right machine, not the related one",
+      "She can let the bid compete only if she does not judge it"
+    ],
     "points": [
       {
-        "section": "Intro",
-        "text": "She should declare the relationship, step off the decision on this item, and let the rest of the committee score every bid, including his, against a written specification.",
+        "section": "Point",
         "order": 1,
-        "cite": "U4"
+        "text": "She should declare the relationship, step off the decision on this item, and let the rest of the committee score every bid, including his, against a written specification."
       },
       {
-        "section": "General",
-        "text": "If his bid is clearly the best on quality, service and price, it can be taken and the reasons published. If it wins only because he is her brother, it must not.",
+        "section": "Point",
         "order": 2,
-        "cite": "U4"
+        "text": "If his bid is clearly the best on quality, service and price, it can be taken and the reasons published. If it wins only because he is her brother, it must not."
       },
       {
-        "section": "General",
-        "text": "The justification is the record: a declaration, her absence from the scoring, and a result a stranger could defend. Saving his firm is not a justification.",
+        "section": "Point",
         "order": 3,
-        "cite": "U4"
+        "text": "The justification is the record: a declaration, her absence from the scoring, and a result a stranger could defend. Saving his firm is not a justification."
       },
       {
-        "section": "General",
-        "text": "Medical ethics is compromised when equipment is chosen for a private interest. The patient then receives a machine selected for a brother's debt rather than for care, and the trust of a hospital is spent on a family.",
+        "section": "Point",
         "order": 4,
-        "cite": "U4"
+        "text": "Medical ethics is compromised when equipment is chosen for a private interest. The patient then receives a machine selected for a brother's debt rather than for care, and the trust of a hospital is spent on a family."
       }
     ]
   },
   {
     "uid": "UPSC_2024_GSP4_11",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q11",
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "11",
     "marks": 20,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U4",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 0,
-    "question_text": "A severe summer has left the district short of drinking water. The Collector has stopped farmers from drawing irrigation water from deep borewells and the river. Farmers protest that industries near the river are still drawing huge volumes, and they allege corruption. They threaten a long agitation. Closing the industry would unemploy many workers. (a) Discuss the Collector's options. (b) What actions respect the compatible interests of the stakeholders? (c) What administrative and ethical dilemmas does he face? (Answer in 250 words)",
+    "cite": "UPSC Mains 2024 GS Paper 4",
+    "question_text": "A severe summer has left the district short of drinking water. The Collector has stopped farmers from drawing irrigation water from deep borewells and the river. Farmers protest that industries near the river are still drawing huge volumes, and they allege corruption. They threaten a long agitation. Closing the industry would unemploy many workers. (a) Discuss the Collector's options. (b) What actions respect the compatible interests of the stakeholders? (c) What administrative and ethical dilemmas does he face?",
     "subjectId": "cases",
     "subjects": [
       "Case Studies"
@@ -1010,52 +995,51 @@
       "Sharing a scarce water"
     ],
     "keyPointers": [
-      "Drinking water comes before a crop and a process",
-      "A ban that hits the farmer and spares the factory will not be obeyed",
-      "The compatible path is a shared cut, published",
-      "The dilemma is livelihood against a tank that is actually emptying"
+      "Environment versus livelihood",
+      "Conflict of values",
+      "Freshwater availability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Drinking water comes before a crop and a factory process",
+      "A ban that hits the farmer and spares the factory will not be obeyed",
+      "The compatible path is a shared cut, published"
+    ],
     "points": [
       {
-        "section": "General",
-        "text": "Options: enforce the ban only on farmers; shut the factories; or impose a published, descending quota on both, with drinking water as the first claim and an inspection both sides can see.",
+        "section": "Point",
         "order": 1,
-        "cite": "U4"
+        "text": "Options: enforce the ban only on farmers; shut the factories; or impose a published, descending quota on both, with drinking water as the first claim and an inspection both sides can see."
       },
       {
-        "section": "General",
-        "text": "The third respects the compatible interest. Farmers keep a survival irrigation. Industry keeps a reduced process and its workers. Neither is told that the other is exempt.",
+        "section": "Point",
         "order": 2,
-        "cite": "U4"
+        "text": "The third respects the compatible interest. Farmers keep a survival irrigation. Industry keeps a reduced process and its workers. Neither is told that the other is exempt."
       },
       {
-        "section": "General",
-        "text": "Administrative dilemma: he needs the water and he needs the peace, and he cannot verify every borewell at once. Ethical dilemma: a crop is a farmer's year, a wage is a worker's month, and a dry tap is everyone's tomorrow.",
+        "section": "Point",
         "order": 3,
-        "cite": "U4"
+        "text": "Administrative dilemma: he needs the water and he needs the peace, and he cannot verify every borewell at once. Ethical dilemma: a crop is a farmer's year, a wage is a worker's month, and a dry tap is everyone's tomorrow."
       },
       {
-        "section": "General",
-        "text": "He should say the order of priority in public, cut the industrial draw first because it is metered, and put an independent check on the allegation of a bribe so the rationing is not read as a sale.",
+        "section": "Point",
         "order": 4,
-        "cite": "U4"
+        "text": "He should say the order of priority in public, cut the industrial draw first because it is metered, and put an independent check on the allegation of a bribe so the rationing is not read as a sale."
       }
     ]
   },
   {
     "uid": "UPSC_2024_GSP4_12",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPSC",
-    "origin": "PYQ",
-    "q_number": "Q12",
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "12",
     "marks": 20,
+    "word_limit": 250,
     "importance": 2,
-    "cite": "U4",
-    "last_updated": 1747488000,
+    "origin": "PYQ",
     "is_structured": 0,
-    "question_text": "Dr Srinivasan leads a team racing to trial a drug for a fast-spreading viral disease. Seniors suggest shortcuts: dropping negative data, skipping informed consent, and using a rival's patented compound. He believes the target cannot be met without these. (a) What would you do? (b) Examine your options and their consequences in the light of the ethical questions. (c) How can data ethics and drug ethics save humanity in such a scenario? (Answer in 250 words)",
+    "cite": "UPSC Mains 2024 GS Paper 4",
+    "question_text": "Dr Srinivasan leads a team racing to trial a drug for a fast-spreading viral disease. Seniors suggest shortcuts: dropping negative data, skipping informed consent, and using a rival's patented compound. He believes the target cannot be met without these. (a) What would you do? (b) Examine your options and their consequences in the light of the ethical questions. (c) How can data ethics and drug ethics save humanity in such a scenario?",
     "subjectId": "cases",
     "subjects": [
       "Case Studies"
@@ -1068,36 +1052,35 @@
       "Data ethics and drug ethics"
     ],
     "keyPointers": [
+      "Integrity",
+      "Means and ends",
+      "Conflict of values"
+    ],
+    "customKeyPointers": [
       "A faster trial that hides a harm is not a treatment",
       "Consent and a complete data set are the ethics, not the paperwork",
-      "The option of delay is real and so is the option of a lawful acceleration",
-      "Humanity is saved by a drug that is true, not by one that is first"
+      "The drug has to be true, not merely first"
     ],
-    "vault_path": null,
     "points": [
       {
-        "section": "General",
-        "text": "Refuse the shortcuts. Say so in writing. Ask for a lawful acceleration: more sites, a rolling review, and a shared trial, none of which require a hidden result or a stolen compound.",
+        "section": "Point",
         "order": 1,
-        "cite": "U4"
+        "text": "Refuse the shortcuts. Say so in writing. Ask for a lawful acceleration: more sites, a rolling review, and a shared trial, none of which require a hidden result or a stolen compound."
       },
       {
-        "section": "General",
-        "text": "Manipulating data can kill later patients and will destroy the drug when it surfaces. Skipping consent uses people as material. Using a rival's patent is a theft that also skips the safety the patent process assumed. Missing a commercial target is a loss. The others are harms.",
+        "section": "Point",
         "order": 2,
-        "cite": "U4"
+        "text": "Manipulating data can kill later patients and will destroy the drug when it surfaces. Skipping consent uses people as material. Using a rival's patent is a theft that also skips the safety the patent process assumed. Missing a commercial target is a loss. The others are harms."
       },
       {
-        "section": "General",
-        "text": "Data ethics keeps a negative result visible, which is how the next scientist avoids a dead end and a danger. Drug ethics keeps consent and a true trial, which is how a medicine can be given to millions without becoming the disease.",
+        "section": "Point",
         "order": 3,
-        "cite": "U4"
+        "text": "Data ethics keeps a negative result visible, which is how the next scientist avoids a dead end and a danger. Drug ethics keeps consent and a true trial, which is how a medicine can be given to millions without becoming the disease."
       },
       {
-        "section": "General",
-        "text": "Humanity is not saved by the first product to market. It is saved by a result that other people can trust.",
+        "section": "Point",
         "order": 4,
-        "cite": "U4"
+        "text": "Humanity is not saved by the first product to market. It is saved by a result that other people can trust."
       }
     ]
   }

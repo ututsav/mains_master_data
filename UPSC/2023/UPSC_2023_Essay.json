@@ -1,0 +1,533 @@
+[
+  {
+    "uid": "UPSC_2023_ESSAY_A1",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "Essay",
+    "q_number": "A1",
+    "marks": 125,
+    "word_limit": 1200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 Essay",
+    "question_text": "Thinking is like a game, it does not begin unless there is an opposite team.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay"
+    ],
+    "topic": "Thinking and opposition",
+    "topics": [
+      "Thinking and opposition"
+    ],
+    "subTopics": [
+      "Thought and opposition"
+    ],
+    "keyPointers": [
+      "Moral reasoning",
+      "Conflict of values",
+      "Doubt in science"
+    ],
+    "customKeyPointers": [
+      "A thought that meets no resistance is only a habit",
+      "The opposite team is an argument, a person, or one's own doubt",
+      "A quarrel is not yet thinking"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Thinking starts when something pushes back. Until then one is only repeating."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "A scientist needs a rival hypothesis. A court needs a defence. A person needs the objection he would rather not hear."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "The opposite team is not required to be hated. It is required to be real, and to be allowed to score."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "A public life that silences the other side does not win the game. It cancels it, and calls the silence a conclusion."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "The limit is that opposition for its own sake is only noise. The game has a point: a better account of the matter."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "Thought is a team sport played against a resistance. Without the other side, nothing has begun."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_ESSAY_A2",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "Essay",
+    "q_number": "A2",
+    "marks": 125,
+    "word_limit": 1200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 Essay",
+    "question_text": "Visionary decision-making happens at the intersection of intuition and logic.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay"
+    ],
+    "topic": "Intuition and logic",
+    "topics": [
+      "Intuition and logic"
+    ],
+    "subTopics": [
+      "Intuition and logic in decisions"
+    ],
+    "keyPointers": [
+      "Moral reasoning",
+      "Emotional intelligence",
+      "Self-knowledge"
+    ],
+    "customKeyPointers": [
+      "Intuition sees the end before the steps are written",
+      "Logic tests whether the end can be reached",
+      "A vision that skips the test is a wish",
+      "A logic with no vision only administers the present"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "A visionary decision is not a feeling and it is not a spreadsheet. It is the point where the two agree."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Intuition arrives first, as a sense of what the situation is asking. It is trained by experience, and it is also capable of being a bias."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Logic asks for the evidence, the cost and the step that would prove the hunch wrong. That is how a vision becomes a decision."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "A leader who will not hear the number wastes the people who must carry the vision. A system that will not hear the hunch never leaves the last successful year."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "The intersection is uncomfortable, because one of the two usually has to give way."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "Visionary decisions are rare because most people stay on one road: the feeling, or the file."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_ESSAY_A3",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "Essay",
+    "q_number": "A3",
+    "marks": 125,
+    "word_limit": 1200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 Essay",
+    "question_text": "Not all who wander are lost.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay"
+    ],
+    "topic": "Wandering and purpose",
+    "topics": [
+      "Wandering and purpose"
+    ],
+    "subTopics": [
+      "Wandering and purpose"
+    ],
+    "keyPointers": [
+      "Courage and risk",
+      "Self-knowledge",
+      "Creativity"
+    ],
+    "customKeyPointers": [
+      "Lost means without a direction. Wandering can be a way of finding one",
+      "A fixed path is not the only proof of purpose",
+      "The line does not defend a drift that refuses every arrival"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "To wander is to move without the final map. To be lost is not to know why one is moving."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "A scientist, a pilgrim and a young person changing work are all wanderers whom a timetable would call aimless."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "The search is the purpose. A society that honours only the straight career will call that search a failure."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "The charity of the line has a limit. Wandering that learns nothing, and will not stop, is a loss with a romantic name."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "The distinction is whether the person can say, even roughly, what he is looking for."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "Not all who wander are lost. Some are lost and walking, and the sentence was never meant to hide them."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_ESSAY_A4",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "Essay",
+    "q_number": "A4",
+    "marks": 125,
+    "word_limit": 1200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 Essay",
+    "question_text": "Inspiration for creativity springs from the effort to look for the magical in the mundane.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay"
+    ],
+    "topic": "Creativity in ordinary life",
+    "topics": [
+      "Creativity in ordinary life"
+    ],
+    "subTopics": [
+      "Creativity and ordinary life"
+    ],
+    "keyPointers": [
+      "Creativity"
+    ],
+    "customKeyPointers": [
+      "Creativity is a way of looking, before it is a talent",
+      "The mundane is where most of life actually happens",
+      "Waiting for a grand subject is how most work never starts"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The sentence locates inspiration not in a rare event but in a second look at an ordinary one."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "A kitchen, a bus queue, a failure of a machine: these are mundane, and they are also where a poem, a design or a scientific question usually begins."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "The effort is the point. The magical does not announce itself. Someone has to refuse to find the ordinary boring."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "This is as true of a laboratory as of a studio. A careful attention to a dull result has started more discoveries than a hunt for the sublime."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "The risk is to decorate the mundane and call it magic. The real effort changes what one is able to notice."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "Inspiration springs from attention. The mundane is simply the place attention is most often absent."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_ESSAY_B1",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "Essay",
+    "q_number": "B1",
+    "marks": 125,
+    "word_limit": 1200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 Essay",
+    "question_text": "Girls are weighed down by restrictions, boys with demands – two equally harmful disciplines.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay"
+    ],
+    "topic": "Gender and discipline",
+    "topics": [
+      "Gender and discipline"
+    ],
+    "subTopics": [
+      "Gendered discipline"
+    ],
+    "keyPointers": [
+      "Patriarchy",
+      "Gender and the household"
+    ],
+    "customKeyPointers": [
+      "One gender is told not to go. The other is told not to fail",
+      "Both are disciplines, and both shrink a person",
+      "The harms are equal in kind and not always equal in consequence"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The sentence pairs two trainings that look different and damage in the same way: each refuses the child a full life."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "A girl is weighed down by a restriction on movement, dress, study and desire. The discipline says her safety is her smallness."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "A boy is weighed down by a demand to earn, to be hard, and never to need help. The discipline says his worth is his usefulness."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "They are equal as harms to freedom. They are not equal as exposure to violence, which still falls more heavily on the restricted girl."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "A reform that frees only one side leaves the other as the enforcer of the old rule."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "Two disciplines, one purpose: a smaller human being. Ending either requires ending both."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_ESSAY_B2",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "Essay",
+    "q_number": "B2",
+    "marks": 125,
+    "word_limit": 1200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 Essay",
+    "question_text": "Mathematics is the music of reason.",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay"
+    ],
+    "topic": "Mathematics and reason",
+    "topics": [
+      "Mathematics and reason"
+    ],
+    "subTopics": [
+      "Mathematics and reason"
+    ],
+    "keyPointers": [
+      "Mathematics and reason",
+      "Scientific temper"
+    ],
+    "customKeyPointers": [
+      "Music is pattern heard. Mathematics is pattern proved",
+      "Reason without form is opinion",
+      "The line praises a beauty that is also binding"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The sentence calls mathematics a music because it is a pattern that satisfies, and a music of reason because the pattern has to be true."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "A proof, like a melody, is a sequence in which each step is compelled by the one before it."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "That compulsion is why mathematics can describe a planet, a price and a bridge. The beauty is not a decoration. It is the sign that the relation is tight."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Reason that will not submit to this discipline remains a preference. Number is how a preference is made to face a check."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "The analogy has a limit. Music may move a person who does not understand it. A theorem that is not understood has not yet been heard."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "Mathematics is the music of reason because it is the only music in which being moved and being right are the same event."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_ESSAY_B3",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "Essay",
+    "q_number": "B3",
+    "marks": 125,
+    "word_limit": 1200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 Essay",
+    "question_text": "A society that has more justice is a society that needs less charity.",
+    "subjectId": "essay-econ",
+    "subjects": [
+      "Essay"
+    ],
+    "topic": "Justice and charity",
+    "topics": [
+      "Justice and charity"
+    ],
+    "subTopics": [
+      "Justice and charity"
+    ],
+    "keyPointers": [
+      "Justice and charity",
+      "Inequality"
+    ],
+    "customKeyPointers": [
+      "Charity gives back a little of what injustice took",
+      "Justice changes the rule so that the taking does not happen",
+      "Charity remains for the misfortune that no rule can prevent"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Charity treats a wound. Justice asks why the wound keeps being made."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "A wage that cannot buy food, a school that was never built, a title to land that was taken: each produces a person who then needs a donation."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "A just rule — a fair wage, a public school, a secure right — retires that donation. The need shrinks because the cause was removed."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Charity can even delay justice, if the giver enjoys the role and the receiver is trained to be grateful instead of entitled."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Some needs remain: an illness, a disaster, a person no institution has yet imagined. Charity is the right answer there, and only there."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "More justice, less charity. The charity that survives is the kind a just society still has occasions for."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_ESSAY_B4",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "Essay",
+    "q_number": "B4",
+    "marks": 125,
+    "word_limit": 1200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 Essay",
+    "question_text": "Education is what remains after one has forgotten what one has learned in school.",
+    "subjectId": "essay-lit",
+    "subjects": [
+      "Essay"
+    ],
+    "topic": "What education leaves behind",
+    "topics": [
+      "What education leaves behind"
+    ],
+    "subTopics": [
+      "Education beyond the syllabus"
+    ],
+    "keyPointers": [
+      "Education and social change",
+      "Self-knowledge"
+    ],
+    "customKeyPointers": [
+      "The syllabus fades. A habit of mind can remain",
+      "What remains is curiosity, a standard, and the ability to learn again",
+      "The line is not an excuse for refusing to learn the facts"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The sentence separates a stock of lessons, which is forgotten, from an education, which is the person those lessons left behind."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Dates, formulae and a definition go. What can remain is the habit of asking for a reason, of reading a page, and of not being fooled by a confident speaker."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "A school that drills only the recallable item produces a result and, years later, an empty cupboard."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "The sentence is often misused to despise knowledge. One cannot forget what was never learned, and the remainder is made out of what was once known."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "The test of a school is the adult who no longer remembers the chapter and can still think."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "Education is the residue: a mind that kept its shape after the syllabus fell away."
+      }
+    ]
+  }
+]
