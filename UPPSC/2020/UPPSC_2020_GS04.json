@@ -1,16 +1,16 @@
 [
   {
     "uid": "UPPSC_2020_GS4_Q1",
-    "paper_title": "General Studies Paper 4",
-    "year": 2020,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 1,
+    "year": 2020,
+    "paper_title": "GS Paper 4",
+    "q_number": "1",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
-    "last_updated": 1778961000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
     "question_text": "Discuss the role of famly, society and educational institutions in inculcatin values.",
     "subjectId": "ethics",
     "subjects": [
@@ -24,109 +24,107 @@
       "Who inculcates values"
     ],
     "keyPointers": [
-      "Family is the first pattern",
-      "Society confirms it",
-      "School makes it explicit",
-      "All three teach, and they can contradict"
+      "Education and social change",
+      "Attitude",
+      "Gender and the household"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A child copies what is praised at home, repeated in the street and taught in school",
+      "The three do not always teach the same value",
+      "Inculcation is what is done, not what is preached"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define values as enduring beliefs that guide human behavior, shaped fundamentally by the tri-pillar ecosystem of family, society, and educational institutions.",
         "order": 1,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Define values as enduring beliefs that guide human behavior, shaped fundamentally by the tri-pillar ecosystem of family, society, and educational institutions."
       },
       {
         "section": "Body",
-        "text": "Role of the Family: Acts as the primary agent of socialization. Children absorb foundational values like honesty, empathy, respect, and discipline through observational learning and parental modeling.",
         "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Role of the Family: Acts as the primary agent of socialization. Children absorb foundational values like honesty, empathy, respect, and discipline through observational learning and parental modeling."
       },
       {
         "section": "Body",
-        "text": "Role of Educational Institutions and Society: Schools formalize ethical learning, teaching punctuality, teamwork, and civic responsibility. Society (peer groups, media, culture) acts as a secondary socializing agent, testing and reinforcing these values through social rewards and sanctions.",
         "order": 3,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Role of Educational Institutions and Society: Schools formalize ethical learning, teaching punctuality, teamwork, and civic responsibility. Society (peer groups, media, culture) acts as a secondary socializing agent, testing and reinforcing these values through social rewards and sanctions."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that a cohesive alignment among these three pillars is essential to cultivate strong moral character and responsible citizenship in an individual.",
         "order": 4,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Conclude that a cohesive alignment among these three pillars is essential to cultivate strong moral character and responsible citizenship in an individual."
       }
     ]
   },
   {
     "uid": "UPPSC_2020_GS4_Q2",
-    "paper_title": "General Studies Paper 4",
-    "year": 2020,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 2,
+    "year": 2020,
+    "paper_title": "GS Paper 4",
+    "q_number": "2",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
-    "last_updated": 1778961000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
     "question_text": "Discuss the role of 'Right to Information' for transparency in overnance.",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Aptitude",
+    "topic": "The right to information and an open government",
     "topics": [
-      "Aptitude"
+      "The right to information and an open government"
     ],
     "subTopics": [
       "RTI and transparency"
     ],
     "keyPointers": [
-      "A citizen can see the file",
-      "Transparency is a decision that can be checked",
-      "RTI is the tool",
-      "It works when the answer comes"
+      "Transparency and the right to information",
+      "Accountability",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A citizen who can see the file can ask who decided",
+      "That is the role in transparency",
+      "An open file without a consequence is only a display"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Right to Information (RTI) Act, 2005, as a landmark tool that dismantled the colonial culture of administrative secrecy, empowering citizens to demand transparency.",
         "order": 1,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Introduce the Right to Information (RTI) Act, 2005, as a landmark tool that dismantled the colonial culture of administrative secrecy, empowering citizens to demand transparency."
       },
       {
         "section": "Body",
-        "text": "Role in ensuring transparency: By mandating public authorities to disclose records, RTI exposes arbitrary decision-making, procedural delays, and systemic corruption, thereby ensuring that public funds are utilized efficiently.",
         "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Role in ensuring transparency: By mandating public authorities to disclose records, RTI exposes arbitrary decision-making, procedural delays, and systemic corruption, thereby ensuring that public funds are utilized efficiently."
       },
       {
         "section": "Body",
-        "text": "Role in deterrence and accountability: The constant threat of public exposure acts as a powerful deterrent against malfeasance, forcing civil servants to adhere strictly to rules and maintain objective, well-documented records.",
         "order": 3,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Role in deterrence and accountability: The constant threat of public exposure acts as a powerful deterrent against malfeasance, forcing civil servants to adhere strictly to rules and maintain objective, well-documented records."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that RTI transforms a representative democracy into a participatory one, establishing transparency as the fundamental basis of bureaucratic accountability.",
         "order": 4,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Conclude that RTI transforms a representative democracy into a participatory one, establishing transparency as the fundamental basis of bureaucratic accountability."
       }
     ]
   },
   {
     "uid": "UPPSC_2020_GS4_Q3",
-    "paper_title": "General Studies Paper 4",
-    "year": 2020,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 3,
+    "year": 2020,
+    "paper_title": "GS Paper 4",
+    "q_number": "3",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
-    "last_updated": 1778961000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
     "question_text": "\"The requirement of government sanction for prosecuting the dishonest officials is a protective shield for corruption.\" Eamine the statement.",
     "subjectId": "ethics",
     "subjects": [
@@ -140,213 +138,212 @@
       "Sanction to prosecute officials"
     ],
     "keyPointers": [
-      "Sanction was meant to stop a vexatious case",
-      "It can delay a real one",
-      "A shield if it hides the dishonest",
-      "Discuss the protection and the abuse"
+      "Corruption",
+      "Accountability",
+      "Rule of law"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A sanction before a prosecution can stop a vendetta",
+      "It can also stop a real case",
+      "The statement is fair when the shield is used to delay, and not when it is a real check"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Discuss the provision (e.g., Section 19 of the Prevention of Corruption Act) which mandates prior government sanction before investigating or prosecuting public servants.",
         "order": 1,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Discuss the provision (e.g., Section 19 of the Prevention of Corruption Act) which mandates prior government sanction before investigating or prosecuting public servants."
       },
       {
         "section": "Body",
-        "text": "Examine how it acts as a protective shield: This provision often causes severe delays in investigations. It allows corrupt officials time to manipulate evidence, intimidate witnesses, and leverage political connections to stall the sanction indefinitely, effectively shielding them from accountability.",
         "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Examine how it acts as a protective shield: This provision often causes severe delays in investigations. It allows corrupt officials time to manipulate evidence, intimidate witnesses, and leverage political connections to stall the sanction indefinitely, effectively shielding them from accountability."
       },
       {
         "section": "Body",
-        "text": "Examine the intended purpose (Counter-perspective): The original intent was to protect honest, bold decision-makers from frivolous, vindictive, or politically motivated harassment and to prevent institutional paralysis caused by the fear of constant litigation.",
         "order": 3,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Examine the intended purpose (Counter-perspective): The original intent was to protect honest, bold decision-makers from frivolous, vindictive, or politically motivated harassment and to prevent institutional paralysis caused by the fear of constant litigation."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while protecting honest officers is necessary, the sanction process must be strictly time-bound and transparent to prevent it from degenerating into a safe haven for the corrupt.",
         "order": 4,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Conclude that while protecting honest officers is necessary, the sanction process must be strictly time-bound and transparent to prevent it from degenerating into a safe haven for the corrupt."
       }
     ]
   },
   {
     "uid": "UPPSC_2020_GS4_Q4",
-    "paper_title": "General Studies Paper 4",
-    "year": 2020,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 4,
+    "year": 2020,
+    "paper_title": "GS Paper 4",
+    "q_number": "4",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
-    "last_updated": 1778961000,
+    "origin": "PYQ",
     "is_structured": 0,
-    "question_text": "Discuss the following in the contet of civil services.\n(A) Impartiality\n(B) Commitment",
-    "subjectId": "thinkers",
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "question_text": "Discuss the following in the contet of civil services. (A) Impartiality (B) Commitment",
+    "subjectId": "ethics",
     "subjects": [
-      "Thinkers"
+      "Ethics"
     ],
-    "topic": "Thinkers",
+    "topic": "Impartiality and commitment",
     "topics": [
-      "Thinkers"
+      "Impartiality and commitment"
     ],
     "subTopics": [
       "Impartiality and commitment"
     ],
     "keyPointers": [
-      "Impartiality is the same rule for all",
-      "Commitment is staying with the public task",
-      "Both are required",
-      "Discuss each"
+      "Impartiality",
+      "Dedication to public service",
+      "Integrity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Impartiality is deciding on the fact, not on who asks",
+      "Commitment is staying with the public work",
+      "Both are needed, and a commitment to a party is not the commitment meant here"
+    ],
     "points": [
       {
-        "section": "Body",
-        "text": "(A) Impartiality: It refers to acting solely on the basis of merit and objective criteria, free from bias, prejudice, or favoritism. In the civil services, it ensures equitable delivery of welfare services and justice regardless of a citizen's caste, religion, or political affiliation.",
+        "section": "Point",
         "order": 1,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "(A) Impartiality: It refers to acting solely on the basis of merit and objective criteria, free from bias, prejudice, or favoritism. In the civil services, it ensures equitable delivery of welfare services and justice regardless of a citizen's caste, religion, or political affiliation."
       },
       {
-        "section": "Body",
-        "text": "(B) Commitment: It signifies an unwavering dedication to public service, the Constitution, and the welfare of the people. It drives a civil servant to persevere through administrative hurdles, political pressure, and personal hardships to achieve organizational goals.",
+        "section": "Point",
         "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "(B) Commitment: It signifies an unwavering dedication to public service, the Constitution, and the welfare of the people. It drives a civil servant to persevere through administrative hurdles, political pressure, and personal hardships to achieve organizational goals."
       }
     ]
   },
   {
     "uid": "UPPSC_2020_GS4_Q5",
-    "paper_title": "General Studies Paper 4",
-    "year": 2020,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 5,
+    "year": 2020,
+    "paper_title": "GS Paper 4",
+    "q_number": "5",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
-    "last_updated": 1778961000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
     "question_text": "An employee was taking a bribe in his office. His officer caught him red-handed. The officer knows that if he is dismissed from his job, his old parents will become homeless and destitute. Therefore, the officer left him with a warning only. Imagine that you are the same officer. What will you do in these situations? Discuss in detail.",
-    "subjectId": "ethics",
+    "subjectId": "cases",
     "subjects": [
-      "Ethics & Values"
+      "Case Studies"
     ],
-    "topic": "Probity",
+    "topic": "A bribe, and the parents at home",
     "topics": [
-      "Probity"
+      "A bribe, and the parents at home"
     ],
     "subTopics": [
       "Mercy after catching a bribe"
     ],
     "keyPointers": [
-      "The parents’ hardship is real",
-      "Letting the bribe pass teaches that it is safe",
-      "What to do: record it, follow the rule, and separate the family’s need from the act",
-      "Compassion is not a private pardon"
+      "Conflict of values",
+      "Compassion",
+      "Integrity",
+      "Corruption"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The act was seen",
+      "The officer knows a dismissal will hit two old parents",
+      "The case is the rule against a consequence the rule did not invent"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Identify the core ethical dilemma: A clash between upholding the rule of law and organizational integrity versus personal compassion for the employee's destitute parents.",
         "order": 1,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Identify the core ethical dilemma: A clash between upholding the rule of law and organizational integrity versus personal compassion for the employee's destitute parents."
       },
       {
         "section": "Body",
-        "text": "Analyze the flawed initial action: Letting the employee off with a mere warning is a severe administrative failure. It violates anti-corruption laws, compromises institutional probity, sets a dangerous precedent of impunity, and betrays the public trust.",
         "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Analyze the flawed initial action: Letting the employee off with a mere warning is a severe administrative failure. It violates anti-corruption laws, compromises institutional probity, sets a dangerous precedent of impunity, and betrays the public trust."
       },
       {
         "section": "Body",
-        "text": "My action as the officer: I cannot ignore the bribery. I will immediately initiate formal disciplinary and legal proceedings against the employee because corruption is a non-negotiable offense, and the law must apply equally to all.",
         "order": 3,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "My action as the officer: I cannot ignore the bribery. I will immediately initiate formal disciplinary and legal proceedings against the employee because corruption is a non-negotiable offense, and the law must apply equally to all."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that to address the compassion aspect, I would proactively contact social welfare departments or NGOs to provide old-age pensions or shelter support to the destitute parents, thus separating the employee's crime from the parents' welfare.",
         "order": 4,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Conclude that to address the compassion aspect, I would proactively contact social welfare departments or NGOs to provide old-age pensions or shelter support to the destitute parents, thus separating the employee's crime from the parents' welfare."
       }
     ]
   },
   {
     "uid": "UPPSC_2020_GS4_Q6",
-    "paper_title": "General Studies Paper 4",
-    "year": 2020,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 6,
+    "year": 2020,
+    "paper_title": "GS Paper 4",
+    "q_number": "6",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
-    "last_updated": 1778961000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
     "question_text": "How will you apply emotional intelligence in administrative practices? Explain.",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Attitude",
+    "topic": "Using emotional intelligence at work",
     "topics": [
-      "Attitude"
+      "Using emotional intelligence at work"
     ],
     "subTopics": [
       "Emotional intelligence in practice"
     ],
     "keyPointers": [
-      "Notice the feeling before the order",
-      "Listen, then decide",
-      "Apply it in a hearing, a team and a crowd",
-      "It is a method, not a mood"
+      "Emotional intelligence",
+      "Good governance",
+      "Compassion"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It is applied by noticing one's own anger before the order",
+      "It is also applied by reading the fear of the person across the table",
+      "Administration improves when the feeling is managed and the fact is not lost"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define Emotional Intelligence (EI) as the ability to perceive, understand, manage, and harness one's own emotions and the emotions of others.",
         "order": 1,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Define Emotional Intelligence (EI) as the ability to perceive, understand, manage, and harness one's own emotions and the emotions of others."
       },
       {
         "section": "Body",
-        "text": "Application internally (Self-management): High EI allows civil servants to self-regulate under immense political pressure, manage stress during crises (like disasters or riots), and maintain high motivation levels without succumbing to apathy or anger.",
         "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Application internally (Self-management): High EI allows civil servants to self-regulate under immense political pressure, manage stress during crises (like disasters or riots), and maintain high motivation levels without succumbing to apathy or anger."
       },
       {
         "section": "Body",
-        "text": "Application externally (Social management): It enables effective conflict resolution, builds cohesive teams, and fosters empathetic communication with the public, helping defuse volatile situations through persuasion rather than force.",
         "order": 3,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Application externally (Social management): It enables effective conflict resolution, builds cohesive teams, and fosters empathetic communication with the public, helping defuse volatile situations through persuasion rather than force."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while IQ helps an administrator understand policies, it is EI that dictates their ultimate effectiveness in implementing them humanely and successfully.",
         "order": 4,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Conclude that while IQ helps an administrator understand policies, it is EI that dictates their ultimate effectiveness in implementing them humanely and successfully."
       }
     ]
   },
   {
     "uid": "UPPSC_2020_GS4_Q7",
-    "paper_title": "General Studies Paper 4",
-    "year": 2020,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 7,
+    "year": 2020,
+    "paper_title": "GS Paper 4",
+    "q_number": "7",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
-    "last_updated": 1778961000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
     "question_text": "What do you understand by the term 'Public Servant'? What kind of aptitude is considered important for the civil services? Explain.",
     "subjectId": "ethics",
     "subjects": [
@@ -360,52 +357,52 @@
       "The public servant and aptitude"
     ],
     "keyPointers": [
-      "A person paid to serve the public under law",
-      "Aptitude: judgement, integrity and the ability to decide under pressure",
-      "The term is a duty, not a status",
-      "Name the aptitude and why"
+      "Dedication to public service",
+      "Integrity",
+      "Impartiality",
+      "Skill and employability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A public servant holds a power that is not his own",
+      "The aptitude that matters is a judgement, a neutrality and a stamina for dull work",
+      "A cleverness without those is the wrong aptitude"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define a 'Public Servant' as an official entrusted with public resources and authority, sworn to serve the public interest, uphold the Constitution, and act as a fiduciary trustee of the state.",
         "order": 1,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Define a 'Public Servant' as an official entrusted with public resources and authority, sworn to serve the public interest, uphold the Constitution, and act as a fiduciary trustee of the state."
       },
       {
         "section": "Body",
-        "text": "Discuss cognitive aptitude: A civil servant requires strong analytical thinking, critical problem-solving skills, and the intellectual capacity to comprehend complex legal, financial, and policy frameworks rapidly.",
         "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Discuss cognitive aptitude: A civil servant requires strong analytical thinking, critical problem-solving skills, and the intellectual capacity to comprehend complex legal, financial, and policy frameworks rapidly."
       },
       {
         "section": "Body",
-        "text": "Discuss administrative aptitude: This includes strong leadership qualities, effective communication, decision-making under high pressure and ambiguity, and the ability to manage large-scale organizations efficiently.",
         "order": 3,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Discuss administrative aptitude: This includes strong leadership qualities, effective communication, decision-making under high pressure and ambiguity, and the ability to manage large-scale organizations efficiently."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that robust aptitude ensures the foundational competence necessary to navigate the dynamic and complex governance challenges of the 21st century.",
         "order": 4,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Conclude that robust aptitude ensures the foundational competence necessary to navigate the dynamic and complex governance challenges of the 21st century."
       }
     ]
   },
   {
     "uid": "UPPSC_2020_GS4_Q8",
-    "paper_title": "General Studies Paper 4",
-    "year": 2020,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 8,
+    "year": 2020,
+    "paper_title": "GS Paper 4",
+    "q_number": "8",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
-    "last_updated": 1778961000,
+    "origin": "PYQ",
     "is_structured": 0,
-    "question_text": "Differentiate between the following.\n(A) Tolerance and Compassion\n(B) Attitude and Aptitude",
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "question_text": "Differentiate between the following. (A) Tolerance and Compassion (B) Attitude and Aptitude",
     "subjectId": "ethics",
     "subjects": [
       "Ethics & Values"
@@ -418,38 +415,41 @@
       "Two pairs of differences"
     ],
     "keyPointers": [
-      "Tolerance bears a difference; compassion moves to help",
-      "Attitude is a stance; aptitude is a capacity",
-      "Differentiate with an example"
+      "Compassion",
+      "Diversity and pluralism",
+      "Attitude",
+      "Skill and employability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Tolerance bears a difference; compassion moves to relieve a suffering",
+      "Attitude is a settled view; aptitude is the capacity to do the work",
+      "The pairs are close, and they are not the same"
+    ],
     "points": [
       {
-        "section": "Body",
-        "text": "(A) Tolerance vs. Compassion: Tolerance is the objective acceptance and endurance of differing views, beliefs, and practices without interference or prejudice. Compassion goes further; it is an active, deep emotional response to another's suffering coupled with a genuine desire to alleviate it.",
+        "section": "Point",
         "order": 1,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "(A) Tolerance vs. Compassion: Tolerance is the objective acceptance and endurance of differing views, beliefs, and practices without interference or prejudice. Compassion goes further; it is an active, deep emotional response to another's suffering coupled with a genuine desire to alleviate it."
       },
       {
-        "section": "Body",
-        "text": "(B) Attitude vs. Aptitude: Attitude is a psychological tendency or mindset (how one feels or thinks about something), representing an individual's character and motivation. Aptitude is the inherent or acquired potential and ability to perform a specific task effectively, representing an individual's competence.",
+        "section": "Point",
         "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "(B) Attitude vs. Aptitude: Attitude is a psychological tendency or mindset (how one feels or thinks about something), representing an individual's character and motivation. Aptitude is the inherent or acquired potential and ability to perform a specific task effectively, representing an individual's competence."
       }
     ]
   },
   {
     "uid": "UPPSC_2020_GS4_Q9",
-    "paper_title": "General Studies Paper 4",
-    "year": 2020,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 9,
+    "year": 2020,
+    "paper_title": "GS Paper 4",
+    "q_number": "9",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
-    "last_updated": 1778961000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
     "question_text": "How do the values of tolerance and compassion get manifested in public service towards the weaker sections? Explain with suitable examples.",
     "subjectId": "ethics",
     "subjects": [
@@ -463,167 +463,164 @@
       "Tolerance and compassion in service"
     ],
     "keyPointers": [
-      "Time, language and not humiliating",
-      "A rule applied so the weak can use it",
-      "Manifested in the counter, not the speech",
-      "The weaker section is the test"
+      "Compassion",
+      "Inequality",
+      "Diversity and pluralism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "They show when a rule is applied without humiliating the weaker person",
+      "An example is a counter that explains, and a scheme that reaches the last name on the list",
+      "Manifested means visible in the act, not in the speech"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Establish tolerance and compassion as foundational values for civil services, particularly vital in a highly diverse and socio-economically unequal society like India.",
         "order": 1,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Establish tolerance and compassion as foundational values for civil services, particularly vital in a highly diverse and socio-economically unequal society like India."
       },
       {
         "section": "Body",
-        "text": "Manifestation of Tolerance: It ensures non-partisan service delivery, preventing an officer's personal religious or caste biases from interfering with duty. Example: A District Magistrate impartially ensuring the peaceful celebration of a minority community's festival amidst local opposition.",
         "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Manifestation of Tolerance: It ensures non-partisan service delivery, preventing an officer's personal religious or caste biases from interfering with duty. Example: A District Magistrate impartially ensuring the peaceful celebration of a minority community's festival amidst local opposition."
       },
       {
         "section": "Body",
-        "text": "Manifestation of Compassion: It drives an administrator to go beyond mere procedural compliance to provide substantive relief. Example: An officer personally intervening to ensure food rations reach an undocumented, destitute widow, or actively launching drives to rescue child laborers.",
         "order": 3,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Manifestation of Compassion: It drives an administrator to go beyond mere procedural compliance to provide substantive relief. Example: An officer personally intervening to ensure food rations reach an undocumented, destitute widow, or actively launching drives to rescue child laborers."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that these values humanize the rigid bureaucratic machinery, transforming it into a true instrument of social justice and welfare.",
         "order": 4,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Conclude that these values humanize the rigid bureaucratic machinery, transforming it into a true instrument of social justice and welfare."
       }
     ]
   },
   {
     "uid": "UPPSC_2020_GS4_Q10",
-    "paper_title": "General Studies Paper 4",
-    "year": 2020,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 10,
+    "year": 2020,
+    "paper_title": "GS Paper 4",
+    "q_number": "10",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
-    "last_updated": 1778961000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
     "question_text": "Explain the importance of persuasive communication in attitudinal change.",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Aptitude",
+    "topic": "Persuasion and a change of attitude",
     "topics": [
-      "Aptitude"
+      "Persuasion and a change of attitude"
     ],
     "subTopics": [
       "Persuasive communication"
     ],
     "keyPointers": [
-      "A clear reason, a trusted speaker and a repeated message",
-      "It changes a stance more than an order",
-      "Importance is a civic habit",
-      "Persuasion is not manipulation"
+      "Attitude",
+      "Media and socialisation",
+      "Education and social change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A reason, a trusted voice and a repeated message can move a view",
+      "Persuasion works better than an order when the habit is old",
+      "Importance is that a behaviour follows the changed view"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define persuasive communication as the deliberate effort to influence or change a person's or group's attitudes, beliefs, or behaviors through the exchange of messages.",
         "order": 1,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Define persuasive communication as the deliberate effort to influence or change a person's or group's attitudes, beliefs, or behaviors through the exchange of messages."
       },
       {
         "section": "Body",
-        "text": "Importance in overcoming cognitive dissonance: It helps dismantle deep-rooted prejudices (e.g., patriarchy, casteism, vaccine hesitancy) where legal coercion or force often fails or produces backlash.",
         "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Importance in overcoming cognitive dissonance: It helps dismantle deep-rooted prejudices (e.g., patriarchy, casteism, vaccine hesitancy) where legal coercion or force often fails or produces backlash."
       },
       {
         "section": "Body",
-        "text": "Mechanism of change: It relies on the credibility of the communicator (ethos), emotional connection and empathy (pathos), and logical messaging (logos) to create sustainable behavioral shifts (e.g., the success of the Swachh Bharat Abhiyan in ending open defecation).",
         "order": 3,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Mechanism of change: It relies on the credibility of the communicator (ethos), emotional connection and empathy (pathos), and logical messaging (logos) to create sustainable behavioral shifts (e.g., the success of the Swachh Bharat Abhiyan in ending open defecation)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that persuasion is the most democratic, ethical, and effective tool available to an administrator to drive long-term social reforms.",
         "order": 4,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Conclude that persuasion is the most democratic, ethical, and effective tool available to an administrator to drive long-term social reforms."
       }
     ]
   },
   {
     "uid": "UPPSC_2020_GS4_Q11",
-    "paper_title": "General Studies Paper 4",
-    "year": 2020,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 11,
+    "year": 2020,
+    "paper_title": "GS Paper 4",
+    "q_number": "11",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
-    "last_updated": 1778961000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
     "question_text": "What is the probity? Explain clearly the philosophical basis of probity in goverance.",
-    "subjectId": "thinkers",
+    "subjectId": "ethics",
     "subjects": [
-      "Thinkers"
+      "Ethics"
     ],
-    "topic": "Thinkers",
+    "topic": "What probity rests on",
     "topics": [
-      "Thinkers"
+      "What probity rests on"
     ],
     "subTopics": [
       "Probity in governance"
     ],
     "keyPointers": [
-      "Conduct that can be shown and that matches the duty",
-      "The basis is public office as a trust",
-      "Not only avoiding a bribe",
-      "Explain the idea, then the governance"
+      "Probity",
+      "Integrity",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Probity is a cleanness that can be shown",
+      "The philosophical basis is that a public power is a trust, not a property",
+      "Governance without that basis becomes a technique"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define probity as strict adherence to the highest principles of ideals, honesty, integrity, and ethical conduct. In governance, it means maintaining absolute incorruptibility and transparency.",
         "order": 1,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Define probity as strict adherence to the highest principles of ideals, honesty, integrity, and ethical conduct. In governance, it means maintaining absolute incorruptibility and transparency."
       },
       {
         "section": "Body",
-        "text": "Philosophical basis in Public Trust: Rooted in the concept that the state and its officers are fiduciary trustees of public resources, ethically bound to manage them solely for the public good, not private gain.",
         "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Philosophical basis in Public Trust: Rooted in the concept that the state and its officers are fiduciary trustees of public resources, ethically bound to manage them solely for the public good, not private gain."
       },
       {
         "section": "Body",
-        "text": "Philosophical basis in Ethics: It draws from Utilitarianism (ensuring the greatest good for the greatest number through fair resource allocation) and Kantian Deontology (acting out of a strict sense of duty and moral obligation regardless of temptations).",
         "order": 3,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Philosophical basis in Ethics: It draws from Utilitarianism (ensuring the greatest good for the greatest number through fair resource allocation) and Kantian Deontology (acting out of a strict sense of duty and moral obligation regardless of temptations)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that probity is the ethical backbone of the state; without it, administrative legitimacy collapses, leading to systemic corruption and a breakdown of the social contract.",
         "order": 4,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Conclude that probity is the ethical backbone of the state; without it, administrative legitimacy collapses, leading to systemic corruption and a breakdown of the social contract."
       }
     ]
   },
   {
     "uid": "UPPSC_2020_GS4_Q12",
-    "paper_title": "General Studies Paper 4",
-    "year": 2020,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 12,
+    "year": 2020,
+    "paper_title": "GS Paper 4",
+    "q_number": "12",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
-    "last_updated": 1778961000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
     "question_text": "Which of the five principles of code of conduct will be given priority by you and why? Explain.",
     "subjectId": "ethics",
     "subjects": [
@@ -637,168 +634,166 @@
       "Priority among conduct principles"
     ],
     "keyPointers": [
-      "Integrity first, because the others collapse if the person can be bought",
-      "Objectivity and accountability need that base",
-      "Say which one and the reason",
-      "Priority is a choice with a justification"
+      "Integrity",
+      "Impartiality",
+      "Accountability",
+      "Probity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A code lists several duties",
+      "Priority depends on the harm in front of the servant",
+      "A reason has to be given, because the others do not disappear"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Acknowledge the Nolan Committee's 'Seven Principles of Public Life' as the benchmark for a civil servant's code of conduct, from which five core principles must be prioritized to ensure ethical governance.",
         "order": 1,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Acknowledge the Nolan Committee's 'Seven Principles of Public Life' as the benchmark for a civil servant's code of conduct, from which five core principles must be prioritized to ensure ethical governance."
       },
       {
         "section": "Body",
-        "text": "Priority Principles: 1) Integrity (refusing financial or other obligations from outside individuals/organizations). 2) Objectivity (making choices strictly on merit and facts). 3) Accountability (taking ownership of decisions and submitting to public scrutiny).",
         "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Priority Principles: 1) Integrity (refusing financial or other obligations from outside individuals/organizations). 2) Objectivity (making choices strictly on merit and facts). 3) Accountability (taking ownership of decisions and submitting to public scrutiny)."
       },
       {
         "section": "Body",
-        "text": "Further Priority Principles: 4) Honesty (being truthful in declaring private interests relating to public duties). 5) Selflessness (acting solely in terms of the public interest, completely removing personal ambition or financial greed).",
         "order": 3,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Further Priority Principles: 4) Honesty (being truthful in declaring private interests relating to public duties). 5) Selflessness (acting solely in terms of the public interest, completely removing personal ambition or financial greed)."
       },
       {
         "section": "Conclusion",
-        "text": "Explain why: These five principles form the absolute defensive shield against corruption, nepotism, and arbitrary power. Without them, the administrative machinery would collapse into self-serving exploitation, destroying public trust.",
         "order": 4,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Explain why: These five principles form the absolute defensive shield against corruption, nepotism, and arbitrary power. Without them, the administrative machinery would collapse into self-serving exploitation, destroying public trust."
       }
     ]
   },
   {
     "uid": "UPPSC_2020_GS4_Q13",
-    "paper_title": "General Studies Paper 4",
-    "year": 2020,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 13,
+    "year": 2020,
+    "paper_title": "GS Paper 4",
+    "q_number": "13",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
-    "last_updated": 1778961000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
     "question_text": "What is Gita's Anasakta Yoga'? What message does it provide to civil servants? Explain.",
-    "subjectId": "cases",
+    "subjectId": "ethics",
     "subjects": [
-      "Case Studies"
+      "Ethics"
     ],
-    "topic": "Case Study",
+    "topic": "Action without attachment",
     "topics": [
-      "Case Study"
+      "Action without attachment"
     ],
     "subTopics": [
       "Anasakta yoga"
     ],
     "keyPointers": [
-      "Do the duty without clinging to the fruit",
-      "The message: work lawfully, do not chase the credit or the bribe",
-      "It steadies a servant under pressure",
-      "It is a guide, not a substitute for the rule"
+      "Means and ends",
+      "Dedication to public service",
+      "Moral reasoning"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It is doing the duty without clinging to the reward",
+      "The message to a servant is to finish the file for the work, not for a posting",
+      "Non-attachment is not indifference to the person the file is about"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define 'Anasakta Yoga' (also known as Nishkama Karma) from the Bhagavad Gita as the spiritual and ethical philosophy of performing one's prescribed duty without attachment to the fruits or results of the action.",
         "order": 1,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Define 'Anasakta Yoga' (also known as Nishkama Karma) from the Bhagavad Gita as the spiritual and ethical philosophy of performing one's prescribed duty without attachment to the fruits or results of the action."
       },
       {
         "section": "Body",
-        "text": "Message of Emotional Stability: It teaches civil servants to remain equanimous—unperturbed by praise (success) or criticism (failure, punitive transfers). This prevents stress and burnout in a highly demanding and scrutinized profession.",
         "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Message of Emotional Stability: It teaches civil servants to remain equanimous—unperturbed by praise (success) or criticism (failure, punitive transfers). This prevents stress and burnout in a highly demanding and scrutinized profession."
       },
       {
         "section": "Body",
-        "text": "Message of Ethical Action: It advocates for duty-bound action over actions driven by personal ambition, greed, or political favor. By detaching from personal gains (bribes, promotions), an officer can act purely for the welfare of the people.",
         "order": 3,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Message of Ethical Action: It advocates for duty-bound action over actions driven by personal ambition, greed, or political favor. By detaching from personal gains (bribes, promotions), an officer can act purely for the welfare of the people."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that Anasakta Yoga provides the ultimate psychological and moral armor for a civil servant, ensuring absolute integrity and steadfastness in a volatile administrative environment.",
         "order": 4,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Conclude that Anasakta Yoga provides the ultimate psychological and moral armor for a civil servant, ensuring absolute integrity and steadfastness in a volatile administrative environment."
       }
     ]
   },
   {
     "uid": "UPPSC_2020_GS4_Q14",
-    "paper_title": "General Studies Paper 4",
-    "year": 2020,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 14,
+    "year": 2020,
+    "paper_title": "GS Paper 4",
+    "q_number": "14",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
-    "last_updated": 1778961000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
     "question_text": "What is Kant's doctrine of 'duty for duty's sake'? What is the role of this principle in civil services? Discuss.",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Attitude",
+    "topic": "Duty for its own sake",
     "topics": [
-      "Attitude"
+      "Duty for its own sake"
     ],
     "subTopics": [
       "Duty for duty’s sake"
     ],
     "keyPointers": [
-      "The right act is done because it is right, not for a reward",
-      "A servant should not need a personal gain to do the job",
-      "Role: a check on opportunism",
-      "The principle still has to fit the law"
+      "Moral reasoning",
+      "Dedication to public service",
+      "Means and ends"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Kant asks that the right act be done because it is right, not because it pays",
+      "In the civil service that is a file decided by the rule, not by a favour",
+      "The role is a check on a convenient exception"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce Immanuel Kant's Deontological ethics, specifically the 'Categorical Imperative', which forms the basis of the doctrine of 'duty for duty's sake'.",
         "order": 1,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Introduce Immanuel Kant's Deontological ethics, specifically the 'Categorical Imperative', which forms the basis of the doctrine of 'duty for duty's sake'."
       },
       {
         "section": "Body",
-        "text": "The doctrine explained: It posits that an action is morally right only if it is performed out of a pure sense of duty and adherence to universal moral rules, regardless of personal inclinations, emotions, or the final consequences.",
         "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "The doctrine explained: It posits that an action is morally right only if it is performed out of a pure sense of duty and adherence to universal moral rules, regardless of personal inclinations, emotions, or the final consequences."
       },
       {
         "section": "Body",
-        "text": "Role in civil services: It mandates that civil servants follow constitutional laws, rules, and procedures objectively, ensuring consistency and fairness. It prevents the manipulation of procedures for personal gain and prohibits treating citizens merely as a means to an end.",
         "order": 3,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Role in civil services: It mandates that civil servants follow constitutional laws, rules, and procedures objectively, ensuring consistency and fairness. It prevents the manipulation of procedures for personal gain and prohibits treating citizens merely as a means to an end."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that Kantian ethics provides a rigid, incorruptible framework for administrative action, protecting the system from subjective biases and ensuring absolute commitment to public service.",
         "order": 4,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Conclude that Kantian ethics provides a rigid, incorruptible framework for administrative action, protecting the system from subjective biases and ensuring absolute commitment to public service."
       }
     ]
   },
   {
     "uid": "UPPSC_2020_GS4_Q15",
-    "paper_title": "General Studies Paper 4",
-    "year": 2020,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 15,
+    "year": 2020,
+    "paper_title": "GS Paper 4",
+    "q_number": "15",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
-    "last_updated": 1778961000,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "Dev Anand is working as under secretary in the Pension Departement. One day, his friend Guru Dutta, an S.B.I. P.O. narrates the following incident: \n1. For last two years, a retired government employee Mr. Ashok Kumar is giving 30% of his monthly pension to Mrs. Bindu Chopra every month through a cheque.\n2. I found that Mrs. Chopra happens to be the wife of Mr. Prem Chopra, a Section Officer in the pension office under you.\n3. I feel something is fishy-may be this is part of a bribe scam, where a senior citizen is forced to pay money to clear his pension files from Prem Chopra and to submit bribes in his wife's account.\nDev Anand visits Mr. Ashok Kumar's home and finds that he is suffering from Alzheimer's disease unable to give coherent answers. Frustrated Dev Anand directly questions Prem Chopra. but Prem Chopra says, \"Mr. Ashok Kumar was friends of may father. He has no relatives and children and my wife bindu has been taking care of him like a daughter since a long time. Therefore Mr. Ashok Kumar gives us money out of good will and so we can send our son to an expensive I.I.T. Coaching at Kota, Rajasthan. Besides, this is a personal family matter and none of your damn business\".\nDo you think that Deva Anand has made a blunder or is he merely performing an ethical duty? Answer logically.",
+    "cite": "UPPSC Mains 2020 GS Paper 4",
+    "question_text": "Dev Anand is working as under secretary in the Pension Departement. One day, his friend Guru Dutta, an S.B.I. P.O. narrates the following incident: 1. For last two years, a retired government employee Mr. Ashok Kumar is giving 30% of his monthly pension to Mrs. Bindu Chopra every month through a cheque. 2. I found that Mrs. Chopra happens to be the wife of Mr. Prem Chopra, a Section Officer in the pension office under you. 3. I feel something is fishy-may be this is part of a bribe scam, where a senior citizen is forced to pay money to clear his pension files from Prem Chopra and to submit bribes in his wife's account. Dev Anand visits Mr. Ashok Kumar's home and finds that he is suffering from Alzheimer's disease unable to give coherent answers. Frustrated Dev Anand directly questions Prem Chopra. but Prem Chopra says, \"Mr. Ashok Kumar was friends of may father. He has no relatives and children and my wife bindu has been taking care of him like a daughter since a long time. Therefore Mr. Ashok Kumar gives us money out of good will and so we can send our son to an expensive I.I.T. Coaching at Kota, Rajasthan. Besides, this is a personal family matter and none of your damn business\". Do you think that Deva Anand has made a blunder or is he merely performing an ethical duty? Answer logically.",
     "subjectId": "cases",
     "subjects": [
       "Case Studies"
@@ -811,63 +806,60 @@
       "A suspected cut from a pension"
     ],
     "keyPointers": [
-      "The facts suggest a bribe for clearing a pension",
-      "What to do: do not rely on the friend’s story alone; inquire on the record",
-      "Protect the pensioner and test the official",
-      "Friendship is not the investigation"
+      "Conflict of values",
+      "Integrity",
+      "Compassion"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "An under secretary hears a friend's account of a wrong inside a bank",
+      "The case is what he does with a story that is not yet his file",
+      "A friendship and a public duty arrive together"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Analyze the core conflict: The suspicion of a coordinated extortion/bribery scam exploiting a vulnerable senior citizen suffering from Alzheimer's, conveniently masked by the subordinate as a \"personal family matter\".",
         "order": 1,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Analyze the core conflict: The suspicion of a coordinated extortion/bribery scam exploiting a vulnerable senior citizen suffering from Alzheimer's, conveniently masked by the subordinate as a \"personal family matter\"."
       },
       {
         "section": "Body",
-        "text": "Evaluate Dev Anand's actions: Dev Anand is not making a blunder; he is performing a critical ethical and professional duty. As an Under Secretary, ignoring a highly credible tip about a bribery ring operating within his own department would amount to complicity and a dereliction of supervisory duty.",
         "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Evaluate Dev Anand's actions: Dev Anand is not making a blunder; he is performing a critical ethical and professional duty. As an Under Secretary, ignoring a highly credible tip about a bribery ring operating within his own department would amount to complicity and a dereliction of supervisory duty."
       },
       {
         "section": "Body",
-        "text": "Deconstruct Prem Chopra's defense: The defense is ethically and legally untenable.",
-        "cite": "UPPSC Mains 2020 GS Paper 4",
-        "order": 3
+        "order": 3,
+        "text": "Deconstruct Prem Chopra's defense: The defense is ethically and legally untenable."
       },
       {
         "section": "Body",
-        "text": "An Alzheimer's patient lacks the legal and mental capacity to give informed consent for sustained \"good will\" financial transfers.",
-        "cite": "UPPSC Mains 2020 GS Paper 4",
-        "order": 4
+        "order": 4,
+        "text": "An Alzheimer's patient lacks the legal and mental capacity to give informed consent for sustained \"good will\" financial transfers."
       },
       {
         "section": "Body",
-        "text": "Furthermore, routing money from a pensioner to the wife of the Section Officer handling his file represents a blatant, gross conflict of interest.",
-        "cite": "UPPSC Mains 2020 GS Paper 4",
-        "order": 5
+        "order": 5,
+        "text": "Furthermore, routing money from a pensioner to the wife of the Section Officer handling his file represents a blatant, gross conflict of interest."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that Dev Anand must reject the emotional deflection, escalate the matter formally, and initiate a departmental/vigilance inquiry to protect the vulnerable citizen and uphold institutional integrity.",
         "order": 6,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Conclude that Dev Anand must reject the emotional deflection, escalate the matter formally, and initiate a departmental/vigilance inquiry to protect the vulnerable citizen and uphold institutional integrity."
       }
     ]
   },
   {
     "uid": "UPPSC_2020_GS4_Q16",
-    "paper_title": "General Studies Paper 4",
-    "year": 2020,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 16,
+    "year": 2020,
+    "paper_title": "GS Paper 4",
+    "q_number": "16",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
-    "last_updated": 1778961000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
     "question_text": "Anger is a harmful negative emotion, it is injurious to both the personal life and the work life. How can it be controlled? Explain.",
     "subjectId": "ethics",
     "subjects": [
@@ -881,51 +873,49 @@
       "Managing anger"
     ],
     "keyPointers": [
-      "Anger narrows the decision",
-      "Name it, pause, then act",
-      "Harm is to the person and the file",
-      "Management is a habit, not suppression of every feeling"
+      "Emotional intelligence",
+      "Moral reasoning"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Anger narrows the judgement and spills into the next decision",
+      "It is controlled by a pause, a habit and a look at the consequence",
+      "Control is not the absence of the feeling"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define anger as an intense, primal negative emotion that clouds rational judgment, leading to impulsive and destructive behaviors in all spheres of life.",
         "order": 1,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Define anger as an intense, primal negative emotion that clouds rational judgment, leading to impulsive and destructive behaviors in all spheres of life."
       },
       {
         "section": "Body",
-        "text": "Harmful effects: In work life, especially in administration, anger destroys team cohesion, creates a toxic, fear-based environment, and leads to poor, biased decision-making. In personal life, it ruins relationships and causes severe physical health issues (stress, hypertension).",
         "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Harmful effects: In work life, especially in administration, anger destroys team cohesion, creates a toxic, fear-based environment, and leads to poor, biased decision-making. In personal life, it ruins relationships and causes severe physical health issues (stress, hypertension)."
       },
       {
         "section": "Body",
-        "text": "How to control it: Cultivating Emotional Intelligence (self-awareness of emotional triggers), practicing mindfulness and deep breathing to create a psychological pause between stimulus and response, and adopting cognitive restructuring (reframing the aggravating situation logically rather than emotionally).",
         "order": 3,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "How to control it: Cultivating Emotional Intelligence (self-awareness of emotional triggers), practicing mindfulness and deep breathing to create a psychological pause between stimulus and response, and adopting cognitive restructuring (reframing the aggravating situation logically rather than emotionally)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that mastering anger management is essential for civil servants, enabling them to maintain composure, empathy, and effectiveness during high-stress crises or public confrontations.",
         "order": 4,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Conclude that mastering anger management is essential for civil servants, enabling them to maintain composure, empathy, and effectiveness during high-stress crises or public confrontations."
       }
     ]
   },
   {
     "uid": "UPPSC_2020_GS4_Q17",
-    "paper_title": "General Studies Paper 4",
-    "year": 2020,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 17,
+    "year": 2020,
+    "paper_title": "GS Paper 4",
+    "q_number": "17",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
-    "last_updated": 1778961000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
     "question_text": "\"It is said that governemtn servants take bribe because people offer bribe to them. If people stop offering bribe, the problem of bribe will be solved.\" What is your opinion about the statement? Examine critically.",
     "subjectId": "ethics",
     "subjects": [
@@ -939,234 +929,228 @@
       "Who starts the bribe"
     ],
     "keyPointers": [
-      "The offer and the demand feed each other",
-      "Stopping the offer helps and does not end a demand",
-      "A servant who asks is not innocent because someone pays",
-      "The statement is half true"
+      "Corruption",
+      "Integrity",
+      "Accountability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The giver and the taker are one act",
+      "Stopping the offer would shrink the market, and it would not end a demand that is extracted",
+      "The statement is half true, and the office still has to be fixed"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Analyze the statement, which attempts to shift the primary moral and structural blame for corruption from the demand side (public servants) to the supply side (the general public).",
         "order": 1,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Analyze the statement, which attempts to shift the primary moral and structural blame for corruption from the demand side (public servants) to the supply side (the general public)."
       },
       {
         "section": "Body",
-        "text": "Critically examine the demand-side reality (Coercive Corruption): The statement is fundamentally flawed.",
-        "cite": "UPPSC Mains 2020 GS Paper 4",
-        "order": 2
+        "order": 2,
+        "text": "Critically examine the demand-side reality (Coercive Corruption): The statement is fundamentally flawed."
       },
       {
         "section": "Body",
-        "text": "In most instances, especially involving the poor, bribes are exacted through extortion.",
-        "cite": "UPPSC Mains 2020 GS Paper 4",
-        "order": 3
+        "order": 3,
+        "text": "In most instances, especially involving the poor, bribes are exacted through extortion."
       },
       {
         "section": "Body",
-        "text": "Essential services are deliberately delayed, entangled in red tape, or denied until money is paid.",
-        "cite": "UPPSC Mains 2020 GS Paper 4",
-        "order": 4
+        "order": 4,
+        "text": "Essential services are deliberately delayed, entangled in red tape, or denied until money is paid."
       },
       {
         "section": "Body",
-        "text": "The public pays out of sheer helplessness, not voluntary choice.",
-        "cite": "UPPSC Mains 2020 GS Paper 4",
-        "order": 5
+        "order": 5,
+        "text": "The public pays out of sheer helplessness, not voluntary choice."
       },
       {
         "section": "Body",
-        "text": "Examine the supply-side nuance (Collusive Corruption): It is true that in cases of corporate or high-level graft, wealthy individuals voluntarily offer bribes to bypass laws or gain unfair advantages, making them equally culpable.",
         "order": 6,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Examine the supply-side nuance (Collusive Corruption): It is true that in cases of corporate or high-level graft, wealthy individuals voluntarily offer bribes to bypass laws or gain unfair advantages, making them equally culpable."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that expecting the public to unilaterally stop paying bribes in an exploitative system is utopian. The primary responsibility lies with the state to reform administration, eliminate discretionary opacity, and enforce strict punitive actions against corrupt officials.",
         "order": 7,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Conclude that expecting the public to unilaterally stop paying bribes in an exploitative system is utopian. The primary responsibility lies with the state to reform administration, eliminate discretionary opacity, and enforce strict punitive actions against corrupt officials."
       }
     ]
   },
   {
     "uid": "UPPSC_2020_GS4_Q18",
-    "paper_title": "General Studies Paper 4",
-    "year": 2020,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 18,
+    "year": 2020,
+    "paper_title": "GS Paper 4",
+    "q_number": "18",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
-    "last_updated": 1778961000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
     "question_text": "Present in brief the necessary foundational values for the civil servants.",
-    "subjectId": "cases",
+    "subjectId": "ethics",
     "subjects": [
-      "Case Studies"
+      "Ethics"
     ],
-    "topic": "Case Study",
+    "topic": "Foundational values of a civil servant",
     "topics": [
-      "Case Study"
+      "Foundational values of a civil servant"
     ],
     "subTopics": [
       "Foundational values"
     ],
     "keyPointers": [
-      "Integrity, impartiality, empathy, dedication",
-      "A short list, each in one line of conduct",
-      "Foundation means the service fails without them",
-      "Present them briefly"
+      "Integrity",
+      "Impartiality",
+      "Dedication to public service",
+      "Probity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Integrity, impartiality, dedication, empathy and probity are the usual base",
+      "They are foundational because a skill without them can be used against the citizen",
+      "Brief means each one in a line, not a lecture"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "State that foundational values form the ethical bedrock of the civil services, guiding officers in the discharge of their public duties and ensuring institutional credibility.",
         "order": 1,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "State that foundational values form the ethical bedrock of the civil services, guiding officers in the discharge of their public duties and ensuring institutional credibility."
       },
       {
         "section": "Body",
-        "text": "Core Values of Probity: Integrity and Honesty (ensuring absolute financial and moral uprightness, refusing undue influences). Objectivity and Impartiality (making merit-based, non-partisan decisions free from bias).",
         "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Core Values of Probity: Integrity and Honesty (ensuring absolute financial and moral uprightness, refusing undue influences). Objectivity and Impartiality (making merit-based, non-partisan decisions free from bias)."
       },
       {
         "section": "Body",
-        "text": "Core Values of Service: Dedication to Public Service (perseverance in welfare delivery despite hurdles). Empathy and Compassion (especially critical for understanding and alleviating the suffering of the weaker sections). Accountability (taking ownership of actions).",
         "order": 3,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Core Values of Service: Dedication to Public Service (perseverance in welfare delivery despite hurdles). Empathy and Compassion (especially critical for understanding and alleviating the suffering of the weaker sections). Accountability (taking ownership of actions)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that embedding these values within the bureaucratic framework ensures the civil service remains a trusted, efficient, and humane instrument of democratic governance.",
         "order": 4,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Conclude that embedding these values within the bureaucratic framework ensures the civil service remains a trusted, efficient, and humane instrument of democratic governance."
       }
     ]
   },
   {
     "uid": "UPPSC_2020_GS4_Q19",
-    "paper_title": "General Studies Paper 4",
-    "year": 2020,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 19,
+    "year": 2020,
+    "paper_title": "GS Paper 4",
+    "q_number": "19",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
-    "last_updated": 1778961000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
     "question_text": "Social influence and persusasion contributed in controlling the spread of the Corona Virus in India. Discuss.",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Aptitude",
+    "topic": "Persuasion during the pandemic",
     "topics": [
-      "Aptitude"
+      "Persuasion during the pandemic"
     ],
     "subTopics": [
       "Persuasion in the pandemic"
     ],
     "keyPointers": [
-      "A mask and a distance spread by example",
-      "Fear alone did not hold",
-      "Influence of a peer and a trusted voice",
-      "They contributed; they did not replace a health system"
+      "Media and socialisation",
+      "Attitude",
+      "Disaster risk reduction",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A message from a trusted person and a visible example moved a mask and a distance",
+      "Social influence did part of what a police order could not",
+      "It contributed, and it did not replace a hospital"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Contextualize the COVID-19 pandemic as an unprecedented crisis where strict legal enforcement (lockdowns) was insufficient without securing massive, voluntary behavioral changes from the public.",
         "order": 1,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Contextualize the COVID-19 pandemic as an unprecedented crisis where strict legal enforcement (lockdowns) was insufficient without securing massive, voluntary behavioral changes from the public."
       },
       {
         "section": "Body",
-        "text": "Role of Social Influence: Utilizing conformity, peer pressure, and community norms. Activities like clapping for frontline workers or lighting diyas, led by the Prime Minister and celebrities, created a powerful normative influence, fostering national solidarity and making non-compliance (like not wearing masks) socially unacceptable.",
         "order": 2,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Role of Social Influence: Utilizing conformity, peer pressure, and community norms. Activities like clapping for frontline workers or lighting diyas, led by the Prime Minister and celebrities, created a powerful normative influence, fostering national solidarity and making non-compliance (like not wearing masks) socially unacceptable."
       },
       {
         "section": "Body",
-        "text": "Role of Persuasion: Government campaigns actively used rational appeals (sharing mortality statistics, explaining the science of vaccines) and emotional appeals (protecting vulnerable elderly family members) to persuade the masses, effectively combating widespread misinformation and vaccine hesitancy.",
         "order": 3,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Role of Persuasion: Government campaigns actively used rational appeals (sharing mortality statistics, explaining the science of vaccines) and emotional appeals (protecting vulnerable elderly family members) to persuade the masses, effectively combating widespread misinformation and vaccine hesitancy."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the successful management of the pandemic was a testament to how soft power tools—social influence and persuasion—are indispensable for administrators during public health emergencies.",
         "order": 4,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Conclude that the successful management of the pandemic was a testament to how soft power tools—social influence and persuasion—are indispensable for administrators during public health emergencies."
       }
     ]
   },
   {
     "uid": "UPPSC_2020_GS4_Q20",
-    "paper_title": "General Studies Paper 4",
-    "year": 2020,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 20,
+    "year": 2020,
+    "paper_title": "GS Paper 4",
+    "q_number": "20",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2020 GS Paper 4",
-    "last_updated": 1778961000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2020 GS Paper 4",
     "question_text": "You are a civil servant posted in State where elections were held recently. To ban the sale of alchol was the main promise in the election manifesto of newly elected Chief Minister. To fulfil this promise, Chief Minister has orderd a total ban on sale and purchase of the alcohol in ths State. Whether the government should interfere in the matter which is considered by many to be a matter of personal choice? Comment logically.",
-    "subjectId": "thinkers",
+    "subjectId": "cases",
     "subjects": [
-      "Thinkers"
+      "Case Studies"
     ],
-    "topic": "Thinkers",
+    "topic": "A promised ban on alcohol",
     "topics": [
-      "Thinkers"
+      "A promised ban on alcohol"
     ],
     "subTopics": [
       "A total ban on alcohol"
     ],
     "keyPointers": [
-      "A manifesto promise is not by itself a moral right to ban a personal choice",
-      "Harm to health and to a family can justify a regulation",
-      "A total ban has its own harms: a illicit trade and a lost livelihood",
-      "Comment on the interference, logically"
+      "Conflict of values",
+      "Rule of law",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A new government has promised a ban, and the servant has to implement or advise",
+      "The case is a manifesto against a livelihood, a revenue and a smuggling that may follow",
+      "The promise is political; the consequence is administrative"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Analyze the core ethical and political dilemma: The clash between state paternalism/public welfare (implementing prohibition as per an electoral mandate) and individual liberty (the personal choice to consume alcohol).",
         "order": 1,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Analyze the core ethical and political dilemma: The clash between state paternalism/public welfare (implementing prohibition as per an electoral mandate) and individual liberty (the personal choice to consume alcohol)."
       },
       {
         "section": "Body",
-        "text": "Arguments supporting government interference: The state is constitutionally backed by Directive Principles (Article 47), which urges the state to prohibit intoxicating drinks. Logically, alcohol abuse generates severe.",
-        "cite": "UPPSC Mains 2020 GS Paper 4",
-        "order": 2
+        "order": 2,
+        "text": "Arguments supporting government interference: The state is constitutionally backed by Directive Principles (Article 47), which urges the state to prohibit intoxicating drinks. Logically, alcohol abuse generates severe."
       },
       {
         "section": "Body",
-        "text": "negative externalities—domestic violence, public health crises, and economic ruin, particularly devastating poorer sections and women. The government is fulfilling a legitimate democratic mandate.",
-        "cite": "UPPSC Mains 2020 GS Paper 4",
-        "order": 3
+        "order": 3,
+        "text": "negative externalities—domestic violence, public health crises, and economic ruin, particularly devastating poorer sections and women. The government is fulfilling a legitimate democratic mandate."
       },
       {
         "section": "Body",
-        "text": "Arguments against interference (Personal Choice and Practicality): Critics argue that a blanket ban violates the right to privacy and personal liberty (Article 21). Practically, historical evidence shows that abrupt prohibition often fails, leading to the rise of deadly illicit liquor syndicates (hooch tragedies), black markets, corruption, and a massive loss of state excise revenue.",
         "order": 4,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Arguments against interference (Personal Choice and Practicality): Critics argue that a blanket ban violates the right to privacy and personal liberty (Article 21). Practically, historical evidence shows that abrupt prohibition often fails, leading to the rise of deadly illicit liquor syndicates (hooch tragedies), black markets, corruption, and a massive loss of state excise revenue."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude logically that while the state has the democratic right to restrict alcohol for public welfare, a sudden blanket ban is counterproductive. Interference should be gradual, accompanied by aggressive de-addiction programs, social persuasion, and strict border controls to be practically effective and ethically balanced.",
         "order": 5,
-        "cite": "UPPSC Mains 2020 GS Paper 4"
+        "text": "Conclude logically that while the state has the democratic right to restrict alcohol for public welfare, a sudden blanket ban is counterproductive. Interference should be gradual, accompanied by aggressive de-addiction programs, social persuasion, and strict border controls to be practically effective and ethically balanced."
       }
     ]
   }

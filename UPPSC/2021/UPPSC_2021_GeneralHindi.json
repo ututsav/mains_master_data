@@ -1,417 +1,427 @@
 [
   {
     "uid": "UPPSC_2021_Hindi_Q1",
-    "paper_title": "General Hindi",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 1,
+    "year": 2021,
+    "paper_title": "General Hindi",
+    "q_number": "1",
     "marks": 30,
+    "word_limit": 300,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 General Hindi",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 0,
-    "question_text": "निम्नलिखित गद्यांश को ध्यान पूर्वक पढ़िए और नीचे लिखे प्रश्नों के उत्तर दीजिये :\nकिसी परिमित वर्ग से कल्याण से संबंध रखने वाले धर्म की अपेक्षा विस्तृत जनसमूह के कल्याण से के कल्याण से संबंध रखने वाला धर्म, उच्च कोटि का है। धर्म की उच्चता उसके लक्ष्य के व्यापकत्व के अनुसार समझी जाती है। गृहधर्म या कुल धर्म से समाज धर्म श्रेष्ठ है, समाज-धर्म से लोकधर्म, लोकधर्म से विश्वधर्म, जिसमें धर्म अपने शुद्ध और पूर्ण स्वरूप में दिखाई पड़ता है। यह पूर्ण धर्म अंगी है और शेष धर्म अंग। पूर्ण धर्म, जिसका संबंध अखिल विश्व की स्थिति रक्षा से है, वस्तुतः पूर्ण पुरुष या पुरुषोत्तम में ही रहता है, जिसकी मार्मिक अनुभूति सच्चे भक्तों को ही हुआ करती है, इसी अनुभूति के अनुरूप उनके आचरण का भी उत्तरोत्तर विकास हो जाता है। गृह धर्म पर दृष्टि रखने वाला लोक या समस्त या किसी परिवार की रक्षा देखकर, वर्ग धर्म पर दृष्टि रखने वाला, किसी वर्ग या समाज की रक्षा देखकर और लोक धर्म पर दृष्टि रखने वाला लोक या समस्त मनुष्य जाति की रक्षा देखकर आनन्द का अनुभव करता है। पूर्ण या शुद्ध धर्म का स्वरूप सच्चे भक्त ही अपने और दूसरों के सामने लाया करते हैं, जिनके भगवान पूर्ण धर्म स्वरूप हैं, अतः ये कीटपतंग से लेकर मनुष्य तक सब प्राणियों की रक्षा देखकर आनन्द प्राप्त करते हैं। विषय की व्यापकता के अनुसार उनका आनन्द भी उच्च कोटि का होता है। उच्च से उच्च भूमि के धर्म का आचरण अत्यन्त साधारण कोटि का हो सकता है इसी प्रकार निम्न भूमि के धर्म का आचरण उच्च से उच्च कोटि का हो सकता है। गरीबों का गला काटने चाल चीटियों के बिलो पर आटा फैलाते देखे जाते हैं, अकाल-पीडितों की सहायता में एक पैसा चंदा न देने वाले अपने डूबते मित्र को बचाने के लिय प्राण संकट में डालते देखे जाते हैं।",
-    "subjectId": "hindi-letters",
+    "cite": "UPPSC Mains 2021 General Hindi",
+    "question_text": "निम्नलिखित गद्यांश को ध्यान पूर्वक पढ़िए और नीचे लिखे प्रश्नों के उत्तर दीजिये : किसी परिमित वर्ग से कल्याण से संबंध रखने वाले धर्म की अपेक्षा विस्तृत जनसमूह के कल्याण से के कल्याण से संबंध रखने वाला धर्म, उच्च कोटि का है। धर्म की उच्चता उसके लक्ष्य के व्यापकत्व के अनुसार समझी जाती है। गृहधर्म या कुल धर्म से समाज धर्म श्रेष्ठ है, समाज-धर्म से लोकधर्म, लोकधर्म से विश्वधर्म, जिसमें धर्म अपने शुद्ध और पूर्ण स्वरूप में दिखाई पड़ता है। यह पूर्ण धर्म अंगी है और शेष धर्म अंग। पूर्ण धर्म, जिसका संबंध अखिल विश्व की स्थिति रक्षा से है, वस्तुतः पूर्ण पुरुष या पुरुषोत्तम में ही रहता है, जिसकी मार्मिक अनुभूति सच्चे भक्तों को ही हुआ करती है, इसी अनुभूति के अनुरूप उनके आचरण का भी उत्तरोत्तर विकास हो जाता है। गृह धर्म पर दृष्टि रखने वाला लोक या समस्त या किसी परिवार की रक्षा देखकर, वर्ग धर्म पर दृष्टि रखने वाला, किसी वर्ग या समाज की रक्षा देखकर और लोक धर्म पर दृष्टि रखने वाला लोक या समस्त मनुष्य जाति की रक्षा देखकर आनन्द का अनुभव करता है। पूर्ण या शुद्ध धर्म का स्वरूप सच्चे भक्त ही अपने और दूसरों के सामने लाया करते हैं, जिनके भगवान पूर्ण धर्म स्वरूप हैं, अतः ये कीटपतंग से लेकर मनुष्य तक सब प्राणियों की रक्षा देखकर आनन्द प्राप्त करते हैं। विषय की व्यापकता के अनुसार उनका आनन्द भी उच्च कोटि का होता है। उच्च से उच्च भूमि के धर्म का आचरण अत्यन्त साधारण कोटि का हो सकता है इसी प्रकार निम्न भूमि के धर्म का आचरण उच्च से उच्च कोटि का हो सकता है। गरीबों का गला काटने चाल चीटियों के बिलो पर आटा फैलाते देखे जाते हैं, अकाल-पीडितों की सहायता में एक पैसा चंदा न देने वाले अपने डूबते मित्र को बचाने के लिय प्राण संकट में डालते देखे जाते हैं।",
+    "subjectId": "hindi",
     "subjects": [
-      "Hindi — Official Writing"
+      "General Hindi"
     ],
-    "topic": "सरकारी पत्र",
+    "topic": "A passage on religion and the many",
     "topics": [
-      "सरकारी पत्र"
+      "A passage on religion and the many"
     ],
     "subTopics": [
       "Hindi comprehension"
     ],
     "keyPointers": [
-      "Answer from the passage"
+      "Hindi comprehension",
+      "Answer from the passage",
+      "Stay inside the passage"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The gist and the sub-questions have to come from this passage",
+      "A general essay on religion will not answer them"
+    ],
     "points": [
       {
-        "section": "Body",
-        "text": "(क) प्रस्तुत गद्यांश का भावार्थ अपने शब्दों में लिखिये।",
+        "section": "Point",
         "order": 1,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(क) प्रस्तुत गद्यांश का भावार्थ अपने शब्दों में लिखिये।"
       },
       {
-        "section": "Body",
-        "text": "(ख) धर्म समाज का कल्याण कैसे करता है? इसे गद्यांश के आधार पर स्पष्ट कीजिये।",
+        "section": "Point",
         "order": 2,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(ख) धर्म समाज का कल्याण कैसे करता है? इसे गद्यांश के आधार पर स्पष्ट कीजिये।"
       },
       {
-        "section": "Body",
-        "text": "(ग) उपर्युक्त गद्यांश की रेखांकित पंक्तियों की व्याख्या कीजिये।",
+        "section": "Point",
         "order": 3,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(ग) उपर्युक्त गद्यांश की रेखांकित पंक्तियों की व्याख्या कीजिये।"
       }
     ]
   },
   {
     "uid": "UPPSC_2021_Hindi_Q2",
-    "paper_title": "General Hindi",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 2,
+    "year": 2021,
+    "paper_title": "General Hindi",
+    "q_number": "2",
     "marks": 30,
+    "word_limit": 300,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 General Hindi",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 0,
-    "question_text": "निम्नलिखित गद्यांश को पढ़कर निर्देशानुसार उत्तर लिखिये।\nलोभियों का दमन योगियों के दमन से किसी प्रकार कम नहीं होता। लोभ के बल से वे, काम और क्रोध को जीतते हैं, सुख की वासना का त्याग करते हैं, मान-अपमान में समान भाव रखते हैं। अब और चाहिए क्या? जिससे वे कुछ पाने की आशा रखते हैं वह यदि उन्हें दस गालियाँ भी देता है तो उनकी आकृति पर न रोष का कोई चिह्न प्रकट होता है और न मन मेंग्लानि होती है। न उन्हें मक्खी चूसने में घृणा होती है और न रक्त चूसने में दया। सुन्दर से सुन्दर रूप देखकर वे अपनी एक कौड़ी भी नहीं भूलते। करूण से करूण स्वर सुनकर वे अपना एक पैसा भी किसी के यहाँ नहीं छोड़ते। तुच्छ से तुच्छ व्यक्ति के सामने हाथ फैलाने में वे लज्जित नहीं होते। क्रोध, दया, घृणा, लज्जा आदि करने से क्या मिलता है कि वे के जायें? जिस बात से उन्हें कुछ मिलता नहीं जबकि उसके लिये उनके मन के किसी कोने में जगह नहीं होती, तब जिस बात से पास का कुछ जाता है, वह बात उन्हें कैसी लगती होगी यह यों ही समझा जा सकता है। जिस बात में कुछ लो वह उनके किसी काम की नहीं चाहे वह कष्ट निवारण हो या सुख-प्रप्ति, धर्म हो या न्याव। वे शरीर सुखाते हैं, अच्छे भोजन, अच्छे वस्त्र आदि की आकांक्षा नहीं करते। लोभ के अंकुश से अपनी सम्पूर्ण इद्रियों को वश में रखते हैं। लोभियों ! तुम्हारा अक्रोध, तुम्हाण इन्द्रिय-निग्रह, तुम्हारा मानापमान-समता, तुम्हारा तप अनुकाणीय है। तुम्हारी निष्रता, तुम्हारे निर्लज्जता, तुम्हारा अविबेक, तुम्हारा अन्याय विगर्हणीय है। तुम धन्य हो ! तुम्हें घिककार है!!",
-    "subjectId": "hindi-letters",
+    "cite": "UPPSC Mains 2021 General Hindi",
+    "question_text": "निम्नलिखित गद्यांश को पढ़कर निर्देशानुसार उत्तर लिखिये। लोभियों का दमन योगियों के दमन से किसी प्रकार कम नहीं होता। लोभ के बल से वे, काम और क्रोध को जीतते हैं, सुख की वासना का त्याग करते हैं, मान-अपमान में समान भाव रखते हैं। अब और चाहिए क्या? जिससे वे कुछ पाने की आशा रखते हैं वह यदि उन्हें दस गालियाँ भी देता है तो उनकी आकृति पर न रोष का कोई चिह्न प्रकट होता है और न मन मेंग्लानि होती है। न उन्हें मक्खी चूसने में घृणा होती है और न रक्त चूसने में दया। सुन्दर से सुन्दर रूप देखकर वे अपनी एक कौड़ी भी नहीं भूलते। करूण से करूण स्वर सुनकर वे अपना एक पैसा भी किसी के यहाँ नहीं छोड़ते। तुच्छ से तुच्छ व्यक्ति के सामने हाथ फैलाने में वे लज्जित नहीं होते। क्रोध, दया, घृणा, लज्जा आदि करने से क्या मिलता है कि वे के जायें? जिस बात से उन्हें कुछ मिलता नहीं जबकि उसके लिये उनके मन के किसी कोने में जगह नहीं होती, तब जिस बात से पास का कुछ जाता है, वह बात उन्हें कैसी लगती होगी यह यों ही समझा जा सकता है। जिस बात में कुछ लो वह उनके किसी काम की नहीं चाहे वह कष्ट निवारण हो या सुख-प्रप्ति, धर्म हो या न्याव। वे शरीर सुखाते हैं, अच्छे भोजन, अच्छे वस्त्र आदि की आकांक्षा नहीं करते। लोभ के अंकुश से अपनी सम्पूर्ण इद्रियों को वश में रखते हैं। लोभियों ! तुम्हारा अक्रोध, तुम्हाण इन्द्रिय-निग्रह, तुम्हारा मानापमान-समता, तुम्हारा तप अनुकाणीय है। तुम्हारी निष्रता, तुम्हारे निर्लज्जता, तुम्हारा अविबेक, तुम्हारा अन्याय विगर्हणीय है। तुम धन्य हो ! तुम्हें घिककार है!!",
+    "subjectId": "hindi",
     "subjects": [
-      "Hindi — Official Writing"
+      "General Hindi"
     ],
-    "topic": "सरकारी पत्र",
+    "topic": "A passage on greed",
     "topics": [
-      "सरकारी पत्र"
+      "A passage on greed"
     ],
     "subTopics": [
       "Hindi comprehension"
     ],
     "keyPointers": [
-      "Stay inside the passage"
+      "Hindi comprehension",
+      "A title must match the text",
+      "Answer from the passage"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The title has to fit what the passage says about the greedy",
+      "The signs asked for have to be the passage's signs"
+    ],
     "points": [
       {
-        "section": "Body",
-        "text": "(क) प्रस्तुत गद्यांश के लिये उचित शीर्षक दीजिये। (5 अंक)",
+        "section": "Point",
         "order": 1,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(क) प्रस्तुत गद्यांश के लिये उचित शीर्षक दीजिये। (5 अंक)"
       },
       {
-        "section": "Body",
-        "text": "(ख) उपर्युक्त गद्यांश के आधार पर लोभियों के लक्षण बताइए। (5 अंक)",
+        "section": "Point",
         "order": 2,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(ख) उपर्युक्त गद्यांश के आधार पर लोभियों के लक्षण बताइए। (5 अंक)"
       },
       {
-        "section": "Body",
-        "text": "(ग) उपर्युक्त गद्यांश का संक्षेपण कीजिये। (20 अंक)",
+        "section": "Point",
         "order": 3,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(ग) उपर्युक्त गद्यांश का संक्षेपण कीजिये। (20 अंक)"
       }
     ]
   },
   {
     "uid": "UPPSC_2021_Hindi_Q3",
-    "paper_title": "General Hindi",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 3,
+    "year": 2021,
+    "paper_title": "General Hindi",
+    "q_number": "3",
     "marks": 20,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 General Hindi",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPPSC Mains 2021 General Hindi",
     "question_text": "निम्नलिखित प्रश्नों के उत्तर दीजिये।",
-    "subjectId": "hindi-letters",
+    "subjectId": "hindi",
     "subjects": [
-      "Hindi — Official Writing"
+      "General Hindi"
     ],
-    "topic": "अर्धसरकारी पत्र",
+    "topic": "A demi-official letter and an official letter",
     "topics": [
-      "अर्धसरकारी पत्र"
+      "A demi-official letter and an official letter"
     ],
     "subTopics": [
       "Official Hindi drafting"
     ],
     "keyPointers": [
-      "Correct form and the given points"
+      "Official Hindi drafting",
+      "Demi-official letter",
+      "Official letter",
+      "Correct form and a formal tone",
+      "Follow the given points"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "One part asks how a demi-official letter differs from an official letter",
+      "The other asks for a letter from the mayor on deaths from dengue"
+    ],
     "points": [
       {
-        "section": "Body",
-        "text": "(अ) अर्ध सरकारी पत्र किसे कहते है? यह सरकारी पत्र से किस प्रकार भिन्न होता है? दोनों का अलग-अलग प्रारूप तैयार कीजिये। (10 अंक)",
+        "section": "Point",
         "order": 1,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(अ) अर्ध सरकारी पत्र किसे कहते है? यह सरकारी पत्र से किस प्रकार भिन्न होता है? दोनों का अलग-अलग प्रारूप तैयार कीजिये। (10 अंक)"
       },
       {
-        "section": "Body",
-        "text": "(ब) नगर महापौर की ओर से महानगर में डेंगू से हो रही मृत्यू संबंधी एक सरकारी पत्र उत्तर प्रदेश शासन को लिखिये। (10 अंक)",
+        "section": "Point",
         "order": 2,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(ब) नगर महापौर की ओर से महानगर में डेंगू से हो रही मृत्यू संबंधी एक सरकारी पत्र उत्तर प्रदेश शासन को लिखिये। (10 अंक)"
       }
     ]
   },
   {
     "uid": "UPPSC_2021_Hindi_Q4",
-    "paper_title": "General Hindi",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 4,
+    "year": 2021,
+    "paper_title": "General Hindi",
+    "q_number": "4",
     "marks": 10,
+    "word_limit": 100,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 General Hindi",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPPSC Mains 2021 General Hindi",
     "question_text": "निम्नलिखित शब्दों के विलोम लिखिये।",
-    "subjectId": "hindi-letters",
+    "subjectId": "hindi",
     "subjects": [
-      "Hindi — Official Writing"
+      "General Hindi"
     ],
-    "topic": "सरकारी पत्र",
+    "topic": "Antonyms",
     "topics": [
-      "सरकारी पत्र"
+      "Antonyms"
     ],
     "subTopics": [
       "Hindi antonyms"
     ],
     "keyPointers": [
+      "Hindi antonyms",
       "One precise opposite"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Each word needs one opposite, not a sentence",
+      "The list is given in the question itself"
+    ],
     "points": [
       {
-        "section": "Body",
-        "text": "अनुक्रिया, अधिष्ठित, वादी, आगमन, सज्जन, सुपुपत्र, राग, सम्मुख, सलज्ज, उदात्त",
+        "section": "Point",
         "order": 1,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "अनुक्रिया, अधिष्ठित, वादी, आगमन, सज्जन, सुपुपत्र, राग, सम्मुख, सलज्ज, उदात्त"
       }
     ]
   },
   {
     "uid": "UPPSC_2021_Hindi_Q5",
-    "paper_title": "General Hindi",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 5,
+    "year": 2021,
+    "paper_title": "General Hindi",
+    "q_number": "5",
     "marks": 10,
+    "word_limit": 100,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 General Hindi",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPPSC Mains 2021 General Hindi",
     "question_text": "निम्नलिखित शब्दों में प्रयुक्त उपसर्गों और प्रत्ययों का निर्देश/पृथक्करण कीजिये।",
-    "subjectId": "hindi-letters",
+    "subjectId": "hindi",
     "subjects": [
-      "Hindi — Official Writing"
+      "General Hindi"
     ],
-    "topic": "सरकारी पत्र",
+    "topic": "Prefixes and suffixes",
     "topics": [
-      "सरकारी पत्र"
+      "Prefixes and suffixes"
     ],
     "subTopics": [
       "Hindi prefixes and suffixes"
     ],
     "keyPointers": [
+      "Hindi prefixes and suffixes",
       "Separate the affix from the root"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The prefix has to be named apart from the root",
+      "The suffix has to be lifted off without breaking the remaining word"
+    ],
     "points": [
       {
-        "section": "Body",
-        "text": "(क) निम्नलिखित शब्दों में प्रयुक्त उपसर्गों का निर्देश कीजिये: उपासना, दुस्साध्य, निमीलित, सुपुत्र, अपस्मार (5 अंक)",
+        "section": "Point",
         "order": 1,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(क) निम्नलिखित शब्दों में प्रयुक्त उपसर्गों का निर्देश कीजिये: उपासना, दुस्साध्य, निमीलित, सुपुत्र, अपस्मार (5 अंक)"
       },
       {
-        "section": "Body",
-        "text": "(ख) निम्नलिखित शब्दों में प्रयुक्त प्रत्ययों को अलग कीजिये: अपनापा, वैदिक, राधेय, गुरुता, ग्रामीण (5 अंक)",
+        "section": "Point",
         "order": 2,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(ख) निम्नलिखित शब्दों में प्रयुक्त प्रत्ययों को अलग कीजिये: अपनापा, वैदिक, राधेय, गुरुता, ग्रामीण (5 अंक)"
       }
     ]
   },
   {
     "uid": "UPPSC_2021_Hindi_Q6",
-    "paper_title": "General Hindi",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 6,
+    "year": 2021,
+    "paper_title": "General Hindi",
+    "q_number": "6",
     "marks": 10,
+    "word_limit": 100,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 General Hindi",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPPSC Mains 2021 General Hindi",
     "question_text": "निम्नलिखित वाक्यांशों या पदबंधों के लिये एक-एक शब्द लिखिये।",
-    "subjectId": "hindi-letters",
+    "subjectId": "hindi",
     "subjects": [
-      "Hindi — Official Writing"
+      "General Hindi"
     ],
-    "topic": "सरकारी पत्र",
+    "topic": "One word for a phrase",
     "topics": [
-      "सरकारी पत्र"
+      "One word for a phrase"
     ],
     "subTopics": [
       "Hindi one-word substitution"
     ],
     "keyPointers": [
+      "Hindi one-word substitution",
       "The word must cover the whole phrase"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The word has to cover every part of the phrase",
+      "A near word that drops a condition is wrong"
+    ],
     "points": [
       {
-        "section": "Body",
-        "text": "(1) उत्तराधिकार में प्राप्त सम्पत्ति",
+        "section": "Point",
         "order": 1,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(1) उत्तराधिकार में प्राप्त सम्पत्ति"
       },
       {
-        "section": "Body",
-        "text": "(2) शत्रुओं का हनन करने वाला",
+        "section": "Point",
         "order": 2,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(2) शत्रुओं का हनन करने वाला"
       },
       {
-        "section": "Body",
-        "text": "(3) मुकदमा दायर करने वाला व्यक्ति",
+        "section": "Point",
         "order": 3,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(3) मुकदमा दायर करने वाला व्यक्ति"
       },
       {
-        "section": "Body",
-        "text": "(4) युद्ध की प्रबल इच्छा हो जिसमें",
+        "section": "Point",
         "order": 4,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(4) युद्ध की प्रबल इच्छा हो जिसमें"
       },
       {
-        "section": "Body",
-        "text": "(5) उत्तर देकर खंडन करना",
+        "section": "Point",
         "order": 5,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(5) उत्तर देकर खंडन करना"
       }
     ]
   },
   {
     "uid": "UPPSC_2021_Hindi_Q7",
-    "paper_title": "General Hindi",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 7,
+    "year": 2021,
+    "paper_title": "General Hindi",
+    "q_number": "7",
     "marks": 10,
+    "word_limit": 100,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 General Hindi",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPPSC Mains 2021 General Hindi",
     "question_text": "निम्नलिखित वाक्यों और शब्दों को शुद्ध कीजिये।",
-    "subjectId": "hindi-letters",
+    "subjectId": "hindi",
     "subjects": [
-      "Hindi — Official Writing"
+      "General Hindi"
     ],
-    "topic": "सरकारी पत्र",
+    "topic": "Correct the sentence and the spelling",
     "topics": [
-      "सरकारी पत्र"
+      "Correct the sentence and the spelling"
     ],
     "subTopics": [
       "Hindi correction"
     ],
     "keyPointers": [
-      "Fix the error without changing the meaning"
+      "Hindi correction",
+      "Fix the error without changing the meaning",
+      "Spelling counts"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The sentence is to be repaired, not rewritten into a new idea",
+      "The spelling part is a correction of the written form only"
+    ],
     "points": [
       {
-        "section": "Body",
-        "text": "(क) निम्नलिखित वाक्यों को शुद्ध कीजिये: (1) तुम तुम्हारी किताब ले जाओ। (2) यही सरकारी महिलाओं का अस्पताल है। (3) यह एक गहरी समस्या है। (4) मोहन आगामी वर्ष कलकत्ता गया था (5) गणित एक कठोर विषय है। (5 अंक)",
+        "section": "Point",
         "order": 1,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(क) निम्नलिखित वाक्यों को शुद्ध कीजिये: (1) तुम तुम्हारी किताब ले जाओ। (2) यही सरकारी महिलाओं का अस्पताल है। (3) यह एक गहरी समस्या है। (4) मोहन आगामी वर्ष कलकत्ता गया था (5) गणित एक कठोर विषय है। (5 अंक)"
       },
       {
-        "section": "Body",
-        "text": "(ख) निम्न शबदों की वर्तनी का संशोधन कीजिये: व्यवहारिक, तत्कालीक, आशीर्वाद, पुज्यनीय, इच्छिक (5 अंक)",
+        "section": "Point",
         "order": 2,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(ख) निम्न शबदों की वर्तनी का संशोधन कीजिये: व्यवहारिक, तत्कालीक, आशीर्वाद, पुज्यनीय, इच्छिक (5 अंक)"
       }
     ]
   },
   {
     "uid": "UPPSC_2021_Hindi_Q8",
-    "paper_title": "General Hindi",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 8,
+    "year": 2021,
+    "paper_title": "General Hindi",
+    "q_number": "8",
     "marks": 30,
+    "word_limit": 300,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 General Hindi",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPPSC Mains 2021 General Hindi",
     "question_text": "निम्नलिखित मुहावरों/लोकोक्तियों के अर्थ लिखिए और उनका वाक्य में प्रयोग कीजिये।",
-    "subjectId": "hindi-letters",
+    "subjectId": "hindi",
     "subjects": [
-      "Hindi — Official Writing"
+      "General Hindi"
     ],
-    "topic": "सरकारी पत्र",
+    "topic": "Idioms and sayings",
     "topics": [
-      "सरकारी पत्र"
+      "Idioms and sayings"
     ],
     "subTopics": [
       "Hindi idioms"
     ],
     "keyPointers": [
+      "Hindi idioms",
       "Meaning first, then a sentence that shows it"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The meaning comes first",
+      "The sentence has to show that meaning, not merely contain the words"
+    ],
     "points": [
       {
-        "section": "Body",
-        "text": "(1) जब तक साँस तब तक आस",
+        "section": "Point",
         "order": 1,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(1) जब तक साँस तब तक आस"
       },
       {
-        "section": "Body",
-        "text": "(2) जिसका काम उसी को साजै",
+        "section": "Point",
         "order": 2,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(2) जिसका काम उसी को साजै"
       },
       {
-        "section": "Body",
-        "text": "(3) चित भी मेरी पट भी मेरी",
+        "section": "Point",
         "order": 3,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(3) चित भी मेरी पट भी मेरी"
       },
       {
-        "section": "Body",
-        "text": "(4) झूठ के पाँव नहीं होते",
+        "section": "Point",
         "order": 4,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(4) झूठ के पाँव नहीं होते"
       },
       {
-        "section": "Body",
-        "text": "(5) हाथ कंगन को आरसी क्या",
+        "section": "Point",
         "order": 5,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(5) हाथ कंगन को आरसी क्या"
       },
       {
-        "section": "Body",
-        "text": "(6) आड़े आना",
+        "section": "Point",
         "order": 6,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(6) आड़े आना"
       },
       {
-        "section": "Body",
-        "text": "(7) आँखे बिछाना",
+        "section": "Point",
         "order": 7,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(7) आँखे बिछाना"
       },
       {
-        "section": "Body",
-        "text": "(8) खाक छानना",
+        "section": "Point",
         "order": 8,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(8) खाक छानना"
       },
       {
-        "section": "Body",
-        "text": "(9) ठन-ठन गोपाल",
+        "section": "Point",
         "order": 9,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(9) ठन-ठन गोपाल"
       },
       {
-        "section": "Body",
-        "text": "(10) शैतान की आँते",
+        "section": "Point",
         "order": 10,
-        "cite": "UPPSC Mains 2021 General Hindi"
+        "text": "(10) शैतान की आँते"
       }
     ]
   }

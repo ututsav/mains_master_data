@@ -1,74 +1,72 @@
 [
   {
     "uid": "UPPSC_2025_GSP1_01",
-    "paper_title": "GS Paper 1",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 1,
+    "year": 2025,
+    "paper_title": "GS Paper 1",
+    "q_number": "1",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1747209600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 1",
     "question_text": "Comment briefly on the development of art and technology during the Maurya period.",
-    "subjectId": "ancient",
+    "subjectId": "culture",
     "subjects": [
-      "Ancient & Medieval"
+      "Art & Culture"
     ],
-    "topic": "Ancient History",
+    "topic": "Mauryan art and technique",
     "topics": [
-      "Ancient History"
+      "Mauryan art and technique"
     ],
     "subTopics": [
       "Mauryan art and technology"
     ],
     "keyPointers": [
-      "Stone pillars with a polished surface and an animal capital",
-      "Caves cut for monks, and a stupa",
-      "A state that could quarry, move and finish hard stone",
-      "The art is imperial and public, not only courtly"
+      "Sculpture and iconography",
+      "Patronage and art"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Stone polish, a pillar and a carved animal are the visible technique",
+      "The court paid for a public art, not only a private luxury",
+      "The development is both a craft and a political display"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The Mauryan period marked a paradigm shift in Indian art and technology, moving from wood to stone and showcasing sophisticated engineering under imperial patronage.",
         "order": 1,
-        "cite": "1"
+        "text": "The Mauryan period marked a paradigm shift in Indian art and technology, moving from wood to stone and showcasing sophisticated engineering under imperial patronage."
       },
       {
         "section": "Body",
-        "text": "Artistic achievements include the polished sandstone Ashokan pillars, the evolution of stupa architecture (e.g., Sanchi), and the lifelike Yaksha/Yakshini sculptures.",
         "order": 2,
-        "cite": "1"
+        "text": "Artistic achievements include the polished sandstone Ashokan pillars, the evolution of stupa architecture (e.g., Sanchi), and the lifelike Yaksha/Yakshini sculptures."
       },
       {
         "section": "Body",
-        "text": "Technological advancements are evident in the rock-cut architecture of Barabar caves and the mastery of Northern Black Polished Ware (NBPW) pottery techniques.",
         "order": 3,
-        "cite": "1"
+        "text": "Technological advancements are evident in the rock-cut architecture of Barabar caves and the mastery of Northern Black Polished Ware (NBPW) pottery techniques."
       },
       {
         "section": "Conclusion",
-        "text": "Mauryan art and technology established a foundation for monumental Indian architecture and reflected the administrative strength of the empire.",
         "order": 4,
-        "cite": "1"
+        "text": "Mauryan art and technology established a foundation for monumental Indian architecture and reflected the administrative strength of the empire."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP1_02",
-    "paper_title": "GS Paper 1",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 2,
+    "year": 2025,
+    "paper_title": "GS Paper 1",
+    "q_number": "2",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "1",
-    "last_updated": 1747209600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 1",
     "question_text": "\"Women's issue was a major concern in the socio-religious reform movements of 19th century India\". Explain.",
     "subjectId": "modern",
     "subjects": [
@@ -82,51 +80,49 @@
       "Women in 19th-century reform"
     ],
     "keyPointers": [
-      "Sati, widow remarriage, child marriage and women’s education",
-      "Reformers argued from scripture and from a new public",
-      "The concern was real and often led by men",
-      "It opened a question the later movement kept"
+      "Socio-religious reform",
+      "Women in the national movement"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Sati, widow remarriage, an education and the age of marriage were argued in public",
+      "The concern was real, and it was often led by men speaking for women",
+      "A major concern is not the same as a movement owned by women"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The 19th-century Indian Renaissance centered on dismantling patriarchal customs that hindered women's progress, led by reformers like Raja Ram Mohan Roy and Jyotiba Phule.",
         "order": 1,
-        "cite": "1"
+        "text": "The 19th-century Indian Renaissance centered on dismantling patriarchal customs that hindered women's progress, led by reformers like Raja Ram Mohan Roy and Jyotiba Phule."
       },
       {
         "section": "Body",
-        "text": "Key concerns included the abolition of Sati, legalization of widow remarriage, and the eradication of child marriage and the Purdah system.",
         "order": 2,
-        "cite": "1"
+        "text": "Key concerns included the abolition of Sati, legalization of widow remarriage, and the eradication of child marriage and the Purdah system."
       },
       {
         "section": "Body",
-        "text": "Education was utilized as a primary tool for empowerment, exemplified by the opening of schools for girls and the work of Savitribai Phule.",
         "order": 3,
-        "cite": "1"
+        "text": "Education was utilized as a primary tool for empowerment, exemplified by the opening of schools for girls and the work of Savitribai Phule."
       },
       {
         "section": "Conclusion",
-        "text": "These movements laid the groundwork for modern gender equality and legal protections for women in independent India.",
         "order": 4,
-        "cite": "1"
+        "text": "These movements laid the groundwork for modern gender equality and legal protections for women in independent India."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP1_03",
-    "paper_title": "GS Paper 1",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 3,
+    "year": 2025,
+    "paper_title": "GS Paper 1",
+    "q_number": "3",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1747209600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 1",
     "question_text": "'Extremism was a reaction against the ideas and modus operandi of the moderates'. Critically explain this statement.",
     "subjectId": "modern",
     "subjects": [
@@ -140,51 +136,48 @@
       "Extremists and moderates"
     ],
     "keyPointers": [
-      "Moderates asked, petitioned and trusted British justice",
-      "A younger group wanted swaraj and mass action",
-      "The reaction was to the slow method, not only to a person",
-      "Both strands stayed inside the same national argument"
+      "Revolutionary nationalism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The moderates asked, petitioned and waited",
+      "A younger group treated that pace as a failure and turned to boycott and a direct action",
+      "The reaction explains the rise, and it does not make every moderate idea wrong"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The rise of Extremism (Lal-Bal-Pal) in the early 20th century was a direct response to the perceived failure of the Moderates' '3P' (Prayer, Petition, Protest) policy.",
         "order": 1,
-        "cite": "1"
+        "text": "The rise of Extremism (Lal-Bal-Pal) in the early 20th century was a direct response to the perceived failure of the Moderates' '3P' (Prayer, Petition, Protest) policy."
       },
       {
         "section": "Body",
-        "text": "Extremists rejected the Moderates' faith in British justice, advocating for Swaraj (Self-rule) and mass mobilization through Boycott and Swadeshi.",
         "order": 2,
-        "cite": "1"
+        "text": "Extremists rejected the Moderates' faith in British justice, advocating for Swaraj (Self-rule) and mass mobilization through Boycott and Swadeshi."
       },
       {
         "section": "Body",
-        "text": "While Moderates sought constitutional reforms within the empire, Extremists demanded total independence and were willing to use more assertive methods.",
         "order": 3,
-        "cite": "1"
+        "text": "While Moderates sought constitutional reforms within the empire, Extremists demanded total independence and were willing to use more assertive methods."
       },
       {
         "section": "Conclusion",
-        "text": "Despite their differences, both factions played complementary roles in expanding the social base of the Indian national movement.",
         "order": 4,
-        "cite": "1"
+        "text": "Despite their differences, both factions played complementary roles in expanding the social base of the Indian national movement."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP1_04",
-    "paper_title": "GS Paper 1",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 4,
+    "year": 2025,
+    "paper_title": "GS Paper 1",
+    "q_number": "4",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1747209600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 1",
     "question_text": "Does globalization lead to both cultural integration and cultural conflict? Elucidate.",
     "subjectId": "society",
     "subjects": [
@@ -198,51 +191,50 @@
       "Globalisation: integration and conflict"
     ],
     "keyPointers": [
-      "Goods, media and migration mix practices",
-      "The same mixing produces a defence of the local",
-      "Integration and conflict are two results, not a sequence",
-      "Elucidate both, do not pick one"
+      "Globalisation and culture",
+      "Diversity and pluralism",
+      "Continuity and change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A shared film, a food and a screen pull cultures toward each other",
+      "The same contact can harden a local identity against the outside",
+      "Both happen, often in the same city"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Globalization creates a dual impact: it connects cultures through technology and trade (integration) but can also spark friction as local identities feel threatened (conflict).",
         "order": 1,
-        "cite": "1"
+        "text": "Globalization creates a dual impact: it connects cultures through technology and trade (integration) but can also spark friction as local identities feel threatened (conflict)."
       },
       {
         "section": "Body",
-        "text": "Integration is seen in the 'Global Village' effect—shared media, cuisine (Glocalization), and universal values like human rights.",
         "order": 2,
-        "cite": "1"
+        "text": "Integration is seen in the 'Global Village' effect—shared media, cuisine (Glocalization), and universal values like human rights."
       },
       {
         "section": "Body",
-        "text": "Conflict arises through 'Cultural Imperialism' and the fear of homogenization, leading to a revival of regionalism and fundamentalism.",
         "order": 3,
-        "cite": "1"
+        "text": "Conflict arises through 'Cultural Imperialism' and the fear of homogenization, leading to a revival of regionalism and fundamentalism."
       },
       {
         "section": "Conclusion",
-        "text": "The challenge lies in fostering a global consciousness while preserving the unique 'salad bowl' of diverse cultural identities.",
         "order": 4,
-        "cite": "1"
+        "text": "The challenge lies in fostering a global consciousness while preserving the unique 'salad bowl' of diverse cultural identities."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP1_05",
-    "paper_title": "GS Paper 1",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 5,
+    "year": 2025,
+    "paper_title": "GS Paper 1",
+    "q_number": "5",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1747209600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 1",
     "question_text": "What is the relationship between illiteracy and poverty in the context of developmental issues in rural India? Critically evaluate.",
     "subjectId": "society",
     "subjects": [
@@ -256,51 +248,50 @@
       "Illiteracy and rural poverty"
     ],
     "keyPointers": [
-      "No school cuts a wage, a scheme and a voice",
-      "Poverty also pulls a child out of school",
-      "The link runs both ways",
-      "Development fails if it treats them as separate"
+      "Poverty and nutrition",
+      "Education and social change",
+      "Inequality"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A child who cannot read is kept out of the better job",
+      "A poor house also pulls the child out of school to work",
+      "The two feed each other, and neither one is the only cause"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Illiteracy and poverty form a vicious cycle in rural India, where lack of education restricts economic opportunities and financial hardship prevents access to learning.",
         "order": 1,
-        "cite": "1"
+        "text": "Illiteracy and poverty form a vicious cycle in rural India, where lack of education restricts economic opportunities and financial hardship prevents access to learning."
       },
       {
         "section": "Body",
-        "text": "Illiteracy leads to low skill levels, confining rural labor to low-paying agricultural work and making them vulnerable to exploitation.",
         "order": 2,
-        "cite": "1"
+        "text": "Illiteracy leads to low skill levels, confining rural labor to low-paying agricultural work and making them vulnerable to exploitation."
       },
       {
         "section": "Body",
-        "text": "Conversely, poverty forces children out of school to help with family income, ensuring that the next generation remains illiterate and economically stagnant.",
         "order": 3,
-        "cite": "1"
+        "text": "Conversely, poverty forces children out of school to help with family income, ensuring that the next generation remains illiterate and economically stagnant."
       },
       {
         "section": "Conclusion",
-        "text": "Breaking this cycle requires integrated interventions that combine skill-based education with social security and rural employment schemes.",
         "order": 4,
-        "cite": "1"
+        "text": "Breaking this cycle requires integrated interventions that combine skill-based education with social security and rural employment schemes."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP1_06",
-    "paper_title": "GS Paper 1",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 6,
+    "year": 2025,
+    "paper_title": "GS Paper 1",
+    "q_number": "6",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1747209600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 1",
     "question_text": "Regionalism in modern India is both a challenge and an opportunity. Clarify.",
     "subjectId": "society",
     "subjects": [
@@ -314,51 +305,50 @@
       "Regionalism as challenge and opportunity"
     ],
     "keyPointers": [
-      "It can split a policy and a vote",
-      "It can also force a neglected region to be heard",
-      "Language and a demand for a state are the forms",
-      "The opportunity is recognition; the challenge is secession of feeling"
+      "Regionalism",
+      "Federalism",
+      "Linguistic reorganisation"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A regional claim can split a state and also force the Centre to listen",
+      "The opportunity is a closer government",
+      "The challenge is a demand that will not stop at a fair share"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Regionalism, or strong attachment to one's own region, acts as a double-edged sword in India’s diverse democratic landscape.",
         "order": 1,
-        "cite": "1"
+        "text": "Regionalism, or strong attachment to one's own region, acts as a double-edged sword in India’s diverse democratic landscape."
       },
       {
         "section": "Body",
-        "text": "As a challenge, it can fuel secessionist tendencies, inter-state disputes (like water sharing), and the growth of 'son-of-the-soil' ideologies.",
         "order": 2,
-        "cite": "1"
+        "text": "As a challenge, it can fuel secessionist tendencies, inter-state disputes (like water sharing), and the growth of 'son-of-the-soil' ideologies."
       },
       {
         "section": "Body",
-        "text": "As an opportunity, it promotes competitive federalism, protects linguistic diversity, and ensures that local developmental needs are voiced in national politics.",
         "order": 3,
-        "cite": "1"
+        "text": "As an opportunity, it promotes competitive federalism, protects linguistic diversity, and ensures that local developmental needs are voiced in national politics."
       },
       {
         "section": "Conclusion",
-        "text": "Balanced regional development and the principle of 'Unity in Diversity' are essential to channel regional aspirations toward national growth.",
         "order": 4,
-        "cite": "1"
+        "text": "Balanced regional development and the principle of 'Unity in Diversity' are essential to channel regional aspirations toward national growth."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP1_07",
-    "paper_title": "GS Paper 1",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 7,
+    "year": 2025,
+    "paper_title": "GS Paper 1",
+    "q_number": "7",
     "marks": 8,
+    "word_limit": 125,
     "importance": 1,
-    "cite": "1",
-    "last_updated": 1747209600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 1",
     "question_text": "Examine the variations in nature of glaciers in India.",
     "subjectId": "geo",
     "subjects": [
@@ -372,51 +362,49 @@
       "Types of Indian glaciers"
     ],
     "keyPointers": [
-      "Himalayan valley glaciers differ from a small cirque",
-      "East, west and the trans-Himalaya are not the same ice",
-      "Debris cover, slope and a monsoon decide the type",
-      "Variation is geography, not one melting story"
+      "Glacier retreat",
+      "Freshwater availability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A Himalayan glacier, a debris-covered one and a small ice body do not behave the same way",
+      "Some are retreating fast and some are held by their own rubble",
+      "The variation is of type, of place and of the speed of loss"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "India's glaciers, primarily located in the Himalayan ranges, exhibit significant variations in size, movement, and retreat patterns based on their geographical location.",
         "order": 1,
-        "cite": "1"
+        "text": "India's glaciers, primarily located in the Himalayan ranges, exhibit significant variations in size, movement, and retreat patterns based on their geographical location."
       },
       {
         "section": "Body",
-        "text": "Glaciers in the Karakoram (like Siachen) are generally longer and show a slower rate of retreat compared to those in the Central and Eastern Himalayas.",
         "order": 2,
-        "cite": "1"
+        "text": "Glaciers in the Karakoram (like Siachen) are generally longer and show a slower rate of retreat compared to those in the Central and Eastern Himalayas."
       },
       {
         "section": "Body",
-        "text": "Variation is influenced by altitude, precipitation types (monsoon vs. western disturbances), and local topography, affecting their roles as perennial water sources.",
         "order": 3,
-        "cite": "1"
+        "text": "Variation is influenced by altitude, precipitation types (monsoon vs. western disturbances), and local topography, affecting their roles as perennial water sources."
       },
       {
         "section": "Conclusion",
-        "text": "Monitoring these variations is crucial for water security and assessing the impact of climate change on the Indian subcontinent.",
         "order": 4,
-        "cite": "1"
+        "text": "Monitoring these variations is crucial for water security and assessing the impact of climate change on the Indian subcontinent."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP1_08",
-    "paper_title": "GS Paper 1",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 8,
+    "year": 2025,
+    "paper_title": "GS Paper 1",
+    "q_number": "8",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1747209600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 1",
     "question_text": "How do India's mangroves and corals reefs contribute to marine resource management?",
     "subjectId": "geo",
     "subjects": [
@@ -430,51 +418,50 @@
       "Mangroves and coral reefs"
     ],
     "keyPointers": [
-      "A nursery for fish and a buffer for the coast",
-      "Reefs hold a fishery and a shore",
-      "Managing the resource means protecting the habitat",
-      "Cut them and the catch and the coast both go"
+      "Marine resources",
+      "Biodiversity loss",
+      "Coastal hazards"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A mangrove holds the shore and a nursery of fish",
+      "A coral reef does the same for a clearer, warmer water",
+      "Managing the resource means protecting the habitat, not only counting the catch"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Mangroves and coral reefs act as vital coastal ecosystems that sustain biodiversity and protect India's shoreline from natural disasters.",
         "order": 1,
-        "cite": "1"
+        "text": "Mangroves and coral reefs act as vital coastal ecosystems that sustain biodiversity and protect India's shoreline from natural disasters."
       },
       {
         "section": "Body",
-        "text": "Mangroves serve as carbon sinks and nursery grounds for fish, while their root systems prevent coastal erosion and buffer against storm surges.",
         "order": 2,
-        "cite": "1"
+        "text": "Mangroves serve as carbon sinks and nursery grounds for fish, while their root systems prevent coastal erosion and buffer against storm surges."
       },
       {
         "section": "Body",
-        "text": "Coral reefs provide habitats for diverse marine life and support tourism, while also acting as natural breakwaters for coastal communities.",
         "order": 3,
-        "cite": "1"
+        "text": "Coral reefs provide habitats for diverse marine life and support tourism, while also acting as natural breakwaters for coastal communities."
       },
       {
         "section": "Conclusion",
-        "text": "Effective management of these 'blue carbon' ecosystems is essential for the economic and environmental resilience of India’s coastal regions.",
         "order": 4,
-        "cite": "1"
+        "text": "Effective management of these 'blue carbon' ecosystems is essential for the economic and environmental resilience of India’s coastal regions."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP1_09",
-    "paper_title": "GS Paper 1",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 9,
+    "year": 2025,
+    "paper_title": "GS Paper 1",
+    "q_number": "9",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "1",
-    "last_updated": 1747209600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 1",
     "question_text": "Examine the origin, dimensions and implications of Sino-Indian border dispute.",
     "subjectId": "ir",
     "subjects": [
@@ -488,51 +475,50 @@
       "The India–China border dispute"
     ],
     "keyPointers": [
-      "An un-demarcated colonial line in the Himalaya",
-      "The western and eastern sectors are different disputes",
-      "1962 and later face-offs are the implication",
-      "It shapes troops, a road and the wider relationship"
+      "India and China",
+      "Border management",
+      "Strategic autonomy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The line was never jointly agreed in the way a settled border is",
+      "The dispute has a map, a patrol and a political face",
+      "The implication is a permanent military attention on a high frontier"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The Sino-Indian border dispute is a complex legacy of colonial-era boundary definitions, involving disagreements over the Line of Actual Control (LAC).",
         "order": 1,
-        "cite": "1"
+        "text": "The Sino-Indian border dispute is a complex legacy of colonial-era boundary definitions, involving disagreements over the Line of Actual Control (LAC)."
       },
       {
         "section": "Body",
-        "text": "Dimensions include the Western Sector (Aksai Chin), Middle Sector, and Eastern Sector (Arunachal Pradesh), each with differing claims and historical interpretations.",
         "order": 2,
-        "cite": "1"
+        "text": "Dimensions include the Western Sector (Aksai Chin), Middle Sector, and Eastern Sector (Arunachal Pradesh), each with differing claims and historical interpretations."
       },
       {
         "section": "Body",
-        "text": "Implications extend beyond territorial gain, impacting regional security, bilateral trade, and the geopolitical balance in the Indo-Pacific.",
         "order": 3,
-        "cite": "1"
+        "text": "Implications extend beyond territorial gain, impacting regional security, bilateral trade, and the geopolitical balance in the Indo-Pacific."
       },
       {
         "section": "Conclusion",
-        "text": "A peaceful resolution remains critical for Asian stability, requiring sustained diplomatic engagement and adherence to existing border protocols.",
         "order": 4,
-        "cite": "1"
+        "text": "A peaceful resolution remains critical for Asian stability, requiring sustained diplomatic engagement and adherence to existing border protocols."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP1_10",
-    "paper_title": "GS Paper 1",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 10,
+    "year": 2025,
+    "paper_title": "GS Paper 1",
+    "q_number": "10",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "1",
-    "last_updated": 1747209600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 1",
     "question_text": "Examine critically the recent theories of the origin of monsoon and discuss the effects of El-nino on monsoon.",
     "subjectId": "geo",
     "subjects": [
@@ -546,51 +532,49 @@
       "Monsoon theories and El Niño"
     ],
     "keyPointers": [
-      "The old thermal story is not enough",
-      "Jet streams, the Tibetan high and the ocean now explain the burst",
-      "El Niño often weakens the Indian rain",
-      "A theory must explain both the start and the failed year"
+      "Monsoon",
+      "Global warming"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Later theories look at the heat of the plateau, the ocean and a moving wind, not only a land-sea contrast",
+      "El Nino warms the Pacific and can weaken the Indian rain",
+      "A theory of origin and an effect on the season are two different claims"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Modern understanding of the Indian monsoon has evolved from simple thermal theories to dynamic models involving the Jet Stream and the Indian Ocean Dipole.",
         "order": 1,
-        "cite": "1"
+        "text": "Modern understanding of the Indian monsoon has evolved from simple thermal theories to dynamic models involving the Jet Stream and the Indian Ocean Dipole."
       },
       {
         "section": "Body",
-        "text": "Recent theories emphasize the role of the Tibetan Plateau as a heat source and the influence of the Intertropical Convergence Zone (ITCZ) shift.",
         "order": 2,
-        "cite": "1"
+        "text": "Recent theories emphasize the role of the Tibetan Plateau as a heat source and the influence of the Intertropical Convergence Zone (ITCZ) shift."
       },
       {
         "section": "Body",
-        "text": "El-Nino—the warming of surface waters in the Eastern Pacific—generally correlates with a weaker Indian monsoon and drought conditions in the subcontinent.",
         "order": 3,
-        "cite": "1"
+        "text": "El-Nino—the warming of surface waters in the Eastern Pacific—generally correlates with a weaker Indian monsoon and drought conditions in the subcontinent."
       },
       {
         "section": "Conclusion",
-        "text": "As climate patterns become more erratic, integrating these complex variables into forecasting is vital for India's agricultural and economic planning.",
         "order": 4,
-        "cite": "1"
+        "text": "As climate patterns become more erratic, integrating these complex variables into forecasting is vital for India's agricultural and economic planning."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP1_11",
-    "paper_title": "GS Paper 1",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 11,
+    "year": 2025,
+    "paper_title": "GS Paper 1",
+    "q_number": "11",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "1",
-    "last_updated": 1747209600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 1",
     "question_text": "Critically analyse the role of Sardar Patel in the Unification of India after Independence.",
     "subjectId": "postindep",
     "subjects": [
@@ -604,51 +588,48 @@
       "Patel and the unification of states"
     ],
     "keyPointers": [
-      "Hundreds of princely states had to choose",
-      "Persuasion, a standstill and, where needed, force",
-      "Junagadh, Hyderabad and Kashmir were not the same case",
-      "The map of the republic is largely his work"
+      "Federalism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "He used persuasion, a standstill and, where needed, a police action",
+      "The states came into one Union instead of remaining separate sovereignties",
+      "The role was decisive, and it was not his alone"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Sardar Vallabhbhai Patel, as the first Home Minister, was the chief architect of India's political integration, successfully merging over 560 princely states into a single union.",
         "order": 1,
-        "cite": "1"
+        "text": "Sardar Vallabhbhai Patel, as the first Home Minister, was the chief architect of India's political integration, successfully merging over 560 princely states into a single union."
       },
       {
         "section": "Body",
-        "text": "He utilized a pragmatic 'Privy Purse' policy to incentivize rulers while maintaining a firm stance on national sovereignty, famously termed as his 'Carrot and Stick' approach.",
         "order": 2,
-        "cite": "1"
+        "text": "He utilized a pragmatic 'Privy Purse' policy to incentivize rulers while maintaining a firm stance on national sovereignty, famously termed as his 'Carrot and Stick' approach."
       },
       {
         "section": "Body",
-        "text": "Specific interventions like 'Operation Polo' in Hyderabad and the integration of Junagadh demonstrated his willingness to use decisive action when diplomacy reached an impasse.",
         "order": 3,
-        "cite": "1"
+        "text": "Specific interventions like 'Operation Polo' in Hyderabad and the integration of Junagadh demonstrated his willingness to use decisive action when diplomacy reached an impasse."
       },
       {
         "section": "Conclusion",
-        "text": "His leadership prevented the fragmentation of the subcontinent and laid the structural foundation for the modern Indian administrative state.",
         "order": 4,
-        "cite": "1"
+        "text": "His leadership prevented the fragmentation of the subcontinent and laid the structural foundation for the modern Indian administrative state."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP1_12",
-    "paper_title": "GS Paper 1",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 12,
+    "year": 2025,
+    "paper_title": "GS Paper 1",
+    "q_number": "12",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1747209600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 1",
     "question_text": "\"The period from 1857 to 1947 was a time of immense change of Indian history\". Analyse this statement.",
     "subjectId": "modern",
     "subjects": [
@@ -662,51 +643,51 @@
       "Change from 1857 to 1947"
     ],
     "keyPointers": [
-      "A revolt, then a crown, then a national movement",
-      "Economy, education and a new public changed together",
-      "The period ends in partition and independence",
-      "Immense change, and not a single straight line"
+      "Revolt of 1857",
+      "Gandhi's mass politics",
+      "Quit India",
+      "Colonial conquest"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The Crown replaced the Company, a new middle class grew, and a mass movement appeared",
+      "The change is political, economic and social together",
+      "Immense is fair, and it was not a change in one direction only"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The ninety years between the 1857 revolt and 1947 independence witnessed a total transformation of India’s political, social, and economic landscape under British Crown rule.",
         "order": 1,
-        "cite": "1"
+        "text": "The ninety years between the 1857 revolt and 1947 independence witnessed a total transformation of India’s political, social, and economic landscape under British Crown rule."
       },
       {
         "section": "Body",
-        "text": "Politically, India shifted from fragmented feudal resistance to a structured, mass-based national movement that evolved from seeking reforms to demanding complete Purna Swaraj.",
         "order": 2,
-        "cite": "1"
+        "text": "Politically, India shifted from fragmented feudal resistance to a structured, mass-based national movement that evolved from seeking reforms to demanding complete Purna Swaraj."
       },
       {
         "section": "Body",
-        "text": "Socially and economically, this era saw the rise of a modern middle class, widespread railway expansion, and significant legislative reforms against regressive social practices.",
         "order": 3,
-        "cite": "1"
+        "text": "Socially and economically, this era saw the rise of a modern middle class, widespread railway expansion, and significant legislative reforms against regressive social practices."
       },
       {
         "section": "Conclusion",
-        "text": "This period served as the crucible for modern Indian identity, culminating in the birth of a sovereign democratic republic.",
         "order": 4,
-        "cite": "1"
+        "text": "This period served as the crucible for modern Indian identity, culminating in the birth of a sovereign democratic republic."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP1_13",
-    "paper_title": "GS Paper 1",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 13,
+    "year": 2025,
+    "paper_title": "GS Paper 1",
+    "q_number": "13",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1747209600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 1",
     "question_text": "The Unification of Germany is considered as a symbol of the contradiction between the 'ideal of nationalism' and the 'realities of power politics'. In this context, critically examine the paths of unification and its international implications.",
     "subjectId": "world",
     "subjects": [
@@ -720,51 +701,49 @@
       "German unification and nationalism"
     ],
     "keyPointers": [
-      "The ideal was one people",
-      "The reality was Prussia’s army, a dynasty and a war",
-      "Unity came from above, not from a pure national will",
-      "The symbol carries that contradiction"
+      "Nationalism in Europe",
+      "Balance of power"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The ideal was one people and one state",
+      "The reality was a Prussian war and a chancellor's calculation",
+      "The symbol is that nationalism arrived through power, not through a vote alone"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "German unification under Otto von Bismarck was achieved through 'Blood and Iron,' prioritizing Prussian power over the liberal-democratic nationalist ideals of 1848.",
         "order": 1,
-        "cite": "1"
+        "text": "German unification under Otto von Bismarck was achieved through 'Blood and Iron,' prioritizing Prussian power over the liberal-democratic nationalist ideals of 1848."
       },
       {
         "section": "Body",
-        "text": "The path involved three calculated wars against Denmark, Austria, and France, used to consolidate German states under Prussian dominance rather than popular consensus.",
         "order": 2,
-        "cite": "1"
+        "text": "The path involved three calculated wars against Denmark, Austria, and France, used to consolidate German states under Prussian dominance rather than popular consensus."
       },
       {
         "section": "Body",
-        "text": "Internationally, the emergence of a powerful German Empire disrupted the European balance of power, eventually leading to the rigid alliance systems of the early 20th century.",
         "order": 3,
-        "cite": "1"
+        "text": "Internationally, the emergence of a powerful German Empire disrupted the European balance of power, eventually leading to the rigid alliance systems of the early 20th century."
       },
       {
         "section": "Conclusion",
-        "text": "While it fulfilled the nationalist dream of a united Germany, the reliance on militarism and 'Realpolitik' sowed the seeds for future global conflicts.",
         "order": 4,
-        "cite": "1"
+        "text": "While it fulfilled the nationalist dream of a united Germany, the reliance on militarism and 'Realpolitik' sowed the seeds for future global conflicts."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP1_14",
-    "paper_title": "GS Paper 1",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 14,
+    "year": 2025,
+    "paper_title": "GS Paper 1",
+    "q_number": "14",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1747209600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 1",
     "question_text": "Discuss the socio-economic problems associated with urbanization. What structural measures are necessary for sustainable urban development?",
     "subjectId": "society",
     "subjects": [
@@ -778,51 +757,51 @@
       "Sustainable urbanisation"
     ],
     "keyPointers": [
-      "Slums, jobs, transport and a broken drain",
-      "The poor city and the formal city grow apart",
-      "Structural measures: land, a mass transit, housing and a water body kept",
-      "A scheme without the structure repeats the problem"
+      "Urbanisation",
+      "Inequality",
+      "Sustainable development",
+      "Informal economy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A crowded house, a missing drain and a job without a contract travel with the city",
+      "The structural answer is a plan, a transport and a service the poor settlement also gets",
+      "Sustainable means the city can still function after the next wave of arrivals"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Rapid, unplanned urbanization in India has led to significant socio-economic stresses, even as cities remain engines of economic growth.",
         "order": 1,
-        "cite": "1"
+        "text": "Rapid, unplanned urbanization in India has led to significant socio-economic stresses, even as cities remain engines of economic growth."
       },
       {
         "section": "Body",
-        "text": "Key problems include the proliferation of slums, inadequate public sanitation, increased crime rates, and the 'urban heat island' effect due to lack of green cover.",
         "order": 2,
-        "cite": "1"
+        "text": "Key problems include the proliferation of slums, inadequate public sanitation, increased crime rates, and the 'urban heat island' effect due to lack of green cover."
       },
       {
         "section": "Body",
-        "text": "Structural measures required include the implementation of 'Smart City' technologies, transit-oriented development (TOD), and decentralized urban governance under the 74th Amendment.",
         "order": 3,
-        "cite": "1"
+        "text": "Structural measures required include the implementation of 'Smart City' technologies, transit-oriented development (TOD), and decentralized urban governance under the 74th Amendment."
       },
       {
         "section": "Conclusion",
-        "text": "Sustainable urbanization requires a shift from reactive management to proactive planning that balances economic expansion with environmental and social equity.",
         "order": 4,
-        "cite": "1"
+        "text": "Sustainable urbanization requires a shift from reactive management to proactive planning that balances economic expansion with environmental and social equity."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP1_15",
-    "paper_title": "GS Paper 1",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 15,
+    "year": 2025,
+    "paper_title": "GS Paper 1",
+    "q_number": "15",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1747209600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 1",
     "question_text": "Critically evaluate the impact of modernisation and westernisation on the traditional Indian values.",
     "subjectId": "society",
     "subjects": [
@@ -836,51 +815,49 @@
       "Modernisation, westernisation and values"
     ],
     "keyPointers": [
-      "Modernisation is a change of tools and institutions",
-      "Westernisation is a change of taste and manners",
-      "They overlap and they are not the same",
-      "Some values bent; some were used to resist"
+      "Globalisation and culture",
+      "Continuity and change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Modernisation changes a tool, a job and a school",
+      "Westernisation changes a dress, a language and a measure of success",
+      "Traditional values bend under both, and they do not all break"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Indian society is currently undergoing a complex synthesis where traditional values are being challenged and reshaped by modernization and Western cultural influences.",
         "order": 1,
-        "cite": "1"
+        "text": "Indian society is currently undergoing a complex synthesis where traditional values are being challenged and reshaped by modernization and Western cultural influences."
       },
       {
         "section": "Body",
-        "text": "Modernization has promoted rationalism and equality, helping to erode rigid caste hierarchies and improving the status of women in the professional sphere.",
         "order": 2,
-        "cite": "1"
+        "text": "Modernization has promoted rationalism and equality, helping to erode rigid caste hierarchies and improving the status of women in the professional sphere."
       },
       {
         "section": "Body",
-        "text": "Conversely, excessive Westernization is often linked to the decline of the joint family system and a shift toward individualism and consumerism.",
         "order": 3,
-        "cite": "1"
+        "text": "Conversely, excessive Westernization is often linked to the decline of the joint family system and a shift toward individualism and consumerism."
       },
       {
         "section": "Conclusion",
-        "text": "The resilience of Indian culture lies in its ability to adopt modern scientific temper while retaining core spiritual and community-oriented values.",
         "order": 4,
-        "cite": "1"
+        "text": "The resilience of Indian culture lies in its ability to adopt modern scientific temper while retaining core spiritual and community-oriented values."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP1_16",
-    "paper_title": "GS Paper 1",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 16,
+    "year": 2025,
+    "paper_title": "GS Paper 1",
+    "q_number": "16",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "1",
-    "last_updated": 1747209600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 1",
     "question_text": "What are the visible effects of globalization on family, marriage and kinship system? Analyse with reference to the Indian society.",
     "subjectId": "society",
     "subjects": [
@@ -894,167 +871,164 @@
       "Globalisation and the Indian family"
     ],
     "keyPointers": [
-      "A smaller household and a later marriage",
-      "Choice of partner beside the arranged match",
-      "Kin who live in another city or country",
-      "The form changes; the duty does not vanish at once"
+      "Gender and the household",
+      "Globalisation and culture",
+      "Continuity and change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A separate wage and a city job loosen a joint roof and a parent's choice of the spouse",
+      "Kinship does not disappear; it stretches over a phone and a remittance",
+      "The effect is visible, and it is not the same in every class"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Globalization has significantly altered the traditional structure of Indian social institutions by introducing global economic patterns and liberal social norms.",
         "order": 1,
-        "cite": "1"
+        "text": "Globalization has significantly altered the traditional structure of Indian social institutions by introducing global economic patterns and liberal social norms."
       },
       {
         "section": "Body",
-        "text": "Families are transitioning from joint to nuclear units due to labor mobility, while the kinship system's role in decision-making is being replaced by individual autonomy.",
         "order": 2,
-        "cite": "1"
+        "text": "Families are transitioning from joint to nuclear units due to labor mobility, while the kinship system's role in decision-making is being replaced by individual autonomy."
       },
       {
         "section": "Body",
-        "text": "In marriage, effects are seen in the rise of late marriages, the use of digital matchmaking, and an increasing emphasis on companionship over purely transactional alliances.",
         "order": 3,
-        "cite": "1"
+        "text": "In marriage, effects are seen in the rise of late marriages, the use of digital matchmaking, and an increasing emphasis on companionship over purely transactional alliances."
       },
       {
         "section": "Conclusion",
-        "text": "Despite these changes, traditional elements like grand wedding celebrations and emotional kinship ties persist, reflecting a unique 'Indianized' version of globalization.",
         "order": 4,
-        "cite": "1"
+        "text": "Despite these changes, traditional elements like grand wedding celebrations and emotional kinship ties persist, reflecting a unique 'Indianized' version of globalization."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP1_17",
-    "paper_title": "GS Paper 1",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 17,
+    "year": 2025,
+    "paper_title": "GS Paper 1",
+    "q_number": "17",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1747209600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 1",
     "question_text": "Examine the forest resources of India and explain the principles of conservation which could be applied to improve the forest wealth of India.",
-    "subjectId": "geo",
+    "subjectId": "energyenv",
     "subjects": [
-      "Geography"
+      "Environment & Ecology"
     ],
-    "topic": "Environment",
+    "topic": "India's forests",
     "topics": [
-      "Environment"
+      "India's forests"
     ],
     "subTopics": [
       "Forest resources and conservation"
     ],
     "keyPointers": [
-      "Cover on paper and a degraded forest differ",
-      "Conservation: protect, restore, and let the local user have a stake",
-      "A principle without a livelihood fails",
-      "Improve the wealth of the forest by not only fencing it"
+      "Forest conservation",
+      "Biodiversity loss",
+      "Sustainable development"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The wealth is timber, a minor produce, a water and a habitat, and it is unevenly spread",
+      "Conservation here means a use that does not eat the stock",
+      "The principle is a right of the people who live in the forest, plus a limit on the cut"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "India possesses diverse forest resources ranging from alpine scrubs to tropical evergreen forests, which are critical for ecological balance and tribal livelihoods.",
         "order": 1,
-        "cite": "1"
+        "text": "India possesses diverse forest resources ranging from alpine scrubs to tropical evergreen forests, which are critical for ecological balance and tribal livelihoods."
       },
       {
         "section": "Body",
-        "text": "The distribution is uneven, with high concentration in the North-East and Central India, providing essential timber, medicinal plants, and non-timber forest products (NTFPs).",
         "order": 2,
-        "cite": "1"
+        "text": "The distribution is uneven, with high concentration in the North-East and Central India, providing essential timber, medicinal plants, and non-timber forest products (NTFPs)."
       },
       {
         "section": "Body",
-        "text": "Conservation principles include Joint Forest Management (JFM), Social Forestry, and the strict enforcement of the Forest Conservation Act alongside community-led 'Sacred Groves' protection.",
         "order": 3,
-        "cite": "1"
+        "text": "Conservation principles include Joint Forest Management (JFM), Social Forestry, and the strict enforcement of the Forest Conservation Act alongside community-led 'Sacred Groves' protection."
       },
       {
         "section": "Conclusion",
-        "text": "Improving forest wealth requires integrating local community rights with scientific silviculture to achieve the national target of 33% forest cover.",
         "order": 4,
-        "cite": "1"
+        "text": "Improving forest wealth requires integrating local community rights with scientific silviculture to achieve the national target of 33% forest cover."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP1_18",
-    "paper_title": "GS Paper 1",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 18,
+    "year": 2025,
+    "paper_title": "GS Paper 1",
+    "q_number": "18",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1747209600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 1",
     "question_text": "Differentiate between refugees and infiltrators. What steps have been taken by the Government of India for the security and assistance of refugees?",
-    "subjectId": "society",
+    "subjectId": "security",
     "subjects": [
-      "Indian Society"
+      "Internal Security"
     ],
-    "topic": "Indian Society",
+    "topic": "Refugees and infiltrators",
     "topics": [
-      "Indian Society"
+      "Refugees and infiltrators"
     ],
     "subTopics": [
       "Refugees and infiltrators"
     ],
     "keyPointers": [
-      "A refugee flees a danger; an infiltrator crosses to stay or harm",
-      "The law and the treatment should not mix them",
-      "Security is the border; assistance is the camp and the status",
-      "India’s practice is uneven because the categories are"
+      "Migration",
+      "Cross-border threats",
+      "Border management"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A refugee flees a danger and asks for protection",
+      "An infiltrator crosses to stay or to act without that claim",
+      "The steps for the first are shelter and a record; the steps for the second are a detection and a law"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The distinction between refugees and infiltrators is defined by intent and circumstance: one seeks asylum from danger, while the other enters for unauthorized purposes.",
         "order": 1,
-        "cite": "1"
+        "text": "The distinction between refugees and infiltrators is defined by intent and circumstance: one seeks asylum from danger, while the other enters for unauthorized purposes."
       },
       {
         "section": "Body",
-        "text": "Refugees flee due to well-founded fears of persecution (e.g., Tibeteans, Sri Lankan Tamils), whereas infiltrators cross borders illegally, often bypassing security checkpoints.",
         "order": 2,
-        "cite": "1"
+        "text": "Refugees flee due to well-founded fears of persecution (e.g., Tibeteans, Sri Lankan Tamils), whereas infiltrators cross borders illegally, often bypassing security checkpoints."
       },
       {
         "section": "Body",
-        "text": "Government steps include the Standard Operating Procedure (SOP) for Long Term Visas (LTV) and providing basic aid via specialized relief camps.",
         "order": 3,
-        "cite": "1"
+        "text": "Government steps include the Standard Operating Procedure (SOP) for Long Term Visas (LTV) and providing basic aid via specialized relief camps."
       },
       {
         "section": "Conclusion",
-        "text": "India manages this through a case-by-case humanitarian approach while strengthening border infrastructure like the Comprehensive Integrated Border Management System (CIBMS).",
         "order": 4,
-        "cite": "1"
+        "text": "India manages this through a case-by-case humanitarian approach while strengthening border infrastructure like the Comprehensive Integrated Border Management System (CIBMS)."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP1_19",
-    "paper_title": "GS Paper 1",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 19,
+    "year": 2025,
+    "paper_title": "GS Paper 1",
+    "q_number": "19",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1747209600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 1",
     "question_text": "\"India's continental shelf is a store house of mineral and energy resources\". Critically examine this statement with suitable examples.",
     "subjectId": "geo",
     "subjects": [
@@ -1068,51 +1042,49 @@
       "Resources of the continental shelf"
     ],
     "keyPointers": [
-      "Oil, gas and some minerals sit on the shelf",
-      "The storehouse is real and costly to open",
-      "Ecology and a neighbour’s claim limit the use",
-      "Examine the wealth and the risk together"
+      "Energy minerals",
+      "Marine resources"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The shelf holds a sand, a mineral and a possible oil and gas",
+      "A storehouse is a fair description of the potential",
+      "It is not yet a supply, because the taking is costly and disputed"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "India’s extensive continental shelf, particularly in the Arabian Sea and the Bay of Bengal, holds vast untapped potential for energy and mineral security.",
         "order": 1,
-        "cite": "1"
+        "text": "India’s extensive continental shelf, particularly in the Arabian Sea and the Bay of Bengal, holds vast untapped potential for energy and mineral security."
       },
       {
         "section": "Body",
-        "text": "Energy resources are exemplified by the Bombay High offshore oil fields and the massive natural gas reserves in the Krishna-Godavari (KG) Basin.",
         "order": 2,
-        "cite": "1"
+        "text": "Energy resources are exemplified by the Bombay High offshore oil fields and the massive natural gas reserves in the Krishna-Godavari (KG) Basin."
       },
       {
         "section": "Body",
-        "text": "Mineral wealth includes heavy mineral sands (monazite, ilmenite) along the Kerala coast and potential polymetallic nodules on the deeper shelf margins.",
         "order": 3,
-        "cite": "1"
+        "text": "Mineral wealth includes heavy mineral sands (monazite, ilmenite) along the Kerala coast and potential polymetallic nodules on the deeper shelf margins."
       },
       {
         "section": "Conclusion",
-        "text": "Sustainable extraction through the 'Deep Ocean Mission' is vital to reduce India's import dependency while protecting marine ecosystems.",
         "order": 4,
-        "cite": "1"
+        "text": "Sustainable extraction through the 'Deep Ocean Mission' is vital to reduce India's import dependency while protecting marine ecosystems."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP1_20",
-    "paper_title": "GS Paper 1",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 20,
+    "year": 2025,
+    "paper_title": "GS Paper 1",
+    "q_number": "20",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1747209600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 1",
     "question_text": "Differentiate between frontiers and boundaries and present a detailed account on the types of boundaries giving suitable examples from Indian subcontinent.",
     "subjectId": "geo",
     "subjects": [
@@ -1126,36 +1098,33 @@
       "Frontiers and types of boundaries"
     ],
     "keyPointers": [
-      "A frontier is a zone; a boundary is a line",
-      "Natural, geometric and cultural lines",
-      "Antecedent and superimposed borders",
-      "The type explains the dispute as much as the map"
+      "Border management"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A frontier is a zone that thins out; a boundary is a line that is drawn",
+      "The types include a river, a ridge, a geometric line and a line left by an empire",
+      "On the subcontinent each type can be shown, and each one creates a different quarrel"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "In political geography, frontiers are outer zones of influence that are often transitionary, while boundaries are precise, legally defined lines of separation.",
         "order": 1,
-        "cite": "1"
+        "text": "In political geography, frontiers are outer zones of influence that are often transitionary, while boundaries are precise, legally defined lines of separation."
       },
       {
         "section": "Body",
-        "text": "Types of boundaries include Natural (Himalayas with China), Artificial (Radcliffe Line with Pakistan), and Maritime (IMBL with Sri Lanka).",
         "order": 2,
-        "cite": "1"
+        "text": "Types of boundaries include Natural (Himalayas with China), Artificial (Radcliffe Line with Pakistan), and Maritime (IMBL with Sri Lanka)."
       },
       {
         "section": "Body",
-        "text": "The Indian subcontinent features complex examples like the 'Line of Control' (LoC)—a military functional boundary—and the porous border with Nepal.",
         "order": 3,
-        "cite": "1"
+        "text": "The Indian subcontinent features complex examples like the 'Line of Control' (LoC)—a military functional boundary—and the porous border with Nepal."
       },
       {
         "section": "Conclusion",
-        "text": "Managing these varied boundary types is central to India's national security and regional 'Neighborhood First' foreign policy.",
         "order": 4,
-        "cite": "1"
+        "text": "Managing these varied boundary types is central to India's national security and regional 'Neighborhood First' foreign policy."
       }
     ]
   }

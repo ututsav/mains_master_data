@@ -1,16 +1,16 @@
 [
   {
     "uid": "UPPSC_2019_GS3_Q1",
-    "paper_title": "General Studies Paper 3",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 1,
+    "year": 2019,
+    "paper_title": "GS Paper 3",
+    "q_number": "1",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
-    "last_updated": 1778964500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
     "question_text": "Explain with examples the role of science and technology in enhancing national power.",
     "subjectId": "stech",
     "subjects": [
@@ -24,51 +24,50 @@
       "Science and national power"
     ],
     "keyPointers": [
-      "A weapon, a satellite, a vaccine and a manufacturing base",
-      "Power is capability, not only a count of soldiers",
-      "Examples should be concrete",
-      "Enhancement is what the country can do that it could not"
+      "Strategic autonomy",
+      "Scientific temper",
+      "Artificial intelligence"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A satellite, a missile and a network are power, not only a laboratory",
+      "An example has to show a capability the country can use",
+      "Science enhances power when it leaves the paper"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define national power as a country's ability to influence global events and secure its interests, noting that Science and Technology (S&T) has become its most critical determinant in the 21st century.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Define national power as a country's ability to influence global events and secure its interests, noting that Science and Technology (S&T) has become its most critical determinant in the 21st century."
       },
       {
         "section": "Body",
-        "text": "Discuss economic and industrial power: Advanced S&T drives innovation, productivity, and global trade dominance. For example, India's IT software boom and space commercialization (ISRO's satellite launches) generate massive foreign exchange and soft power.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Discuss economic and industrial power: Advanced S&T drives innovation, productivity, and global trade dominance. For example, India's IT software boom and space commercialization (ISRO's satellite launches) generate massive foreign exchange and soft power."
       },
       {
         "section": "Body",
-        "text": "Discuss military and strategic power: S&T dictates defense superiority through precision weaponry, nuclear deterrence, cyber-warfare capabilities, and space assets. For instance, the indigenous development of the Agni-V missile and Mission Shakti (ASAT) dramatically elevated India's strategic deterrent posture.",
         "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Discuss military and strategic power: S&T dictates defense superiority through precision weaponry, nuclear deterrence, cyber-warfare capabilities, and space assets. For instance, the indigenous development of the Agni-V missile and Mission Shakti (ASAT) dramatically elevated India's strategic deterrent posture."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that a nation's geopolitical leverage is directly proportional to its R&D investments and technological self-reliance.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Conclude that a nation's geopolitical leverage is directly proportional to its R&D investments and technological self-reliance."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_GS3_Q2",
-    "paper_title": "General Studies Paper 3",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 2,
+    "year": 2019,
+    "paper_title": "GS Paper 3",
+    "q_number": "2",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
-    "last_updated": 1778964500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
     "question_text": "Analyse corruption as a threat to internal security.",
     "subjectId": "security",
     "subjects": [
@@ -82,51 +81,50 @@
       "Corruption and internal security"
     ],
     "keyPointers": [
-      "A bribe buys a border, a gun and a silence",
-      "It weakens the institution that should protect",
-      "Analyse it as security, not only as morals",
-      "The threat is the captured state"
+      "Corruption",
+      "Development and security",
+      "Accountability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A bought post and a leaked operation weaken the force from inside",
+      "The threat is not only the money stolen",
+      "Internal security needs an institution the public still trusts"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define corruption not merely as a financial crime, but as a systemic vulnerability that hollows out state machinery and directly jeopardizes internal security.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Define corruption not merely as a financial crime, but as a systemic vulnerability that hollows out state machinery and directly jeopardizes internal security."
       },
       {
         "section": "Body",
-        "text": "Analyze the operational threat: Corrupt border officials, police, and bureaucrats actively facilitate the smuggling of arms, narcotics, and counterfeit currency. This creates a lethal nexus between organized crime syndicates and terrorist organizations (e.g., the 1993 Mumbai blasts facilitated by corrupt customs officials).",
         "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Analyze the operational threat: Corrupt border officials, police, and bureaucrats actively facilitate the smuggling of arms, narcotics, and counterfeit currency. This creates a lethal nexus between organized crime syndicates and terrorist organizations (e.g., the 1993 Mumbai blasts facilitated by corrupt customs officials)."
       },
       {
         "section": "Body",
-        "text": "Analyze the socio-political threat: Pervasive corruption in public service delivery breeds deep-seated citizen alienation, poverty, and governance deficits. This widespread resentment provides fertile ground for radicalization and insurgencies, as seen in the growth of Left Wing Extremism (Naxalism) in resource-rich but highly corrupt tribal belts.",
         "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Analyze the socio-political threat: Pervasive corruption in public service delivery breeds deep-seated citizen alienation, poverty, and governance deficits. This widespread resentment provides fertile ground for radicalization and insurgencies, as seen in the growth of Left Wing Extremism (Naxalism) in resource-rich but highly corrupt tribal belts."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that tackling internal security threats requires aggressively neutralizing institutional corruption through robust oversight mechanisms and digitization.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Conclude that tackling internal security threats requires aggressively neutralizing institutional corruption through robust oversight mechanisms and digitization."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_GS3_Q3",
-    "paper_title": "General Studies Paper 3",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 3,
+    "year": 2019,
+    "paper_title": "GS Paper 3",
+    "q_number": "3",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
-    "last_updated": 1778964500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
     "question_text": "'Armed Forces Special powers Act' of the Parliament of India has come under criticism by the states as being draconian and sometimes as un-consitutional. Examine analytically.",
     "subjectId": "security",
     "subjects": [
@@ -140,51 +138,50 @@
       "AFSPA and the north-east"
     ],
     "keyPointers": [
-      "A wide power to search, arrest and use force",
-      "States and citizens call it impunity",
-      "The criticism is rights against a claimed necessity",
-      "Discuss the north-east’s experience"
+      "Rule of law",
+      "Development and security",
+      "Federalism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The Act gives a force wide powers in a disturbed area",
+      "States call it draconian because a complaint is hard and a misuse is remembered",
+      "The argument is security against a right, and both are real"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Armed Forces Special Powers Act (AFSPA), 1958, an act granting sweeping powers to the military to maintain public order in \"disturbed areas.\"",
         "order": 1,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Introduce the Armed Forces Special Powers Act (AFSPA), 1958, an act granting sweeping powers to the military to maintain public order in \"disturbed areas.\""
       },
       {
         "section": "Body",
-        "text": "Examine the criticisms (States/Human Rights view): It is termed draconian because it grants unbridled powers to shoot to kill on mere suspicion, arrest without warrants, and provides immunity from civilian prosecution. Critics argue this violates fundamental rights (Article 21) and breeds alienation and fake encounters (e.g., controversies in Manipur and J&K).",
         "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Examine the criticisms (States/Human Rights view): It is termed draconian because it grants unbridled powers to shoot to kill on mere suspicion, arrest without warrants, and provides immunity from civilian prosecution. Critics argue this violates fundamental rights (Article 21) and breeds alienation and fake encounters (e.g., controversies in Manipur and J&K)."
       },
       {
         "section": "Body",
-        "text": "Examine the defense (Security forces view): The military argues that AFSPA is an absolute operational necessity in hostile, asymmetric warfare zones where state police machinery has collapsed, providing the legal protection needed to combat heavily armed insurgents and cross-border terrorists without fear of endless litigation.",
         "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Examine the defense (Security forces view): The military argues that AFSPA is an absolute operational necessity in hostile, asymmetric warfare zones where state police machinery has collapsed, providing the legal protection needed to combat heavily armed insurgents and cross-border terrorists without fear of endless litigation."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while security is paramount, the prolonged imposition of AFSPA is counterproductive. Recommendations of the Jeevan Reddy Committee to repeal or humane-ize the act should be considered to balance national security with constitutional morality.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Conclude that while security is paramount, the prolonged imposition of AFSPA is counterproductive. Recommendations of the Jeevan Reddy Committee to repeal or humane-ize the act should be considered to balance national security with constitutional morality."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_GS3_Q4",
-    "paper_title": "General Studies Paper 3",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 4,
+    "year": 2019,
+    "paper_title": "GS Paper 3",
+    "q_number": "4",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
-    "last_updated": 1778964500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
     "question_text": "What do you mean by 'Inclusive Growth'? How inclusive growth is helpful in reducing poverty and inequalities in India? Explain.",
     "subjectId": "economy",
     "subjects": [
@@ -198,51 +195,50 @@
       "Inclusive growth"
     ],
     "keyPointers": [
-      "Growth whose gains reach the poor",
-      "It helps poverty if jobs and a service arrive",
-      "It helps inequality only if the share is designed",
-      "Helpful, and not automatic"
+      "Inclusive growth",
+      "Poverty and nutrition",
+      "Inequality"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It is a rise that the left-out person shares",
+      "It helps poverty when a job and a service actually arrive",
+      "It helps inequality only if the share is not only a transfer"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define 'Inclusive Growth' as an economic development model that ensures the benefits of growth are distributed fairly across society, creating opportunities for all segments, especially the marginalized.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Define 'Inclusive Growth' as an economic development model that ensures the benefits of growth are distributed fairly across society, creating opportunities for all segments, especially the marginalized."
       },
       {
         "section": "Body",
-        "text": "Explain its role in reducing poverty: Inclusive growth focuses heavily on labor-intensive sectors (like MSMEs and agriculture) and skill development, providing direct employment and income to the poor, thereby lifting them above the poverty line rather than relying solely on trickle-down economics.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Explain its role in reducing poverty: Inclusive growth focuses heavily on labor-intensive sectors (like MSMEs and agriculture) and skill development, providing direct employment and income to the poor, thereby lifting them above the poverty line rather than relying solely on trickle-down economics."
       },
       {
         "section": "Body",
-        "text": "Explain its role in reducing inequalities: It bridges regional and social disparities through financial inclusion (PMJDY), equitable access to health and education (Ayushman Bharat, RTE), and targeted empowerment of women and Dalits, reducing wealth and opportunity gaps.",
         "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Explain its role in reducing inequalities: It bridges regional and social disparities through financial inclusion (PMJDY), equitable access to health and education (Ayushman Bharat, RTE), and targeted empowerment of women and Dalits, reducing wealth and opportunity gaps."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that inclusive growth is the only sustainable pathway for India to achieve its Sustainable Development Goals (SDGs) and ensure long-term socio-political stability.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Conclude that inclusive growth is the only sustainable pathway for India to achieve its Sustainable Development Goals (SDGs) and ensure long-term socio-political stability."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_GS3_Q5",
-    "paper_title": "General Studies Paper 3",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 5,
+    "year": 2019,
+    "paper_title": "GS Paper 3",
+    "q_number": "5",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
-    "last_updated": 1778964500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
     "question_text": "Explain the impact of green revolution on small and marginal farmers.",
     "subjectId": "agri",
     "subjects": [
@@ -256,69 +252,66 @@
       "Green revolution and small farmers"
     ],
     "keyPointers": [
-      "Yield rose where water and the input could be bought",
-      "The small farmer gained less and took more debt",
-      "Impact was uneven",
-      "Explain who was left at the edge"
+      "Small and marginal farmers",
+      "Food security",
+      "Farmer income",
+      "Irrigation"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A seed, a water and a fertiliser raised the yield",
+      "The small farmer gained where he could buy the package",
+      "Many could not, so the impact was a larger gap inside the village"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Green Revolution (1960s) which introduced High Yielding Variety (HYV) seeds, chemical fertilizers, and modern irrigation, transforming India from a food-deficit to a food-surplus nation.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Introduce the Green Revolution (1960s) which introduced High Yielding Variety (HYV) seeds, chemical fertilizers, and modern irrigation, transforming India from a food-deficit to a food-surplus nation."
       },
       {
         "section": "Body",
-        "text": "Explain the positive impacts: It successfully eradicated famines, ensured national food security, and provided initial surges in crop yields and income even for smaller plots that adopted the technology.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Explain the positive impacts: It successfully eradicated famines, ensured national food security, and provided initial surges in crop yields and income even for smaller plots that adopted the technology."
       },
       {
         "section": "Body",
-        "text": "Explain the negative/limiting impacts on small/marginal farmers: The technology was highly capital-intensive.",
-        "cite": "UPPSC Mains 2019 GS Paper 3",
-        "order": 3
+        "order": 3,
+        "text": "Explain the negative/limiting impacts on small/marginal farmers: The technology was highly capital-intensive."
       },
       {
         "section": "Body",
-        "text": "Small farmers, lacking access to institutional credit, were forced to rely on moneylenders to buy expensive inputs.",
-        "cite": "UPPSC Mains 2019 GS Paper 3",
-        "order": 4
+        "order": 4,
+        "text": "Small farmers, lacking access to institutional credit, were forced to rely on moneylenders to buy expensive inputs."
       },
       {
         "section": "Body",
-        "text": "This led to severe indebtedness.",
-        "cite": "UPPSC Mains 2019 GS Paper 3",
-        "order": 5
+        "order": 5,
+        "text": "This led to severe indebtedness."
       },
       {
         "section": "Body",
-        "text": "Furthermore, it favored large landowners, widening rural inequality, while the excessive use of chemicals degraded the long-term soil health of their small plots.",
-        "cite": "UPPSC Mains 2019 GS Paper 3",
-        "order": 6
+        "order": 6,
+        "text": "Furthermore, it favored large landowners, widening rural inequality, while the excessive use of chemicals degraded the long-term soil health of their small plots."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while the Green Revolution saved India from starvation, its uneven benefits necessitate a shift toward an 'Evergreen Revolution' focused on the economic and ecological sustainability of smallholder farmers.",
         "order": 7,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Conclude that while the Green Revolution saved India from starvation, its uneven benefits necessitate a shift toward an 'Evergreen Revolution' focused on the economic and ecological sustainability of smallholder farmers."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_GS3_Q6",
-    "paper_title": "General Studies Paper 3",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 6,
+    "year": 2019,
+    "paper_title": "GS Paper 3",
+    "q_number": "6",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
-    "last_updated": 1778964500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
     "question_text": "Discuss how poverty is measured in India. Examine the steps taken to overcome the rural poverty in India.",
     "subjectId": "economy",
     "subjects": [
@@ -332,51 +325,50 @@
       "Measuring and reducing rural poverty"
     ],
     "keyPointers": [
-      "A line of income or consumption",
-      "Steps: work, food, a house, a transfer",
-      "Examine whether the step reached the village",
-      "Measurement and the programme are different"
+      "Poverty and nutrition",
+      "Welfare state",
+      "Inclusive growth"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It is measured by what a household can spend, and by wider lacks",
+      "A wage, a ration and a livelihood are the rural steps",
+      "Measurement and the scheme are two different things"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce poverty measurement in India, noting its historical evolution from a pure calorie-intake basis to a broader multidimensional approach.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Introduce poverty measurement in India, noting its historical evolution from a pure calorie-intake basis to a broader multidimensional approach."
       },
       {
         "section": "Body",
-        "text": "Discuss how it is measured: Traditionally, it was estimated via the Poverty Line based on Monthly Per Capita Consumption Expenditure (MPCE) using NSSO data (e.g., Tendulkar and Rangarajan Committees). Currently, NITI Aayog utilizes the Multidimensional Poverty Index (MPI), capturing deprivations in health, education, and living standards.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Discuss how it is measured: Traditionally, it was estimated via the Poverty Line based on Monthly Per Capita Consumption Expenditure (MPCE) using NSSO data (e.g., Tendulkar and Rangarajan Committees). Currently, NITI Aayog utilizes the Multidimensional Poverty Index (MPI), capturing deprivations in health, education, and living standards."
       },
       {
         "section": "Body",
-        "text": "Examine steps taken to overcome rural poverty: Wage employment programs (MGNREGA guaranteeing 100 days of work), self-employment and micro-credit initiatives (Deendayal Antyodaya Yojana-NRLM), income support to farmers (PM-KISAN), and housing/food security schemes (PMAY-G, NFSA).",
         "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Examine steps taken to overcome rural poverty: Wage employment programs (MGNREGA guaranteeing 100 days of work), self-employment and micro-credit initiatives (Deendayal Antyodaya Yojana-NRLM), income support to farmers (PM-KISAN), and housing/food security schemes (PMAY-G, NFSA)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while absolute poverty has declined significantly, sustained efforts in rural infrastructure and agro-processing are required to eradicate chronic structural poverty.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Conclude that while absolute poverty has declined significantly, sustained efforts in rural infrastructure and agro-processing are required to eradicate chronic structural poverty."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_GS3_Q7",
-    "paper_title": "General Studies Paper 3",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 7,
+    "year": 2019,
+    "paper_title": "GS Paper 3",
+    "q_number": "7",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
-    "last_updated": 1778964500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
     "question_text": "What are the causes of industrial sickness in India? Give suitable suggestions to overcome the problem.",
     "subjectId": "economy",
     "subjects": [
@@ -390,51 +382,50 @@
       "Industrial sickness"
     ],
     "keyPointers": [
-      "A bad management, a lost market, old technology and a debt",
-      "Sickness is a unit that cannot pay its way",
-      "Suggestions: a timely exit, a credit that is not a trap, and a skill",
-      "Overcome means revive or close cleanly"
+      "Manufacturing",
+      "Ease of doing business",
+      "Informal economy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "An old machine, a missing demand and a credit that does not come are the causes",
+      "A sick unit stops paying and stops hiring",
+      "The suggestion is a revival where the firm can live, and a closure where it cannot"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define industrial sickness as an economic condition where an industrial unit incurs accumulated losses equal to or exceeding its net worth, leading to non-performing assets (NPAs) and job losses.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Define industrial sickness as an economic condition where an industrial unit incurs accumulated losses equal to or exceeding its net worth, leading to non-performing assets (NPAs) and job losses."
       },
       {
         "section": "Body",
-        "text": "Discuss the causes: Internal causes include poor management, obsolete technology, diversion of funds, and strained labor relations. External causes include severe power shortages, delayed institutional credit, restrictive labor laws, and sudden shifts in global market competition (e.g., cheap imports).",
         "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Discuss the causes: Internal causes include poor management, obsolete technology, diversion of funds, and strained labor relations. External causes include severe power shortages, delayed institutional credit, restrictive labor laws, and sudden shifts in global market competition (e.g., cheap imports)."
       },
       {
         "section": "Body",
-        "text": "Give suitable suggestions: Facilitate swift resolution or liquidation via the Insolvency and Bankruptcy Code (IBC) 2016. Provide timely working capital assistance, launch technology upgradation funds for MSMEs, and implement flexible labor codes.",
         "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Give suitable suggestions: Facilitate swift resolution or liquidation via the Insolvency and Bankruptcy Code (IBC) 2016. Provide timely working capital assistance, launch technology upgradation funds for MSMEs, and implement flexible labor codes."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that a proactive early warning system by banks and dynamic industrial policies are crucial to prevent sickness and protect the manufacturing ecosystem.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Conclude that a proactive early warning system by banks and dynamic industrial policies are crucial to prevent sickness and protect the manufacturing ecosystem."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_GS3_Q8",
-    "paper_title": "General Studies Paper 3",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 8,
+    "year": 2019,
+    "paper_title": "GS Paper 3",
+    "q_number": "8",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
-    "last_updated": 1778964500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
     "question_text": "Discuss the causes of energy crisis in India",
     "subjectId": "energyenv",
     "subjects": [
@@ -448,121 +439,117 @@
       "Energy crisis"
     ],
     "keyPointers": [
-      "Demand rising faster than a reliable supply",
-      "Import dependence and a weak distribution",
-      "Causes are fuel, price and a wasteful use",
-      "Discuss more than one shortage"
+      "Energy access",
+      "Renewable energy",
+      "Sustainable development"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A rising demand, a coal dependence and a loss in the wire are the causes",
+      "The crisis is a shortage and also a price",
+      "A cause that is only blamed on the consumer is incomplete"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define the energy crisis as the persistent gap between the soaring energy demand of India's rapidly growing economy and its constrained domestic supply.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Define the energy crisis as the persistent gap between the soaring energy demand of India's rapidly growing economy and its constrained domestic supply."
       },
       {
         "section": "Body",
-        "text": "Discuss supply-side and structural causes: Heavy reliance on imported crude oil (over 80%) making the economy vulnerable to geopolitical shocks.",
-        "cite": "UPPSC Mains 2019 GS Paper 3",
-        "order": 2
+        "order": 2,
+        "text": "Discuss supply-side and structural causes: Heavy reliance on imported crude oil (over 80%) making the economy vulnerable to geopolitical shocks."
       },
       {
         "section": "Body",
-        "text": "Domestically, there is a heavy dependence on coal, which suffers from logistical bottlenecks and environmental restrictions.",
-        "cite": "UPPSC Mains 2019 GS Paper 3",
-        "order": 3
+        "order": 3,
+        "text": "Domestically, there is a heavy dependence on coal, which suffers from logistical bottlenecks and environmental restrictions."
       },
       {
         "section": "Body",
-        "text": "Furthermore, India faces massive Aggregate Technical & Commercial (AT&C) losses and severe financial distress among state DISCOMs..",
-        "cite": "UPPSC Mains 2019 GS Paper 3",
-        "order": 4
+        "order": 4,
+        "text": "Furthermore, India faces massive Aggregate Technical & Commercial (AT&C) losses and severe financial distress among state DISCOMs.."
       },
       {
         "section": "Body",
-        "text": "Discuss demand-side causes: Rapid urbanization, rising middle-class consumerism, widespread rural electrification, and inefficient energy consumption practices drive unprecedented demand surges.",
         "order": 5,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Discuss demand-side causes: Rapid urbanization, rising middle-class consumerism, widespread rural electrification, and inefficient energy consumption practices drive unprecedented demand surges."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that resolving the crisis requires aggressive diversification into renewable energy (solar/wind), overhauling DISCOM finances, and improving grid efficiency.",
         "order": 6,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Conclude that resolving the crisis requires aggressive diversification into renewable energy (solar/wind), overhauling DISCOM finances, and improving grid efficiency."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_GS3_Q9",
-    "paper_title": "General Studies Paper 3",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 9,
+    "year": 2019,
+    "paper_title": "GS Paper 3",
+    "q_number": "9",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
-    "last_updated": 1778964500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
     "question_text": "Define Biodiversity. why are tropical countries rich in biodiversity? Explain.",
-    "subjectId": "geo",
+    "subjectId": "energyenv",
     "subjects": [
-      "Geography"
+      "Environment & Ecology"
     ],
-    "topic": "Environment",
+    "topic": "Why the tropics hold more life",
     "topics": [
-      "Environment"
+      "Why the tropics hold more life"
     ],
     "subTopics": [
       "Tropical biodiversity"
     ],
     "keyPointers": [
-      "The variety of life in a place",
-      "Tropics: steady warmth, rain and a long time without ice",
-      "Define, then the reason",
-      "Richness is climate and history"
+      "Biodiversity loss",
+      "Climate and agriculture",
+      "Forest conservation"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Biodiversity is the variety of life in a place",
+      "A steady warmth, a rain and a long time without an ice age let more species stay",
+      "Rich is a climate and a history, not an accident"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define biodiversity as the variety and variability of life on Earth, encompassing genetic, species, and ecosystem diversity.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Define biodiversity as the variety and variability of life on Earth, encompassing genetic, species, and ecosystem diversity."
       },
       {
         "section": "Body",
-        "text": "Explain climatic and evolutionary reasons: Tropical regions receive abundant and direct solar energy year-round, leading to high biological productivity. Furthermore, unlike temperate regions subjected to frequent glaciation during the Ice Ages, the tropics have remained relatively undisturbed for millions of years, allowing prolonged evolutionary time for speciation.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Explain climatic and evolutionary reasons: Tropical regions receive abundant and direct solar energy year-round, leading to high biological productivity. Furthermore, unlike temperate regions subjected to frequent glaciation during the Ice Ages, the tropics have remained relatively undisturbed for millions of years, allowing prolonged evolutionary time for speciation."
       },
       {
         "section": "Body",
-        "text": "Explain environmental stability: The tropical environment is less seasonal and highly predictable. This stability allows species to evolve highly specialized ecological niches, reducing direct competition and supporting a denser packing of diverse species.",
         "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Explain environmental stability: The tropical environment is less seasonal and highly predictable. This stability allows species to evolve highly specialized ecological niches, reducing direct competition and supporting a denser packing of diverse species."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that these unique conditions make tropical countries the 'ecological engines' of the planet, housing mega-diverse hotspots that require urgent global conservation.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Conclude that these unique conditions make tropical countries the 'ecological engines' of the planet, housing mega-diverse hotspots that require urgent global conservation."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_GS3_Q10",
-    "paper_title": "General Studies Paper 3",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 10,
+    "year": 2019,
+    "paper_title": "GS Paper 3",
+    "q_number": "10",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
-    "last_updated": 1778964500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
     "question_text": "What are 'digital rights'? Discuss their objectives.",
     "subjectId": "stech",
     "subjects": [
@@ -576,51 +563,50 @@
       "Digital rights"
     ],
     "keyPointers": [
-      "Privacy, access, and a protection from abuse online",
-      "Objectives: the citizen is not helpless on a network",
-      "Discuss the rights, not only a crime",
-      "They extend older rights into the digital life"
+      "Data protection",
+      "Cyber security",
+      "Freedom of speech and its limits"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "They are the rights a person has over his data, his speech and his access online",
+      "The objective is a use that does not become a control",
+      "A right on a screen still needs a law that can be enforced"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define 'digital rights' as human rights that allow individuals to access, use, create, and publish digital media, essentially the extension of fundamental rights into the cyberspace domain.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Define 'digital rights' as human rights that allow individuals to access, use, create, and publish digital media, essentially the extension of fundamental rights into the cyberspace domain."
       },
       {
         "section": "Body",
-        "text": "Discuss the objectives regarding access and expression: The primary objective is to guarantee universal and equitable access to the internet, preventing the digital divide. It also aims to protect freedom of speech and expression online, safeguarding citizens from unwarranted state censorship or internet shutdowns.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Discuss the objectives regarding access and expression: The primary objective is to guarantee universal and equitable access to the internet, preventing the digital divide. It also aims to protect freedom of speech and expression online, safeguarding citizens from unwarranted state censorship or internet shutdowns."
       },
       {
         "section": "Body",
-        "text": "Discuss the objectives regarding privacy: A core objective is ensuring robust data protection and privacy (as highlighted by the Puttaswamy judgment). This includes the right to be forgotten, protection against unauthorized mass surveillance, and preventing the commercial exploitation of personal data by tech monopolies.",
         "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Discuss the objectives regarding privacy: A core objective is ensuring robust data protection and privacy (as highlighted by the Puttaswamy judgment). This includes the right to be forgotten, protection against unauthorized mass surveillance, and preventing the commercial exploitation of personal data by tech monopolies."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that legally encoding and protecting digital rights is indispensable for maintaining a free, fair, and participatory democracy in the 21st century.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Conclude that legally encoding and protecting digital rights is indispensable for maintaining a free, fair, and participatory democracy in the 21st century."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_GS3_Q11",
-    "paper_title": "General Studies Paper 3",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 11,
+    "year": 2019,
+    "paper_title": "GS Paper 3",
+    "q_number": "11",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
-    "last_updated": 1778964500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
     "question_text": "\"With unbridled escalation in the international terrorism activities during the past two decades a grave threat looms large before world peace. Every nation has to join hand in the global fight unto the last against it.\" Explain this statement.",
     "subjectId": "security",
     "subjects": [
@@ -634,51 +620,50 @@
       "International terrorism and the response"
     ],
     "keyPointers": [
-      "Networks that cross a border",
-      "A global response of law, intelligence and a contested war",
-      "The escalation is real; the response is uneven",
-      "Discuss both"
+      "Terrorism",
+      "Multilateralism",
+      "Strategic autonomy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A network that crosses borders has grown over two decades",
+      "Peace is threatened because a civilian is the target and a state is not always the actor",
+      "Every country is asked to share intelligence, and not every country will"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Contextualize the statement by highlighting the evolution of terrorism post-9/11 from localized insurgencies to borderless, transnational syndicate operations (e.g., Al-Qaeda, ISIS) representing a severe threat to the global world order.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Contextualize the statement by highlighting the evolution of terrorism post-9/11 from localized insurgencies to borderless, transnational syndicate operations (e.g., Al-Qaeda, ISIS) representing a severe threat to the global world order."
       },
       {
         "section": "Body",
-        "text": "Explain the unbridled escalation and grave threat: Modern terrorism leverages globalization, utilizing the dark web for radicalization, cryptocurrencies for terror financing, and drones for asymmetric attacks. The persistent fear is the acquisition of Weapons of Mass Destruction (WMDs) by non-state actors, which could trigger catastrophic regional wars.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Explain the unbridled escalation and grave threat: Modern terrorism leverages globalization, utilizing the dark web for radicalization, cryptocurrencies for terror financing, and drones for asymmetric attacks. The persistent fear is the acquisition of Weapons of Mass Destruction (WMDs) by non-state actors, which could trigger catastrophic regional wars."
       },
       {
         "section": "Body",
-        "text": "Explain the necessity of joining hands: Terrorism knows no borders; a terror cell trained in one nation can execute an attack in another, rendering isolated national defense policies ineffective. Global cooperation is essential for real-time intelligence sharing, dismantling terror-financing networks (via FATF), and extinguishing state-sponsored proxy terrorism.",
         "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Explain the necessity of joining hands: Terrorism knows no borders; a terror cell trained in one nation can execute an attack in another, rendering isolated national defense policies ineffective. Global cooperation is essential for real-time intelligence sharing, dismantling terror-financing networks (via FATF), and extinguishing state-sponsored proxy terrorism."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the statement is an urgent call for multilateral action, underscoring India's long-standing demand for the adoption of the Comprehensive Convention on International Terrorism (CCIT) at the UN.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Conclude that the statement is an urgent call for multilateral action, underscoring India's long-standing demand for the adoption of the Comprehensive Convention on International Terrorism (CCIT) at the UN."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_GS3_Q12",
-    "paper_title": "General Studies Paper 3",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 12,
+    "year": 2019,
+    "paper_title": "GS Paper 3",
+    "q_number": "12",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
-    "last_updated": 1778964500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
     "question_text": "\"Nuclear deterrence is the only effective alternative to counter the deadly genocidal nuclear weapons.\" Analytically explain this statement.",
     "subjectId": "security",
     "subjects": [
@@ -692,51 +677,49 @@
       "Nuclear deterrence"
     ],
     "keyPointers": [
-      "Deterrence can prevent a use by threatening a reply",
-      "It is not the only path: a treaty, a control and a no-first-use",
-      "The statement is too absolute",
-      "Examine the alternative and the limit"
+      "Nuclear technology",
+      "Strategic autonomy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A weapon that is not used can stop another from being used",
+      "Deterrence is that threat, and it is not a defence after the launch",
+      "The statement is a doctrine, and it has a risk of a mistake"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define nuclear deterrence as a strategic doctrine where a state possesses nuclear weapons not to use them offensively, but to instill a credible fear of unacceptable retaliation (Mutually Assured Destruction - MAD) in the minds of adversaries.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Define nuclear deterrence as a strategic doctrine where a state possesses nuclear weapons not to use them offensively, but to instill a credible fear of unacceptable retaliation (Mutually Assured Destruction - MAD) in the minds of adversaries."
       },
       {
         "section": "Body",
-        "text": "Analyze its effectiveness: Historically, since WWII, deterrence has successfully prevented direct military confrontation between major superpowers during the Cold War. In regional contexts (like India-Pakistan), the presence of a nuclear triad (second-strike capability) ensures that conventional skirmishes do not escalate into full-scale genocidal wars.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Analyze its effectiveness: Historically, since WWII, deterrence has successfully prevented direct military confrontation between major superpowers during the Cold War. In regional contexts (like India-Pakistan), the presence of a nuclear triad (second-strike capability) ensures that conventional skirmishes do not escalate into full-scale genocidal wars."
       },
       {
         "section": "Body",
-        "text": "Analyze the limitations and paradox: While effective, relying perpetually on deterrence is precarious. It fuels continuous arms races and vertical proliferation. It is entirely ineffective against irrational non-state actors (terrorists) and always carries the catastrophic risk of an accidental launch or cyber-hijacking.",
         "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Analyze the limitations and paradox: While effective, relying perpetually on deterrence is precarious. It fuels continuous arms races and vertical proliferation. It is entirely ineffective against irrational non-state actors (terrorists) and always carries the catastrophic risk of an accidental launch or cyber-hijacking."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while nuclear deterrence remains the only pragmatic operational strategy in a nuclear-armed world, it is ultimately a stop-gap measure; true global safety requires verifiable, universal nuclear disarmament.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Conclude that while nuclear deterrence remains the only pragmatic operational strategy in a nuclear-armed world, it is ultimately a stop-gap measure; true global safety requires verifiable, universal nuclear disarmament."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_GS3_Q13",
-    "paper_title": "General Studies Paper 3",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 13,
+    "year": 2019,
+    "paper_title": "GS Paper 3",
+    "q_number": "13",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
-    "last_updated": 1778964500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
     "question_text": "\"How far social media can be utilized as a significant tool in strengthening national security?\" Explain.",
     "subjectId": "security",
     "subjects": [
@@ -750,51 +733,50 @@
       "Social media and national security"
     ],
     "keyPointers": [
-      "It can warn, inform and expose",
-      "It can also spread a panic and a recruitment",
-      "How far: a tool, not a substitute for intelligence",
-      "Explain the limit"
+      "Cyber security",
+      "Media and socialisation",
+      "Cyber attacks"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A platform can carry a warning and a rumour at the same speed",
+      "It can strengthen security by a quick alert and a public eye",
+      "It can also recruit and panic, so the use has a limit"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce social media as an immensely powerful, real-time communication medium that operates as a double-edged sword, possessing profound utility for enhancing national security apparatuses.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Introduce social media as an immensely powerful, real-time communication medium that operates as a double-edged sword, possessing profound utility for enhancing national security apparatuses."
       },
       {
         "section": "Body",
-        "text": "Explain utilization in intelligence and law enforcement: Security agencies heavily utilize social media for Open Source Intelligence (OSINT). Sentiment analysis algorithms help in predictive policing, tracking radicalization networks, identifying sleeper cells, and monitoring the movement of hostile state/non-state actors.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Explain utilization in intelligence and law enforcement: Security agencies heavily utilize social media for Open Source Intelligence (OSINT). Sentiment analysis algorithms help in predictive policing, tracking radicalization networks, identifying sleeper cells, and monitoring the movement of hostile state/non-state actors."
       },
       {
         "section": "Body",
-        "text": "Explain utilization in crisis management and counter-propaganda: During disasters or terror attacks, it is the fastest tool for mass communication, issuing warnings, and coordinating rescue operations. The state can also use it effectively to debunk fake news, counter adversarial psychological warfare, and build national solidarity.",
         "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Explain utilization in crisis management and counter-propaganda: During disasters or terror attacks, it is the fastest tool for mass communication, issuing warnings, and coordinating rescue operations. The state can also use it effectively to debunk fake news, counter adversarial psychological warfare, and build national solidarity."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that to maximize its utility as a security tool, the state must establish robust cyber-forensic capabilities (like Cyber Domes) while strictly adhering to democratic data privacy norms.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Conclude that to maximize its utility as a security tool, the state must establish robust cyber-forensic capabilities (like Cyber Domes) while strictly adhering to democratic data privacy norms."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_GS3_Q14",
-    "paper_title": "General Studies Paper 3",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 14,
+    "year": 2019,
+    "paper_title": "GS Paper 3",
+    "q_number": "14",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
-    "last_updated": 1778964500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
     "question_text": "What is 'New' in New Industrial Policy? In this context, state the features of new industrial policy and explain its effects on th industrial growth.",
     "subjectId": "economy",
     "subjects": [
@@ -808,57 +790,55 @@
       "New industrial policy"
     ],
     "keyPointers": [
-      "A shift from licence and a closed market toward competition and an open investment",
-      "Features: less control, more private role",
-      "New is the direction, not one scheme",
-      "State the features"
+      "Manufacturing",
+      "Ease of doing business",
+      "Economic growth"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "New was an opening to private and foreign capital and a smaller licence raj",
+      "The features were a delicensing and a push to compete",
+      "The effect on growth was real, and it was not even across industries"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Contextualize the New Industrial Policy of 1991, which was introduced amidst a severe Balance of Payments crisis, marking a watershed moment in India's macroeconomic trajectory by shifting from a closed to an open economy.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Contextualize the New Industrial Policy of 1991, which was introduced amidst a severe Balance of Payments crisis, marking a watershed moment in India's macroeconomic trajectory by shifting from a closed to an open economy."
       },
       {
         "section": "Body",
-        "text": "State the 'New' features: It fundamentally dismantled the restrictive 'License Raj', abolished industrial licensing for almost all sectors, drastically reduced the industries reserved exclusively for the public sector, and removed asset limits under the MRTP Act. It also introduced automatic approval for Foreign Direct Investment (FDI) and foreign technology agreements.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "State the 'New' features: It fundamentally dismantled the restrictive 'License Raj', abolished industrial licensing for almost all sectors, drastically reduced the industries reserved exclusively for the public sector, and removed asset limits under the MRTP Act. It also introduced automatic approval for Foreign Direct Investment (FDI) and foreign technology agreements."
       },
       {
         "section": "Body",
-        "text": "Explain the effects on industrial growth: It ended state monopolies, ushering in intense competition which improved product quality and consumer choice. It triggered massive growth in the service and IT sectors and facilitated rapid technology transfer.",
-        "cite": "UPPSC Mains 2019 GS Paper 3",
-        "order": 3
+        "order": 3,
+        "text": "Explain the effects on industrial growth: It ended state monopolies, ushering in intense competition which improved product quality and consumer choice. It triggered massive growth in the service and IT sectors and facilitated rapid technology transfer."
       },
       {
         "section": "Body",
-        "text": "However, traditional, uncompetitive manufacturing sectors suffered, and the expected massive surge in the manufacturing GDP share remained elusive.",
-        "cite": "UPPSC Mains 2019 GS Paper 3",
-        "order": 4
+        "order": 4,
+        "text": "However, traditional, uncompetitive manufacturing sectors suffered, and the expected massive surge in the manufacturing GDP share remained elusive."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the policy successfully liberated the entrepreneurial spirit of India, laying the structural foundation for the country to become one of the fastest-growing global economies.",
         "order": 5,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Conclude that the policy successfully liberated the entrepreneurial spirit of India, laying the structural foundation for the country to become one of the fastest-growing global economies."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_GS3_Q15",
-    "paper_title": "General Studies Paper 3",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 15,
+    "year": 2019,
+    "paper_title": "GS Paper 3",
+    "q_number": "15",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
-    "last_updated": 1778964500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
     "question_text": "Discuss as to what extent the policy of economic growth with equality and distributive justice has been successful in the fulfilment of the objectives of inclusive growth in India.",
     "subjectId": "economy",
     "subjects": [
@@ -872,121 +852,117 @@
       "Growth, equality and distributive justice"
     ],
     "keyPointers": [
-      "Output rose",
-      "The share did not spread equally",
-      "How far: partial",
-      "Discuss the gap between the aim and the result"
+      "Inclusive growth",
+      "Inequality",
+      "Economic growth"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The objective was a rise that was also shared",
+      "Success is partial: poverty fell, and the gap did not",
+      "Extent is the honest word"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define the policy of economic growth with equality and distributive justice as a core constitutional mandate (DPSP), aiming to ensure that national wealth does not concentrate in a few hands but fuels inclusive growth.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Define the policy of economic growth with equality and distributive justice as a core constitutional mandate (DPSP), aiming to ensure that national wealth does not concentrate in a few hands but fuels inclusive growth."
       },
       {
         "section": "Body",
-        "text": "Discuss the extent of success: State interventions through affirmative action, massive food security nets (NFSA), rural wage guarantees (MGNREGA), and the JAM trinity have successfully pulled millions out of absolute, multidimensional poverty and brought the unbanked into the formal financial fold.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Discuss the extent of success: State interventions through affirmative action, massive food security nets (NFSA), rural wage guarantees (MGNREGA), and the JAM trinity have successfully pulled millions out of absolute, multidimensional poverty and brought the unbanked into the formal financial fold."
       },
       {
         "section": "Body",
-        "text": "Discuss the limitations and ongoing failures: Despite these policies, the trickle-down effect has been highly asymmetric. India exhibits extreme wealth concentration (as highlighted by Oxfam reports), persistent 'jobless growth' in the formal sector, and severe rural-urban and inter-state disparities in basic health and educational outcomes.",
         "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Discuss the limitations and ongoing failures: Despite these policies, the trickle-down effect has been highly asymmetric. India exhibits extreme wealth concentration (as highlighted by Oxfam reports), persistent 'jobless growth' in the formal sector, and severe rural-urban and inter-state disparities in basic health and educational outcomes."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while the policy has established basic survival safety nets, achieving true inclusive growth requires a shift towards aggressive labor-intensive industrialization and substantial investments in human capital.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Conclude that while the policy has established basic survival safety nets, achieving true inclusive growth requires a shift towards aggressive labor-intensive industrialization and substantial investments in human capital."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_GS3_Q16",
-    "paper_title": "General Studies Paper 3",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 16,
+    "year": 2019,
+    "paper_title": "GS Paper 3",
+    "q_number": "16",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
-    "last_updated": 1778964500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
     "question_text": "Critically explain the issue of educated unemployment in U.P.",
-    "subjectId": "up-economy",
+    "subjectId": "economy",
     "subjects": [
-      "UP Economy & Agri"
+      "Economy & Development"
     ],
-    "topic": "UP Economy",
+    "topic": "Educated people without work in the state",
     "topics": [
-      "UP Economy"
+      "Educated people without work in the state"
     ],
     "subTopics": [
       "Educated unemployment in UP"
     ],
     "keyPointers": [
-      "A degree without a job the economy will hire",
-      "Causes: a mismatch, a thin industry and a chase of a government post",
-      "Critically explain",
-      "The problem is the educated who are idle, not only the unskilled"
+      "Unemployment",
+      "Skill and employability",
+      "Education and social change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A degree that a firm will not hire is the issue",
+      "The state produces graduates faster than formal jobs",
+      "Critical means a coaching town is not the same as an employed one"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Acknowledge the paradox in Uttar Pradesh: despite rising literacy rates and an expanding youth demographic, the state faces an acute crisis of educated unemployment.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Acknowledge the paradox in Uttar Pradesh: despite rising literacy rates and an expanding youth demographic, the state faces an acute crisis of educated unemployment."
       },
       {
         "section": "Body",
-        "text": "Explain the causes: The primary issue is the severe skill mismatch.",
-        "cite": "UPPSC Mains 2019 GS Paper 3",
-        "order": 2
+        "order": 2,
+        "text": "Explain the causes: The primary issue is the severe skill mismatch."
       },
       {
         "section": "Body",
-        "text": "archaic university curricula fail to impart modern, industry-relevant vocational skills. There is a deeply entrenched socio-cultural preference for scarce government jobs over private entrepreneurship. Furthermore, historically sluggish industrial growth (especially in Purvanchal).",
-        "cite": "UPPSC Mains 2019 GS Paper 3",
-        "order": 3
+        "order": 3,
+        "text": "archaic university curricula fail to impart modern, industry-relevant vocational skills. There is a deeply entrenched socio-cultural preference for scarce government jobs over private entrepreneurship. Furthermore, historically sluggish industrial growth (especially in Purvanchal)."
       },
       {
         "section": "Body",
-        "text": "limits the absorption capacity for graduates.",
-        "cite": "UPPSC Mains 2019 GS Paper 3",
-        "order": 4
+        "order": 4,
+        "text": "limits the absorption capacity for graduates."
       },
       {
         "section": "Body",
-        "text": "Explain the critical impacts: This leads to intense youth frustration, a massive 'brain drain' of skilled talent to other states, and the under-utilization of UP's demographic dividend, which drags down the state's overall economic potential.",
         "order": 5,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Explain the critical impacts: This leads to intense youth frustration, a massive 'brain drain' of skilled talent to other states, and the under-utilization of UP's demographic dividend, which drags down the state's overall economic potential."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that resolving this crisis requires overhauling higher education towards STEM and vocational training, alongside aggressive state initiatives like ODOP to spur local MSME job creation.",
         "order": 6,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Conclude that resolving this crisis requires overhauling higher education towards STEM and vocational training, alongside aggressive state initiatives like ODOP to spur local MSME job creation."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_GS3_Q17",
-    "paper_title": "General Studies Paper 3",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 17,
+    "year": 2019,
+    "paper_title": "GS Paper 3",
+    "q_number": "17",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
-    "last_updated": 1778964500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
     "question_text": "Explain the challenges of food security in India. How can they be removed? Explain.",
     "subjectId": "agri",
     "subjects": [
@@ -1000,63 +976,60 @@
       "Food security challenges"
     ],
     "keyPointers": [
-      "Availability, access and nutrition",
-      "A leak, an excluded household and a price shock",
-      "Removal: a better list, storage and a diverse diet",
-      "Explain the challenge and the step"
+      "Food security",
+      "Poverty and nutrition",
+      "Agricultural marketing"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The grain exists, and a person still goes hungry",
+      "The challenge is a price, a leak and a nutrition that is only a cereal",
+      "Removal needs the food to reach the plate, not only the godown"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define food security not just as caloric availability, but as physical, economic, and social access to safe and nutritious food. While India is self-sufficient in grain production, ensuring universal security remains a challenge.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Define food security not just as caloric availability, but as physical, economic, and social access to safe and nutritious food. While India is self-sufficient in grain production, ensuring universal security remains a challenge."
       },
       {
         "section": "Body",
-        "text": "Explain the challenges: Production is threatened by shrinking landholdings, soil degradation, and climate change-induced erratic monsoons.",
-        "cite": "UPPSC Mains 2019 GS Paper 3",
-        "order": 2
+        "order": 2,
+        "text": "Explain the challenges: Production is threatened by shrinking landholdings, soil degradation, and climate change-induced erratic monsoons."
       },
       {
         "section": "Body",
-        "text": "Distribution is hampered by massive post-harvest losses, inadequate cold-chain infrastructure, and leakages/corruption in the Public Distribution System (PDS).",
-        "cite": "UPPSC Mains 2019 GS Paper 3",
-        "order": 3
+        "order": 3,
+        "text": "Distribution is hampered by massive post-harvest losses, inadequate cold-chain infrastructure, and leakages/corruption in the Public Distribution System (PDS)."
       },
       {
         "section": "Body",
-        "text": "Nutritionally, the heavy focus on cereals has led to a severe crisis of 'hidden hunger' (micronutrient deficiency).",
-        "cite": "UPPSC Mains 2019 GS Paper 3",
-        "order": 4
+        "order": 4,
+        "text": "Nutritionally, the heavy focus on cereals has led to a severe crisis of 'hidden hunger' (micronutrient deficiency)."
       },
       {
         "section": "Body",
-        "text": "Explain how they can be removed: Implement technology-driven PDS (like One Nation One Ration Card) to stop leakages. Promote climate-resilient agriculture and micro-irrigation. Crucially, shift policy focus towards crop diversification, promoting millets, and bio-fortification to address nutritional security.",
         "order": 5,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Explain how they can be removed: Implement technology-driven PDS (like One Nation One Ration Card) to stop leakages. Promote climate-resilient agriculture and micro-irrigation. Crucially, shift policy focus towards crop diversification, promoting millets, and bio-fortification to address nutritional security."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that ensuring food security requires a holistic supply chain overhaul, transitioning from a volume-based agrarian approach to a nutrition-based, sustainable model.",
         "order": 6,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Conclude that ensuring food security requires a holistic supply chain overhaul, transitioning from a volume-based agrarian approach to a nutrition-based, sustainable model."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_GS3_Q18",
-    "paper_title": "General Studies Paper 3",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 18,
+    "year": 2019,
+    "paper_title": "GS Paper 3",
+    "q_number": "18",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
-    "last_updated": 1778964500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
     "question_text": "Evaluate in brief the agriculture marketing reforms in India. Are they adequate?",
     "subjectId": "agri",
     "subjects": [
@@ -1070,63 +1043,60 @@
       "Agricultural marketing reforms"
     ],
     "keyPointers": [
-      "A move beyond the old mandi monopoly",
-      "E-markets and a contract",
-      "Evaluate: the farmer’s price is the test",
-      "Adequate only if the small seller is not weaker"
+      "Agricultural marketing",
+      "Farmer income",
+      "Logistics"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A mandi reform, a contract and an electronic market are the steps",
+      "They are meant to raise what the grower keeps",
+      "Adequate is doubtful where the small farmer still sells to the same trader"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Acknowledge that agricultural marketing is the most critical bottleneck in Indian agriculture, where farmers historically received a fraction of the final consumer price due to the monopolistic and fragmented APMC mandis.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Acknowledge that agricultural marketing is the most critical bottleneck in Indian agriculture, where farmers historically received a fraction of the final consumer price due to the monopolistic and fragmented APMC mandis."
       },
       {
         "section": "Body",
-        "text": "Evaluate recent reforms: The government launched the National Agriculture Market (e-NAM) to digitally integrate mandis for pan-India price discovery. Policies promoting Farmer Producer Organizations (FPOs) have been pushed to enhance collective bargaining power, alongside the PM-AASHA scheme to ensure Minimum Support Price (MSP) realization.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Evaluate recent reforms: The government launched the National Agriculture Market (e-NAM) to digitally integrate mandis for pan-India price discovery. Policies promoting Farmer Producer Organizations (FPOs) have been pushed to enhance collective bargaining power, alongside the PM-AASHA scheme to ensure Minimum Support Price (MSP) realization."
       },
       {
         "section": "Body",
-        "text": "Assess adequacy: These reforms are structurally necessary but currently inadequate.",
-        "cite": "UPPSC Mains 2019 GS Paper 3",
-        "order": 3
+        "order": 3,
+        "text": "Assess adequacy: These reforms are structurally necessary but currently inadequate."
       },
       {
         "section": "Body",
-        "text": "The digital e-NAM relies on physical infrastructure (assaying labs, cold chains) which remains severely deficient.",
-        "cite": "UPPSC Mains 2019 GS Paper 3",
-        "order": 4
+        "order": 4,
+        "text": "The digital e-NAM relies on physical infrastructure (assaying labs, cold chains) which remains severely deficient."
       },
       {
         "section": "Body",
-        "text": "Small farmers lack the digital literacy and transport capacity to bypass local middlemen, and the deep trust deficit regarding corporatization continues to stall market liberalization.",
-        "cite": "UPPSC Mains 2019 GS Paper 3",
-        "order": 5
+        "order": 5,
+        "text": "Small farmers lack the digital literacy and transport capacity to bypass local middlemen, and the deep trust deficit regarding corporatization continues to stall market liberalization."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while digital platforms provide the architecture, true marketing reform requires massive state investment in grassroots warehousing and rural road connectivity.",
         "order": 6,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Conclude that while digital platforms provide the architecture, true marketing reform requires massive state investment in grassroots warehousing and rural road connectivity."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_GS3_Q19",
-    "paper_title": "General Studies Paper 3",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 19,
+    "year": 2019,
+    "paper_title": "GS Paper 3",
+    "q_number": "19",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
-    "last_updated": 1778964500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
     "question_text": "What is cloud computing? Show light on the services rendered by cloud computing and enlist its advantages.",
     "subjectId": "stech",
     "subjects": [
@@ -1140,51 +1110,49 @@
       "Cloud computing"
     ],
     "keyPointers": [
-      "Computing and storage hired over the network",
-      "Services: infrastructure, a platform and software",
-      "Advantages: scale, a lower upfront cost, access from anywhere",
-      "Name the service and the gain"
+      "Digital public infrastructure",
+      "Data protection"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It is a computing and a storage rented over a network",
+      "The services are a software, a platform and an infrastructure",
+      "The advantage is a cost and a scale, and the risk is where the data sits"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define cloud computing as the on-demand delivery of IT resources (compute power, database storage, applications) over the internet, utilizing a pay-as-you-go pricing model.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Define cloud computing as the on-demand delivery of IT resources (compute power, database storage, applications) over the internet, utilizing a pay-as-you-go pricing model."
       },
       {
         "section": "Body",
-        "text": "Highlight services rendered: It operates primarily through three service models: Infrastructure as a Service (IaaS - providing raw servers and storage), Platform as a Service (PaaS - providing a framework for developers to build apps), and Software as a Service (SaaS - delivering fully functional software like web-based email).",
         "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Highlight services rendered: It operates primarily through three service models: Infrastructure as a Service (IaaS - providing raw servers and storage), Platform as a Service (PaaS - providing a framework for developers to build apps), and Software as a Service (SaaS - delivering fully functional software like web-based email)."
       },
       {
         "section": "Body",
-        "text": "Enlist its advantages: It eliminates the massive capital expense of buying and maintaining physical hardware. It offers immense scalability (scaling resources up or down instantly), enables remote accessibility and collaboration globally, and ensures robust data backup and disaster recovery.",
         "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Enlist its advantages: It eliminates the massive capital expense of buying and maintaining physical hardware. It offers immense scalability (scaling resources up or down instantly), enables remote accessibility and collaboration globally, and ensures robust data backup and disaster recovery."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that cloud computing is the foundational infrastructure driving the Fourth Industrial Revolution, big data analytics, and modern e-governance (like DigiLocker).",
         "order": 4,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Conclude that cloud computing is the foundational infrastructure driving the Fourth Industrial Revolution, big data analytics, and modern e-governance (like DigiLocker)."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_GS3_Q20",
-    "paper_title": "General Studies Paper 3",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 20,
+    "year": 2019,
+    "paper_title": "GS Paper 3",
+    "q_number": "20",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 GS Paper 3",
-    "last_updated": 1778964500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 GS Paper 3",
     "question_text": "What do you mean by 'Technology Transfer'? How far this can be useful in disseminating complex technology? Explain.",
     "subjectId": "stech",
     "subjects": [
@@ -1198,36 +1166,35 @@
       "Technology transfer"
     ],
     "keyPointers": [
-      "Moving a know-how from a lab or a firm to a user",
-      "Useful if the receiver can absorb it",
-      "How far: a machine without the skill is not a transfer",
-      "Dissemination needs training"
+      "Scientific temper",
+      "Skill and employability",
+      "Manufacturing"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It is moving a know-how from the person who has it to the person who will use it",
+      "Useful when the receiver can run it, not only receive a machine",
+      "Dissemination fails if the skill does not travel with the hardware"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define Technology Transfer as the process of sharing or disseminating skills, knowledge, manufacturing methods, and proprietary facilities among governments, universities, and private enterprises to ensure scientific/technological developments are accessible to a wider range of users.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Define Technology Transfer as the process of sharing or disseminating skills, knowledge, manufacturing methods, and proprietary facilities among governments, universities, and private enterprises to ensure scientific/technological developments are accessible to a wider range of users."
       },
       {
         "section": "Body",
-        "text": "Explain its mechanisms: It occurs formally through foreign direct investment (FDI), licensing agreements, joint ventures, and strategic defense/space partnerships (e.g., BrahMos missile development between India and Russia).",
         "order": 2,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Explain its mechanisms: It occurs formally through foreign direct investment (FDI), licensing agreements, joint ventures, and strategic defense/space partnerships (e.g., BrahMos missile development between India and Russia)."
       },
       {
         "section": "Body",
-        "text": "Explain its usefulness in disseminating complex tech: It allows developing nations to leapfrog costly, decades-long R&D phases. It is crucially useful for rapid industrialization, upgrading military hardware, and disseminating urgent solutions for global challenges like climate change (green-tech transfer) and public health (vaccine manufacturing).",
         "order": 3,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Explain its usefulness in disseminating complex tech: It allows developing nations to leapfrog costly, decades-long R&D phases. It is crucially useful for rapid industrialization, upgrading military hardware, and disseminating urgent solutions for global challenges like climate change (green-tech transfer) and public health (vaccine manufacturing)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while highly beneficial, successful technology transfer requires a robust domestic intellectual property (IP) regime and the indigenous absorptive capacity to adapt and innovate upon the acquired technology.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 GS Paper 3"
+        "text": "Conclude that while highly beneficial, successful technology transfer requires a robust domestic intellectual property (IP) regime and the indigenous absorptive capacity to adapt and innovate upon the acquired technology."
       }
     ]
   }

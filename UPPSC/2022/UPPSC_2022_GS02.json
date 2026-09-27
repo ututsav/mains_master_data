@@ -1,16 +1,16 @@
 [
   {
     "uid": "UPPSC_2022_GS2_Q1",
-    "paper_title": "General Studies Paper 2",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 1,
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "1",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
     "question_text": "Describe the salient features of \"UMANG Scheme\" related to e-governance.",
     "subjectId": "governance",
     "subjects": [
@@ -24,51 +24,49 @@
       "UMANG"
     ],
     "keyPointers": [
-      "One mobile app for many government services",
-      "A citizen reaches a department without a separate portal",
-      "Feature is integration",
-      "It works only if the service behind the icon works"
+      "Digital public infrastructure",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "UMANG puts many government services on one mobile app",
+      "The feature is a single place for a certificate, a bill and a grievance",
+      "E-governance here is the phone, and it still needs the department behind the screen"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the UMANG (Unified Mobile Application for New-age Governance) app, developed by MeitY and NeGD, to drive mobile governance in India.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Introduce the UMANG (Unified Mobile Application for New-age Governance) app, developed by MeitY and NeGD, to drive mobile governance in India."
       },
       {
         "section": "Body",
-        "text": "Describe its salient features: It provides a single platform for all Indian citizens to access pan-India e-gov services ranging from Central to Local Government bodies.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Describe its salient features: It provides a single platform for all Indian citizens to access pan-India e-gov services ranging from Central to Local Government bodies."
       },
       {
         "section": "Body",
-        "text": "Highlight technological aspects: It is multi-lingual, integrated with core digital platforms like Aadhaar, DigiLocker, and PayGov, and aims to reduce the digital divide by being accessible on smartphones and feature phones.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Highlight technological aspects: It is multi-lingual, integrated with core digital platforms like Aadhaar, DigiLocker, and PayGov, and aims to reduce the digital divide by being accessible on smartphones and feature phones."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that UMANG is a milestone in fulfilling the 'Digital India' vision, putting governance directly into the hands of citizens.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Conclude that UMANG is a milestone in fulfilling the 'Digital India' vision, putting governance directly into the hands of citizens."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS2_Q2",
-    "paper_title": "General Studies Paper 2",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 2,
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "2",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
     "question_text": "What are the fundamental causes of poverty and hunger? What are government schemes which have been implemented to eliminate poverty and hunger?",
     "subjectId": "justice",
     "subjects": [
@@ -82,51 +80,51 @@
       "Poverty, hunger and schemes"
     ],
     "keyPointers": [
-      "No asset, no job, poor health and a failed harvest",
-      "Hunger can remain after income poverty falls",
-      "Schemes: food, work, a transfer and nutrition",
-      "Name the scheme and the cause it hits"
+      "Poverty and nutrition",
+      "Food security",
+      "Welfare state",
+      "Inequality"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A missing job, a small farm and a price the poor cannot pay are the causes",
+      "A ration, a wage and a cash transfer are the schemes",
+      "Eliminating hunger needs the food and the income together"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define poverty and hunger as intertwined multidimensional challenges that severely impact India's human development index.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Define poverty and hunger as intertwined multidimensional challenges that severely impact India's human development index."
       },
       {
         "section": "Body",
-        "text": "Discuss the fundamental causes: Overpopulation, heavy reliance on low-yielding agriculture, structural unemployment, inflation, and systemic social inequalities.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Discuss the fundamental causes: Overpopulation, heavy reliance on low-yielding agriculture, structural unemployment, inflation, and systemic social inequalities."
       },
       {
         "section": "Body",
-        "text": "List major government schemes: For poverty (MGNREGA, Deendayal Antyodaya Yojana - NRLM/NULM, PM Kisan Samman Nidhi); For hunger (National Food Security Act (NFSA), PM Garib Kalyan Anna Yojana (PMGKAY), and POSHAN Abhiyaan).",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "List major government schemes: For poverty (MGNREGA, Deendayal Antyodaya Yojana - NRLM/NULM, PM Kisan Samman Nidhi); For hunger (National Food Security Act (NFSA), PM Garib Kalyan Anna Yojana (PMGKAY), and POSHAN Abhiyaan)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while these schemes form a robust safety net, addressing implementation leakages and focusing on capacity-building are vital for sustainable eradication.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Conclude that while these schemes form a robust safety net, addressing implementation leakages and focusing on capacity-building are vital for sustainable eradication."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS2_Q3",
-    "paper_title": "General Studies Paper 2",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 3,
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "3",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
     "question_text": "Discuss the role of non-governmental organisation in the process of policy making.",
     "subjectId": "governance",
     "subjects": [
@@ -140,51 +138,50 @@
       "NGOs and policy-making"
     ],
     "keyPointers": [
-      "They bring a ground fact into the draft",
-      "They advocate and sometimes implement",
-      "They are not the elected authority",
-      "Useful when heard, risky when captured"
+      "Civil society and NGOs",
+      "Good governance",
+      "Accountability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A group outside government can bring a field fact a file does not have",
+      "It can draft, protest and watch",
+      "The role helps policy when the group is independent, and it distorts when it is only a contractor"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce Non-Governmental Organizations (NGOs) as critical civil society actors that bridge the gap between the state and its citizens.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Introduce Non-Governmental Organizations (NGOs) as critical civil society actors that bridge the gap between the state and its citizens."
       },
       {
         "section": "Body",
-        "text": "Discuss their role in agenda-setting: Highlighting grassroots issues, conducting independent research, and lobbying for legislative action (e.g., the role of MKSS in the enactment of the RTI Act).",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Discuss their role in agenda-setting: Highlighting grassroots issues, conducting independent research, and lobbying for legislative action (e.g., the role of MKSS in the enactment of the RTI Act)."
       },
       {
         "section": "Body",
-        "text": "Discuss their role in formulation and feedback: Participating in government committees, offering technical expertise, representing marginalized voices, and providing critical feedback on policy drafts.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Discuss their role in formulation and feedback: Participating in government committees, offering technical expertise, representing marginalized voices, and providing critical feedback on policy drafts."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that a healthy democracy requires the active collaboration of NGOs in policy-making to ensure policies are inclusive, pragmatic, and rights-based.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Conclude that a healthy democracy requires the active collaboration of NGOs in policy-making to ensure policies are inclusive, pragmatic, and rights-based."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS2_Q4",
-    "paper_title": "General Studies Paper 2",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 4,
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "4",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
     "question_text": "What are the rights within the ambit of Article 21 of the Indian Constitution?",
     "subjectId": "constitution",
     "subjects": [
@@ -198,51 +195,49 @@
       "Article 21"
     ],
     "keyPointers": [
-      "Life and personal liberty, read widely",
-      "Dignity, privacy, livelihood, health and a clean environment have been drawn from it",
-      "The right is against a procedure that is not fair",
-      "The ambit grew by interpretation"
+      "Rule of law",
+      "Access to justice"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The article protects life and personal liberty, and the court has read a dignity, a health, a privacy and a livelihood into it",
+      "The ambit is wider than the two words",
+      "A right here is what the court has been willing to protect"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define Article 21, which guarantees that no person shall be deprived of his life or personal liberty except according to the procedure established by law.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Define Article 21, which guarantees that no person shall be deprived of his life or personal liberty except according to the procedure established by law."
       },
       {
         "section": "Body",
-        "text": "Explain the judicial expansion: Following the Maneka Gandhi case (1978), the Supreme Court ruled that 'life' is not mere animal existence but a life of human dignity.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Explain the judicial expansion: Following the Maneka Gandhi case (1978), the Supreme Court ruled that 'life' is not mere animal existence but a life of human dignity."
       },
       {
         "section": "Body",
-        "text": "List the implied rights: Right to a clean environment, right to privacy (Puttaswamy case), right to health, right to speedy trial, right to shelter, and right against solitary confinement.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "List the implied rights: Right to a clean environment, right to privacy (Puttaswamy case), right to health, right to speedy trial, right to shelter, and right against solitary confinement."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that Article 21 forms the heart of fundamental rights, continuously evolving to protect the varied facets of human existence.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Conclude that Article 21 forms the heart of fundamental rights, continuously evolving to protect the varied facets of human existence."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS2_Q5",
-    "paper_title": "General Studies Paper 2",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 5,
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "5",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
     "question_text": "Consider the functions and relations of the Chief Minister and the Governor of State.",
     "subjectId": "constitution",
     "subjects": [
@@ -256,51 +251,49 @@
       "Chief Minister and Governor"
     ],
     "keyPointers": [
-      "The Chief Minister leads the elected government",
-      "The Governor is the constitutional head and acts on advice, with a few discretions",
-      "Relation is normal when there is a majority",
-      "It strains in a hung house or a reserved bill"
+      "Federalism",
+      "Cooperative federalism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The chief minister runs the government and the governor is the constitutional head",
+      "The relation is advice in the ordinary case and a discretion in a few stated ones",
+      "The friction appears when the two do not belong to the same political side"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the parliamentary structure of the state executive, consisting of the Governor as the de jure (nominal) head and the Chief Minister (CM) as the de facto (real) head.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Introduce the parliamentary structure of the state executive, consisting of the Governor as the de jure (nominal) head and the Chief Minister (CM) as the de facto (real) head."
       },
       {
         "section": "Body",
-        "text": "Discuss their individual functions: The Governor appoints the CM and other ministers, signs bills, and has certain discretionary powers. The CM heads the Council of Ministers, formulates policies, and advises the Governor.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Discuss their individual functions: The Governor appoints the CM and other ministers, signs bills, and has certain discretionary powers. The CM heads the Council of Ministers, formulates policies, and advises the Governor."
       },
       {
         "section": "Body",
-        "text": "Discuss their relationship (Article 167): The CM acts as a communicative link, bound by duty to communicate all administrative and legislative decisions to the Governor. Friction often arises over the Governor's discretionary powers and bill reservations.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Discuss their relationship (Article 167): The CM acts as a communicative link, bound by duty to communicate all administrative and legislative decisions to the Governor. Friction often arises over the Governor's discretionary powers and bill reservations."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that a harmonious relationship between the two, adhering to constitutional morality and Sarkaria Commission guidelines, is vital for stable state governance.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Conclude that a harmonious relationship between the two, adhering to constitutional morality and Sarkaria Commission guidelines, is vital for stable state governance."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS2_Q6",
-    "paper_title": "General Studies Paper 2",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 6,
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "6",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
     "question_text": "Critically examine the role of Finance Commission in the Centre-State financial relations.",
     "subjectId": "constitution",
     "subjects": [
@@ -314,51 +307,50 @@
       "Finance Commission"
     ],
     "keyPointers": [
-      "It divides taxes and can recommend a grant",
-      "It is the constitutional channel of fiscal federalism",
-      "Critically: the formula and the Centre’s other transfers",
-      "It eases a disparity; it does not end it"
+      "Centre-state finance",
+      "Cooperative federalism",
+      "Inequality"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It recommends how the tax is shared and which state needs a grant",
+      "The role is central to the relation because money is the relation",
+      "A critical view asks whether the formula and a later cess leave the poorer state enough"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Finance Commission, constituted under Article 280, as the constitutional balancing wheel of India's fiscal federalism.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Introduce the Finance Commission, constituted under Article 280, as the constitutional balancing wheel of India's fiscal federalism."
       },
       {
         "section": "Body",
-        "text": "Examine its primary roles: Recommending vertical devolution (distribution of net tax proceeds between the Union and States) and horizontal devolution (allocation among states), alongside prescribing principles for grants-in-aid.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Examine its primary roles: Recommending vertical devolution (distribution of net tax proceeds between the Union and States) and horizontal devolution (allocation among states), alongside prescribing principles for grants-in-aid."
       },
       {
         "section": "Body",
-        "text": "Critically analyze its functioning: While it ensures equitable distribution and addresses regional fiscal imbalances, its recommendations are advisory. States often critique its Terms of Reference (ToR) as centralizing (e.g., controversies surrounding population data years).",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Critically analyze its functioning: While it ensures equitable distribution and addresses regional fiscal imbalances, its recommendations are advisory. States often critique its Terms of Reference (ToR) as centralizing (e.g., controversies surrounding population data years)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that despite limitations, the Finance Commission remains indispensable for preserving fiscal autonomy of states and maintaining cooperative federalism.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Conclude that despite limitations, the Finance Commission remains indispensable for preserving fiscal autonomy of states and maintaining cooperative federalism."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS2_Q7",
-    "paper_title": "General Studies Paper 2",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 7,
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "7",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
     "question_text": "\"Lok Adalats have acted as a great catalyst for change in the Indian Legal System\". Elucidate.",
     "subjectId": "constitution",
     "subjects": [
@@ -372,51 +364,50 @@
       "Lok Adalats"
     ],
     "keyPointers": [
-      "A settlement that is quicker and final",
-      "They clear small disputes",
-      "A catalyst if the weaker party is not pushed",
-      "Elucidate the change and its limit"
+      "Access to justice",
+      "Good governance",
+      "Rule of law"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A lok adalat settles a dispute without a long trial",
+      "The change is a faster end for a case that can be compromised",
+      "It is a catalyst where the settlement is fair, and not where a weak party is pressed"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce Lok Adalats (People's Courts) as an Alternative Dispute Resolution (ADR) mechanism, given statutory status by the Legal Services Authorities Act, 1987.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Introduce Lok Adalats (People's Courts) as an Alternative Dispute Resolution (ADR) mechanism, given statutory status by the Legal Services Authorities Act, 1987."
       },
       {
         "section": "Body",
-        "text": "Elucidate their catalytic role: They facilitate amicable, compromise-based settlements, drastically reducing the massive backlog of pending cases in regular courts.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Elucidate their catalytic role: They facilitate amicable, compromise-based settlements, drastically reducing the massive backlog of pending cases in regular courts."
       },
       {
         "section": "Body",
-        "text": "Discuss their accessibility: They dispense swift justice without procedural rigidities (Evidence Act/CPC don't strictly apply), charge zero court fees, and their awards are final and non-appealable.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Discuss their accessibility: They dispense swift justice without procedural rigidities (Evidence Act/CPC don't strictly apply), charge zero court fees, and their awards are final and non-appealable."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that Lok Adalats actualize the constitutional mandate of equal justice and free legal aid (Article 39A), democratizing the legal system for the marginalized.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Conclude that Lok Adalats actualize the constitutional mandate of equal justice and free legal aid (Article 39A), democratizing the legal system for the marginalized."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS2_Q8",
-    "paper_title": "General Studies Paper 2",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 8,
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "8",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
     "question_text": "Energy security is the most important part of economic progress of India. Analyse India's energy policy co-operation with West Asian Countries.",
     "subjectId": "ir",
     "subjects": [
@@ -430,51 +421,50 @@
       "Energy security and cooperation"
     ],
     "keyPointers": [
-      "Imported fuel is a risk to growth",
-      "Cooperation diversifies oil, gas and a clean technology",
-      "Security is supply, price and a route",
-      "Analyse the policy, not one deal"
+      "Energy access",
+      "Strategic autonomy",
+      "Trade and foreign policy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Oil and gas from West Asia still run a large part of the economy",
+      "The cooperation is a supply, an investment and a political care",
+      "Energy security is economic progress only if the supply is not owned by one crisis"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Highlight India's status as a rapidly growing economy with a massive energy appetite, importing over 80% of its crude oil needs primarily from West Asia.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Highlight India's status as a rapidly growing economy with a massive energy appetite, importing over 80% of its crude oil needs primarily from West Asia."
       },
       {
         "section": "Body",
-        "text": "Analyze traditional hydrocarbon cooperation: Strategic partnerships with nations like Saudi Arabia, Iraq, and the UAE ensure a stable supply of crude oil and LNG. Collaboration extends to joint refinery projects (e.g., Ratnagiri) and filling strategic petroleum reserves.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Analyze traditional hydrocarbon cooperation: Strategic partnerships with nations like Saudi Arabia, Iraq, and the UAE ensure a stable supply of crude oil and LNG. Collaboration extends to joint refinery projects (e.g., Ratnagiri) and filling strategic petroleum reserves."
       },
       {
         "section": "Body",
-        "text": "Analyze the shift towards green energy: The cooperation is evolving beyond fossil fuels, incorporating massive sovereign wealth investments from the Gulf into India's renewable energy sector and Green Hydrogen missions.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Analyze the shift towards green energy: The cooperation is evolving beyond fossil fuels, incorporating massive sovereign wealth investments from the Gulf into India's renewable energy sector and Green Hydrogen missions."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that India's policy with West Asia has matured from a transactional buyer-seller relationship into a comprehensive strategic energy partnership essential for India's economic progress.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Conclude that India's policy with West Asia has matured from a transactional buyer-seller relationship into a comprehensive strategic energy partnership essential for India's economic progress."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS2_Q9",
-    "paper_title": "General Studies Paper 2",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 9,
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "9",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
     "question_text": "Discuss the causes of Russia -Ukraine conflict.",
     "subjectId": "ir",
     "subjects": [
@@ -488,51 +478,49 @@
       "Russia–Ukraine conflict"
     ],
     "keyPointers": [
-      "Security of a border and a sphere",
-      "NATO’s expansion as Moscow reads it, and Ukraine’s sovereignty",
-      "History and a failed settlement",
-      "Causes are political and military"
+      "Strategic autonomy",
+      "Multilateralism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A disputed border, a fear of a larger alliance and a claim over a neighbour's choice are the causes",
+      "The conflict is about security as each side defines it",
+      "A cause is not the same as a justification"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Provide context for the escalation of the Russia-Ukraine conflict culminating in the 2022 invasion, rooted in complex historical, geopolitical, and ethnic tensions.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Provide context for the escalation of the Russia-Ukraine conflict culminating in the 2022 invasion, rooted in complex historical, geopolitical, and ethnic tensions."
       },
       {
         "section": "Body",
-        "text": "Discuss geopolitical and security causes: Russia's perception of NATO's eastward expansion as an existential security threat, and Ukraine's growing alignment with Western institutions (EU/NATO).",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Discuss geopolitical and security causes: Russia's perception of NATO's eastward expansion as an existential security threat, and Ukraine's growing alignment with Western institutions (EU/NATO)."
       },
       {
         "section": "Body",
-        "text": "Discuss historical and internal causes: Deep historical ties claimed by Russia, the 2014 annexation of Crimea following the Euromaidan protests, and the ongoing separatist insurgencies in the Russian-speaking Donbas region.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Discuss historical and internal causes: Deep historical ties claimed by Russia, the 2014 annexation of Crimea following the Euromaidan protests, and the ongoing separatist insurgencies in the Russian-speaking Donbas region."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the conflict represents a violent clash between Ukraine's sovereign right to self-determination and Russia's demand for a buffer zone, with profound global economic and security ramifications.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Conclude that the conflict represents a violent clash between Ukraine's sovereign right to self-determination and Russia's demand for a buffer zone, with profound global economic and security ramifications."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS2_Q10",
-    "paper_title": "General Studies Paper 2",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 10,
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "10",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
     "question_text": "Which are the contentions issues between India and Nepal? Explain.",
     "subjectId": "ir",
     "subjects": [
@@ -546,167 +534,164 @@
       "India–Nepal contentions"
     ],
     "keyPointers": [
-      "A border strip, a river and a trade dependence",
-      "Politics in Kathmandu swings the tone",
-      "The issues are real and manageable",
-      "Explain, do not reduce it to one map"
+      "Cross-border threats",
+      "Strategic autonomy",
+      "Trade and foreign policy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A border map, a river and an open frontier that can be misused are the recurring issues",
+      "Trade and a close people sit beside the quarrel",
+      "Contention does not erase the dependence"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Acknowledge the historical, cultural, and open-border 'Roti-Beti' relationship between India and Nepal, which has recently faced diplomatic strains.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Acknowledge the historical, cultural, and open-border 'Roti-Beti' relationship between India and Nepal, which has recently faced diplomatic strains."
       },
       {
         "section": "Body",
-        "text": "Explain the boundary dispute: The major flashpoint is the Kalapani, Lipulekh, and Limpiyadhura region, leading to Nepal unilaterally publishing a new political map in 2020.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Explain the boundary dispute: The major flashpoint is the Kalapani, Lipulekh, and Limpiyadhura region, leading to Nepal unilaterally publishing a new political map in 2020."
       },
       {
         "section": "Body",
-        "text": "Explain geopolitical and domestic issues: Nepal's growing proximity and infrastructural engagements with China (BRI), demands for revising the 1950 Treaty of Peace and Friendship, and historical grievances over the 2015 border blockade.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Explain geopolitical and domestic issues: Nepal's growing proximity and infrastructural engagements with China (BRI), demands for revising the 1950 Treaty of Peace and Friendship, and historical grievances over the 2015 border blockade."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that resolving these contentious issues requires India to balance its 'Neighborhood First' policy with sensitive, non-coercive diplomacy.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Conclude that resolving these contentious issues requires India to balance its 'Neighborhood First' policy with sensitive, non-coercive diplomacy."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS2_Q11",
-    "paper_title": "General Studies Paper 2",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 11,
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "11",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
     "question_text": "Discuss the challenges before Self Help Groups (SHGs). What are the measures to make it effective and beneficial ?",
-    "subjectId": "justice",
+    "subjectId": "governance",
     "subjects": [
-      "Social Justice"
+      "Governance"
     ],
-    "topic": "Social Justice",
+    "topic": "What holds a self-help group back",
     "topics": [
-      "Social Justice"
+      "What holds a self-help group back"
     ],
     "subTopics": [
       "Challenges of self-help groups"
     ],
     "keyPointers": [
-      "Weak credit, a captured group and no market",
-      "Measures: a fair loan, a skill and a link to a buyer",
-      "Effective when the woman, not a proxy, decides",
-      "The group needs more than a meeting"
+      "Self-help groups",
+      "Financial inclusion",
+      "Women and work"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A weak saving, a capture by one family and a loan that is not repaid are the challenges",
+      "The measure is a training, a bank link and a product the group can sell",
+      "Effective means the group survives the first loan"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce Self Help Groups (SHGs) as informal associations of people, primarily rural women, created to pool savings, access micro-credit, and foster entrepreneurship.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Introduce Self Help Groups (SHGs) as informal associations of people, primarily rural women, created to pool savings, access micro-credit, and foster entrepreneurship."
       },
       {
         "section": "Body",
-        "text": "Discuss the challenges: Patriarchal resistance, lack of adequate financial and digital literacy, irregular audits, inability to scale up due to poor forward (market) linkages, and the heavy regional concentration of successful SHGs in Southern India.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Discuss the challenges: Patriarchal resistance, lack of adequate financial and digital literacy, irregular audits, inability to scale up due to poor forward (market) linkages, and the heavy regional concentration of successful SHGs in Southern India."
       },
       {
         "section": "Body",
-        "text": "Discuss measures to make them effective: Expanding SHG-Bank linkage programs, integrating them with e-commerce platforms (like GeM) for marketing, providing specific skill development training, and minimizing political interference.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Discuss measures to make them effective: Expanding SHG-Bank linkage programs, integrating them with e-commerce platforms (like GeM) for marketing, providing specific skill development training, and minimizing political interference."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that addressing these bottlenecks will allow SHGs to transition from micro-savings groups to robust micro-enterprises, accelerating rural poverty alleviation.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Conclude that addressing these bottlenecks will allow SHGs to transition from micro-savings groups to robust micro-enterprises, accelerating rural poverty alleviation."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS2_Q12",
-    "paper_title": "General Studies Paper 2",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 12,
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "12",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
     "question_text": "Describing the objective of the \"Mission Shakti\" program run by the Government of Uttar Pradesh, tell how far it has been successfull in achieving its objectives?",
-    "subjectId": "up-polity",
+    "subjectId": "society",
     "subjects": [
-      "UP Polity & Welfare"
+      "Indian Society"
     ],
-    "topic": "UP Welfare",
+    "topic": "Mission Shakti",
     "topics": [
-      "UP Welfare"
+      "Mission Shakti"
     ],
     "subTopics": [
       "Mission Shakti"
     ],
     "keyPointers": [
-      "Safety and empowerment of women in UP",
-      "An objective is a response to violence and a support service",
-      "How far: judge use, not the launch",
-      "Empowerment is the outcome"
+      "Women and work",
+      "Welfare state",
+      "Patriarchy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The aim is a woman's safety, a dignity and an economic standing",
+      "Success is a centre that works and a case that is pursued",
+      "The programme is as far as the last woman who can actually use it"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce 'Mission Shakti' as a flagship campaign launched by the UP Government dedicated to the safety, security, and self-reliance of women and girls.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Introduce 'Mission Shakti' as a flagship campaign launched by the UP Government dedicated to the safety, security, and self-reliance of women and girls."
       },
       {
         "section": "Body",
-        "text": "Describe the objectives: Establishing dedicated women helpdesks in all police stations, ensuring fast-track trials for crimes against women, raising mass awareness about legal rights, and linking women to skill development and employment schemes.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Describe the objectives: Establishing dedicated women helpdesks in all police stations, ensuring fast-track trials for crimes against women, raising mass awareness about legal rights, and linking women to skill development and employment schemes."
       },
       {
         "section": "Body",
-        "text": "Evaluate its success: It has been successful in increasing reporting of domestic/public violence, increasing the visibility of female police personnel, and empowering grassroots women through property rights (Gharauni). However, deeply entrenched patriarchal attitudes and rural implementation gaps remain hurdles.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Evaluate its success: It has been successful in increasing reporting of domestic/public violence, increasing the visibility of female police personnel, and empowering grassroots women through property rights (Gharauni). However, deeply entrenched patriarchal attitudes and rural implementation gaps remain hurdles."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that Mission Shakti is a comprehensive step in the right direction, blending hard policing measures with soft socio-economic empowerment to create a safe environment for women.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Conclude that Mission Shakti is a comprehensive step in the right direction, blending hard policing measures with soft socio-economic empowerment to create a safe environment for women."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS2_Q13",
-    "paper_title": "General Studies Paper 2",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 13,
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "13",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
     "question_text": "Explain the objectives and composition of \"NITI Ayog\". What are its significance achievements?",
     "subjectId": "governance",
     "subjects": [
@@ -720,51 +705,50 @@
       "NITI Aayog"
     ],
     "keyPointers": [
-      "Strategy and cooperative federalism",
-      "The states sit in the governing council",
-      "Achievements are plans and rankings, not fund allocation",
-      "Significance is advice, not the old Commission’s power"
+      "Cooperative federalism",
+      "Inclusive growth",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The objective is a shared strategy with the states, not a plan imposed on them",
+      "It is composed of a chair, a council of chief ministers and experts",
+      "The achievement is a ranking, a scheme design and a forum, and it does not itself spend"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce NITI Aayog (National Institution for Transforming India), established in 2015 to replace the Planning Commission, acting as the premier policy think tank of the government.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Introduce NITI Aayog (National Institution for Transforming India), established in 2015 to replace the Planning Commission, acting as the premier policy think tank of the government."
       },
       {
         "section": "Body",
-        "text": "Explain objectives and composition: It operates on a 'bottom-up' approach to foster cooperative federalism. Its composition includes the Prime Minister as Chairperson, a Vice-Chairperson, full-time members, and a Governing Council comprising all Chief Ministers and Lt. Governors.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Explain objectives and composition: It operates on a 'bottom-up' approach to foster cooperative federalism. Its composition includes the Prime Minister as Chairperson, a Vice-Chairperson, full-time members, and a Governing Council comprising all Chief Ministers and Lt. Governors."
       },
       {
         "section": "Body",
-        "text": "Discuss significant achievements: Promotion of competitive federalism through various indices (Health, Water, Innovation), the Aspirational Districts Programme for targeted backward region development, and strategic long-term vision documents (e.g., National Monetisation Pipeline).",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Discuss significant achievements: Promotion of competitive federalism through various indices (Health, Water, Innovation), the Aspirational Districts Programme for targeted backward region development, and strategic long-term vision documents (e.g., National Monetisation Pipeline)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that NITI Aayog has successfully transformed India's planning architecture from a centralized command model into a collaborative, data-driven framework.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Conclude that NITI Aayog has successfully transformed India's planning architecture from a centralized command model into a collaborative, data-driven framework."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS2_Q14",
-    "paper_title": "General Studies Paper 2",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 14,
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "14",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
     "question_text": "Are the committees considered to be useful for Parliamentary work? Discuss, in this context, the role of the Estimate Committee.",
     "subjectId": "constitution",
     "subjects": [
@@ -778,51 +762,49 @@
       "Parliamentary committees and the Estimates Committee"
     ],
     "keyPointers": [
-      "Committees examine what the floor cannot",
-      "The Estimates Committee looks at economy and efficiency of spending",
-      "Useful when the report is debated",
-      "A committee ignored is not useful"
+      "Questions, debates and committees",
+      "Parliamentary accountability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A committee can examine a spending the full House has no time for",
+      "The Estimates Committee looks at whether the money asked for is justified",
+      "Useful means a report the House then uses"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Establish Parliamentary Committees as 'mini-parliaments' that conduct detailed, non-partisan scrutiny of legislative and executive actions, which is impossible on the floor of the House due to time constraints.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Establish Parliamentary Committees as 'mini-parliaments' that conduct detailed, non-partisan scrutiny of legislative and executive actions, which is impossible on the floor of the House due to time constraints."
       },
       {
         "section": "Body",
-        "text": "Discuss general utility: They ensure executive accountability, provide expert technical inputs on complex bills, save parliamentary time, and allow for detailed cross-party consensus building.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Discuss general utility: They ensure executive accountability, provide expert technical inputs on complex bills, save parliamentary time, and allow for detailed cross-party consensus building."
       },
       {
         "section": "Body",
-        "text": "Discuss the role of the Estimates Committee: The largest financial committee (30 members exclusively from Lok Sabha). It scrutinizes the Budget estimates, suggests alternative policies for administrative efficiency and economy, and ensures that funds are well laid out.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Discuss the role of the Estimates Committee: The largest financial committee (30 members exclusively from Lok Sabha). It scrutinizes the Budget estimates, suggests alternative policies for administrative efficiency and economy, and ensures that funds are well laid out."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while their recommendations are advisory and post-mortem in nature, committees like the Estimates Committee are indispensable for maintaining continuous continuous financial oversight over the executive.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Conclude that while their recommendations are advisory and post-mortem in nature, committees like the Estimates Committee are indispensable for maintaining continuous continuous financial oversight over the executive."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS2_Q15",
-    "paper_title": "General Studies Paper 2",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 15,
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "15",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
     "question_text": "How is the President of India Elected?",
     "subjectId": "constitution",
     "subjects": [
@@ -836,51 +818,49 @@
       "Election of the President"
     ],
     "keyPointers": [
-      "An electoral college of elected MPs and MLAs",
-      "Votes are weighted so states and the Union balance",
-      "A single transferable vote",
-      "Not a direct popular election"
+      "Federalism",
+      "Separation of powers"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "An electoral college of elected members of Parliament and of the state assemblies votes",
+      "The value of each vote is weighted so the Union and the states balance",
+      "Election is indirect, and the method is the point of the question"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "State that the President of India is elected indirectly according to Articles 54 and 55 of the Constitution.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "State that the President of India is elected indirectly according to Articles 54 and 55 of the Constitution."
       },
       {
         "section": "Body",
-        "text": "Explain the Electoral College: It consists only of the elected members of both Houses of Parliament and the elected members of the Legislative Assemblies of States (including Delhi and Puducherry). Nominated members do not participate.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Explain the Electoral College: It consists only of the elected members of both Houses of Parliament and the elected members of the Legislative Assemblies of States (including Delhi and Puducherry). Nominated members do not participate."
       },
       {
         "section": "Body",
-        "text": "Detail the election mechanism: Held in accordance with the system of proportional representation by means of the single transferable vote via a secret ballot. Explain the principle of parity in the value of votes (based on the 1971 census population) to ensure uniformity among states and parity between the Union and the States.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Detail the election mechanism: Held in accordance with the system of proportional representation by means of the single transferable vote via a secret ballot. Explain the principle of parity in the value of votes (based on the 1971 census population) to ensure uniformity among states and parity between the Union and the States."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that this indirect mechanism avoids a direct political mandate rivaling the Prime Minister while ensuring the President remains a representative of the entire nation and its federal structure.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Conclude that this indirect mechanism avoids a direct political mandate rivaling the Prime Minister while ensuring the President remains a representative of the entire nation and its federal structure."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS2_Q16",
-    "paper_title": "General Studies Paper 2",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 16,
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "16",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
     "question_text": "The concept of \"One nation one election\" has its own prospects and limitations in India, Examine.",
     "subjectId": "governance",
     "subjects": [
@@ -894,51 +874,50 @@
       "One nation, one election"
     ],
     "keyPointers": [
-      "Prospect: less cost and a longer governing spell",
-      "Limit: federal variety, a mid-term fall and a huge machine",
-      "Examine both",
-      "It is a design choice, not an obvious good"
+      "Good governance",
+      "Federalism",
+      "Parliamentary accountability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "One date could cut a cost and a constant campaign",
+      "The limit is a state assembly whose term does not match the Lok Sabha, and a federal worry",
+      "Prospect and limitation have to be stated together"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define \"One Nation, One Election\" (ONOE) as the proposal to synchronize elections for the Lok Sabha and all State Legislative Assemblies.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Define \"One Nation, One Election\" (ONOE) as the proposal to synchronize elections for the Lok Sabha and all State Legislative Assemblies."
       },
       {
         "section": "Body",
-        "text": "Examine the prospects: It reduces the massive financial expenditure incurred by the EC and parties, minimizes the disruption of governance caused by the repeated imposition of the Model Code of Conduct, and curbs the prolonged polarization of society during campaign cycles.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Examine the prospects: It reduces the massive financial expenditure incurred by the EC and parties, minimizes the disruption of governance caused by the repeated imposition of the Model Code of Conduct, and curbs the prolonged polarization of society during campaign cycles."
       },
       {
         "section": "Body",
-        "text": "Examine the limitations: Logistical nightmares (EVM/VVPAT shortages), the constitutional necessity of amending multiple articles (e.g., altering state assembly tenures), and the risk that national issues might overshadow local, regional issues, hurting regional parties.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Examine the limitations: Logistical nightmares (EVM/VVPAT shortages), the constitutional necessity of amending multiple articles (e.g., altering state assembly tenures), and the risk that national issues might overshadow local, regional issues, hurting regional parties."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while ONOE is administratively appealing for policy continuity, its implementation requires broad political consensus and careful constitutional engineering to protect federal diversity.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Conclude that while ONOE is administratively appealing for policy continuity, its implementation requires broad political consensus and careful constitutional engineering to protect federal diversity."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS2_Q17",
-    "paper_title": "General Studies Paper 2",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 17,
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "17",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
     "question_text": "Discuss the evolution and impact of the \"Basic structure doctrine\" of the Indian Constitution.",
     "subjectId": "constitution",
     "subjects": [
@@ -952,109 +931,107 @@
       "Basic structure doctrine"
     ],
     "keyPointers": [
-      "Born in cases, not in the original text",
-      "It stops an amendment from repealing the Constitution’s core",
-      "Impact: Parliament is limited; the court is the judge of the limit",
-      "Evolution is a line of judgments"
+      "Basic structure",
+      "Judicial review",
+      "Separation of powers"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It grew out of a fight over how far an amendment could go",
+      "The impact is that some features, including judicial review and the federal frame, cannot be removed",
+      "Evolution is the cases; impact is the limit they set"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the 'Basic Structure Doctrine' as a judicial innovation formulated by the Supreme Court in the landmark Kesavananda Bharati case (1973).",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Introduce the 'Basic Structure Doctrine' as a judicial innovation formulated by the Supreme Court in the landmark Kesavananda Bharati case (1973)."
       },
       {
         "section": "Body",
-        "text": "Discuss its evolution: Tracing from Shankari Prasad and Golaknath cases (debate over Article 368 vs Article 13), culminating in the ruling that Parliament can amend the Constitution, but cannot alter its fundamental 'basic structure' (later reaffirmed in Minerva Mills).",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Discuss its evolution: Tracing from Shankari Prasad and Golaknath cases (debate over Article 368 vs Article 13), culminating in the ruling that Parliament can amend the Constitution, but cannot alter its fundamental 'basic structure' (later reaffirmed in Minerva Mills)."
       },
       {
         "section": "Body",
-        "text": "Discuss its impact: It successfully established the supremacy of the Constitution over Parliament, preserved core democratic values (secularism, judicial review, federalism, separation of powers), and prevented authoritarian legislative overreach.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Discuss its impact: It successfully established the supremacy of the Constitution over Parliament, preserved core democratic values (secularism, judicial review, federalism, separation of powers), and prevented authoritarian legislative overreach."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the doctrine functions as the ultimate constitutional safety valve, ensuring India remains a robust democracy governed by the rule of law.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Conclude that the doctrine functions as the ultimate constitutional safety valve, ensuring India remains a robust democracy governed by the rule of law."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS2_Q18",
-    "paper_title": "General Studies Paper 2",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 18,
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "18",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
     "question_text": "Write a critical note on problems and reforms of administrative system in Uttar Pradesh.",
-    "subjectId": "up-polity",
+    "subjectId": "governance",
     "subjects": [
-      "UP Polity & Welfare"
+      "Governance"
     ],
-    "topic": "UP Polity",
+    "topic": "The state's administrative system",
     "topics": [
-      "UP Polity"
+      "The state's administrative system"
     ],
     "subTopics": [
       "Administrative reform in UP"
     ],
     "keyPointers": [
-      "Delay, a transfer, and a weak last mile",
-      "Reforms: a digital service, a tenure and an account",
-      "Critical: many reforms stay on paper",
-      "The system is large, so a local failure looks systemic"
+      "Good governance",
+      "Corruption",
+      "Accountability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Delay, a politicised transfer and a weak answerability are the problems",
+      "Reform is a process, a tenure and a citizen who can see the file",
+      "A note that lists only the faults without the fix is incomplete"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Acknowledge the immense scale of Uttar Pradesh, making its administrative apparatus critical for the welfare of over 240 million citizens.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Acknowledge the immense scale of Uttar Pradesh, making its administrative apparatus critical for the welfare of over 240 million citizens."
       },
       {
         "section": "Body",
-        "text": "Highlight the problems: High politicization of the bureaucracy, frequent transfers lacking fixed tenures, manpower shortages (poor police-to-public ratio), red-tapism, and localized corruption leading to poor service delivery.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Highlight the problems: High politicization of the bureaucracy, frequent transfers lacking fixed tenures, manpower shortages (poor police-to-public ratio), red-tapism, and localized corruption leading to poor service delivery."
       },
       {
         "section": "Body",
-        "text": "Discuss recent reforms and needed steps: Implementation of e-governance (Nivesh Mitra, e-District), the introduction of the Police Commissionerate system in major cities, anti-mafia task forces, and lateral entry for specialization.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Discuss recent reforms and needed steps: Implementation of e-governance (Nivesh Mitra, e-District), the introduction of the Police Commissionerate system in major cities, anti-mafia task forces, and lateral entry for specialization."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that sustained administrative reforms, ensuring bureaucratic autonomy and accountability, are non-negotiable for UP to achieve its $1 trillion economy target.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Conclude that sustained administrative reforms, ensuring bureaucratic autonomy and accountability, are non-negotiable for UP to achieve its $1 trillion economy target."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS2_Q19",
-    "paper_title": "General Studies Paper 2",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 19,
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "19",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
     "question_text": "What are the areas of contention and co-operation in India-USA relations? Discuss.",
     "subjectId": "ir",
     "subjects": [
@@ -1068,51 +1045,50 @@
       "India–US relations"
     ],
     "keyPointers": [
-      "Defence, technology and the Indo-Pacific are the cooperation",
-      "Trade, Russia and autonomy are the contention",
-      "Both run together",
-      "Discuss the areas, not a single mood"
+      "Strategic autonomy",
+      "Trade and foreign policy",
+      "Indo-Pacific"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Trade, a technology and a shared worry about the Indo-Pacific are the cooperation",
+      "A tariff, a sanction and a difference over a third country are the contention",
+      "The relation holds both at once"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Describe the India-USA relationship as a 'Comprehensive Global Strategic Partnership', characterized by a trajectory of deepening ties despite occasional friction.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Describe the India-USA relationship as a 'Comprehensive Global Strategic Partnership', characterized by a trajectory of deepening ties despite occasional friction."
       },
       {
         "section": "Body",
-        "text": "Discuss areas of cooperation: Strategic alignment in the Indo-Pacific (the Quad), robust defense ties (signing of foundational agreements like LEMOA, COMCASA), counter-terrorism, space cooperation (NISAR), and a highly influential Indian diaspora.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Discuss areas of cooperation: Strategic alignment in the Indo-Pacific (the Quad), robust defense ties (signing of foundational agreements like LEMOA, COMCASA), counter-terrorism, space cooperation (NISAR), and a highly influential Indian diaspora."
       },
       {
         "section": "Body",
-        "text": "Discuss areas of contention: Trade disputes (tariffs, visa regulations, Intellectual Property Rights), differing stances on Russia (especially post-Ukraine invasion and CAATSA threats over S-400), and occasional US reports on India's human rights/religious freedom.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Discuss areas of contention: Trade disputes (tariffs, visa regulations, Intellectual Property Rights), differing stances on Russia (especially post-Ukraine invasion and CAATSA threats over S-400), and occasional US reports on India's human rights/religious freedom."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the relationship is mature enough to compartmentalize tactical differences while collaborating on shared strategic and democratic interests globally.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Conclude that the relationship is mature enough to compartmentalize tactical differences while collaborating on shared strategic and democratic interests globally."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS2_Q20",
-    "paper_title": "General Studies Paper 2",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 20,
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "20",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 2",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 2",
     "question_text": "Evaluate the role of World Bank in sustainable development of India.",
     "subjectId": "ir",
     "subjects": [
@@ -1126,36 +1102,35 @@
       "World Bank and sustainable development"
     ],
     "keyPointers": [
-      "Finance and a condition for a project",
-      "It has funded infrastructure, health and a reform",
-      "Evaluate whether the project was sustainable",
-      "The role is a lender and an agenda, not a government"
+      "Sustainable development",
+      "Inclusive growth",
+      "Multilateralism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It has funded a road, a health and a reform tied to a condition",
+      "The role in sustainable development is the money and the standard it asks for",
+      "Evaluation has to count the project and the condition"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the World Bank as a pivotal multilateral financial institution that has partnered with India for decades, shifting its focus toward sustainable and inclusive development.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Introduce the World Bank as a pivotal multilateral financial institution that has partnered with India for decades, shifting its focus toward sustainable and inclusive development."
       },
       {
         "section": "Body",
-        "text": "Evaluate financial and infrastructural roles: Funding massive projects in renewable energy (solar parks), National Hydrology Projects, disaster risk mitigation, and providing critical support to the Swachh Bharat Mission and Jal Jeevan Mission.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Evaluate financial and infrastructural roles: Funding massive projects in renewable energy (solar parks), National Hydrology Projects, disaster risk mitigation, and providing critical support to the Swachh Bharat Mission and Jal Jeevan Mission."
       },
       {
         "section": "Body",
-        "text": "Evaluate human capital and policy roles: Investing in health (COVID-19 emergency response) and education (STARS project), while also serving as a knowledge partner guiding policy reforms and ease of doing business improvements.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Evaluate human capital and policy roles: Investing in health (COVID-19 emergency response) and education (STARS project), while also serving as a knowledge partner guiding policy reforms and ease of doing business improvements."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the World Bank is no longer just a traditional lender to India, but a strategic collaborator aiding the nation's transition to a green, resilient, and sustainable economy.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 2"
+        "text": "Conclude that the World Bank is no longer just a traditional lender to India, but a strategic collaborator aiding the nation's transition to a green, resilient, and sustainable economy."
       }
     ]
   }

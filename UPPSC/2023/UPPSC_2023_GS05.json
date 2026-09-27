@@ -1,1161 +1,1126 @@
 [
   {
     "uid": "UPPSC_2023_GS5_Q1",
-    "paper_title": "General Studies Paper 5",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 1,
+    "year": 2023,
+    "paper_title": "GS Paper 5",
+    "q_number": "1",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 5",
-    "last_updated": 1778948209,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 5",
     "question_text": "Critically examine the process of appointment of the Advocate General and his functions in Uttar Pradesh.",
-    "subjectId": "up-history",
+    "subjectId": "constitution",
     "subjects": [
-      "UP History & Culture"
+      "Constitution"
     ],
-    "topic": "UP Ancient History",
+    "topic": "The Advocate General",
     "topics": [
-      "UP Ancient History"
+      "The Advocate General"
     ],
     "subTopics": [
       "Advocate General of UP"
     ],
     "keyPointers": [
-      "Appointed by the Governor; qualified to be a High Court judge",
-      "Advises the state and appears for it",
-      "Holds office at the Governor’s pleasure",
-      "Examine the appointment: legal officer, not a minister"
+      "Rule of law",
+      "Federalism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "He is appointed by the governor and must be qualified to be a judge of the High Court",
+      "The function is to advise the state government and to appear for it",
+      "A critical view asks how independent that advice is when the appointing power is the government itself"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce Article 165 of the Indian Constitution, which mandates the appointment of an Advocate General for each state.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Introduce Article 165 of the Indian Constitution, which mandates the appointment of an Advocate General for each state."
       },
       {
         "section": "Body",
-        "text": "Examine the appointment process: Appointed by the Governor on the aid and advice of the Council of Ministers, requiring the qualifications of a High Court Judge.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Examine the appointment process: Appointed by the Governor on the aid and advice of the Council of Ministers, requiring the qualifications of a High Court Judge."
       },
       {
         "section": "Body",
-        "text": "Discuss the functions and critical aspects: Serves as the highest law officer, advises the state government on legal matters, represents the state in courts, and has the right to speak in the state legislature without voting rights.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Discuss the functions and critical aspects: Serves as the highest law officer, advises the state government on legal matters, represents the state in courts, and has the right to speak in the state legislature without voting rights."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while the office is vital for legal administration, its political nature (holding office during the pleasure of the Governor) often subjects it to government transitions.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Conclude that while the office is vital for legal administration, its political nature (holding office during the pleasure of the Governor) often subjects it to government transitions."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS5_Q2",
-    "paper_title": "General Studies Paper 5",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 2,
+    "year": 2023,
+    "paper_title": "GS Paper 5",
+    "q_number": "2",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 5",
-    "last_updated": 1778948209,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 5",
     "question_text": "Discuss the nature of regional parties in Uttar Pradesh. Throw light on their importance in the politics of state.",
-    "subjectId": "up-history",
+    "subjectId": "constitution",
     "subjects": [
-      "UP History & Culture"
+      "Constitution"
     ],
-    "topic": "UP History & Culture",
+    "topic": "Regional parties in the state",
     "topics": [
-      "UP History & Culture"
+      "Regional parties in the state"
     ],
     "subTopics": [
       "Regional parties in UP"
     ],
     "keyPointers": [
-      "They organise a caste, a region or a farmer’s vote",
-      "They decide coalitions and a state agenda",
-      "Importance is the state’s politics, not a national ideology",
-      "Nature is electoral and social"
+      "Regionalism",
+      "Federalism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "They are built on a caste, a region or a leader more than on a national programme",
+      "Their importance is that they decide the state's government and often the national coalition",
+      "The nature is local power with a national effect"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Trace the rise of regional parties in UP (like Samajwadi Party, RLD, Apna Dal, Nishad Party) post the Mandal commission and agrarian movements.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Trace the rise of regional parties in UP (like Samajwadi Party, RLD, Apna Dal, Nishad Party) post the Mandal commission and agrarian movements."
       },
       {
         "section": "Body",
-        "text": "Discuss their nature: Largely based on specific caste coalitions, agrarian interests, identity politics, and regional demographic concentration.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Discuss their nature: Largely based on specific caste coalitions, agrarian interests, identity politics, and regional demographic concentration."
       },
       {
         "section": "Body",
-        "text": "Highlight their importance: They act as kingmakers in coalition politics, ensure representation of marginalized communities, and keep national parties attuned to local grievances.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Highlight their importance: They act as kingmakers in coalition politics, ensure representation of marginalized communities, and keep national parties attuned to local grievances."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that regional parties remain indispensable to the socio-political dynamics of UP, serving as crucial vehicles for decentralized democracy.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Conclude that regional parties remain indispensable to the socio-political dynamics of UP, serving as crucial vehicles for decentralized democracy."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS5_Q3",
-    "paper_title": "General Studies Paper 5",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 3,
+    "year": 2023,
+    "paper_title": "GS Paper 5",
+    "q_number": "3",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 5",
-    "last_updated": 1778948209,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 5",
     "question_text": "Describe the major stages in the formulation of Gram Panchayat Development Plan (GPDP) in Uttar Pradesh.",
-    "subjectId": "up-history",
+    "subjectId": "governance",
     "subjects": [
-      "UP History & Culture"
+      "Governance"
     ],
-    "topic": "UP Modern History",
+    "topic": "A village development plan",
     "topics": [
-      "UP Modern History"
+      "A village development plan"
     ],
     "subTopics": [
       "Gram panchayat development plan"
     ],
     "keyPointers": [
-      "A meeting of the gram sabha",
-      "Listing needs, a resource and a priority",
-      "The plan is local before it is uploaded",
-      "Stages fail if the sabha is only on paper"
+      "73rd and 74th Amendments",
+      "Local body finance",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The stages are a meeting, a list of needs, a priority and a budget the panchayat owns",
+      "Formulation is the process, not the poster",
+      "It works when the village, and not only the block office, writes the plan"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the GPDP under the 73rd Constitutional Amendment Act, aiming at decentralized planning and participatory grassroots governance in UP.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Introduce the GPDP under the 73rd Constitutional Amendment Act, aiming at decentralized planning and participatory grassroots governance in UP."
       },
       {
         "section": "Body",
-        "text": "Describe the initial stages: Environment generation (mobilizing villagers) and Situation Analysis (assessing local resources, needs, and gaps).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Describe the initial stages: Environment generation (mobilizing villagers) and Situation Analysis (assessing local resources, needs, and gaps)."
       },
       {
         "section": "Body",
-        "text": "Describe the execution stages: Visioning, projectization (costing and prioritizing tasks), and finally, approval by the Gram Sabha before integration into the state portal.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Describe the execution stages: Visioning, projectization (costing and prioritizing tasks), and finally, approval by the Gram Sabha before integration into the state portal."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that effective formulation of GPDP ensures that local development aligns accurately with actual rural requirements.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Conclude that effective formulation of GPDP ensures that local development aligns accurately with actual rural requirements."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS5_Q4",
-    "paper_title": "General Studies Paper 5",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 4,
+    "year": 2023,
+    "paper_title": "GS Paper 5",
+    "q_number": "4",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 5",
-    "last_updated": 1778948209,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 5",
     "question_text": "Highlight the greater possibilities of tourism in Uttar Pradesh.",
-    "subjectId": "up-polity",
+    "subjectId": "economy",
     "subjects": [
-      "UP Polity & Welfare"
+      "Economy & Development"
     ],
-    "topic": "UP Polity",
+    "topic": "Tourism the state could grow",
     "topics": [
-      "UP Polity"
+      "Tourism the state could grow"
     ],
     "subTopics": [
       "Tourism potential of UP"
     ],
     "keyPointers": [
-      "Faith, a monument, a river and a wildlife belt",
-      "The possibility is large and unevenly used",
-      "Circuits and a clean stay decide it",
-      "Highlight what is underused, not only Agra"
+      "Infrastructure",
+      "Inclusive growth"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A sacred city, a monument, a craft and a wildlife edge are already there",
+      "The possibility is a longer stay and a job in the town that hosts it",
+      "Greater means a road, a room and a clean site, not only a famous name"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Highlight UP's status as a state with immense tourism potential due to its rich historical, cultural, and geographic diversity.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Highlight UP's status as a state with immense tourism potential due to its rich historical, cultural, and geographic diversity."
       },
       {
         "section": "Body",
-        "text": "Detail religious and cultural possibilities: Development of the Ramayana Circuit (Ayodhya), Krishna Circuit (Mathura-Vrindavan), and the Buddhist Circuit (Sarnath, Kushinagar).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Detail religious and cultural possibilities: Development of the Ramayana Circuit (Ayodhya), Krishna Circuit (Mathura-Vrindavan), and the Buddhist Circuit (Sarnath, Kushinagar)."
       },
       {
         "section": "Body",
-        "text": "Detail eco and heritage tourism: Potential of Dudhwa National Park, Kaimur region, and the architectural heritage of Agra, Lucknow, and Varanasi.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Detail eco and heritage tourism: Potential of Dudhwa National Park, Kaimur region, and the architectural heritage of Agra, Lucknow, and Varanasi."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that expanding infrastructure and marketing can transform tourism into a major engine for employment and revenue generation in the state.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Conclude that expanding infrastructure and marketing can transform tourism into a major engine for employment and revenue generation in the state."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS5_Q5",
-    "paper_title": "General Studies Paper 5",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 5,
+    "year": 2023,
+    "paper_title": "GS Paper 5",
+    "q_number": "5",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 5",
-    "last_updated": 1778948209,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 5",
     "question_text": "Explain the security challenges in the border areas of Uttar Pradesh.",
-    "subjectId": "up-polity",
+    "subjectId": "security",
     "subjects": [
-      "UP Polity & Welfare"
+      "Internal Security"
     ],
-    "topic": "UP Polity",
+    "topic": "The state's borders",
     "topics": [
-      "UP Polity"
+      "The state's borders"
     ],
     "subTopics": [
       "Border security of UP"
     ],
     "keyPointers": [
-      "A long border with Nepal, and sensitive internal edges",
-      "Smuggling, migration and a crime route",
-      "The challenge is a porous line and a local economy",
-      "Security is posts plus a livelihood"
+      "Border management",
+      "Cross-border threats",
+      "Organised crime"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A river border with Nepal and a sensitive edge toward other states carry smuggling, a migration and a crime",
+      "The challenge is a long line and a thin watch",
+      "Security here is local, and the cause is often across the line"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Mention that UP shares a long, porous, and open international border with Nepal (approx. 599 km across 7 districts).",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Mention that UP shares a long, porous, and open international border with Nepal (approx. 599 km across 7 districts)."
       },
       {
         "section": "Body",
-        "text": "Explain traditional security challenges: Smuggling of illicit goods, narcotics, arms, and Fake Indian Currency Notes (FICN).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Explain traditional security challenges: Smuggling of illicit goods, narcotics, arms, and Fake Indian Currency Notes (FICN)."
       },
       {
         "section": "Body",
-        "text": "Explain non-traditional challenges: Human trafficking, unauthorized infiltration by anti-national elements utilizing the open border, and demographic shifts in border villages.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Explain non-traditional challenges: Human trafficking, unauthorized infiltration by anti-national elements utilizing the open border, and demographic shifts in border villages."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude on the need for enhanced deployment of the Sashastra Seema Bal (SSB), modernization of check posts, and better coordination with local border populations.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Conclude on the need for enhanced deployment of the Sashastra Seema Bal (SSB), modernization of check posts, and better coordination with local border populations."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS5_Q6",
-    "paper_title": "General Studies Paper 5",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 6,
+    "year": 2023,
+    "paper_title": "GS Paper 5",
+    "q_number": "6",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 5",
-    "last_updated": 1778948209,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 5",
     "question_text": "Discuss the architectural features of the monuments of Agra.",
-    "subjectId": "up-polity",
+    "subjectId": "culture",
     "subjects": [
-      "UP Polity & Welfare"
+      "Art & Culture"
     ],
-    "topic": "UP Health",
+    "topic": "The monuments of Agra",
     "topics": [
-      "UP Health"
+      "The monuments of Agra"
     ],
     "subTopics": [
       "Monuments of Agra"
     ],
     "keyPointers": [
-      "Red sandstone and white marble",
-      "Garden, dome, inlay and a river front",
-      "Mughal, with Indian and Persian elements",
-      "The feature is the blend, not one building"
+      "Patronage and art",
+      "Sculpture and iconography"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A dome, a garden, an inlay and a red sandstone fort are the features",
+      "The court paid for a tomb and a seat of power in the same city",
+      "The architecture is a blend, and each building is not the same style"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Establish Agra as the zenith of Mughal architecture, home to iconic UNESCO World Heritage sites.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Establish Agra as the zenith of Mughal architecture, home to iconic UNESCO World Heritage sites."
       },
       {
         "section": "Body",
-        "text": "Discuss features of the Taj Mahal and Itmad-ud-Daulah: Extensive use of white marble, perfect bilateral symmetry, intricate Pietra Dura inlay work, and Charbagh layouts.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Discuss features of the Taj Mahal and Itmad-ud-Daulah: Extensive use of white marble, perfect bilateral symmetry, intricate Pietra Dura inlay work, and Charbagh layouts."
       },
       {
         "section": "Body",
-        "text": "Discuss features of Agra Fort and Fatehpur Sikri: Robust red sandstone construction, blending of Persian arched styles with indigenous Hindu/Rajput features (chhatris, corbel brackets).",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Discuss features of Agra Fort and Fatehpur Sikri: Robust red sandstone construction, blending of Persian arched styles with indigenous Hindu/Rajput features (chhatris, corbel brackets)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that Agra's monuments symbolize a unique synthesis of Indo-Islamic art and engineering brilliance.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Conclude that Agra's monuments symbolize a unique synthesis of Indo-Islamic art and engineering brilliance."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS5_Q7",
-    "paper_title": "General Studies Paper 5",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 7,
+    "year": 2023,
+    "paper_title": "GS Paper 5",
+    "q_number": "7",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 5",
-    "last_updated": 1778948209,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 5",
     "question_text": "Identify the sites related to Harappan Civilization in Uttar Pradesh.",
-    "subjectId": "up-polity",
+    "subjectId": "ancient",
     "subjects": [
-      "UP Polity & Welfare"
+      "Ancient History"
     ],
-    "topic": "UP Welfare",
+    "topic": "Harappan sites in the state",
     "topics": [
-      "UP Welfare"
+      "Harappan sites in the state"
     ],
     "subTopics": [
       "Harappan sites in UP"
     ],
     "keyPointers": [
-      "Sites in the upper doab, including Alamgirpur",
-      "They mark the civilisation’s eastern edge",
-      "Identify the places, do not retell the whole Harappan story",
-      "The point is the state’s share of that map"
+      "Urbanisation",
+      "Continuity and change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A few sites in the upper doab show the civilisation reached this region",
+      "They are identified by a pottery, a brick and a layout",
+      "The list is shorter than in the west, and it is still part of the same culture"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Note that western Uttar Pradesh represents the easternmost expansion of the Indus Valley Civilization (IVC), primarily featuring Late Harappan phases.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Note that western Uttar Pradesh represents the easternmost expansion of the Indus Valley Civilization (IVC), primarily featuring Late Harappan phases."
       },
       {
         "section": "Body",
-        "text": "Identify key sites: Alamgirpur (Meerut, on the Hindon river) as the easternmost recognized limit, Hulas (Saharanpur), and Mandi (Muzaffarnagar).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Identify key sites: Alamgirpur (Meerut, on the Hindon river) as the easternmost recognized limit, Hulas (Saharanpur), and Mandi (Muzaffarnagar)."
       },
       {
         "section": "Body",
-        "text": "Mention recent excavations like Sanauli (Baghpat), which have revealed chariot burials and weaponry, sparking debates on contemporary cultures.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Mention recent excavations like Sanauli (Baghpat), which have revealed chariot burials and weaponry, sparking debates on contemporary cultures."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that these sites are crucial for understanding the geographical shift and eventual decline/transformation of the Harappan civilization.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Conclude that these sites are crucial for understanding the geographical shift and eventual decline/transformation of the Harappan civilization."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS5_Q8",
-    "paper_title": "General Studies Paper 5",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 8,
+    "year": 2023,
+    "paper_title": "GS Paper 5",
+    "q_number": "8",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 5",
-    "last_updated": 1778948209,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 5",
     "question_text": "Discuss the role of Uttar Pradesh during the Non-cooperation Movement.",
-    "subjectId": "up-polity",
+    "subjectId": "modern",
     "subjects": [
-      "UP Polity & Welfare"
+      "Modern India"
     ],
-    "topic": "UP Polity",
+    "topic": "The state in the Non-cooperation",
     "topics": [
-      "UP Polity"
+      "The state in the Non-cooperation"
     ],
     "subTopics": [
       "Non-Cooperation in UP"
     ],
     "keyPointers": [
-      "A wide boycott and a peasant edge",
-      "Chauri Chaura in this province stopped the movement",
-      "The role was mass and then a brake",
-      "Discuss both"
+      "Gandhi's mass politics"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A boycott of a court, a school and a foreign cloth had strong centres here",
+      "The role was a mass entry, including a peasant unrest",
+      "The state was not a side theatre of the movement"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Non-Cooperation Movement (1920-22) and identify the United Provinces (now UP) as a core epicenter of political and agrarian mobilization.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Introduce the Non-Cooperation Movement (1920-22) and identify the United Provinces (now UP) as a core epicenter of political and agrarian mobilization."
       },
       {
         "section": "Body",
-        "text": "Discuss mass participation: Boycott of courts, schools, and foreign cloth, led by prominent leaders like Motilal Nehru and Jawaharlal Nehru.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Discuss mass participation: Boycott of courts, schools, and foreign cloth, led by prominent leaders like Motilal Nehru and Jawaharlal Nehru."
       },
       {
         "section": "Body",
-        "text": "Discuss agrarian links and the climax: The movement deeply intertwined with peasant uprisings (Eka Movement, Oudh Kisan Sabha) and culminated in the Chauri Chaura incident (Gorakhpur, 1922) which led to the movement's suspension.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Discuss agrarian links and the climax: The movement deeply intertwined with peasant uprisings (Eka Movement, Oudh Kisan Sabha) and culminated in the Chauri Chaura incident (Gorakhpur, 1922) which led to the movement's suspension."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that UP's involvement transformed the freedom struggle from elite politics to a genuine mass movement.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Conclude that UP's involvement transformed the freedom struggle from elite politics to a genuine mass movement."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS5_Q9",
-    "paper_title": "General Studies Paper 5",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 9,
+    "year": 2023,
+    "paper_title": "GS Paper 5",
+    "q_number": "9",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 5",
-    "last_updated": 1778948209,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 5",
     "question_text": "What are the key objectives of the Uttar Pradesh Data Centre Policy-2021? Discuss.",
-    "subjectId": "up-history",
+    "subjectId": "economy",
     "subjects": [
-      "UP History & Culture"
+      "Economy & Development"
     ],
-    "topic": "UP Culture",
+    "topic": "The data centre policy",
     "topics": [
-      "UP Culture"
+      "The data centre policy"
     ],
     "subTopics": [
       "UP Data Centre Policy"
     ],
     "keyPointers": [
-      "Land, power and a single window for data centres",
-      "The aim is investment and a digital infrastructure",
-      "Objectives are incentives and a location",
-      "A policy is not yet a centre"
+      "Digital public infrastructure",
+      "Ease of doing business"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The aim is land, power and a single clearance for a centre that stores data",
+      "The objective is an investment and a digital capacity inside the state",
+      "A policy invites the building; the power and the skill decide if it stays"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the UP Data Centre Policy-2021 as a strategic move to position the state as a leading IT and data-hub in India.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Introduce the UP Data Centre Policy-2021 as a strategic move to position the state as a leading IT and data-hub in India."
       },
       {
         "section": "Body",
-        "text": "Discuss primary objectives: To attract a massive 250 MW data center industry and bring in private investments worth approximately Rs. 20,000 crores.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Discuss primary objectives: To attract a massive 250 MW data center industry and bring in private investments worth approximately Rs. 20,000 crores."
       },
       {
         "section": "Body",
-        "text": "Detail the supportive mechanisms: Offering capital subsidies, land acquisition assistance, uninterrupted dual-grid power supply, and generating direct/indirect employment.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Detail the supportive mechanisms: Offering capital subsidies, land acquisition assistance, uninterrupted dual-grid power supply, and generating direct/indirect employment."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that achieving these objectives will secure data sovereignty and accelerate digital transformation across governance and businesses in UP.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Conclude that achieving these objectives will secure data sovereignty and accelerate digital transformation across governance and businesses in UP."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS5_Q10",
-    "paper_title": "General Studies Paper 5",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 10,
+    "year": 2023,
+    "paper_title": "GS Paper 5",
+    "q_number": "10",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 5",
-    "last_updated": 1778948209,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 5",
     "question_text": "How much has the 'Operation Kayakalp' been significant in the efforts of converting the primary and upper primary schools into model schools? Analyse.",
-    "subjectId": "up-history",
+    "subjectId": "society",
     "subjects": [
-      "UP History & Culture"
+      "Indian Society"
     ],
-    "topic": "UP History",
+    "topic": "Operation Kayakalp",
     "topics": [
-      "UP History"
+      "Operation Kayakalp"
     ],
     "subTopics": [
       "Operation Kayakalp"
     ],
     "keyPointers": [
-      "A drive to repair and improve primary and upper-primary schools",
-      "Significance is the building, the toilet and the classroom",
-      "It helps only if maintenance follows the drive",
-      "Judge the conversion, not the launch"
+      "Education and social change",
+      "Inequality",
+      "Human development"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The effort was to turn an ordinary school into a model one, with a building, a toilet and a learning that can be seen",
+      "Significance is the number of schools actually changed",
+      "A paint and a gate without a teacher is not a model"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define Operation Kayakalp as the UP government's flagship mission to rejuvenate the dilapidated infrastructure of state-run primary and upper primary schools.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Define Operation Kayakalp as the UP government's flagship mission to rejuvenate the dilapidated infrastructure of state-run primary and upper primary schools."
       },
       {
         "section": "Body",
-        "text": "Analyze infrastructural improvements: Provisioning of clean drinking water, functional toilets, boundary walls, electrification, and smart classrooms through convergence of funds (Gram Panchayat, CSR).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Analyze infrastructural improvements: Provisioning of clean drinking water, functional toilets, boundary walls, electrification, and smart classrooms through convergence of funds (Gram Panchayat, CSR)."
       },
       {
         "section": "Body",
-        "text": "Analyze the impact: Enhanced student enrollment, reduced dropout rates, improved hygienic learning environments, and restored public trust in the basic education system.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Analyze the impact: Enhanced student enrollment, reduced dropout rates, improved hygienic learning environments, and restored public trust in the basic education system."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that Operation Kayakalp has laid the foundational hardware necessary for qualitative educational reforms in rural UP.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Conclude that Operation Kayakalp has laid the foundational hardware necessary for qualitative educational reforms in rural UP."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS5_Q11",
-    "paper_title": "General Studies Paper 5",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 11,
+    "year": 2023,
+    "paper_title": "GS Paper 5",
+    "q_number": "11",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 5",
-    "last_updated": 1778948209,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 5",
     "question_text": "Discuss the various stages of land reforms in Uttar Pradesh. How landless agricultural laboures were benefited from the land reforms?",
-    "subjectId": "medieval",
+    "subjectId": "agri",
     "subjects": [
-      "Medieval India"
+      "Agriculture"
     ],
-    "topic": "UP Art & Architecture",
+    "topic": "Land reform in the state",
     "topics": [
-      "UP Art & Architecture"
+      "Land reform in the state"
     ],
     "subTopics": [
       "Land reform in UP"
     ],
     "keyPointers": [
-      "Abolition of zamindari, ceilings, and distribution of surplus",
-      "Labourers gained some land and often poor land",
-      "Stages were legal before they were real",
-      "Benefit was partial"
+      "Land reforms",
+      "Agrarian relations",
+      "Small and marginal farmers"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Abolition of the landlord, a ceiling and a record were the stages",
+      "A labourer benefited where he actually received a plot and a title",
+      "Many remained labourers because the land that moved was small"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Set the context of an exploitative agrarian structure pre-independence and the passing of the UP Zamindari Abolition and Land Reforms Act, 1950.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Set the context of an exploitative agrarian structure pre-independence and the passing of the UP Zamindari Abolition and Land Reforms Act, 1950."
       },
       {
         "section": "Body",
-        "text": "Discuss the stages: 1) Abolition of intermediaries (Zamindars/Taluqdars). 2) Tenancy Reforms (granting occupancy rights to Bhumidhars and Sirdars). 3) Land Ceilings (UP Imposition of Ceiling on Land Holdings Act, 1960). 4) Consolidation of holdings (Chakbandi).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Discuss the stages: 1) Abolition of intermediaries (Zamindars/Taluqdars). 2) Tenancy Reforms (granting occupancy rights to Bhumidhars and Sirdars). 3) Land Ceilings (UP Imposition of Ceiling on Land Holdings Act, 1960). 4) Consolidation of holdings (Chakbandi)."
       },
       {
         "section": "Body",
-        "text": "Explain benefits to landless laborers: Distribution of surplus ceiling land (Bhoodan/Gramdan), provision of house-sites to Dalits/marginalized castes, and elimination of forced labor (Begar).",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Explain benefits to landless laborers: Distribution of surplus ceiling land (Bhoodan/Gramdan), provision of house-sites to Dalits/marginalized castes, and elimination of forced labor (Begar)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while land ceilings had implementation loopholes, the abolition of Zamindari structurally empowered the peasantry and shaped modern UP politics.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Conclude that while land ceilings had implementation loopholes, the abolition of Zamindari structurally empowered the peasantry and shaped modern UP politics."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS5_Q12",
-    "paper_title": "General Studies Paper 5",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 12,
+    "year": 2023,
+    "paper_title": "GS Paper 5",
+    "q_number": "12",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 5",
-    "last_updated": 1778948209,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 5",
     "question_text": "Examine the role of the Chief Secretary in the administration of Uttar Pradesh.",
-    "subjectId": "up-history",
+    "subjectId": "governance",
     "subjects": [
-      "UP History & Culture"
+      "Governance"
     ],
-    "topic": "UP Modern History",
+    "topic": "The Chief Secretary",
     "topics": [
-      "UP Modern History"
+      "The Chief Secretary"
     ],
     "subTopics": [
       "Chief Secretary of UP"
     ],
     "keyPointers": [
-      "Head of the state civil service",
-      "Coordinates departments and advises the chief minister",
-      "The role is the machine of government",
-      "Not an elected authority"
+      "Good governance",
+      "Impartiality",
+      "Dedication to public service"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "He coordinates the departments and is the senior-most civil servant the chief minister works through",
+      "The role is advice, a file and a follow-up",
+      "Administration depends on whether that office stays a coordinator and not a political agent"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Chief Secretary as the executive head of the state secretariat and the highest-ranking civil servant in Uttar Pradesh.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Introduce the Chief Secretary as the executive head of the state secretariat and the highest-ranking civil servant in Uttar Pradesh."
       },
       {
         "section": "Body",
-        "text": "Examine the advisory and cabinet roles: Acts as the principal advisor to the Chief Minister, acts as the Secretary to the State Cabinet, and ensures policy decisions are implemented.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Examine the advisory and cabinet roles: Acts as the principal advisor to the Chief Minister, acts as the Secretary to the State Cabinet, and ensures policy decisions are implemented."
       },
       {
         "section": "Body",
-        "text": "Examine the administrative roles: Coordinates between various departments, heads the state civil services board, manages central-state communication, and acts as the chief crisis manager during state emergencies.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Examine the administrative roles: Coordinates between various departments, heads the state civil services board, manages central-state communication, and acts as the chief crisis manager during state emergencies."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the Chief Secretary is the vital linchpin ensuring continuity, efficiency, and stability in the sprawling administration of UP.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Conclude that the Chief Secretary is the vital linchpin ensuring continuity, efficiency, and stability in the sprawling administration of UP."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS5_Q13",
-    "paper_title": "General Studies Paper 5",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 13,
+    "year": 2023,
+    "paper_title": "GS Paper 5",
+    "q_number": "13",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 5",
-    "last_updated": 1778948209,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 5",
     "question_text": "Throw light on the e. District Project of Uttar Pradesh government. Is it a good initiative in the direction of E.governance in Uttar Pradesh? Examine.",
-    "subjectId": "up-polity",
+    "subjectId": "governance",
     "subjects": [
-      "UP Polity & Welfare"
+      "Governance"
     ],
-    "topic": "UP Polity",
+    "topic": "The e-district project",
     "topics": [
-      "UP Polity"
+      "The e-district project"
     ],
     "subTopics": [
       "e-District in UP"
     ],
     "keyPointers": [
-      "Certificates and services from a common centre",
-      "A good initiative if the citizen need not chase the office",
-      "It is e-governance when the back end changes",
-      "A scanned form alone is not"
+      "Digital public infrastructure",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A certificate and a service move online at the district",
+      "It is a good step toward e-governance if the citizen can finish the work without a middleman",
+      "The test is the counter, not the portal"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the e-District project as a State Mission Mode Project under the National e-Governance Plan, aimed at computerizing backend citizen services.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Introduce the e-District project as a State Mission Mode Project under the National e-Governance Plan, aimed at computerizing backend citizen services."
       },
       {
         "section": "Body",
-        "text": "Detail the initiative: It facilitates the online delivery of high-volume services like income, caste, and domicile certificates, pension tracking, and rationing through Common Service Centers (CSCs).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Detail the initiative: It facilitates the online delivery of high-volume services like income, caste, and domicile certificates, pension tracking, and rationing through Common Service Centers (CSCs)."
       },
       {
         "section": "Body",
-        "text": "Examine its effectiveness: It is an excellent initiative as it minimizes red tape, reduces petty corruption, and increases transparency. However, challenges like the digital divide, poor rural internet connectivity, and server downtimes persist.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Examine its effectiveness: It is an excellent initiative as it minimizes red tape, reduces petty corruption, and increases transparency. However, challenges like the digital divide, poor rural internet connectivity, and server downtimes persist."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that despite implementation hurdles, e-District marks a paradigm shift towards accessible, doorstep governance for the citizens of UP.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Conclude that despite implementation hurdles, e-District marks a paradigm shift towards accessible, doorstep governance for the citizens of UP."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS5_Q14",
-    "paper_title": "General Studies Paper 5",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 14,
+    "year": 2023,
+    "paper_title": "GS Paper 5",
+    "q_number": "14",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 5",
-    "last_updated": 1778948209,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 5",
     "question_text": "How do caste hierarchies and power structure affect access to resources and opportunities in rural Uttar Pradesh? Discuss.",
-    "subjectId": "up-polity",
+    "subjectId": "society",
     "subjects": [
-      "UP Polity & Welfare"
+      "Indian Society"
     ],
-    "topic": "UP Polity",
+    "topic": "Caste and a village resource",
     "topics": [
-      "UP Polity"
+      "Caste and a village resource"
     ],
     "subTopics": [
       "Caste, power and rural access"
     ],
     "keyPointers": [
-      "Land, a scheme and the panchayat follow local power",
-      "Hierarchy decides who is seen",
-      "Access is not equal because the structure is not",
-      "Discuss the mechanism, not only the moral"
+      "Inequality",
+      "Agrarian relations",
+      "Poverty and nutrition"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Land, a job, a school and a scheme still travel along a caste line in many villages",
+      "Power decides who is heard in the panchayat",
+      "Access is unequal because the hierarchy is not only a custom"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Contextualize rural UP as a society traditionally structured around rigid caste hierarchies and deeply intertwined agrarian power dynamics.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Contextualize rural UP as a society traditionally structured around rigid caste hierarchies and deeply intertwined agrarian power dynamics."
       },
       {
         "section": "Body",
-        "text": "Discuss the impact on material resources: Historically dominant/upper castes retain control over the majority of arable land, credit facilities, and irrigation, leaving marginalized castes (Dalits, MBCs) primarily as landless laborers.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Discuss the impact on material resources: Historically dominant/upper castes retain control over the majority of arable land, credit facilities, and irrigation, leaving marginalized castes (Dalits, MBCs) primarily as landless laborers."
       },
       {
         "section": "Body",
-        "text": "Discuss the impact on opportunities and local power: Caste hegemony translates into political control over Panchayati Raj institutions, often skewing the distribution of state welfare schemes, education, and employment opportunities.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Discuss the impact on opportunities and local power: Caste hegemony translates into political control over Panchayati Raj institutions, often skewing the distribution of state welfare schemes, education, and employment opportunities."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that breaking this nexus requires sustained affirmative action, effective land redistribution, and the strict enforcement of anti-discrimination laws.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Conclude that breaking this nexus requires sustained affirmative action, effective land redistribution, and the strict enforcement of anti-discrimination laws."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS5_Q15",
-    "paper_title": "General Studies Paper 5",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 15,
+    "year": 2023,
+    "paper_title": "GS Paper 5",
+    "q_number": "15",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 5",
-    "last_updated": 1778948209,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 5",
     "question_text": "Describe the role of Uttar Pradesh Police 'Special Task Force' in the prevention of the organized crime.",
-    "subjectId": "up-polity",
+    "subjectId": "security",
     "subjects": [
-      "UP Polity & Welfare"
+      "Internal Security"
     ],
-    "topic": "UP Health",
+    "topic": "The Special Task Force",
     "topics": [
-      "UP Health"
+      "The Special Task Force"
     ],
     "subTopics": [
       "UP Special Task Force"
     ],
     "keyPointers": [
-      "A unit aimed at gangs and organised crime",
-      "Prevention is intelligence and a case, not only an encounter",
-      "Its role is specialised",
-      "Judge it by prosecutions and a fall in the crime, not headlines"
+      "Organised crime",
+      "Rule of law"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It was built to go after a gang the local police could not finish",
+      "Prevention is an intelligence, a case and a presence that raises the cost of the crime",
+      "The role is real, and it has to stay inside the law"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the UP STF, formed in 1998, as an elite, specialized intelligence-driven unit designed specifically to combat entrenched mafias and organized syndicates.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Introduce the UP STF, formed in 1998, as an elite, specialized intelligence-driven unit designed specifically to combat entrenched mafias and organized syndicates."
       },
       {
         "section": "Body",
-        "text": "Describe its operational role: Gathering advanced electronic and human intelligence, coordinating inter-district and inter-state operations, and executing high-risk apprehensions.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Describe its operational role: Gathering advanced electronic and human intelligence, coordinating inter-district and inter-state operations, and executing high-risk apprehensions."
       },
       {
         "section": "Body",
-        "text": "Detail its target areas in preventing organized crime: Dismantling gang networks, tackling rampant cybercrimes, busting drug/arms cartels, and neutralizing examination paper-leak mafias.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Detail its target areas in preventing organized crime: Dismantling gang networks, tackling rampant cybercrimes, busting drug/arms cartels, and neutralizing examination paper-leak mafias."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the STF has been instrumental in restoring the rule of law and breaking the backbone of organized crime-politics nexus in the state.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Conclude that the STF has been instrumental in restoring the rule of law and breaking the backbone of organized crime-politics nexus in the state."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS5_Q16",
-    "paper_title": "General Studies Paper 5",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 16,
+    "year": 2023,
+    "paper_title": "GS Paper 5",
+    "q_number": "16",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 5",
-    "last_updated": 1778948209,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 5",
     "question_text": "Analyse the achievements of Baba Ramchandra as a Peasant Leader.",
-    "subjectId": "up-polity",
+    "subjectId": "modern",
     "subjects": [
-      "UP Polity & Welfare"
+      "Modern India"
     ],
-    "topic": "UP Welfare",
+    "topic": "Baba Ramchandra",
     "topics": [
-      "UP Welfare"
+      "Baba Ramchandra"
     ],
     "subTopics": [
       "Baba Ramchandra"
     ],
     "keyPointers": [
-      "He organised Awadh peasants against taluqdari exactions",
-      "A link between a local grievance and the wider movement",
-      "Achievement is mobilisation",
-      "Analyse the leader, not a saint’s life"
+      "Agrarian relations",
+      "Gandhi's mass politics"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "He organised the peasants of Awadh against an eviction and an illegal cess",
+      "The achievement was a voice for a cultivator who had none",
+      "He was a peasant leader, and the later national movement absorbed that unrest"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce Baba Ramchandra, a sanyasi and indentured laborer returned from Fiji, who emerged as a formidable agrarian leader in the Awadh region during the 1920s.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Introduce Baba Ramchandra, a sanyasi and indentured laborer returned from Fiji, who emerged as a formidable agrarian leader in the Awadh region during the 1920s."
       },
       {
         "section": "Body",
-        "text": "Analyze his mobilization achievements: Successfully uniting disparate peasant castes against oppressive Taluqdars protesting exorbitant rents, evictions (bedakhali), and forced labor (nazrana/begar).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Analyze his mobilization achievements: Successfully uniting disparate peasant castes against oppressive Taluqdars protesting exorbitant rents, evictions (bedakhali), and forced labor (nazrana/begar)."
       },
       {
         "section": "Body",
-        "text": "Analyze institutional and political achievements: Instrumental in forming the Oudh Kisan Sabha (1920), successfully integrating local peasant grievances with the broader Non-Cooperation Movement, and innovatively using the Ramcharitmanas for mass appeal.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Analyze institutional and political achievements: Instrumental in forming the Oudh Kisan Sabha (1920), successfully integrating local peasant grievances with the broader Non-Cooperation Movement, and innovatively using the Ramcharitmanas for mass appeal."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that his grassroots leadership laid the crucial groundwork for subsequent tenancy reforms and socialist peasant movements in Uttar Pradesh.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Conclude that his grassroots leadership laid the crucial groundwork for subsequent tenancy reforms and socialist peasant movements in Uttar Pradesh."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS5_Q17",
-    "paper_title": "General Studies Paper 5",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 17,
+    "year": 2023,
+    "paper_title": "GS Paper 5",
+    "q_number": "17",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 5",
-    "last_updated": 1778948209,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 5",
     "question_text": "Throw light on the contributions of the warriors of Uttar Pradesh in the Freedom Struggle of 1857.",
-    "subjectId": "up-history",
+    "subjectId": "modern",
     "subjects": [
-      "UP History & Culture"
+      "Modern India"
     ],
-    "topic": "UP Culture",
+    "topic": "The state's fighters in 1857",
     "topics": [
-      "UP Culture"
+      "The state's fighters in 1857"
     ],
     "subTopics": [
       "1857 in UP"
     ],
     "keyPointers": [
-      "Meerut, Lucknow, Kanpur and Jhansi",
-      "Sepoy, peasant and a local ruler",
-      "The province was a main theatre",
-      "Name the contributions, not a single battle"
+      "Revolt of 1857"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Meerut, Lucknow, Kanpur and Jhansi were centres, not footnotes",
+      "The contribution was a rising, a siege and a leadership the British had to fight",
+      "The struggle in the state shaped how 1857 is remembered"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Acknowledge the United Provinces (Awadh and Meerut regions) as the primary theater and cradle of the 1857 revolt against the British East India Company.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Acknowledge the United Provinces (Awadh and Meerut regions) as the primary theater and cradle of the 1857 revolt against the British East India Company."
       },
       {
         "section": "Body",
-        "text": "Highlight central figures: Mangal Pandey (sparking the mutiny), Begum Hazrat Mahal (leading the fierce resistance in Lucknow), and Rani Lakshmibai of Jhansi (symbol of martial resistance).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Highlight central figures: Mangal Pandey (sparking the mutiny), Begum Hazrat Mahal (leading the fierce resistance in Lucknow), and Rani Lakshmibai of Jhansi (symbol of martial resistance)."
       },
       {
         "section": "Body",
-        "text": "Highlight other regional leaders: Nana Saheb and Tatya Tope coordinating from Kanpur, Maulvi Ahmadullah fiercely defending Faizabad, and Kunwar Singh's influence in eastern UP, alongside mass participation of local sepoys and peasants.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Highlight other regional leaders: Nana Saheb and Tatya Tope coordinating from Kanpur, Maulvi Ahmadullah fiercely defending Faizabad, and Kunwar Singh's influence in eastern UP, alongside mass participation of local sepoys and peasants."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the collective sacrifice of UP's warriors severely shook the foundations of British rule, marking the first major war of independence.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Conclude that the collective sacrifice of UP's warriors severely shook the foundations of British rule, marking the first major war of independence."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS5_Q18",
-    "paper_title": "General Studies Paper 5",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 18,
+    "year": 2023,
+    "paper_title": "GS Paper 5",
+    "q_number": "18",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 5",
-    "last_updated": 1778948209,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 5",
     "question_text": "Uttar Pradesh has an important place in the propagation of Buddhism. Explain.",
-    "subjectId": "up-polity",
+    "subjectId": "culture",
     "subjects": [
-      "UP Polity & Welfare"
+      "Art & Culture"
     ],
-    "topic": "UP Polity",
+    "topic": "Buddhism in the state",
     "topics": [
-      "UP Polity"
+      "Buddhism in the state"
     ],
     "subTopics": [
       "Buddhism in UP"
     ],
     "keyPointers": [
-      "Sarnath and the early teaching",
-      "Monasteries, a route and a later patronage",
-      "The state is central to the religion’s first geography",
-      "Explain the place, not the whole of Buddhism"
+      "Patronage and art",
+      "Continuity and change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Sarnath and other sites make the region central to the early teaching and the later art",
+      "Propagation was a monastery, a pillar and a route",
+      "The place is important because the tradition was taught and carved here"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "State that Uttar Pradesh is often referred to as the 'Cradle of Buddhism', as the most transformative events of Gautama Buddha's life occurred in this region.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "State that Uttar Pradesh is often referred to as the 'Cradle of Buddhism', as the most transformative events of Gautama Buddha's life occurred in this region."
       },
       {
         "section": "Body",
-        "text": "Explain key geographical milestones: Sarnath (where Buddha gave his first sermon, the Dharmachakra Pravartana) and Kushinagar (the site of his Mahaparinirvana).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Explain key geographical milestones: Sarnath (where Buddha gave his first sermon, the Dharmachakra Pravartana) and Kushinagar (the site of his Mahaparinirvana)."
       },
       {
         "section": "Body",
-        "text": "Discuss the institutional growth: Sravasti (where Buddha spent the maximum number of monsoon retreats/Chaurmasya), Sankissa, and Kaushambi served as major centers for early monastic orders and royal patronage (Ashoka, Harsha).",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Discuss the institutional growth: Sravasti (where Buddha spent the maximum number of monsoon retreats/Chaurmasya), Sankissa, and Kaushambi served as major centers for early monastic orders and royal patronage (Ashoka, Harsha)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the physical geography of UP remains the spiritual core of the global Buddhist community, forming the modern Buddhist Tourism Circuit.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Conclude that the physical geography of UP remains the spiritual core of the global Buddhist community, forming the modern Buddhist Tourism Circuit."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS5_Q19",
-    "paper_title": "General Studies Paper 5",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 19,
+    "year": 2023,
+    "paper_title": "GS Paper 5",
+    "q_number": "19",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 5",
-    "last_updated": 1778948209,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 5",
     "question_text": "Discuss the nature and objectives of the first Ayush University established in Uttar Pradesh.",
-    "subjectId": "up-history",
+    "subjectId": "society",
     "subjects": [
-      "UP History & Culture"
+      "Indian Society"
     ],
-    "topic": "UP History & Culture",
+    "topic": "The first AYUSH university",
     "topics": [
-      "UP History & Culture"
+      "The first AYUSH university"
     ],
     "subTopics": [
       "AYUSH university in UP"
     ],
     "keyPointers": [
-      "A university for traditional systems of medicine",
-      "Objectives: education, research and a standard",
-      "Nature is institutional, not a clinic",
-      "The test is quality, not the opening"
+      "Health as welfare",
+      "Education and social change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The aim is a teaching and a research home for the traditional systems",
+      "The nature is a university, not a dispensary",
+      "The objective is a trained practitioner and a standard, inside the state's health system"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Mahayogi Guru Gorakhnath Ayush University established in Gorakhpur as a pioneering institution in the state.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Introduce the Mahayogi Guru Gorakhnath Ayush University established in Gorakhpur as a pioneering institution in the state."
       },
       {
         "section": "Body",
-        "text": "Discuss its nature: It is the first dedicated umbrella university in UP mandated to affiliate and regulate all Ayurvedic, Unani, Siddha, and Homeopathy colleges across the state.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Discuss its nature: It is the first dedicated umbrella university in UP mandated to affiliate and regulate all Ayurvedic, Unani, Siddha, and Homeopathy colleges across the state."
       },
       {
         "section": "Body",
-        "text": "Discuss its objectives: Standardizing the curriculum and quality of Ayush education, promoting high-level research in traditional medicines, and integrating ancient medical wisdom with modern healthcare delivery.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Discuss its objectives: Standardizing the curriculum and quality of Ayush education, promoting high-level research in traditional medicines, and integrating ancient medical wisdom with modern healthcare delivery."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the university aims to make UP a global hub for alternative medicine and wellness tourism.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Conclude that the university aims to make UP a global hub for alternative medicine and wellness tourism."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS5_Q20",
-    "paper_title": "General Studies Paper 5",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 20,
+    "year": 2023,
+    "paper_title": "GS Paper 5",
+    "q_number": "20",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 5",
-    "last_updated": 1778948209,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 5",
     "question_text": "Examine state government's efforts, initiatives and policy directions in the medical and healthcare sphere with reference to Uttar Pradesh Health Policy 2018.",
-    "subjectId": "up-polity",
+    "subjectId": "society",
     "subjects": [
-      "UP Polity & Welfare"
+      "Indian Society"
     ],
-    "topic": "UP Welfare",
+    "topic": "The state's health policy",
     "topics": [
-      "UP Welfare"
+      "The state's health policy"
     ],
     "subTopics": [
       "State health policy in UP"
     ],
     "keyPointers": [
-      "Infrastructure, insurance and a primary-care push",
-      "Efforts are visible and uneven",
-      "Examine staffing and the last centre",
-      "Policy direction is not yet an outcome everywhere"
+      "Health as welfare",
+      "Inequality",
+      "Infrastructure"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A centre, a doctor and an insurance are the directions",
+      "The effort is visible in a building and a scheme",
+      "The examination is whether the poor patient in a remote block is actually treated"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the UP Health Policy 2018, which envisions accessible, affordable, and equitable healthcare for the state's massive population.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Introduce the UP Health Policy 2018, which envisions accessible, affordable, and equitable healthcare for the state's massive population."
       },
       {
         "section": "Body",
-        "text": "Examine infrastructural initiatives: The 'One District One Medical College' plan to address the doctor-patient ratio, upgrading PHCs and CHCs to Health and Wellness Centres, and deploying advanced life support ambulances.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Examine infrastructural initiatives: The 'One District One Medical College' plan to address the doctor-patient ratio, upgrading PHCs and CHCs to Health and Wellness Centres, and deploying advanced life support ambulances."
       },
       {
         "section": "Body",
-        "text": "Examine policy directions: Strategic focus on reducing Maternal and Infant Mortality Rates, combating communicable diseases (like AES/JE in Purvanchal), and encouraging public-private partnerships (PPP) for tertiary care.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Examine policy directions: Strategic focus on reducing Maternal and Infant Mortality Rates, combating communicable diseases (like AES/JE in Purvanchal), and encouraging public-private partnerships (PPP) for tertiary care."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that these comprehensive efforts are crucial for transitioning UP towards achieving Universal Health Coverage and sustainable demographic dividends.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 5"
+        "text": "Conclude that these comprehensive efforts are crucial for transitioning UP towards achieving Universal Health Coverage and sustainable demographic dividends."
       }
     ]
   }

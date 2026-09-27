@@ -1,523 +1,513 @@
 [
   {
     "uid": "UPPSC_2025_ESSAY_A1",
-    "paper_title": "Essay",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QA.1",
+    "year": 2025,
+    "paper_title": "Essay",
+    "q_number": "A1",
     "marks": 50,
+    "word_limit": 1000,
     "importance": 3,
-    "cite": "E",
-    "last_updated": 1778918500,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "कृत्रिम बुद्धिमत्ता के दौर में साहित्य का भविष्य ।\n\nThe future of literature in the age of Artificial Intelligence.",
+    "cite": "UPPSC Mains 2025 Essay",
+    "question_text": "कृत्रिम बुद्धिमत्ता के दौर में साहित्य का भविष्य । The future of literature in the age of Artificial Intelligence.",
     "subjectId": "essay-lit",
     "subjects": [
-      "Essay — Literature & Society"
+      "Essay"
     ],
-    "topic": "सामाजिक क्षेत्र",
+    "topic": "Literature after the machine",
     "topics": [
-      "सामाजिक क्षेत्र"
+      "Literature after the machine"
     ],
     "subTopics": [
       "Literature and artificial intelligence"
     ],
     "keyPointers": [
-      "A machine can arrange words",
-      "It does not yet have a lived life to write from",
-      "Literature may change form and still need a human witness",
-      "The future is a tool beside the writer, not a replacement of meaning"
+      "Literature as a social record",
+      "Artificial intelligence"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A machine can now produce a fluent paragraph",
+      "It cannot yet carry a lived memory or a moral risk the way a writer can",
+      "The future of literature is a contest over who is speaking, not only over who is faster"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The advent of Generative AI has redefined the boundaries of creativity, raising fundamental questions about whether algorithmic patterns can ever replace the soul and lived experience of human-authored literature.",
         "order": 1,
-        "cite": "E"
+        "text": "The advent of Generative AI has redefined the boundaries of creativity, raising fundamental questions about whether algorithmic patterns can ever replace the soul and lived experience of human-authored literature."
       },
       {
         "section": "Body",
-        "text": "While AI offers tools for rapid content generation and linguistic translation, it risks creating a loop of homogenized narratives that lack the unique emotional depth and cultural nuances of a human storyteller.",
         "order": 2,
-        "cite": "E"
+        "text": "While AI offers tools for rapid content generation and linguistic translation, it risks creating a loop of homogenized narratives that lack the unique emotional depth and cultural nuances of a human storyteller."
       },
       {
         "section": "Body",
-        "text": "The future of literature likely lies in a synergistic relationship where AI assists in structural aspects and research, while the human core provides the essential ethical judgment and conscious perspective.",
         "order": 3,
-        "cite": "E"
+        "text": "The future of literature likely lies in a synergistic relationship where AI assists in structural aspects and research, while the human core provides the essential ethical judgment and conscious perspective."
       },
       {
         "section": "Conclusion",
-        "text": "Literature remains a testament to human consciousness; thus, AI will evolve as a powerful creative assistant rather than a replacement for the profound human need to share authentic experiences.",
         "order": 4,
-        "cite": "E"
+        "text": "Literature remains a testament to human consciousness; thus, AI will evolve as a powerful creative assistant rather than a replacement for the profound human need to share authentic experiences."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_ESSAY_A2",
-    "paper_title": "Essay",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QA.2",
+    "year": 2025,
+    "paper_title": "Essay",
+    "q_number": "A2",
     "marks": 50,
+    "word_limit": 1000,
     "importance": 2,
-    "cite": "E",
-    "last_updated": 1778918500,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "नए भारत की वैश्विक चेतना ।\n\nGlobal consciousness of the New India.",
-    "subjectId": "essay-lit",
+    "cite": "UPPSC Mains 2025 Essay",
+    "question_text": "नए भारत की वैश्विक चेतना । Global consciousness of the New India.",
+    "subjectId": "essay-world",
     "subjects": [
-      "Essay — Literature & Society"
+      "Essay"
     ],
-    "topic": "सामाजिक क्षेत्र",
+    "topic": "A new India's sense of the world",
     "topics": [
-      "सामाजिक क्षेत्र"
+      "A new India's sense of the world"
     ],
     "subTopics": [
       "Global consciousness of a new India"
     ],
     "keyPointers": [
-      "A larger economy looks outward",
-      "Consciousness is how India sees its duty beyond the border",
-      "Climate, the diaspora and a multipolar voice",
-      "New is not automatic; it is a chosen stance"
+      "Strategic autonomy",
+      "Multilateralism",
+      "Diversity and pluralism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Global consciousness is how a country sees itself among others",
+      "The new claim is a larger voice, a diaspora and a confidence",
+      "Consciousness without a responsibility to the weaker is only a self-image"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "'New India' is increasingly characterized by a proactive global consciousness, moving away from reactive diplomacy to becoming a decisive voice in global governance and ethical leadership.",
         "order": 1,
-        "cite": "E"
+        "text": "'New India' is increasingly characterized by a proactive global consciousness, moving away from reactive diplomacy to becoming a decisive voice in global governance and ethical leadership."
       },
       {
         "section": "Body",
-        "text": "This consciousness is rooted in the philosophy of 'Vasudhaiva Kutumbakam' (The World is One Family), exemplified by India's leadership in the Global South and its role as a first responder during international crises.",
         "order": 2,
-        "cite": "E"
+        "text": "This consciousness is rooted in the philosophy of 'Vasudhaiva Kutumbakam' (The World is One Family), exemplified by India's leadership in the Global South and its role as a first responder during international crises."
       },
       {
         "section": "Body",
-        "text": "By balancing technological prowess with ancient civilizational wisdom, India is shaping global narratives on climate change, digital public infrastructure, and a rules-based multipolar world order.",
         "order": 3,
-        "cite": "E"
+        "text": "By balancing technological prowess with ancient civilizational wisdom, India is shaping global narratives on climate change, digital public infrastructure, and a rules-based multipolar world order."
       },
       {
         "section": "Conclusion",
-        "text": "India's global consciousness seeks a world order that is inclusive and peaceful, reflecting the aspirations of billions and establishing itself as a 'Vishwa-Mitra' (Friend of the World).",
         "order": 4,
-        "cite": "E"
+        "text": "India's global consciousness seeks a world order that is inclusive and peaceful, reflecting the aspirations of billions and establishing itself as a 'Vishwa-Mitra' (Friend of the World)."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_ESSAY_A3",
-    "paper_title": "Essay",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QA.3",
+    "year": 2025,
+    "paper_title": "Essay",
+    "q_number": "A3",
     "marks": 50,
+    "word_limit": 1000,
     "importance": 3,
-    "cite": "E",
-    "last_updated": 1778918500,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "इक्कीसवीं सदी में भारतीय स्त्री : स्वप्न से यथार्थ तक ।\n\nIndian women in the 21st century: From dreams to reality.",
-    "subjectId": "society",
+    "cite": "UPPSC Mains 2025 Essay",
+    "question_text": "इक्कीसवीं सदी में भारतीय स्त्री : स्वप्न से यथार्थ तक । Indian women in the 21st century: From dreams to reality.",
+    "subjectId": "essay-lit",
     "subjects": [
-      "Indian Society"
+      "Essay"
     ],
-    "topic": "Indian Society",
+    "topic": "The Indian woman, from a dream to a fact",
     "topics": [
-      "Indian Society"
+      "The Indian woman, from a dream to a fact"
     ],
     "subTopics": [
       "Women from dream to reality"
     ],
     "keyPointers": [
-      "Education and a law moved the dream",
-      "Work, safety and property are the reality still uneven",
-      "The century opened a door",
-      "The distance left is the essay"
+      "Women and work",
+      "Patriarchy",
+      "Education and social change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The dream was a school, a job and a choice",
+      "The reality is that some have all three and many still bargain for one",
+      "The century is the distance between the speech and the household"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The 21st century has witnessed a paradigm shift for Indian women, as they transition from seeking basic participation to leading across sectors from technology to sports and defense.",
         "order": 1,
-        "cite": "E"
+        "text": "The 21st century has witnessed a paradigm shift for Indian women, as they transition from seeking basic participation to leading across sectors from technology to sports and defense."
       },
       {
         "section": "Body",
-        "text": "While women have achieved the 'dream' of entering diverse professions, the 'reality' involves navigating systemic barriers like the glass ceiling and the double burden of domestic and professional labor.",
         "order": 2,
-        "cite": "E"
+        "text": "While women have achieved the 'dream' of entering diverse professions, the 'reality' involves navigating systemic barriers like the glass ceiling and the double burden of domestic and professional labor."
       },
       {
         "section": "Body",
-        "text": "Legislative reforms and social movements have empowered women at the grassroots, but true equality requires a deeper shift in the social psyche and the economic valuation of their contributions.",
         "order": 3,
-        "cite": "E"
+        "text": "Legislative reforms and social movements have empowered women at the grassroots, but true equality requires a deeper shift in the social psyche and the economic valuation of their contributions."
       },
       {
         "section": "Conclusion",
-        "text": "The journey from dream to reality for the Indian woman is ongoing, where her resilience continues to redefine the socio-economic landscape of the nation.",
         "order": 4,
-        "cite": "E"
+        "text": "The journey from dream to reality for the Indian woman is ongoing, where her resilience continues to redefine the socio-economic landscape of the nation."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_ESSAY_B1",
-    "paper_title": "Essay",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QB.1",
+    "year": 2025,
+    "paper_title": "Essay",
+    "q_number": "B1",
     "marks": 50,
+    "word_limit": 1000,
     "importance": 3,
-    "cite": "E",
-    "last_updated": 1778918500,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "विकास के निहितार्थ और पर्यावरण ।\n\nThe implications of development and the environment.",
-    "subjectId": "geo",
+    "cite": "UPPSC Mains 2025 Essay",
+    "question_text": "विकास के निहितार्थ और पर्यावरण । The implications of development and the environment.",
+    "subjectId": "essay-econ",
     "subjects": [
-      "Geography"
+      "Essay"
     ],
-    "topic": "Environment",
+    "topic": "Development and what it does to the earth",
     "topics": [
-      "Environment"
+      "Development and what it does to the earth"
     ],
     "subTopics": [
       "Development and the environment"
     ],
     "keyPointers": [
-      "A road and a mine have a cost that arrives later",
-      "Development that spends the place is a shorter gain",
-      "The implication is who pays",
-      "Both can be held only with a limit"
+      "Sustainable development",
+      "Environment versus livelihood",
+      "Inclusive growth"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A road, a mine and a city are the implications people can see",
+      "The unseen implication is a river, a forest and a lung",
+      "Development that does not count these is a bill sent to the next generation"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The traditional trade-off between economic development and environmental health has become unsustainable in an era of climate crisis, necessitating a redefined developmental philosophy.",
         "order": 1,
-        "cite": "E"
+        "text": "The traditional trade-off between economic development and environmental health has become unsustainable in an era of climate crisis, necessitating a redefined developmental philosophy."
       },
       {
         "section": "Body",
-        "text": "Industrial and urban development often carries hidden environmental costs, such as biodiversity loss and pollution, which disproportionately affect marginalized communities and future generations.",
         "order": 2,
-        "cite": "E"
+        "text": "Industrial and urban development often carries hidden environmental costs, such as biodiversity loss and pollution, which disproportionately affect marginalized communities and future generations."
       },
       {
         "section": "Body",
-        "text": "A shift toward a circular economy and 'Green Growth' ensures that economic expansion is decoupled from environmental degradation, focusing on qualitative rather than just quantitative progress.",
         "order": 3,
-        "cite": "E"
+        "text": "A shift toward a circular economy and 'Green Growth' ensures that economic expansion is decoupled from environmental degradation, focusing on qualitative rather than just quantitative progress."
       },
       {
         "section": "Conclusion",
-        "text": "Environmental preservation must be viewed as the foundational infrastructure for any lasting development, ensuring a habitable planet for a thriving civilization.",
         "order": 4,
-        "cite": "E"
+        "text": "Environmental preservation must be viewed as the foundational infrastructure for any lasting development, ensuring a habitable planet for a thriving civilization."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_ESSAY_B2",
-    "paper_title": "Essay",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QB.2",
+    "year": 2025,
+    "paper_title": "Essay",
+    "q_number": "B2",
     "marks": 50,
+    "word_limit": 1000,
     "importance": 2,
-    "cite": "E",
-    "last_updated": 1778918500,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "बदलती वैश्विक अर्थव्यवस्था में नैतिकता का प्रश्न ।\n\nThe issue of ethics in a changing global economy.",
-    "subjectId": "ethics",
+    "cite": "UPPSC Mains 2025 Essay",
+    "question_text": "बदलती वैश्विक अर्थव्यवस्था में नैतिकता का प्रश्न । The issue of ethics in a changing global economy.",
+    "subjectId": "essay-econ",
     "subjects": [
-      "Ethics & Values"
+      "Essay"
     ],
-    "topic": "Ethics basics",
+    "topic": "Ethics in a moving world economy",
     "topics": [
-      "Ethics basics"
+      "Ethics in a moving world economy"
     ],
     "subTopics": [
       "Ethics in the global economy"
     ],
     "keyPointers": [
-      "Supply chains hide the harm",
-      "A changing economy rewards speed",
-      "Ethics asks who is used",
-      "The question does not disappear because the market is global"
+      "Ethics and morals",
+      "Inequality",
+      "Inclusive growth",
+      "Corruption"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A faster trade and a digital market do not answer what is owed to the person left out",
+      "The ethical question is the wage, the data and the tax that can be hidden",
+      "A changing economy needs a limit that moves with it, not a slogan left behind"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "As the global economy becomes increasingly digitized and fragmented, the ethical framework governing markets and corporations is facing unprecedented challenges from inequality and data exploitation.",
         "order": 1,
-        "cite": "E"
+        "text": "As the global economy becomes increasingly digitized and fragmented, the ethical framework governing markets and corporations is facing unprecedented challenges from inequality and data exploitation."
       },
       {
         "section": "Body",
-        "text": "The pursuit of profit often clashes with ethical responsibilities regarding labor rights, environmental standards, and the equitable distribution of resources in a hyper-competitive global landscape.",
         "order": 2,
-        "cite": "E"
+        "text": "The pursuit of profit often clashes with ethical responsibilities regarding labor rights, environmental standards, and the equitable distribution of resources in a hyper-competitive global landscape."
       },
       {
         "section": "Body",
-        "text": "A changing global economy requires a new 'Global Ethic' that prioritizes human well-being and social justice over narrow corporate interests, ensuring that technology serves all of humanity.",
         "order": 3,
-        "cite": "E"
+        "text": "A changing global economy requires a new 'Global Ethic' that prioritizes human well-being and social justice over narrow corporate interests, ensuring that technology serves all of humanity."
       },
       {
         "section": "Conclusion",
-        "text": "Integrity and empathy must become the core pillars of the 21st-century economy to prevent systemic collapses and foster a more equitable global community.",
         "order": 4,
-        "cite": "E"
+        "text": "Integrity and empathy must become the core pillars of the 21st-century economy to prevent systemic collapses and foster a more equitable global community."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_ESSAY_B3",
-    "paper_title": "Essay",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QB.3",
+    "year": 2025,
+    "paper_title": "Essay",
+    "q_number": "B3",
     "marks": 50,
+    "word_limit": 1000,
     "importance": 2,
-    "cite": "E",
-    "last_updated": 1778918500,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "जैविक खेती : आवश्यकता या विवशता ।\n\nOrganic farming: Necessity or compulsion.",
-    "subjectId": "essay-lit",
+    "cite": "UPPSC Mains 2025 Essay",
+    "question_text": "जैविक खेती : आवश्यकता या विवशता । Organic farming: Necessity or compulsion.",
+    "subjectId": "essay-econ",
     "subjects": [
-      "Essay — Literature & Society"
+      "Essay"
     ],
-    "topic": "सामाजिक क्षेत्र",
+    "topic": "Organic farming, a need or a forced choice",
     "topics": [
-      "सामाजिक क्षेत्र"
+      "Organic farming, a need or a forced choice"
     ],
     "subTopics": [
       "Organic farming"
     ],
     "keyPointers": [
-      "Soil and a chemical cost make it a necessity",
-      "For a poor farmer without a premium, it can feel like a compulsion",
-      "The market and the knowledge decide which",
-      "It is necessary for the soil and hard for the margin"
+      "Sustainable development",
+      "Farmer income",
+      "Soil types"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A tired soil and a chemical bill make it look like a necessity",
+      "A missing market and a lower yield make it look like a compulsion",
+      "The honest answer is that it is a need for the land and a risk for the farmer who cannot wait"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Organic farming is currently viewed both as an ecological necessity for restoring soil health and a economic compulsion for farmers facing rising input costs in traditional agriculture.",
         "order": 1,
-        "cite": "E"
+        "text": "Organic farming is currently viewed both as an ecological necessity for restoring soil health and a economic compulsion for farmers facing rising input costs in traditional agriculture."
       },
       {
         "section": "Body",
-        "text": "It is a necessity because excessive chemical use has led to environmental toxicity and the erosion of agricultural biodiversity, threatening long-term food security.",
         "order": 2,
-        "cite": "E"
+        "text": "It is a necessity because excessive chemical use has led to environmental toxicity and the erosion of agricultural biodiversity, threatening long-term food security."
       },
       {
         "section": "Body",
-        "text": "However, it acts as a compulsion for many small-scale farmers as a way to reduce reliance on expensive synthetic inputs and tap into the high-value niche market for organic products.",
         "order": 3,
-        "cite": "E"
+        "text": "However, it acts as a compulsion for many small-scale farmers as a way to reduce reliance on expensive synthetic inputs and tap into the high-value niche market for organic products."
       },
       {
         "section": "Conclusion",
-        "text": "Whether viewed as a choice or a necessity, organic farming represents a critical path toward a sustainable, resilient, and chemical-free future for global agriculture.",
         "order": 4,
-        "cite": "E"
+        "text": "Whether viewed as a choice or a necessity, organic farming represents a critical path toward a sustainable, resilient, and chemical-free future for global agriculture."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_ESSAY_C1",
-    "paper_title": "Essay",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QC.1",
+    "year": 2025,
+    "paper_title": "Essay",
+    "q_number": "C1",
     "marks": 50,
+    "word_limit": 1000,
     "importance": 3,
-    "cite": "E",
-    "last_updated": 1778918500,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "भारत की विदेश नीति : गुटनिरपेक्षता से बहुध्रुवीय कूटनीति तक ।\n\nIndia's foreign policy: From non-alignment to multipolar diplomacy.",
-    "subjectId": "ir",
+    "cite": "UPPSC Mains 2025 Essay",
+    "question_text": "भारत की विदेश नीति : गुटनिरपेक्षता से बहुध्रुवीय कूटनीति तक । India's foreign policy: From non-alignment to multipolar diplomacy.",
+    "subjectId": "essay-world",
     "subjects": [
-      "International Relations"
+      "Essay"
     ],
-    "topic": "International Relations",
+    "topic": "From non-alignment to many poles",
     "topics": [
-      "International Relations"
+      "From non-alignment to many poles"
     ],
     "subTopics": [
       "From non-alignment to multipolar diplomacy"
     ],
     "keyPointers": [
-      "Non-alignment refused a camp",
-      "Multipolar diplomacy works several powers at once",
-      "The aim of autonomy remains",
-      "The method changed with the world"
+      "Strategic autonomy",
+      "Multilateralism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The older stance refused a camp",
+      "The newer one works several powers at once",
+      "The continuity is the refusal to be owned, and the change is the number of tables India now sits at"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "India's foreign policy has undergone a historic evolution, transitioning from the post-colonial ideal of non-alignment to a pragmatic and assertive multipolar diplomacy in the 21st century.",
         "order": 1,
-        "cite": "E"
+        "text": "India's foreign policy has undergone a historic evolution, transitioning from the post-colonial ideal of non-alignment to a pragmatic and assertive multipolar diplomacy in the 21st century."
       },
       {
         "section": "Body",
-        "text": "Non-alignment provided a foundation for strategic autonomy, but the current era demands 'multi-alignment' where India engages with diverse power centers to protect its core national interests.",
         "order": 2,
-        "cite": "E"
+        "text": "Non-alignment provided a foundation for strategic autonomy, but the current era demands 'multi-alignment' where India engages with diverse power centers to protect its core national interests."
       },
       {
         "section": "Body",
-        "text": "This shift involves active leadership in global forums like G20 and BRICS, positioning India as a bridge between the developed world and the Global South in a fragmenting geopolitical order.",
         "order": 3,
-        "cite": "E"
+        "text": "This shift involves active leadership in global forums like G20 and BRICS, positioning India as a bridge between the developed world and the Global South in a fragmenting geopolitical order."
       },
       {
         "section": "Conclusion",
-        "text": "India's modern diplomacy balances realistic power politics with civilizational values, seeking a stable multipolar order that is representative and democratic.",
         "order": 4,
-        "cite": "E"
+        "text": "India's modern diplomacy balances realistic power politics with civilizational values, seeking a stable multipolar order that is representative and democratic."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_ESSAY_C2",
-    "paper_title": "Essay",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QC.2",
+    "year": 2025,
+    "paper_title": "Essay",
+    "q_number": "C2",
     "marks": 50,
+    "word_limit": 1000,
     "importance": 2,
-    "cite": "E",
-    "last_updated": 1778918500,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "भूस्खलन : कितना मानवजनित कितना प्राकृतिक ।\n\nLandslides: How much Human-Induced, How much natural.",
-    "subjectId": "essay-lit",
+    "cite": "UPPSC Mains 2025 Essay",
+    "question_text": "भूस्खलन : कितना मानवजनित कितना प्राकृतिक । Landslides: How much Human-Induced, How much natural.",
+    "subjectId": "essay-econ",
     "subjects": [
-      "Essay — Literature & Society"
+      "Essay"
     ],
-    "topic": "सामाजिक क्षेत्र",
+    "topic": "A landslide, natural and made",
     "topics": [
-      "सामाजिक क्षेत्र"
+      "A landslide, natural and made"
     ],
     "subTopics": [
       "Human and natural causes of landslides"
     ],
     "keyPointers": [
-      "A young slope and a heavy rain are natural",
-      "A cut road, a mine and a blocked drain are human",
-      "Most deadly slides are both",
-      "The share that can be reduced is the human one"
+      "Landslide",
+      "Disaster risk reduction",
+      "Environment versus livelihood"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A steep slope and a heavy rain are the natural part",
+      "A cut road, a blocked drain and a house on the lip are the human part",
+      "How much of each is the question a death count alone cannot settle"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Landslides are natural geological events, but their increasing frequency and scale in fragile ecosystems like the Himalayas are primarily driven by aggressive human intervention.",
         "order": 1,
-        "cite": "E"
+        "text": "Landslides are natural geological events, but their increasing frequency and scale in fragile ecosystems like the Himalayas are primarily driven by aggressive human intervention."
       },
       {
         "section": "Body",
-        "text": "Natural triggers include steep slopes, seismic activity, and erratic rainfall; however, human-induced factors like deforestation, unscientific road construction, and large-scale damming have critically destabilized mountain slopes.",
         "order": 2,
-        "cite": "E"
+        "text": "Natural triggers include steep slopes, seismic activity, and erratic rainfall; however, human-induced factors like deforestation, unscientific road construction, and large-scale damming have critically destabilized mountain slopes."
       },
       {
         "section": "Body",
-        "text": "Unplanned urbanization and the lack of proper zoning laws in hazard-prone areas transform manageable natural risks into catastrophic tragedies.",
         "order": 3,
-        "cite": "E"
+        "text": "Unplanned urbanization and the lack of proper zoning laws in hazard-prone areas transform manageable natural risks into catastrophic tragedies."
       },
       {
         "section": "Conclusion",
-        "text": "Mitigating landslides requires a science-led developmental approach that prioritizes ecological stability over short-term economic gains.",
         "order": 4,
-        "cite": "E"
+        "text": "Mitigating landslides requires a science-led developmental approach that prioritizes ecological stability over short-term economic gains."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_ESSAY_C3",
-    "paper_title": "Essay",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QC.3",
+    "year": 2025,
+    "paper_title": "Essay",
+    "q_number": "C3",
     "marks": 50,
+    "word_limit": 1000,
     "importance": 3,
-    "cite": "E",
-    "last_updated": 1778918500,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "नए भारत का स्वप्न और ग्रामीण विकास योजनाएँ ।\n\nThe dream of New India and Rural Development Schemes.",
-    "subjectId": "essay-lit",
+    "cite": "UPPSC Mains 2025 Essay",
+    "question_text": "नए भारत का स्वप्न और ग्रामीण विकास योजनाएँ । The dream of New India and Rural Development Schemes.",
+    "subjectId": "essay-econ",
     "subjects": [
-      "Essay — Literature & Society"
+      "Essay"
     ],
-    "topic": "सामाजिक क्षेत्र",
+    "topic": "The dream of a new India and the village scheme",
     "topics": [
-      "सामाजिक क्षेत्र"
+      "The dream of a new India and the village scheme"
     ],
     "subTopics": [
       "Rural schemes and the dream of a new India"
     ],
     "keyPointers": [
-      "The dream is incomplete if the village is left",
-      "Schemes for work, a house, a toilet and a road",
-      "A dream becomes real only in delivery",
-      "The test is the last household"
+      "Inclusive growth",
+      "Poverty and nutrition",
+      "Welfare state"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The dream is a village with a road, a school and a job",
+      "A scheme is the instrument, and it is not the dream",
+      "The gap is the last household the scheme did not reach"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The vision of a 'Viksit Bharat' or New India is fundamentally tied to the transformation of its rural hinterland through integrated and technology-driven development schemes.",
         "order": 1,
-        "cite": "E"
+        "text": "The vision of a 'Viksit Bharat' or New India is fundamentally tied to the transformation of its rural hinterland through integrated and technology-driven development schemes."
       },
       {
         "section": "Body",
-        "text": "Flagship schemes like PMGSY for road connectivity, Jal Jeevan Mission for clean water, and digital financial inclusion (JAM trinity) are bridging the urban-rural divide and empowering rural citizens.",
         "order": 2,
-        "cite": "E"
+        "text": "Flagship schemes like PMGSY for road connectivity, Jal Jeevan Mission for clean water, and digital financial inclusion (JAM trinity) are bridging the urban-rural divide and empowering rural citizens."
       },
       {
         "section": "Body",
-        "text": "These schemes aim beyond basic survival, focusing on creating rural entrepreneurs through initiatives like Mudra and Startup India, thereby establishing rural areas as engines of national growth.",
         "order": 3,
-        "cite": "E"
+        "text": "These schemes aim beyond basic survival, focusing on creating rural entrepreneurs through initiatives like Mudra and Startup India, thereby establishing rural areas as engines of national growth."
       },
       {
         "section": "Conclusion",
-        "text": "The successful realization of New India depends on the saturation of these welfare schemes, ensuring that prosperity reaches the 'last mile' of the nation.",
         "order": 4,
-        "cite": "E"
+        "text": "The successful realization of New India depends on the saturation of these welfare schemes, ensuring that prosperity reaches the 'last mile' of the nation."
       }
     ]
   }

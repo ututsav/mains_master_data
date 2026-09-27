@@ -1,16 +1,16 @@
 [
   {
     "uid": "UPPSC_2025_GSP3_01",
-    "paper_title": "GS Paper 3",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 1,
+    "year": 2025,
+    "paper_title": "GS Paper 3",
+    "q_number": "1",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "3",
-    "last_updated": 1778718600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 3",
     "question_text": "Identify the critical challenges faced by the handicraft industries in India and discuss their challenges.",
     "subjectId": "economy",
     "subjects": [
@@ -24,167 +24,163 @@
       "Handicraft industry challenges"
     ],
     "keyPointers": [
-      "A skill without a steady market or credit",
-      "Middlemen and a cheap machine copy",
-      "The maker is informal and unprotected",
-      "The challenge is income, not only the beauty of the craft"
+      "Informal economy",
+      "Skill and employability",
+      "Inclusive growth"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A cheap copy, a missing credit and a weak market are the critical pressures",
+      "The maker is often informal and cannot meet a standard a buyer now asks for",
+      "The challenge is survival of the craft, not only a fall in export"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "India's handicraft sector is a vital source of non-farm employment and cultural heritage, yet it faces significant structural and market-related hurdles in the globalized era.",
         "order": 1,
-        "cite": "3"
+        "text": "India's handicraft sector is a vital source of non-farm employment and cultural heritage, yet it faces significant structural and market-related hurdles in the globalized era."
       },
       {
         "section": "Body",
-        "text": "Critical challenges include a lack of access to formal credit, technological obsolescence, and intense competition from cheap, machine-made mass-produced goods.",
         "order": 2,
-        "cite": "3"
+        "text": "Critical challenges include a lack of access to formal credit, technological obsolescence, and intense competition from cheap, machine-made mass-produced goods."
       },
       {
         "section": "Body",
-        "text": "Supply chain inefficiencies, such as the high cost of raw materials and the dominance of middle-men, often deprive artisans of fair wages and direct market access.",
         "order": 3,
-        "cite": "3"
+        "text": "Supply chain inefficiencies, such as the high cost of raw materials and the dominance of middle-men, often deprive artisans of fair wages and direct market access."
       },
       {
         "section": "Conclusion",
-        "text": "Strengthening the sector requires digital integration via e-commerce, GI tagging for brand protection, and targeted cluster development to ensure sustainable livelihoods for artisans.",
         "order": 4,
-        "cite": "3"
+        "text": "Strengthening the sector requires digital integration via e-commerce, GI tagging for brand protection, and targeted cluster development to ensure sustainable livelihoods for artisans."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP3_02",
-    "paper_title": "GS Paper 3",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 2,
+    "year": 2025,
+    "paper_title": "GS Paper 3",
+    "q_number": "2",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "3",
-    "last_updated": 1778718600,
-    "is_structured": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 3",
     "question_text": "\"Construction of new airports will facilitate industrialization and development in India.\" Examine.",
-    "subjectId": "stech",
+    "subjectId": "economy",
     "subjects": [
-      "Science & Technology"
+      "Economy & Development"
     ],
-    "topic": "Science & Tech",
+    "topic": "New airports and industry",
     "topics": [
-      "Science & Tech"
+      "New airports and industry"
     ],
     "subTopics": [
       "New airports and development"
     ],
     "keyPointers": [
-      "They connect a city to capital, cargo and a tourist",
-      "They do not by themselves build a factory",
-      "Land, a road from the airport and a skill still decide",
-      "Examine the link; do not assume it"
+      "Infrastructure",
+      "Manufacturing",
+      "Logistics"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A new airport can move people, a high-value cargo and an investor's confidence",
+      "It facilitates a development only if a road, a power and a skill are already there",
+      "The building alone does not industrialise a district"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Modern aviation infrastructure acts as a catalyst for economic growth by reducing logistical costs and integrating remote regions into the national and global value chains.",
         "order": 1,
-        "cite": "3"
+        "text": "Modern aviation infrastructure acts as a catalyst for economic growth by reducing logistical costs and integrating remote regions into the national and global value chains."
       },
       {
         "section": "Body",
-        "text": "New airports facilitate industrialization by attracting Foreign Direct Investment (FDI) and supporting time-sensitive industries like electronics, perishables, and pharmaceuticals.",
         "order": 2,
-        "cite": "3"
+        "text": "New airports facilitate industrialization by attracting Foreign Direct Investment (FDI) and supporting time-sensitive industries like electronics, perishables, and pharmaceuticals."
       },
       {
         "section": "Body",
-        "text": "Under schemes like UDAN, regional connectivity creates local employment hubs and boosts tourism, leading to the balanced regional development of tier-2 and tier-3 cities.",
         "order": 3,
-        "cite": "3"
+        "text": "Under schemes like UDAN, regional connectivity creates local employment hubs and boosts tourism, leading to the balanced regional development of tier-2 and tier-3 cities."
       },
       {
         "section": "Conclusion",
-        "text": "While airport construction is vital, its success depends on 'multi-modal' integration with roads and railways to create efficient industrial corridors across the country.",
         "order": 4,
-        "cite": "3"
+        "text": "While airport construction is vital, its success depends on 'multi-modal' integration with roads and railways to create efficient industrial corridors across the country."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP3_03",
-    "paper_title": "GS Paper 3",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 3,
+    "year": 2025,
+    "paper_title": "GS Paper 3",
+    "q_number": "3",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "3",
-    "last_updated": 1778718600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 3",
     "question_text": "Discuss the concept of unemployment in India as developed by National Sample Survey Office (NSSO).",
-    "subjectId": "stech",
+    "subjectId": "economy",
     "subjects": [
-      "Science & Technology"
+      "Economy & Development"
     ],
-    "topic": "Science & Tech",
+    "topic": "How unemployment is counted",
     "topics": [
-      "Science & Tech"
+      "How unemployment is counted"
     ],
     "subTopics": [
       "NSSO measures of unemployment"
     ],
     "keyPointers": [
-      "Usual status, current weekly and current daily",
-      "A person can be employed in a year and idle in a week",
-      "It captures underemployment better than a single rate",
-      "The concept fits an informal economy"
+      "Unemployment",
+      "Informal economy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The survey looks at a usual status and at the days actually worked",
+      "A person with a few days of work is not the same as a person with none",
+      "The concept has to catch the informal and the seasonal, or the number flatters"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The NSSO (now part of NSO) uses specific scientific metrics to measure unemployment, focusing on the activity status of individuals over defined reference periods.",
         "order": 1,
-        "cite": "3"
+        "text": "The NSSO (now part of NSO) uses specific scientific metrics to measure unemployment, focusing on the activity status of individuals over defined reference periods."
       },
       {
         "section": "Body",
-        "text": "The three key approaches are: Usual Status (US) for long-term trends, Current Weekly Status (CWS) for a 7-day snapshot, and Current Daily Status (CDS) for granular daily labor utilization.",
         "order": 2,
-        "cite": "3"
+        "text": "The three key approaches are: Usual Status (US) for long-term trends, Current Weekly Status (CWS) for a 7-day snapshot, and Current Daily Status (CDS) for granular daily labor utilization."
       },
       {
         "section": "Body",
-        "text": "These metrics help distinguish between 'open unemployment' and 'underemployment,' capturing the seasonal and informal nature of the Indian labor market.",
         "order": 3,
-        "cite": "3"
+        "text": "These metrics help distinguish between 'open unemployment' and 'underemployment,' capturing the seasonal and informal nature of the Indian labor market."
       },
       {
         "section": "Conclusion",
-        "text": "Accurate measurement via these NSSO concepts is fundamental for drafting effective employment generation policies like MGNREGA and PM-KVY.",
         "order": 4,
-        "cite": "3"
+        "text": "Accurate measurement via these NSSO concepts is fundamental for drafting effective employment generation policies like MGNREGA and PM-KVY."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP3_04",
-    "paper_title": "GS Paper 3",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 4,
+    "year": 2025,
+    "paper_title": "GS Paper 3",
+    "q_number": "4",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "3",
-    "last_updated": 1778718600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 3",
     "question_text": "How are digital payment systems promoting financial inclusion in India?",
     "subjectId": "economy",
     "subjects": [
@@ -198,109 +194,106 @@
       "Digital payments and inclusion"
     ],
     "keyPointers": [
-      "A phone payment reaches a person a branch did not",
-      "It builds a record for credit",
-      "Inclusion fails without a signal, a phone and trust",
-      "The payment is the door, not the whole finance"
+      "Financial inclusion",
+      "Digital public infrastructure"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A phone payment lets a small saver and a small shop enter the formal trail",
+      "It reaches a person a bank branch did not",
+      "Inclusion is the use, not the download"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Digital payment systems have democratized financial services in India, moving beyond urban centers to provide the unbanked population with formal economic identity.",
         "order": 1,
-        "cite": "3"
+        "text": "Digital payment systems have democratized financial services in India, moving beyond urban centers to provide the unbanked population with formal economic identity."
       },
       {
         "section": "Body",
-        "text": "The UPI ecosystem and Rupay cards have lowered transaction costs, allowing small-scale vendors and rural households to participate in the formal digital economy.",
         "order": 2,
-        "cite": "3"
+        "text": "The UPI ecosystem and Rupay cards have lowered transaction costs, allowing small-scale vendors and rural households to participate in the formal digital economy."
       },
       {
         "section": "Body",
-        "text": "Integration with the JAM trinity (Jan Dhan-Aadhaar-Mobile) has enabled seamless Direct Benefit Transfers (DBT), reducing leakages and ensuring that welfare reaches the intended beneficiaries.",
         "order": 3,
-        "cite": "3"
+        "text": "Integration with the JAM trinity (Jan Dhan-Aadhaar-Mobile) has enabled seamless Direct Benefit Transfers (DBT), reducing leakages and ensuring that welfare reaches the intended beneficiaries."
       },
       {
         "section": "Conclusion",
-        "text": "To sustain this momentum, focus must remain on enhancing digital literacy and strengthening cybersecurity to build trust among new-to-digital users.",
         "order": 4,
-        "cite": "3"
+        "text": "To sustain this momentum, focus must remain on enhancing digital literacy and strengthening cybersecurity to build trust among new-to-digital users."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP3_05",
-    "paper_title": "GS Paper 3",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 5,
+    "year": 2025,
+    "paper_title": "GS Paper 3",
+    "q_number": "5",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "3",
-    "last_updated": 1778718600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 3",
     "question_text": "\"Jobless Growth\" is a major concern for the Indian economy. In this backdrop, analyze the reasons behind the \"stagnation of employment elasticity\" in the manufacturing sector.",
-    "subjectId": "agri",
+    "subjectId": "economy",
     "subjects": [
-      "Agriculture & Food"
+      "Economy & Development"
     ],
-    "topic": "Agriculture",
+    "topic": "Growth that does not hire",
     "topics": [
-      "Agriculture"
+      "Growth that does not hire"
     ],
     "subTopics": [
       "Jobless growth"
     ],
     "keyPointers": [
-      "Output rose in sectors that use few workers",
-      "Factories did not absorb people leaving farms",
-      "Many new jobs are informal",
-      "Stagnation of employment is the quality and the count together"
+      "Unemployment",
+      "Economic growth",
+      "Informal economy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Output can rise while the extra output needs fewer extra workers",
+      "Services and a machine-heavy factory are the reason the elasticity stays low",
+      "Jobless growth is the worry that the number hides"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Jobless growth refers to a scenario where GDP increases without a corresponding rise in employment, a trend particularly evident in India's capital-intensive growth model.",
         "order": 1,
-        "cite": "3"
+        "text": "Jobless growth refers to a scenario where GDP increases without a corresponding rise in employment, a trend particularly evident in India's capital-intensive growth model."
       },
       {
         "section": "Body",
-        "text": "Stagnation in manufacturing employment elasticity is driven by increased automation and the shift toward 'capital-intensive' rather than 'labor-intensive' production techniques.",
         "order": 2,
-        "cite": "3"
+        "text": "Stagnation in manufacturing employment elasticity is driven by increased automation and the shift toward 'capital-intensive' rather than 'labor-intensive' production techniques."
       },
       {
         "section": "Body",
-        "text": "Rigid labor laws and the lack of a skilled workforce often discourage firms from scaling up labor-intensive operations, leading to 'premature de-industrialization' of the labor force.",
         "order": 3,
-        "cite": "3"
+        "text": "Rigid labor laws and the lack of a skilled workforce often discourage firms from scaling up labor-intensive operations, leading to 'premature de-industrialization' of the labor force."
       },
       {
         "section": "Conclusion",
-        "text": "Addressing this requires promoting MSMEs, incentivizing labor-intensive sectors like textiles, and aligning vocational training with the needs of Industry 4.0.",
         "order": 4,
-        "cite": "3"
+        "text": "Addressing this requires promoting MSMEs, incentivizing labor-intensive sectors like textiles, and aligning vocational training with the needs of Industry 4.0."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP3_06",
-    "paper_title": "GS Paper 3",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 6,
+    "year": 2025,
+    "paper_title": "GS Paper 3",
+    "q_number": "6",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "3",
-    "last_updated": 1778718600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 3",
     "question_text": "How can inclusive and sustainable industrialization (SDG 9) drive economic growth (SDG 8), while ensuring environmental sustainability (SDG 12, 13) in India?",
     "subjectId": "energyenv",
     "subjects": [
@@ -314,109 +307,108 @@
       "SDG 9 and SDG 8"
     ],
     "keyPointers": [
-      "Industry that employs and does not only automate",
-      "Infrastructure and innovation as the means",
-      "Growth that spends the environment fails the third aim",
-      "The three have to be designed together"
+      "Manufacturing",
+      "Sustainable development",
+      "Inclusive growth",
+      "Renewable energy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A factory can raise growth and still hire the person left out",
+      "The same factory fails the other goals if it dumps and burns",
+      "Inclusive and sustainable means the job and the limit arrive together"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Integrating the Sustainable Development Goals (SDGs) ensures that industrial expansion contributes to social equity and environmental health rather than just output.",
         "order": 1,
-        "cite": "3"
+        "text": "Integrating the Sustainable Development Goals (SDGs) ensures that industrial expansion contributes to social equity and environmental health rather than just output."
       },
       {
         "section": "Body",
-        "text": "SDG 9 drives growth (SDG 8) by creating resilient infrastructure and promoting small-scale industries that provide 'decent work' and income stability for a large population.",
         "order": 2,
-        "cite": "3"
+        "text": "SDG 9 drives growth (SDG 8) by creating resilient infrastructure and promoting small-scale industries that provide 'decent work' and income stability for a large population."
       },
       {
         "section": "Body",
-        "text": "Environmental targets (SDG 12 & 13) are met through 'Green Manufacturing,' adopting circular economy principles to reduce waste and carbon footprints during the production cycle.",
         "order": 3,
-        "cite": "3"
+        "text": "Environmental targets (SDG 12 & 13) are met through 'Green Manufacturing,' adopting circular economy principles to reduce waste and carbon footprints during the production cycle."
       },
       {
         "section": "Conclusion",
-        "text": "India’s path to a 'Viksit Bharat' depends on this synergistic approach, where innovation fuels prosperity without compromising the ecological limits of the planet.",
         "order": 4,
-        "cite": "3"
+        "text": "India’s path to a 'Viksit Bharat' depends on this synergistic approach, where innovation fuels prosperity without compromising the ecological limits of the planet."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP3_07",
-    "paper_title": "GS Paper 3",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 7,
+    "year": 2025,
+    "paper_title": "GS Paper 3",
+    "q_number": "7",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "3",
-    "last_updated": 1778718600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 3",
     "question_text": "Examine how the recent developments in biotechnology, particularly genome editing, are reshaping India's agricultural productivity and climate resilience, citing specific examples from 2024 - 2025.",
-    "subjectId": "security",
+    "subjectId": "agri",
     "subjects": [
-      "Internal Security"
+      "Agriculture"
     ],
-    "topic": "Internal Security",
+    "topic": "Editing a crop's genes",
     "topics": [
-      "Internal Security"
+      "Editing a crop's genes"
     ],
     "subTopics": [
       "Genome editing in agriculture"
     ],
     "keyPointers": [
-      "A precise change in a crop, not only a transferred gene",
-      "Yield, a pest and a nutrient can be targeted",
-      "Regulation and a farmer’s access decide the gain",
-      "Reshaping is possible; adoption is the test"
+      "Biotechnology",
+      "Climate and agriculture",
+      "Farmer income"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A precise edit can aim at a pest, a drought or a yield",
+      "The gain for the farmer depends on a seed he can get and a rule he can trust",
+      "Productivity and resilience are promised, and they are not yet a harvest in every district"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Genome editing, specifically CRISPR-Cas9, has emerged as a precision tool to enhance crop traits without the controversies associated with traditional transgenic (GMO) methods.",
         "order": 1,
-        "cite": "3"
+        "text": "Genome editing, specifically CRISPR-Cas9, has emerged as a precision tool to enhance crop traits without the controversies associated with traditional transgenic (GMO) methods."
       },
       {
         "section": "Body",
-        "text": "In 2024-2025, India has seen the development of 'Climate-Smart' rice and mustard varieties that are engineered for salinity tolerance and drought resistance to combat erratic monsoons.",
         "order": 2,
-        "cite": "3"
+        "text": "In 2024-2025, India has seen the development of 'Climate-Smart' rice and mustard varieties that are engineered for salinity tolerance and drought resistance to combat erratic monsoons."
       },
       {
         "section": "Body",
-        "text": "Productivity is being boosted through bio-fortified crops that address 'hidden hunger' and the development of pest-resistant traits that reduce the reliance on chemical pesticides.",
         "order": 3,
-        "cite": "3"
+        "text": "Productivity is being boosted through bio-fortified crops that address 'hidden hunger' and the development of pest-resistant traits that reduce the reliance on chemical pesticides."
       },
       {
         "section": "Conclusion",
-        "text": "With the 2024 policy relaxations on Site-Directed Nucleases (SDN-1 and SDN-2), India is positioned to become a global leader in sustainable, biotech-led food security.",
         "order": 4,
-        "cite": "3"
+        "text": "With the 2024 policy relaxations on Site-Directed Nucleases (SDN-1 and SDN-2), India is positioned to become a global leader in sustainable, biotech-led food security."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP3_08",
-    "paper_title": "GS Paper 3",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 8,
+    "year": 2025,
+    "paper_title": "GS Paper 3",
+    "q_number": "8",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "3",
-    "last_updated": 1778718600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 3",
     "question_text": "Evaluate the role of social media in radicalization across the borders.",
     "subjectId": "security",
     "subjects": [
@@ -430,51 +422,50 @@
       "Online radicalisation across borders"
     ],
     "keyPointers": [
-      "A video and a closed group cross a frontier",
-      "A grievance is given a simple enemy",
-      "The recruiter need not enter the country",
-      "The answer is a counter-story and a police, not only a block"
+      "Terrorism",
+      "Cyber security",
+      "Cross-border threats"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A video can recruit a person who never crosses a border to meet the recruiter",
+      "The same platform carries the reply and the lie",
+      "The role is a reach across a line the fence cannot stop"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Social media has decentralized the process of radicalization, allowing extremist ideologies to bypass traditional national borders and reach vulnerable individuals directly.",
         "order": 1,
-        "cite": "3"
+        "text": "Social media has decentralized the process of radicalization, allowing extremist ideologies to bypass traditional national borders and reach vulnerable individuals directly."
       },
       {
         "section": "Body",
-        "text": "Algorithms often create 'echo chambers' that reinforce biased narratives, while encrypted platforms facilitate clandestine recruitment and coordination for cross-border terror activities.",
         "order": 2,
-        "cite": "3"
+        "text": "Algorithms often create 'echo chambers' that reinforce biased narratives, while encrypted platforms facilitate clandestine recruitment and coordination for cross-border terror activities."
       },
       {
         "section": "Body",
-        "text": "Deepfakes and misinformation are used to incite communal tensions and delegitimize democratic institutions, posing a hybrid threat to internal and external security.",
         "order": 3,
-        "cite": "3"
+        "text": "Deepfakes and misinformation are used to incite communal tensions and delegitimize democratic institutions, posing a hybrid threat to internal and external security."
       },
       {
         "section": "Conclusion",
-        "text": "Combating this requires a mix of robust tech-regulation, international intelligence sharing, and 'counter-narrative' campaigns to build digital resilience among citizens.",
         "order": 4,
-        "cite": "3"
+        "text": "Combating this requires a mix of robust tech-regulation, international intelligence sharing, and 'counter-narrative' campaigns to build digital resilience among citizens."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP3_09",
-    "paper_title": "GS Paper 3",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 9,
+    "year": 2025,
+    "paper_title": "GS Paper 3",
+    "q_number": "9",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "3",
-    "last_updated": 1778718600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 3",
     "question_text": "Discuss the major causes of human trafficking and describe with examples, the role of the government in ensuring the protection and rehabilitation of the victims.",
     "subjectId": "security",
     "subjects": [
@@ -488,515 +479,507 @@
       "Human trafficking"
     ],
     "keyPointers": [
-      "Poverty, a false job and a weak border",
-      "Women and children are the usual victims",
-      "Rescue, a prosecution and rehabilitation",
-      "Protection fails if the survivor is only sent back"
+      "Organised crime",
+      "Poverty and nutrition",
+      "Women and work"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Poverty, a false job offer and a weak border are the usual causes",
+      "The government role is a rescue, a case and a place to return to",
+      "Protection fails if the person is sent back to the same recruiter"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Human trafficking is a grave violation of human rights driven by socio-economic vulnerabilities and the exploitative demands of informal labor and sex industries.",
         "order": 1,
-        "cite": "3"
+        "text": "Human trafficking is a grave violation of human rights driven by socio-economic vulnerabilities and the exploitative demands of informal labor and sex industries."
       },
       {
         "section": "Body",
-        "text": "Major causes include systemic poverty, lack of educational opportunities, and the displacement of people due to natural disasters or regional conflicts.",
         "order": 2,
-        "cite": "3"
+        "text": "Major causes include systemic poverty, lack of educational opportunities, and the displacement of people due to natural disasters or regional conflicts."
       },
       {
         "section": "Body",
-        "text": "The government intervenes through Anti-Human Trafficking Units (AHTUs) and schemes like 'Ujjawala' for rescue and 'Swadhar Greh' for the long-term rehabilitation and vocational training of survivors.",
         "order": 3,
-        "cite": "3"
+        "text": "The government intervenes through Anti-Human Trafficking Units (AHTUs) and schemes like 'Ujjawala' for rescue and 'Swadhar Greh' for the long-term rehabilitation and vocational training of survivors."
       },
       {
         "section": "Conclusion",
-        "text": "Ending trafficking requires a multi-dimensional approach that combines strict border surveillance with community-level awareness and economic empowerment of at-risk groups.",
         "order": 4,
-        "cite": "3"
+        "text": "Ending trafficking requires a multi-dimensional approach that combines strict border surveillance with community-level awareness and economic empowerment of at-risk groups."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP3_10",
-    "paper_title": "GS Paper 3",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 10,
+    "year": 2025,
+    "paper_title": "GS Paper 3",
+    "q_number": "10",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "3",
-    "last_updated": 1778718600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 3",
     "question_text": "\"Despite all efforts, 'Nuclear Proliferation' still poses a challenge to international security.\" Critically analyze this statement.",
-    "subjectId": "energyenv",
+    "subjectId": "security",
     "subjects": [
-      "Energy, Environment, Disaster"
+      "Internal Security"
     ],
-    "topic": "Disaster Management",
+    "topic": "Nuclear proliferation",
     "topics": [
-      "Disaster Management"
+      "Nuclear proliferation"
     ],
     "subTopics": [
       "Nuclear proliferation"
     ],
     "keyPointers": [
-      "More states and a non-state risk",
-      "Treaties slow it and do not stop a determined programme",
-      "The challenge is a weapon plus a weak control",
-      "Security is the spread, not only the size of an arsenal"
+      "Nuclear technology",
+      "Strategic autonomy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Treaties and inspections have slowed the spread, and they have not stopped it",
+      "A new state or a covert programme can still appear",
+      "The challenge remains because the knowledge and the incentive both survive the agreement"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "While global treaties like the NPT and CTBT aimed to curb the spread of nuclear weapons, the emergence of new nuclear powers and non-state actor threats has kept the risk high.",
         "order": 1,
-        "cite": "3"
+        "text": "While global treaties like the NPT and CTBT aimed to curb the spread of nuclear weapons, the emergence of new nuclear powers and non-state actor threats has kept the risk high."
       },
       {
         "section": "Body",
-        "text": "Challenges include the 'vertical proliferation' among existing nuclear states and the pursuit of nuclear capabilities by 'rogue nations' seeking to alter regional power balances.",
         "order": 2,
-        "cite": "3"
+        "text": "Challenges include the 'vertical proliferation' among existing nuclear states and the pursuit of nuclear capabilities by 'rogue nations' seeking to alter regional power balances."
       },
       {
         "section": "Body",
-        "text": "The risk of 'nuclear terrorism'—where non-state actors gain access to radioactive materials—poses a catastrophic threat to global urban security and stability.",
         "order": 3,
-        "cite": "3"
+        "text": "The risk of 'nuclear terrorism'—where non-state actors gain access to radioactive materials—poses a catastrophic threat to global urban security and stability."
       },
       {
         "section": "Conclusion",
-        "text": "A secure world requires moving beyond discriminatory treaties toward universal, non-discriminatory disarmament and stricter international monitoring of dual-use technologies.",
         "order": 4,
-        "cite": "3"
+        "text": "A secure world requires moving beyond discriminatory treaties toward universal, non-discriminatory disarmament and stricter international monitoring of dual-use technologies."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP3_11",
-    "paper_title": "GS Paper 3",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 11,
+    "year": 2025,
+    "paper_title": "GS Paper 3",
+    "q_number": "11",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "3",
-    "last_updated": 1778718600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 3",
     "question_text": "Rainfall and irrigation systems are complementary to each other as agriculture sector is highly vulnerable to weather variability. Justify with supportive data.",
-    "subjectId": "economy",
+    "subjectId": "agri",
     "subjects": [
-      "Economy & Development"
+      "Agriculture"
     ],
-    "topic": "Economy",
+    "topic": "Rain and irrigation",
     "topics": [
-      "Economy"
+      "Rain and irrigation"
     ],
     "subTopics": [
       "Rain and irrigation together"
     ],
     "keyPointers": [
-      "Rain is free and unreliable",
-      "Irrigation covers the gap and the dry week",
-      "Neither alone steadies the crop",
-      "Complement means storing the rain, not replacing it"
+      "Irrigation",
+      "Climate and agriculture",
+      "Monsoon",
+      "Farmer income"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The rain is uncertain, and the canal or the well covers the gap",
+      "They are complementary because neither one, alone, holds a crop through a bad week",
+      "Vulnerability falls only where the irrigation actually reaches the field"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Indian agriculture is often called a 'gamble on the monsoons,' making the synergy between natural rainfall and artificial irrigation systems critical for national food security.",
         "order": 1,
-        "cite": "3"
+        "text": "Indian agriculture is often called a 'gamble on the monsoons,' making the synergy between natural rainfall and artificial irrigation systems critical for national food security."
       },
       {
         "section": "Body",
-        "text": "Data shows that while nearly 50% of India's net sown area is rain-fed, the irrigated 50% contributes to over 60% of total food production, highlighting the 'stabilizing' effect of irrigation during erratic rainfall years.",
         "order": 2,
-        "cite": "3"
+        "text": "Data shows that while nearly 50% of India's net sown area is rain-fed, the irrigated 50% contributes to over 60% of total food production, highlighting the 'stabilizing' effect of irrigation during erratic rainfall years."
       },
       {
         "section": "Body",
-        "text": "Complementarity is seen in 'conjunctive use,' where surface irrigation recharges groundwater and rainwater harvesting provides a buffer during dry spells, reducing the vulnerability to climate-induced yield fluctuations.",
         "order": 3,
-        "cite": "3"
+        "text": "Complementarity is seen in 'conjunctive use,' where surface irrigation recharges groundwater and rainwater harvesting provides a buffer during dry spells, reducing the vulnerability to climate-induced yield fluctuations."
       },
       {
         "section": "Conclusion",
-        "text": "Achieving the 'Per Drop More Crop' objective under PMKSY is essential to decouple agricultural productivity from increasing weather variability and ensuring long-term resilience.",
         "order": 4,
-        "cite": "3"
+        "text": "Achieving the 'Per Drop More Crop' objective under PMKSY is essential to decouple agricultural productivity from increasing weather variability and ensuring long-term resilience."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP3_12",
-    "paper_title": "GS Paper 3",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 12,
+    "year": 2025,
+    "paper_title": "GS Paper 3",
+    "q_number": "12",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "3",
-    "last_updated": 1778718600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 3",
     "question_text": "What is meant by income inequality? How can income inequality be minimised in India?",
-    "subjectId": "stech",
+    "subjectId": "economy",
     "subjects": [
-      "Science & Technology"
+      "Economy & Development"
     ],
-    "topic": "Science & Tech",
+    "topic": "Income inequality",
     "topics": [
-      "Science & Tech"
+      "Income inequality"
     ],
     "subTopics": [
       "Reducing income inequality"
     ],
     "keyPointers": [
-      "The gap is wages, assets and a captured growth",
-      "Tax, a public school and a health floor",
-      "Jobs in labour-heavy work",
-      "Minimise by who gains, not only by the average"
+      "Inequality",
+      "Inclusive growth",
+      "Welfare state"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It is the gap between what the top and the bottom receive",
+      "A tax, a school, a health and a job that pays can narrow it",
+      "Minimising is not making everyone equal; it is stopping the gap from deciding a life"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Income inequality refers to the disproportionate distribution of total national income among different segments of the population, often measured by the Gini Coefficient.",
         "order": 1,
-        "cite": "3"
+        "text": "Income inequality refers to the disproportionate distribution of total national income among different segments of the population, often measured by the Gini Coefficient."
       },
       {
         "section": "Body",
-        "text": "To minimize inequality, India must focus on progressive taxation, strengthening social safety nets like MGNREGA, and increasing public spending on high-quality education and healthcare.",
         "order": 2,
-        "cite": "3"
+        "text": "To minimize inequality, India must focus on progressive taxation, strengthening social safety nets like MGNREGA, and increasing public spending on high-quality education and healthcare."
       },
       {
         "section": "Body",
-        "text": "Economic empowerment through MSME development and rural industrialization can redistribute wealth by creating decentralized employment opportunities for the bottom 40% of the population.",
         "order": 3,
-        "cite": "3"
+        "text": "Economic empowerment through MSME development and rural industrialization can redistribute wealth by creating decentralized employment opportunities for the bottom 40% of the population."
       },
       {
         "section": "Conclusion",
-        "text": "A 'K-shaped' recovery highlights the need for structural reforms that prioritize inclusive growth over just headline GDP figures to ensure social and economic stability.",
         "order": 4,
-        "cite": "3"
+        "text": "A 'K-shaped' recovery highlights the need for structural reforms that prioritize inclusive growth over just headline GDP figures to ensure social and economic stability."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP3_13",
-    "paper_title": "GS Paper 3",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 13,
+    "year": 2025,
+    "paper_title": "GS Paper 3",
+    "q_number": "13",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "3",
-    "last_updated": 1778718600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 3",
     "question_text": "Analyze the impact of global economic tensions and import-export obstacles on the Indian economy.",
-    "subjectId": "agri",
+    "subjectId": "economy",
     "subjects": [
-      "Agriculture & Food"
+      "Economy & Development"
     ],
-    "topic": "Food Security",
+    "topic": "A world quarrel and Indian trade",
     "topics": [
-      "Food Security"
+      "A world quarrel and Indian trade"
     ],
     "subTopics": [
       "Global tensions and India’s trade"
     ],
     "keyPointers": [
-      "A tariff, a disrupted route and a dearer input",
-      "Exports and a supply chain both feel it",
-      "The hit is uneven by sector",
-      "Diversify the market and the source"
+      "Trade and foreign policy",
+      "Economic growth",
+      "World Trade Organization"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A tariff, a sanction or a blocked route raises the cost of an Indian export and of an input",
+      "The impact is on the price, the job and the foreign exchange",
+      "The economy feels a tension it did not start"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Global economic tensions, such as trade wars and geopolitical conflicts, create a volatile environment for India's trade-to-GDP ratio and supply chain security.",
         "order": 1,
-        "cite": "3"
+        "text": "Global economic tensions, such as trade wars and geopolitical conflicts, create a volatile environment for India's trade-to-GDP ratio and supply chain security."
       },
       {
         "section": "Body",
-        "text": "Import obstacles, like rising oil prices and supply disruptions in critical raw materials (e.g., semiconductors), lead to 'imported inflation' and widen the Current Account Deficit (CAD).",
         "order": 2,
-        "cite": "3"
+        "text": "Import obstacles, like rising oil prices and supply disruptions in critical raw materials (e.g., semiconductors), lead to 'imported inflation' and widen the Current Account Deficit (CAD)."
       },
       {
         "section": "Body",
-        "text": "On the export front, protectionist non-tariff barriers in major markets can hinder India's labor-intensive sectors, necessitating a pivot toward new Free Trade Agreements (FTAs).",
         "order": 3,
-        "cite": "3"
+        "text": "On the export front, protectionist non-tariff barriers in major markets can hinder India's labor-intensive sectors, necessitating a pivot toward new Free Trade Agreements (FTAs)."
       },
       {
         "section": "Conclusion",
-        "text": "India must leverage 'Atmanirbhar Bharat' to build domestic resilience while diversifying its export basket to mitigate the risks of a fragmenting global economic order.",
         "order": 4,
-        "cite": "3"
+        "text": "India must leverage 'Atmanirbhar Bharat' to build domestic resilience while diversifying its export basket to mitigate the risks of a fragmenting global economic order."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP3_14",
-    "paper_title": "GS Paper 3",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 14,
+    "year": 2025,
+    "paper_title": "GS Paper 3",
+    "q_number": "14",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "3",
-    "last_updated": 1778718600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 3",
     "question_text": "\"Investment in health and education forms the foundation of economic development.\" Explain the views of the Government of India in this context.",
-    "subjectId": "stech",
+    "subjectId": "society",
     "subjects": [
-      "Science & Technology"
+      "Indian Society"
     ],
-    "topic": "Science & Tech",
+    "topic": "Health and schooling as the base",
     "topics": [
-      "Science & Tech"
+      "Health and schooling as the base"
     ],
     "subTopics": [
       "Health and education as economic foundation"
     ],
     "keyPointers": [
-      "A skilled, healthy worker is the base of later growth",
-      "The government’s view is human capital, not only a plant",
-      "Under-spend here shows up as a jobless rise",
-      "The foundation is capability"
+      "Human development",
+      "Education and social change",
+      "Health as welfare"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A sick or unschooled worker cannot use a machine or a market",
+      "The government's view treats both as an investment, not as a leftover",
+      "The foundation is real only when the clinic and the school actually work"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The Government of India views health and education as 'human capital' investments that are essential for long-term productivity and realizing the demographic dividend.",
         "order": 1,
-        "cite": "3"
+        "text": "The Government of India views health and education as 'human capital' investments that are essential for long-term productivity and realizing the demographic dividend."
       },
       {
         "section": "Body",
-        "text": "Through Ayushman Bharat and the National Education Policy (NEP) 2020, the government aims to create a healthy, skilled workforce capable of competing in a globalized knowledge economy.",
         "order": 2,
-        "cite": "3"
+        "text": "Through Ayushman Bharat and the National Education Policy (NEP) 2020, the government aims to create a healthy, skilled workforce capable of competing in a globalized knowledge economy."
       },
       {
         "section": "Body",
-        "text": "These investments are seen as 'social infrastructure' that reduces poverty, improves gender parity, and creates a virtuous cycle of higher earnings and increased domestic demand.",
         "order": 3,
-        "cite": "3"
+        "text": "These investments are seen as 'social infrastructure' that reduces poverty, improves gender parity, and creates a virtuous cycle of higher earnings and increased domestic demand."
       },
       {
         "section": "Conclusion",
-        "text": "Prioritizing these 'foundational' sectors is critical for India's transition from a middle-income country to a 'Viksit Bharat' by 2047.",
         "order": 4,
-        "cite": "3"
+        "text": "Prioritizing these 'foundational' sectors is critical for India's transition from a middle-income country to a 'Viksit Bharat' by 2047."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP3_15",
-    "paper_title": "GS Paper 3",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 15,
+    "year": 2025,
+    "paper_title": "GS Paper 3",
+    "q_number": "15",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "3",
-    "last_updated": 1778718600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 3",
     "question_text": "\"Land reforms in India remain an unfinished agenda.\" Explain how the lack of proper land records and tenancy reforms act as hurdles in the industrialization and modernisation of agriculture in India.",
-    "subjectId": "geo",
+    "subjectId": "economy",
     "subjects": [
-      "Geography"
+      "Economy & Development"
     ],
-    "topic": "Environment",
+    "topic": "Land records and a factory",
     "topics": [
-      "Environment"
+      "Land records and a factory"
     ],
     "subTopics": [
       "Unfinished land reform"
     ],
     "keyPointers": [
-      "A title that is unclear blocks credit and a sale",
-      "Tenancy is informal, so the tiller is unprotected",
-      "Ceilings were the old agenda; records are the present one",
-      "Unfinished means the cultivator still does not securely hold the land"
+      "Land reforms",
+      "Ease of doing business",
+      "Manufacturing"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A factory needs a clear title and a tenant who can be dealt with lawfully",
+      "A missing record and an old tenancy freeze the land",
+      "Unfinished reform becomes a hurdle to industry, not only to the farm"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Despite post-independence efforts, land reforms in India have faced implementation gaps, leading to fragmented holdings and insecure land titles.",
         "order": 1,
-        "cite": "3"
+        "text": "Despite post-independence efforts, land reforms in India have faced implementation gaps, leading to fragmented holdings and insecure land titles."
       },
       {
         "section": "Body",
-        "text": "The lack of digitized, clear land records hinders agricultural modernization by preventing small farmers from accessing formal credit, as they lack valid collateral for bank loans.",
         "order": 2,
-        "cite": "3"
+        "text": "The lack of digitized, clear land records hinders agricultural modernization by preventing small farmers from accessing formal credit, as they lack valid collateral for bank loans."
       },
       {
         "section": "Body",
-        "text": "Absentee landlordism and lack of tenancy reforms discourage long-term capital investment in land, while industry faces delays and high costs in land acquisition for large-scale projects.",
         "order": 3,
-        "cite": "3"
+        "text": "Absentee landlordism and lack of tenancy reforms discourage long-term capital investment in land, while industry faces delays and high costs in land acquisition for large-scale projects."
       },
       {
         "section": "Conclusion",
-        "text": "Completing the land reform agenda through digital mapping (DILRMP) and liberalized leasing laws is vital for transforming India into an industrial and agricultural powerhouse.",
         "order": 4,
-        "cite": "3"
+        "text": "Completing the land reform agenda through digital mapping (DILRMP) and liberalized leasing laws is vital for transforming India into an industrial and agricultural powerhouse."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP3_16",
-    "paper_title": "GS Paper 3",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 16,
+    "year": 2025,
+    "paper_title": "GS Paper 3",
+    "q_number": "16",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "3",
-    "last_updated": 1778718600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 3",
     "question_text": "Assess the contribution of Startup schemes of the Government of India in technology transfer, economic growth and overall development of India.",
-    "subjectId": "energyenv",
+    "subjectId": "economy",
     "subjects": [
-      "Energy, Environment, Disaster"
+      "Economy & Development"
     ],
-    "topic": "Energy",
+    "topic": "Startup schemes",
     "topics": [
-      "Energy"
+      "Startup schemes"
     ],
     "subTopics": [
       "Startup schemes"
     ],
     "keyPointers": [
-      "A grant, a credit and a simpler rule",
-      "They move a laboratory idea toward a firm",
-      "Growth is real in some sectors and thin in jobs",
-      "Contribution is innovation more than mass employment"
+      "Ease of doing business",
+      "Skill and employability",
+      "Economic growth"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A scheme can fund a first product and connect a lab to a firm",
+      "The contribution is a faster trial, not yet a transformed economy",
+      "Growth follows only if the firm survives the grant"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The Startup India initiative has transformed India into the world's third-largest startup ecosystem, fostering a culture of innovation and decentralized entrepreneurship.",
         "order": 1,
-        "cite": "3"
+        "text": "The Startup India initiative has transformed India into the world's third-largest startup ecosystem, fostering a culture of innovation and decentralized entrepreneurship."
       },
       {
         "section": "Body",
-        "text": "Technology transfer is facilitated through incubation centers and 'Deep-Tech' fund-of-funds, allowing startups to commercialize laboratory research into market-ready products in fields like AI and drones.",
         "order": 2,
-        "cite": "3"
+        "text": "Technology transfer is facilitated through incubation centers and 'Deep-Tech' fund-of-funds, allowing startups to commercialize laboratory research into market-ready products in fields like AI and drones."
       },
       {
         "section": "Body",
-        "text": "Startups drive economic growth by attracting significant Venture Capital (VC) and creating millions of high-value jobs, while solving 'real-world' problems in agritech, healthtech, and edtech.",
         "order": 3,
-        "cite": "3"
+        "text": "Startups drive economic growth by attracting significant Venture Capital (VC) and creating millions of high-value jobs, while solving 'real-world' problems in agritech, healthtech, and edtech."
       },
       {
         "section": "Conclusion",
-        "text": "By shifting the focus from 'job seekers' to 'job creators,' these schemes are pivotal for India's overall developmental goals and self-reliance.",
         "order": 4,
-        "cite": "3"
+        "text": "By shifting the focus from 'job seekers' to 'job creators,' these schemes are pivotal for India's overall developmental goals and self-reliance."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP3_17",
-    "paper_title": "GS Paper 3",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 17,
+    "year": 2025,
+    "paper_title": "GS Paper 3",
+    "q_number": "17",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "3",
-    "last_updated": 1778718600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 3",
     "question_text": "Information technology, Space technology and Biotechnology are playing important roles in transforming India into a developed nation. Discuss with examples.",
-    "subjectId": "energyenv",
+    "subjectId": "stech",
     "subjects": [
-      "Energy, Environment, Disaster"
+      "Science & Technology"
     ],
-    "topic": "Disaster Management",
+    "topic": "Three technologies and a developed India",
     "topics": [
-      "Disaster Management"
+      "Three technologies and a developed India"
     ],
     "subTopics": [
       "Three technologies and development"
     ],
     "keyPointers": [
-      "IT is the service and the digital state",
-      "Space is communication, a map and a weather warning",
-      "Biotechnology is seed, a vaccine and a process",
-      "Together they raise capability; they do not replace land and school"
+      "Digital public infrastructure",
+      "Space programme",
+      "Biotechnology"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Information technology moves a payment and a service",
+      "Space technology maps a crop and warns of a storm",
+      "Biotechnology changes a seed and a medicine",
+      "Together they are tools of development, and each one still needs a person who can use it"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The convergence of IT, Space, and Biotech forms the core of India's scientific leadership, providing leapfrog opportunities for sustainable development.",
         "order": 1,
-        "cite": "3"
+        "text": "The convergence of IT, Space, and Biotech forms the core of India's scientific leadership, providing leapfrog opportunities for sustainable development."
       },
       {
         "section": "Body",
-        "text": "Examples include the 'India Stack' (IT) for financial inclusion, ISRO's Chandrayaan and NavIC (Space) for communication and resource mapping, and bio-fortified crops and COVID vaccines (Biotech).",
         "order": 2,
-        "cite": "3"
+        "text": "Examples include the 'India Stack' (IT) for financial inclusion, ISRO's Chandrayaan and NavIC (Space) for communication and resource mapping, and bio-fortified crops and COVID vaccines (Biotech)."
       },
       {
         "section": "Body",
-        "text": "These technologies collectively improve governance through e-services, enhance national security through satellite surveillance, and ensure health and food security for 1.4 billion people.",
         "order": 3,
-        "cite": "3"
+        "text": "These technologies collectively improve governance through e-services, enhance national security through satellite surveillance, and ensure health and food security for 1.4 billion people."
       },
       {
         "section": "Conclusion",
-        "text": "Investing in these R&D-intensive sectors is the most effective path for India to bridge the gap with the world's most advanced economies by 2047.",
         "order": 4,
-        "cite": "3"
+        "text": "Investing in these R&D-intensive sectors is the most effective path for India to bridge the gap with the world's most advanced economies by 2047."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP3_18",
-    "paper_title": "GS Paper 3",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 18,
+    "year": 2025,
+    "paper_title": "GS Paper 3",
+    "q_number": "18",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "3",
-    "last_updated": 1778718600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 3",
     "question_text": "What type of threats do drugs and organized crime pose to India's internal security? What measures can be taken to control these challenges?",
     "subjectId": "security",
     "subjects": [
@@ -1010,51 +993,50 @@
       "Drugs and organised crime"
     ],
     "keyPointers": [
-      "A route, a laundered profit and a local seller",
-      "They buy a gun and a official",
-      "Control is the border, the money and the treatment",
-      "One raid does not break the chain"
+      "Organised crime",
+      "Terrorism",
+      "Cross-border threats"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Drugs fund a gang and can also fund a militant",
+      "The threat is the money, the violence and the corrupted official",
+      "Control needs the border, the case and the demand inside the city"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The nexus between drug trafficking and organized crime creates a 'hybrid' security threat that funds terrorism and undermines the state's social and economic fabric.",
         "order": 1,
-        "cite": "3"
+        "text": "The nexus between drug trafficking and organized crime creates a 'hybrid' security threat that funds terrorism and undermines the state's social and economic fabric."
       },
       {
         "section": "Body",
-        "text": "Threats include the 'Golden Crescent' and 'Golden Triangle' smuggling routes, narco-terrorism in border areas, and the use of darknet markets and crypto-currencies for money laundering.",
         "order": 2,
-        "cite": "3"
+        "text": "Threats include the 'Golden Crescent' and 'Golden Triangle' smuggling routes, narco-terrorism in border areas, and the use of darknet markets and crypto-currencies for money laundering."
       },
       {
         "section": "Body",
-        "text": "Measures required include strengthening the Narcotics Control Bureau (NCB), international intelligence coordination, and utilizing AI-driven surveillance to track illegal financial flows.",
         "order": 3,
-        "cite": "3"
+        "text": "Measures required include strengthening the Narcotics Control Bureau (NCB), international intelligence coordination, and utilizing AI-driven surveillance to track illegal financial flows."
       },
       {
         "section": "Conclusion",
-        "text": "A 'whole-of-government' approach that combines strict law enforcement with community-level drug de-addiction programs is essential to secure India's youth and borders.",
         "order": 4,
-        "cite": "3"
+        "text": "A 'whole-of-government' approach that combines strict law enforcement with community-level drug de-addiction programs is essential to secure India's youth and borders."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP3_19",
-    "paper_title": "GS Paper 3",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 19,
+    "year": 2025,
+    "paper_title": "GS Paper 3",
+    "q_number": "19",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "3",
-    "last_updated": 1778718600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 3",
     "question_text": "\"Security is development and development is security.\" Analyze the symbiotic relationship from India's security perspective.",
     "subjectId": "security",
     "subjects": [
@@ -1068,51 +1050,50 @@
       "Security and development together"
     ],
     "keyPointers": [
-      "A missing road and a missing school feed an insurgency",
-      "A secure area can then be built",
-      "Force without development returns the gun",
-      "The relationship is mutual, not a sequence of slogans"
+      "Development and security",
+      "Left-wing extremism",
+      "Inclusive growth"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A district without a road, a school and a job breeds the insecurity the force is then asked to fight",
+      "A secure district is also the condition for that road to be built",
+      "The relationship runs both ways, which is what the line says"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "In the Indian context, national security and socio-economic development are two sides of the same coin, where one cannot be sustained without the other.",
         "order": 1,
-        "cite": "3"
+        "text": "In the Indian context, national security and socio-economic development are two sides of the same coin, where one cannot be sustained without the other."
       },
       {
         "section": "Body",
-        "text": "Development acts as 'security' by addressing the root causes of internal unrest, such as poverty and alienation, which are exploited by extremist groups in Left-Wing Extremism (LWE) areas.",
         "order": 2,
-        "cite": "3"
+        "text": "Development acts as 'security' by addressing the root causes of internal unrest, such as poverty and alienation, which are exploited by extremist groups in Left-Wing Extremism (LWE) areas."
       },
       {
         "section": "Body",
-        "text": "Security acts as 'development' by providing the stable environment necessary for investment, infrastructure building, and the uninterrupted functioning of markets and educational institutions.",
         "order": 3,
-        "cite": "3"
+        "text": "Security acts as 'development' by providing the stable environment necessary for investment, infrastructure building, and the uninterrupted functioning of markets and educational institutions."
       },
       {
         "section": "Conclusion",
-        "text": "This symbiotic relationship requires an integrated policy that prioritizes 'border area development' alongside traditional defense to ensure holistic national integrity.",
         "order": 4,
-        "cite": "3"
+        "text": "This symbiotic relationship requires an integrated policy that prioritizes 'border area development' alongside traditional defense to ensure holistic national integrity."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP3_20",
-    "paper_title": "GS Paper 3",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 20,
+    "year": 2025,
+    "paper_title": "GS Paper 3",
+    "q_number": "20",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "3",
-    "last_updated": 1778718600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 3",
     "question_text": "Suggest some effective strategies for reducing the risk of man-made disasters like industrial accidents, terrorist attacks and fires.",
     "subjectId": "security",
     "subjects": [
@@ -1126,36 +1107,36 @@
       "Reducing man-made disaster risk"
     ],
     "keyPointers": [
-      "A standard, an inspection and a drill",
-      "Separate a hazard from a crowd",
-      "Intelligence and a response that has been practised",
-      "The strategy is prevention and a plan, not only relief"
+      "Disaster risk reduction",
+      "Terrorism",
+      "Industrial discharge"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "An industrial accident is reduced by a standard, an inspection and a drill",
+      "A terror attack is reduced by intelligence and a protected site",
+      "A fire is reduced by a plan and a clear exit",
+      "The common strategy is to act before the event, not only after it"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Man-made disasters, characterized by human error or malicious intent, require proactive risk-reduction strategies that combine technology, policy, and community preparedness.",
         "order": 1,
-        "cite": "3"
+        "text": "Man-made disasters, characterized by human error or malicious intent, require proactive risk-reduction strategies that combine technology, policy, and community preparedness."
       },
       {
         "section": "Body",
-        "text": "For industrial and fire risks, strategies include mandatory regular safety audits, the adoption of 'fail-safe' IoT-based monitoring, and strict enforcement of the National Building Code (NBC).",
         "order": 2,
-        "cite": "3"
+        "text": "For industrial and fire risks, strategies include mandatory regular safety audits, the adoption of 'fail-safe' IoT-based monitoring, and strict enforcement of the National Building Code (NBC)."
       },
       {
         "section": "Body",
-        "text": "Countering terrorist threats requires intelligence-led policing, secure 'Safe City' infrastructure (CCTV, facial recognition), and public awareness campaigns like 'See Something, Say Something.'",
         "order": 3,
-        "cite": "3"
+        "text": "Countering terrorist threats requires intelligence-led policing, secure 'Safe City' infrastructure (CCTV, facial recognition), and public awareness campaigns like 'See Something, Say Something.'"
       },
       {
         "section": "Conclusion",
-        "text": "Building a 'culture of prevention' through institutionalizing the NDMA guidelines at the local level is the only way to minimize the catastrophic impact of these man-made crises.",
         "order": 4,
-        "cite": "3"
+        "text": "Building a 'culture of prevention' through institutionalizing the NDMA guidelines at the local level is the only way to minimize the catastrophic impact of these man-made crises."
       }
     ]
   }

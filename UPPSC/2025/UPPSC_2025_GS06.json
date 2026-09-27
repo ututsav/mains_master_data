@@ -1,1161 +1,1138 @@
 [
   {
     "uid": "UPPSC_2025_GSP6_01",
-    "paper_title": "GS Paper 6",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 1,
+    "year": 2025,
+    "paper_title": "GS Paper 6",
+    "q_number": "1",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "6",
-    "last_updated": 1747353600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 6",
     "question_text": "Discuss the recent tax reforms undertaken by the Uttar Pradesh Government.",
-    "subjectId": "up-economy",
+    "subjectId": "economy",
     "subjects": [
-      "UP Economy & Agri"
+      "Economy & Development"
     ],
-    "topic": "UP Economy",
+    "topic": "Recent tax changes in the state",
     "topics": [
-      "UP Economy"
+      "Recent tax changes in the state"
     ],
     "subTopics": [
       "UP tax reforms"
     ],
     "keyPointers": [
-      "Digital GST and a simpler compliance",
-      "The aim is revenue and ease of business",
-      "A faceless process cuts a discretion",
-      "Reform is the procedure as much as the rate"
+      "Goods and Services Tax",
+      "Fiscal deficit",
+      "Centre-state finance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The reforms are about a simpler rate, a wider base and a faster collection",
+      "A state government can tidy its own tax and still lives inside the national goods-and-services tax",
+      "The test is whether the receipt rises without choking a small payer"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The Government of Uttar Pradesh has initiated a series of tax reforms aimed at simplifying the tax structure, enhancing revenue collection, and improving the ease of doing business in the state.",
         "order": 1,
-        "cite": "6"
+        "text": "The Government of Uttar Pradesh has initiated a series of tax reforms aimed at simplifying the tax structure, enhancing revenue collection, and improving the ease of doing business in the state."
       },
       {
         "section": "Body",
-        "text": "Key reforms include the complete digitalization of GST processes, the introduction of a faceless assessment system to reduce administrative red tape, and the rationalization of VAT on petroleum products to remain competitive with neighboring states.",
         "order": 2,
-        "cite": "6"
+        "text": "Key reforms include the complete digitalization of GST processes, the introduction of a faceless assessment system to reduce administrative red tape, and the rationalization of VAT on petroleum products to remain competitive with neighboring states."
       },
       {
         "section": "Body",
-        "text": "Furthermore, the state has leveraged data analytics to identify tax leakages and launched amnesty schemes (like the OTS for pending dues) to resolve long-standing disputes and encourage voluntary compliance.",
         "order": 3,
-        "cite": "6"
+        "text": "Furthermore, the state has leveraged data analytics to identify tax leakages and launched amnesty schemes (like the OTS for pending dues) to resolve long-standing disputes and encourage voluntary compliance."
       },
       {
         "section": "Conclusion",
-        "text": "These fiscal reforms have resulted in a significant boost to the state's Own Tax Revenue (SOTR), providing the necessary capital for massive infrastructure and social welfare projects.",
         "order": 4,
-        "cite": "6"
+        "text": "These fiscal reforms have resulted in a significant boost to the state's Own Tax Revenue (SOTR), providing the necessary capital for massive infrastructure and social welfare projects."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP6_02",
-    "paper_title": "GS Paper 6",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 2,
+    "year": 2025,
+    "paper_title": "GS Paper 6",
+    "q_number": "2",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "6",
-    "last_updated": 1747353600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 6",
     "question_text": "What is the concept of invest U. P.? Evaluate its role in the economic development of Uttar Pradesh.",
-    "subjectId": "up-economy",
+    "subjectId": "economy",
     "subjects": [
-      "UP Economy & Agri"
+      "Economy & Development"
     ],
-    "topic": "UP Economy",
+    "topic": "Invest UP",
     "topics": [
-      "UP Economy"
+      "Invest UP"
     ],
     "subTopics": [
       "Invest UP"
     ],
     "keyPointers": [
-      "A single window between the state and an investor",
-      "Nivesh Mitra and an investment summit",
-      "It shortens an approval",
-      "Development follows only if the unit is actually built"
+      "Foreign direct investment",
+      "Ease of doing business",
+      "Manufacturing"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It is a single window meant to bring a project from a proposal to a start",
+      "The role in development is a factory, a job and a faster clearance",
+      "A portal does not develop the state if the land and the power do not follow"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "'Invest UP' is the state's premier investment promotion and facilitation agency, acting as a 'Single Window' bridge between the government and global investors.",
         "order": 1,
-        "cite": "6"
+        "text": "'Invest UP' is the state's premier investment promotion and facilitation agency, acting as a 'Single Window' bridge between the government and global investors."
       },
       {
         "section": "Body",
-        "text": "Its role is pivotal in managing the 'Nivesh Mitra' portal, which streamlines approvals for industrial units, and in organizing the Global Investors Summits (GIS) that attract diverse capital into the state.",
         "order": 2,
-        "cite": "6"
+        "text": "Its role is pivotal in managing the 'Nivesh Mitra' portal, which streamlines approvals for industrial units, and in organizing the Global Investors Summits (GIS) that attract diverse capital into the state."
       },
       {
         "section": "Body",
-        "text": "By offering end-to-end support through Relationship Managers (Udyami Mitras), it has successfully attracted high-value investments in sectors like electronics, defense, and green energy.",
         "order": 3,
-        "cite": "6"
+        "text": "By offering end-to-end support through Relationship Managers (Udyami Mitras), it has successfully attracted high-value investments in sectors like electronics, defense, and green energy."
       },
       {
         "section": "Conclusion",
-        "text": "Invest UP has been the primary engine driving Uttar Pradesh toward its goal of becoming a 1-trillion dollar economy by transforming the state into a global investment destination.",
         "order": 4,
-        "cite": "6"
+        "text": "Invest UP has been the primary engine driving Uttar Pradesh toward its goal of becoming a 1-trillion dollar economy by transforming the state into a global investment destination."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP6_03",
-    "paper_title": "GS Paper 6",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 3,
+    "year": 2025,
+    "paper_title": "GS Paper 6",
+    "q_number": "3",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "6",
-    "last_updated": 1747353600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 6",
     "question_text": "What is \"Green Star Rating System\" launched in 2025?",
-    "subjectId": "up-economy",
+    "subjectId": "energyenv",
     "subjects": [
-      "UP Economy & Agri"
+      "Environment & Ecology"
     ],
-    "topic": "UP Energy",
+    "topic": "The green star rating",
     "topics": [
-      "UP Energy"
+      "The green star rating"
     ],
     "subTopics": [
       "Green Star Rating"
     ],
     "keyPointers": [
-      "A benchmark for a cleaner industrial unit",
-      "Carbon, discharge and waste are the tests",
-      "A rating makes the practice visible",
-      "It works if a low star has a consequence"
+      "Renewable energy",
+      "Sustainable development"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The 2025 system grades a building or a project on how little energy and water it wastes",
+      "A star is a public signal, not a subsidy by itself",
+      "It matters if a lower rating actually blocks or corrects a wasteful design"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The 'Green Star Rating System,' launched in 2025, is an environmental benchmarking initiative in Uttar Pradesh designed to promote sustainable industrial and commercial practices.",
         "order": 1,
-        "cite": "6"
+        "text": "The 'Green Star Rating System,' launched in 2025, is an environmental benchmarking initiative in Uttar Pradesh designed to promote sustainable industrial and commercial practices."
       },
       {
         "section": "Body",
-        "text": "It evaluates units on specific parameters like carbon footprint reduction, zero liquid discharge (ZLD) implementation, energy efficiency, and waste management efficacy.",
         "order": 2,
-        "cite": "6"
+        "text": "It evaluates units on specific parameters like carbon footprint reduction, zero liquid discharge (ZLD) implementation, energy efficiency, and waste management efficacy."
       },
       {
         "section": "Body",
-        "text": "Units achieving higher star ratings are prioritized for government incentives, faster environmental clearances, and lower interest rates on 'green' loans from state financial institutions.",
         "order": 3,
-        "cite": "6"
+        "text": "Units achieving higher star ratings are prioritized for government incentives, faster environmental clearances, and lower interest rates on 'green' loans from state financial institutions."
       },
       {
         "section": "Conclusion",
-        "text": "This system incentivizes the private sector to align their operational goals with the state's 'Net Zero' targets and sustainable development commitments.",
         "order": 4,
-        "cite": "6"
+        "text": "This system incentivizes the private sector to align their operational goals with the state's 'Net Zero' targets and sustainable development commitments."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP6_04",
-    "paper_title": "GS Paper 6",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 4,
+    "year": 2025,
+    "paper_title": "GS Paper 6",
+    "q_number": "4",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "6",
-    "last_updated": 1747353600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 6",
     "question_text": "Biomass energy considered renewable and ecologically sensitive in Uttar Pradesh. Explain.",
-    "subjectId": "up-economy",
+    "subjectId": "energyenv",
     "subjects": [
-      "UP Economy & Agri"
+      "Environment & Ecology"
     ],
-    "topic": "UP Economy",
+    "topic": "Biomass energy in the state",
     "topics": [
-      "UP Economy"
+      "Biomass energy in the state"
     ],
     "subTopics": [
       "Biomass energy in UP"
     ],
     "keyPointers": [
-      "Stubble, bagasse and dung are renewed each season",
-      "Using them cuts a burn and a waste",
-      "Sensitive because a wrong use can strip residue the soil needs",
-      "Renewable if the cycle is kept"
+      "Renewable energy",
+      "Sustainable development"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Crop residue and organic waste can be burned or digested for power",
+      "Renewable is the source; ecologically sensitive is the way it is collected",
+      "A careless taking of residue can strip the soil even while the power looks green"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "With its vast agricultural base, Uttar Pradesh possesses immense potential for biomass energy, making it a cornerstone of the state's renewable energy mix.",
         "order": 1,
-        "cite": "6"
+        "text": "With its vast agricultural base, Uttar Pradesh possesses immense potential for biomass energy, making it a cornerstone of the state's renewable energy mix."
       },
       {
         "section": "Body",
-        "text": "It is renewable because it utilizes agricultural residues (stubble, bagasse) and livestock waste, which would otherwise contribute to air pollution through burning or methane emissions.",
         "order": 2,
-        "cite": "6"
+        "text": "It is renewable because it utilizes agricultural residues (stubble, bagasse) and livestock waste, which would otherwise contribute to air pollution through burning or methane emissions."
       },
       {
         "section": "Body",
-        "text": "It is ecologically sensitive as it reduces the dependency on fossil fuels, promotes soil health through the use of bio-digested slurry as manure, and prevents the 'stubble burning' crisis in the NCR region.",
         "order": 3,
-        "cite": "6"
+        "text": "It is ecologically sensitive as it reduces the dependency on fossil fuels, promotes soil health through the use of bio-digested slurry as manure, and prevents the 'stubble burning' crisis in the NCR region."
       },
       {
         "section": "Conclusion",
-        "text": "By converting waste to wealth, biomass energy supports both rural livelihoods and the state's ecological restoration goals.",
         "order": 4,
-        "cite": "6"
+        "text": "By converting waste to wealth, biomass energy supports both rural livelihoods and the state's ecological restoration goals."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP6_05",
-    "paper_title": "GS Paper 6",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 5,
+    "year": 2025,
+    "paper_title": "GS Paper 6",
+    "q_number": "5",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "6",
-    "last_updated": 1747353600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 6",
     "question_text": "Briefly evaluate the major schemes launched by Government of Uttar Pradesh to promote silk production.",
-    "subjectId": "up-economy",
+    "subjectId": "agri",
     "subjects": [
-      "UP Economy & Agri"
+      "Agriculture"
     ],
-    "topic": "UP Economy",
+    "topic": "Silk schemes",
     "topics": [
-      "UP Economy"
+      "Silk schemes"
     ],
     "subTopics": [
       "Sericulture schemes in UP"
     ],
     "keyPointers": [
-      "Mulberry, eri and tussar",
-      "Subsidy for a plantation and a rearing house",
-      "A named silk scheme is the vehicle",
-      "Evaluate by the rearer’s income, not the announcement"
+      "Farmer income",
+      "Agricultural marketing"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The schemes support a mulberry, a seed, a rearing house and a market for the yarn",
+      "The evaluation is whether the rearer, not only the trader, gains",
+      "Silk is a rural industry, and a scheme that stops at a nursery does not finish the job"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The Government of Uttar Pradesh has launched targeted interventions to revitalize the sericulture sector, focusing on Mulberry, Eri, and Tussar silk varieties.",
         "order": 1,
-        "cite": "6"
+        "text": "The Government of Uttar Pradesh has launched targeted interventions to revitalize the sericulture sector, focusing on Mulberry, Eri, and Tussar silk varieties."
       },
       {
         "section": "Body",
-        "text": "Key schemes like the 'Pandit Deendayal Upadhyay Silk Development Scheme' provide subsidies for plantation, rearing houses, and modern toolkit distribution to marginalized rearers.",
         "order": 2,
-        "cite": "6"
+        "text": "Key schemes like the 'Pandit Deendayal Upadhyay Silk Development Scheme' provide subsidies for plantation, rearing houses, and modern toolkit distribution to marginalized rearers."
       },
       {
         "section": "Body",
-        "text": "The establishment of 'Silk Exchange' centers and support for GI tagging (e.g., Banarasi Silk) has ensured better price discovery and protection against synthetic imitations.",
         "order": 3,
-        "cite": "6"
+        "text": "The establishment of 'Silk Exchange' centers and support for GI tagging (e.g., Banarasi Silk) has ensured better price discovery and protection against synthetic imitations."
       },
       {
         "section": "Conclusion",
-        "text": "While production has increased, further focus on backward-forward linkages and R&D for disease-resistant silkworm seeds is necessary for global competitiveness.",
         "order": 4,
-        "cite": "6"
+        "text": "While production has increased, further focus on backward-forward linkages and R&D for disease-resistant silkworm seeds is necessary for global competitiveness."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP6_06",
-    "paper_title": "GS Paper 6",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 6,
+    "year": 2025,
+    "paper_title": "GS Paper 6",
+    "q_number": "6",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "6",
-    "last_updated": 1747353600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 6",
     "question_text": "\"Soil health and rising input cost are threatening the sustainability of agriculture in Uttar Pradesh.\" Analyse this statement.",
-    "subjectId": "up-economy",
+    "subjectId": "agri",
     "subjects": [
-      "UP Economy & Agri"
+      "Agriculture"
     ],
-    "topic": "UP Agriculture",
+    "topic": "Tired soil and a costly input",
     "topics": [
-      "UP Agriculture"
+      "Tired soil and a costly input"
     ],
     "subTopics": [
       "Soil health and input costs"
     ],
     "keyPointers": [
-      "Too much chemical and too little organic matter",
-      "The cost of fertiliser and energy rises faster than the price",
-      "Sustainability is both the soil and the margin",
-      "Analyse them as one threat"
+      "Soil types",
+      "Sustainable development",
+      "Farmer income",
+      "Subsidy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A falling organic content and a rising bill for fertiliser and water squeeze the same field",
+      "Sustainability fails when the next crop costs more and returns less",
+      "The statement is fair for large parts of the state"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Sustainability in UP’s agriculture is currently at a crossroads due to the twin challenges of ecological degradation and diminishing economic returns for farmers.",
         "order": 1,
-        "cite": "6"
+        "text": "Sustainability in UP’s agriculture is currently at a crossroads due to the twin challenges of ecological degradation and diminishing economic returns for farmers."
       },
       {
         "section": "Body",
-        "text": "Soil health is declining due to the excessive use of chemical fertilizers (NPK imbalance) and depleting organic matter, leading to soil salinity and reduced yield per hectare.",
         "order": 2,
-        "cite": "6"
+        "text": "Soil health is declining due to the excessive use of chemical fertilizers (NPK imbalance) and depleting organic matter, leading to soil salinity and reduced yield per hectare."
       },
       {
         "section": "Body",
-        "text": "Simultaneously, rising input costs—including fuel, quality seeds, and labor—are squeezing profit margins, making farming an unviable profession for small and marginal landholders.",
         "order": 3,
-        "cite": "6"
+        "text": "Simultaneously, rising input costs—including fuel, quality seeds, and labor—are squeezing profit margins, making farming an unviable profession for small and marginal landholders."
       },
       {
         "section": "Conclusion",
-        "text": "Addressing this threat requires a shift toward 'Zero Budget Natural Farming' and precision agriculture to restore soil vitality while lowering production expenses.",
         "order": 4,
-        "cite": "6"
+        "text": "Addressing this threat requires a shift toward 'Zero Budget Natural Farming' and precision agriculture to restore soil vitality while lowering production expenses."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP6_07",
-    "paper_title": "GS Paper 6",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 7,
+    "year": 2025,
+    "paper_title": "GS Paper 6",
+    "q_number": "7",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "6",
-    "last_updated": 1747353600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 6",
     "question_text": "Mention the guidelines of Uttar Pradesh Government for scientific processing and disposal of municipal waste.",
-    "subjectId": "up-economy",
+    "subjectId": "energyenv",
     "subjects": [
-      "UP Economy & Agri"
+      "Environment & Ecology"
     ],
-    "topic": "UP Agriculture",
+    "topic": "How city waste is to be handled",
     "topics": [
-      "UP Agriculture"
+      "How city waste is to be handled"
     ],
     "subTopics": [
       "Municipal waste rules in UP"
     ],
     "keyPointers": [
-      "Door-to-door collection and segregation at source",
-      "Dry, wet and hazardous kept apart",
-      "Processing, not only a dump",
-      "The guideline is a city that does not mix the waste"
+      "Waste management",
+      "Urbanisation"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The guideline is to separate, to process and not to dump untreated waste",
+      "Scientific disposal means a plant and a rule, not an open edge of the town",
+      "A guideline fails if the municipality has no land and no habit of separating"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "In alignment with SBM-Urban 2.0, the Uttar Pradesh government has issued comprehensive guidelines to achieve 'Garbage Free Cities' through scientific waste management.",
         "order": 1,
-        "cite": "6"
+        "text": "In alignment with SBM-Urban 2.0, the Uttar Pradesh government has issued comprehensive guidelines to achieve 'Garbage Free Cities' through scientific waste management."
       },
       {
         "section": "Body",
-        "text": "The guidelines mandate 100% door-to-door collection with source segregation into dry, wet, and hazardous categories, supported by decentralized material recovery facilities (MRFs).",
         "order": 2,
-        "cite": "6"
+        "text": "The guidelines mandate 100% door-to-door collection with source segregation into dry, wet, and hazardous categories, supported by decentralized material recovery facilities (MRFs)."
       },
       {
         "section": "Body",
-        "text": "Scientific processing emphasizes 'Waste-to-Energy' plants in larger cities and composting/biomethanation for organic waste, alongside the strict remediation of 'legacy waste' dump sites.",
         "order": 3,
-        "cite": "6"
+        "text": "Scientific processing emphasizes 'Waste-to-Energy' plants in larger cities and composting/biomethanation for organic waste, alongside the strict remediation of 'legacy waste' dump sites."
       },
       {
         "section": "Conclusion",
-        "text": "Implementation of these guidelines is vital for public health and ensuring the environmental resilience of the state's rapidly urbanizing landscape.",
         "order": 4,
-        "cite": "6"
+        "text": "Implementation of these guidelines is vital for public health and ensuring the environmental resilience of the state's rapidly urbanizing landscape."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP6_08",
-    "paper_title": "GS Paper 6",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 8,
+    "year": 2025,
+    "paper_title": "GS Paper 6",
+    "q_number": "8",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "6",
-    "last_updated": 1747353600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 6",
     "question_text": "What is Drone Didi Yojna of Uttar Pradesh? How does this scheme contributes to the empowerment of women in rural area?",
-    "subjectId": "up-economy",
+    "subjectId": "agri",
     "subjects": [
-      "UP Economy & Agri"
+      "Agriculture"
     ],
-    "topic": "UP Agriculture",
+    "topic": "Drone Didi",
     "topics": [
-      "UP Agriculture"
+      "Drone Didi"
     ],
     "subTopics": [
       "Drone Didi"
     ],
     "keyPointers": [
-      "Women in self-help groups trained to fly a farm drone",
-      "Spraying and a paid service",
-      "Empowerment is a skill and an income",
-      "It contributes if the woman, not a proxy, holds the control"
+      "Women and work",
+      "Farmer income",
+      "Skill and employability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The scheme trains a rural woman to fly a drone for a spray or a survey",
+      "The income is a service she sells to other farmers",
+      "Empowerment is the skill and the earning, not the photograph of the machine"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The 'Drone Didi Yojna' is a forward-looking initiative that equips women in rural Self-Help Groups (SHGs) with drone pilot training and technology for agricultural services.",
         "order": 1,
-        "cite": "6"
+        "text": "The 'Drone Didi Yojna' is a forward-looking initiative that equips women in rural Self-Help Groups (SHGs) with drone pilot training and technology for agricultural services."
       },
       {
         "section": "Body",
-        "text": "The scheme provides drones to SHGs for high-tech applications like precision liquid fertilizer/pesticide spraying and crop health monitoring, reducing manual labor for farmers.",
         "order": 2,
-        "cite": "6"
+        "text": "The scheme provides drones to SHGs for high-tech applications like precision liquid fertilizer/pesticide spraying and crop health monitoring, reducing manual labor for farmers."
       },
       {
         "section": "Body",
-        "text": "It empowers women by providing them with specialized technical skills, creating a new 'service-based' income stream, and elevating their social status as 'technology leaders' in the village.",
         "order": 3,
-        "cite": "6"
+        "text": "It empowers women by providing them with specialized technical skills, creating a new 'service-based' income stream, and elevating their social status as 'technology leaders' in the village."
       },
       {
         "section": "Conclusion",
-        "text": "By merging gender empowerment with agritech, Drone Didi is bridging the digital divide and creating a more inclusive rural economy in Uttar Pradesh.",
         "order": 4,
-        "cite": "6"
+        "text": "By merging gender empowerment with agritech, Drone Didi is bridging the digital divide and creating a more inclusive rural economy in Uttar Pradesh."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP6_09",
-    "paper_title": "GS Paper 6",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 9,
+    "year": 2025,
+    "paper_title": "GS Paper 6",
+    "q_number": "9",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "6",
-    "last_updated": 1747353600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 6",
     "question_text": "Wildlife-human conflicts are increasing in Uttar Pradesh. Discuss its main causes and suggest effective measure to reduce it.",
-    "subjectId": "up-geo",
+    "subjectId": "energyenv",
     "subjects": [
-      "UP Geography & Environment"
+      "Environment & Ecology"
     ],
-    "topic": "UP Environment",
+    "topic": "People and wildlife in the state",
     "topics": [
-      "UP Environment"
+      "People and wildlife in the state"
     ],
     "subTopics": [
       "Human–wildlife conflict in UP"
     ],
     "keyPointers": [
-      "Farms and roads cut the Terai habitat",
-      "Causes are fragmentation and a crop at the edge",
-      "Measures: a corridor, a quick compensation, and a barrier that works",
-      "Reduction is space and a response, not only a relocation"
+      "Biodiversity loss",
+      "Environment versus livelihood"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A field at the edge of a forest, a shrinking corridor and a crop that attracts an animal are the causes",
+      "The conflict rises when both sides lose space",
+      "A fence alone does not reduce it; a compensation and a corridor do more"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The frequency of wildlife-human encounters in UP, especially in the Terai region and around protected areas, has become a major threat to both human lives and animal conservation.",
         "order": 1,
-        "cite": "6"
+        "text": "The frequency of wildlife-human encounters in UP, especially in the Terai region and around protected areas, has become a major threat to both human lives and animal conservation."
       },
       {
         "section": "Body",
-        "text": "Main causes include habitat fragmentation due to linear infrastructure (roads/canals), the expansion of agriculture into forest buffers, and the lack of natural prey for predators like tigers and leopards.",
         "order": 2,
-        "cite": "6"
+        "text": "Main causes include habitat fragmentation due to linear infrastructure (roads/canals), the expansion of agriculture into forest buffers, and the lack of natural prey for predators like tigers and leopards."
       },
       {
         "section": "Body",
-        "text": "Effective measures include creating dedicated wildlife corridors, utilizing early-warning systems (like AI cameras), and providing immediate, fair compensation for crop and livestock loss.",
         "order": 3,
-        "cite": "6"
+        "text": "Effective measures include creating dedicated wildlife corridors, utilizing early-warning systems (like AI cameras), and providing immediate, fair compensation for crop and livestock loss."
       },
       {
         "section": "Conclusion",
-        "text": "A strategy based on 'co-existence' through community awareness and eco-sensitive development is essential to balance conservation with regional security.",
         "order": 4,
-        "cite": "6"
+        "text": "A strategy based on 'co-existence' through community awareness and eco-sensitive development is essential to balance conservation with regional security."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP6_10",
-    "paper_title": "GS Paper 6",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 10,
+    "year": 2025,
+    "paper_title": "GS Paper 6",
+    "q_number": "10",
     "marks": 8,
+    "word_limit": 125,
     "importance": 1,
-    "cite": "6",
-    "last_updated": 1747353600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 6",
     "question_text": "Describe the role of science exhibition, fairs and campaigns in spreading scientific approach in Uttar Pradesh.",
-    "subjectId": "up-economy",
+    "subjectId": "stech",
     "subjects": [
-      "UP Economy & Agri"
+      "Science & Technology"
     ],
-    "topic": "UP Infrastructure",
+    "topic": "Fairs that teach a scientific habit",
     "topics": [
-      "UP Infrastructure"
+      "Fairs that teach a scientific habit"
     ],
     "subTopics": [
       "Science outreach in UP"
     ],
     "keyPointers": [
-      "A fair lets a student test an idea on a local problem",
-      "It builds a temper, not only a prize",
-      "Campaigns against a superstition need the same public",
-      "The role is habit, not a one-day stall"
+      "Scientific temper",
+      "Education and social change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "An exhibition lets a person see a claim tested, not only hear it",
+      "A fair and a campaign reach a crowd a classroom does not",
+      "The role is to make a question ordinary"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Science exhibitions and fairs serve as critical platforms for fostering a 'Scientific Temper' (as mandated by Article 51A) among the youth of Uttar Pradesh.",
         "order": 1,
-        "cite": "6"
+        "text": "Science exhibitions and fairs serve as critical platforms for fostering a 'Scientific Temper' (as mandated by Article 51A) among the youth of Uttar Pradesh."
       },
       {
         "section": "Body",
-        "text": "These events allow students to apply theoretical knowledge to solve local problems—like innovative irrigation or waste management—encouraging critical thinking over rote learning.",
         "order": 2,
-        "cite": "6"
+        "text": "These events allow students to apply theoretical knowledge to solve local problems—like innovative irrigation or waste management—encouraging critical thinking over rote learning."
       },
       {
         "section": "Body",
-        "text": "Campaigns like the 'Science Bus' and mobile laboratories reach remote rural areas, demystifying complex technologies and inspiring the next generation of researchers and innovators.",
         "order": 3,
-        "cite": "6"
+        "text": "Campaigns like the 'Science Bus' and mobile laboratories reach remote rural areas, demystifying complex technologies and inspiring the next generation of researchers and innovators."
       },
       {
         "section": "Conclusion",
-        "text": "By making science interactive and accessible, these initiatives are vital for building a knowledge-driven society that can sustain the state's developmental goals.",
         "order": 4,
-        "cite": "6"
+        "text": "By making science interactive and accessible, these initiatives are vital for building a knowledge-driven society that can sustain the state's developmental goals."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP6_11",
-    "paper_title": "GS Paper 6",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 11,
+    "year": 2025,
+    "paper_title": "GS Paper 6",
+    "q_number": "11",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "6",
-    "last_updated": 1747356000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 6",
     "question_text": "Describe the benefits and challenges of Womens and Child Welfare Schemes implemented in Uttar Pradesh in the last decade.",
-    "subjectId": "up-economy",
+    "subjectId": "society",
     "subjects": [
-      "UP Economy & Agri"
+      "Indian Society"
     ],
-    "topic": "UP Economy",
+    "topic": "Women and child schemes",
     "topics": [
-      "UP Economy"
+      "Women and child schemes"
     ],
     "subTopics": [
       "Women and child schemes in UP"
     ],
     "keyPointers": [
-      "Institutional delivery and a better sex ratio are the gains",
-      "Kanya Sumangala and Mission Shakti are examples",
-      "Challenges: exclusion, a proxy and a weak last mile",
-      "A decade of schemes is not yet a decade of results everywhere"
+      "Welfare state",
+      "Women and work",
+      "Health as welfare",
+      "Poverty and nutrition"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The benefit is a meal, a cash, a delivery and a girl kept in school",
+      "The challenge is a list, a leak and a centre without a worker",
+      "A decade of schemes is a gain only where the last beneficiary was actually reached"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Over the last decade, Uttar Pradesh has launched several flagship welfare schemes, such as Mukhyamantri Kanya Sumangala Yojna and Mission Shakti, to address gender inequality and improve child health outcomes.",
         "order": 1,
-        "cite": "6"
+        "text": "Over the last decade, Uttar Pradesh has launched several flagship welfare schemes, such as Mukhyamantri Kanya Sumangala Yojna and Mission Shakti, to address gender inequality and improve child health outcomes."
       },
       {
         "section": "Body",
-        "text": "Benefits include increased institutional deliveries, improved sex ratio at birth, and higher school enrollment for girls through direct benefit transfers that mitigate the financial burden on poor families.",
         "order": 2,
-        "cite": "6"
+        "text": "Benefits include increased institutional deliveries, improved sex ratio at birth, and higher school enrollment for girls through direct benefit transfers that mitigate the financial burden on poor families."
       },
       {
         "section": "Body",
-        "text": "However, challenges persist in the form of deep-seated social prejudices, regional disparities in health infrastructure, and the need for better ground-level monitoring to ensure that benefits reach the most marginalized communities.",
         "order": 3,
-        "cite": "6"
+        "text": "However, challenges persist in the form of deep-seated social prejudices, regional disparities in health infrastructure, and the need for better ground-level monitoring to ensure that benefits reach the most marginalized communities."
       },
       {
         "section": "Conclusion",
-        "text": "A multi-pronged approach that combines financial incentives with robust community awareness campaigns is essential to realize the full potential of these welfare initiatives.",
         "order": 4,
-        "cite": "6"
+        "text": "A multi-pronged approach that combines financial incentives with robust community awareness campaigns is essential to realize the full potential of these welfare initiatives."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP6_12",
-    "paper_title": "GS Paper 6",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 12,
+    "year": 2025,
+    "paper_title": "GS Paper 6",
+    "q_number": "12",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "6",
-    "last_updated": 1747356000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 6",
     "question_text": "Analyse in detail the role of Defence Industrial Corridor in promoting industrial and regional development in Uttar Pradesh.",
-    "subjectId": "up-economy",
+    "subjectId": "economy",
     "subjects": [
-      "UP Economy & Agri"
+      "Economy & Development"
     ],
-    "topic": "UP Industry",
+    "topic": "The defence corridor",
     "topics": [
-      "UP Industry"
+      "The defence corridor"
     ],
     "subTopics": [
       "Defence Industrial Corridor"
     ],
     "keyPointers": [
-      "Nodes that pull defence manufacture into the state",
-      "Jobs and a supplier chain beyond one city",
-      "Regional development if the small firm is included",
-      "A corridor is a cluster, not only a land allotment"
+      "Manufacturing",
+      "Infrastructure",
+      "Strategic autonomy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A corridor is meant to cluster factories that supply the armed forces",
+      "The regional gain is a job and a vendor in districts that were not industrial",
+      "It promotes development if an order actually reaches a local firm"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The Uttar Pradesh Defence Industrial Corridor (UPDIC), spanning six nodes including Lucknow, Kanpur, and Jhansi, is a strategic project aimed at making India self-reliant in defense production.",
         "order": 1,
-        "cite": "6"
+        "text": "The Uttar Pradesh Defence Industrial Corridor (UPDIC), spanning six nodes including Lucknow, Kanpur, and Jhansi, is a strategic project aimed at making India self-reliant in defense production."
       },
       {
         "section": "Body",
-        "text": "It promotes industrial development by attracting global aerospace and defense majors, fostering a vibrant ecosystem for MSMEs, and encouraging 'Deep-Tech' innovation in indigenous manufacturing.",
         "order": 2,
-        "cite": "6"
+        "text": "It promotes industrial development by attracting global aerospace and defense majors, fostering a vibrant ecosystem for MSMEs, and encouraging 'Deep-Tech' innovation in indigenous manufacturing."
       },
       {
         "section": "Body",
-        "text": "Regional development is achieved by creating high-value employment opportunities in traditionally underdeveloped areas like Bundelkhand, thereby reducing regional economic imbalances.",
         "order": 3,
-        "cite": "6"
+        "text": "Regional development is achieved by creating high-value employment opportunities in traditionally underdeveloped areas like Bundelkhand, thereby reducing regional economic imbalances."
       },
       {
         "section": "Conclusion",
-        "text": "UPDIC is not just a manufacturing hub but a catalyst for the state's transition into a high-technology industrial powerhouse.",
         "order": 4,
-        "cite": "6"
+        "text": "UPDIC is not just a manufacturing hub but a catalyst for the state's transition into a high-technology industrial powerhouse."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP6_13",
-    "paper_title": "GS Paper 6",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 13,
+    "year": 2025,
+    "paper_title": "GS Paper 6",
+    "q_number": "13",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "6",
-    "last_updated": 1747356000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 6",
     "question_text": "What are the aims and objectives of Green Hydrogen Policy - 2024 of Uttar Pradesh Government? Mention the governments incentives for Green Hydrogen Projects.",
-    "subjectId": "up-economy",
+    "subjectId": "energyenv",
     "subjects": [
-      "UP Economy & Agri"
+      "Environment & Ecology"
     ],
-    "topic": "UP Agriculture",
+    "topic": "The green hydrogen policy",
     "topics": [
-      "UP Agriculture"
+      "The green hydrogen policy"
     ],
     "subTopics": [
       "Green hydrogen policy"
     ],
     "keyPointers": [
-      "Hydrogen from clean power, not from coal",
-      "Aims: industry, a new fuel and investment",
-      "Incentives are land, a tariff and a process",
-      "The policy is a bet on a fuel that is still costly"
+      "Renewable energy",
+      "Energy access",
+      "Sustainable development"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The aim is hydrogen made with renewable power, for industry and for a later fuel",
+      "The incentive is land, a tariff and a faster clearance",
+      "A policy is an invitation, and the project still needs cheap green power"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The Green Hydrogen Policy 2024 aims to establish Uttar Pradesh as a leading producer of clean energy, targeting a significant share of India's green hydrogen production by 2030.",
         "order": 1,
-        "cite": "6"
+        "text": "The Green Hydrogen Policy 2024 aims to establish Uttar Pradesh as a leading producer of clean energy, targeting a significant share of India's green hydrogen production by 2030."
       },
       {
         "section": "Body",
-        "text": "Objectives include decarbonizing heavy industries, promoting R&D in electrolysis technology, and creating a robust supply chain to support the state's transition to a net-zero economy.",
         "order": 2,
-        "cite": "6"
+        "text": "Objectives include decarbonizing heavy industries, promoting R&D in electrolysis technology, and creating a robust supply chain to support the state's transition to a net-zero economy."
       },
       {
         "section": "Body",
-        "text": "Government incentives feature capital subsidies for manufacturing units, 100% exemption on stamp duty for land purchase, and waivers on electricity duty for green energy consumption.",
         "order": 3,
-        "cite": "6"
+        "text": "Government incentives feature capital subsidies for manufacturing units, 100% exemption on stamp duty for land purchase, and waivers on electricity duty for green energy consumption."
       },
       {
         "section": "Conclusion",
-        "text": "This policy provides the fiscal and regulatory framework necessary to attract large-scale private investment in the sustainable energy sector.",
         "order": 4,
-        "cite": "6"
+        "text": "This policy provides the fiscal and regulatory framework necessary to attract large-scale private investment in the sustainable energy sector."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP6_14",
-    "paper_title": "GS Paper 6",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 14,
+    "year": 2025,
+    "paper_title": "GS Paper 6",
+    "q_number": "14",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "6",
-    "last_updated": 1747356000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 6",
     "question_text": "In the Bundelkhand region of Uttar Pradesh, the mining industry is in a state of illness not due to a lack of minerals, but due to poor management. Evaluate above statement.",
-    "subjectId": "up-economy",
+    "subjectId": "energyenv",
     "subjects": [
-      "UP Economy & Agri"
+      "Environment & Ecology"
     ],
-    "topic": "UP Industry",
+    "topic": "Mining in Bundelkhand",
     "topics": [
-      "UP Industry"
+      "Mining in Bundelkhand"
     ],
     "subTopics": [
       "Bundelkhand mining"
     ],
     "keyPointers": [
-      "The ore is there; the system is not",
-      "Illegal extraction, a thin rule and a damaged land",
-      "Illness is governance and ecology",
-      "Not a lack of the mineral"
+      "Energy minerals",
+      "Environment versus livelihood",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The mineral is there",
+      "The illness is a lease, an illegal pit and a revenue that does not return to the place",
+      "Poor management, not an empty ground, is the fair reading of the statement"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Bundelkhand is rich in minor minerals like granite and sandstone, yet the mining sector remains underdeveloped, contributing far below its potential to the regional economy.",
         "order": 1,
-        "cite": "6"
+        "text": "Bundelkhand is rich in minor minerals like granite and sandstone, yet the mining sector remains underdeveloped, contributing far below its potential to the regional economy."
       },
       {
         "section": "Body",
-        "text": "Poor management is evident in illegal mining operations, lack of modern mechanized extraction techniques, and inadequate transportation infrastructure for moving bulk minerals.",
         "order": 2,
-        "cite": "6"
+        "text": "Poor management is evident in illegal mining operations, lack of modern mechanized extraction techniques, and inadequate transportation infrastructure for moving bulk minerals."
       },
       {
         "section": "Body",
-        "text": "Administrative hurdles and slow environmental clearances have historically discouraged organized players, leading to a fragmented and inefficient industry structure.",
         "order": 3,
-        "cite": "6"
+        "text": "Administrative hurdles and slow environmental clearances have historically discouraged organized players, leading to a fragmented and inefficient industry structure."
       },
       {
         "section": "Conclusion",
-        "text": "Revitalizing the sector requires a mix of digital monitoring (M-Check), transparent auctioning, and the integration of sustainable 'green mining' practices.",
         "order": 4,
-        "cite": "6"
+        "text": "Revitalizing the sector requires a mix of digital monitoring (M-Check), transparent auctioning, and the integration of sustainable 'green mining' practices."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP6_15",
-    "paper_title": "GS Paper 6",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 15,
+    "year": 2025,
+    "paper_title": "GS Paper 6",
+    "q_number": "15",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "6",
-    "last_updated": 1747356000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 6",
     "question_text": "Discuss how economic progress of Uttar Pradesh is possible through integrated development of agriculture, horticulture, fisheries and allied activities.",
-    "subjectId": "up-geo",
+    "subjectId": "agri",
     "subjects": [
-      "UP Geography & Environment"
+      "Agriculture"
     ],
-    "topic": "UP Geography",
+    "topic": "Farm, garden, fish and the rest together",
     "topics": [
-      "UP Geography"
+      "Farm, garden, fish and the rest together"
     ],
     "subTopics": [
       "Integrated farm development"
     ],
     "keyPointers": [
-      "Crop, fruit, fish and an animal on a linked plan",
-      "A waste of one feeds another",
-      "Progress is income that is not only one harvest",
-      "Integration is the design"
+      "Farmer income",
+      "Cropping pattern",
+      "Food security",
+      "Agricultural marketing"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A grain alone leaves the household exposed to one price",
+      "Horticulture, a pond and an animal add a second income",
+      "Integrated means the same land and the same family, not four separate departments"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Integrated development of the primary sector is essential for Uttar Pradesh to leverage its natural resource base and ensure the economic well-being of its large rural population.",
         "order": 1,
-        "cite": "6"
+        "text": "Integrated development of the primary sector is essential for Uttar Pradesh to leverage its natural resource base and ensure the economic well-being of its large rural population."
       },
       {
         "section": "Body",
-        "text": "Diversification into high-value horticulture and fisheries reduces the risks associated with traditional cereal farming, providing farmers with higher, year-round income streams.",
         "order": 2,
-        "cite": "6"
+        "text": "Diversification into high-value horticulture and fisheries reduces the risks associated with traditional cereal farming, providing farmers with higher, year-round income streams."
       },
       {
         "section": "Body",
-        "text": "Allied activities like dairy and poultry, when integrated with food processing hubs, create a powerful value chain that generates massive rural employment and minimizes post-harvest losses.",
         "order": 3,
-        "cite": "6"
+        "text": "Allied activities like dairy and poultry, when integrated with food processing hubs, create a powerful value chain that generates massive rural employment and minimizes post-harvest losses."
       },
       {
         "section": "Conclusion",
-        "text": "This holistic approach is the most effective path toward doubling farmers' income and achieving a sustainable rural economic transformation.",
         "order": 4,
-        "cite": "6"
+        "text": "This holistic approach is the most effective path toward doubling farmers' income and achieving a sustainable rural economic transformation."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP6_16",
-    "paper_title": "GS Paper 6",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 16,
+    "year": 2025,
+    "paper_title": "GS Paper 6",
+    "q_number": "16",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "6",
-    "last_updated": 1747356000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 6",
     "question_text": "Evaluate the crop insurance schemes and their impact on agricultural risk management in Uttar Pradesh.",
-    "subjectId": "up-geo",
+    "subjectId": "agri",
     "subjects": [
-      "UP Geography & Environment"
+      "Agriculture"
     ],
-    "topic": "UP Environment",
+    "topic": "Crop insurance in the state",
     "topics": [
-      "UP Environment"
+      "Crop insurance in the state"
     ],
     "subTopics": [
       "Crop insurance in UP"
     ],
     "keyPointers": [
-      "A failed monsoon is the risk",
-      "Insurance pays only if the assessment is fast and fair",
-      "Impact is a farmer who can sow again",
-      "Weak if the claim is late or the excluded are many"
+      "Farmer income",
+      "Climate and agriculture",
+      "Subsidy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The scheme is meant to pay when a season fails",
+      "The impact depends on a true yield, a fast claim and a premium the small farmer can bear",
+      "A delayed cheque does not manage the risk"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The Pradhan Mantri Fasal Bima Yojna (PMFBY) is the primary instrument for managing agricultural risks in Uttar Pradesh, providing a financial safety net against weather-induced crop failures.",
         "order": 1,
-        "cite": "6"
+        "text": "The Pradhan Mantri Fasal Bima Yojna (PMFBY) is the primary instrument for managing agricultural risks in Uttar Pradesh, providing a financial safety net against weather-induced crop failures."
       },
       {
         "section": "Body",
-        "text": "The impact is positive in terms of protecting farmers from catastrophic losses due to unseasonal rains and droughts, thereby preventing them from falling into debt traps.",
         "order": 2,
-        "cite": "6"
+        "text": "The impact is positive in terms of protecting farmers from catastrophic losses due to unseasonal rains and droughts, thereby preventing them from falling into debt traps."
       },
       {
         "section": "Body",
-        "text": "However, effectiveness is often limited by delays in crop cutting experiments and claim settlements, necessitating the use of satellite-based monitoring for faster assessments.",
         "order": 3,
-        "cite": "6"
+        "text": "However, effectiveness is often limited by delays in crop cutting experiments and claim settlements, necessitating the use of satellite-based monitoring for faster assessments."
       },
       {
         "section": "Conclusion",
-        "text": "Improving digital integration and farmer awareness is key to making crop insurance a more responsive tool for agricultural resilience in the state.",
         "order": 4,
-        "cite": "6"
+        "text": "Improving digital integration and farmer awareness is key to making crop insurance a more responsive tool for agricultural resilience in the state."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP6_17",
-    "paper_title": "GS Paper 6",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 17,
+    "year": 2025,
+    "paper_title": "GS Paper 6",
+    "q_number": "17",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "6",
-    "last_updated": 1747356000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 6",
     "question_text": "As per Taj Trapezium Zone Pollution (Prevention and Control) Authority, what are the criteria for the four types of categorization of industries, namely Red, Green, Orange and White?",
-    "subjectId": "up-economy",
+    "subjectId": "energyenv",
     "subjects": [
-      "UP Economy & Agri"
+      "Environment & Ecology"
     ],
-    "topic": "UP Industry",
+    "topic": "Red, orange, green and white industries",
     "topics": [
-      "UP Industry"
+      "Red, orange, green and white industries"
     ],
     "subTopics": [
       "Taj Trapezium industrial categories"
     ],
     "keyPointers": [
-      "Industries graded by how much they pollute",
-      "The aim is the monument and the air around Agra",
-      "A category decides who may operate and how",
-      "The criterion is pollution load, not only size"
+      "Industrial discharge",
+      "Pollution control boards",
+      "Sustainable development"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The colour follows how polluting the process is",
+      "Red is the heaviest and white is the lightest",
+      "Around the Taj the category decides who may be allowed and under what condition"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The categorization of industries by the TTZ Authority is based on their potential environmental impact and pollution score, ensuring the protection of the Taj Mahal's ecosystem.",
         "order": 1,
-        "cite": "6"
+        "text": "The categorization of industries by the TTZ Authority is based on their potential environmental impact and pollution score, ensuring the protection of the Taj Mahal's ecosystem."
       },
       {
         "section": "Body",
-        "text": "Red category includes high-pollution industries (score >60) like chemicals and cement; Orange includes medium-pollution units (score 41-59) such as food processing or textiles.",
         "order": 2,
-        "cite": "6"
+        "text": "Red category includes high-pollution industries (score >60) like chemicals and cement; Orange includes medium-pollution units (score 41-59) such as food processing or textiles."
       },
       {
         "section": "Body",
-        "text": "Green category represents low-pollution units (score 21-40), while the White category consists of non-polluting industries (score <20) that are typically exempt from environmental clearances.",
         "order": 3,
-        "cite": "6"
+        "text": "Green category represents low-pollution units (score 21-40), while the White category consists of non-polluting industries (score <20) that are typically exempt from environmental clearances."
       },
       {
         "section": "Conclusion",
-        "text": "This scientific classification allows for targeted regulatory oversight and promotes the transition toward a cleaner industrial landscape in the sensitive TTZ region.",
         "order": 4,
-        "cite": "6"
+        "text": "This scientific classification allows for targeted regulatory oversight and promotes the transition toward a cleaner industrial landscape in the sensitive TTZ region."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP6_18",
-    "paper_title": "GS Paper 6",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 18,
+    "year": 2025,
+    "paper_title": "GS Paper 6",
+    "q_number": "18",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "6",
-    "last_updated": 1747356000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 6",
     "question_text": "Uttar Pradesh is evolving from a \"BIMARU\" state into a manufacturing and information technology power house. Highlight the key areas of development and progress in the state to support this statement.",
-    "subjectId": "up-economy",
+    "subjectId": "economy",
     "subjects": [
-      "UP Economy & Agri"
+      "Economy & Development"
     ],
-    "topic": "UP Energy",
+    "topic": "From a lagging state to a workshop",
     "topics": [
-      "UP Energy"
+      "From a lagging state to a workshop"
     ],
     "subTopics": [
       "UP’s shift toward manufacturing and IT"
     ],
     "keyPointers": [
-      "An old label of backwardness",
-      "Expressways, a corridor and a service city",
-      "Key areas: electronics, defence and a digital firm",
-      "The shift is uneven; the claim needs the district, not only the capital"
+      "Manufacturing",
+      "Digital economy",
+      "Infrastructure",
+      "Inclusive growth"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Expressways, an electronics cluster and a service town are the visible signs",
+      "A powerhouse claim needs a job that is regular, not only an investment announced",
+      "The key areas have to be named against the old gaps in health, school and a small firm"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The 'BIMARU' tag is rapidly being shed as Uttar Pradesh undergoes a structural economic shift, driven by proactive industrial policies and massive infrastructure expansion.",
         "order": 1,
-        "cite": "6"
+        "text": "The 'BIMARU' tag is rapidly being shed as Uttar Pradesh undergoes a structural economic shift, driven by proactive industrial policies and massive infrastructure expansion."
       },
       {
         "section": "Body",
-        "text": "Key progress areas include the emergence of Noida as a global data center and electronics hub, and the development of the Purvanchal and Ganga expressways that have integrated remote regions into the main economy.",
         "order": 2,
-        "cite": "6"
+        "text": "Key progress areas include the emergence of Noida as a global data center and electronics hub, and the development of the Purvanchal and Ganga expressways that have integrated remote regions into the main economy."
       },
       {
         "section": "Body",
-        "text": "Significant improvements in law and order, combined with the 'Single Window' clearance system, have resulted in a surge of FDI and established the state as a manufacturing leader in north India.",
         "order": 3,
-        "cite": "6"
+        "text": "Significant improvements in law and order, combined with the 'Single Window' clearance system, have resulted in a surge of FDI and established the state as a manufacturing leader in north India."
       },
       {
         "section": "Conclusion",
-        "text": "This transformation reflects a clear vision for inclusive, technology-driven growth that positions the state as a critical contributor to India's national development.",
         "order": 4,
-        "cite": "6"
+        "text": "This transformation reflects a clear vision for inclusive, technology-driven growth that positions the state as a critical contributor to India's national development."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP6_19",
-    "paper_title": "GS Paper 6",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 19,
+    "year": 2025,
+    "paper_title": "GS Paper 6",
+    "q_number": "19",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "6",
-    "last_updated": 1747356000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 6",
     "question_text": "Explain the role of research facilities of DST, FIST and SATHI in contributing to science and technology innovation in Uttar Pradesh.",
-    "subjectId": "up-economy",
+    "subjectId": "stech",
     "subjects": [
-      "UP Economy & Agri"
+      "Science & Technology"
     ],
-    "topic": "UP Economy",
+    "topic": "Research facilities in the state",
     "topics": [
-      "UP Economy"
+      "Research facilities in the state"
     ],
     "subTopics": [
       "Research facilities and innovation"
     ],
     "keyPointers": [
-      "Funds for instruments and a shared lab",
-      "They let a college do science it could not afford",
-      "Innovation follows if industry uses the result",
-      "The role is infrastructure for research"
+      "Scientific temper",
+      "Skill and employability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "These facilities fund an instrument, a lab and a shared machine a college could not buy alone",
+      "The contribution is a place where a student can actually do the experiment",
+      "Innovation follows the instrument only if a problem of the state is brought to it"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The research infrastructure supported by the Department of Science and Technology (DST) through schemes like FIST and SATHI provides the backbone for high-end innovation in Uttar Pradesh's academic institutions.",
         "order": 1,
-        "cite": "6"
+        "text": "The research infrastructure supported by the Department of Science and Technology (DST) through schemes like FIST and SATHI provides the backbone for high-end innovation in Uttar Pradesh's academic institutions."
       },
       {
         "section": "Body",
-        "text": "FIST (Fund for Improvement of S&T Infrastructure) helps universities modernize their laboratories, while SATHI (Sophisticated Analytical & Technical Help Institutes) provides accessible, high-end shared analytical equipment to researchers.",
         "order": 2,
-        "cite": "6"
+        "text": "FIST (Fund for Improvement of S&T Infrastructure) helps universities modernize their laboratories, while SATHI (Sophisticated Analytical & Technical Help Institutes) provides accessible, high-end shared analytical equipment to researchers."
       },
       {
         "section": "Body",
-        "text": "These facilities catalyze multidisciplinary research in areas like nanotechnology and life sciences, bridging the gap between academic theory and market-ready industrial solutions.",
         "order": 3,
-        "cite": "6"
+        "text": "These facilities catalyze multidisciplinary research in areas like nanotechnology and life sciences, bridging the gap between academic theory and market-ready industrial solutions."
       },
       {
         "section": "Conclusion",
-        "text": "By democratizing access to expensive technology, these initiatives are essential for making the state a competitive hub for scientific talent and startups.",
         "order": 4,
-        "cite": "6"
+        "text": "By democratizing access to expensive technology, these initiatives are essential for making the state a competitive hub for scientific talent and startups."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP6_20",
-    "paper_title": "GS Paper 6",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 20,
+    "year": 2025,
+    "paper_title": "GS Paper 6",
+    "q_number": "20",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "6",
-    "last_updated": 1747356000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 6",
     "question_text": "Highlight the holistic vision of transforming the Uttar Pradesh into a digitally empowered society and a leading investment destination.",
-    "subjectId": "up-geo",
+    "subjectId": "economy",
     "subjects": [
-      "UP Geography & Environment"
+      "Economy & Development"
     ],
-    "topic": "UP Environment",
+    "topic": "A digital society and an investment destination",
     "topics": [
-      "UP Environment"
+      "A digital society and an investment destination"
     ],
     "subTopics": [
       "Digital UP as an investment destination"
     ],
     "keyPointers": [
-      "A service online and a single window for capital",
-      "Empowerment is the citizen’s access, not only the investor’s",
-      "The vision joins the two",
-      "Judge it by a village that can use it and a unit that stays"
+      "Digital public infrastructure",
+      "Foreign direct investment",
+      "Ease of doing business"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The vision joins a service on a phone with a state a factory would choose",
+      "Digital empowerment is the citizen's access",
+      "The investment half fails if the clearance, the land and the power stay slow"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The state's holistic vision integrates digital empowerment with economic openness to create a transparent, efficient, and investor-friendly environment.",
         "order": 1,
-        "cite": "6"
+        "text": "The state's holistic vision integrates digital empowerment with economic openness to create a transparent, efficient, and investor-friendly environment."
       },
       {
         "section": "Body",
-        "text": "Digital empowerment is pursued through the expansion of optical fiber networks in rural areas and the provision of over 400 government services online, reducing the digital divide.",
         "order": 2,
-        "cite": "6"
+        "text": "Digital empowerment is pursued through the expansion of optical fiber networks in rural areas and the provision of over 400 government services online, reducing the digital divide."
       },
       {
         "section": "Body",
-        "text": "This digital backbone supports the investment vision by ensuring predictable governance, reducing administrative friction, and providing a data-rich environment for modern industries.",
         "order": 3,
-        "cite": "6"
+        "text": "This digital backbone supports the investment vision by ensuring predictable governance, reducing administrative friction, and providing a data-rich environment for modern industries."
       },
       {
         "section": "Conclusion",
-        "text": "The synergy between technology and policy is the cornerstone of Uttar Pradesh's roadmap to becoming a global economic and technology hub.",
         "order": 4,
-        "cite": "6"
+        "text": "The synergy between technology and policy is the cornerstone of Uttar Pradesh's roadmap to becoming a global economic and technology hub."
       }
     ]
   }

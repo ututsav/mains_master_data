@@ -1,16 +1,16 @@
 [
   {
     "uid": "UPPSC_2022_GS3_Q1",
-    "paper_title": "General Studies Paper 3",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 1,
+    "year": 2022,
+    "paper_title": "GS Paper 3",
+    "q_number": "1",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 3",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 3",
     "question_text": "What do you understand by digital agriculture ? Comment on its benefits.",
     "subjectId": "agri",
     "subjects": [
@@ -24,51 +24,50 @@
       "Digital agriculture"
     ],
     "keyPointers": [
-      "A sensor, a satellite and a phone advisory",
-      "Benefits: less waste of input and a better decision",
-      "The farmer needs a signal and a price he can pay",
-      "Comment on the benefit and the exclusion"
+      "Digital public infrastructure",
+      "Farmer income",
+      "Agricultural marketing"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It is a farm decision taken with a sensor, a satellite and a phone",
+      "The benefit is a precise input and a price seen in time",
+      "Digital helps the farmer who can use it"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define digital agriculture as the integration of advanced technologies like AI, IoT, Big Data, and remote sensing into farming practices to optimize crop yields and resource management.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Define digital agriculture as the integration of advanced technologies like AI, IoT, Big Data, and remote sensing into farming practices to optimize crop yields and resource management."
       },
       {
         "section": "Body",
-        "text": "Discuss economic benefits: Precision farming reduces input costs (fertilizers, water), increases crop productivity, and provides direct market access through digital platforms (e.g., e-NAM).",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Discuss economic benefits: Precision farming reduces input costs (fertilizers, water), increases crop productivity, and provides direct market access through digital platforms (e.g., e-NAM)."
       },
       {
         "section": "Body",
-        "text": "Discuss ecological and systemic benefits: Minimizes the environmental footprint by reducing chemical runoff, enables real-time weather forecasting and pest alerts, and facilitates transparent supply chains via blockchain.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Discuss ecological and systemic benefits: Minimizes the environmental footprint by reducing chemical runoff, enables real-time weather forecasting and pest alerts, and facilitates transparent supply chains via blockchain."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that initiatives like the 'Agristack' are pivotal in driving this digital transformation, moving Indian agriculture from subsistence to sustainable commercial viability.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Conclude that initiatives like the 'Agristack' are pivotal in driving this digital transformation, moving Indian agriculture from subsistence to sustainable commercial viability."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS3_Q2",
-    "paper_title": "General Studies Paper 3",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 2,
+    "year": 2022,
+    "paper_title": "GS Paper 3",
+    "q_number": "2",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 3",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 3",
     "question_text": "What is supply chain management? Highlight its importance in the context of food processing industry in India.",
     "subjectId": "agri",
     "subjects": [
@@ -82,51 +81,50 @@
       "Supply chains in food processing"
     ],
     "keyPointers": [
-      "From the field to storage, process and the shop",
-      "Importance is less waste and a higher farm price",
-      "The chain fails at the perishable gap",
-      "Management is the difference between a crop and a product"
+      "Logistics",
+      "Food processing",
+      "Agricultural marketing"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It is the path from the field to the shop, including the store and the transport",
+      "In food processing a break in that path wastes the crop",
+      "Importance is that the factory is useless if the raw material does not arrive"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define supply chain management (SCM) as the active streamlining of a product's creation and delivery activities, from sourcing raw materials (farm) to the final consumer (fork).",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Define supply chain management (SCM) as the active streamlining of a product's creation and delivery activities, from sourcing raw materials (farm) to the final consumer (fork)."
       },
       {
         "section": "Body",
-        "text": "Highlight importance in reducing wastage: Efficient SCM with robust cold storage and transport logistics significantly minimizes post-harvest losses of highly perishable agricultural produce.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Highlight importance in reducing wastage: Efficient SCM with robust cold storage and transport logistics significantly minimizes post-harvest losses of highly perishable agricultural produce."
       },
       {
         "section": "Body",
-        "text": "Highlight economic importance: It ensures fair price realization for farmers by removing middle-men, ensures food quality and safety standards, and boosts India's export competitiveness in processed foods.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Highlight economic importance: It ensures fair price realization for farmers by removing middle-men, ensures food quality and safety standards, and boosts India's export competitiveness in processed foods."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that schemes like PM Kisan SAMPADA Yojana are fundamentally aimed at plugging SCM gaps to unlock the true potential of India's food processing sector.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Conclude that schemes like PM Kisan SAMPADA Yojana are fundamentally aimed at plugging SCM gaps to unlock the true potential of India's food processing sector."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS3_Q3",
-    "paper_title": "General Studies Paper 3",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 3,
+    "year": 2022,
+    "paper_title": "GS Paper 3",
+    "q_number": "3",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 3",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 3",
     "question_text": "Explain the pillars of PM Gati Shakti Yojana. Do you think that it will create competitiveness and better connectivity? Discuss.",
     "subjectId": "economy",
     "subjects": [
@@ -140,51 +138,50 @@
       "PM Gati Shakti"
     ],
     "keyPointers": [
-      "Integrated planning of roads, rail, ports and logistics",
-      "The pillar is one map for many ministries",
-      "It can cut delay and a missing link",
-      "Competitiveness follows only if the project is built"
+      "Infrastructure",
+      "Logistics",
+      "Ease of doing business"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The pillars join a road, a rail, a port and a plan so they are not built apart",
+      "Competitiveness follows if a good moves faster and cheaper",
+      "Connectivity is the promise, and a finished link is the test"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce PM Gati Shakti as a transformative National Master Plan for multi-modal connectivity, designed to break departmental silos in infrastructure planning.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Introduce PM Gati Shakti as a transformative National Master Plan for multi-modal connectivity, designed to break departmental silos in infrastructure planning."
       },
       {
         "section": "Body",
-        "text": "Explain the Seven Pillars: The plan is driven by seven engines—Roads, Railways, Airports, Ports, Mass Transport, Waterways, and Logistics Infrastructure.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Explain the Seven Pillars: The plan is driven by seven engines—Roads, Railways, Airports, Ports, Mass Transport, Waterways, and Logistics Infrastructure."
       },
       {
         "section": "Body",
-        "text": "Discuss connectivity and competitiveness: Yes, it creates seamless multi-modal connectivity which drastically reduces the high logistics cost in India (currently around 13-14% of GDP), accelerating cargo movement and making Indian exports globally competitive.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Discuss connectivity and competitiveness: Yes, it creates seamless multi-modal connectivity which drastically reduces the high logistics cost in India (currently around 13-14% of GDP), accelerating cargo movement and making Indian exports globally competitive."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that by integrating economic zones through spatial planning tools, Gati Shakti acts as a force multiplier for achieving a $5 trillion economy.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Conclude that by integrating economic zones through spatial planning tools, Gati Shakti acts as a force multiplier for achieving a $5 trillion economy."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS3_Q4",
-    "paper_title": "General Studies Paper 3",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 4,
+    "year": 2022,
+    "paper_title": "GS Paper 3",
+    "q_number": "4",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 3",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 3",
     "question_text": "Financial inclusion is a critical part of the development process to achieve social justice. Comment.",
     "subjectId": "economy",
     "subjects": [
@@ -198,283 +195,278 @@
       "Financial inclusion and social justice"
     ],
     "keyPointers": [
-      "An account, a credit and an insurance for the excluded",
-      "Justice needs more than a bank",
-      "Inclusion is a condition of a fair economy",
-      "Comment: necessary, not sufficient"
+      "Financial inclusion",
+      "Inclusive growth",
+      "Inequality"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A bank account, a credit and an insurance are how the left-out person enters the economy",
+      "Social justice needs that entry",
+      "A comment has to say an account without a use is not yet inclusion"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define financial inclusion as the delivery of financial services (banking, credit, insurance) at affordable costs to sections of disadvantaged and low-income segments of society.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Define financial inclusion as the delivery of financial services (banking, credit, insurance) at affordable costs to sections of disadvantaged and low-income segments of society."
       },
       {
         "section": "Body",
-        "text": "Link to development process: It promotes savings habits, provides formal credit for micro-entrepreneurship (MUDRA Yojana), and prevents the exploitation of the rural poor by informal moneylenders.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Link to development process: It promotes savings habits, provides formal credit for micro-entrepreneurship (MUDRA Yojana), and prevents the exploitation of the rural poor by informal moneylenders."
       },
       {
         "section": "Body",
-        "text": "Link to social justice: Through the JAM Trinity (Jan Dhan, Aadhaar, Mobile), financial inclusion ensures leak-proof Direct Benefit Transfers (DBT) of welfare schemes, empowering women, marginalized castes, and minority groups.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Link to social justice: Through the JAM Trinity (Jan Dhan, Aadhaar, Mobile), financial inclusion ensures leak-proof Direct Benefit Transfers (DBT) of welfare schemes, empowering women, marginalized castes, and minority groups."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that economic democracy via financial inclusion is a prerequisite for fulfilling the constitutional mandate of social and economic justice.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Conclude that economic democracy via financial inclusion is a prerequisite for fulfilling the constitutional mandate of social and economic justice."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS3_Q5",
-    "paper_title": "General Studies Paper 3",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 5,
+    "year": 2022,
+    "paper_title": "GS Paper 3",
+    "q_number": "5",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 3",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 3",
     "question_text": "Evaluate the present industrial policy of the Government of India with special reference to 'Make in India' and 'Stand up India'.",
-    "subjectId": "stech",
+    "subjectId": "economy",
     "subjects": [
-      "Science & Technology"
+      "Economy & Development"
     ],
-    "topic": "Science & Tech",
+    "topic": "Make in India and Stand up India",
     "topics": [
-      "Science & Tech"
+      "Make in India and Stand up India"
     ],
     "subTopics": [
       "Industrial policy, Make in India and PLI"
     ],
     "keyPointers": [
-      "A push to manufacture at home",
-      "PLI pays for incremental output in chosen sectors",
-      "Evaluate jobs, local value and who received the incentive",
-      "Policy is the factory, not the slogan"
+      "Manufacturing",
+      "Skill and employability",
+      "Inclusive growth"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "One asks the world to manufacture here; the other asks a person left out to start a firm",
+      "The policy is a factory and a first-time entrepreneur",
+      "Evaluation is the job and the firm that actually started"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the present industrial policy as shifting towards self-reliance (Aatmanirbhar Bharat), boosting domestic manufacturing, and promoting inclusive entrepreneurship.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Introduce the present industrial policy as shifting towards self-reliance (Aatmanirbhar Bharat), boosting domestic manufacturing, and promoting inclusive entrepreneurship."
       },
       {
         "section": "Body",
-        "text": "Evaluate 'Make in India': Focuses on transforming India into a global design and manufacturing hub by easing FDI norms, improving ease of doing business, and launching Production Linked Incentive (PLI) schemes. It has successfully boosted sectors like electronics and defense manufacturing.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Evaluate 'Make in India': Focuses on transforming India into a global design and manufacturing hub by easing FDI norms, improving ease of doing business, and launching Production Linked Incentive (PLI) schemes. It has successfully boosted sectors like electronics and defense manufacturing."
       },
       {
         "section": "Body",
-        "text": "Evaluate 'Stand up India': Complements industrial growth with social equity by facilitating bank loans (between 10 lakh to 1 crore) exclusively for SC/ST and women borrowers to set up greenfield enterprises.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Evaluate 'Stand up India': Complements industrial growth with social equity by facilitating bank loans (between 10 lakh to 1 crore) exclusively for SC/ST and women borrowers to set up greenfield enterprises."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while 'Make in India' drives macroeconomic scale and industrial competitiveness, 'Stand up India' ensures that this growth remains decentralized and socially inclusive.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Conclude that while 'Make in India' drives macroeconomic scale and industrial competitiveness, 'Stand up India' ensures that this growth remains decentralized and socially inclusive."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS3_Q6",
-    "paper_title": "General Studies Paper 3",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 6,
+    "year": 2022,
+    "paper_title": "GS Paper 3",
+    "q_number": "6",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 3",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 3",
     "question_text": "Discuss the role of science and technology in national security.",
-    "subjectId": "stech",
+    "subjectId": "security",
     "subjects": [
-      "Science & Technology"
+      "Internal Security"
     ],
-    "topic": "Science & Tech",
+    "topic": "Science in national security",
     "topics": [
-      "Science & Tech"
+      "Science in national security"
     ],
     "subTopics": [
       "Science and national security"
     ],
     "keyPointers": [
-      "Missiles, cyber, space and a surveillance system",
-      "Security now depends on a domestic technology base",
-      "A gap in science is a gap in defence",
-      "The role is capability, not only a weapon count"
+      "Strategic autonomy",
+      "Cyber security",
+      "Artificial intelligence"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A radar, a satellite and a secure network are security, not only a weapon",
+      "The role is to see earlier and to depend less on a foreign supplier",
+      "Science changes what the force can do"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define the modern security landscape, where traditional territorial threats are increasingly overshadowed by multi-domain, technology-driven warfare.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Define the modern security landscape, where traditional territorial threats are increasingly overshadowed by multi-domain, technology-driven warfare."
       },
       {
         "section": "Body",
-        "text": "Discuss physical and border security: Applications of S&T in border management (CIBMS, drones, thermal imaging), indigenous missile development (Agni, BrahMos), and nuclear deterrence.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Discuss physical and border security: Applications of S&T in border management (CIBMS, drones, thermal imaging), indigenous missile development (Agni, BrahMos), and nuclear deterrence."
       },
       {
         "section": "Body",
-        "text": "Discuss non-traditional security domains: The critical role of S&T in combating cyber-terrorism, space asset protection (Mission Shakti ASAT), bio-defense mechanisms, and secure quantum communications.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Discuss non-traditional security domains: The critical role of S&T in combating cyber-terrorism, space asset protection (Mission Shakti ASAT), bio-defense mechanisms, and secure quantum communications."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that sustained R&D investment (via DRDO, ISRO) is imperative to maintain a technological edge and ensure comprehensive national security.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Conclude that sustained R&D investment (via DRDO, ISRO) is imperative to maintain a technological edge and ensure comprehensive national security."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS3_Q7",
-    "paper_title": "General Studies Paper 3",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 7,
+    "year": 2022,
+    "paper_title": "GS Paper 3",
+    "q_number": "7",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 3",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 3",
     "question_text": "Explain E-pollution and space pollution. What measures are suggested for its management?",
-    "subjectId": "geo",
+    "subjectId": "energyenv",
     "subjects": [
-      "Geography"
+      "Environment & Ecology"
     ],
-    "topic": "Environment",
+    "topic": "Electronic waste and debris in space",
     "topics": [
-      "Environment"
+      "Electronic waste and debris in space"
     ],
     "subTopics": [
       "Electronic waste and space debris"
     ],
     "keyPointers": [
-      "E-waste is discarded devices and their toxins",
-      "Space pollution is debris in orbit",
-      "Both are wastes of a technology",
-      "Management: recycle, a rule, and a design that does not litter"
+      "Waste management",
+      "Space programme",
+      "Sustainable development"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "E-pollution is a discarded device and its toxin",
+      "Space pollution is a dead satellite and a fragment in orbit",
+      "Management is a take-back on earth and a rule against leaving junk above"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Identify E-pollution and Space pollution as severe by-products of rapid technological advancement in the 21st century.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Identify E-pollution and Space pollution as severe by-products of rapid technological advancement in the 21st century."
       },
       {
         "section": "Body",
-        "text": "Explain E-pollution (e-waste) and management: E-pollution refers to discarded electronic devices leaching toxic heavy metals into soil and water. Measures include enforcing Extended Producer Responsibility (EPR), promoting circular economy recycling, and safe disposal plants.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Explain E-pollution (e-waste) and management: E-pollution refers to discarded electronic devices leaching toxic heavy metals into soil and water. Measures include enforcing Extended Producer Responsibility (EPR), promoting circular economy recycling, and safe disposal plants."
       },
       {
         "section": "Body",
-        "text": "Explain Space pollution (space debris) and management: It comprises defunct satellites and launch vehicle stages in Earth orbit, posing collision risks (Kessler syndrome). Measures include ISRO's Project NETRA for space situational awareness, de-orbiting end-of-life satellites, and international space traffic management treaties.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Explain Space pollution (space debris) and management: It comprises defunct satellites and launch vehicle stages in Earth orbit, posing collision risks (Kessler syndrome). Measures include ISRO's Project NETRA for space situational awareness, de-orbiting end-of-life satellites, and international space traffic management treaties."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that proactive international collaboration and stringent domestic regulations are required to keep both the Earth and orbital environments sustainable.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Conclude that proactive international collaboration and stringent domestic regulations are required to keep both the Earth and orbital environments sustainable."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS3_Q8",
-    "paper_title": "General Studies Paper 3",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 8,
+    "year": 2022,
+    "paper_title": "GS Paper 3",
+    "q_number": "8",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 3",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 3",
     "question_text": "Examine the importance of 'Defence Corridor Project' being built in Uttar Pradesh.",
-    "subjectId": "energyenv",
+    "subjectId": "economy",
     "subjects": [
-      "Energy, Environment, Disaster"
+      "Economy & Development"
     ],
-    "topic": "Disaster Management",
+    "topic": "The defence corridor in the state",
     "topics": [
-      "Disaster Management"
+      "The defence corridor in the state"
     ],
     "subTopics": [
       "UP Defence Corridor"
     ],
     "keyPointers": [
-      "A cluster for defence manufacture",
-      "Jobs and a supplier chain in the state",
-      "Importance is reducing import and spreading industry",
-      "A corridor is land plus firms that actually produce"
+      "Manufacturing",
+      "Infrastructure",
+      "Strategic autonomy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It is meant to cluster factories that supply the armed forces",
+      "The importance for the state is a job and a vendor in a new district",
+      "A corridor matters if an order reaches a local firm"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Uttar Pradesh Defence Industrial Corridor (UPDIC) as a strategic megaproject designed to reduce foreign arms dependency and spur regional industrialization.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Introduce the Uttar Pradesh Defence Industrial Corridor (UPDIC) as a strategic megaproject designed to reduce foreign arms dependency and spur regional industrialization."
       },
       {
         "section": "Body",
-        "text": "Examine strategic importance: Establishing a robust domestic defense manufacturing ecosystem across six nodes (Aligarh, Agra, Kanpur, Chitrakoot, Jhansi, Lucknow), promoting R&D, and aiding the 'Make in India' defense initiative.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Examine strategic importance: Establishing a robust domestic defense manufacturing ecosystem across six nodes (Aligarh, Agra, Kanpur, Chitrakoot, Jhansi, Lucknow), promoting R&D, and aiding the 'Make in India' defense initiative."
       },
       {
         "section": "Body",
-        "text": "Examine economic importance: Revitalizing MSMEs, creating massive direct and indirect employment, and specifically transforming the socio-economic landscape of the backward Bundelkhand region.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Examine economic importance: Revitalizing MSMEs, creating massive direct and indirect employment, and specifically transforming the socio-economic landscape of the backward Bundelkhand region."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the UPDIC positions Uttar Pradesh as a crucial engine for India's self-reliance in aerospace and defense technologies.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Conclude that the UPDIC positions Uttar Pradesh as a crucial engine for India's self-reliance in aerospace and defense technologies."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS3_Q9",
-    "paper_title": "General Studies Paper 3",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 9,
+    "year": 2022,
+    "paper_title": "GS Paper 3",
+    "q_number": "9",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 3",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 3",
     "question_text": "Analyse Government of India's 'Agniveer' plan in the light of India's defence needs.",
     "subjectId": "security",
     "subjects": [
@@ -488,109 +480,104 @@
       "Agniveer scheme"
     ],
     "keyPointers": [
-      "A short service tenure and a younger force",
-      "Needs: a skilled, retained and motivated military",
-      "Analyse the gain in youth against the loss of experience",
-      "The test is defence need, not only the budget"
+      "Strategic autonomy",
+      "Skill and employability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A short service is meant to keep the force young and to cut a long pension bill",
+      "The defence need is a trained person, and also a person who stays",
+      "The analysis has to hold the saving and the experience that leaves"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Agnipath scheme (Agniveer) as a paradigm shift in the recruitment process of the Armed Forces, inducting youth on a short-term, four-year contract.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Introduce the Agnipath scheme (Agniveer) as a paradigm shift in the recruitment process of the Armed Forces, inducting youth on a short-term, four-year contract."
       },
       {
         "section": "Body",
-        "text": "Analyze benefits for defense needs: It drastically lowers the age profile of the military ensuring a fitter, more tech-savvy force. Crucially, it curtails the burgeoning pension bill, freeing up capital budget for urgent weapons modernization.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Analyze benefits for defense needs: It drastically lowers the age profile of the military ensuring a fitter, more tech-savvy force. Crucially, it curtails the burgeoning pension bill, freeing up capital budget for urgent weapons modernization."
       },
       {
         "section": "Body",
-        "text": "Analyze challenges and concerns: Short training periods might impact operational readiness in high-altitude/complex warfare, and the lack of job security after four years may affect the morale and regimental cohesion of soldiers.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Analyze challenges and concerns: Short training periods might impact operational readiness in high-altitude/complex warfare, and the lack of job security after four years may affect the morale and regimental cohesion of soldiers."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while economically and demographically pragmatic, the scheme requires continuous evaluation and robust resettlement frameworks for exiting Agniveers.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Conclude that while economically and demographically pragmatic, the scheme requires continuous evaluation and robust resettlement frameworks for exiting Agniveers."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS3_Q10",
-    "paper_title": "General Studies Paper 3",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 10,
+    "year": 2022,
+    "paper_title": "GS Paper 3",
+    "q_number": "10",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 3",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 3",
     "question_text": "What are the types of disasters ? Elucidate its management in India.",
-    "subjectId": "security",
+    "subjectId": "energyenv",
     "subjects": [
-      "Internal Security"
+      "Environment & Ecology"
     ],
-    "topic": "Internal Security",
+    "topic": "Types of disaster and how they are handled",
     "topics": [
-      "Internal Security"
+      "Types of disaster and how they are handled"
     ],
     "subTopics": [
       "Types of disasters and management"
     ],
     "keyPointers": [
-      "Natural and man-made",
-      "Management is warning, response and recovery",
-      "India has shifted from relief alone toward preparedness",
-      "Elucidate the type and the matching response"
+      "Disaster risk reduction"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A natural event and a man-made accident are the two broad types",
+      "Management is a warning, a relief and a rebuilding",
+      "In India the system is a law and a district plan, and it is uneven"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define a disaster as a severe disruption to the functioning of a community. Broadly classify them into Natural (earthquakes, cyclones, floods) and Man-made (industrial leaks, nuclear accidents, stampedes).",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Define a disaster as a severe disruption to the functioning of a community. Broadly classify them into Natural (earthquakes, cyclones, floods) and Man-made (industrial leaks, nuclear accidents, stampedes)."
       },
       {
         "section": "Body",
-        "text": "Elucidate the management framework: Guided by the Disaster Management Act 2005, it operates on a three-tier structure: NDMA at the national level (headed by PM), SDMA at the state, and DDMA at the district level, with NDRF acting as the specialized response force.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Elucidate the management framework: Guided by the Disaster Management Act 2005, it operates on a three-tier structure: NDMA at the national level (headed by PM), SDMA at the state, and DDMA at the district level, with NDRF acting as the specialized response force."
       },
       {
         "section": "Body",
-        "text": "Discuss the paradigm shift: Indian disaster management has evolved from a reactive, relief-centric approach to a proactive cycle of prevention, mitigation, preparedness (early warning systems), response, and resilient recovery.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Discuss the paradigm shift: Indian disaster management has evolved from a reactive, relief-centric approach to a proactive cycle of prevention, mitigation, preparedness (early warning systems), response, and resilient recovery."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that building community-level capacity and integrating disaster risk reduction into development planning (Sendai Framework) is key to minimizing future losses.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Conclude that building community-level capacity and integrating disaster risk reduction into development planning (Sendai Framework) is key to minimizing future losses."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS3_Q11",
-    "paper_title": "General Studies Paper 3",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 11,
+    "year": 2022,
+    "paper_title": "GS Paper 3",
+    "q_number": "11",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 3",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 3",
     "question_text": "\"Inclusive growth has now become the central point of developmental strategy.\" Discuss the statement in the context of India. Also suggest remedial actions to achieve this growth.",
     "subjectId": "economy",
     "subjects": [
@@ -604,457 +591,448 @@
       "Inclusive growth"
     ],
     "keyPointers": [
-      "The gain must reach the poor, the region and the woman",
-      "It is now stated as the strategy",
-      "Discuss whether the design matches the claim",
-      "The centre is who benefits, not the average"
+      "Inclusive growth",
+      "Inequality",
+      "Welfare state"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A rise that leaves a region and a person out is no longer accepted as the strategy",
+      "The centre of the plan is now a job, a school and a scheme",
+      "The remedy is to reach the bottom, not only to raise the average"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define inclusive growth as economic growth that is distributed fairly across society, ensuring that the benefits reach marginalized sections and create equal employment opportunities.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Define inclusive growth as economic growth that is distributed fairly across society, ensuring that the benefits reach marginalized sections and create equal employment opportunities."
       },
       {
         "section": "Body",
-        "text": "Discuss its centrality in India: Despite high GDP growth rates, India faces jobless growth, extreme wealth inequality (Oxfam report), regional disparities, and vulnerabilities in the unorganized sector, making mere GDP growth insufficient.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Discuss its centrality in India: Despite high GDP growth rates, India faces jobless growth, extreme wealth inequality (Oxfam report), regional disparities, and vulnerabilities in the unorganized sector, making mere GDP growth insufficient."
       },
       {
         "section": "Body",
-        "text": "Suggest remedial actions: Boosting labor-intensive manufacturing sectors, heavy investment in human capital (education and healthcare), aggressive financial inclusion, land reforms, and targeted social safety nets for women and rural populations.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Suggest remedial actions: Boosting labor-intensive manufacturing sectors, heavy investment in human capital (education and healthcare), aggressive financial inclusion, land reforms, and targeted social safety nets for women and rural populations."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that shifting the focus from quantitative growth to qualitative, inclusive development is the only way India can achieve its Sustainable Development Goals (SDGs) and a true demographic dividend.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Conclude that shifting the focus from quantitative growth to qualitative, inclusive development is the only way India can achieve its Sustainable Development Goals (SDGs) and a true demographic dividend."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS3_Q12",
-    "paper_title": "General Studies Paper 3",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 12,
+    "year": 2022,
+    "paper_title": "GS Paper 3",
+    "q_number": "12",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 3",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 3",
     "question_text": "What is the role of skill development in a country's economic development? Highlight the objectives and main features of Uttar Pradesh Skill Development Mission, 2022.",
-    "subjectId": "agri",
+    "subjectId": "economy",
     "subjects": [
-      "Agriculture & Food"
+      "Economy & Development"
     ],
-    "topic": "Agriculture",
+    "topic": "Skill and the state's mission",
     "topics": [
-      "Agriculture"
+      "Skill and the state's mission"
     ],
     "subTopics": [
       "Skill development and the skill mission"
     ],
     "keyPointers": [
-      "A skill turns a young population into workers",
-      "Objectives: training, a standard and a placement",
-      "Features: short courses and an industry link",
-      "The role fails if there is no job at the end"
+      "Skill and employability",
+      "Inclusive growth",
+      "Unemployment"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A skill turns a young person into someone a firm will hire",
+      "The state's mission aims at a training tied to a job",
+      "The feature is a centre and a certificate, and the test is the placement"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Establish skill development as the critical bridge between basic education and productive employment, essential for transforming a population into a skilled workforce.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Establish skill development as the critical bridge between basic education and productive employment, essential for transforming a population into a skilled workforce."
       },
       {
         "section": "Body",
-        "text": "Discuss its role in economic development: It enhances labor productivity, attracts foreign direct investment, fosters innovation and entrepreneurship, and reduces poverty by increasing earning capacity.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Discuss its role in economic development: It enhances labor productivity, attracts foreign direct investment, fosters innovation and entrepreneurship, and reduces poverty by increasing earning capacity."
       },
       {
         "section": "Body",
-        "text": "Highlight the UP Skill Development Mission 2022: Objectives include providing free, market-driven vocational training to the state's massive youth demographic. Main features include convergence of various state schemes, partnerships with private training providers, and ensuring placement tracking.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Highlight the UP Skill Development Mission 2022: Objectives include providing free, market-driven vocational training to the state's massive youth demographic. Main features include convergence of various state schemes, partnerships with private training providers, and ensuring placement tracking."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that for a high-population state like UP, robust skill development is the only mechanism to prevent the demographic dividend from turning into a demographic disaster.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Conclude that for a high-population state like UP, robust skill development is the only mechanism to prevent the demographic dividend from turning into a demographic disaster."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS3_Q13",
-    "paper_title": "General Studies Paper 3",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 13,
+    "year": 2022,
+    "paper_title": "GS Paper 3",
+    "q_number": "13",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 3",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 3",
     "question_text": "Discuss the effects of globalisation and liberalisation policies on Indian economy with particular reference to foreign trade, capital flows and technology transfer.",
-    "subjectId": "agri",
+    "subjectId": "economy",
     "subjects": [
-      "Agriculture & Food"
+      "Economy & Development"
     ],
-    "topic": "Food Security",
+    "topic": "Opening the economy",
     "topics": [
-      "Food Security"
+      "Opening the economy"
     ],
     "subTopics": [
       "Liberalisation and agriculture"
     ],
     "keyPointers": [
-      "Opened markets and a new input",
-      "The farm faced price risk and a slow public support",
-      "Effects differ by crop and region",
-      "Particular reference means the cultivator, not only GDP"
+      "Economic growth",
+      "Foreign direct investment",
+      "Trade and foreign policy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Trade grew, capital came in and a technology arrived with the firm",
+      "The effect is a wider market and a sharper competition",
+      "Liberalisation changed the direction of the economy, and not every sector gained the same"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Contextualize the 1991 LPG (Liberalization, Privatization, Globalization) reforms which dismantled the License Raj and integrated the Indian economy with global markets.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Contextualize the 1991 LPG (Liberalization, Privatization, Globalization) reforms which dismantled the License Raj and integrated the Indian economy with global markets."
       },
       {
         "section": "Body",
-        "text": "Discuss effects on Foreign Trade: Dismantling of high tariffs and quotas led to a massive surge in both exports (particularly IT/ITeS, pharma) and imports, diversifying trading partners and integrating India into global supply chains.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Discuss effects on Foreign Trade: Dismantling of high tariffs and quotas led to a massive surge in both exports (particularly IT/ITeS, pharma) and imports, diversifying trading partners and integrating India into global supply chains."
       },
       {
         "section": "Body",
-        "text": "Discuss Capital Flows and Technology Transfer: Easing of FDI and FPI norms brought in massive foreign capital, solving the BoP crisis. This capital brought along advanced managerial practices and rapid technology transfer, revolutionizing telecom, automobile, and manufacturing sectors.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Discuss Capital Flows and Technology Transfer: Easing of FDI and FPI norms brought in massive foreign capital, solving the BoP crisis. This capital brought along advanced managerial practices and rapid technology transfer, revolutionizing telecom, automobile, and manufacturing sectors."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while these policies propelled India to become one of the fastest-growing major economies, they also exposed domestic industries to severe global competition and widened economic inequalities.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Conclude that while these policies propelled India to become one of the fastest-growing major economies, they also exposed domestic industries to severe global competition and widened economic inequalities."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS3_Q14",
-    "paper_title": "General Studies Paper 3",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 14,
+    "year": 2022,
+    "paper_title": "GS Paper 3",
+    "q_number": "14",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 3",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 3",
     "question_text": "Examine the financial and technical viability of solar energy projects in India. Also discuss the Government Schemes launched to promote solar energy in the country.",
-    "subjectId": "stech",
+    "subjectId": "energyenv",
     "subjects": [
-      "Science & Technology"
+      "Environment & Ecology"
     ],
-    "topic": "Science & Tech",
+    "topic": "Solar projects",
     "topics": [
-      "Science & Tech"
+      "Solar projects"
     ],
     "subTopics": [
       "Viability of solar projects"
     ],
     "keyPointers": [
-      "Cost has fallen; storage and land remain",
-      "Technical: intermittence and a grid",
-      "Financial: a tariff and a paying buyer",
-      "Government support is the purchase obligation and a park"
+      "Renewable energy",
+      "Energy access",
+      "Sustainable development"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Sunlight is abundant, and the cost of the panel has fallen",
+      "Viability still depends on land, a grid and a payment that arrives",
+      "The schemes try to make that payment and that grid reliable"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Highlight India's ambitious climate commitments (Panchamrit targets) and its geographic advantage (tropical location) making solar energy a strategic priority.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Highlight India's ambitious climate commitments (Panchamrit targets) and its geographic advantage (tropical location) making solar energy a strategic priority."
       },
       {
         "section": "Body",
-        "text": "Examine viability: Financially, economies of scale have drastically reduced per-unit solar tariffs (achieving grid parity), though high initial capital and land acquisition costs persist. Technically, challenges remain regarding battery storage capabilities, grid integration of variable power, and heavy reliance on imported solar panels.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Examine viability: Financially, economies of scale have drastically reduced per-unit solar tariffs (achieving grid parity), though high initial capital and land acquisition costs persist. Technically, challenges remain regarding battery storage capabilities, grid integration of variable power, and heavy reliance on imported solar panels."
       },
       {
         "section": "Body",
-        "text": "Discuss Government Schemes: PM-KUSUM (solarizing agriculture pumps), the Solar Park Scheme (for ultra-mega power projects), National Solar Mission, and the PLI scheme for manufacturing high-efficiency solar modules to boost domestic production.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Discuss Government Schemes: PM-KUSUM (solarizing agriculture pumps), the Solar Park Scheme (for ultra-mega power projects), National Solar Mission, and the PLI scheme for manufacturing high-efficiency solar modules to boost domestic production."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that scaling up solar energy is highly viable and essential for India's energy security, provided domestic manufacturing and storage technologies are rapidly indigenized.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Conclude that scaling up solar energy is highly viable and essential for India's energy security, provided domestic manufacturing and storage technologies are rapidly indigenized."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS3_Q15",
-    "paper_title": "General Studies Paper 3",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 15,
+    "year": 2022,
+    "paper_title": "GS Paper 3",
+    "q_number": "15",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 3",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 3",
     "question_text": "What are the factors responsible for comparative poor development of Eastern Uttar Pradesh? Discuss and also suggest solutions for development of this region.",
-    "subjectId": "geo",
+    "subjectId": "economy",
     "subjects": [
-      "Geography"
+      "Economy & Development"
     ],
-    "topic": "Environment",
+    "topic": "Why the east of the state lags",
     "topics": [
-      "Environment"
+      "Why the east of the state lags"
     ],
     "subTopics": [
       "Backwardness of eastern UP"
     ],
     "keyPointers": [
-      "Floods, small farms, a thin industry and out-migration",
-      "Causes are geography and a long neglect",
-      "Suggestions: irrigation, a skill, a road and a local industry",
-      "Compare, do not only describe"
+      "Inclusive growth",
+      "Infrastructure",
+      "Inequality"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A flood, a thin industry and a weak road are the factors",
+      "The lag is comparative, against the west of the same state",
+      "The solution is a connectivity, a skill and a public service that stays"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Acknowledge the stark regional disparity in Uttar Pradesh, where the Eastern region (Purvanchal) lags significantly behind Western UP in socioeconomic indicators.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Acknowledge the stark regional disparity in Uttar Pradesh, where the Eastern region (Purvanchal) lags significantly behind Western UP in socioeconomic indicators."
       },
       {
         "section": "Body",
-        "text": "Discuss factors for poor development: High population density leading to fragmented landholdings, severe annual flooding (by rivers like Ghaghara, Kosi), lack of industrial infrastructure, low private investment, and a historical out-migration of skilled labor.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Discuss factors for poor development: High population density leading to fragmented landholdings, severe annual flooding (by rivers like Ghaghara, Kosi), lack of industrial infrastructure, low private investment, and a historical out-migration of skilled labor."
       },
       {
         "section": "Body",
-        "text": "Suggest solutions: Accelerating infrastructural projects (like the Purvanchal Expressway and Gorakhpur Link), establishing food processing clusters, promoting the One District One Product (ODOP) scheme, and implementing effective flood-management strategies.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Suggest solutions: Accelerating infrastructural projects (like the Purvanchal Expressway and Gorakhpur Link), establishing food processing clusters, promoting the One District One Product (ODOP) scheme, and implementing effective flood-management strategies."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that targeted political will and capital infusion are essential to bring Purvanchal at par, ensuring balanced regional growth in the state.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Conclude that targeted political will and capital infusion are essential to bring Purvanchal at par, ensuring balanced regional growth in the state."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS3_Q16",
-    "paper_title": "General Studies Paper 3",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 16,
+    "year": 2022,
+    "paper_title": "GS Paper 3",
+    "q_number": "16",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 3",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 3",
     "question_text": "Define nanoscience and nanotechnology. Explain in detail their potential in different fields of science and agriculture.",
-    "subjectId": "energyenv",
+    "subjectId": "stech",
     "subjects": [
-      "Energy, Environment, Disaster"
+      "Science & Technology"
     ],
-    "topic": "Energy",
+    "topic": "The very small scale",
     "topics": [
-      "Energy"
+      "The very small scale"
     ],
     "subTopics": [
       "Nanoscience and nanotechnology"
     ],
     "keyPointers": [
-      "Work at the scale of a molecule",
-      "Potential in medicine, materials, energy and farming",
-      "The science is the understanding; the technology is the use",
-      "Potential needs a cost and a safety rule"
+      "Biotechnology",
+      "Farmer income"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Nanoscience studies matter at a tiny scale; nanotechnology uses that scale to make a thing",
+      "In agriculture a sensor, a delivery of a nutrient and a filter are the potential",
+      "The potential is large, and the field use is still early"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define nanoscience as the study of materials at the nanoscale (1 to 100 nanometers), and nanotechnology as the manipulation of these materials to create new structures, devices, and systems with fundamentally new properties.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Define nanoscience as the study of materials at the nanoscale (1 to 100 nanometers), and nanotechnology as the manipulation of these materials to create new structures, devices, and systems with fundamentally new properties."
       },
       {
         "section": "Body",
-        "text": "Explain potential in science (Health & Environment): Targeted drug delivery (destroying cancer cells without harming healthy tissue), advanced water purification (nanofilters), and developing lighter, stronger materials for aerospace and electronics.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Explain potential in science (Health & Environment): Targeted drug delivery (destroying cancer cells without harming healthy tissue), advanced water purification (nanofilters), and developing lighter, stronger materials for aerospace and electronics."
       },
       {
         "section": "Body",
-        "text": "Explain potential in agriculture: Introduction of nano-fertilizers (e.g., IFFCO Nano Urea) and nano-pesticides which provide slow, targeted release of nutrients, drastically reducing chemical runoff and boosting crop yields. Also aids in precision farming via nano-sensors.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Explain potential in agriculture: Introduction of nano-fertilizers (e.g., IFFCO Nano Urea) and nano-pesticides which provide slow, targeted release of nutrients, drastically reducing chemical runoff and boosting crop yields. Also aids in precision farming via nano-sensors."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that nanotechnology acts as a foundational general-purpose technology, holding the potential to revolutionize multiple sectors while necessitating careful monitoring for nanoparticle toxicity.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Conclude that nanotechnology acts as a foundational general-purpose technology, holding the potential to revolutionize multiple sectors while necessitating careful monitoring for nanoparticle toxicity."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS3_Q17",
-    "paper_title": "General Studies Paper 3",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 17,
+    "year": 2022,
+    "paper_title": "GS Paper 3",
+    "q_number": "17",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 3",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 3",
     "question_text": "Discuss the issues related to Intellectual Property Rights (IPR) and how their violation can be checked?",
-    "subjectId": "energyenv",
+    "subjectId": "economy",
     "subjects": [
-      "Energy, Environment, Disaster"
+      "Economy & Development"
     ],
-    "topic": "Disaster Management",
+    "topic": "Intellectual property",
     "topics": [
-      "Disaster Management"
+      "Intellectual property"
     ],
     "subTopics": [
       "Intellectual property violations"
     ],
     "keyPointers": [
-      "A patent, a trademark and a copyright",
-      "Violation is copying and a biopiracy of traditional knowledge",
-      "Check by a search, a registration and an enforcement",
-      "The issue is reward versus access"
+      "Economic growth",
+      "Manufacturing",
+      "Scientific temper"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A patent, a trademark and a copyright are the rights",
+      "Violation is a copy that takes the return from the person who made it",
+      "It is checked by a registration, a court and a border that can stop the copy"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define Intellectual Property Rights (IPR) as legal rights protecting creations of the mind (patents, copyrights, trademarks), crucial for fostering innovation and R&D.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Define Intellectual Property Rights (IPR) as legal rights protecting creations of the mind (patents, copyrights, trademarks), crucial for fostering innovation and R&D."
       },
       {
         "section": "Body",
-        "text": "Discuss the major issues: The conflict between patent monopolies and public health (e.g., affordable life-saving generic drugs vs. 'evergreening' of patents by pharma giants), biopiracy of traditional knowledge, and digital copyright infringement (software/content piracy).",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Discuss the major issues: The conflict between patent monopolies and public health (e.g., affordable life-saving generic drugs vs. 'evergreening' of patents by pharma giants), biopiracy of traditional knowledge, and digital copyright infringement (software/content piracy)."
       },
       {
         "section": "Body",
-        "text": "Discuss checking violations: Strengthening legal frameworks (like the National IPR Policy 2016), speeding up the judicial resolution of patent disputes, improving public awareness, and utilizing TRIPS flexibilities (like Compulsory Licensing) judiciously.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Discuss checking violations: Strengthening legal frameworks (like the National IPR Policy 2016), speeding up the judicial resolution of patent disputes, improving public awareness, and utilizing TRIPS flexibilities (like Compulsory Licensing) judiciously."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that a robust IPR regime must strike a delicate balance between rewarding creators/inventors and protecting the socio-economic interests of the general public.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Conclude that a robust IPR regime must strike a delicate balance between rewarding creators/inventors and protecting the socio-economic interests of the general public."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS3_Q18",
-    "paper_title": "General Studies Paper 3",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 18,
+    "year": 2022,
+    "paper_title": "GS Paper 3",
+    "q_number": "18",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 3",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 3",
     "question_text": "Explain logically the role and effects of artificial intelligence in military and civil sectors.",
-    "subjectId": "security",
+    "subjectId": "stech",
     "subjects": [
-      "Internal Security"
+      "Science & Technology"
     ],
-    "topic": "Internal Security",
+    "topic": "Artificial intelligence in war and in civil life",
     "topics": [
-      "Internal Security"
+      "Artificial intelligence in war and in civil life"
     ],
     "subTopics": [
       "AI in military and civil sectors"
     ],
     "keyPointers": [
-      "A forecast, a diagnosis and an autonomous system",
-      "Effects: speed, a bias and a job changed",
-      "Military use raises a responsibility the machine cannot hold",
-      "Explain both sectors"
+      "Artificial intelligence",
+      "Strategic autonomy",
+      "Cyber security"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "In the military it can sort a target and a threat faster than a desk",
+      "In civil life it can read a scan and a fraud",
+      "The effect is a speed, and also a decision nobody can fully explain"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define Artificial Intelligence (AI) as the simulation of human intelligence processes by machines, which is currently driving the Fourth Industrial Revolution.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Define Artificial Intelligence (AI) as the simulation of human intelligence processes by machines, which is currently driving the Fourth Industrial Revolution."
       },
       {
         "section": "Body",
-        "text": "Explain role and effects in the military sector: AI enables Lethal Autonomous Weapons Systems (LAWS), drone swarms, predictive maintenance of equipment, and real-time processing of massive battlefield intelligence. Effect: Increases combat efficiency but raises severe ethical concerns regarding human-out-of-the-loop kill decisions.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Explain role and effects in the military sector: AI enables Lethal Autonomous Weapons Systems (LAWS), drone swarms, predictive maintenance of equipment, and real-time processing of massive battlefield intelligence. Effect: Increases combat efficiency but raises severe ethical concerns regarding human-out-of-the-loop kill decisions."
       },
       {
         "section": "Body",
-        "text": "Explain role and effects in the civil sector: Revolutionizes healthcare (early disease detection/imaging), agriculture (predictive weather/crop modeling), autonomous transport, and personalized education. Effect: Drives economic productivity and convenience, but poses risks of job displacement, algorithmic bias, and privacy violations.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Explain role and effects in the civil sector: Revolutionizes healthcare (early disease detection/imaging), agriculture (predictive weather/crop modeling), autonomous transport, and personalized education. Effect: Drives economic productivity and convenience, but poses risks of job displacement, algorithmic bias, and privacy violations."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while AI is an unparalleled force multiplier, its dual-use nature mandates strict global ethical frameworks and regulatory governance.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Conclude that while AI is an unparalleled force multiplier, its dual-use nature mandates strict global ethical frameworks and regulatory governance."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS3_Q19",
-    "paper_title": "General Studies Paper 3",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 19,
+    "year": 2022,
+    "paper_title": "GS Paper 3",
+    "q_number": "19",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 3",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 3",
     "question_text": "Explain in detail the state of insurgency in North-Eastern India after independence.",
     "subjectId": "security",
     "subjects": [
@@ -1068,94 +1046,92 @@
       "North-East insurgency"
     ],
     "keyPointers": [
-      "Ethnic claims, a porous border and a thin state",
-      "The state is not one insurgency",
-      "Accords have reduced some and left others",
-      "Explain the variation after independence"
+      "Development and security",
+      "Regionalism",
+      "Cross-border threats"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "After independence several groups fought the state over identity, a neglect and a border",
+      "The state has changed by group and by decade",
+      "Insurgency eased where a talk and a development arrived, and it did not end everywhere"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Contextualize North-Eastern India as a highly diverse region connected by the narrow Siliguri Corridor, experiencing varying degrees of insurgency since independence due to a complex mix of ethnicity, geography, and historical isolation.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Contextualize North-Eastern India as a highly diverse region connected by the narrow Siliguri Corridor, experiencing varying degrees of insurgency since independence due to a complex mix of ethnicity, geography, and historical isolation."
       },
       {
         "section": "Body",
-        "text": "Detail the causes and state of insurgency: Movements ranged from demands for outright secession (Naga insurgency/NSCN, ULFA in Assam) to demands for greater autonomy and statehood (Bodos). These were fueled by fears of demographic invasion (illegal migration), perceived neglect by New Delhi, and aided by porous international borders.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Detail the causes and state of insurgency: Movements ranged from demands for outright secession (Naga insurgency/NSCN, ULFA in Assam) to demands for greater autonomy and statehood (Bodos). These were fueled by fears of demographic invasion (illegal migration), perceived neglect by New Delhi, and aided by porous international borders."
       },
       {
         "section": "Body",
-        "text": "Discuss the recent transition towards peace: Aggressive infrastructural integration, the 'Act East' policy, and successful political accords (Bodo Accord 2020, Karbi Anglong agreement) have drastically reduced violence, leading to the gradual rollback of AFSPA in many districts.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Discuss the recent transition towards peace: Aggressive infrastructural integration, the 'Act East' policy, and successful political accords (Bodo Accord 2020, Karbi Anglong agreement) have drastically reduced violence, leading to the gradual rollback of AFSPA in many districts."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while major insurgencies have been quelled or brought to the negotiating table, addressing underlying tribal conflicts and ensuring border security remains crucial for lasting peace.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Conclude that while major insurgencies have been quelled or brought to the negotiating table, addressing underlying tribal conflicts and ensuring border security remains crucial for lasting peace."
       }
     ]
   },
   {
     "uid": "UPPSC_2022_GS3_Q20",
-    "paper_title": "General Studies Paper 3",
-    "year": 2022,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 20,
+    "year": 2022,
+    "paper_title": "GS Paper 3",
+    "q_number": "20",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2022 GS Paper 3",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2022 GS Paper 3",
     "question_text": "What is the role of government in disaster management? Would it be appropriate to provide training to local citizens for this? Give arguments in favor of your answer.",
-    "subjectId": "security",
+    "subjectId": "energyenv",
     "subjects": [
-      "Internal Security"
+      "Environment & Ecology"
     ],
-    "topic": "Internal Security",
+    "topic": "Who manages a disaster",
     "topics": [
-      "Internal Security"
+      "Who manages a disaster"
     ],
     "subTopics": [
       "Government and local training in disasters"
     ],
     "keyPointers": [
-      "The state warns, funds and coordinates",
-      "Local citizens are the first responders",
-      "Training them is appropriate and necessary",
-      "Government does not replace the neighbour"
+      "Disaster risk reduction",
+      "Good governance",
+      "73rd and 74th Amendments"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The government warns, moves people and rebuilds",
+      "Training a local citizen is appropriate because the first hour is local",
+      "The argument is that a plan in the capital cannot reach a cut-off village in time"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "State that the primary responsibility of protecting life and property during disasters lies with the government, structured via the NDMA, SDMA, and DDMA frameworks.",
         "order": 1,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "State that the primary responsibility of protecting life and property during disasters lies with the government, structured via the NDMA, SDMA, and DDMA frameworks."
       },
       {
         "section": "Body",
-        "text": "Explain the role of the government: Providing early warning systems, coordinating large-scale evacuations, deploying specialized forces (NDRF), maintaining critical relief infrastructure, and providing post-disaster financial rehabilitation.",
         "order": 2,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Explain the role of the government: Providing early warning systems, coordinating large-scale evacuations, deploying specialized forces (NDRF), maintaining critical relief infrastructure, and providing post-disaster financial rehabilitation."
       },
       {
         "section": "Body",
-        "text": "Argue in favor of training local citizens: It is absolutely appropriate and necessary. Local citizens are always the 'first responders' before state machinery arrives. Training them in basic search and rescue, first aid, and evacuation procedures utilizes the critical 'golden hour', drastically reducing fatalities.",
         "order": 3,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Argue in favor of training local citizens: It is absolutely appropriate and necessary. Local citizens are always the 'first responders' before state machinery arrives. Training them in basic search and rescue, first aid, and evacuation procedures utilizes the critical 'golden hour', drastically reducing fatalities."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that government schemes like 'Aapda Mitra', which train community volunteers, signify the necessary shift towards building decentralized, disaster-resilient communities.",
         "order": 4,
-        "cite": "UPPSC Mains 2022 GS Paper 3"
+        "text": "Conclude that government schemes like 'Aapda Mitra', which train community volunteers, signify the necessary shift towards building decentralized, disaster-resilient communities."
       }
     ]
   }

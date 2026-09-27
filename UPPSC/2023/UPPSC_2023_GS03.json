@@ -1,16 +1,16 @@
 [
   {
     "uid": "UPPSC_2023_GS3_Q1",
-    "paper_title": "General Studies Paper 3",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 1,
+    "year": 2023,
+    "paper_title": "GS Paper 3",
+    "q_number": "1",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
-    "last_updated": 1778937220,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
     "question_text": "Evaluate the policies of the Government of India regarding the promotion of food processing and related industries.",
     "subjectId": "agri",
     "subjects": [
@@ -24,167 +24,164 @@
       "Food-processing policy"
     ],
     "keyPointers": [
-      "Parks, a cold chain, credit and a standard",
-      "The aim is less waste and a higher farm price",
-      "Promotion fails if the raw material does not arrive",
-      "Evaluate the policy by plants that run"
+      "Food processing",
+      "Agricultural marketing",
+      "Farmer income"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A mega food park, a cold chain and a credit are the usual instruments",
+      "The evaluation is whether a crop is processed near the field",
+      "A policy that stops at a licence does not promote the industry"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Provide an introduction outlining the current status and significance of the food processing sector in India.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Provide an introduction outlining the current status and significance of the food processing sector in India."
       },
       {
         "section": "Body",
-        "text": "Discuss the major policies and schemes initiated by the Government of India (e.g., PM Kisan SAMPADA Yojana, PLI Scheme, Mega Food Parks).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Discuss the major policies and schemes initiated by the Government of India (e.g., PM Kisan SAMPADA Yojana, PLI Scheme, Mega Food Parks)."
       },
       {
         "section": "Body",
-        "text": "Evaluate the effectiveness, achievements, and existing gaps/challenges in these policies.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Evaluate the effectiveness, achievements, and existing gaps/challenges in these policies."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude with a forward-looking statement on how policy optimization can further boost the sector and benefit the agricultural economy.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Conclude with a forward-looking statement on how policy optimization can further boost the sector and benefit the agricultural economy."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS3_Q2",
-    "paper_title": "General Studies Paper 3",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 2,
+    "year": 2023,
+    "paper_title": "GS Paper 3",
+    "q_number": "2",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
-    "last_updated": 1778937220,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
     "question_text": "Explain the implications of using E-technology to help the farmers.",
-    "subjectId": "stech",
+    "subjectId": "agri",
     "subjects": [
-      "Science & Technology"
+      "Agriculture"
     ],
-    "topic": "Science & Tech",
+    "topic": "Digital tools for the farmer",
     "topics": [
-      "Science & Tech"
+      "Digital tools for the farmer"
     ],
     "subTopics": [
       "E-technology for farmers"
     ],
     "keyPointers": [
-      "A price, a weather alert and a soil advisory on a phone",
-      "It can cut a middle layer",
-      "Implication: those without a signal are left out",
-      "Help is real only if the advice is local"
+      "Digital public infrastructure",
+      "Farmer income",
+      "Agricultural marketing"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A price, a weather warning and a direct buyer can reach a phone",
+      "The implication is a better decision, and also a farmer left out if he cannot use the phone",
+      "Technology helps the field only when the last user can work it"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the concept of E-technology in agriculture (Agri-tech) and its growing footprint in India.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Introduce the concept of E-technology in agriculture (Agri-tech) and its growing footprint in India."
       },
       {
         "section": "Body",
-        "text": "Explain the positive implications: enhanced productivity, better market access (e-NAM), weather forecasting, and resource optimization.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Explain the positive implications: enhanced productivity, better market access (e-NAM), weather forecasting, and resource optimization."
       },
       {
         "section": "Body",
-        "text": "Discuss the challenges or negative implications: digital divide, lack of digital literacy among marginal farmers, and infrastructural deficits.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Discuss the challenges or negative implications: digital divide, lack of digital literacy among marginal farmers, and infrastructural deficits."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude with a balanced summary and suggestions for making E-technology more inclusive and accessible to all farmers.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Conclude with a balanced summary and suggestions for making E-technology more inclusive and accessible to all farmers."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS3_Q3",
-    "paper_title": "General Studies Paper 3",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 3,
+    "year": 2023,
+    "paper_title": "GS Paper 3",
+    "q_number": "3",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
-    "last_updated": 1778937220,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
     "question_text": "What are the important challenges faced in the implementation of land reforms in India? Give your suggestions to remove these challenges.",
-    "subjectId": "economy",
+    "subjectId": "agri",
     "subjects": [
-      "Economy & Development"
+      "Agriculture"
     ],
-    "topic": "Inclusive Growth",
+    "topic": "Why land reform stalled",
     "topics": [
-      "Inclusive Growth"
+      "Why land reform stalled"
     ],
     "subTopics": [
       "Land reform implementation"
     ],
     "keyPointers": [
-      "Records, resistance of owners and a weak tenancy law",
-      "The tiller often still has no secure title",
-      "Suggestions: a clear record, a recorded tenant, a fast mutation",
-      "The challenge is the last plot, not the statute"
+      "Land reforms",
+      "Agrarian relations",
+      "Small and marginal farmers"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A missing record, a weak political will and a court case are the challenges",
+      "The suggestion is a clear title and a ceiling that is actually enforced",
+      "Without those, the reform stays on paper"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Briefly define land reforms and their historical context/objectives in post-independence India.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Briefly define land reforms and their historical context/objectives in post-independence India."
       },
       {
         "section": "Body",
-        "text": "Detail the important challenges faced in implementation (e.g., lack of political will, loopholes in the law, poor land records, administrative apathy).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Detail the important challenges faced in implementation (e.g., lack of political will, loopholes in the law, poor land records, administrative apathy)."
       },
       {
         "section": "Body",
-        "text": "Provide actionable suggestions to overcome these challenges (e.g., digitization of land records through DILRMP, stricter enforcement, updating ceiling laws).",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Provide actionable suggestions to overcome these challenges (e.g., digitization of land records through DILRMP, stricter enforcement, updating ceiling laws)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude with the importance of successful land reforms for ensuring social equity and agricultural efficiency.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Conclude with the importance of successful land reforms for ensuring social equity and agricultural efficiency."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS3_Q4",
-    "paper_title": "General Studies Paper 3",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 4,
+    "year": 2023,
+    "paper_title": "GS Paper 3",
+    "q_number": "4",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
-    "last_updated": 1778937220,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
     "question_text": "Explain the budget making process of the Government of India. Also explain the difference between plan expenditure and non-plan expenditure.",
     "subjectId": "economy",
     "subjects": [
@@ -198,283 +195,275 @@
       "Budget process and plan spending"
     ],
     "keyPointers": [
-      "Estimates from departments, a finance bill and a vote",
-      "Plan spending was the development head; non-plan was the rest",
-      "The distinction has been dropped in later budgets",
-      "Explain both the process and why the old split misled"
+      "Fiscal deficit",
+      "Centre-state finance",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Estimates move from a ministry to the finance ministry and then to the House",
+      "Plan expenditure was the development head; non-plan was the running cost",
+      "The difference mattered for how a scheme was judged, and the labels have since been dropped"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Annual Financial Statement (Article 112) and the constitutional basis of the budget in India.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Introduce the Annual Financial Statement (Article 112) and the constitutional basis of the budget in India."
       },
       {
         "section": "Body",
-        "text": "Explain the stages of the budget-making process: preparation, presentation, general discussion, scrutiny by departmental committees, voting on demands for grants, and passing of appropriation and finance bills.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Explain the stages of the budget-making process: preparation, presentation, general discussion, scrutiny by departmental committees, voting on demands for grants, and passing of appropriation and finance bills."
       },
       {
         "section": "Body",
-        "text": "Differentiate clearly between plan expenditure (developmental, asset-creating) and non-plan expenditure (maintenance, salaries, defense, interest payments).",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Differentiate clearly between plan expenditure (developmental, asset-creating) and non-plan expenditure (maintenance, salaries, defense, interest payments)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude by noting the merger of plan and non-plan expenditures in recent years to streamline budget allocations, emphasizing fiscal discipline.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Conclude by noting the merger of plan and non-plan expenditures in recent years to streamline budget allocations, emphasizing fiscal discipline."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS3_Q5",
-    "paper_title": "General Studies Paper 3",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 5,
+    "year": 2023,
+    "paper_title": "GS Paper 3",
+    "q_number": "5",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
-    "last_updated": 1778937220,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
     "question_text": "\"Infrastructure plays an important role in the economic development of a country.\" Discuss.",
-    "subjectId": "stech",
+    "subjectId": "economy",
     "subjects": [
-      "Science & Technology"
+      "Economy & Development"
     ],
-    "topic": "Science & Tech",
+    "topic": "Infrastructure and growth",
     "topics": [
-      "Science & Tech"
+      "Infrastructure and growth"
     ],
     "subTopics": [
       "Infrastructure and growth"
     ],
     "keyPointers": [
-      "Power, a road, a port and a network lower the cost of producing",
-      "Without them a reform stays on paper",
-      "Infrastructure is a condition, not the whole development",
-      "Discuss the link with an example"
+      "Infrastructure",
+      "Economic growth",
+      "Inclusive growth"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A road, a power line and a port let a factory and a farm reach a market",
+      "Development follows that connection",
+      "It does not follow a project that is announced and not finished"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define infrastructure (physical and social) and its fundamental connection to macroeconomic growth.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Define infrastructure (physical and social) and its fundamental connection to macroeconomic growth."
       },
       {
         "section": "Body",
-        "text": "Discuss how physical infrastructure (roads, energy, ports) boosts industrial output, attracts investment, and reduces logistical costs.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Discuss how physical infrastructure (roads, energy, ports) boosts industrial output, attracts investment, and reduces logistical costs."
       },
       {
         "section": "Body",
-        "text": "Discuss the role of social infrastructure (health, education) in human capital formation, which further drives long-term economic development.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Discuss the role of social infrastructure (health, education) in human capital formation, which further drives long-term economic development."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude with India's current infrastructural push (e.g., National Infrastructure Pipeline, PM Gati Shakti) as a catalyst for achieving a $5 trillion economy.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Conclude with India's current infrastructural push (e.g., National Infrastructure Pipeline, PM Gati Shakti) as a catalyst for achieving a $5 trillion economy."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS3_Q6",
-    "paper_title": "General Studies Paper 3",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 6,
+    "year": 2023,
+    "paper_title": "GS Paper 3",
+    "q_number": "6",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
-    "last_updated": 1778937220,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
     "question_text": "What is Blood 'moon'? When does it happen?",
-    "subjectId": "energyenv",
+    "subjectId": "stech",
     "subjects": [
-      "Energy, Environment, Disaster"
+      "Science & Technology"
     ],
-    "topic": "Energy",
+    "topic": "A blood moon",
     "topics": [
-      "Energy"
+      "A blood moon"
     ],
     "subTopics": [
       "Blood moon"
     ],
     "keyPointers": [
-      "A total lunar eclipse",
-      "The moon looks red because Earth’s atmosphere bends red light onto it",
-      "It happens when the sun, Earth and moon line up",
-      "A name for an eclipse, not a separate event"
+      "Scientific temper"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It is a total lunar eclipse in which the moon looks red",
+      "It happens when the earth sits between the sun and the moon and its shadow covers the moon",
+      "The colour is the sunlight bent through the earth's air, not a change in the moon"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define the astronomical phenomenon known as a 'Blood Moon'.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Define the astronomical phenomenon known as a 'Blood Moon'."
       },
       {
         "section": "Body",
-        "text": "Explain the scientific reason behind the red/copper coloration (Rayleigh scattering of Earth's atmosphere acting like a lens).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Explain the scientific reason behind the red/copper coloration (Rayleigh scattering of Earth's atmosphere acting like a lens)."
       },
       {
         "section": "Body",
-        "text": "Detail exactly when it happens (during a total lunar eclipse when the Earth, Moon, and Sun align completely).",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Detail exactly when it happens (during a total lunar eclipse when the Earth, Moon, and Sun align completely)."
       },
       {
         "section": "Conclusion",
-        "text": "Summarize the significance of the event in terms of planetary observation and public interest in astronomy.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Summarize the significance of the event in terms of planetary observation and public interest in astronomy."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS3_Q7",
-    "paper_title": "General Studies Paper 3",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 7,
+    "year": 2023,
+    "paper_title": "GS Paper 3",
+    "q_number": "7",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
-    "last_updated": 1778937220,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
     "question_text": "What are the key objectives of India's moon mission program 'Chandrayaan-3'?",
-    "subjectId": "geo",
+    "subjectId": "stech",
     "subjects": [
-      "Geography"
+      "Science & Technology"
     ],
-    "topic": "Environment",
+    "topic": "Chandrayaan-3",
     "topics": [
-      "Environment"
+      "Chandrayaan-3"
     ],
     "subTopics": [
       "Chandrayaan-3"
     ],
     "keyPointers": [
-      "A soft landing near the south pole",
-      "A rover to study the surface",
-      "To show a landing India can repeat",
-      "The objective was the landing and the science, after a failed attempt"
+      "Space programme",
+      "Scientific temper"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The aim was a soft landing and a rover near the south pole of the moon",
+      "A second aim was to show the landing could be done with a modest craft",
+      "The objective was a proof, not only a picture"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce Chandrayaan-3 as ISRO's follow-up mission to Chandrayaan-2, highlighting its successful landing near the lunar south pole.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Introduce Chandrayaan-3 as ISRO's follow-up mission to Chandrayaan-2, highlighting its successful landing near the lunar south pole."
       },
       {
         "section": "Body",
-        "text": "Enumerate the primary technological objectives (e.g., demonstrating safe and soft landing on the lunar surface, demonstrating rover roving on the moon).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Enumerate the primary technological objectives (e.g., demonstrating safe and soft landing on the lunar surface, demonstrating rover roving on the moon)."
       },
       {
         "section": "Body",
-        "text": "Detail the scientific objectives (e.g., conducting in-situ scientific experiments on lunar topography, seismography, mineral identification, and atmospheric studies).",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Detail the scientific objectives (e.g., conducting in-situ scientific experiments on lunar topography, seismography, mineral identification, and atmospheric studies)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude on how achieving these objectives enhances India's space standing globally and paves the way for future interplanetary missions.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Conclude on how achieving these objectives enhances India's space standing globally and paves the way for future interplanetary missions."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS3_Q8",
-    "paper_title": "General Studies Paper 3",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 8,
+    "year": 2023,
+    "paper_title": "GS Paper 3",
+    "q_number": "8",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
-    "last_updated": 1778937220,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
     "question_text": "Cyber crimes are a big threat to national security. How can a country be protected from these crimes?",
-    "subjectId": "energyenv",
+    "subjectId": "security",
     "subjects": [
-      "Energy, Environment, Disaster"
+      "Internal Security"
     ],
-    "topic": "Disaster Management",
+    "topic": "Protecting a country from cyber crime",
     "topics": [
-      "Disaster Management"
+      "Protecting a country from cyber crime"
     ],
     "subTopics": [
       "Cyber crime and national security"
     ],
     "keyPointers": [
-      "A law, a forensic capacity and a protected critical system",
-      "Banks, a grid and an election are the targets",
-      "Protection is design and a fast response",
-      "Not only a police case after the loss"
+      "Cyber security",
+      "Cyber attacks",
+      "Data protection"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A law, a response team and a protected critical system are the defence",
+      "The threat is a bank, a grid and a government network",
+      "Protection is a habit of security, not a single purchase"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define cyber crimes and state how the expanding digital footprint has made them a critical non-traditional threat to national security.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Define cyber crimes and state how the expanding digital footprint has made them a critical non-traditional threat to national security."
       },
       {
         "section": "Body",
-        "text": "Discuss the various dimensions of cyber threats (data theft, critical infrastructure attacks, cyber-terrorism, state-sponsored cyber warfare).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Discuss the various dimensions of cyber threats (data theft, critical infrastructure attacks, cyber-terrorism, state-sponsored cyber warfare)."
       },
       {
         "section": "Body",
-        "text": "Outline measures to protect the country: strengthening legal frameworks, building robust cyber defense infrastructure (CERT-In, NCIIPC), capacity building, and international cooperation.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Outline measures to protect the country: strengthening legal frameworks, building robust cyber defense infrastructure (CERT-In, NCIIPC), capacity building, and international cooperation."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that a proactive, multi-stakeholder approach involving the government, private sector, and citizens is essential for robust cyber hygiene and security.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Conclude that a proactive, multi-stakeholder approach involving the government, private sector, and citizens is essential for robust cyber hygiene and security."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS3_Q9",
-    "paper_title": "General Studies Paper 3",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 9,
+    "year": 2023,
+    "paper_title": "GS Paper 3",
+    "q_number": "9",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
-    "last_updated": 1778937220,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
     "question_text": "How can India's security forces be strengthened? Give your suggestions.",
     "subjectId": "security",
     "subjects": [
@@ -488,51 +477,50 @@
       "Strengthening the security forces"
     ],
     "keyPointers": [
-      "Equipment, training and a joint command",
-      "The soldier’s conditions and a modern process",
-      "Suggestions should be practical, not only more numbers",
-      "Strength is capability and coordination"
+      "Border management",
+      "Strategic autonomy",
+      "Terrorism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Better equipment, a joint command and a soldier who is trained for the new threat",
+      "Strength is also a defence industry that can supply",
+      "The suggestion is capability, and not only a larger number"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the complex security environment India faces (two-front threat, internal insurgencies, border management) requiring highly capable security forces.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Introduce the complex security environment India faces (two-front threat, internal insurgencies, border management) requiring highly capable security forces."
       },
       {
         "section": "Body",
-        "text": "Provide suggestions for technological and structural strengthening: modernization of weapons, integrating AI and drone technology, and achieving jointness through theater commands.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Provide suggestions for technological and structural strengthening: modernization of weapons, integrating AI and drone technology, and achieving jointness through theater commands."
       },
       {
         "section": "Body",
-        "text": "Provide suggestions regarding personnel and intelligence: improved training modules, psychological support, better living conditions, and robust inter-agency intelligence coordination.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Provide suggestions regarding personnel and intelligence: improved training modules, psychological support, better living conditions, and robust inter-agency intelligence coordination."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that a holistic upgrade combining technology, structural reform, and human resource management is crucial for future-proofing India's defense architecture.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Conclude that a holistic upgrade combining technology, structural reform, and human resource management is crucial for future-proofing India's defense architecture."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS3_Q10",
-    "paper_title": "General Studies Paper 3",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 10,
+    "year": 2023,
+    "paper_title": "GS Paper 3",
+    "q_number": "10",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
-    "last_updated": 1778937220,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
     "question_text": "What is India's stand on the issues of nuclear proliferation? Explain.",
     "subjectId": "security",
     "subjects": [
@@ -546,51 +534,49 @@
       "India’s nuclear non-proliferation stand"
     ],
     "keyPointers": [
-      "India opposes spread and is not in the NPT",
-      "It has a declared no-first-use and a separation of civil and military",
-      "The stand is responsible possession, not the treaty’s inequality",
-      "Explain the distinction"
+      "Nuclear technology",
+      "Strategic autonomy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "India refuses a new state getting the weapon and keeps its own deterrent",
+      "The stand is a test ban in practice, a no-first-use claim and a refusal to sign a treaty it sees as unequal",
+      "Proliferation is opposed, and disarmament of those who already have the weapon is also asked"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Outline India's foundational philosophy regarding nuclear weapons, emphasizing its status as a responsible nuclear state outside the NPT.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Outline India's foundational philosophy regarding nuclear weapons, emphasizing its status as a responsible nuclear state outside the NPT."
       },
       {
         "section": "Body",
-        "text": "Explain India's principled objection to the NPT and CTBT, viewing them as discriminatory treaties that divide the world into nuclear 'haves' and 'have-nots'.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Explain India's principled objection to the NPT and CTBT, viewing them as discriminatory treaties that divide the world into nuclear 'haves' and 'have-nots'."
       },
       {
         "section": "Body",
-        "text": "Highlight India's commitment to universal, non-discriminatory, and verifiable nuclear disarmament, alongside its adherence to a 'No First Use' policy and credible minimum deterrence.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Highlight India's commitment to universal, non-discriminatory, and verifiable nuclear disarmament, alongside its adherence to a 'No First Use' policy and credible minimum deterrence."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude by reiterating India's clean proliferation record and its ongoing efforts to integrate into global non-proliferation regimes (like MTCR, Wassenaar Arrangement) on equal terms.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Conclude by reiterating India's clean proliferation record and its ongoing efforts to integrate into global non-proliferation regimes (like MTCR, Wassenaar Arrangement) on equal terms."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS3_Q11",
-    "paper_title": "General Studies Paper 3",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 11,
+    "year": 2023,
+    "paper_title": "GS Paper 3",
+    "q_number": "11",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
-    "last_updated": 1778937220,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
     "question_text": "State the important objectives of NITI Aayog. How are the principles and functions of NITI Aayog different from those of the planning commission? Comment.",
     "subjectId": "economy",
     "subjects": [
@@ -604,283 +590,279 @@
       "NITI Aayog and the Planning Commission"
     ],
     "keyPointers": [
-      "Strategy and cooperative federalism, not allocating plan funds",
-      "A think tank with the states in the governing council",
-      "The Commission commanded; NITI advises",
-      "The difference is power over money"
+      "Cooperative federalism",
+      "Inclusive growth",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The aim is a strategy shared with the states, not a plan imposed on them",
+      "It advises and ranks; the old commission approved and allocated",
+      "The difference is a body that steers, against a body that sanctioned"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce NITI Aayog as the premier policy 'Think Tank' of the Government of India, established in 2015 to replace the Planning Commission.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Introduce NITI Aayog as the premier policy 'Think Tank' of the Government of India, established in 2015 to replace the Planning Commission."
       },
       {
         "section": "Body",
-        "text": "State the important objectives of NITI Aayog: fostering cooperative federalism, designing strategic and long-term policy frameworks, and creating a knowledge and innovation hub.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "State the important objectives of NITI Aayog: fostering cooperative federalism, designing strategic and long-term policy frameworks, and creating a knowledge and innovation hub."
       },
       {
         "section": "Body",
-        "text": "Contrast the principles and functions with the Planning Commission: shift from 'Top-Down' to 'Bottom-Up' approach, advisory role vs. fund allocation powers, and inclusion of states as equal partners (Governing Council vs. NDC).",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Contrast the principles and functions with the Planning Commission: shift from 'Top-Down' to 'Bottom-Up' approach, advisory role vs. fund allocation powers, and inclusion of states as equal partners (Governing Council vs. NDC)."
       },
       {
         "section": "Conclusion",
-        "text": "Comment on how this structural shift reflects the changing economic dynamics of India, promoting a more decentralized and collaborative governance model.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Comment on how this structural shift reflects the changing economic dynamics of India, promoting a more decentralized and collaborative governance model."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS3_Q12",
-    "paper_title": "General Studies Paper 3",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 12,
+    "year": 2023,
+    "paper_title": "GS Paper 3",
+    "q_number": "12",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
-    "last_updated": 1778937220,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
     "question_text": "Explain the concept of inclusive growth. What are the issues and challenges with inclusive growth in India? Explain.",
-    "subjectId": "agri",
+    "subjectId": "economy",
     "subjects": [
-      "Agriculture & Food"
+      "Economy & Development"
     ],
-    "topic": "Agriculture",
+    "topic": "Inclusive growth",
     "topics": [
-      "Agriculture"
+      "Inclusive growth"
     ],
     "subTopics": [
       "Inclusive growth"
     ],
     "keyPointers": [
-      "Growth whose gains reach the poor",
-      "Issues: jobs, health, region and a captured benefit",
-      "A high average can hide exclusion",
-      "The challenge is the design of who gains"
+      "Inclusive growth",
+      "Inequality",
+      "Welfare state"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It is a growth the poor, the region and the woman also share",
+      "The challenge is a jobless rise and a scheme that does not reach",
+      "The concept fails if the average improves and the bottom does not"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define inclusive growth as economic growth that creates employment opportunities and helps in reducing poverty, ensuring equal access to opportunities for all.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Define inclusive growth as economic growth that creates employment opportunities and helps in reducing poverty, ensuring equal access to opportunities for all."
       },
       {
         "section": "Body",
-        "text": "Elaborate on the dimensions of inclusive growth (financial inclusion, skill development, healthcare access, gender parity).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Elaborate on the dimensions of inclusive growth (financial inclusion, skill development, healthcare access, gender parity)."
       },
       {
         "section": "Body",
-        "text": "Explain the persistent issues and challenges in India: high income inequality, jobless growth, rural-urban divide, informal sector vulnerabilities, and implementation bottlenecks in welfare schemes.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Explain the persistent issues and challenges in India: high income inequality, jobless growth, rural-urban divide, informal sector vulnerabilities, and implementation bottlenecks in welfare schemes."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude with the necessity of targeted policy interventions, emphasizing health, education, and capacity building to make India's growth narrative truly inclusive.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Conclude with the necessity of targeted policy interventions, emphasizing health, education, and capacity building to make India's growth narrative truly inclusive."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS3_Q13",
-    "paper_title": "General Studies Paper 3",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 13,
+    "year": 2023,
+    "paper_title": "GS Paper 3",
+    "q_number": "13",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
-    "last_updated": 1778937220,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
     "question_text": "Describe the various efforts being made in India to achieve the 'Sustainable Development Goals'.",
-    "subjectId": "agri",
+    "subjectId": "society",
     "subjects": [
-      "Agriculture & Food"
+      "Indian Society"
     ],
-    "topic": "Food Security",
+    "topic": "Work toward the development goals",
     "topics": [
-      "Food Security"
+      "Work toward the development goals"
     ],
     "subTopics": [
       "India and the Sustainable Development Goals"
     ],
     "keyPointers": [
-      "Schemes for health, school, water, energy and a city",
-      "A national and a state plan",
-      "Effort is wide; several goals are behind",
-      "Describe the effort and the gap"
+      "Sustainable development",
+      "Poverty and nutrition",
+      "Health as welfare",
+      "Education and social change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A sanitation drive, a power connection, a school and a health cover are the efforts",
+      "They map onto different goals",
+      "The effort is wide, and the result is uneven across states"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the UN Sustainable Development Goals (SDGs 2030) and affirm India's commitment to achieving these targets globally and domestically.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Introduce the UN Sustainable Development Goals (SDGs 2030) and affirm India's commitment to achieving these targets globally and domestically."
       },
       {
         "section": "Body",
-        "text": "Describe major institutional efforts: role of NITI Aayog (SDG India Index), localization of SDGs, and integration into national planning.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Describe major institutional efforts: role of NITI Aayog (SDG India Index), localization of SDGs, and integration into national planning."
       },
       {
         "section": "Body",
-        "text": "Detail programmatic efforts across key goals: poverty/hunger (PMGKAY, MGNREGA), health/well-being (Ayushman Bharat, Swachh Bharat), clean energy (ISA, National Solar Mission), and climate action (Panchamrit targets).",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Detail programmatic efforts across key goals: poverty/hunger (PMGKAY, MGNREGA), health/well-being (Ayushman Bharat, Swachh Bharat), clean energy (ISA, National Solar Mission), and climate action (Panchamrit targets)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude by assessing the progress made so far and the need for continued financial and technological investment to overcome remaining hurdles.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Conclude by assessing the progress made so far and the need for continued financial and technological investment to overcome remaining hurdles."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS3_Q14",
-    "paper_title": "General Studies Paper 3",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 14,
+    "year": 2023,
+    "paper_title": "GS Paper 3",
+    "q_number": "14",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
-    "last_updated": 1778937220,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
     "question_text": "\"Despite various measures to address food security, major challenges remain.\" Explain with reference to India.",
-    "subjectId": "stech",
+    "subjectId": "agri",
     "subjects": [
-      "Science & Technology"
+      "Agriculture"
     ],
-    "topic": "Science & Tech",
+    "topic": "Food security still unfinished",
     "topics": [
-      "Science & Tech"
+      "Food security still unfinished"
     ],
     "subTopics": [
       "Remaining food-security challenges"
     ],
     "keyPointers": [
-      "Grain is available; nutrition and access are not solved",
-      "A list that excludes, a leak, and a price shock",
-      "The challenge is the household, not the warehouse alone",
-      "Explain with India in view"
+      "Food security",
+      "Poverty and nutrition",
+      "Logistics"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Grain is produced, and a household can still be hungry",
+      "The remaining challenge is nutrition, a leak and a stock that does not move",
+      "A measure that counts only the tonne misses the plate"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define food security (availability, accessibility, affordability, and nutritional value) and cite India's baseline measures like the NFSA 2013.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Define food security (availability, accessibility, affordability, and nutritional value) and cite India's baseline measures like the NFSA 2013."
       },
       {
         "section": "Body",
-        "text": "Acknowledge the various measures taken (PDS, Mid-Day Meal/PM POSHAN, ICDS, PMGKAY) that have improved caloric intake.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Acknowledge the various measures taken (PDS, Mid-Day Meal/PM POSHAN, ICDS, PMGKAY) that have improved caloric intake."
       },
       {
         "section": "Body",
-        "text": "Explain the major remaining challenges: hidden hunger/malnutrition, leakages in supply chains, climate change impacting agricultural yields, post-harvest losses, and poor dietary diversity.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Explain the major remaining challenges: hidden hunger/malnutrition, leakages in supply chains, climate change impacting agricultural yields, post-harvest losses, and poor dietary diversity."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude with recommendations for a paradigm shift from just caloric security to nutritional security through biofortification, crop diversification, and efficient supply chains.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Conclude with recommendations for a paradigm shift from just caloric security to nutritional security through biofortification, crop diversification, and efficient supply chains."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS3_Q15",
-    "paper_title": "General Studies Paper 3",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 15,
+    "year": 2023,
+    "paper_title": "GS Paper 3",
+    "q_number": "15",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
-    "last_updated": 1778937220,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
     "question_text": "\"The Public Distribution System (PDS) has proved to be the most effective instrument of Government policy over the years in stabilizing prices and making food available to consumers at affordable prices.\" Explain the statement.",
-    "subjectId": "geo",
+    "subjectId": "society",
     "subjects": [
-      "Geography"
+      "Indian Society"
     ],
-    "topic": "Environment",
+    "topic": "The ration system",
     "topics": [
-      "Environment"
+      "The ration system"
     ],
     "subTopics": [
       "Public distribution system"
     ],
     "keyPointers": [
-      "It steadies food for a poor household",
-      "It does not create a job or an asset",
-      "Effective against hunger, partial against poverty",
-      "The statement is too large"
+      "Food security",
+      "Poverty and nutrition",
+      "Welfare state"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Cheap grain at a shop has held a price and fed a poor household for decades",
+      "That is why it is called the most effective instrument",
+      "The claim still has to face a leak, a quality and a person left off the list"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Public Distribution System (PDS) and its evolution into the Targeted PDS (TPDS) under the National Food Security Act framework.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Introduce the Public Distribution System (PDS) and its evolution into the Targeted PDS (TPDS) under the National Food Security Act framework."
       },
       {
         "section": "Body",
-        "text": "Explain its role in stabilizing prices through procurement at MSP, maintaining buffer stocks (FCI), and performing open market sales to curb inflation during shortages.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Explain its role in stabilizing prices through procurement at MSP, maintaining buffer stocks (FCI), and performing open market sales to curb inflation during shortages."
       },
       {
         "section": "Body",
-        "text": "Discuss its success in making food accessible and affordable to vulnerable sections, preventing famines, and serving as a safety net during crises (e.g., COVID-19 pandemic).",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Discuss its success in making food accessible and affordable to vulnerable sections, preventing famines, and serving as a safety net during crises (e.g., COVID-19 pandemic)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude by recognizing its effectiveness while briefly suggesting that ongoing reforms (like One Nation One Ration Card and technology integration) are needed to plug existing leakages.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Conclude by recognizing its effectiveness while briefly suggesting that ongoing reforms (like One Nation One Ration Card and technology integration) are needed to plug existing leakages."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS3_Q16",
-    "paper_title": "General Studies Paper 3",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 16,
+    "year": 2023,
+    "paper_title": "GS Paper 3",
+    "q_number": "16",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
-    "last_updated": 1778937220,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
     "question_text": "What steps are being taken to meet the continuously increasing demand of energy resources in India? Discuss with special reference to renewable and sustainable energy resources.",
     "subjectId": "energyenv",
     "subjects": [
@@ -894,167 +876,163 @@
       "Rising energy demand"
     ],
     "keyPointers": [
-      "More coal, more renewables, efficiency and a grid",
-      "Demand from a city, a factory and a vehicle",
-      "Steps are supply and also less waste",
-      "Discuss both, with the climate constraint"
+      "Renewable energy",
+      "Energy access",
+      "Coal dependence",
+      "Sustainable development"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "More coal, more renewable power and a push for efficiency are all being used",
+      "The demand keeps rising with a city and a factory",
+      "Renewable and sustainable are the part that has to grow faster than the rest"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Highlight India's rapid economic growth, urbanization, and the resulting surge in energy demand, contextualized by the commitment to Net Zero by 2070.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Highlight India's rapid economic growth, urbanization, and the resulting surge in energy demand, contextualized by the commitment to Net Zero by 2070."
       },
       {
         "section": "Body",
-        "text": "Discuss the broad steps taken to meet demand: boosting domestic coal production, exploring strategic petroleum reserves, and improving energy efficiency (UJALA, PAT scheme).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Discuss the broad steps taken to meet demand: boosting domestic coal production, exploring strategic petroleum reserves, and improving energy efficiency (UJALA, PAT scheme)."
       },
       {
         "section": "Body",
-        "text": "Elaborate specifically on renewable and sustainable resources: National Green Hydrogen Mission, massive solar capacity addition (PM KUSUM, ISA), wind energy projects, and nuclear power expansion.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Elaborate specifically on renewable and sustainable resources: National Green Hydrogen Mission, massive solar capacity addition (PM KUSUM, ISA), wind energy projects, and nuclear power expansion."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that transitioning to a renewable-heavy energy mix is vital for India to achieve energy security while addressing climate change commitments.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Conclude that transitioning to a renewable-heavy energy mix is vital for India to achieve energy security while addressing climate change commitments."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS3_Q17",
-    "paper_title": "General Studies Paper 3",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 17,
+    "year": 2023,
+    "paper_title": "GS Paper 3",
+    "q_number": "17",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
-    "last_updated": 1778937220,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
     "question_text": "What are India's main achievements in biotechnology? How will these help in the upliftment of poor sections of society?",
-    "subjectId": "energyenv",
+    "subjectId": "stech",
     "subjects": [
-      "Energy, Environment, Disaster"
+      "Science & Technology"
     ],
-    "topic": "Disaster Management",
+    "topic": "Biotechnology and the poor",
     "topics": [
-      "Disaster Management"
+      "Biotechnology and the poor"
     ],
     "subTopics": [
       "Biotechnology and the poor"
     ],
     "keyPointers": [
-      "Vaccines, a seed and a diagnostic",
-      "Achievement in the lab is not yet access",
-      "The poor gain if the result is cheap",
-      "Uplift is delivery"
+      "Biotechnology",
+      "Inclusive growth",
+      "Poverty and nutrition"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A seed, a vaccine and a cheaper diagnostic are the achievements",
+      "They help the poor if the price and the reach are right",
+      "A result in a lab does not uplift a household by itself"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Provide an overview of the growth of the biotechnology sector in India, spearheaded by the Department of Biotechnology (DBT).",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Provide an overview of the growth of the biotechnology sector in India, spearheaded by the Department of Biotechnology (DBT)."
       },
       {
         "section": "Body",
-        "text": "List main achievements in the sector: Biopharma (indigenous vaccines like Covaxin, rotavirus vaccine), Agri-biotech (Bt Cotton, biofortified crops), and bio-informatics.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "List main achievements in the sector: Biopharma (indigenous vaccines like Covaxin, rotavirus vaccine), Agri-biotech (Bt Cotton, biofortified crops), and bio-informatics."
       },
       {
         "section": "Body",
-        "text": "Explain how these help the poor: affordable healthcare/medicines reduce out-of-pocket expenditure, disease-resistant and high-yield crops ensure food security and increase farmer income, and bio-fuels provide alternate income streams.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Explain how these help the poor: affordable healthcare/medicines reduce out-of-pocket expenditure, disease-resistant and high-yield crops ensure food security and increase farmer income, and bio-fuels provide alternate income streams."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that sustained R&D and ethical deployment of biotechnology have immense potential to act as a catalyst for socio-economic equity.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Conclude that sustained R&D and ethical deployment of biotechnology have immense potential to act as a catalyst for socio-economic equity."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS3_Q18",
-    "paper_title": "General Studies Paper 3",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 18,
+    "year": 2023,
+    "paper_title": "GS Paper 3",
+    "q_number": "18",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
-    "last_updated": 1778937220,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
     "question_text": "Distinguish between natural and manmade disasters. Also, elucidate the effectiveness of the disaster management system in India.",
-    "subjectId": "security",
+    "subjectId": "energyenv",
     "subjects": [
-      "Internal Security"
+      "Environment & Ecology"
     ],
-    "topic": "Internal Security",
+    "topic": "Natural and man-made disasters",
     "topics": [
-      "Internal Security"
+      "Natural and man-made disasters"
     ],
     "subTopics": [
       "Disaster types and the management system"
     ],
     "keyPointers": [
-      "A quake or a flood against an industrial accident or a terror attack",
-      "The system now stresses warning and a plan, not only relief",
-      "Effectiveness is uneven by district",
-      "Distinguish the cause; judge the response"
+      "Disaster risk reduction"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A quake or a cyclone starts in nature; an industrial fire or a dam break starts in a human choice",
+      "The system of management is a warning, a relief and a rebuilding",
+      "It is effective where the warning arrives, and weak where the building was never fit"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define disasters generally, establishing the difference based on origin.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Define disasters generally, establishing the difference based on origin."
       },
       {
         "section": "Body",
-        "text": "Distinguish between natural disasters (earthquakes, cyclones, floods - caused by geological/meteorological factors) and man-made disasters (industrial leaks, stampedes, nuclear accidents - caused by human error/intent). Note overlapping areas (e.g., urban flooding).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Distinguish between natural disasters (earthquakes, cyclones, floods - caused by geological/meteorological factors) and man-made disasters (industrial leaks, stampedes, nuclear accidents - caused by human error/intent). Note overlapping areas (e.g., urban flooding)."
       },
       {
         "section": "Body",
-        "text": "Evaluate the disaster management system in India (NDMA, SDMA, NDRF frameworks): achievements in early warning systems (e.g., IMD cyclone tracking) and response speed, versus gaps in local capacity building, adherence to building codes, and mitigation strategies.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Evaluate the disaster management system in India (NDMA, SDMA, NDRF frameworks): achievements in early warning systems (e.g., IMD cyclone tracking) and response speed, versus gaps in local capacity building, adherence to building codes, and mitigation strategies."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude on the need to shift focus completely from a reactive relief-centric approach to a proactive prevention, mitigation, and preparedness-driven framework.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Conclude on the need to shift focus completely from a reactive relief-centric approach to a proactive prevention, mitigation, and preparedness-driven framework."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS3_Q19",
-    "paper_title": "General Studies Paper 3",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 19,
+    "year": 2023,
+    "paper_title": "GS Paper 3",
+    "q_number": "19",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
-    "last_updated": 1778937220,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
     "question_text": "\"Money laundering poses a serious threat to a country's economic sovereignty. Information and communication technology has made it more challenging.\" Explain.",
     "subjectId": "security",
     "subjects": [
@@ -1068,94 +1046,92 @@
       "Money laundering and technology"
     ],
     "keyPointers": [
-      "Dirty money weakens tax, a bank and a policy",
-      "Technology both hides the trail and can trace it",
-      "Sovereignty is the state’s control of its economy",
-      "The threat and the tool are the same networks"
+      "Money laundering",
+      "Cyber security",
+      "Terror funding"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Dirty money entering the legal economy threatens the state's control of its own finance",
+      "A digital transfer makes the trail faster and harder to see",
+      "The threat is the crime, and the technology is why it is harder"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define money laundering (placement, layering, integration) and its basic impact on an economy.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Define money laundering (placement, layering, integration) and its basic impact on an economy."
       },
       {
         "section": "Body",
-        "text": "Explain how it threatens economic sovereignty: destabilizing financial institutions, undermining legitimate private sector, fueling organized crime/terrorism, and causing loss of tax revenue and foreign exchange.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Explain how it threatens economic sovereignty: destabilizing financial institutions, undermining legitimate private sector, fueling organized crime/terrorism, and causing loss of tax revenue and foreign exchange."
       },
       {
         "section": "Body",
-        "text": "Discuss the complicating role of Information and Communication Technology (ICT): the rise of cryptocurrencies, dark web transactions, rapid cross-border digital fund transfers, and cyber-laundering make tracking and enforcement extremely difficult.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Discuss the complicating role of Information and Communication Technology (ICT): the rise of cryptocurrencies, dark web transactions, rapid cross-border digital fund transfers, and cyber-laundering make tracking and enforcement extremely difficult."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that countering this evolving threat requires robust international cooperation, stringent implementation of PMLA, and equipping law enforcement with advanced tech capabilities.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Conclude that countering this evolving threat requires robust international cooperation, stringent implementation of PMLA, and equipping law enforcement with advanced tech capabilities."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS3_Q20",
-    "paper_title": "General Studies Paper 3",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 20,
+    "year": 2023,
+    "paper_title": "GS Paper 3",
+    "q_number": "20",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 3",
-    "last_updated": 1778937220,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 3",
     "question_text": "What positive and negative changes occured due to the media revolution in India and around the world? Explain the role of media in national and international security.",
-    "subjectId": "security",
+    "subjectId": "society",
     "subjects": [
-      "Internal Security"
+      "Indian Society"
     ],
-    "topic": "Internal Security",
+    "topic": "The media revolution",
     "topics": [
-      "Internal Security"
+      "The media revolution"
     ],
     "subTopics": [
       "Media revolution and regulation"
     ],
     "keyPointers": [
-      "Faster news and a wider voice",
-      "Also a lie, a pile-on and a captured channel",
-      "Regulation should target harm, not a view",
-      "Explain the balance"
+      "Media and socialisation",
+      "Freedom of speech and its limits",
+      "Cyber security"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A voice that was shut out can now be heard, and a lie can now travel as fast",
+      "The positive change is access; the negative is a manipulation",
+      "The role in national and international life is to inform, and it is also used to mobilise"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the media revolution, highlighting the shift from traditional print/broadcast to ubiquitous digital and social media.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Introduce the media revolution, highlighting the shift from traditional print/broadcast to ubiquitous digital and social media."
       },
       {
         "section": "Body",
-        "text": "Analyze the positive changes (democratization of information, rapid emergency communication, global connectivity) alongside negative changes (echo chambers, rapid spread of misinformation/fake news, polarization).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Analyze the positive changes (democratization of information, rapid emergency communication, global connectivity) alongside negative changes (echo chambers, rapid spread of misinformation/fake news, polarization)."
       },
       {
         "section": "Body",
-        "text": "Explain the critical role of media in security: positive roles include acting as a watchdog, exposing terror networks, and building national morale; negative roles include inadvertent operational leaks (e.g., 26/11 coverage), spreading panic, and being weaponized for psychological warfare and propaganda.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Explain the critical role of media in security: positive roles include acting as a watchdog, exposing terror networks, and building national morale; negative roles include inadvertent operational leaks (e.g., 26/11 coverage), spreading panic, and being weaponized for psychological warfare and propaganda."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude on the need for responsible journalism, digital literacy among citizens, and balanced regulatory frameworks to harness media positively for security.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 3"
+        "text": "Conclude on the need for responsible journalism, digital literacy among citizens, and balanced regulatory frameworks to harness media positively for security."
       }
     ]
   }

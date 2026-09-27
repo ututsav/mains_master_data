@@ -1,16 +1,16 @@
 [
   {
     "uid": "UPPSC_2025_GSP2_01",
-    "paper_title": "GS Paper 2",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 1,
+    "year": 2025,
+    "paper_title": "GS Paper 2",
+    "q_number": "1",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "2",
-    "last_updated": 1747209500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 2",
     "question_text": "What role do Joint Parliamentary Committees (JPCs) play in the Indian legislative process? How do they contribute to effective law-making? Analyse.",
     "subjectId": "constitution",
     "subjects": [
@@ -24,51 +24,49 @@
       "Joint Parliamentary Committees"
     ],
     "keyPointers": [
-      "Members of both Houses examine a bill or a scandal",
-      "They take evidence and write a report",
-      "They improve a law the floor would rush",
-      "They advise; the House still decides"
+      "Questions, debates and committees",
+      "Parliamentary accountability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A joint committee draws members from both Houses to examine a bill or a scandal in detail",
+      "It can take evidence the full House does not have time for",
+      "The contribution is a closer look, and it still depends on whether the House uses the report"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Joint Parliamentary Committees (JPCs) are ad-hoc committees with members from both Houses, constituted to examine specific bills or investigate financial or administrative irregularities.",
         "order": 1,
-        "cite": "2"
+        "text": "Joint Parliamentary Committees (JPCs) are ad-hoc committees with members from both Houses, constituted to examine specific bills or investigate financial or administrative irregularities."
       },
       {
         "section": "Body",
-        "text": "They provide a forum for non-partisan scrutiny of complex technical issues, allowing for expert testimony and deliberation that the full House often lacks time for.",
         "order": 2,
-        "cite": "2"
+        "text": "They provide a forum for non-partisan scrutiny of complex technical issues, allowing for expert testimony and deliberation that the full House often lacks time for."
       },
       {
         "section": "Body",
-        "text": "JPCs contribute to law-making by identifying legislative gaps, suggesting amendments based on stakeholder feedback, and ensuring executive accountability.",
         "order": 3,
-        "cite": "2"
+        "text": "JPCs contribute to law-making by identifying legislative gaps, suggesting amendments based on stakeholder feedback, and ensuring executive accountability."
       },
       {
         "section": "Conclusion",
-        "text": "While advisory, JPCs are vital for refining the quality and democratic legitimacy of Indian legislation.",
         "order": 4,
-        "cite": "2"
+        "text": "While advisory, JPCs are vital for refining the quality and democratic legitimacy of Indian legislation."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP2_02",
-    "paper_title": "GS Paper 2",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 2,
+    "year": 2025,
+    "paper_title": "GS Paper 2",
+    "q_number": "2",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "2",
-    "last_updated": 1747209500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 2",
     "question_text": "How does Alternative Dispute Resolution (ADR) strengthen efficient governance and enhance the effectiveness of the justice delivery system in India? Analyze.",
     "subjectId": "constitution",
     "subjects": [
@@ -82,51 +80,50 @@
       "Alternative dispute resolution"
     ],
     "keyPointers": [
-      "Mediation, arbitration and a lok adalat",
-      "Faster and cheaper than a full trial",
-      "It clears the court for the cases that need a judge",
-      "Efficient only if the weaker party is not pushed to settle"
+      "Access to justice",
+      "Good governance",
+      "Rule of law"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Mediation, arbitration and a lok adalat take a dispute out of a long trial",
+      "The court is left for the case that needs a judgment",
+      "Efficiency rises only if the alternative is fair, and not if it is a pressure to settle"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Alternative Dispute Resolution (ADR) refers to methods like mediation, arbitration, and Lok Adalats used to resolve disputes outside the traditional courtroom.",
         "order": 1,
-        "cite": "2"
+        "text": "Alternative Dispute Resolution (ADR) refers to methods like mediation, arbitration, and Lok Adalats used to resolve disputes outside the traditional courtroom."
       },
       {
         "section": "Body",
-        "text": "ADR strengthens governance by reducing the burden on the judiciary, providing faster resolutions that improve the ease of doing business and social harmony.",
         "order": 2,
-        "cite": "2"
+        "text": "ADR strengthens governance by reducing the burden on the judiciary, providing faster resolutions that improve the ease of doing business and social harmony."
       },
       {
         "section": "Body",
-        "text": "It enhances justice delivery through informal procedures, ensuring that the marginalized can access justice without prohibitive legal costs or delays.",
         "order": 3,
-        "cite": "2"
+        "text": "It enhances justice delivery through informal procedures, ensuring that the marginalized can access justice without prohibitive legal costs or delays."
       },
       {
         "section": "Conclusion",
-        "text": "Promoting ADR is essential for achieving the goal of 'Equal Justice' and transforming India into a hub for commercial arbitration.",
         "order": 4,
-        "cite": "2"
+        "text": "Promoting ADR is essential for achieving the goal of 'Equal Justice' and transforming India into a hub for commercial arbitration."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP2_03",
-    "paper_title": "GS Paper 2",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 3,
+    "year": 2025,
+    "paper_title": "GS Paper 2",
+    "q_number": "3",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "2",
-    "last_updated": 1747209500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 2",
     "question_text": "\"Legislature is supreme within its domain, yet it is not sovereign.\" Examine this statement in the constitutional context with examples.",
     "subjectId": "constitution",
     "subjects": [
@@ -140,51 +137,50 @@
       "Legislative supremacy without sovereignty"
     ],
     "keyPointers": [
-      "It makes law inside the Constitution",
-      "Basic structure and fundamental rights bind it",
-      "Courts can strike a law down",
-      "Supreme in the field, not above the Constitution"
+      "Separation of powers",
+      "Basic structure",
+      "Judicial review"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Inside its list the legislature can make the law",
+      "It is not sovereign because the Constitution, the basic structure and the court sit above that list",
+      "An example is an amendment the court can still examine"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "In the Indian scheme, the Constitution is sovereign; the Legislature has supreme power to make laws only within the boundaries defined by the document.",
         "order": 1,
-        "cite": "2"
+        "text": "In the Indian scheme, the Constitution is sovereign; the Legislature has supreme power to make laws only within the boundaries defined by the document."
       },
       {
         "section": "Body",
-        "text": "The Legislature's power is checked by Judicial Review and the 'Basic Structure' doctrine, which prevents it from altering the core identity of the republic.",
         "order": 2,
-        "cite": "2"
+        "text": "The Legislature's power is checked by Judicial Review and the 'Basic Structure' doctrine, which prevents it from altering the core identity of the republic."
       },
       {
         "section": "Body",
-        "text": "Examples include the Supreme Court striking down the NJAC Act to preserve judicial independence and specific clauses of the 42nd Amendment in the Minerva Mills case.",
         "order": 3,
-        "cite": "2"
+        "text": "Examples include the Supreme Court striking down the NJAC Act to preserve judicial independence and specific clauses of the 42nd Amendment in the Minerva Mills case."
       },
       {
         "section": "Conclusion",
-        "text": "This limited supremacy ensures a system of checks and balances, preventing absolute power in any single organ of the State.",
         "order": 4,
-        "cite": "2"
+        "text": "This limited supremacy ensures a system of checks and balances, preventing absolute power in any single organ of the State."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP2_04",
-    "paper_title": "GS Paper 2",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 4,
+    "year": 2025,
+    "paper_title": "GS Paper 2",
+    "q_number": "4",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "2",
-    "last_updated": 1747209500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 2",
     "question_text": "To what extent is it correct to say that the Inter-State Council can effectively resolve the disputes between the Union and the States? Write the answer with suitable examples.",
     "subjectId": "constitution",
     "subjects": [
@@ -198,51 +194,50 @@
       "Inter-State Council"
     ],
     "keyPointers": [
-      "A constitutional body for coordination",
-      "It can talk through a dispute the court would harden",
-      "It has been used rarely",
-      "Effective only if it meets and its advice is taken"
+      "Federalism",
+      "Cooperative federalism",
+      "Centre-state finance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The Council is a forum where the Union and the states can talk",
+      "It can recommend, and it cannot force",
+      "Effective resolution needs a will the Council itself does not possess"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The Inter-State Council (ISC), established under Article 263, is a constitutional forum intended to coordinate policy and resolve friction between the Union and States.",
         "order": 1,
-        "cite": "2"
+        "text": "The Inter-State Council (ISC), established under Article 263, is a constitutional forum intended to coordinate policy and resolve friction between the Union and States."
       },
       {
         "section": "Body",
-        "text": "It can effectively resolve disputes by providing a platform for dialogue on issues like internal security, central force deployment, and Finance Commission recommendations.",
         "order": 2,
-        "cite": "2"
+        "text": "It can effectively resolve disputes by providing a platform for dialogue on issues like internal security, central force deployment, and Finance Commission recommendations."
       },
       {
         "section": "Body",
-        "text": "However, its effectiveness is limited because it is an advisory body with no binding power and has historically met infrequently.",
         "order": 3,
-        "cite": "2"
+        "text": "However, its effectiveness is limited because it is an advisory body with no binding power and has historically met infrequently."
       },
       {
         "section": "Conclusion",
-        "text": "To be truly effective, the ISC needs to be revitalized as a permanent deliberative body for modern cooperative federalism.",
         "order": 4,
-        "cite": "2"
+        "text": "To be truly effective, the ISC needs to be revitalized as a permanent deliberative body for modern cooperative federalism."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP2_05",
-    "paper_title": "GS Paper 2",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 5,
+    "year": 2025,
+    "paper_title": "GS Paper 2",
+    "q_number": "5",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "2",
-    "last_updated": 1747209500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 2",
     "question_text": "The Citizen Charter has been a landmark initiative in ensuring citizen-centric administration. Comment.",
     "subjectId": "governance",
     "subjects": [
@@ -256,109 +251,108 @@
       "Citizen’s charter"
     ],
     "keyPointers": [
-      "A published standard, a time and a remedy",
-      "It tells the citizen what is owed",
-      "Many charters are not enforceable",
-      "Landmark in idea; weak where there is no consequence"
+      "Citizen charter",
+      "Accountability",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A charter tells the citizen what service to expect and in what time",
+      "That is a shift from the office as a favour to the office as a duty",
+      "It stays a landmark only if a missed time has a consequence"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "A Citizen's Charter is a voluntary declaration by public authorities about service standards, grievance redressal, and commitment to transparency.",
         "order": 1,
-        "cite": "2"
+        "text": "A Citizen's Charter is a voluntary declaration by public authorities about service standards, grievance redressal, and commitment to transparency."
       },
       {
         "section": "Body",
-        "text": "It ensures citizen-centricity by shifting focus from 'process' to 'beneficiary', empowering people with information on what to expect.",
         "order": 2,
-        "cite": "2"
+        "text": "It ensures citizen-centricity by shifting focus from 'process' to 'beneficiary', empowering people with information on what to expect."
       },
       {
         "section": "Body",
-        "text": "Challenges such as poor design, lack of training, and the absence of a legal mandate often make these charters mere decorations.",
         "order": 3,
-        "cite": "2"
+        "text": "Challenges such as poor design, lack of training, and the absence of a legal mandate often make these charters mere decorations."
       },
       {
         "section": "Conclusion",
-        "text": "Success depends on evolving into 'Sevottam' models and providing statutory backing to guarantee timely service delivery.",
         "order": 4,
-        "cite": "2"
+        "text": "Success depends on evolving into 'Sevottam' models and providing statutory backing to guarantee timely service delivery."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP2_06",
-    "paper_title": "GS Paper 2",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 6,
+    "year": 2025,
+    "paper_title": "GS Paper 2",
+    "q_number": "6",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "2",
-    "last_updated": 1747209500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 2",
     "question_text": "Explain the main issues relating to Human Resource Development in India.",
-    "subjectId": "justice",
+    "subjectId": "society",
     "subjects": [
-      "Social Justice"
+      "Indian Society"
     ],
-    "topic": "Social Justice",
+    "topic": "Building people's capacity",
     "topics": [
-      "Social Justice"
+      "Building people's capacity"
     ],
     "subTopics": [
       "Human resource development"
     ],
     "keyPointers": [
-      "School quality, skills and health",
-      "A young population with a thin formal skill",
-      "Mismatch between the course and the job",
-      "The issue is capability, not only a headcount"
+      "Human development",
+      "Skill and employability",
+      "Education and social change",
+      "Inequality"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The issues are a school that does not hold, a skill that an employer will not take, and a health that cuts the working years",
+      "They are worse for the person already behind",
+      "Development of people fails when these are treated as separate schemes"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Human Resource Development (HRD) involves the qualitative improvement of the population through education and health to leverage India's demographic dividend.",
         "order": 1,
-        "cite": "2"
+        "text": "Human Resource Development (HRD) involves the qualitative improvement of the population through education and health to leverage India's demographic dividend."
       },
       {
         "section": "Body",
-        "text": "Major issues include the 'Skill-Gap' where graduates lack employability, and the high prevalence of malnutrition affecting cognitive development.",
         "order": 2,
-        "cite": "2"
+        "text": "Major issues include the 'Skill-Gap' where graduates lack employability, and the high prevalence of malnutrition affecting cognitive development."
       },
       {
         "section": "Body",
-        "text": "Structural problems like low female labor force participation and regional disparities in education quality hinder full potential.",
         "order": 3,
-        "cite": "2"
+        "text": "Structural problems like low female labor force participation and regional disparities in education quality hinder full potential."
       },
       {
         "section": "Conclusion",
-        "text": "Addressing these via the National Education Policy is vital for India's transition to a high-income economy.",
         "order": 4,
-        "cite": "2"
+        "text": "Addressing these via the National Education Policy is vital for India's transition to a high-income economy."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP2_07",
-    "paper_title": "GS Paper 2",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 7,
+    "year": 2025,
+    "paper_title": "GS Paper 2",
+    "q_number": "7",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "2",
-    "last_updated": 1747209500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 2",
     "question_text": "To what extent has Information and Communication Technology (ICT) been useful in policy implementation? Discuss.",
     "subjectId": "governance",
     "subjects": [
@@ -372,51 +366,49 @@
       "ICT in policy implementation"
     ],
     "keyPointers": [
-      "It tracks a payment, a ration and a grievance",
-      "It cuts a queue and can also exclude the unconnected",
-      "Useful where the process was redesigned",
-      "A portal on an old process does little"
+      "Digital public infrastructure",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A payment, a ration list and a land record can move faster on a system than on a file",
+      "The usefulness stops where the connection, the literacy or the correct data stops",
+      "Technology helps implementation, and it does not replace the officer who has to act"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "ICT acts as a force multiplier in e-governance, facilitating the transparent and efficient delivery of government policies.",
         "order": 1,
-        "cite": "2"
+        "text": "ICT acts as a force multiplier in e-governance, facilitating the transparent and efficient delivery of government policies."
       },
       {
         "section": "Body",
-        "text": "It has revolutionized implementation through Direct Benefit Transfer (DBT), real-time monitoring via dashboards, and simplified citizen portals.",
         "order": 2,
-        "cite": "2"
+        "text": "It has revolutionized implementation through Direct Benefit Transfer (DBT), real-time monitoring via dashboards, and simplified citizen portals."
       },
       {
         "section": "Body",
-        "text": "Utility is hindered by the 'Digital Divide' in rural areas and concerns over data security and digital literacy.",
         "order": 3,
-        "cite": "2"
+        "text": "Utility is hindered by the 'Digital Divide' in rural areas and concerns over data security and digital literacy."
       },
       {
         "section": "Conclusion",
-        "text": "ICT success is maximized only when accompanied by robust infrastructure and inclusive design for all citizens.",
         "order": 4,
-        "cite": "2"
+        "text": "ICT success is maximized only when accompanied by robust infrastructure and inclusive design for all citizens."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP2_08",
-    "paper_title": "GS Paper 2",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 8,
+    "year": 2025,
+    "paper_title": "GS Paper 2",
+    "q_number": "8",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "2",
-    "last_updated": 1747209500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 2",
     "question_text": "How should the India - EU Agreement be viewed in the context of changing global geopolitical dynamics? Explain.",
     "subjectId": "ir",
     "subjects": [
@@ -430,51 +422,49 @@
       "India–EU agreement"
     ],
     "keyPointers": [
-      "Trade, technology and a shared worry about dependence",
-      "Not a military alliance",
-      "It diversifies partners beyond one power",
-      "View it as strategic economy, not only tariffs"
+      "Trade and foreign policy",
+      "Strategic autonomy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "An agreement with Europe is trade, a standard and a political signal",
+      "In a shifting world it is also a choice not to depend on one partner",
+      "It should be read as a hedge, not as a camp"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The India-EU strategic partnership is shaped by a shared need to navigate a fragmenting global order and ensure supply-chain resilience.",
         "order": 1,
-        "cite": "2"
+        "text": "The India-EU strategic partnership is shaped by a shared need to navigate a fragmenting global order and ensure supply-chain resilience."
       },
       {
         "section": "Body",
-        "text": "It represents a move toward a multipolar world, collaborating on 'Green' and 'Digital' transitions while reducing dependency on single hubs.",
         "order": 2,
-        "cite": "2"
+        "text": "It represents a move toward a multipolar world, collaborating on 'Green' and 'Digital' transitions while reducing dependency on single hubs."
       },
       {
         "section": "Body",
-        "text": "Geopolitically, it focuses on a rules-based Indo-Pacific, maritime security, and setting standards for emerging technologies.",
         "order": 3,
-        "cite": "2"
+        "text": "Geopolitically, it focuses on a rules-based Indo-Pacific, maritime security, and setting standards for emerging technologies."
       },
       {
         "section": "Conclusion",
-        "text": "A comprehensive Free Trade Agreement will be the pivot for making this partnership a stabilizing force in global politics.",
         "order": 4,
-        "cite": "2"
+        "text": "A comprehensive Free Trade Agreement will be the pivot for making this partnership a stabilizing force in global politics."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP2_09",
-    "paper_title": "GS Paper 2",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 9,
+    "year": 2025,
+    "paper_title": "GS Paper 2",
+    "q_number": "9",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "2",
-    "last_updated": 1747209500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 2",
     "question_text": "Analyze the geopolitical significance of Sri Lanka in the context of India's Foreign Policy.",
     "subjectId": "ir",
     "subjects": [
@@ -488,51 +478,50 @@
       "Sri Lanka in India’s foreign policy"
     ],
     "keyPointers": [
-      "It sits on the sea lane off the south",
-      "A port or a crisis there reaches India at once",
-      "Tamil Nadu’s politics is part of the policy",
-      "Significance is location plus a neighbour’s stability"
+      "Maritime interest",
+      "Strategic autonomy",
+      "India and China"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The island sits on a sea lane close to India",
+      "A port, a debt or a rival presence there changes India's room",
+      "The significance is location, and the policy has to treat it as a neighbour and not only as a vote"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Located at the junction of major shipping lanes, Sri Lanka is a cornerstone of India's 'Neighborhood First' and 'SAGAR' policies.",
         "order": 1,
-        "cite": "2"
+        "text": "Located at the junction of major shipping lanes, Sri Lanka is a cornerstone of India's 'Neighborhood First' and 'SAGAR' policies."
       },
       {
         "section": "Body",
-        "text": "Its significance lies in control over Sea Lines of Communication and its role as a security buffer in the Indian Ocean Region.",
         "order": 2,
-        "cite": "2"
+        "text": "Its significance lies in control over Sea Lines of Communication and its role as a security buffer in the Indian Ocean Region."
       },
       {
         "section": "Body",
-        "text": "Indian policy focuses on maritime cooperation and deep economic integration to prevent 'debt-trap' diplomacy by external powers.",
         "order": 3,
-        "cite": "2"
+        "text": "Indian policy focuses on maritime cooperation and deep economic integration to prevent 'debt-trap' diplomacy by external powers."
       },
       {
         "section": "Conclusion",
-        "text": "A stable Sri Lanka is vital for India’s southern maritime security and regional leadership in South Asia.",
         "order": 4,
-        "cite": "2"
+        "text": "A stable Sri Lanka is vital for India’s southern maritime security and regional leadership in South Asia."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP2_10",
-    "paper_title": "GS Paper 2",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 10,
+    "year": 2025,
+    "paper_title": "GS Paper 2",
+    "q_number": "10",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "2",
-    "last_updated": 1747209500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 2",
     "question_text": "Assess the strategic significance of the 25th Shanghai Cooperation Organization (SCO) Summit, 2025 Declaration, in endorsing India's long-standing position on cross-border terrorism.",
     "subjectId": "ir",
     "subjects": [
@@ -546,109 +535,106 @@
       "SCO summit and India"
     ],
     "keyPointers": [
-      "A Eurasian table that includes rivals",
-      "The declaration is a diplomatic gain, not a treaty",
-      "It lets India speak on terror, connectivity and a multipolar order",
-      "Significance is presence, with the limits of the grouping"
+      "Regional groupings",
+      "Terrorism",
+      "Strategic autonomy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A declaration that names terrorism in terms India has long used is a diplomatic gain",
+      "The summit matters if the words survive the next meeting",
+      "Endorsement is not the same as a change in a neighbour's behaviour"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The 25th SCO Summit (2025) provides a platform for India to champion regional counter-terrorism cooperation via the RATS mechanism.",
         "order": 1,
-        "cite": "2"
+        "text": "The 25th SCO Summit (2025) provides a platform for India to champion regional counter-terrorism cooperation via the RATS mechanism."
       },
       {
         "section": "Body",
-        "text": "The declaration’s emphasis on eliminating 'safe havens' validates India’s stance against state-sponsored cross-border terrorism.",
         "order": 2,
-        "cite": "2"
+        "text": "The declaration’s emphasis on eliminating 'safe havens' validates India’s stance against state-sponsored cross-border terrorism."
       },
       {
         "section": "Body",
-        "text": "Getting Eurasian powers to explicitly reject terrorism helps isolate regional actors that facilitate militant groups.",
         "order": 3,
-        "cite": "2"
+        "text": "Getting Eurasian powers to explicitly reject terrorism helps isolate regional actors that facilitate militant groups."
       },
       {
         "section": "Conclusion",
-        "text": "By leading this narrative, India reinforces the global norm against terror while protecting its national security interests.",
         "order": 4,
-        "cite": "2"
+        "text": "By leading this narrative, India reinforces the global norm against terror while protecting its national security interests."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP2_11",
-    "paper_title": "GS Paper 2",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 11,
+    "year": 2025,
+    "paper_title": "GS Paper 2",
+    "q_number": "11",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "2",
-    "last_updated": 1747209500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 2",
     "question_text": "\"India's Constituent Assembly was the legal outcome of Parliamentary developments during the Colonial period.\" Critically examine this statement.",
-    "subjectId": "constitution",
+    "subjectId": "modern",
     "subjects": [
-      "Constitution & Polity"
+      "Modern India"
     ],
-    "topic": "Constitution",
+    "topic": "Where the Constituent Assembly came from",
     "topics": [
-      "Constitution"
+      "Where the Constituent Assembly came from"
     ],
     "subTopics": [
       "Colonial roots of the Constituent Assembly"
     ],
     "keyPointers": [
-      "Acts of 1909, 1919 and 1935 built elected bodies",
-      "The Assembly was also a national claim, not only a statute",
-      "The legal form came from that history",
-      "The political authority came from the movement"
+      "Federalism",
+      "Rule of law"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The demand and the 1935 Act were colonial parliamentary steps",
+      "The Assembly was also a political body of a nation about to be free",
+      "Legal outcome is half the truth, and the other half is the movement that forced it"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The formation of the Constituent Assembly in 1946 culminated a series of constitutional experiments by the British, from 1773 to 1935.",
         "order": 1,
-        "cite": "2"
+        "text": "The formation of the Constituent Assembly in 1946 culminated a series of constitutional experiments by the British, from 1773 to 1935."
       },
       {
         "section": "Body",
-        "text": "Legally, the Assembly was rooted in the Cabinet Mission Plan and inherited the structural framework of the Government of India Act, 1935.",
         "order": 2,
-        "cite": "2"
+        "text": "Legally, the Assembly was rooted in the Cabinet Mission Plan and inherited the structural framework of the Government of India Act, 1935."
       },
       {
         "section": "Body",
-        "text": "While its origin was a colonial outcome, the Assembly asserted sovereignty by rejecting imperial constraints for fundamental rights and adult franchise.",
         "order": 3,
-        "cite": "2"
+        "text": "While its origin was a colonial outcome, the Assembly asserted sovereignty by rejecting imperial constraints for fundamental rights and adult franchise."
       },
       {
         "section": "Conclusion",
-        "text": "The Assembly was colonial in its 'legal birth' but revolutionary in intent, transforming a legacy into a document for a new nation.",
         "order": 4,
-        "cite": "2"
+        "text": "The Assembly was colonial in its 'legal birth' but revolutionary in intent, transforming a legacy into a document for a new nation."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP2_12",
-    "paper_title": "GS Paper 2",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 12,
+    "year": 2025,
+    "paper_title": "GS Paper 2",
+    "q_number": "12",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "2",
-    "last_updated": 1747209500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 2",
     "question_text": "How does the provision of legislative powers granted to the Union under the Indian Constitution contribute to the centralized character of India's federal system? Examine.",
     "subjectId": "constitution",
     "subjects": [
@@ -662,51 +648,50 @@
       "Union legislative powers and centralisation"
     ],
     "keyPointers": [
-      "A long Union list and a concurrent override",
-      "Residuary power with the Centre",
-      "Parliament can legislate for a state in stated cases",
-      "The design leans to the Union in the name of unity"
+      "Federalism",
+      "Centre-state finance",
+      "Cooperative federalism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The Union list is long, and Parliament can legislate for the states in several stated situations",
+      "That design pulls the federation toward the Centre",
+      "Centralised here means the text, not only a later political habit"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The Indian Constitution creates a 'quasi-federal' structure with a unitary bias, tilting legislative power significantly toward the Union.",
         "order": 1,
-        "cite": "2"
+        "text": "The Indian Constitution creates a 'quasi-federal' structure with a unitary bias, tilting legislative power significantly toward the Union."
       },
       {
         "section": "Body",
-        "text": "Centralization is reinforced by Union List dominance, residuary powers in Parliament, and Union precedence in the Concurrent List.",
         "order": 2,
-        "cite": "2"
+        "text": "Centralization is reinforced by Union List dominance, residuary powers in Parliament, and Union precedence in the Concurrent List."
       },
       {
         "section": "Body",
-        "text": "Provisions allow Parliament to legislate on State subjects under special circumstances, effectively overriding state autonomy in the national interest.",
         "order": 3,
-        "cite": "2"
+        "text": "Provisions allow Parliament to legislate on State subjects under special circumstances, effectively overriding state autonomy in the national interest."
       },
       {
         "section": "Conclusion",
-        "text": "While centralized, these provisions serve as essential safeguards to maintain national unity in a diverse country.",
         "order": 4,
-        "cite": "2"
+        "text": "While centralized, these provisions serve as essential safeguards to maintain national unity in a diverse country."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP2_13",
-    "paper_title": "GS Paper 2",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 13,
+    "year": 2025,
+    "paper_title": "GS Paper 2",
+    "q_number": "13",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "2",
-    "last_updated": 1747209500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 2",
     "question_text": "\"The Comptroller and Auditor General (CAG) of India is the supreme authority of India's finance.\" Critically analyse his functions and position in the light of this statement.",
     "subjectId": "governance",
     "subjects": [
@@ -720,51 +705,50 @@
       "Comptroller and Auditor General"
     ],
     "keyPointers": [
-      "Audits the Union and the states",
-      "Reports to the legislature, does not spend or tax",
-      "Supreme as an auditor, not as a finance minister",
-      "The authority is independence and a report that cannot be quietly buried"
+      "Comptroller and Auditor General",
+      "Accountability",
+      "Centre-state finance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The audit covers the Union, the states and bodies using public money",
+      "Supreme over the accounts is fairer than supreme over finance, because he does not make the budget",
+      "The position is independent, and the report still needs a committee that will read it"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Established under Article 148, the CAG is the 'Guardian of the Public Purse', ensuring executive financial accountability to the legislature.",
         "order": 1,
-        "cite": "2"
+        "text": "Established under Article 148, the CAG is the 'Guardian of the Public Purse', ensuring executive financial accountability to the legislature."
       },
       {
         "section": "Body",
-        "text": "CAG functions include auditing expenditure from Consolidated Funds and evaluating the 'propriety'—not just legality—of government spending.",
         "order": 2,
-        "cite": "2"
+        "text": "CAG functions include auditing expenditure from Consolidated Funds and evaluating the 'propriety'—not just legality—of government spending."
       },
       {
         "section": "Body",
-        "text": "Critically, CAG authority is 'post-facto'; he cannot control the issue of money from the treasury beforehand.",
         "order": 3,
-        "cite": "2"
+        "text": "Critically, CAG authority is 'post-facto'; he cannot control the issue of money from the treasury beforehand."
       },
       {
         "section": "Conclusion",
-        "text": "Despite limitations, the CAG remains a vital independent organ ensuring transparency and fiscal health of the democratic state.",
         "order": 4,
-        "cite": "2"
+        "text": "Despite limitations, the CAG remains a vital independent organ ensuring transparency and fiscal health of the democratic state."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP2_14",
-    "paper_title": "GS Paper 2",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 14,
+    "year": 2025,
+    "paper_title": "GS Paper 2",
+    "q_number": "14",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "2",
-    "last_updated": 1747209500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 2",
     "question_text": "Public Interest Litigation (PIL) is an important tool for promoting social justice and protecting the rights of marginalized communities. Analyse with suitable examples.",
     "subjectId": "justice",
     "subjects": [
@@ -778,51 +762,51 @@
       "Public interest litigation"
     ],
     "keyPointers": [
-      "A court can be moved for those who cannot move it",
-      "Rights of the marginalised have been enforced this way",
-      "It can also become a policy bench",
-      "A tool, and a risk of the judge replacing the government"
+      "Access to justice",
+      "Judicial review",
+      "Inequality",
+      "Welfare state"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A person who cannot afford a lawyer can still bring a public wrong to court",
+      "It has opened prisons, bonded labour and a polluted river",
+      "It promotes justice when the order is enforced, and it can also become a substitute for a government"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "PIL allows public-spirited individuals to seek judicial remedy for grievances affecting the public, particularly the marginalized.",
         "order": 1,
-        "cite": "2"
+        "text": "PIL allows public-spirited individuals to seek judicial remedy for grievances affecting the public, particularly the marginalized."
       },
       {
         "section": "Body",
-        "text": "Relaxing 'locus standi' enabled courts to address systemic issues like undertrial rights and bonded labor.",
         "order": 2,
-        "cite": "2"
+        "text": "Relaxing 'locus standi' enabled courts to address systemic issues like undertrial rights and bonded labor."
       },
       {
         "section": "Body",
-        "text": "It serves as a tool for 'judicial activism', forcing the executive to implement social welfare and environmental laws.",
         "order": 3,
-        "cite": "2"
+        "text": "It serves as a tool for 'judicial activism', forcing the executive to implement social welfare and environmental laws."
       },
       {
         "section": "Conclusion",
-        "text": "While effective for social justice, the judiciary must guard against 'frivolous PILs' to maintain the efficiency of this landmark tool.",
         "order": 4,
-        "cite": "2"
+        "text": "While effective for social justice, the judiciary must guard against 'frivolous PILs' to maintain the efficiency of this landmark tool."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP2_15",
-    "paper_title": "GS Paper 2",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 15,
+    "year": 2025,
+    "paper_title": "GS Paper 2",
+    "q_number": "15",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "2",
-    "last_updated": 1747209500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 2",
     "question_text": "How does the Direct Benefit Transfer (DBT) system align with the objectives of Digital India and good governance? Analyze.",
     "subjectId": "governance",
     "subjects": [
@@ -836,50 +820,51 @@
       "Direct benefit transfer"
     ],
     "keyPointers": [
-      "Money to a verified account",
-      "Less leakage, a clearer trail",
-      "It needs a number, a bank and a correct list",
-      "Good governance if the excluded are watched, not only the saving"
+      "Financial inclusion",
+      "Digital public infrastructure",
+      "Good governance",
+      "Corruption"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The money goes to a named account instead of through a chain of hands",
+      "That matches a digital identity and a stated aim of less leakage",
+      "Alignment fails if the person without an account is the one the scheme was for"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Direct Benefit Transfer (DBT) transfers subsidies directly into beneficiary accounts using digital infrastructure, marking a paradigm shift in delivery.",
         "order": 1,
-        "cite": "2"
+        "text": "Direct Benefit Transfer (DBT) transfers subsidies directly into beneficiary accounts using digital infrastructure, marking a paradigm shift in delivery."
       },
       {
         "section": "Body",
-        "text": "It aligns with Digital India by using the 'JAM' trinity to promote financial inclusion and a paperless governance framework.",
         "order": 2,
-        "cite": "2"
+        "text": "It aligns with Digital India by using the 'JAM' trinity to promote financial inclusion and a paperless governance framework."
       },
       {
         "section": "Body",
-        "text": "DBT promotes good governance by eliminating leakages and 'ghost beneficiaries', ensuring benefits reach recipients without delay.",
         "order": 3,
-        "cite": "2"
+        "text": "DBT promotes good governance by eliminating leakages and 'ghost beneficiaries', ensuring benefits reach recipients without delay."
       },
       {
         "section": "Conclusion",
-        "text": "By replacing administrative discretion with algorithmic precision, DBT is a global standard for transparent service delivery.",
         "order": 4,
-        "cite": "2"
+        "text": "By replacing administrative discretion with algorithmic precision, DBT is a global standard for transparent service delivery."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP2_16",
-    "paper_title": "GS Paper 2",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 16,
+    "year": 2025,
+    "paper_title": "GS Paper 2",
+    "q_number": "16",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "last_updated": 1747177386,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 2",
     "question_text": "Examine the emerging dimensions of e-governance and explain how they contribute to making government services more accessible, transparent and efficient.",
     "subjectId": "governance",
     "subjects": [
@@ -893,46 +878,50 @@
       "E-governance and access"
     ],
     "keyPointers": [
-      "A service on a phone, a single window, an open dashboard",
-      "Transparency is a status the citizen can see",
-      "Access fails without language, a device and a help desk",
-      "The new dimension is the user, not only the server"
+      "Digital public infrastructure",
+      "Transparency and the right to information",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A portal, a mobile service and an open dashboard are the newer forms",
+      "They cut a visit and a queue",
+      "Accessible and efficient still need a language, a grievance and a person at the other end"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "E-governance is evolving beyond mere digitization into emerging dimensions like Artificial Intelligence (AI), Blockchain, and Big Data to redefine the citizen-state interface.",
-        "order": 1
+        "order": 1,
+        "text": "E-governance is evolving beyond mere digitization into emerging dimensions like Artificial Intelligence (AI), Blockchain, and Big Data to redefine the citizen-state interface."
       },
       {
         "section": "Body",
-        "text": "Accessibility is enhanced through 'Mobile-First' strategies and AI-driven chatbots that provide 24/7 assistance in regional languages, bridging the urban-rural divide.",
-        "order": 2
+        "order": 2,
+        "text": "Accessibility is enhanced through 'Mobile-First' strategies and AI-driven chatbots that provide 24/7 assistance in regional languages, bridging the urban-rural divide."
       },
       {
         "section": "Body",
-        "text": "Transparency and efficiency are achieved via Blockchain for secure record-keeping and real-time data analytics, which reduces red tape and minimizes human intervention in service delivery.",
-        "order": 3
+        "order": 3,
+        "text": "Transparency and efficiency are achieved via Blockchain for secure record-keeping and real-time data analytics, which reduces red tape and minimizes human intervention in service delivery."
       },
       {
         "section": "Conclusion",
-        "text": "While these dimensions promise a 'Viksit Bharat,' ensuring data privacy and digital literacy remains critical for an inclusive e-governance ecosystem.",
-        "order": 4
+        "order": 4,
+        "text": "While these dimensions promise a 'Viksit Bharat,' ensuring data privacy and digital literacy remains critical for an inclusive e-governance ecosystem."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP2_17",
-    "paper_title": "GS Paper 2",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 17,
+    "year": 2025,
+    "paper_title": "GS Paper 2",
+    "q_number": "17",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "last_updated": 1747177386,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 2",
     "question_text": "Critically evaluate the need for coordination among support institutions, donors and institutional stakeholders in the development process and practical realities.",
     "subjectId": "governance",
     "subjects": [
@@ -946,46 +935,50 @@
       "Coordination in development"
     ],
     "keyPointers": [
-      "Many funders and many schemes for one village",
-      "Without coordination they duplicate and miss",
-      "The stakeholder closest to the work must be in the room",
-      "Need is real; the cost is a meeting that replaces delivery"
+      "Civil society and NGOs",
+      "Good governance",
+      "Accountability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A donor, a department and a local body can fund the same village and never speak",
+      "The need is a shared plan and a shared account",
+      "The practical limit is that each one answers to a different master"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Effective development requires a synchronized effort between government agencies, international donors, and NGOs to maximize resource utilization and project impact.",
-        "order": 1
+        "order": 1,
+        "text": "Effective development requires a synchronized effort between government agencies, international donors, and NGOs to maximize resource utilization and project impact."
       },
       {
         "section": "Body",
-        "text": "Coordination prevents the duplication of efforts and ensures that donor-driven agendas align with national priorities and grassroots needs.",
-        "order": 2
+        "order": 2,
+        "text": "Coordination prevents the duplication of efforts and ensures that donor-driven agendas align with national priorities and grassroots needs."
       },
       {
         "section": "Body",
-        "text": "Practical realities often reveal 'institutional silos,' competing interests, and fragmented funding cycles that hinder the long-term sustainability of developmental initiatives.",
-        "order": 3
+        "order": 3,
+        "text": "Practical realities often reveal 'institutional silos,' competing interests, and fragmented funding cycles that hinder the long-term sustainability of developmental initiatives."
       },
       {
         "section": "Conclusion",
-        "text": "A 'Single Window' approach for developmental coordination and a focus on outcome-based monitoring are essential to overcome these structural inefficiencies.",
-        "order": 4
+        "order": 4,
+        "text": "A 'Single Window' approach for developmental coordination and a focus on outcome-based monitoring are essential to overcome these structural inefficiencies."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP2_18",
-    "paper_title": "GS Paper 2",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 18,
+    "year": 2025,
+    "paper_title": "GS Paper 2",
+    "q_number": "18",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "last_updated": 1747177386,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 2",
     "question_text": "Critically analyze the background, key provisions and constitutional, administrative and political implications of the Jammu and Kashmir Reorganization Act, 2019.",
     "subjectId": "constitution",
     "subjects": [
@@ -999,46 +992,49 @@
       "Jammu and Kashmir reorganisation"
     ],
     "keyPointers": [
-      "A special status ended; a state became Union Territories",
-      "The Assembly’s powers are bounded",
-      "Administrative control of the Centre increased",
-      "Political implication is integration argued as unity, contested as a loss of autonomy"
+      "Federalism",
+      "Cooperative federalism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The Act split the old state into two union territories",
+      "The background was a special status that the Centre decided to end",
+      "The implication is a more central hold, and a political argument that has not ended"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The 2019 Act followed the abrogation of Article 370, marking a historic shift in Jammu and Kashmir’s status from a state with special autonomy to two separate Union Territories.",
-        "order": 1
+        "order": 1,
+        "text": "The 2019 Act followed the abrogation of Article 370, marking a historic shift in Jammu and Kashmir’s status from a state with special autonomy to two separate Union Territories."
       },
       {
         "section": "Body",
-        "text": "Key provisions include the bifurcation into UT of J&K (with legislature) and UT of Ladakh (without legislature), and the direct application of the Indian Constitution to the region.",
-        "order": 2
+        "order": 2,
+        "text": "Key provisions include the bifurcation into UT of J&K (with legislature) and UT of Ladakh (without legislature), and the direct application of the Indian Constitution to the region."
       },
       {
         "section": "Body",
-        "text": "Administrative implications involve the centralization of law and order, while political shifts center on the delimitation process and the mainstreaming of regional politics.",
-        "order": 3
+        "order": 3,
+        "text": "Administrative implications involve the centralization of law and order, while political shifts center on the delimitation process and the mainstreaming of regional politics."
       },
       {
         "section": "Conclusion",
-        "text": "While the Act aims for national integration and development, its success depends on winning local trust and restoring statehood as promised by the Union.",
-        "order": 4
+        "order": 4,
+        "text": "While the Act aims for national integration and development, its success depends on winning local trust and restoring statehood as promised by the Union."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP2_19",
-    "paper_title": "GS Paper 2",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 19,
+    "year": 2025,
+    "paper_title": "GS Paper 2",
+    "q_number": "19",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "last_updated": 1747177386,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 2",
     "question_text": "\"The structure of the United Nations Security Council (UNSC) does not reflect the realities of contemporary global politics.\" Critically evaluate this statement in the light of India's stand on Security Council reforms.",
     "subjectId": "ir",
     "subjects": [
@@ -1052,46 +1048,49 @@
       "Reform of the Security Council"
     ],
     "keyPointers": [
-      "Five permanent members and a veto from 1945",
-      "New powers and whole regions are under-represented",
-      "India’s case is population, contribution and a democracy",
-      "The structure stays because those who hold the veto will not give it up"
+      "Multilateralism",
+      "Strategic autonomy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The permanent seats and the veto reflect 1945",
+      "The present distribution of people, economy and power is different",
+      "The statement is largely fair, and a reform still needs the consent of those who hold the veto"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The UNSC continues to reflect the geopolitical architecture of 1945, failing to account for the rise of emerging powers and the voice of the Global South.",
-        "order": 1
+        "order": 1,
+        "text": "The UNSC continues to reflect the geopolitical architecture of 1945, failing to account for the rise of emerging powers and the voice of the Global South."
       },
       {
         "section": "Body",
-        "text": "India argues that the current P5 dominance is undemocratic, excluding India—the world's largest democracy and a major contributor to UN peacekeeping missions.",
-        "order": 2
+        "order": 2,
+        "text": "India argues that the current P5 dominance is undemocratic, excluding India—the world's largest democracy and a major contributor to UN peacekeeping missions."
       },
       {
         "section": "Body",
-        "text": "Reforms are essential to maintain the UN's relevance in a multipolar world, requiring expanded permanent membership to include countries from Africa, Latin America, and Asia (G4).",
-        "order": 3
+        "order": 3,
+        "text": "Reforms are essential to maintain the UN's relevance in a multipolar world, requiring expanded permanent membership to include countries from Africa, Latin America, and Asia (G4)."
       },
       {
         "section": "Conclusion",
-        "text": "India’s demand for a permanent seat is not just about prestige but about ensuring a rules-based global order that is representative of 21st-century realities.",
-        "order": 4
+        "order": 4,
+        "text": "India’s demand for a permanent seat is not just about prestige but about ensuring a rules-based global order that is representative of 21st-century realities."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP2_20",
-    "paper_title": "GS Paper 2",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 20,
+    "year": 2025,
+    "paper_title": "GS Paper 2",
+    "q_number": "20",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "last_updated": 1747177386,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 2",
     "question_text": "To what extent can India's Free Trade Agreements (FTAs) with various countries help mitigate the adverse effects of the US trade policies on India's exports? Critically evaluate.",
     "subjectId": "ir",
     "subjects": [
@@ -1105,32 +1104,35 @@
       "FTAs and US trade pressure"
     ],
     "keyPointers": [
-      "A deal with others diversifies the market",
-      "It does not cancel a tariff from Washington",
-      "Rules of origin and a standard still bind",
-      "Helpful as a hedge, not as a full shield"
+      "World Trade Organization",
+      "Trade and foreign policy",
+      "Strategic autonomy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A bilateral opening can replace a market that a tariff has closed",
+      "It helps only in the goods and the countries the agreement actually covers",
+      "Mitigation is partial, and it is not a full answer to one large partner's policy"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Faced with protectionist US trade policies and tariff volatility, India is increasingly looking toward FTAs with partners like the UAE, Australia, and the EFTA to diversify its export base.",
-        "order": 1
+        "order": 1,
+        "text": "Faced with protectionist US trade policies and tariff volatility, India is increasingly looking toward FTAs with partners like the UAE, Australia, and the EFTA to diversify its export base."
       },
       {
         "section": "Body",
-        "text": "FTAs help mitigate risks by opening alternative high-growth markets, reducing dependency on a single buyer, and securing preferential access for Indian labor-intensive sectors.",
-        "order": 2
+        "order": 2,
+        "text": "FTAs help mitigate risks by opening alternative high-growth markets, reducing dependency on a single buyer, and securing preferential access for Indian labor-intensive sectors."
       },
       {
         "section": "Body",
-        "text": "However, the effectiveness is often limited by 'Rules of Origin' complexities, non-tariff barriers, and the fact that the US remains India's largest and most technologically critical trade partner.",
-        "order": 3
+        "order": 3,
+        "text": "However, the effectiveness is often limited by 'Rules of Origin' complexities, non-tariff barriers, and the fact that the US remains India's largest and most technologically critical trade partner."
       },
       {
         "section": "Conclusion",
-        "text": "Strategic economic autonomy requires India to finalize pending FTAs with the UK and EU while simultaneously boosting domestic manufacturing competitiveness via the PLI scheme.",
-        "order": 4
+        "order": 4,
+        "text": "Strategic economic autonomy requires India to finalize pending FTAs with the UK and EU while simultaneously boosting domestic manufacturing competitiveness via the PLI scheme."
       }
     ]
   }

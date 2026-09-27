@@ -1,514 +1,518 @@
 [
   {
     "uid": "UPPSC_2019_Essay_QA1",
-    "paper_title": "Essay",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QA.1",
+    "year": 2019,
+    "paper_title": "Essay",
+    "q_number": "A1",
     "marks": 50,
+    "word_limit": 700,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 Essay",
-    "last_updated": 1778967500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 Essay",
     "question_text": "Literature and Moral Values.",
-    "subjectId": "ethics",
+    "subjectId": "essay-lit",
     "subjects": [
-      "Ethics & Values"
+      "Essay"
     ],
-    "topic": "Ethics basics",
+    "topic": "Literature and a moral value",
     "topics": [
-      "Ethics basics"
+      "Literature and a moral value"
     ],
     "subTopics": [
       "Literature and moral values"
     ],
     "keyPointers": [
-      "A story carries a value more durably than a rule",
-      "Literature lets a reader practise a judgement",
-      "Values without it become a sermon"
+      "Literature as a social record",
+      "Moral reasoning",
+      "Education and social change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A story lets a reader live a choice before he has to make one",
+      "The moral is stronger when it is shown, not pasted at the end",
+      "Literature can form a value, and it cannot replace the life the reader actually sees"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define literature not just as a form of artistic expression, but as a crucial vessel for the transmission and preservation of human moral values and ethics across generations.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Define literature not just as a form of artistic expression, but as a crucial vessel for the transmission and preservation of human moral values and ethics across generations."
       },
       {
         "section": "Body",
-        "text": "Discuss literature as a moral compass: Explore how ancient epics (like the Ramayana and Mahabharata) and classical literature instill fundamental virtues such as truth, duty (Dharma), and righteousness in the societal consciousness.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Discuss literature as a moral compass: Explore how ancient epics (like the Ramayana and Mahabharata) and classical literature instill fundamental virtues such as truth, duty (Dharma), and righteousness in the societal consciousness."
       },
       {
         "section": "Body",
-        "text": "Discuss literature as a reformer: Highlight how progressive literature (e.g., the works of Premchand, Kabir, or Dickens) challenges outmoded, oppressive moralities (like untouchability or extreme capitalism) and champions a more egalitarian and empathetic ethical framework.",
         "order": 3,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Discuss literature as a reformer: Highlight how progressive literature (e.g., the works of Premchand, Kabir, or Dickens) challenges outmoded, oppressive moralities (like untouchability or extreme capitalism) and champions a more egalitarian and empathetic ethical framework."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that literature serves as the conscience of humanity, bridging the gap between what society currently is and what it morally ought to be.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Conclude that literature serves as the conscience of humanity, bridging the gap between what society currently is and what it morally ought to be."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_Essay_QA2",
-    "paper_title": "Essay",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QA.2",
+    "year": 2019,
+    "paper_title": "Essay",
+    "q_number": "A2",
     "marks": 50,
+    "word_limit": 700,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 Essay",
-    "last_updated": 1778967500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 Essay",
     "question_text": "Sexual crime cause and solution.",
     "subjectId": "essay-lit",
     "subjects": [
-      "Essay — Literature & Society"
+      "Essay"
     ],
-    "topic": "सामाजिक क्षेत्र",
+    "topic": "Sexual crime",
     "topics": [
-      "सामाजिक क्षेत्र"
+      "Sexual crime"
     ],
     "subTopics": [
       "Causes and answers to sexual crime"
     ],
     "keyPointers": [
-      "Power, impunity and a culture that excuses",
-      "The law is not the whole solution",
-      "Cause and remedy have to be named together"
+      "Patriarchy",
+      "Gender and the household",
+      "Rule of law",
+      "Prejudice"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The cause is a power, a shame and a process the survivor does not trust",
+      "A law exists, and the number has not fallen",
+      "The solution is a police, a support and a change in what is excused"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Highlight the alarming persistence of sexual crimes globally and in India, identifying it as a severe human rights crisis that undermines the safety, dignity, and equality of women and children.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Highlight the alarming persistence of sexual crimes globally and in India, identifying it as a severe human rights crisis that undermines the safety, dignity, and equality of women and children."
       },
       {
         "section": "Body",
-        "text": "Analyze the systemic causes: Trace the roots to deeply entrenched patriarchal mindsets, the objectification of women in popular media, lack of comprehensive sex and consent education, and institutional apathy leading to low conviction rates.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Analyze the systemic causes: Trace the roots to deeply entrenched patriarchal mindsets, the objectification of women in popular media, lack of comprehensive sex and consent education, and institutional apathy leading to low conviction rates."
       },
       {
         "section": "Body",
-        "text": "Propose multi-dimensional solutions: Argue for strict and swift implementation of existing laws (like the POCSO Act and Criminal Law Amendment Acts), judicial sensitization, establishment of fast-track courts, and massive grassroots behavioral campaigns promoting gender equality from a young age.",
         "order": 3,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Propose multi-dimensional solutions: Argue for strict and swift implementation of existing laws (like the POCSO Act and Criminal Law Amendment Acts), judicial sensitization, establishment of fast-track courts, and massive grassroots behavioral campaigns promoting gender equality from a young age."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while legal deterrence is vital, eradicating sexual crime requires a fundamental societal overhaul that completely dismantles toxic masculinity and rape culture.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Conclude that while legal deterrence is vital, eradicating sexual crime requires a fundamental societal overhaul that completely dismantles toxic masculinity and rape culture."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_Essay_QA3",
-    "paper_title": "Essay",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QA.3",
+    "year": 2019,
+    "paper_title": "Essay",
+    "q_number": "A3",
     "marks": 50,
+    "word_limit": 700,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 Essay",
-    "last_updated": 1778967500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 Essay",
     "question_text": "One Nation, one Constitution.",
-    "subjectId": "constitution",
+    "subjectId": "essay-lit",
     "subjects": [
-      "Constitution & Polity"
+      "Essay"
     ],
-    "topic": "Constitution",
+    "topic": "One nation, one constitution",
     "topics": [
-      "Constitution"
+      "One nation, one constitution"
     ],
     "subTopics": [
       "One constitution for one nation"
     ],
     "keyPointers": [
-      "A single basic law is the frame of the Union",
-      "Uniformity has a value and a cost for a diverse country",
-      "The essay is the tension, not a slogan"
+      "Federalism",
+      "Rule of law",
+      "Diversity and pluralism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The claim is a single basic law for the whole country",
+      "A special status and a separate arrangement sit against that claim",
+      "One constitution can still hold more than one practice"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Contextualize the essay within the historic 2019 abrogation of Article 370, which effectively integrated Jammu & Kashmir into the Indian Union, fulfilling the long-standing vision of 'One Nation, One Constitution'.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Contextualize the essay within the historic 2019 abrogation of Article 370, which effectively integrated Jammu & Kashmir into the Indian Union, fulfilling the long-standing vision of 'One Nation, One Constitution'."
       },
       {
         "section": "Body",
-        "text": "Examine the history of asymmetrical federalism: Discuss the historical conditions that led to special provisions, and how separate constitutions or parallel laws created administrative complexities and a psychological barrier to national integration.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Examine the history of asymmetrical federalism: Discuss the historical conditions that led to special provisions, and how separate constitutions or parallel laws created administrative complexities and a psychological barrier to national integration."
       },
       {
         "section": "Body",
-        "text": "Discuss the benefits of a unified framework: A single constitution ensures uniform application of progressive laws (like RTI, RTE, and gender justice laws), fosters equal citizenship rights across the territory, removes barriers to economic investment, and solidifies India's sovereign integrity.",
         "order": 3,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Discuss the benefits of a unified framework: A single constitution ensures uniform application of progressive laws (like RTI, RTE, and gender justice laws), fosters equal citizenship rights across the territory, removes barriers to economic investment, and solidifies India's sovereign integrity."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that 'One Nation, One Constitution' is not about enforcing cultural uniformity, but about establishing a unified legal and democratic framework that guarantees equal rights and justice to every Indian citizen.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Conclude that 'One Nation, One Constitution' is not about enforcing cultural uniformity, but about establishing a unified legal and democratic framework that guarantees equal rights and justice to every Indian citizen."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_Essay_QB1",
-    "paper_title": "Essay",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QB.1",
+    "year": 2019,
+    "paper_title": "Essay",
+    "q_number": "B1",
     "marks": 50,
+    "word_limit": 700,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 Essay",
-    "last_updated": 1778967500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 Essay",
     "question_text": "Role of social media in public awareness.",
     "subjectId": "essay-lit",
     "subjects": [
-      "Essay — Literature & Society"
+      "Essay"
     ],
-    "topic": "सामाजिक क्षेत्र",
+    "topic": "Social media and a public awareness",
     "topics": [
-      "सामाजिक क्षेत्र"
+      "Social media and a public awareness"
     ],
     "subTopics": [
       "Social media and public awareness"
     ],
     "keyPointers": [
-      "A message can reach a crowd in hours",
-      "It can also be a lie",
-      "Awareness is real only if the fact survives the forward"
+      "Media and socialisation",
+      "Digital public infrastructure",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A message can reach a person a newspaper never did",
+      "Awareness is the useful half",
+      "The same speed also carries a rumour"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define social media as the modern, decentralized public square, highlighting its unprecedented speed, reach, and ability to democratize the flow of information.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Define social media as the modern, decentralized public square, highlighting its unprecedented speed, reach, and ability to democratize the flow of information."
       },
       {
         "section": "Body",
-        "text": "Discuss its positive role in public awareness: Explore how platforms are used for mass mobilization on civic issues (e.g., the #MeToo movement, environmental campaigns), rapid dissemination of disaster relief information, and holding public officials accountable in real-time.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Discuss its positive role in public awareness: Explore how platforms are used for mass mobilization on civic issues (e.g., the #MeToo movement, environmental campaigns), rapid dissemination of disaster relief information, and holding public officials accountable in real-time."
       },
       {
         "section": "Body",
-        "text": "Analyze the inherent challenges: Point out the dangers of unverified information, the rapid spread of fake news and deepfakes causing communal riots, algorithmic echo chambers that polarize society, and the dilution of serious political discourse into viral trends.",
         "order": 3,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Analyze the inherent challenges: Point out the dangers of unverified information, the rapid spread of fake news and deepfakes causing communal riots, algorithmic echo chambers that polarize society, and the dilution of serious political discourse into viral trends."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while social media is a revolutionary tool for civic awakening, its true potential can only be harnessed through widespread digital literacy and robust, non-draconian regulatory frameworks.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Conclude that while social media is a revolutionary tool for civic awakening, its true potential can only be harnessed through widespread digital literacy and robust, non-draconian regulatory frameworks."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_Essay_QB2",
-    "paper_title": "Essay",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QB.2",
+    "year": 2019,
+    "paper_title": "Essay",
+    "q_number": "B2",
     "marks": 50,
+    "word_limit": 700,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 Essay",
-    "last_updated": 1778967500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 Essay",
     "question_text": "Digital Economy: possibilities and challenges.",
-    "subjectId": "stech",
+    "subjectId": "essay-econ",
     "subjects": [
-      "Science & Technology"
+      "Essay"
     ],
-    "topic": "Science & Tech",
+    "topic": "A digital economy",
     "topics": [
-      "Science & Tech"
+      "A digital economy"
     ],
     "subTopics": [
       "Digital economy"
     ],
     "keyPointers": [
-      "A payment, a platform and a new firm",
-      "Challenges: exclusion, a monopoly and a job lost",
-      "Possibility and risk are the same shift"
+      "Digital public infrastructure",
+      "Financial inclusion",
+      "Cyber security",
+      "Informal economy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A payment, a record and a market can now move on a phone",
+      "The possibility is a reach and a lower cost",
+      "The challenge is the person offline, and the data that can be stolen"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the digital economy as the global network of economic activities enabled by information and communication technologies (ICT), highlighting India's massive push via the 'Digital India' initiative.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Introduce the digital economy as the global network of economic activities enabled by information and communication technologies (ICT), highlighting India's massive push via the 'Digital India' initiative."
       },
       {
         "section": "Body",
-        "text": "Explore the economic possibilities: Discuss unprecedented financial inclusion through UPI, plugging governance leakages via Direct Benefit Transfers (DBT), providing global market access to local MSMEs through e-commerce, and driving innovation in fintech and the gig economy.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Explore the economic possibilities: Discuss unprecedented financial inclusion through UPI, plugging governance leakages via Direct Benefit Transfers (DBT), providing global market access to local MSMEs through e-commerce, and driving innovation in fintech and the gig economy."
       },
       {
         "section": "Body",
-        "text": "Examine the systemic challenges: Address the stark rural-urban digital divide, inadequate broadband infrastructure in remote areas, severe cybersecurity vulnerabilities, and the urgent need for comprehensive data privacy laws to prevent digital monopolies and surveillance.",
         "order": 3,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Examine the systemic challenges: Address the stark rural-urban digital divide, inadequate broadband infrastructure in remote areas, severe cybersecurity vulnerabilities, and the urgent need for comprehensive data privacy laws to prevent digital monopolies and surveillance."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that transitioning to a digital economy is an irreversible necessity, but the state must ensure equitable infrastructure to prevent the creation of a 'digitally marginalized' underclass.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Conclude that transitioning to a digital economy is an irreversible necessity, but the state must ensure equitable infrastructure to prevent the creation of a 'digitally marginalized' underclass."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_Essay_QB3",
-    "paper_title": "Essay",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QB.3",
+    "year": 2019,
+    "paper_title": "Essay",
+    "q_number": "B3",
     "marks": 50,
+    "word_limit": 700,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 Essay",
-    "last_updated": 1778967500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 Essay",
     "question_text": "Farmers of India: our pride.",
-    "subjectId": "agri",
+    "subjectId": "essay-econ",
     "subjects": [
-      "Agriculture & Food"
+      "Essay"
     ],
-    "topic": "Agriculture",
+    "topic": "The farmer as a pride",
     "topics": [
-      "Agriculture"
+      "The farmer as a pride"
     ],
     "subTopics": [
       "Farmers as pride"
     ],
     "keyPointers": [
-      "They feed the country and carry the risk",
-      "Pride that does not pay a fair price is a speech",
-      "The essay should hold both"
+      "Farmer income",
+      "Food security",
+      "Inclusive growth",
+      "Agrarian relations"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The country eats because he grows",
+      "Pride is a fair word, and it does not pay a debt or a price",
+      "The essay has to hold the honour and the hardship"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Establish the Indian farmer ('Annadata') as the enduring backbone of the nation's economy and food security, embodying the resilient, hardworking spirit of rural India.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Establish the Indian farmer ('Annadata') as the enduring backbone of the nation's economy and food security, embodying the resilient, hardworking spirit of rural India."
       },
       {
         "section": "Body",
-        "text": "Highlight their contributions: Detail how farmers spearheaded the Green Revolution to make India self-sufficient in food grains, support massive agro-industries, and have historically shielded the Indian economy from complete collapse during global recessions.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Highlight their contributions: Detail how farmers spearheaded the Green Revolution to make India self-sufficient in food grains, support massive agro-industries, and have historically shielded the Indian economy from complete collapse during global recessions."
       },
       {
         "section": "Body",
-        "text": "Discuss the contrasting reality and distress: Contrast the rhetoric of 'pride' with the grim reality of chronic indebtedness, high suicide rates, highly fragmented landholdings, lack of remunerative prices (MSP issues), and extreme vulnerability to climate change.",
         "order": 3,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Discuss the contrasting reality and distress: Contrast the rhetoric of 'pride' with the grim reality of chronic indebtedness, high suicide rates, highly fragmented landholdings, lack of remunerative prices (MSP issues), and extreme vulnerability to climate change."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that true national pride in our farmers must translate into tangible economic security, robust infrastructural support, and sustainable agrarian reforms that genuinely double their income.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Conclude that true national pride in our farmers must translate into tangible economic security, robust infrastructural support, and sustainable agrarian reforms that genuinely double their income."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_Essay_QC1",
-    "paper_title": "Essay",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QC.1",
+    "year": 2019,
+    "paper_title": "Essay",
+    "q_number": "C1",
     "marks": 50,
+    "word_limit": 700,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 Essay",
-    "last_updated": 1778967500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 Essay",
     "question_text": "Changing paradigm of Indian foreign policy.",
-    "subjectId": "ir",
+    "subjectId": "essay-world",
     "subjects": [
-      "International Relations"
+      "Essay"
     ],
-    "topic": "International Relations",
+    "topic": "A changing foreign policy",
     "topics": [
-      "International Relations"
+      "A changing foreign policy"
     ],
     "subTopics": [
       "A changing foreign policy"
     ],
     "keyPointers": [
-      "From a camp-refusal toward several practical partners",
-      "The aim of autonomy remains",
-      "The paradigm changed with the world"
+      "Strategic autonomy",
+      "Multilateralism",
+      "Trade and foreign policy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The old habit of one camp has given way to more partners",
+      "The paradigm is a larger economy and a harder neighbourhood",
+      "Change is real, and the aim of staying unaligned has not been dropped"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Contextualize India's foreign policy evolution, shifting from the ideologically driven Non-Aligned Movement (NAM) of the Cold War era to a highly pragmatic, confident posture of 'Strategic Autonomy' and 'Multi-Alignment'.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Contextualize India's foreign policy evolution, shifting from the ideologically driven Non-Aligned Movement (NAM) of the Cold War era to a highly pragmatic, confident posture of 'Strategic Autonomy' and 'Multi-Alignment'."
       },
       {
         "section": "Body",
-        "text": "Discuss the new paradigms and assertiveness: Highlight key shifts such as the 'Neighborhood First' and 'Act East' policies, a much more aggressive military-diplomatic posture against cross-border terrorism (e.g., surgical strikes), and the deep, strategic leveraging of the global Indian diaspora.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Discuss the new paradigms and assertiveness: Highlight key shifts such as the 'Neighborhood First' and 'Act East' policies, a much more aggressive military-diplomatic posture against cross-border terrorism (e.g., surgical strikes), and the deep, strategic leveraging of the global Indian diaspora."
       },
       {
         "section": "Body",
-        "text": "Analyze the navigation of global complexities: Detail how India successfully balances relations with historic partners like Russia while simultaneously building a robust defense partnership with the US, and actively participating in minilaterals like the Quad to counter Chinese hegemony in the Indo-Pacific.",
         "order": 3,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Analyze the navigation of global complexities: Detail how India successfully balances relations with historic partners like Russia while simultaneously building a robust defense partnership with the US, and actively participating in minilaterals like the Quad to counter Chinese hegemony in the Indo-Pacific."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the changing paradigm reflects India's ambition to transition from a regional balancing power to a leading, responsible global rule-maker.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Conclude that the changing paradigm reflects India's ambition to transition from a regional balancing power to a leading, responsible global rule-maker."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_Essay_QC2",
-    "paper_title": "Essay",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QC.2",
+    "year": 2019,
+    "paper_title": "Essay",
+    "q_number": "C2",
     "marks": 50,
+    "word_limit": 700,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 Essay",
-    "last_updated": 1778967500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 Essay",
     "question_text": "Resource management in India.",
-    "subjectId": "essay-lit",
+    "subjectId": "essay-econ",
     "subjects": [
-      "Essay — Literature & Society"
+      "Essay"
     ],
-    "topic": "सामाजिक क्षेत्र",
+    "topic": "Managing the country's resources",
     "topics": [
-      "सामाजिक क्षेत्र"
+      "Managing the country's resources"
     ],
     "subTopics": [
       "Managing India's resources"
     ],
     "keyPointers": [
-      "Land, water, a mineral and a forest are finite",
-      "Management is who uses them and who pays the damage",
-      "A resource spent without a rule is a shorter gain"
+      "Sustainable development",
+      "Freshwater availability",
+      "Energy minerals",
+      "Environment versus livelihood"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Water, a mineral, a forest and a soil are finite",
+      "Management is who may use them and how much is left",
+      "A resource used as if it were endless becomes a shortage"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the paradox of India: a nation endowed with vast natural and human resources, yet plagued by severe developmental deficits due to historically inefficient and inequitable resource management.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Introduce the paradox of India: a nation endowed with vast natural and human resources, yet plagued by severe developmental deficits due to historically inefficient and inequitable resource management."
       },
       {
         "section": "Body",
-        "text": "Examine the challenges of physical resources: Discuss the catastrophic over-exploitation of groundwater, rampant deforestation, highly inefficient and often corrupt mining practices, and the mounting crisis of urban solid waste management.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Examine the challenges of physical resources: Discuss the catastrophic over-exploitation of groundwater, rampant deforestation, highly inefficient and often corrupt mining practices, and the mounting crisis of urban solid waste management."
       },
       {
         "section": "Body",
-        "text": "Examine the management of human resources and solutions: Highlight the under-utilization of the demographic dividend due to poor education and healthcare. Propose solutions like transitioning to a circular economy, aggressive watershed management, investing in human capital, and using satellite technology for resource mapping.",
         "order": 3,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Examine the management of human resources and solutions: Highlight the under-utilization of the demographic dividend due to poor education and healthcare. Propose solutions like transitioning to a circular economy, aggressive watershed management, investing in human capital, and using satellite technology for resource mapping."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that sustainable resource management is not just an environmental necessity, but the fundamental prerequisite for India's long-term economic survival and inter-generational equity.",
         "order": 4,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Conclude that sustainable resource management is not just an environmental necessity, but the fundamental prerequisite for India's long-term economic survival and inter-generational equity."
       }
     ]
   },
   {
     "uid": "UPPSC_2019_Essay_QC3",
-    "paper_title": "Essay",
-    "year": 2019,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": "QC.3",
+    "year": 2019,
+    "paper_title": "Essay",
+    "q_number": "C3",
     "marks": 50,
+    "word_limit": 700,
     "importance": 2,
-    "cite": "UPPSC Mains 2019 Essay",
-    "last_updated": 1778967500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2019 Essay",
     "question_text": "Namami Gange Mission.",
-    "subjectId": "essay-lit",
+    "subjectId": "essay-econ",
     "subjects": [
-      "Essay — Literature & Society"
+      "Essay"
     ],
-    "topic": "सामाजिक क्षेत्र",
+    "topic": "Namami Gange",
     "topics": [
-      "सामाजिक क्षेत्र"
+      "Namami Gange"
     ],
     "subTopics": [
       "Namami Gange"
     ],
     "keyPointers": [
-      "A mission to clean a living river",
-      "Sewage and a town are the test",
-      "A mission fails at the untreated drain"
+      "Freshwater availability",
+      "Industrial discharge",
+      "Sustainable development"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The mission tries to stop a sewage and a factory waste from entering the river",
+      "A clean Ganga is the claim",
+      "The test is the water at a town, not the name of the scheme"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the 'Namami Gange' Programme as an integrated conservation mission approved as a 'Flagship Programme' by the Union Government to accomplish the twin objectives of effective abatement of pollution and the rejuvenation of the National River Ganga.",
         "order": 1,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Introduce the 'Namami Gange' Programme as an integrated conservation mission approved as a 'Flagship Programme' by the Union Government to accomplish the twin objectives of effective abatement of pollution and the rejuvenation of the National River Ganga."
       },
       {
         "section": "Body",
-        "text": "Detail the comprehensive pillars of the mission: Discuss its multi-sectoral approach involving the creation of massive sewerage treatment capacity (STPs), river-front development (ghats), river surface cleaning, strict regulation of industrial effluents, and extensive afforestation along the basin.",
         "order": 2,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Detail the comprehensive pillars of the mission: Discuss its multi-sectoral approach involving the creation of massive sewerage treatment capacity (STPs), river-front development (ghats), river surface cleaning, strict regulation of industrial effluents, and extensive afforestation along the basin."
       },
       {
         "section": "Body",
-        "text": "Analyze the socio-economic and cultural integration: Emphasize that the mission goes beyond engineering by aiming to restore the river's ecological flow (Aviral Dhara) and purity (Nirmal Dhara), protecting aquatic biodiversity (like the Gangetic dolphin), and boosting the local riverine economy (Arth Ganga).",
         "order": 3,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Analyze the socio-economic and cultural integration: Emphasize that the mission goes beyond engineering by aiming to restore the river's ecological flow (Aviral Dhara) and purity (Nirmal Dhara), protecting aquatic biodiversity (like the Gangetic dolphin), and boosting the local riverine economy (Arth Ganga)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the ultimate success of Namami Gange depends on decentralizing its execution to local municipal bodies and transforming it from a government project into a massive, self-sustaining mass movement (Jan Andolan).",
         "order": 4,
-        "cite": "UPPSC Mains 2019 Essay"
+        "text": "Conclude that the ultimate success of Namami Gange depends on decentralizing its execution to local municipal bodies and transforming it from a government project into a massive, self-sustaining mass movement (Jan Andolan)."
       }
     ]
   }

@@ -1,74 +1,73 @@
 [
   {
     "uid": "UPPSC_2025_GSP4_01",
-    "paper_title": "GS Paper 4",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 1,
+    "year": 2025,
+    "paper_title": "GS Paper 4",
+    "q_number": "1",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "4",
-    "last_updated": 1747218000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 4",
     "question_text": "Defining value: explain the distinctive features of human values and the role of the family in inculcating these values.",
-    "subjectId": "thinkers",
+    "subjectId": "ethics",
     "subjects": [
-      "Thinkers"
+      "Ethics"
     ],
-    "topic": "Thinkers",
+    "topic": "How a family teaches a value",
     "topics": [
-      "Thinkers"
+      "How a family teaches a value"
     ],
     "subTopics": [
       "Human values and the family"
     ],
     "keyPointers": [
-      "Values are what a person holds as worth doing",
-      "They are learnt before a code is read",
-      "The family is the first school of honesty and care",
-      "A public servant carries that early training into the file"
+      "Ethics and morals",
+      "Education and social change",
+      "Gender and the household"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A human value is held even when nobody is watching and even when it costs",
+      "The family is the first place a child sees what is praised and what is punished",
+      "Inculcation is the daily example, not a lecture"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Values are individual beliefs that motivate people to act one way or another, serving as a guide for human behavior and social interaction.",
         "order": 1,
-        "cite": "4"
+        "text": "Values are individual beliefs that motivate people to act one way or another, serving as a guide for human behavior and social interaction."
       },
       {
         "section": "Body",
-        "text": "Human values are characterized by their universality, durability, and their role in providing a moral compass for distinguishing between right and wrong.",
         "order": 2,
-        "cite": "4"
+        "text": "Human values are characterized by their universality, durability, and their role in providing a moral compass for distinguishing between right and wrong."
       },
       {
         "section": "Body",
-        "text": "The family acts as the primary agency of socialization, where children observe and internalize foundational values like honesty, empathy, and respect through parental behavior.",
         "order": 3,
-        "cite": "4"
+        "text": "The family acts as the primary agency of socialization, where children observe and internalize foundational values like honesty, empathy, and respect through parental behavior."
       },
       {
         "section": "Conclusion",
-        "text": "Thus, the family provides the initial moral framework upon which an individual's ethical identity and societal contributions are built.",
         "order": 4,
-        "cite": "4"
+        "text": "Thus, the family provides the initial moral framework upon which an individual's ethical identity and societal contributions are built."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP4_02",
-    "paper_title": "GS Paper 4",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 2,
+    "year": 2025,
+    "paper_title": "GS Paper 4",
+    "q_number": "2",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "4",
-    "last_updated": 1747218000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 4",
     "question_text": "Evaluate the contemporary relevance of Chanakya life and thoughts in the context of ethical and people centric governance.",
     "subjectId": "ethics",
     "subjects": [
@@ -82,109 +81,107 @@
       "Chanakya and ethical governance"
     ],
     "keyPointers": [
-      "The state exists for the people’s yogakshema",
-      "Means of rule were hard; the aim was order and welfare",
-      "Relevance is vigilance, a treasury and a king bound by duty",
-      "Use the aim, not every ancient tactic"
+      "Integrity",
+      "Probity",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Chanakya tied the king's conduct to the people's welfare and to a watch on the official",
+      "The relevance is a rule that serves the citizen and a check on the person who handles the money",
+      "People-centric is the test, and a clever statecraft without that test is not the part to copy"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Chanakya, through the Arthashastra, proposed a governance model where the king's happiness lies in the happiness of his subjects, a precursor to modern people-centric governance.",
         "order": 1,
-        "cite": "4"
+        "text": "Chanakya, through the Arthashastra, proposed a governance model where the king's happiness lies in the happiness of his subjects, a precursor to modern people-centric governance."
       },
       {
         "section": "Body",
-        "text": "His emphasis on 'Rakshana' (protection) and 'Palana' (welfare) remains relevant today in the form of the welfare state and the protection of civil liberties.",
         "order": 2,
-        "cite": "4"
+        "text": "His emphasis on 'Rakshana' (protection) and 'Palana' (welfare) remains relevant today in the form of the welfare state and the protection of civil liberties."
       },
       {
         "section": "Body",
-        "text": "Chanakya's insistence on the moral integrity of administrators and strict anti-corruption measures serves as a blueprint for contemporary administrative ethics and transparency.",
         "order": 3,
-        "cite": "4"
+        "text": "Chanakya's insistence on the moral integrity of administrators and strict anti-corruption measures serves as a blueprint for contemporary administrative ethics and transparency."
       },
       {
         "section": "Conclusion",
-        "text": "His 'Realpolitik' approach, balanced with ethical duties (Dharma), continues to provide a strategic framework for managing complex modern states.",
         "order": 4,
-        "cite": "4"
+        "text": "His 'Realpolitik' approach, balanced with ethical duties (Dharma), continues to provide a strategic framework for managing complex modern states."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP4_03",
-    "paper_title": "GS Paper 4",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 3,
+    "year": 2025,
+    "paper_title": "GS Paper 4",
+    "q_number": "3",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "4",
-    "last_updated": 1747218000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 4",
     "question_text": "Discuss the Aristotelian view of virtues and its application in administrative affairs.",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Aptitude",
+    "topic": "Aristotle's virtues in an office",
     "topics": [
-      "Aptitude"
+      "Aristotle's virtues in an office"
     ],
     "subTopics": [
       "Aristotelian virtue in administration"
     ],
     "keyPointers": [
-      "Virtue is a habit between excess and deficit",
-      "Courage, justice and practical wisdom",
-      "An officer needs the mean, not a slogan",
-      "Application is a repeated right decision"
+      "Moral reasoning",
+      "Integrity",
+      "Dedication to public service"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A virtue for him is a habit between two extremes",
+      "In an office that habit is courage without rashness and fairness without rigidity",
+      "The application is a repeated choice, not a one-time oath"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Aristotle’s 'Virtue Ethics' posits that morality is not just about following rules but about developing an excellent character through the practice of virtues.",
         "order": 1,
-        "cite": "4"
+        "text": "Aristotle’s 'Virtue Ethics' posits that morality is not just about following rules but about developing an excellent character through the practice of virtues."
       },
       {
         "section": "Body",
-        "text": "The 'Doctrine of the Mean' suggests that virtue lies between the extremes of excess and deficiency, guiding administrators to take balanced, prudent decisions.",
         "order": 2,
-        "cite": "4"
+        "text": "The 'Doctrine of the Mean' suggests that virtue lies between the extremes of excess and deficiency, guiding administrators to take balanced, prudent decisions."
       },
       {
         "section": "Body",
-        "text": "In administration, virtues like 'Phronesis' (practical wisdom) and justice ensure that public servants act with fairness and integrity while serving the common good.",
         "order": 3,
-        "cite": "4"
+        "text": "In administration, virtues like 'Phronesis' (practical wisdom) and justice ensure that public servants act with fairness and integrity while serving the common good."
       },
       {
         "section": "Conclusion",
-        "text": "Aristotelian ethics shifts the focus from procedural compliance to building a trustworthy, value-driven bureaucracy.",
         "order": 4,
-        "cite": "4"
+        "text": "Aristotelian ethics shifts the focus from procedural compliance to building a trustworthy, value-driven bureaucracy."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP4_04",
-    "paper_title": "GS Paper 4",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 4,
+    "year": 2025,
+    "paper_title": "GS Paper 4",
+    "q_number": "4",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "4",
-    "last_updated": 1747218000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 4",
     "question_text": "Distinguish between moral responsibility and role (ex-officio) responsibility in the life of a public servant.",
     "subjectId": "ethics",
     "subjects": [
@@ -198,51 +195,50 @@
       "Moral duty and official role"
     ],
     "keyPointers": [
-      "Role responsibility is what the post requires",
-      "Moral responsibility is what the person owes even then",
-      "They usually coincide and sometimes conflict",
-      "The servant is both the office and the conscience"
+      "Dedication to public service",
+      "Integrity",
+      "Law and ethics"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Role responsibility is what the post requires",
+      "Moral responsibility is what the person still owes when the post is silent or wrong",
+      "A public servant carries both, and they can clash"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Public servants operate at the intersection of universal moral principles and specific professional duties defined by their office.",
         "order": 1,
-        "cite": "4"
+        "text": "Public servants operate at the intersection of universal moral principles and specific professional duties defined by their office."
       },
       {
         "section": "Body",
-        "text": "Role responsibility refers to the legal and procedural duties tied to a specific position, such as implementing a government policy exactly as written.",
         "order": 2,
-        "cite": "4"
+        "text": "Role responsibility refers to the legal and procedural duties tied to a specific position, such as implementing a government policy exactly as written."
       },
       {
         "section": "Body",
-        "text": "Moral responsibility is an individual's personal accountability to their conscience and ethical values, which may lead them to question an unjust or unethical command.",
         "order": 3,
-        "cite": "4"
+        "text": "Moral responsibility is an individual's personal accountability to their conscience and ethical values, which may lead them to question an unjust or unethical command."
       },
       {
         "section": "Conclusion",
-        "text": "Harmonizing these two is essential for 'administrative integrity,' where a public servant fulfills their duty without compromising their moral standing.",
         "order": 4,
-        "cite": "4"
+        "text": "Harmonizing these two is essential for 'administrative integrity,' where a public servant fulfills their duty without compromising their moral standing."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP4_05",
-    "paper_title": "GS Paper 4",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 5,
+    "year": 2025,
+    "paper_title": "GS Paper 4",
+    "q_number": "5",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "4",
-    "last_updated": 1747218000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 4",
     "question_text": "How would you assess the desirability of Gandhian view regarding ends and means in the context of public fund management? Discuss with suitable examples.",
     "subjectId": "thinkers",
     "subjects": [
@@ -256,51 +252,51 @@
       "Ends and means in public funds"
     ],
     "keyPointers": [
-      "A good scheme does not justify a dirty method",
-      "The means of spending is part of the result",
-      "Leakage corrupts the end",
-      "Desirable because the fund is a trust"
+      "Gandhi's ethics",
+      "Means and ends",
+      "Probity",
+      "Integrity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A good scheme built on a diverted fund fails his test",
+      "The desirability is that the public money and the method of using it must both be clean",
+      "An example is a work that is completed and a bill that is true"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Gandhi famously believed that 'means are as important as ends,' arguing that an ethical result cannot be achieved through unethical methods.",
         "order": 1,
-        "cite": "4"
+        "text": "Gandhi famously believed that 'means are as important as ends,' arguing that an ethical result cannot be achieved through unethical methods."
       },
       {
         "section": "Body",
-        "text": "In public fund management, this view demands that money should not only be spent for a good cause but also through transparent and legal procurement processes.",
         "order": 2,
-        "cite": "4"
+        "text": "In public fund management, this view demands that money should not only be spent for a good cause but also through transparent and legal procurement processes."
       },
       {
         "section": "Body",
-        "text": "For example, achieving 100% rural electrification (end) is desirable, but achieving it through kickbacks or bypassing environmental audits (means) is ethically unacceptable in the Gandhian framework.",
         "order": 3,
-        "cite": "4"
+        "text": "For example, achieving 100% rural electrification (end) is desirable, but achieving it through kickbacks or bypassing environmental audits (means) is ethically unacceptable in the Gandhian framework."
       },
       {
         "section": "Conclusion",
-        "text": "Applying this philosophy ensures that public trust is maintained and that development is both moral and sustainable.",
         "order": 4,
-        "cite": "4"
+        "text": "Applying this philosophy ensures that public trust is maintained and that development is both moral and sustainable."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP4_06",
-    "paper_title": "GS Paper 4",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 6,
+    "year": 2025,
+    "paper_title": "GS Paper 4",
+    "q_number": "6",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "4",
-    "last_updated": 1747218000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 4",
     "question_text": "Write the role of self-regulation and its components in improving performance at workplace.",
     "subjectId": "ethics",
     "subjects": [
@@ -314,51 +310,50 @@
       "Self-regulation at work"
     ],
     "keyPointers": [
-      "Notice the impulse before it becomes the act",
-      "A standard one keeps without a supervisor",
-      "Components: awareness, restraint and a review of one’s own work",
-      "Performance rises when the check is internal"
+      "Integrity",
+      "Probity",
+      "Self-knowledge"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Self-regulation is the person watching his own work before a supervisor does",
+      "The components are a standard, a check and a correction",
+      "Performance improves when the correction is a habit and not a fear"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Self-regulation is the ability to monitor and manage one's energy states, emotions, and behaviors in ways that are acceptable and produce positive results.",
         "order": 1,
-        "cite": "4"
+        "text": "Self-regulation is the ability to monitor and manage one's energy states, emotions, and behaviors in ways that are acceptable and produce positive results."
       },
       {
         "section": "Body",
-        "text": "Key components include self-control, trustworthiness, conscientiousness, and adaptability, which allow an individual to stay focused under pressure.",
         "order": 2,
-        "cite": "4"
+        "text": "Key components include self-control, trustworthiness, conscientiousness, and adaptability, which allow an individual to stay focused under pressure."
       },
       {
         "section": "Body",
-        "text": "By preventing impulsive reactions to workplace stress, self-regulation fosters a professional environment and improves long-term productivity and team collaboration.",
         "order": 3,
-        "cite": "4"
+        "text": "By preventing impulsive reactions to workplace stress, self-regulation fosters a professional environment and improves long-term productivity and team collaboration."
       },
       {
         "section": "Conclusion",
-        "text": "Fostering self-regulation is essential for leadership and building a high-performance organizational culture.",
         "order": 4,
-        "cite": "4"
+        "text": "Fostering self-regulation is essential for leadership and building a high-performance organizational culture."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP4_07",
-    "paper_title": "GS Paper 4",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 7,
+    "year": 2025,
+    "paper_title": "GS Paper 4",
+    "q_number": "7",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "4",
-    "last_updated": 1747218000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 4",
     "question_text": "\"Emotional intelligence is the ability to make your emotions work for you instead of against you.\" Do you agree with this statement? Discuss.",
     "subjectId": "attitude",
     "subjects": [
@@ -372,51 +367,50 @@
       "Emotional intelligence"
     ],
     "keyPointers": [
-      "Name the feeling, then choose",
-      "Anger and fear make a worse order",
-      "Agree, with the limit that a moral anger should not be erased",
-      "Use the emotion as information"
+      "Emotional intelligence",
+      "Moral reasoning",
+      "Self-knowledge"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Agree, if the emotion is noticed and then used",
+      "Anger that is named can become a careful refusal instead of a rash order",
+      "It works for the person only when it does not become a tool to manipulate the other"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Emotional Intelligence (EI) involves recognizing, understanding, and managing both our own emotions and the emotions of others.",
         "order": 1,
-        "cite": "4"
+        "text": "Emotional Intelligence (EI) involves recognizing, understanding, and managing both our own emotions and the emotions of others."
       },
       {
         "section": "Body",
-        "text": "EI allows a public servant to use emotions like empathy to understand citizens' grievances while using self-regulation to prevent anger from clouding judgment.",
         "order": 2,
-        "cite": "4"
+        "text": "EI allows a public servant to use emotions like empathy to understand citizens' grievances while using self-regulation to prevent anger from clouding judgment."
       },
       {
         "section": "Body",
-        "text": "Instead of being 'driven' by emotions, an emotionally intelligent person 'uses' them as data to make more informed and socially aware decisions.",
         "order": 3,
-        "cite": "4"
+        "text": "Instead of being 'driven' by emotions, an emotionally intelligent person 'uses' them as data to make more informed and socially aware decisions."
       },
       {
         "section": "Conclusion",
-        "text": "In the complex world of administration, EI is as critical as IQ for effective leadership and conflict resolution.",
         "order": 4,
-        "cite": "4"
+        "text": "In the complex world of administration, EI is as critical as IQ for effective leadership and conflict resolution."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP4_08",
-    "paper_title": "GS Paper 4",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 8,
+    "year": 2025,
+    "paper_title": "GS Paper 4",
+    "q_number": "8",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "4",
-    "last_updated": 1747218000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 4",
     "question_text": "How can social influence and persuasion be ethically employed in a public information campaign by the public servants? Explain.",
     "subjectId": "ethics",
     "subjects": [
@@ -430,109 +424,106 @@
       "Ethical persuasion in campaigns"
     ],
     "keyPointers": [
-      "Inform and invite, do not manipulate",
-      "Tell the truth about the cost and the benefit",
-      "A campaign may use example and a peer",
-      "It may not use fear or a false fact"
+      "Attitude",
+      "Education and social change",
+      "Integrity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A campaign can use an example, a neighbour and a repeated message",
+      "Ethical use means the fact is true and the citizen is not frightened into obedience",
+      "Persuasion fails the test when it hides the cost"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Persuasion and social influence are tools used by the state to encourage voluntary behavioral change in citizens for the collective good.",
         "order": 1,
-        "cite": "4"
+        "text": "Persuasion and social influence are tools used by the state to encourage voluntary behavioral change in citizens for the collective good."
       },
       {
         "section": "Body",
-        "text": "Ethical use requires transparency, truthfulness, and ensuring the goal is public welfare, such as in vaccination or sanitation campaigns.",
         "order": 2,
-        "cite": "4"
+        "text": "Ethical use requires transparency, truthfulness, and ensuring the goal is public welfare, such as in vaccination or sanitation campaigns."
       },
       {
         "section": "Body",
-        "text": "Public servants can use 'social proof' by highlighting community leaders who adopt a behavior, or 'authority' by using expert opinions to build credibility.",
         "order": 3,
-        "cite": "4"
+        "text": "Public servants can use 'social proof' by highlighting community leaders who adopt a behavior, or 'authority' by using expert opinions to build credibility."
       },
       {
         "section": "Conclusion",
-        "text": "When based on respect for individual autonomy and verifiable facts, persuasion becomes a non-coercive tool for successful policy implementation.",
         "order": 4,
-        "cite": "4"
+        "text": "When based on respect for individual autonomy and verifiable facts, persuasion becomes a non-coercive tool for successful policy implementation."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP4_09",
-    "paper_title": "GS Paper 4",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 9,
+    "year": 2025,
+    "paper_title": "GS Paper 4",
+    "q_number": "9",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "4",
-    "last_updated": 1747218000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 4",
     "question_text": "Analyse the role of social skills in the context of increasing use and role of social media in cyber crimes.",
-    "subjectId": "thinkers",
+    "subjectId": "ethics",
     "subjects": [
-      "Thinkers"
+      "Ethics"
     ],
-    "topic": "Thinkers",
+    "topic": "Social skill and a cyber crime",
     "topics": [
-      "Thinkers"
+      "Social skill and a cyber crime"
     ],
     "subTopics": [
       "Social skills and cyber crime"
     ],
     "keyPointers": [
-      "A platform rewards outrage and a false intimacy",
-      "The skill of checking a source and refusing a forward",
-      "Crime uses trust: a scam, a lure, a mob",
-      "Social skill now includes what not to share"
+      "Cyber security",
+      "Media and socialisation"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A crime on a network still uses trust, shame and a wish to belong",
+      "Social skill can spot the lure and can also be used to spread it",
+      "The role grows because the platform multiplies a human weakness"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "While cyber crimes often involve technical exploits, they increasingly rely on 'social engineering' to manipulate human psychology.",
         "order": 1,
-        "cite": "4"
+        "text": "While cyber crimes often involve technical exploits, they increasingly rely on 'social engineering' to manipulate human psychology."
       },
       {
         "section": "Body",
-        "text": "Social skills in this context include digital literacy and the ability to critically assess online interactions, which act as a defense against phishing and grooming.",
         "order": 2,
-        "cite": "4"
+        "text": "Social skills in this context include digital literacy and the ability to critically assess online interactions, which act as a defense against phishing and grooming."
       },
       {
         "section": "Body",
-        "text": "For law enforcement, social skills are vital for community outreach to educate citizens and for gathering digital intelligence through ethical undercover operations.",
         "order": 3,
-        "cite": "4"
+        "text": "For law enforcement, social skills are vital for community outreach to educate citizens and for gathering digital intelligence through ethical undercover operations."
       },
       {
         "section": "Conclusion",
-        "text": "Strengthening the 'human layer' through social and digital awareness is as important as building firewalls in the fight against cyber crime.",
         "order": 4,
-        "cite": "4"
+        "text": "Strengthening the 'human layer' through social and digital awareness is as important as building firewalls in the fight against cyber crime."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP4_10",
-    "paper_title": "GS Paper 4",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 10,
+    "year": 2025,
+    "paper_title": "GS Paper 4",
+    "q_number": "10",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "4",
-    "last_updated": 1747218000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 4",
     "question_text": "Discuss the practical utilities of induced compliance in administration.",
     "subjectId": "ethics",
     "subjects": [
@@ -546,51 +537,49 @@
       "Induced compliance"
     ],
     "keyPointers": [
-      "A small public commitment makes the later act likelier",
-      "Used for a tax, a scheme and a behaviour",
-      "Useful when it is voluntary and true",
-      "Manipulative when the person is trapped into a consent"
+      "Good governance",
+      "Attitude"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Induced compliance is a small first step that makes the larger rule easier to follow",
+      "In administration it can be a public commitment, a default option or a visible example",
+      "The utility is real, and it becomes a manipulation if the person is not told what is being asked"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Induced compliance refers to a situation where an individual is encouraged to act in a way that is contrary to their existing beliefs, often leading to a change in attitude.",
         "order": 1,
-        "cite": "4"
+        "text": "Induced compliance refers to a situation where an individual is encouraged to act in a way that is contrary to their existing beliefs, often leading to a change in attitude."
       },
       {
         "section": "Body",
-        "text": "In administration, it is used to foster adherence to new regulations (e.g., tax compliance) by using small incentives or 'nudges' rather than just penalties.",
         "order": 2,
-        "cite": "4"
+        "text": "In administration, it is used to foster adherence to new regulations (e.g., tax compliance) by using small incentives or 'nudges' rather than just penalties."
       },
       {
         "section": "Body",
-        "text": "Once citizens or employees comply, 'cognitive dissonance' often leads them to internalize the new behavior as a value, ensuring long-term sustainability.",
         "order": 3,
-        "cite": "4"
+        "text": "Once citizens or employees comply, 'cognitive dissonance' often leads them to internalize the new behavior as a value, ensuring long-term sustainability."
       },
       {
         "section": "Conclusion",
-        "text": "Induced compliance serves as a psychological tool to bridge the gap between policy mandates and social acceptance.",
         "order": 4,
-        "cite": "4"
+        "text": "Induced compliance serves as a psychological tool to bridge the gap between policy mandates and social acceptance."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP4_11",
-    "paper_title": "GS Paper 4",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 11,
+    "year": 2025,
+    "paper_title": "GS Paper 4",
+    "q_number": "11",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "4",
-    "last_updated": 1747218000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 4",
     "question_text": "Clearly distinguish between ethical administration and good governance. Which one of these is more important? Explain.",
     "subjectId": "ethics",
     "subjects": [
@@ -604,167 +593,167 @@
       "Ethical administration and good governance"
     ],
     "keyPointers": [
-      "Ethical administration is the conduct of the officer",
-      "Good governance is the system: rule, delivery, account",
-      "The system needs the conduct",
-      "Neither is enough alone; the system is the larger frame"
+      "Good governance",
+      "Probity",
+      "Integrity",
+      "Accountability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Ethical administration is about the rightness of the means",
+      "Good governance is about a result the citizen can see and question",
+      "The second needs the first, so choosing only one is a false ranking"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Ethical administration focuses on the moral character and conduct of the individual administrator, while good governance refers to the institutional framework and processes that ensure effective service delivery.",
         "order": 1,
-        "cite": "4"
+        "text": "Ethical administration focuses on the moral character and conduct of the individual administrator, while good governance refers to the institutional framework and processes that ensure effective service delivery."
       },
       {
         "section": "Body",
-        "text": "Ethical administration is the 'soul' of governance, rooted in values like integrity and empathy; good governance provides the 'structure' through transparency, accountability, and the rule of law.",
         "order": 2,
-        "cite": "4"
+        "text": "Ethical administration is the 'soul' of governance, rooted in values like integrity and empathy; good governance provides the 'structure' through transparency, accountability, and the rule of law."
       },
       {
         "section": "Body",
-        "text": "While both are interdependent, ethical administration is foundational because institutional rules (good governance) can be bypassed if the individuals running them lack moral integrity.",
         "order": 3,
-        "cite": "4"
+        "text": "While both are interdependent, ethical administration is foundational because institutional rules (good governance) can be bypassed if the individuals running them lack moral integrity."
       },
       {
         "section": "Conclusion",
-        "text": "Ultimately, a symbiotic relationship is required: ethical administrators ensure that the mechanisms of good governance serve the public interest rather than narrow personal ends.",
         "order": 4,
-        "cite": "4"
+        "text": "Ultimately, a symbiotic relationship is required: ethical administrators ensure that the mechanisms of good governance serve the public interest rather than narrow personal ends."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP4_12",
-    "paper_title": "GS Paper 4",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 12,
+    "year": 2025,
+    "paper_title": "GS Paper 4",
+    "q_number": "12",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "4",
-    "last_updated": 1747218000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 4",
     "question_text": "In the age of digital governance and big-data; public officials rely increasingly on algorithms and automated decision making systems. Critically examine the ethical risks involved in algorithmic bias, opacity and lack of accountability and suggest guiding principles for responsible use of such technologies in the public administration.",
-    "subjectId": "thinkers",
+    "subjectId": "ethics",
     "subjects": [
-      "Thinkers"
+      "Ethics"
     ],
-    "topic": "Thinkers",
+    "topic": "An algorithm and a public decision",
     "topics": [
-      "Thinkers"
+      "An algorithm and a public decision"
     ],
     "subTopics": [
       "Ethics of automated decisions"
     ],
     "keyPointers": [
-      "A model can hide a bias in a clean screen",
-      "The official remains responsible for the output",
-      "Explainability and a human appeal",
-      "Big data does not cancel a reason"
+      "Data protection",
+      "Digital public infrastructure",
+      "Accountability",
+      "Moral reasoning"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A system can sort a benefit faster than a file",
+      "It can also hide a bias and remove a person who can explain the refusal",
+      "The exam is whether an official still owns the decision the machine suggested"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The integration of AI and Big Data in administration offers efficiency but introduces complex ethical dilemmas regarding fairness and the erosion of human discretion.",
         "order": 1,
-        "cite": "4"
+        "text": "The integration of AI and Big Data in administration offers efficiency but introduces complex ethical dilemmas regarding fairness and the erosion of human discretion."
       },
       {
         "section": "Body",
-        "text": "Risks include 'algorithmic bias' where historical prejudices are codified into software, and 'opacity' (black-box effect) which makes it impossible for citizens to understand why a decision was made.",
         "order": 2,
-        "cite": "4"
+        "text": "Risks include 'algorithmic bias' where historical prejudices are codified into software, and 'opacity' (black-box effect) which makes it impossible for citizens to understand why a decision was made."
       },
       {
         "section": "Body",
-        "text": "Guiding principles must include 'human-in-the-loop' oversight, mandatory transparency audits of code, and a legal framework that holds human officials accountable for automated outcomes.",
         "order": 3,
-        "cite": "4"
+        "text": "Guiding principles must include 'human-in-the-loop' oversight, mandatory transparency audits of code, and a legal framework that holds human officials accountable for automated outcomes."
       },
       {
         "section": "Conclusion",
-        "text": "Technology should remain a tool for augmenting human judgment, not a replacement for the empathy and moral reasoning essential to public service.",
         "order": 4,
-        "cite": "4"
+        "text": "Technology should remain a tool for augmenting human judgment, not a replacement for the empathy and moral reasoning essential to public service."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP4_13",
-    "paper_title": "GS Paper 4",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 13,
+    "year": 2025,
+    "paper_title": "GS Paper 4",
+    "q_number": "13",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "4",
-    "last_updated": 1747218000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 4",
     "question_text": "Explain the essential factors in ethical judgement. In case of ethical judgement being against the administrative decision, how would you harmonize them? Discuss with example.",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Aptitude",
+    "topic": "When the judgement and the order differ",
     "topics": [
-      "Aptitude"
+      "When the judgement and the order differ"
     ],
     "subTopics": [
       "Ethical judgement against an order"
     ],
     "keyPointers": [
-      "Facts, the rule, the harm and one’s role",
-      "A legal order can still be unjust",
-      "Record the dissent and refuse the illegal act",
-      "Judgement is a reason, not a mood"
+      "Moral reasoning",
+      "Conflict of values",
+      "Integrity",
+      "Conscience"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The essential factors are the fact, the person affected, the rule and the harm",
+      "If the ethical judgement rejects the order, the harmonising step is a recorded dissent and a lawful alternative",
+      "Silence is not harmony"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Ethical judgment is the process by which individuals determine the rightness or wrongness of an action based on moral principles, facts, and potential consequences.",
         "order": 1,
-        "cite": "4"
+        "text": "Ethical judgment is the process by which individuals determine the rightness or wrongness of an action based on moral principles, facts, and potential consequences."
       },
       {
         "section": "Body",
-        "text": "Key factors include the intention (motive), the context (situation), and the universal values involved, such as justice or human dignity.",
         "order": 2,
-        "cite": "4"
+        "text": "Key factors include the intention (motive), the context (situation), and the universal values involved, such as justice or human dignity."
       },
       {
         "section": "Body",
-        "text": "Harmonization requires seeking 'creative middle-way' solutions; for example, if an administrative rule requires evicting a homeless family during a storm, an official might postpone the action citing humanitarian emergency clauses.",
         "order": 3,
-        "cite": "4"
+        "text": "Harmonization requires seeking 'creative middle-way' solutions; for example, if an administrative rule requires evicting a homeless family during a storm, an official might postpone the action citing humanitarian emergency clauses."
       },
       {
         "section": "Conclusion",
-        "text": "When harmony is impossible, the public servant must prioritize constitutional morality and the 'greater good' over rigid procedural compliance.",
         "order": 4,
-        "cite": "4"
+        "text": "When harmony is impossible, the public servant must prioritize constitutional morality and the 'greater good' over rigid procedural compliance."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP4_14",
-    "paper_title": "GS Paper 4",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 14,
+    "year": 2025,
+    "paper_title": "GS Paper 4",
+    "q_number": "14",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "4",
-    "last_updated": 1747218000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 4",
     "question_text": "Can the \"Right to Information(RTI) Act\" be a moral basis for the good governance? If so, does it create moral dilemma regarding the protection of individual privacy? Evaluate.",
     "subjectId": "ethics",
     "subjects": [
@@ -778,226 +767,224 @@
       "RTI as a moral basis, and secrecy"
     ],
     "keyPointers": [
-      "The citizen’s right to know is a moral claim",
-      "It disciplines the file",
-      "A real secret, a privacy and a security interest remain",
-      "The dilemma is disclosure against a harm, not against embarrassment"
+      "Transparency and the right to information",
+      "Data protection",
+      "Accountability",
+      "Conflict of values"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The Act gives a moral basis because a public act should be open to the person it affects",
+      "The dilemma appears when the file also holds a private fact",
+      "Good governance needs both the disclosure and a line around that private fact"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The RTI Act acts as a moral basis by institutionalizing the values of transparency and truth, shifting the burden of proof from the citizen to the state.",
         "order": 1,
-        "cite": "4"
+        "text": "The RTI Act acts as a moral basis by institutionalizing the values of transparency and truth, shifting the burden of proof from the citizen to the state."
       },
       {
         "section": "Body",
-        "text": "It creates a moral dilemma when the 'public’s right to know' clashes with an individual’s 'right to privacy,' particularly regarding sensitive personal records or medical data.",
         "order": 2,
-        "cite": "4"
+        "text": "It creates a moral dilemma when the 'public’s right to know' clashes with an individual’s 'right to privacy,' particularly regarding sensitive personal records or medical data."
       },
       {
         "section": "Body",
-        "text": "Evaluation shows that Section 8(1)(j) of the Act attempts to resolve this by exempting personal information unless there is a larger, overriding public interest.",
         "order": 3,
-        "cite": "4"
+        "text": "Evaluation shows that Section 8(1)(j) of the Act attempts to resolve this by exempting personal information unless there is a larger, overriding public interest."
       },
       {
         "section": "Conclusion",
-        "text": "The RTI is not just a legal tool but an ethical instrument that forces power to be exercised with accountability and moral restraint.",
         "order": 4,
-        "cite": "4"
+        "text": "The RTI is not just a legal tool but an ethical instrument that forces power to be exercised with accountability and moral restraint."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP4_15",
-    "paper_title": "GS Paper 4",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 15,
+    "year": 2025,
+    "paper_title": "GS Paper 4",
+    "q_number": "15",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "4",
-    "last_updated": 1747218000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 4",
     "question_text": "Is adherence to a code of conduct sufficient for ethical governance or does ethical governance require values beyond codified rules? Explain critically.",
-    "subjectId": "cases",
+    "subjectId": "ethics",
     "subjects": [
-      "Case Studies"
+      "Ethics"
     ],
-    "topic": "Case Study",
+    "topic": "A code and what lies beyond it",
     "topics": [
-      "Case Study"
+      "A code and what lies beyond it"
     ],
     "subTopics": [
       "Codes and values beyond the code"
     ],
     "keyPointers": [
-      "A code sets the floor",
-      "Values cover the case the code did not write",
-      "Adherence without judgement is compliance",
-      "Ethical governance needs both"
+      "Law and ethics",
+      "Integrity",
+      "Probity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A code catches the act that was foreseen",
+      "Ethical governance also needs a judgement in the case the code did not imagine",
+      "Adherence is necessary, and it is not sufficient"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "A code of conduct provides the 'minimum standards' for behavior, but ethical governance requires a deeper commitment to 'moral virtues' that cannot always be codified.",
         "order": 1,
-        "cite": "4"
+        "text": "A code of conduct provides the 'minimum standards' for behavior, but ethical governance requires a deeper commitment to 'moral virtues' that cannot always be codified."
       },
       {
         "section": "Body",
-        "text": "Rules are reactive and often contain loopholes; values like compassion and professional integrity are proactive, guiding an official when the rulebook is silent or ambiguous.",
         "order": 2,
-        "cite": "4"
+        "text": "Rules are reactive and often contain loopholes; values like compassion and professional integrity are proactive, guiding an official when the rulebook is silent or ambiguous."
       },
       {
         "section": "Body",
-        "text": "A bureaucracy that follows only the 'letter of the law' without its 'spirit' becomes mechanical and insensitive to the specific needs of the marginalized.",
         "order": 3,
-        "cite": "4"
+        "text": "A bureaucracy that follows only the 'letter of the law' without its 'spirit' becomes mechanical and insensitive to the specific needs of the marginalized."
       },
       {
         "section": "Conclusion",
-        "text": "True ethical governance is achieved when a robust code of ethics (values) internalizes the external code of conduct (rules).",
         "order": 4,
-        "cite": "4"
+        "text": "True ethical governance is achieved when a robust code of ethics (values) internalizes the external code of conduct (rules)."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP4_16",
-    "paper_title": "GS Paper 4",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 16,
+    "year": 2025,
+    "paper_title": "GS Paper 4",
+    "q_number": "16",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "4",
-    "last_updated": 1747218000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 4",
     "question_text": "Why tolerance and sympathy is a necessary quality for civil servant to promote mental health among the weaker sections of the society? Give answer with suitable argument.",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Attitude",
+    "topic": "Tolerance, sympathy and mental health",
     "topics": [
-      "Attitude"
+      "Tolerance, sympathy and mental health"
     ],
     "subTopics": [
       "Tolerance, sympathy and mental health"
     ],
     "keyPointers": [
-      "The weak meet the state already afraid",
-      "A humiliating counter worsens the harm",
-      "Sympathy is seeing the person; tolerance is not punishing difference",
-      "The quality changes whether help is taken"
+      "Compassion",
+      "Emotional intelligence",
+      "Inequality",
+      "Welfare state"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A weaker section often meets the state already afraid",
+      "Tolerance stops a humiliation, and sympathy notices the distress",
+      "A civil servant without both can worsen the mental harm the scheme was meant to ease"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Mental health issues among the weaker sections are often compounded by social stigma, poverty, and systemic exclusion, requiring a highly empathetic administrative response.",
         "order": 1,
-        "cite": "4"
+        "text": "Mental health issues among the weaker sections are often compounded by social stigma, poverty, and systemic exclusion, requiring a highly empathetic administrative response."
       },
       {
         "section": "Body",
-        "text": "Tolerance allows an official to listen without judgment to the grievances of those traditionally ignored, creating a safe space for help-seeking behavior.",
         "order": 2,
-        "cite": "4"
+        "text": "Tolerance allows an official to listen without judgment to the grievances of those traditionally ignored, creating a safe space for help-seeking behavior."
       },
       {
         "section": "Body",
-        "text": "Sympathy (and more importantly, compassion) drives the official to proactively tailor welfare schemes to be accessible, reducing the anxiety of navigating complex bureaucracies.",
         "order": 3,
-        "cite": "4"
+        "text": "Sympathy (and more importantly, compassion) drives the official to proactively tailor welfare schemes to be accessible, reducing the anxiety of navigating complex bureaucracies."
       },
       {
         "section": "Conclusion",
-        "text": "When civil servants act with these qualities, they restore human dignity, which is the foundational first step in improving the mental well-being of the marginalized.",
         "order": 4,
-        "cite": "4"
+        "text": "When civil servants act with these qualities, they restore human dignity, which is the foundational first step in improving the mental well-being of the marginalized."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP4_17",
-    "paper_title": "GS Paper 4",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 17,
+    "year": 2025,
+    "paper_title": "GS Paper 4",
+    "q_number": "17",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "4",
-    "last_updated": 1747218000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 4",
     "question_text": "How can social influence and persuasion contribute to the success of \"Swachha Bharat Abhiyan\"? Give your objective suggestion.",
-    "subjectId": "cases",
+    "subjectId": "ethics",
     "subjects": [
-      "Case Studies"
+      "Ethics"
     ],
-    "topic": "Case Study",
+    "topic": "Persuasion and a clean street",
     "topics": [
-      "Case Study"
+      "Persuasion and a clean street"
     ],
     "subTopics": [
       "Persuasion and Swachh Bharat"
     ],
     "keyPointers": [
-      "A neighbour’s habit changes a habit",
-      "Pride, a visible clean lane and a local leader",
-      "Suggest: do not only fine; show and repeat",
-      "The campaign succeeds as a norm, not as a poster"
+      "Attitude",
+      "Education and social change",
+      "Compassion"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A fine can punish a litter",
+      "A neighbour, a child and a public example can make cleanliness expected",
+      "The suggestion is to use the example more than the threat"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The success of the Swachh Bharat Abhiyan depends on transforming a 'government scheme' into a 'people's movement' through large-scale behavioral change.",
         "order": 1,
-        "cite": "4"
+        "text": "The success of the Swachh Bharat Abhiyan depends on transforming a 'government scheme' into a 'people's movement' through large-scale behavioral change."
       },
       {
         "section": "Body",
-        "text": "Social influence is utilized by engaging local influencers (religious leaders, teachers) to make sanitation a 'social norm,' where open defecation becomes socially unacceptable.",
         "order": 2,
-        "cite": "4"
+        "text": "Social influence is utilized by engaging local influencers (religious leaders, teachers) to make sanitation a 'social norm,' where open defecation becomes socially unacceptable."
       },
       {
         "section": "Body",
-        "text": "Persuasion should focus on 'emotional appeals' (health of children, dignity of women) rather than just technical arguments about waste management.",
         "order": 3,
-        "cite": "4"
+        "text": "Persuasion should focus on 'emotional appeals' (health of children, dignity of women) rather than just technical arguments about waste management."
       },
       {
         "section": "Conclusion",
-        "text": "Institutionalizing 'Nudge' theories, like providing visual feedback or community rewards, can ensure that the initial behavioral shift becomes a permanent habit.",
         "order": 4,
-        "cite": "4"
+        "text": "Institutionalizing 'Nudge' theories, like providing visual feedback or community rewards, can ensure that the initial behavioral shift becomes a permanent habit."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP4_18",
-    "paper_title": "GS Paper 4",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 18,
+    "year": 2025,
+    "paper_title": "GS Paper 4",
+    "q_number": "18",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "4",
-    "last_updated": 1747228000,
+    "origin": "PYQ",
     "is_structured": 0,
-    "question_text": "Our attitude towards life, work, other people and society are generally shaped unconsciously by family and social surroundings in which we grow up. Some of these unconsciously acquired attitudes and values are often undesirable in the citizens of a modern democratic and egalitarian society.\n\n(a) Discuss such undesirable values prevalent in today's educated Indians.\n(b) How can such undesirable attitudes be changed and socio-ethical values considered necessary in public services be cultivated in the aspiring and serving public servant? Discuss.",
+    "cite": "UPPSC Mains 2025 GS Paper 4",
+    "question_text": "Our attitude towards life, work, other people and society are generally shaped unconsciously by family and social surroundings in which we grow up. Some of these unconsciously acquired attitudes and values are often undesirable in the citizens of a modern democratic and egalitarian society. (a) Discuss such undesirable values prevalent in today's educated Indians. (b) How can such undesirable attitudes be changed and socio-ethical values considered necessary in public services be cultivated in the aspiring and serving public servant? Discuss.",
     "subjectId": "ethics",
     "subjects": [
       "Ethics & Values"
@@ -1010,39 +997,40 @@
       "Unconscious attitudes"
     ],
     "keyPointers": [
-      "Family and the street teach a bias before the exam",
-      "The officer must notice it",
-      "Examination is the start of impartiality",
-      "What was absorbed can be reviewed"
+      "Attitude",
+      "Prejudice",
+      "Education and social change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The family and the street shape a view before the person chooses it",
+      "That unconscious shape can be examined",
+      "An attitude toward work and toward other people can change once it is seen"
+    ],
     "points": [
       {
-        "section": "General",
-        "text": "(a) Undesirable values among educated Indians often include persistent patriarchal mindsets, caste-based elitism, and communal biases that contradict the egalitarian principles of the Indian Constitution.",
+        "section": "Point",
         "order": 1,
-        "cite": "4"
+        "text": "(a) Undesirable values among educated Indians often include persistent patriarchal mindsets, caste-based elitism, and communal biases that contradict the egalitarian principles of the Indian Constitution."
       },
       {
-        "section": "General",
-        "text": "(b) Changing attitudes and cultivating values: These can be transformed through 'unlearning' sessions during professional training, exposure to diverse social realities (such as 'Bharat Darshan'), and the consistent reinforcement of constitutional morality in administrative culture.",
+        "section": "Point",
         "order": 2,
-        "cite": "4"
+        "text": "(b) Changing attitudes and cultivating values: These can be transformed through 'unlearning' sessions during professional training, exposure to diverse social realities (such as 'Bharat Darshan'), and the consistent reinforcement of constitutional morality in administrative culture."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP4_19",
-    "paper_title": "GS Paper 4",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 19,
+    "year": 2025,
+    "paper_title": "GS Paper 4",
+    "q_number": "19",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "4",
-    "last_updated": 1747218000,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2025 GS Paper 4",
     "question_text": "What do you understand by \"moral integrity\" and \"professional efficiency\" in the context of corporate governance in India? Discuss with suitable examples.",
     "subjectId": "ethics",
     "subjects": [
@@ -1056,52 +1044,52 @@
       "Integrity and efficiency in companies"
     ],
     "keyPointers": [
-      "Integrity is the books and the decision matching the stated value",
-      "Efficiency is doing the work well",
-      "One without the other is a fraud or a failure",
-      "Governance needs both in the board and the manager"
+      "Integrity",
+      "Corporate social responsibility",
+      "Probity",
+      "Accountability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Moral integrity is telling the truth about the account and the harm",
+      "Professional efficiency is doing the work well",
+      "A company can be efficient and still dishonest, so governance needs both"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Corporate governance in the 21st century requires a balance between generating profit (efficiency) and maintaining public trust (integrity).",
         "order": 1,
-        "cite": "4"
+        "text": "Corporate governance in the 21st century requires a balance between generating profit (efficiency) and maintaining public trust (integrity)."
       },
       {
         "section": "Body",
-        "text": "Moral integrity involves an unwavering commitment to honesty, even at the cost of short-term profits, ensuring that the firm remains accountable to all stakeholders.",
         "order": 2,
-        "cite": "4"
+        "text": "Moral integrity involves an unwavering commitment to honesty, even at the cost of short-term profits, ensuring that the firm remains accountable to all stakeholders."
       },
       {
         "section": "Body",
-        "text": "Professional efficiency is the ability to achieve organizational goals with minimal waste, exemplified by adopting lean manufacturing or innovative digital supply chains.",
         "order": 3,
-        "cite": "4"
+        "text": "Professional efficiency is the ability to achieve organizational goals with minimal waste, exemplified by adopting lean manufacturing or innovative digital supply chains."
       },
       {
         "section": "Conclusion",
-        "text": "The failure of companies like Satyam illustrates that efficiency without integrity leads to collapse, while integrity with efficiency creates sustainable market leadership.",
         "order": 4,
-        "cite": "4"
+        "text": "The failure of companies like Satyam illustrates that efficiency without integrity leads to collapse, while integrity with efficiency creates sustainable market leadership."
       }
     ]
   },
   {
     "uid": "UPPSC_2025_GSP4_20",
-    "paper_title": "GS Paper 4",
-    "year": 2025,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 20,
+    "year": 2025,
+    "paper_title": "GS Paper 4",
+    "q_number": "20",
     "marks": 15,
+    "word_limit": 250,
     "importance": 3,
-    "cite": "4",
-    "last_updated": 1747228000,
+    "origin": "PYQ",
     "is_structured": 0,
-    "question_text": "Case Study: You hold a responsible position in district. One day in the morning you received a call from the school of your 11-year-old son that you are required to come and meet the principal. You proceed to the school and find your son in the principal's office. The principal informs you that your son had been found wandering aimlessly in the ground during the time classes were in progress. The class teacher further informs you that your son has lately become a loner and did not respond to the questions in the class, he has also been unable to perform well in the football trials held recently. You bring your son back from the school and in the evening along with your wife try to find out the reasons for your son's changed behaviour. After repeated cajoling your son shares that some children had been making fun of him in the class as well as in the WhatsApp group of the student by calling him stunted, stupid and frog. He tells you the names of a few children who were the main culprits but pleaded with you to let the matter rest. After a few day, during a sporting event, where you and your wife have gone to watch your son play. One of your colleague's son shows you a video in which students have caricatured your son. Further he also points out to the perpetrators who were sitting in the stand. You purposefully walk past them with your son and go home. Next day you find on social media, a video denigrating you, your son and even your wife, stating that you were engaged in physical bullying of children on the sports field. The video became viral on social media. Your friend and colleagues began calling you to find out the details. One of your juniors advised you to make counter video giving the background and explaining that nothing had happened on the field. You, in turn posted a video which you have captured during the sports event, identifying the likely perpetrators who were responsible for son's predicament. You have also narrated what has actually happened in the field and made attempts to bring out the adverse effects of the misuse of social media.\n\n(a) Based on the above case study, discuss the ethical issues involved in the use of social media.\n(b) Discuss the pros and cons of using social media by you to put across facts to counter the fake propaganda against your family.",
+    "cite": "UPPSC Mains 2025 GS Paper 4",
+    "question_text": "Case Study: You hold a responsible position in district. One day in the morning you received a call from the school of your 11-year-old son that you are required to come and meet the principal. You proceed to the school and find your son in the principal's office. The principal informs you that your son had been found wandering aimlessly in the ground during the time classes were in progress. The class teacher further informs you that your son has lately become a loner and did not respond to the questions in the class, he has also been unable to perform well in the football trials held recently. You bring your son back from the school and in the evening along with your wife try to find out the reasons for your son's changed behaviour. After repeated cajoling your son shares that some children had been making fun of him in the class as well as in the WhatsApp group of the student by calling him stunted, stupid and frog. He tells you the names of a few children who were the main culprits but pleaded with you to let the matter rest. After a few day, during a sporting event, where you and your wife have gone to watch your son play. One of your colleague's son shows you a video in which students have caricatured your son. Further he also points out to the perpetrators who were sitting in the stand. You purposefully walk past them with your son and go home. Next day you find on social media, a video denigrating you, your son and even your wife, stating that you were engaged in physical bullying of children on the sports field. The video became viral on social media. Your friend and colleagues began calling you to find out the details. One of your juniors advised you to make counter video giving the background and explaining that nothing had happened on the field. You, in turn posted a video which you have captured during the sports event, identifying the likely perpetrators who were responsible for son's predicament. You have also narrated what has actually happened in the field and made attempts to bring out the adverse effects of the misuse of social media. (a) Based on the above case study, discuss the ethical issues involved in the use of social media. (b) Discuss the pros and cons of using social media by you to put across facts to counter the fake propaganda against your family.",
     "subjectId": "cases",
     "subjects": [
       "Case Studies"
@@ -1114,24 +1102,25 @@
       "A parent’s call during a public duty"
     ],
     "keyPointers": [
-      "The dilemma is the child against the post",
-      "Options: leave, delegate and stay, or go once the immediate public danger is held",
-      "A child in real danger is not a small private matter",
-      "Choose by the seriousness of each harm, and record the handover"
+      "Conflict of values",
+      "Integrity",
+      "Compassion"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The call from the child's school pulls against the duty of the post",
+      "The case is a private emergency inside a public day",
+      "The resolution has to meet the child and still leave the public work in responsible hands"
+    ],
     "points": [
       {
-        "section": "General",
-        "text": "(a) Ethical issues in social media use: The case highlights grave concerns such as cyber-bullying and caricaturing of a minor, the violation of privacy and human dignity, and the unethical spread of unverified, viral misinformation to damage a family's reputation.",
+        "section": "Point",
         "order": 1,
-        "cite": "4"
+        "text": "(a) Ethical issues in social media use: The case highlights grave concerns such as cyber-bullying and caricaturing of a minor, the violation of privacy and human dignity, and the unethical spread of unverified, viral misinformation to damage a family's reputation."
       },
       {
-        "section": "General",
-        "text": "(b) Countering propaganda via social media: The 'pros' include the ability to immediately reach the same audience with factual evidence to restore reputation. The 'cons' involve the risk of escalating the conflict, potentially exposing the juvenile perpetrators to digital vigilantism, and the ethical dilemma of a public servant bypassing formal institutional channels.",
+        "section": "Point",
         "order": 2,
-        "cite": "4"
+        "text": "(b) Countering propaganda via social media: The 'pros' include the ability to immediately reach the same audience with factual evidence to restore reputation. The 'cons' involve the risk of escalating the conflict, potentially exposing the juvenile perpetrators to digital vigilantism, and the ethical dilemma of a public servant bypassing formal institutional channels."
       }
     ]
   }

@@ -1,190 +1,187 @@
 [
   {
     "uid": "UPPSC_2021_GS2_Q1",
-    "paper_title": "General Studies Paper 2",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 1,
+    "year": 2021,
+    "paper_title": "GS Paper 2",
+    "q_number": "1",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
-    "last_updated": 1778949821,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
     "question_text": "Discuss the role of Non-Government Organizations in the process of Policy formulation.",
-    "subjectId": "constitution",
+    "subjectId": "governance",
     "subjects": [
-      "Constitution & Polity"
+      "Governance"
     ],
-    "topic": "Polity",
+    "topic": "NGOs and a policy",
     "topics": [
-      "Polity"
+      "NGOs and a policy"
     ],
     "subTopics": [
       "NGOs and policy formulation"
     ],
     "keyPointers": [
-      "They bring a ground fact into the draft",
-      "They advocate for those the file misses",
-      "They do not replace the elected government",
-      "Useful when the evidence is heard"
+      "Civil society and NGOs",
+      "Good governance",
+      "Accountability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A group outside government can bring a field fact into the draft",
+      "It can also watch whether the policy is kept",
+      "The role helps when the group is independent"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define Non-Governmental Organizations (NGOs) as independent civil society actors that bridge the gap between the state and the citizenry.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Define Non-Governmental Organizations (NGOs) as independent civil society actors that bridge the gap between the state and the citizenry."
       },
       {
         "section": "Body",
-        "text": "Discuss their role in agenda-setting: Highlighting grassroots issues, conducting independent research, and mobilizing public opinion to force legislative action (e.g., the role of MKSS in the enactment of the RTI Act).",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Discuss their role in agenda-setting: Highlighting grassroots issues, conducting independent research, and mobilizing public opinion to force legislative action (e.g., the role of MKSS in the enactment of the RTI Act)."
       },
       {
         "section": "Body",
-        "text": "Discuss their role in drafting and feedback: Participating in government committees, offering technical expertise, representing marginalized voices, and providing critical feedback on draft policies.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Discuss their role in drafting and feedback: Participating in government committees, offering technical expertise, representing marginalized voices, and providing critical feedback on draft policies."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that a healthy democracy requires the active collaboration of NGOs in policy-making to ensure policies are inclusive, pragmatic, and rights-based.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Conclude that a healthy democracy requires the active collaboration of NGOs in policy-making to ensure policies are inclusive, pragmatic, and rights-based."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS2_Q2",
-    "paper_title": "General Studies Paper 2",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 2,
+    "year": 2021,
+    "paper_title": "GS Paper 2",
+    "q_number": "2",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
-    "last_updated": 1778949821,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
     "question_text": "'Citizen charter in India could not become effective. There is a need to make it effective and meaningul'- Evaluate.",
-    "subjectId": "constitution",
+    "subjectId": "governance",
     "subjects": [
-      "Constitution & Polity"
+      "Governance"
     ],
-    "topic": "Constitution",
+    "topic": "Why the citizen charter stayed weak",
     "topics": [
-      "Constitution"
+      "Why the citizen charter stayed weak"
     ],
     "subTopics": [
       "Ineffective citizen’s charter"
     ],
     "keyPointers": [
-      "No remedy if the standard is missed",
-      "Many charters were written by the office for itself",
-      "Effective means a time, a person responsible and a consequence",
-      "The need is enforcement, not another document"
+      "Citizen charter",
+      "Accountability",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A promise of a service and a time was rarely enforceable",
+      "That is why it did not become effective",
+      "Making it meaningful needs a consequence when the time is missed"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define the Citizen's Charter as a voluntary and public declaration by a government department highlighting its standards of service delivery, transparency, and grievance redressal.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Define the Citizen's Charter as a voluntary and public declaration by a government department highlighting its standards of service delivery, transparency, and grievance redressal."
       },
       {
         "section": "Body",
-        "text": "Evaluate why it could not become effective: It lacks statutory backing (non-justiciable), is often drafted in a top-down manner without public consultation, suffers from poor design, and features weak internal grievance redressal mechanisms.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Evaluate why it could not become effective: It lacks statutory backing (non-justiciable), is often drafted in a top-down manner without public consultation, suffers from poor design, and features weak internal grievance redressal mechanisms."
       },
       {
         "section": "Body",
-        "text": "Evaluate how to make it effective: Implementing the 'Sevottam' model, providing legal backing (Right to Public Services legislation), ensuring regular third-party audits, and linking it directly to the performance appraisal of officials.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Evaluate how to make it effective: Implementing the 'Sevottam' model, providing legal backing (Right to Public Services legislation), ensuring regular third-party audits, and linking it directly to the performance appraisal of officials."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that shifting the Citizen's Charter from mere bureaucratic tokenism to a tool of statutory accountability is essential for good governance.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Conclude that shifting the Citizen's Charter from mere bureaucratic tokenism to a tool of statutory accountability is essential for good governance."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS2_Q3",
-    "paper_title": "General Studies Paper 2",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 3,
+    "year": 2021,
+    "paper_title": "GS Paper 2",
+    "q_number": "3",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
-    "last_updated": 1778949821,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
     "question_text": "How the issues related to hunger and poverty in India are impinging upon electoral politics?",
-    "subjectId": "constitution",
+    "subjectId": "society",
     "subjects": [
-      "Constitution & Polity"
+      "Indian Society"
     ],
-    "topic": "Federalism",
+    "topic": "Hunger inside an election",
     "topics": [
-      "Federalism"
+      "Hunger inside an election"
     ],
     "subTopics": [
       "Hunger, poverty and elections"
     ],
     "keyPointers": [
-      "A vote can be bought by a promise of grain or cash",
-      "The poor are a bloc and also easy to ignore between elections",
-      "Electoral politics both uses and answers the deprivation",
-      "Impinge means the issue shapes the campaign and the scheme"
+      "Poverty and nutrition",
+      "Food security",
+      "Welfare state"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A ration, a cash and a promise of a job become the campaign",
+      "Hunger pushes the voter toward a short relief",
+      "It impinges on politics because the empty kitchen is louder than a long reform"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Highlight that despite high GDP growth, significant segments of India's population remain trapped in poverty and hunger, fundamentally shaping the dynamics of electoral politics.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Highlight that despite high GDP growth, significant segments of India's population remain trapped in poverty and hunger, fundamentally shaping the dynamics of electoral politics."
       },
       {
         "section": "Body",
-        "text": "Discuss the rise of populism and 'freebie' culture: Political parties increasingly rely on short-term competitive populism—such as farm loan waivers, free electricity, and heavily subsidized food grains—to secure the votes of the socio-economically deprived.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Discuss the rise of populism and 'freebie' culture: Political parties increasingly rely on short-term competitive populism—such as farm loan waivers, free electricity, and heavily subsidized food grains—to secure the votes of the socio-economically deprived."
       },
       {
         "section": "Body",
-        "text": "Discuss the impact on development: This focus on immediate electoral dividends diverts crucial fiscal resources away from long-term capacity building (education, healthcare, infrastructure) and fosters a patron-client relationship (vote-bank politics) rather than true empowerment.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Discuss the impact on development: This focus on immediate electoral dividends diverts crucial fiscal resources away from long-term capacity building (education, healthcare, infrastructure) and fosters a patron-client relationship (vote-bank politics) rather than true empowerment."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that maturing Indian democracy requires a shift in political discourse from mere poverty alleviation via doles to structural poverty eradication.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Conclude that maturing Indian democracy requires a shift in political discourse from mere poverty alleviation via doles to structural poverty eradication."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS2_Q4",
-    "paper_title": "General Studies Paper 2",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 4,
+    "year": 2021,
+    "paper_title": "GS Paper 2",
+    "q_number": "4",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
-    "last_updated": 1778949821,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
     "question_text": "The Preamble of the Constitution affirms the basic features of the Constitution and the promotion of human dignity-Elucidate.",
     "subjectId": "constitution",
     "subjects": [
@@ -198,51 +195,50 @@
       "Preamble, basic features and dignity"
     ],
     "keyPointers": [
-      "Justice, liberty, equality and fraternity",
-      "Dignity of the person is the thread",
-      "Courts have read the Preamble as the spirit",
-      "It affirms; it does not itself confer a power"
+      "Rule of law",
+      "Welfare state",
+      "Basic structure"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The opening lines name justice, liberty, equality and dignity",
+      "Those are the basic features the rest of the text is meant to serve",
+      "Elucidate means showing how a later article tries to keep that promise"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Preamble as the philosophical key and identity card of the Indian Constitution, outlining the aspirations of the people and the nature of the state.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Introduce the Preamble as the philosophical key and identity card of the Indian Constitution, outlining the aspirations of the people and the nature of the state."
       },
       {
         "section": "Body",
-        "text": "Elucidate the affirmation of basic features: It declares India as a Sovereign, Socialist, Secular, Democratic Republic, which the Supreme Court (Kesavananda Bharati case) recognized as the unamendable basic structure.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Elucidate the affirmation of basic features: It declares India as a Sovereign, Socialist, Secular, Democratic Republic, which the Supreme Court (Kesavananda Bharati case) recognized as the unamendable basic structure."
       },
       {
         "section": "Body",
-        "text": "Elucidate the promotion of human dignity: It secures Justice (social, economic, political), Liberty of thought and expression, Equality of status and opportunity, and explicitly promotes Fraternity assuring the 'dignity of the individual'.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Elucidate the promotion of human dignity: It secures Justice (social, economic, political), Liberty of thought and expression, Equality of status and opportunity, and explicitly promotes Fraternity assuring the 'dignity of the individual'."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the Preamble is not merely an introduction, but the ultimate moral and constitutional yardstick by which all legislative and executive acts must be measured.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Conclude that the Preamble is not merely an introduction, but the ultimate moral and constitutional yardstick by which all legislative and executive acts must be measured."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS2_Q5",
-    "paper_title": "General Studies Paper 2",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 5,
+    "year": 2021,
+    "paper_title": "GS Paper 2",
+    "q_number": "5",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
-    "last_updated": 1778949821,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
     "question_text": "Describe the financial relations between the Centre and States in India.",
     "subjectId": "constitution",
     "subjects": [
@@ -256,225 +252,220 @@
       "Centre–state financial relations"
     ],
     "keyPointers": [
-      "A division of taxes and a grant",
-      "The Finance Commission is the constitutional channel",
-      "The Centre also controls many schemes",
-      "Relation is sharing plus dependence"
+      "Centre-state finance",
+      "Cooperative federalism",
+      "Federalism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The Union taxes the wider base and shares a part",
+      "A grant and a borrowing limit complete the relation",
+      "Money is how the federal bargain is lived"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce Centre-State financial relations as outlined in Part XII (Articles 268 to 293) of the Constitution, designed to balance federal autonomy with national macroeconomic stability.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Introduce Centre-State financial relations as outlined in Part XII (Articles 268 to 293) of the Constitution, designed to balance federal autonomy with national macroeconomic stability."
       },
       {
         "section": "Body",
-        "text": "Describe the allocation of taxing powers: The Union List contains broad-based taxes (income tax, corporate tax), while the State List contains localized taxes (state excise, land revenue). The GST Council now manages concurrent indirect taxation.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Describe the allocation of taxing powers: The Union List contains broad-based taxes (income tax, corporate tax), while the State List contains localized taxes (state excise, land revenue). The GST Council now manages concurrent indirect taxation."
       },
       {
         "section": "Body",
-        "text": "Describe distribution and grants: Net proceeds of certain taxes are distributed between the Centre and States based on the recommendations of the Finance Commission (Article 280). Additionally, the Centre provides statutory and discretionary grants-in-aid to states in need.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Describe distribution and grants: Net proceeds of certain taxes are distributed between the Centre and States based on the recommendations of the Finance Commission (Article 280). Additionally, the Centre provides statutory and discretionary grants-in-aid to states in need."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the Indian system has a strong centralizing fiscal tilt, making robust cooperative federalism and equitable Finance Commission awards critical for state development.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Conclude that the Indian system has a strong centralizing fiscal tilt, making robust cooperative federalism and equitable Finance Commission awards critical for state development."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS2_Q6",
-    "paper_title": "General Studies Paper 2",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 6,
+    "year": 2021,
+    "paper_title": "GS Paper 2",
+    "q_number": "6",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
-    "last_updated": 1778949821,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
     "question_text": "Critically examine the impact and role of Political parties in the Indian Political System.",
-    "subjectId": "governance",
+    "subjectId": "constitution",
     "subjects": [
-      "Governance"
+      "Constitution"
     ],
-    "topic": "Governance",
+    "topic": "Political parties",
     "topics": [
-      "Governance"
+      "Political parties"
     ],
     "subTopics": [
       "Political parties in India"
     ],
     "keyPointers": [
-      "They recruit, aggregate a demand and form the government",
-      "They also fragment, defect and capture the state",
-      "Role is necessary to a mass democracy",
-      "Critically: the party is both the link and the distortion"
+      "Parliamentary accountability",
+      "Good governance",
+      "Regionalism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "They recruit, campaign and then form or oppose a government",
+      "The role is necessary in this system",
+      "The impact includes a whip, a defection and a party that becomes a faction"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define political parties as organized groups that seek to capture political power through elections, forming the absolute lifeline of India's representative parliamentary democracy.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Define political parties as organized groups that seek to capture political power through elections, forming the absolute lifeline of India's representative parliamentary democracy."
       },
       {
         "section": "Body",
-        "text": "Examine their positive role: They mobilize public opinion, aggregate diverse social interests, form governments, provide constructive opposition, and act as a link between the government and the masses.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Examine their positive role: They mobilize public opinion, aggregate diverse social interests, form governments, provide constructive opposition, and act as a link between the government and the masses."
       },
       {
         "section": "Body",
-        "text": "Critically examine the negative impact: Increasing criminalization of politics, reliance on massive opaque funding (electoral bonds controversy), promotion of caste and religious polarization for vote banks, and a severe lack of intra-party democracy (dynastic politics).",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Critically examine the negative impact: Increasing criminalization of politics, reliance on massive opaque funding (electoral bonds controversy), promotion of caste and religious polarization for vote banks, and a severe lack of intra-party democracy (dynastic politics)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that comprehensive electoral reforms and transparency in party funding are urgently needed to cleanse the party system and strengthen Indian democracy.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Conclude that comprehensive electoral reforms and transparency in party funding are urgently needed to cleanse the party system and strengthen Indian democracy."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS2_Q7",
-    "paper_title": "General Studies Paper 2",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 7,
+    "year": 2021,
+    "paper_title": "GS Paper 2",
+    "q_number": "7",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
-    "last_updated": 1778949821,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
     "question_text": "Describe the role played by Parliamentary Committees in the functioning of Indian Parliament.",
-    "subjectId": "justice",
+    "subjectId": "constitution",
     "subjects": [
-      "Social Justice"
+      "Constitution"
     ],
-    "topic": "Social Justice",
+    "topic": "Parliamentary committees",
     "topics": [
-      "Social Justice"
+      "Parliamentary committees"
     ],
     "subTopics": [
       "Parliamentary committees"
     ],
     "keyPointers": [
-      "They examine a bill and a spend the floor cannot",
-      "Evidence and a report",
-      "Useful when the House takes the report",
-      "They are the working part of Parliament"
+      "Questions, debates and committees",
+      "Parliamentary accountability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A small group can read a bill and a spending the full House cannot",
+      "The role is scrutiny",
+      "Functioning improves when the House then uses the report"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Establish Parliamentary Committees as 'mini-parliaments' that conduct detailed, non-partisan scrutiny of legislative and executive actions, overcoming the time constraints of the general House.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Establish Parliamentary Committees as 'mini-parliaments' that conduct detailed, non-partisan scrutiny of legislative and executive actions, overcoming the time constraints of the general House."
       },
       {
         "section": "Body",
-        "text": "Describe the role in financial oversight: Financial committees like the Public Accounts Committee (PAC) and Estimates Committee ensure that executive expenditure aligns with parliamentary sanction and probes financial irregularities.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Describe the role in financial oversight: Financial committees like the Public Accounts Committee (PAC) and Estimates Committee ensure that executive expenditure aligns with parliamentary sanction and probes financial irregularities."
       },
       {
         "section": "Body",
-        "text": "Describe the role in legislative and administrative scrutiny: Department-Related Standing Committees (DRSCs) examine demads for grants, delve deep into complex bills with subject experts, and ensure continuous accountability of various ministries.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Describe the role in legislative and administrative scrutiny: Department-Related Standing Committees (DRSCs) examine demads for grants, delve deep into complex bills with subject experts, and ensure continuous accountability of various ministries."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that by fostering cross-party consensus and detailed technical evaluation, committees are the vital workhorses of the Indian Parliament.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Conclude that by fostering cross-party consensus and detailed technical evaluation, committees are the vital workhorses of the Indian Parliament."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS2_Q8",
-    "paper_title": "General Studies Paper 2",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 8,
+    "year": 2021,
+    "paper_title": "GS Paper 2",
+    "q_number": "8",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
-    "last_updated": 1778949821,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
     "question_text": "Comment ont the main theme of the G-20 Summit helf in 2021 (Rome).",
-    "subjectId": "justice",
+    "subjectId": "ir",
     "subjects": [
-      "Social Justice"
+      "International Relations"
     ],
-    "topic": "Social Justice",
+    "topic": "The 2021 G20 in Rome",
     "topics": [
-      "Social Justice"
+      "The 2021 G20 in Rome"
     ],
     "subTopics": [
       "G20 Rome 2021"
     ],
     "keyPointers": [
-      "People, planet, prosperity",
-      "Health after Covid and a climate commitment",
-      "Prosperity as a recovery that is not only for the rich",
-      "The theme was the recovery’s direction"
+      "Multilateralism",
+      "Inclusive growth",
+      "Sustainable development"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The meeting sat after the pandemic and talked of a recovery, a vaccine and a climate",
+      "The theme was a shared restart, not a new treaty",
+      "A comment has to separate the communique from what was actually done"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Contextualize the 2021 G-20 Summit held in Rome (Italy), which operated under the overarching theme of 'People, Planet, Prosperity'.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Contextualize the 2021 G-20 Summit held in Rome (Italy), which operated under the overarching theme of 'People, Planet, Prosperity'."
       },
       {
         "section": "Body",
-        "text": "Discuss 'People' and 'Planet': Focused on global health coordination post-COVID-19 (vaccine equity and pandemic preparedness) and aggressive climate change commitments, urging member nations to achieve net-zero emissions around mid-century.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Discuss 'People' and 'Planet': Focused on global health coordination post-COVID-19 (vaccine equity and pandemic preparedness) and aggressive climate change commitments, urging member nations to achieve net-zero emissions around mid-century."
       },
       {
         "section": "Body",
-        "text": "Discuss 'Prosperity': Addressed global economic recovery by endorsing a historic agreement on a global minimum corporate tax rate of 15% to prevent multinational tax evasion and ensure equitable fiscal recovery.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Discuss 'Prosperity': Addressed global economic recovery by endorsing a historic agreement on a global minimum corporate tax rate of 15% to prevent multinational tax evasion and ensure equitable fiscal recovery."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the Rome summit successfully realigned the priorities of major economies towards sustainable, resilient, and inclusive global multilateralism.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Conclude that the Rome summit successfully realigned the priorities of major economies towards sustainable, resilient, and inclusive global multilateralism."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS2_Q9",
-    "paper_title": "General Studies Paper 2",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 9,
+    "year": 2021,
+    "paper_title": "GS Paper 2",
+    "q_number": "9",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
-    "last_updated": 1778949821,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
     "question_text": "Discuss the role of Chinese factor behind strained relations between India and Nepal.",
     "subjectId": "ir",
     "subjects": [
@@ -488,109 +479,107 @@
       "China and India–Nepal strains"
     ],
     "keyPointers": [
-      "A neighbour courted by Beijing",
-      "A project, a border irritant and a political swing in Kathmandu",
-      "China is a factor, not the only cause",
-      "Discuss the triangle"
+      "India and China",
+      "Cross-border threats",
+      "Strategic autonomy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A larger neighbour's money and a project in Nepal changed the room India had",
+      "The strain is not only a map dispute",
+      "The Chinese factor is a third party inside a close relation"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Acknowledge the historically deep 'Roti-Beti' relationship between India and Nepal, which has recently experienced friction due to China's growing strategic footprint in Kathmandu.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Acknowledge the historically deep 'Roti-Beti' relationship between India and Nepal, which has recently experienced friction due to China's growing strategic footprint in Kathmandu."
       },
       {
         "section": "Body",
-        "text": "Discuss economic and infrastructural inroads: China's aggressive checkbook diplomacy, integrating Nepal into the Belt and Road Initiative (BRI), and building trans-Himalayan connectivity has reduced Nepal's traditional economic over-dependence on India.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Discuss economic and infrastructural inroads: China's aggressive checkbook diplomacy, integrating Nepal into the Belt and Road Initiative (BRI), and building trans-Himalayan connectivity has reduced Nepal's traditional economic over-dependence on India."
       },
       {
         "section": "Body",
-        "text": "Discuss political and strategic leverage: Nepal frequently plays the 'China card' to extract concessions from India. Alleged Chinese backing also emboldened Nepal's assertive stance on the Kalapani territorial dispute and the publication of its new political map in 2020.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Discuss political and strategic leverage: Nepal frequently plays the 'China card' to extract concessions from India. Alleged Chinese backing also emboldened Nepal's assertive stance on the Kalapani territorial dispute and the publication of its new political map in 2020."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that to counter the Chinese factor, India must focus on timely delivery of its own infrastructural commitments and leverage its shared cultural soft power.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Conclude that to counter the Chinese factor, India must focus on timely delivery of its own infrastructural commitments and leverage its shared cultural soft power."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS2_Q10",
-    "paper_title": "General Studies Paper 2",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 10,
+    "year": 2021,
+    "paper_title": "GS Paper 2",
+    "q_number": "10",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
-    "last_updated": 1778949821,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
     "question_text": "What are the major challenges before the revenue system of Uttar Pradesh?",
-    "subjectId": "ir",
+    "subjectId": "governance",
     "subjects": [
-      "International Relations"
+      "Governance"
     ],
-    "topic": "International Relations",
+    "topic": "The state's revenue system",
     "topics": [
-      "International Relations"
+      "The state's revenue system"
     ],
     "subTopics": [
       "Revenue system of UP"
     ],
     "keyPointers": [
-      "Land records, a mutation and a dispute",
-      "Collection and a staff under pressure",
-      "The challenge is a title the farmer can trust",
-      "Revenue is land administration, not only tax"
+      "Centre-state finance",
+      "Good governance",
+      "Fiscal deficit"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A land record, a stamp and a tax that is not collected are the challenges",
+      "The system is old in its papers and weak in its enforcement",
+      "A challenge is a receipt that does not match the activity"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce Uttar Pradesh as India's most populous state, requiring immense fiscal resources, yet facing chronic challenges in maximizing its Own Tax Revenues (OTR).",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Introduce Uttar Pradesh as India's most populous state, requiring immense fiscal resources, yet facing chronic challenges in maximizing its Own Tax Revenues (OTR)."
       },
       {
         "section": "Body",
-        "text": "Discuss structural challenges: A massively large informal economy and an agrarian-heavy economic base (where agricultural income is untaxed) severely limit the direct tax net.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Discuss structural challenges: A massively large informal economy and an agrarian-heavy economic base (where agricultural income is untaxed) severely limit the direct tax net."
       },
       {
         "section": "Body",
-        "text": "Discuss administrative and dependency challenges: High instances of tax evasion, litigation pendency, and administrative bottlenecks. Consequently, the state remains overly dependent on the devolution of Central taxes and grants-in-aid.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Discuss administrative and dependency challenges: High instances of tax evasion, litigation pendency, and administrative bottlenecks. Consequently, the state remains overly dependent on the devolution of Central taxes and grants-in-aid."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that expanding the formal industrial base, leveraging technology for tax compliance, and rationalizing excise policies are necessary to secure fiscal self-reliance.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Conclude that expanding the formal industrial base, leveraging technology for tax compliance, and rationalizing excise policies are necessary to secure fiscal self-reliance."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS2_Q11",
-    "paper_title": "General Studies Paper 2",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 11,
+    "year": 2021,
+    "paper_title": "GS Paper 2",
+    "q_number": "11",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
-    "last_updated": 1778949821,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
     "question_text": "Discuss the role of Civil Services in a democratic set-up with special reference to India.",
     "subjectId": "constitution",
     "subjects": [
@@ -604,109 +593,108 @@
       "Civil services in Indian democracy"
     ],
     "keyPointers": [
-      "They carry out the elected policy lawfully",
-      "Neutrality keeps the state from becoming one party’s machine",
-      "They also advise and record",
-      "The role is service to the decision, not a substitute for it"
+      "Dedication to public service",
+      "Impartiality",
+      "Good governance",
+      "Integrity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A permanent service carries a policy across elections",
+      "In a democracy it must advise and then obey a lawful order",
+      "The role fails when the servant becomes a political agent"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Civil Services as the permanent executive, famously termed the 'Steel Frame of India' by Sardar Patel, essential for translating democratic mandates into actionable governance.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Introduce the Civil Services as the permanent executive, famously termed the 'Steel Frame of India' by Sardar Patel, essential for translating democratic mandates into actionable governance."
       },
       {
         "section": "Body",
-        "text": "Discuss the role in policy formulation and execution: Civil servants provide crucial technical and administrative expertise to the political executive for drafting policies, and are the primary agents for implementing welfare schemes on the ground.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Discuss the role in policy formulation and execution: Civil servants provide crucial technical and administrative expertise to the political executive for drafting policies, and are the primary agents for implementing welfare schemes on the ground."
       },
       {
         "section": "Body",
-        "text": "Discuss the role in stability and integration: They provide administrative continuity during political transitions, ensure the rule of law (law and order), and through the All India Services (IAS, IPS), act as a strong unifying force bridging the Centre and States.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Discuss the role in stability and integration: They provide administrative continuity during political transitions, ensure the rule of law (law and order), and through the All India Services (IAS, IPS), act as a strong unifying force bridging the Centre and States."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while they are the bedrock of Indian administration, continuous reforms (like lateral entry and domain specialization) are needed to counter bureaucratic inertia and meet 21st-century challenges.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Conclude that while they are the bedrock of Indian administration, continuous reforms (like lateral entry and domain specialization) are needed to counter bureaucratic inertia and meet 21st-century challenges."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS2_Q12",
-    "paper_title": "General Studies Paper 2",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 12,
+    "year": 2021,
+    "paper_title": "GS Paper 2",
+    "q_number": "12",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
-    "last_updated": 1778949821,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
     "question_text": "Describing the composition and functions of the Central Vigilance Commission, analyse It's limitation.",
-    "subjectId": "constitution",
+    "subjectId": "governance",
     "subjects": [
-      "Constitution & Polity"
+      "Governance"
     ],
-    "topic": "Federalism",
+    "topic": "The vigilance commission",
     "topics": [
-      "Federalism"
+      "The vigilance commission"
     ],
     "subTopics": [
       "Central Vigilance Commission"
     ],
     "keyPointers": [
-      "It supervises vigilance against corruption in the Union",
-      "Composition is meant to be independent",
-      "Functions: advice, a inquiry and an oversight",
-      "Limitation: advice is not always a binding punishment"
+      "Accountability",
+      "Corruption",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It watches corruption in the central services and advises on a vigilance case",
+      "Composition is a small appointed body",
+      "The limitation is that it advises, and it does not itself punish"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Central Vigilance Commission (CVC) as the apex vigilance institution created on the recommendations of the Santhanam Committee to combat corruption in government administration.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Introduce the Central Vigilance Commission (CVC) as the apex vigilance institution created on the recommendations of the Santhanam Committee to combat corruption in government administration."
       },
       {
         "section": "Body",
-        "text": "Describe composition and functions: It comprises a Central Vigilance Commissioner and up to two Vigilance Commissioners. Its functions include exercising superintendence over the CBI in cases related to the Prevention of Corruption Act, reviewing the progress of investigations, and advising the central government on vigilance matters.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Describe composition and functions: It comprises a Central Vigilance Commissioner and up to two Vigilance Commissioners. Its functions include exercising superintendence over the CBI in cases related to the Prevention of Corruption Act, reviewing the progress of investigations, and advising the central government on vigilance matters."
       },
       {
         "section": "Body",
-        "text": "Analyse its limitations: The CVC is often criticized as a 'toothless tiger' because its role is largely advisory. It lacks its own independent investigative machinery (relying heavily on the CBI or departmental vigilance officers), and it does not have jurisdiction over political executives or the private sector.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Analyse its limitations: The CVC is often criticized as a 'toothless tiger' because its role is largely advisory. It lacks its own independent investigative machinery (relying heavily on the CBI or departmental vigilance officers), and it does not have jurisdiction over political executives or the private sector."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while the CVC acts as a vital oversight mechanism, it requires greater statutory empowerment and independent investigative resources to function as a truly formidable anti-corruption ombudsman.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Conclude that while the CVC acts as a vital oversight mechanism, it requires greater statutory empowerment and independent investigative resources to function as a truly formidable anti-corruption ombudsman."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS2_Q13",
-    "paper_title": "General Studies Paper 2",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 13,
+    "year": 2021,
+    "paper_title": "GS Paper 2",
+    "q_number": "13",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
-    "last_updated": 1778949821,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
     "question_text": "Mahatma Gandhi National Rural Employment Guarantee Act empowers rural poor to alleviate poverty, comment on it.",
     "subjectId": "governance",
     "subjects": [
@@ -720,283 +708,278 @@
       "MGNREGA and rural poverty"
     ],
     "keyPointers": [
-      "A legal right to work and a wage",
-      "It steadies a lean season",
-      "Empowerment is the wage in the worker’s hand",
-      "Comment: it alleviates, it does not by itself end poverty"
+      "Inclusive growth",
+      "Poverty and nutrition",
+      "Welfare state",
+      "Unemployment"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A guaranteed day of work is an income when the farm has none",
+      "It empowers by making the work a right, not a favour",
+      "The comment has to include a late wage and a work that is sometimes only on paper"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce MGNREGA as a paradigm shift in welfare schemes, transitioning from a dole-based approach to a rights-based framework guaranteeing 100 days of wage employment to rural households.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Introduce MGNREGA as a paradigm shift in welfare schemes, transitioning from a dole-based approach to a rights-based framework guaranteeing 100 days of wage employment to rural households."
       },
       {
         "section": "Body",
-        "text": "Comment on poverty alleviation and empowerment: It directly addresses rural poverty by providing a minimum guaranteed income, forcing upward pressure on general agricultural wages. It empowers women significantly (mandating 33% female participation) and fosters financial inclusion through bank/post-office wage transfers.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Comment on poverty alleviation and empowerment: It directly addresses rural poverty by providing a minimum guaranteed income, forcing upward pressure on general agricultural wages. It empowers women significantly (mandating 33% female participation) and fosters financial inclusion through bank/post-office wage transfers."
       },
       {
         "section": "Body",
-        "text": "Comment on structural benefits and challenges: It helps build durable rural assets (water conservation, afforestation) and crucially curbs distress rural-to-urban migration (proven during the COVID-19 lockdown). However, issues like delayed wage payments, fake job cards, and inadequate budget allocations persist.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Comment on structural benefits and challenges: It helps build durable rural assets (water conservation, afforestation) and crucially curbs distress rural-to-urban migration (proven during the COVID-19 lockdown). However, issues like delayed wage payments, fake job cards, and inadequate budget allocations persist."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that despite implementation hurdles, MGNREGA remains India's most critical social safety net, acting as an indispensable tool for rural economic resilience.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Conclude that despite implementation hurdles, MGNREGA remains India's most critical social safety net, acting as an indispensable tool for rural economic resilience."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS2_Q14",
-    "paper_title": "General Studies Paper 2",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 14,
+    "year": 2021,
+    "paper_title": "GS Paper 2",
+    "q_number": "14",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
-    "last_updated": 1778949821,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
     "question_text": "'The structure of the Indian Constitution is federal but its soul in Unitary.' Elucidate it.",
-    "subjectId": "justice",
+    "subjectId": "constitution",
     "subjects": [
-      "Social Justice"
+      "Constitution"
     ],
-    "topic": "Social Justice",
+    "topic": "Federal in form, unitary in stress",
     "topics": [
-      "Social Justice"
+      "Federal in form, unitary in stress"
     ],
     "subTopics": [
       "Federal structure, unitary soul"
     ],
     "keyPointers": [
-      "A division of powers looks federal",
-      "Emergencies, the governor and a single citizenship pull to the Centre",
-      "Elucidate both halves",
-      "The design chose unity inside a federal frame"
+      "Federalism",
+      "Cooperative federalism",
+      "Centre-state finance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A state list and a council look federal",
+      "An emergency, a governor and a strong financial Centre pull the other way",
+      "Soul is a judgement about where the real power sits"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Analyze K.C. Wheare's description of India as a 'quasi-federal' state, possessing a federal structure but featuring a strong centralizing bias to ensure national unity.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Analyze K.C. Wheare's description of India as a 'quasi-federal' state, possessing a federal structure but featuring a strong centralizing bias to ensure national unity."
       },
       {
         "section": "Body",
-        "text": "Elucidate the Federal Structure: The Constitution establishes dual polity (Centre and States), a written constitution, a rigid amendment process for federal provisions, a clear division of powers (Schedule VII), and an independent judiciary to resolve disputes.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Elucidate the Federal Structure: The Constitution establishes dual polity (Centre and States), a written constitution, a rigid amendment process for federal provisions, a clear division of powers (Schedule VII), and an independent judiciary to resolve disputes."
       },
       {
         "section": "Body",
-        "text": "Elucidate the Unitary Soul: The Centre holds overriding powers through Emergency provisions (Articles 352, 356, 360), residuary powers, the power to alter state boundaries (Article 3), the appointment of Governors, All-India Services, and a single integrated judiciary and citizenship.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Elucidate the Unitary Soul: The Centre holds overriding powers through Emergency provisions (Articles 352, 356, 360), residuary powers, the power to alter state boundaries (Article 3), the appointment of Governors, All-India Services, and a single integrated judiciary and citizenship."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that this sui generis (unique) arrangement was deliberately designed by the framers to accommodate India's vast diversity while guarding against balkanization.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Conclude that this sui generis (unique) arrangement was deliberately designed by the framers to accommodate India's vast diversity while guarding against balkanization."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS2_Q15",
-    "paper_title": "General Studies Paper 2",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 15,
+    "year": 2021,
+    "paper_title": "GS Paper 2",
+    "q_number": "15",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
-    "last_updated": 1778949821,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
     "question_text": "Discuss the main methods by which the Parliament of India controls the executive.",
-    "subjectId": "governance",
+    "subjectId": "constitution",
     "subjects": [
-      "Governance"
+      "Constitution"
     ],
-    "topic": "Elections",
+    "topic": "How Parliament holds the executive",
     "topics": [
-      "Elections"
+      "How Parliament holds the executive"
     ],
     "subTopics": [
       "Parliamentary control of the executive"
     ],
     "keyPointers": [
-      "Questions, a debate, a cut motion and a no-confidence",
-      "Committees examine the spend",
-      "Control is continuous, not only the fall of a government",
-      "The methods work if the House uses them"
+      "Parliamentary accountability",
+      "Questions, debates and committees"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A question, a debate, a cut motion and a committee are the methods",
+      "Control is information and a vote",
+      "It works when the majority is willing to use it"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Establish that the Indian parliamentary system is founded on the bedrock principle of the collective responsibility of the Executive to the Legislature (Article 75).",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Establish that the Indian parliamentary system is founded on the bedrock principle of the collective responsibility of the Executive to the Legislature (Article 75)."
       },
       {
         "section": "Body",
-        "text": "Discuss procedural and legislative methods: Parliament controls the executive through mechanisms like Question Hour, Zero Hour, Calling Attention motions, and Adjournment motions, which force the government to explain its policies and actions.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Discuss procedural and legislative methods: Parliament controls the executive through mechanisms like Question Hour, Zero Hour, Calling Attention motions, and Adjournment motions, which force the government to explain its policies and actions."
       },
       {
         "section": "Body",
-        "text": "Discuss financial and survival methods: The executive cannot spend money without parliamentary approval (budget passage). Financial committees (PAC, Estimates) ensure post-expenditure accountability. Ultimately, the Lok Sabha can remove the executive at any time by passing a No-Confidence Motion.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Discuss financial and survival methods: The executive cannot spend money without parliamentary approval (budget passage). Financial committees (PAC, Estimates) ensure post-expenditure accountability. Ultimately, the Lok Sabha can remove the executive at any time by passing a No-Confidence Motion."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while these tools provide a robust framework for accountability, their effectiveness is sometimes diluted by brute majority governments and the use of the anti-defection law.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Conclude that while these tools provide a robust framework for accountability, their effectiveness is sometimes diluted by brute majority governments and the use of the anti-defection law."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS2_Q16",
-    "paper_title": "General Studies Paper 2",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 16,
+    "year": 2021,
+    "paper_title": "GS Paper 2",
+    "q_number": "16",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
-    "last_updated": 1778949821,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
     "question_text": "Analyse the problems that have restricted the successes of Panchayati Raj System in India. How far has the seventy third Constitutional Amendment been successful in countering these problems?",
-    "subjectId": "ir",
+    "subjectId": "governance",
     "subjects": [
-      "International Relations"
+      "Governance"
     ],
-    "topic": "International Relations",
+    "topic": "Why panchayats stayed weak",
     "topics": [
-      "International Relations"
+      "Why panchayats stayed weak"
     ],
     "subTopics": [
       "Limits of panchayati raj"
     ],
     "keyPointers": [
-      "Funds, functions and staff did not fully arrive",
-      "A captured sabha and a proxy",
-      "Recent steps on money and reservation helped some",
-      "Success is still partial"
+      "73rd and 74th Amendments",
+      "Local body finance",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A missing fund, a function kept by the state and a captured election are the problems",
+      "The amendment made the body constitutional",
+      "How far it succeeded depends on whether the money and the staff followed"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Panchayati Raj System (PRS) as the mechanism for democratic decentralization, given constitutional status by the 73rd Constitutional Amendment Act (1992).",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Introduce the Panchayati Raj System (PRS) as the mechanism for democratic decentralization, given constitutional status by the 73rd Constitutional Amendment Act (1992)."
       },
       {
         "section": "Body",
-        "text": "Analyse the restricting problems: The \"3Fs\" crisis—lack of Funds (poor internal tax generation, over-reliance on state grants), lack of Functions (reluctance of state governments to devolve powers), and lack of Functionaries (inadequate technical staff). Additionally, social issues like 'Sarpanch Pati' (proxy leadership) undermine women's empowerment.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Analyse the restricting problems: The \"3Fs\" crisis—lack of Funds (poor internal tax generation, over-reliance on state grants), lack of Functions (reluctance of state governments to devolve powers), and lack of Functionaries (inadequate technical staff). Additionally, social issues like 'Sarpanch Pati' (proxy leadership) undermine women's empowerment."
       },
       {
         "section": "Body",
-        "text": "Evaluate the success of the 73rd CAA: It countered arbitrary dismissals by mandating regular 5-year elections via State Election Commissions. It successfully enforced political inclusion by mandating one-third reservations for women and proportionate reservations for SCs/STs, ensuring grassroots political participation.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Evaluate the success of the 73rd CAA: It countered arbitrary dismissals by mandating regular 5-year elections via State Election Commissions. It successfully enforced political inclusion by mandating one-third reservations for women and proportionate reservations for SCs/STs, ensuring grassroots political participation."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while the 73rd CAA was a watershed for political empowerment, true administrative and financial decentralization still requires stronger political will from state governments.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Conclude that while the 73rd CAA was a watershed for political empowerment, true administrative and financial decentralization still requires stronger political will from state governments."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS2_Q17",
-    "paper_title": "General Studies Paper 2",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 17,
+    "year": 2021,
+    "paper_title": "GS Paper 2",
+    "q_number": "17",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
-    "last_updated": 1778949821,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
     "question_text": "Examine the role of the Comptroller and Auditor General (CAG) in India as the costodian of public money.",
-    "subjectId": "up-polity",
+    "subjectId": "constitution",
     "subjects": [
-      "UP Polity & Welfare"
+      "Constitution"
     ],
-    "topic": "UP Polity",
+    "topic": "The Comptroller and Auditor General",
     "topics": [
-      "UP Polity"
+      "The Comptroller and Auditor General"
     ],
     "subTopics": [
       "Comptroller and Auditor General"
     ],
     "keyPointers": [
-      "Audits the Union and the states",
-      "Reports to the legislature",
-      "Custodian by examination, not by spending",
-      "The role is an account that cannot be quietly buried"
+      "Accountability",
+      "Good governance",
+      "Centre-state finance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The office audits how public money was spent",
+      "Custodian means a report the legislature can then use",
+      "The role stops at the audit; it does not recover the money"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Comptroller and Auditor General (CAG) under Article 148, described by Dr. B.R. Ambedkar as the most important officer in the Constitution, acting as the guardian of the national purse.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Introduce the Comptroller and Auditor General (CAG) under Article 148, described by Dr. B.R. Ambedkar as the most important officer in the Constitution, acting as the guardian of the national purse."
       },
       {
         "section": "Body",
-        "text": "Examine the auditing role: The CAG audits all receipts and expenditures from the Consolidated Fund, Contingency Fund, and Public Account of both the Centre and the States, ensuring financial propriety, legality, and checking for leakages or scams.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Examine the auditing role: The CAG audits all receipts and expenditures from the Consolidated Fund, Contingency Fund, and Public Account of both the Centre and the States, ensuring financial propriety, legality, and checking for leakages or scams."
       },
       {
         "section": "Body",
-        "text": "Examine the accountability linkage: By conducting performance and compliance audits, the CAG submits reports to the President/Governor, which are then scrutinized by the Public Accounts Committee (PAC). This completes the circle of parliamentary control over the executive.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Examine the accountability linkage: By conducting performance and compliance audits, the CAG submits reports to the President/Governor, which are then scrutinized by the Public Accounts Committee (PAC). This completes the circle of parliamentary control over the executive."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the CAG's independent functioning is vital for upholding financial transparency, deterring corruption, and enforcing accountability in public administration.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Conclude that the CAG's independent functioning is vital for upholding financial transparency, deterring corruption, and enforcing accountability in public administration."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS2_Q18",
-    "paper_title": "General Studies Paper 2",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 18,
+    "year": 2021,
+    "paper_title": "GS Paper 2",
+    "q_number": "18",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
-    "last_updated": 1778949821,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
     "question_text": "Write a short note on the structure and functioning of the Arctic Council.",
     "subjectId": "ir",
     "subjects": [
@@ -1010,152 +993,146 @@
       "Arctic Council"
     ],
     "keyPointers": [
-      "States of the Arctic, plus observers",
-      "It works on environment and the people of the region, not as a military body",
-      "Function is cooperation by consensus",
-      "India sits as an observer"
+      "Multilateralism",
+      "Strategic autonomy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "States with a stake in the far north sit together on environment, a shipping and a research",
+      "The structure is a council, not a military pact",
+      "Functioning is by consensus, which is also its limit"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Arctic Council as a leading high-level intergovernmental forum established in 1996 to address issues faced by Arctic governments and the indigenous people of the region.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Introduce the Arctic Council as a leading high-level intergovernmental forum established in 1996 to address issues faced by Arctic governments and the indigenous people of the region."
       },
       {
         "section": "Body",
-        "text": "Detail the structure: It comprises eight member states (including the USA, Russia, Canada, and Nordic countries), Permanent Participants representing indigenous organizations, and Observer States (like India and China) who contribute to working groups.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Detail the structure: It comprises eight member states (including the USA, Russia, Canada, and Nordic countries), Permanent Participants representing indigenous organizations, and Observer States (like India and China) who contribute to working groups."
       },
       {
         "section": "Body",
-        "text": "Detail the functioning: It operates by consensus and primarily focuses on environmental protection, climate change research, and sustainable development. Crucially, it has no programming budget and explicitly excludes military and security matters from its mandate.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Detail the functioning: It operates by consensus and primarily focuses on environmental protection, climate change research, and sustainable development. Crucially, it has no programming budget and explicitly excludes military and security matters from its mandate."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that as melting ice opens new shipping routes and resource extraction possibilities, the Council's role is becoming increasingly critical for peaceful geopolitical management of the Arctic.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Conclude that as melting ice opens new shipping routes and resource extraction possibilities, the Council's role is becoming increasingly critical for peaceful geopolitical management of the Arctic."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS2_Q19",
-    "paper_title": "General Studies Paper 2",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 19,
+    "year": 2021,
+    "paper_title": "GS Paper 2",
+    "q_number": "19",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
-    "last_updated": 1778949821,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
     "question_text": "Evaluate the reasons of India's 'Soft Power' diplomacy in Afghanistan.",
-    "subjectId": "governance",
+    "subjectId": "ir",
     "subjects": [
-      "Governance"
+      "International Relations"
     ],
-    "topic": "Governance",
+    "topic": "Soft power in Afghanistan",
     "topics": [
-      "Governance"
+      "Soft power in Afghanistan"
     ],
     "subTopics": [
       "India’s soft power in Afghanistan"
     ],
     "keyPointers": [
-      "Projects, scholarships and a hospital rather than troops",
-      "A goodwill that does not look like occupation",
-      "Reasons: access, stability and a people-to-people tie",
-      "Soft power was the possible instrument"
+      "Strategic autonomy",
+      "Trade and foreign policy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A road, a hospital, a scholarship and a dam were the instruments",
+      "The reason was a neighbour's stability and a goodwill without a large troop",
+      "Soft power was chosen because a hard presence was not the aim"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Contextualize India's historical approach in Afghanistan, characterized by a deliberate avoidance of military intervention in favor of immense development assistance and 'soft power' diplomacy.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Contextualize India's historical approach in Afghanistan, characterized by a deliberate avoidance of military intervention in favor of immense development assistance and 'soft power' diplomacy."
       },
       {
         "section": "Body",
-        "text": "Evaluate the strategic reasons: India sought to build deep grassroots goodwill among the Afghan people to counter Pakistan's attempt to use Afghanistan for 'strategic depth'. It also wanted to avoid being perceived as an occupying force in the 'graveyard of empires'.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Evaluate the strategic reasons: India sought to build deep grassroots goodwill among the Afghan people to counter Pakistan's attempt to use Afghanistan for 'strategic depth'. It also wanted to avoid being perceived as an occupying force in the 'graveyard of empires'."
       },
       {
         "section": "Body",
-        "text": "Evaluate the execution: India invested billions in capacity building, education scholarships, and mega-infrastructure projects like the Afghan Parliament building, the Salma Dam (Afghan-India Friendship Dam), and the Zaranj-Delaram highway.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Evaluate the execution: India invested billions in capacity building, education scholarships, and mega-infrastructure projects like the Afghan Parliament building, the Salma Dam (Afghan-India Friendship Dam), and the Zaranj-Delaram highway."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while this soft power generated immense strategic goodwill, the 2021 Taliban takeover exposed the limitations of soft power when unsupported by hard security leverage.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Conclude that while this soft power generated immense strategic goodwill, the 2021 Taliban takeover exposed the limitations of soft power when unsupported by hard security leverage."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS2_Q20",
-    "paper_title": "General Studies Paper 2",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 20,
+    "year": 2021,
+    "paper_title": "GS Paper 2",
+    "q_number": "20",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 2",
-    "last_updated": 1778949821,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 2",
     "question_text": "Abraham Accords are a new beginning in the Politics of West Asia. Explain.",
-    "subjectId": "justice",
+    "subjectId": "ir",
     "subjects": [
-      "Social Justice"
+      "International Relations"
     ],
-    "topic": "Social Justice",
+    "topic": "The Abraham Accords",
     "topics": [
-      "Social Justice"
+      "The Abraham Accords"
     ],
     "subTopics": [
       "Abraham Accords"
     ],
     "keyPointers": [
-      "Arab states normalising with Israel",
-      "A shift from the old refusal",
-      "New alignments around security and the economy",
-      "A beginning, not the end of the Palestinian question"
+      "Strategic autonomy",
+      "Trade and foreign policy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Some Arab states opened relations with Israel",
+      "A new beginning is the claim that an old refusal was set aside",
+      "West Asian politics still has the conflicts the accords did not touch"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Abraham Accords (2020) as a series of US-brokered diplomatic normalization agreements between Israel and several Arab nations, including the UAE, Bahrain, and Morocco.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Introduce the Abraham Accords (2020) as a series of US-brokered diplomatic normalization agreements between Israel and several Arab nations, including the UAE, Bahrain, and Morocco."
       },
       {
         "section": "Body",
-        "text": "Explain why it is a new beginning geopolitically: It shattered the long-standing Arab consensus that normalization with Israel was contingent on the establishment of an independent Palestinian state, signaling a pragmatic shift from ideological conflict to strategic realism.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Explain why it is a new beginning geopolitically: It shattered the long-standing Arab consensus that normalization with Israel was contingent on the establishment of an independent Palestinian state, signaling a pragmatic shift from ideological conflict to strategic realism."
       },
       {
         "section": "Body",
-        "text": "Explain the economic and strategic shifts: The accords focus heavily on technological cooperation, trade, and defense intelligence sharing, creating a unified regional bloc to counter the perceived mutual threat of Iranian hegemony.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Explain the economic and strategic shifts: The accords focus heavily on technological cooperation, trade, and defense intelligence sharing, creating a unified regional bloc to counter the perceived mutual threat of Iranian hegemony."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that this realignment has reshaped the Middle East's security architecture, also providing India with new multilateral engagement opportunities (such as the I2U2 grouping).",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 2"
+        "text": "Conclude that this realignment has reshaped the Middle East's security architecture, also providing India with new multilateral engagement opportunities (such as the I2U2 grouping)."
       }
     ]
   }

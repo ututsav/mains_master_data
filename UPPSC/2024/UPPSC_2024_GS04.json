@@ -1,16 +1,16 @@
 [
   {
     "uid": "UPPSC_2024_GSP4_01",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 1,
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "1",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
     "question_text": "Examine the role of the following in the context of civil service. A) Moral code of conduct B) Work culture (125 words)",
     "subjectId": "ethics",
     "subjects": [
@@ -24,179 +24,175 @@
       "Conduct code and work culture"
     ],
     "keyPointers": [
-      "A code sets what must not be done",
-      "Work culture is how the office actually behaves",
-      "Both shape the servant",
-      "A code without the culture is a poster"
+      "Law and ethics",
+      "Integrity",
+      "Probity",
+      "Dedication to public service"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A moral code tells the servant what must not be done even when no rule is watching",
+      "Work culture is how the office actually behaves every day",
+      "Both shape the service, and a code without a culture stays on the wall"
+    ],
     "points": [
       {
-        "section": "Body",
-        "text": "Role of Moral Code of Conduct: Translates core constitutional values into operational guidance, setting an absolute ethical floor for administrative actions to prevent conflicts of interest, reduce executive bias, and preserve public confidence in institutional integrity.",
+        "section": "Point",
         "order": 1,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Role of Moral Code of Conduct: Translates core constitutional values into operational guidance, setting an absolute ethical floor for administrative actions to prevent conflicts of interest, reduce executive bias, and preserve public confidence in institutional integrity."
       },
       {
-        "section": "Body",
-        "text": "Impact on Bureaucratic Discretion: Functions as a internal self-regulatory compass for civil servants when faced with legislative gaps or multi-stakeholder ethical dilemmas, ensuring public welfare is prioritized over private interests.",
+        "section": "Point",
         "order": 2,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Impact on Bureaucratic Discretion: Functions as a internal self-regulatory compass for civil servants when faced with legislative gaps or multi-stakeholder ethical dilemmas, ensuring public welfare is prioritized over private interests."
       },
       {
-        "section": "Body",
-        "text": "Role of Work Culture: Establishes the shared psychological environment, operational norms, and values that govern internal file-processing velocity, grievance responsiveness, and overall public service efficiency.",
+        "section": "Point",
         "order": 3,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Role of Work Culture: Establishes the shared psychological environment, operational norms, and values that govern internal file-processing velocity, grievance responsiveness, and overall public service efficiency."
       },
       {
-        "section": "Body",
-        "text": "Impact on Citizen-Centric Delivery: Shifting the administrative culture away from rigid, rule-bound red-tapism toward an empathetic, output-driven mindset directly boosts public service delivery and accountability.",
+        "section": "Point",
         "order": 4,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Impact on Citizen-Centric Delivery: Shifting the administrative culture away from rigid, rule-bound red-tapism toward an empathetic, output-driven mindset directly boosts public service delivery and accountability."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP4_02",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 2,
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "2",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
     "question_text": "How far the views of Swami Vivekananda's are successful in developing the core ideals and values of morality in human behaviours? Discuss. (125 words)",
-    "subjectId": "thinkers",
+    "subjectId": "ethics",
     "subjects": [
-      "Thinkers"
+      "Ethics"
     ],
-    "topic": "Thinkers",
+    "topic": "Vivekananda and a moral habit",
     "topics": [
-      "Thinkers"
+      "Vivekananda and a moral habit"
     ],
     "subTopics": [
       "Vivekananda and moral ideals"
     ],
     "keyPointers": [
-      "Strength, service and a fearless character",
-      "He joined self-respect to the nation’s regeneration",
-      "Success is in the ideal more than in a complete social reform",
-      "The core is character before a slogan"
+      "Moral reasoning",
+      "Education and social change",
+      "Integrity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "He tied strength, service and a fearless truth to the making of a person",
+      "The success is a language of character that is still quoted",
+      "It is limited where the quote is not turned into a daily refusal of a wrong"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Swami Vivekananda’s practical Vedanta philosophy translates abstract spiritual metaphysics into an active, duty-bound social morality, providing a powerful framework for shaping human conduct.",
         "order": 1,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Swami Vivekananda’s practical Vedanta philosophy translates abstract spiritual metaphysics into an active, duty-bound social morality, providing a powerful framework for shaping human conduct."
       },
       {
         "section": "Body",
-        "text": "The Divinity of Man and Self-Belief: By proclaiming that the divine resides within every individual, his teachings build deep self-respect and personal moral responsibility, making character development the foundation of all social actions.",
         "order": 2,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "The Divinity of Man and Self-Belief: By proclaiming that the divine resides within every individual, his teachings build deep self-respect and personal moral responsibility, making character development the foundation of all social actions."
       },
       {
         "section": "Body",
-        "text": "Ethics of 'Daridra Narayana' (Service as Worship): Redefines moral action by identifying altruistic service to humanity—especially to the poor, marginalized, and suffering—as the highest form of spiritual and ethical duty.",
         "order": 3,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Ethics of 'Daridra Narayana' (Service as Worship): Redefines moral action by identifying altruistic service to humanity—especially to the poor, marginalized, and suffering—as the highest form of spiritual and ethical duty."
       },
       {
         "section": "Body",
-        "text": "Fearlessness and Universal Empathy: Emphasizes strength and inner purity as essential prerequisites for maintaining ethical resilience, encouraging individuals to transcend sectarian divides in favor of universal brotherhood.",
         "order": 4,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Fearlessness and Universal Empathy: Emphasizes strength and inner purity as essential prerequisites for maintaining ethical resilience, encouraging individuals to transcend sectarian divides in favor of universal brotherhood."
       },
       {
         "section": "Conclusion",
-        "text": "Ultimately, Vivekananda’s philosophy succeeds because it transforms morality from a passive checklist of prohibitions into an active, empathetic catalyst for personal character building and social reform.",
         "order": 5,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Ultimately, Vivekananda’s philosophy succeeds because it transforms morality from a passive checklist of prohibitions into an active, empathetic catalyst for personal character building and social reform."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP4_03",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 3,
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "3",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
     "question_text": "Discuss the various skills by which a public servant may enhance public commitment to the rules of law. (125 words)",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Aptitude",
+    "topic": "Getting the public to keep the law",
     "topics": [
-      "Aptitude"
+      "Getting the public to keep the law"
     ],
     "subTopics": [
       "Building public commitment to law"
     ],
     "keyPointers": [
-      "Explain the rule, apply it evenly, and be seen to do so",
-      "Listen before you punish",
-      "Example is the skill",
-      "Commitment follows fairness"
+      "Rule of law",
+      "Dedication to public service",
+      "Attitude"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A clear reason, a fair example and a predictable penalty are the skills",
+      "Commitment rises when the rule is seen to bind the official too",
+      "A lecture without that example does not build it"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Enhancing public commitment to the rule of law requires civil servants to move beyond punitive deterrence, leveraging a sophisticated mix of communication, participatory, and consensus-building skills.",
         "order": 1,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Enhancing public commitment to the rule of law requires civil servants to move beyond punitive deterrence, leveraging a sophisticated mix of communication, participatory, and consensus-building skills."
       },
       {
         "section": "Body",
-        "text": "Empathetic Communication and Persuasion: The ability to clearly demystify complex legal regulations into localized dialects, using persuasive reasoning to explain the social benefits of compliance rather than relying on bureaucratic authority.",
         "order": 2,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Empathetic Communication and Persuasion: The ability to clearly demystify complex legal regulations into localized dialects, using persuasive reasoning to explain the social benefits of compliance rather than relying on bureaucratic authority."
       },
       {
         "section": "Body",
-        "text": "Collaborative Stakeholder Mobilization: Skills in engaging local influencers, community elders, and civil society groups to co-enforce legal standards, converting legal compliance into a shared community norm.",
         "order": 3,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Collaborative Stakeholder Mobilization: Skills in engaging local influencers, community elders, and civil society groups to co-enforce legal standards, converting legal compliance into a shared community norm."
       },
       {
         "section": "Body",
-        "text": "Transparent and Predictable Enforcement: Demonstrating perfect procedural fairness and emotional neutrality in administrative actions, proving to the public that regulations apply equally across all socio-economic strata.",
         "order": 4,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Transparent and Predictable Enforcement: Demonstrating perfect procedural fairness and emotional neutrality in administrative actions, proving to the public that regulations apply equally across all socio-economic strata."
       },
       {
         "section": "Conclusion",
-        "text": "By combining accessible transparency with persistent community engagement, a public administrator builds widespread institutional trust, encouraging voluntary civic adherence to the law.",
         "order": 5,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "By combining accessible transparency with persistent community engagement, a public administrator builds widespread institutional trust, encouraging voluntary civic adherence to the law."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP4_04",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 4,
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "4",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
     "question_text": "Explain the difference between code of ethics and code of conduct and elucidate their behavioural impact and applications by appropriate examples. (125 words)",
     "subjectId": "ethics",
     "subjects": [
@@ -210,51 +206,50 @@
       "Ethics code and conduct code"
     ],
     "keyPointers": [
-      "Ethics is the value; conduct is the specific rule",
-      "Ethics guides the unwritten case",
-      "Conduct is enforceable",
-      "Behaviour changes when both are used"
+      "Law and ethics",
+      "Integrity",
+      "Probity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A code of ethics is the why; a code of conduct is the what",
+      "The first shapes a judgement and the second lists a forbidden act",
+      "The impact differs: one guides a new case, the other punishes a known breach"
+    ],
     "points": [
       {
-        "section": "Body",
-        "text": "Structural Differences: A Code of Ethics is a value-based document outlining broad, aspirational commitments such as integrity and impartiality. A Code of Conduct is a specific, rule-bound directive defining explicit actions, prohibitions, and disciplinary penalties.",
+        "section": "Point",
         "order": 1,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Structural Differences: A Code of Ethics is a value-based document outlining broad, aspirational commitments such as integrity and impartiality. A Code of Conduct is a specific, rule-bound directive defining explicit actions, prohibitions, and disciplinary penalties."
       },
       {
-        "section": "Body",
-        "text": "Behavioral Impact and Scope: The Code of Ethics shapes internal conscience and moral reasoning during complex, unmapped dilemmas. The Code of Conduct enforces immediate behavioral conformity through external deterrence and structural accountability.",
+        "section": "Point",
         "order": 2,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Behavioral Impact and Scope: The Code of Ethics shapes internal conscience and moral reasoning during complex, unmapped dilemmas. The Code of Conduct enforces immediate behavioral conformity through external deterrence and structural accountability."
       },
       {
-        "section": "Body",
-        "text": "Application Example - Code of Ethics: A guideline stating that public interest must always guide official duties. This encourages an administrator to proactively spend extra hours coordinating regional relief during a complex multi-district flood crisis.",
+        "section": "Point",
         "order": 3,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Application Example - Code of Ethics: A guideline stating that public interest must always guide official duties. This encourages an administrator to proactively spend extra hours coordinating regional relief during a complex multi-district flood crisis."
       },
       {
-        "section": "Body",
-        "text": "Application Example - Code of Conduct: A rules-based restriction prohibiting a civil servant from accepting commercial gifts valued over a specific monetary amount, preventing immediate hospitality-driven bribery or corporate bias.",
+        "section": "Point",
         "order": 4,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Application Example - Code of Conduct: A rules-based restriction prohibiting a civil servant from accepting commercial gifts valued over a specific monetary amount, preventing immediate hospitality-driven bribery or corporate bias."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP4_05",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 5,
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "5",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
     "question_text": "How far the act of 'Right to Information' is effective in deciding the transparency in governance? (125 words)",
     "subjectId": "ethics",
     "subjects": [
@@ -268,115 +263,112 @@
       "RTI and transparency"
     ],
     "keyPointers": [
-      "A file can be asked for",
-      "It deters a hidden decision",
-      "Delay and an exemption limit it",
-      "Effective where it is answered, not only where it exists"
+      "Transparency and the right to information",
+      "Accountability",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The Act lets a citizen see the file a decision rests on",
+      "That is effective where a reply actually comes",
+      "It is weak where delay and an exemption hide the same file"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The Right to Information (RTI) Act, 2005, serves as a powerful statutory instrument, shifting Indian public administration from historical habits of secrecy to a baseline norm of democratic transparency.",
         "order": 1,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "The Right to Information (RTI) Act, 2005, serves as a powerful statutory instrument, shifting Indian public administration from historical habits of secrecy to a baseline norm of democratic transparency."
       },
       {
         "section": "Body",
-        "text": "Dismantling Bureaucratic Secrecy: Empowers citizens to directly inspect official documents, records, and expenditure files, ending the state's historical monopoly over public information and exposing last-mile welfare delivery leakages.",
         "order": 2,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Dismantling Bureaucratic Secrecy: Empowers citizens to directly inspect official documents, records, and expenditure files, ending the state's historical monopoly over public information and exposing last-mile welfare delivery leakages."
       },
       {
         "section": "Body",
-        "text": "Enforcing Objective Administrative Rationality: The open threat of a potential RTI query forces public officials to record objective, legal, and logical justifications for all executive choices, reducing arbitrary favoritism in contracts.",
         "order": 3,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Enforcing Objective Administrative Rationality: The open threat of a potential RTI query forces public officials to record objective, legal, and logical justifications for all executive choices, reducing arbitrary favoritism in contracts."
       },
       {
         "section": "Body",
-        "text": "Persistent Operational Challenges: Efficacy is frequently limited by high pendency rates across information commissions, the tactical misuse of exemptions like 'national security', and structural instances of threats against information activists.",
         "order": 4,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Persistent Operational Challenges: Efficacy is frequently limited by high pendency rates across information commissions, the tactical misuse of exemptions like 'national security', and structural instances of threats against information activists."
       },
       {
         "section": "Conclusion",
-        "text": "While structural delivery backlogs persist, the RTI Act remains highly effective by enabling citizens to act as direct monitors of administrative integrity.",
         "order": 5,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "While structural delivery backlogs persist, the RTI Act remains highly effective by enabling citizens to act as direct monitors of administrative integrity."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP4_06",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 6,
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "6",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
     "question_text": "What is the role of emotional intelligence in establishing harmony at disaster management and workplace? (125 words)",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Aptitude",
+    "topic": "Emotional intelligence in a crisis and at work",
     "topics": [
-      "Aptitude"
+      "Emotional intelligence in a crisis and at work"
     ],
     "subTopics": [
       "Emotional intelligence in crisis and at work"
     ],
     "keyPointers": [
-      "Name the fear before you give the order",
-      "At work it prevents a humiliation that breaks the team",
-      "In a disaster it keeps the crowd and the team together",
-      "Harmony is a managed emotion, not a soft extra"
+      "Emotional intelligence",
+      "Disaster risk reduction",
+      "Compassion"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "In a disaster it keeps panic from becoming the plan",
+      "At a workplace it keeps a disagreement from becoming a feud",
+      "Harmony is the result of a feeling that has been noticed and then managed"
+    ],
     "points": [
       {
-        "section": "Body",
-        "text": "Role in Disaster Management - High-Stress Regulation: Enables administrators to regulate personal fear and panic during intense crises, maintaining cognitive clarity to make rapid, optimized decisions under extreme logistical constraints.",
+        "section": "Point",
         "order": 1,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Role in Disaster Management - High-Stress Regulation: Enables administrators to regulate personal fear and panic during intense crises, maintaining cognitive clarity to make rapid, optimized decisions under extreme logistical constraints."
       },
       {
-        "section": "Body",
-        "text": "Role in Disaster Management - Community Empathy: Assists rescue teams in identifying and calming traumatized victims, diffusing panic, and managing resource distribution points with patience and authority.",
+        "section": "Point",
         "order": 2,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Role in Disaster Management - Community Empathy: Assists rescue teams in identifying and calming traumatized victims, diffusing panic, and managing resource distribution points with patience and authority."
       },
       {
-        "section": "Body",
-        "text": "Role in the Bureaucratic Workplace - Conflict Resolution: Facilitates early detection of interpersonal friction among subordinates, allowing managers to handle workplace grievances before they damage administrative output.",
+        "section": "Point",
         "order": 3,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Role in the Bureaucratic Workplace - Conflict Resolution: Facilitates early detection of interpersonal friction among subordinates, allowing managers to handle workplace grievances before they damage administrative output."
       },
       {
-        "section": "Body",
-        "text": "Role in the Bureaucratic Workplace - Enhancing Motivation: Promotes a highly supportive culture that protects personnel from burnout, strengthening team collaboration and institutional commitment across long-term assignments.",
+        "section": "Point",
         "order": 4,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Role in the Bureaucratic Workplace - Enhancing Motivation: Promotes a highly supportive culture that protects personnel from burnout, strengthening team collaboration and institutional commitment across long-term assignments."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP4_07",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 7,
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "7",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
     "question_text": "Why the evaluation of unanticipated consequences is important in public policy planning? Answer with appropriate arguments. (125 words)",
     "subjectId": "ethics",
     "subjects": [
@@ -390,121 +382,117 @@
       "Unanticipated consequences of policy"
     ],
     "keyPointers": [
-      "A good aim can produce a harm no one wrote down",
-      "Evaluation before and after catches it",
-      "Ignore it and the policy creates its own problem",
-      "The argument is humility in planning"
+      "Moral reasoning",
+      "Good governance",
+      "Conflict of values"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A policy can hit a person it was not written for",
+      "Evaluating that in advance is how a harm is avoided",
+      "The importance is ethical, because an unforeseen victim is still a victim"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Public policy interventions operate within complex social ecosystems, making the systematic tracking of secondary, unforeseen side-effects essential to protect overall project utility.",
         "order": 1,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Public policy interventions operate within complex social ecosystems, making the systematic tracking of secondary, unforeseen side-effects essential to protect overall project utility."
       },
       {
         "section": "Body",
-        "text": "Preventing the Cobra Effect (Perverse Incentives): Well-intended rules can backfire if they create distorted behavior modifications. Evaluating these outcomes early allows planners to redesign policies before they accidentally worsen the original social problem.",
         "order": 2,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Preventing the Cobra Effect (Perverse Incentives): Well-intended rules can backfire if they create distorted behavior modifications. Evaluating these outcomes early allows planners to redesign policies before they accidentally worsen the original social problem."
       },
       {
         "section": "Body",
-        "text": "Mitigating Disproportionate Vulnerabilities: Interventions in one sector often create sudden hardships in another, such as green urban planning causing regional displacement. Tracking these impacts protects marginalized communities from unfair negative outcomes.",
         "order": 3,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Mitigating Disproportionate Vulnerabilities: Interventions in one sector often create sudden hardships in another, such as green urban planning causing regional displacement. Tracking these impacts protects marginalized communities from unfair negative outcomes."
       },
       {
         "section": "Body",
-        "text": "Optimizing Fiscal Resource Efficiency: Early tracking provides real-world feedback loops, allowing administrators to implement mid-course changes, adjust resource allocations, and prevent major wastage of public capital.",
         "order": 4,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Optimizing Fiscal Resource Efficiency: Early tracking provides real-world feedback loops, allowing administrators to implement mid-course changes, adjust resource allocations, and prevent major wastage of public capital."
       },
       {
         "section": "Conclusion",
-        "text": "Continuous impact evaluation moves policy planning away from static, ideological goals, transforming it into a flexible framework focused on positive social outcomes.",
         "order": 5,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Continuous impact evaluation moves policy planning away from static, ideological goals, transforming it into a flexible framework focused on positive social outcomes."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP4_08",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 8,
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "8",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
     "question_text": "What is the role of empathy in shaping the attitude of a civil servant? How it can enhance their interaction with the public? (125 words)",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Aptitude",
+    "topic": "Empathy and the public counter",
     "topics": [
-      "Aptitude"
+      "Empathy and the public counter"
     ],
     "subTopics": [
       "Empathy in public service"
     ],
     "keyPointers": [
-      "See the person behind the form",
-      "It changes the tone and the time given",
-      "Interaction improves because the citizen is not treated as a file",
-      "Empathy is not a waiver of the rule"
+      "Compassion",
+      "Emotional intelligence",
+      "Attitude"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Empathy is seeing the case from the person standing across the table",
+      "It shapes an attitude away from routine and toward the particular hardship",
+      "The interaction improves when the person feels heard, even if the rule cannot bend"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Empathy serves as a vital emotional anchor for civil servants, moving administrative thinking away from detached elitism toward responsive, citizen-centric public service.",
         "order": 1,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Empathy serves as a vital emotional anchor for civil servants, moving administrative thinking away from detached elitism toward responsive, citizen-centric public service."
       },
       {
         "section": "Body",
-        "text": "Shaping the Administrative Outlook: Transforms an administrator’s core perspective, helping them see marginalized citizens not as anonymous case file numbers, but as human beings entitled to dignity and timely public assistance.",
         "order": 2,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Shaping the Administrative Outlook: Transforms an administrator’s core perspective, helping them see marginalized citizens not as anonymous case file numbers, but as human beings entitled to dignity and timely public assistance."
       },
       {
         "section": "Body",
-        "text": "Overcoming Rigid Bureaucratic Apathy: Empathetic awareness encourages officials to use their discretion constructively, ensuring strict documentation rules do not accidentally deny essential welfare benefits to illiterate or vulnerable applicants.",
         "order": 3,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Overcoming Rigid Bureaucratic Apathy: Empathetic awareness encourages officials to use their discretion constructively, ensuring strict documentation rules do not accidentally deny essential welfare benefits to illiterate or vulnerable applicants."
       },
       {
         "section": "Body",
-        "text": "Enhancing Last-Mile Public Interactions: Direct engagements become collaborative rather than intimidating. By actively listening to community grievances, an administrator lowers historical public distrust and builds popular support for government programs.",
         "order": 4,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Enhancing Last-Mile Public Interactions: Direct engagements become collaborative rather than intimidating. By actively listening to community grievances, an administrator lowers historical public distrust and builds popular support for government programs."
       },
       {
         "section": "Conclusion",
-        "text": "Ultimately, embedding empathy within administrative attitudes bridges the historical gap between the state and its citizens, transforming bureaucracy into an accessible instrument of social welfare.",
         "order": 5,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Ultimately, embedding empathy within administrative attitudes bridges the historical gap between the state and its citizens, transforming bureaucracy into an accessible instrument of social welfare."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP4_09",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 9,
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "9",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
     "question_text": "Explain your suggestions to promote the tolerance and compassion among civil servants to serve better to weaker sections. (125 words)",
     "subjectId": "ethics",
     "subjects": [
@@ -518,115 +506,112 @@
       "Tolerance and compassion toward the weak"
     ],
     "keyPointers": [
-      "Training with real cases, not a lecture",
-      "A posting and a reward that notice the last person",
-      "Compassion is time and language",
-      "Tolerance is not punishing difference"
+      "Compassion",
+      "Inequality",
+      "Emotional intelligence"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A posting among the weaker sections needs more than a target",
+      "Tolerance of a different life and compassion for a real distress have to be practised",
+      "The suggestion is a field exposure and a review that counts dignity, not only a number"
+    ],
     "points": [
       {
-        "section": "Body",
-        "text": "Immersive Field-Level Training: Mandating early-career probationary attachments within highly impoverished tribal tracts or urban slums, forcing trainees to directly witness systemic marginalization and build grass-roots empathy.",
+        "section": "Point",
         "order": 1,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Immersive Field-Level Training: Mandating early-career probationary attachments within highly impoverished tribal tracts or urban slums, forcing trainees to directly witness systemic marginalization and build grass-roots empathy."
       },
       {
-        "section": "Body",
-        "text": "Experiential Learning and Case Studies: Integrating structural role-play, interactive sensitivity labs, and historical case reviews into annual mid-career training programs, evaluating personal biases when interacting with vulnerable groups.",
+        "section": "Point",
         "order": 2,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Experiential Learning and Case Studies: Integrating structural role-play, interactive sensitivity labs, and historical case reviews into annual mid-career training programs, evaluating personal biases when interacting with vulnerable groups."
       },
       {
-        "section": "Body",
-        "text": "Realigning Performance Appraisals: Reforming annual performance metrics to assign significant weight to non-technical soft skills, explicitly rewarding accessible grievance redressal and pro-vulnerable programmatic output.",
+        "section": "Point",
         "order": 3,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Realigning Performance Appraisals: Reforming annual performance metrics to assign significant weight to non-technical soft skills, explicitly rewarding accessible grievance redressal and pro-vulnerable programmatic output."
       },
       {
-        "section": "Body",
-        "text": "Promoting Mental Wellbeing and Resilience: Instituting regular mindfulness workshops, clinical psychological counseling, and balanced scheduling to prevent stress-induced apathy, keeping front-line staff emotionally receptive to public suffering.",
+        "section": "Point",
         "order": 4,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Promoting Mental Wellbeing and Resilience: Instituting regular mindfulness workshops, clinical psychological counseling, and balanced scheduling to prevent stress-induced apathy, keeping front-line staff emotionally receptive to public suffering."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP4_10",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 10,
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "10",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
     "question_text": "Public servants often work with the public from diverse backgrounds and with different viewpoints. How do you ensure that their needs will met out while maintaining professionalism? (125 words)",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Aptitude",
+    "topic": "A diverse public",
     "topics": [
-      "Aptitude"
+      "A diverse public"
     ],
     "subTopics": [
       "Impartiality amid differing views"
     ],
     "keyPointers": [
-      "Hear each side",
-      "Apply the same rule",
-      "Do not let a louder group set the file",
-      "Impartiality is equal treatment, not equal agreement"
+      "Diversity and pluralism",
+      "Impartiality",
+      "Compassion"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Different backgrounds bring different needs to the same counter",
+      "They are met by a rule applied equally and an ear kept open",
+      "The balance fails if one group's convenience becomes the rule"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Managing a highly diverse public square requires public administrators to merge strict procedural neutrality with adaptive, context-sensitive public engagement.",
         "order": 1,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Managing a highly diverse public square requires public administrators to merge strict procedural neutrality with adaptive, context-sensitive public engagement."
       },
       {
         "section": "Body",
-        "text": "Enforcing Procedural Fairness and Neutrality: Grounding all administrative choices in objective statutory guidelines, ensuring that delivery timelines remain perfectly uniform regardless of an applicant’s identity, ethnicity, or ideology.",
         "order": 2,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Enforcing Procedural Fairness and Neutrality: Grounding all administrative choices in objective statutory guidelines, ensuring that delivery timelines remain perfectly uniform regardless of an applicant’s identity, ethnicity, or ideology."
       },
       {
         "section": "Body",
-        "text": "Practicing Active Non-Partisanship: Cultivating a disciplined emotional detachment that prevents personal cultural biases from impacting official duties, ensuring equal dignity for every opposing public viewpoint.",
         "order": 3,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Practicing Active Non-Partisanship: Cultivating a disciplined emotional detachment that prevents personal cultural biases from impacting official duties, ensuring equal dignity for every opposing public viewpoint."
       },
       {
         "section": "Body",
-        "text": "Implementing Inclusive Service Delivery: Upgrading physical office spaces to support multi-lingual assistance and disabled-friendly design, eliminating baseline communication barriers for marginalized individuals.",
         "order": 4,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Implementing Inclusive Service Delivery: Upgrading physical office spaces to support multi-lingual assistance and disabled-friendly design, eliminating baseline communication barriers for marginalized individuals."
       },
       {
         "section": "Conclusion",
-        "text": "By treating procedural neutrality as an immutable standard and accessibility as a dynamic goal, a public servant addresses diverse public needs without compromising professional standards.",
         "order": 5,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "By treating procedural neutrality as an immutable standard and accessibility as a dynamic goal, a public servant addresses diverse public needs without compromising professional standards."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP4_11",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 11,
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "11",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
     "question_text": "Discuss the moral bases to deal with the challenges of corruption prevailing in the present society. (200 words)",
     "subjectId": "ethics",
     "subjects": [
@@ -640,63 +625,61 @@
       "Moral bases against corruption"
     ],
     "keyPointers": [
-      "Public money is a trust",
-      "A bribe uses the weak",
-      "The basis is integrity, not only a fear of being caught",
-      "Deal with it by refusal, a record and a consequence"
+      "Corruption",
+      "Integrity",
+      "Probity",
+      "Means and ends"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The moral base is that public power is a trust, not a private income",
+      "A second base is that a good result does not clean a bribe",
+      "Dealing with corruption starts from that, and then needs a consequence"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "While legal and institutional surveillance frameworks are vital, eradicating systemic social corruption fundamentally requires a deep revitalization of individual and collective moral values.",
         "order": 1,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "While legal and institutional surveillance frameworks are vital, eradicating systemic social corruption fundamentally requires a deep revitalization of individual and collective moral values."
       },
       {
         "section": "Body",
-        "text": "The Deontological Anchor (Duty-Bound Ethics): Promotes a deep internal sense of absolute duty where integrity is treated as a foundational rule, rejecting bribery and corner-cutting regardless of any immediate material advantage.",
         "order": 2,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "The Deontological Anchor (Duty-Bound Ethics): Promotes a deep internal sense of absolute duty where integrity is treated as a foundational rule, rejecting bribery and corner-cutting regardless of any immediate material advantage."
       },
       {
         "section": "Body",
-        "text": "The Teleological Perspective (Consequential Justice): Encourages public servants to reflect on the severe social consequences of their actions, recognizing that diverting public funds directly deprives marginalized groups of essential health, nutrition, and education.",
         "order": 3,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "The Teleological Perspective (Consequential Justice): Encourages public servants to reflect on the severe social consequences of their actions, recognizing that diverting public funds directly deprives marginalized groups of essential health, nutrition, and education."
       },
       {
         "section": "Body",
-        "text": "Cultivating Aristotelian Virtue Ethics: Focuses on building essential moral traits—such as honesty, courage, and fairness—through early education and family guidance, changing how society views personal success away from ill-gotten wealth.",
         "order": 4,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Cultivating Aristotelian Virtue Ethics: Focuses on building essential moral traits—such as honesty, courage, and fairness—through early education and family guidance, changing how society views personal success away from ill-gotten wealth."
       },
       {
         "section": "Body",
-        "text": "Trusteeship and Public Service: Re-establishes the core constitutional philosophy that public administrators are not masters of the state, but moral trustees holding authority on behalf of citizens.",
         "order": 5,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Trusteeship and Public Service: Re-establishes the core constitutional philosophy that public administrators are not masters of the state, but moral trustees holding authority on behalf of citizens."
       },
       {
         "section": "Conclusion",
-        "text": "By shifting the anti-corruption fight from external legal deterrence to internal moral accountability, society can build a self-sustaining culture of public integrity.",
         "order": 6,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "By shifting the anti-corruption fight from external legal deterrence to internal moral accountability, society can build a self-sustaining culture of public integrity."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP4_12",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 12,
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "12",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
     "question_text": "What should be the nature of civil service values for a public administrator? How can he create a balance between these values in his personal and public life? Explain. (200 words)",
     "subjectId": "ethics",
     "subjects": [
@@ -710,63 +693,61 @@
       "Balancing civil-service values"
     ],
     "keyPointers": [
-      "Integrity, impartiality, empathy and efficiency",
-      "They pull apart in a real case",
-      "Balance is naming which value yields and why",
-      "The nature is public trust, not personal style"
+      "Dedication to public service",
+      "Integrity",
+      "Conflict of values",
+      "Probity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The values are impartiality, a clean hand and a service that does not depend on who asks",
+      "The nature is public, so a private liking cannot decide the file",
+      "The balance is to keep a personal life, and not to bring it into the order"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Civil service values provide the essential moral blueprint for public administrators, blending strict professional compliance with proactive compassion for the public good.",
         "order": 1,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Civil service values provide the essential moral blueprint for public administrators, blending strict professional compliance with proactive compassion for the public good."
       },
       {
         "section": "Body",
-        "text": "The Core Architecture of Public Values: Demands an integrated mix of objective non-partisanship, transparency, and strict accountability, balanced alongside a deep, empathetic commitment to serving marginalized groups.",
         "order": 2,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "The Core Architecture of Public Values: Demands an integrated mix of objective non-partisanship, transparency, and strict accountability, balanced alongside a deep, empathetic commitment to serving marginalized groups."
       },
       {
         "section": "Body",
-        "text": "The Challenge of Life Compartmentalization: Administrators often face intense stress when public statutory duties conflict with personal relationships, requiring a clear framework to manage competing expectations.",
         "order": 3,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "The Challenge of Life Compartmentalization: Administrators often face intense stress when public statutory duties conflict with personal relationships, requiring a clear framework to manage competing expectations."
       },
       {
         "section": "Body",
-        "text": "Upholding Integrity via Institutional Separation: To maintain absolute public trust, an official must build strict professional boundaries, ensuring family ties and personal friendships never influence regulatory or procurement decisions.",
         "order": 4,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Upholding Integrity via Institutional Separation: To maintain absolute public trust, an official must build strict professional boundaries, ensuring family ties and personal friendships never influence regulatory or procurement decisions."
       },
       {
         "section": "Body",
-        "text": "Unifying Values through Personal Character: True balance is achieved when an individual maintains identical foundational principles—such as honesty, empathy, and respect—across both their private life and official duties.",
         "order": 5,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Unifying Values through Personal Character: True balance is achieved when an individual maintains identical foundational principles—such as honesty, empathy, and respect—across both their private life and official duties."
       },
       {
         "section": "Conclusion",
-        "text": "By treating personal ethics and public professionalism as connected aspects of a unified character, a public administrator navigates external pressures with consistent moral clarity.",
         "order": 6,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "By treating personal ethics and public professionalism as connected aspects of a unified character, a public administrator navigates external pressures with consistent moral clarity."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP4_13",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 13,
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "13",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
     "question_text": "What is the moral basis of the work performance in the system of governance ? Discuss in the light of result contingent and result non-contingent karma. (200 words)",
     "subjectId": "ethics",
     "subjects": [
@@ -780,63 +761,60 @@
       "Results and the moral basis of work"
     ],
     "keyPointers": [
-      "A result matters",
-      "A result got by a dirty means is not a moral performance",
-      "The basis is duty done lawfully",
-      "Contingent reward should not buy a shortcut"
+      "Moral reasoning",
+      "Means and ends",
+      "Dedication to public service"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A result-contingent duty is judged by what it produces",
+      "A result-non-contingent duty is right even when the result fails",
+      "The moral basis of public work needs both: a clean means and a result the citizen can use"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "In public governance, administrative work performance extends beyond mere economic metrics, resting on a deep moral foundation that dictates how state authority is exercised.",
         "order": 1,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "In public governance, administrative work performance extends beyond mere economic metrics, resting on a deep moral foundation that dictates how state authority is exercised."
       },
       {
         "section": "Body",
-        "text": "Reviewing Result-Contingent Karma (Sakama Karma): Focuses administrative motivation primarily on external outcomes, personal rewards, or career advancements. While useful for short-term targets, it can encourage opportunistic behavior or policy compromise if expected rewards disappear.",
         "order": 2,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Reviewing Result-Contingent Karma (Sakama Karma): Focuses administrative motivation primarily on external outcomes, personal rewards, or career advancements. While useful for short-term targets, it can encourage opportunistic behavior or policy compromise if expected rewards disappear."
       },
       {
         "section": "Body",
-        "text": "The Power of Result-Non-Contingent Karma (Nishkama Karma): Draws moral inspiration from a selfless dedication to duty, executing official assignments with complete professional excellence without being emotionally dependent on praise, status, or personal gain.",
         "order": 3,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "The Power of Result-Non-Contingent Karma (Nishkama Karma): Draws moral inspiration from a selfless dedication to duty, executing official assignments with complete professional excellence without being emotionally dependent on praise, status, or personal gain."
       },
       {
         "section": "Body",
-        "text": "Strengthening Bureaucratic Resilience: This ethical detachment shields administrators from career-related anxiety, enabling them to resist improper political pressures or institutional setbacks with consistent moral courage.",
         "order": 4,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Strengthening Bureaucratic Resilience: This ethical detachment shields administrators from career-related anxiety, enabling them to resist improper political pressures or institutional setbacks with consistent moral courage."
       },
       {
         "section": "Body",
-        "text": "Synthesizing Values into Daily Governance: When performance is anchored in selfless duty, processes become transparent and fair, ensuring public resources are managed with integrity regardless of external crosscurrents.",
         "order": 5,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Synthesizing Values into Daily Governance: When performance is anchored in selfless duty, processes become transparent and fair, ensuring public resources are managed with integrity regardless of external crosscurrents."
       },
       {
         "section": "Conclusion",
-        "text": "Shifting administrative focus from self-interested targets to selfless institutional duty ensures consistent public welfare and safeguards foundational constitutional values.",
         "order": 6,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Shifting administrative focus from self-interested targets to selfless institutional duty ensures consistent public welfare and safeguards foundational constitutional values."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP4_14",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 14,
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "14",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
     "question_text": "In the process of policy making by public administrators whether the priority should be given to the moral transparency or the effectiveness of consequences/results? Elucidate. (200 words)",
     "subjectId": "ethics",
     "subjects": [
@@ -850,63 +828,61 @@
       "Transparency and speed in policy"
     ],
     "keyPointers": [
-      "Speed without a reason hides a capture",
-      "Transparency slows a file and protects it",
-      "Priority to the reason being shown",
-      "Speed inside a visible process, not instead of it"
+      "Transparency and the right to information",
+      "Means and ends",
+      "Moral reasoning",
+      "Accountability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Moral transparency is telling the public how and why",
+      "Effectiveness is whether the policy works",
+      "Priority to only one of them produces either an open failure or a hidden success"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Public policy formulation often reveals a classic ethical tension between deontological procedural transparency and teleological consequential effectiveness, requiring a careful balance to achieve sustainable public good.",
         "order": 1,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Public policy formulation often reveals a classic ethical tension between deontological procedural transparency and teleological consequential effectiveness, requiring a careful balance to achieve sustainable public good."
       },
       {
         "section": "Body",
-        "text": "The Case for Moral Transparency (Means-Focused Ethics): Emphasizes that the processes of governance must remain open, lawful, and participatory. It asserts that shortcutting public consultations or breaking safety protocols can quickly erode institutional legitimacy and erode citizen trust.",
         "order": 2,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "The Case for Moral Transparency (Means-Focused Ethics): Emphasizes that the processes of governance must remain open, lawful, and participatory. It asserts that shortcutting public consultations or breaking safety protocols can quickly erode institutional legitimacy and erode citizen trust."
       },
       {
         "section": "Body",
-        "text": "The Primacy of Consequential Effectiveness (Ends-Focused Ethics): Argues that policy value is ultimately measured by its real-world outcomes in reducing human suffering, alleviating absolute poverty, or securing public safety during major regional crises.",
         "order": 3,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "The Primacy of Consequential Effectiveness (Ends-Focused Ethics): Argues that policy value is ultimately measured by its real-world outcomes in reducing human suffering, alleviating absolute poverty, or securing public safety during major regional crises."
       },
       {
         "section": "Body",
-        "text": "The Pitfalls of Ideological Extremes: Relying exclusively on rigid procedural transparency can cause bureaucratic paralysis during fast-moving crises. Conversely, pursuing narrow effectiveness while ignoring moral transparency can result in authoritarian overreach.",
         "order": 4,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "The Pitfalls of Ideological Extremes: Relying exclusively on rigid procedural transparency can cause bureaucratic paralysis during fast-moving crises. Conversely, pursuing narrow effectiveness while ignoring moral transparency can result in authoritarian overreach."
       },
       {
         "section": "Body",
-        "text": "Achieving a Synthesis through Ethical Governance: Sound policy design should treat transparency as the essential framework that secures and legitimizes effective social outcomes, proving that clean methods yield lasting social results.",
         "order": 5,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Achieving a Synthesis through Ethical Governance: Sound policy design should treat transparency as the essential framework that secures and legitimizes effective social outcomes, proving that clean methods yield lasting social results."
       },
       {
         "section": "Conclusion",
-        "text": "Ultimately, an administrator must reject the false choice between means and ends, treating moral transparency as the foundation that guides and protects effective social interventions.",
         "order": 6,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Ultimately, an administrator must reject the false choice between means and ends, treating moral transparency as the foundation that guides and protects effective social interventions."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP4_15",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 15,
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "15",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
     "question_text": "You are a city commissioner. There is a reputed college in your city, which has the maximum number of girl students. The conditions of the toilets/washrooms in this college is very poor and pathetic due to which the girl students have to face many mental, physical and hygiene relate problems every day. The college administration is not paying any attention to these basic facilities of the girl students. As a city commissioner, what steps will you take to improve this basic facility of the girl students and against the indifference of the college administration? (200 words)",
     "subjectId": "cases",
     "subjects": [
@@ -920,185 +896,180 @@
       "Girls’ college sanitation"
     ],
     "keyPointers": [
-      "The harm is health, dignity and a missed class",
-      "Inspect with women officers and record it",
-      "Fix the toilets and fix who maintains them",
-      "A notice without a repair is not the response"
+      "Compassion",
+      "Gender and the household",
+      "Integrity",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A college full of girls with unusable toilets is a dignity failure, not a maintenance note",
+      "The commissioner has to inspect, fund and fix, and not only write",
+      "The case is about a basic facility the city already owes"
+    ],
     "points": [
       {
-        "section": "Body",
-        "text": "Immediate Fact-Finding and Legal Inspection: Deploy a joint municipal task force comprising public health inspectors and female municipal officers to perform an immediate, documented audit of the campus washrooms, generating an official legal record of the sanitation failures.",
+        "section": "Point",
         "order": 1,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Immediate Fact-Finding and Legal Inspection: Deploy a joint municipal task force comprising public health inspectors and female municipal officers to perform an immediate, documented audit of the campus washrooms, generating an official legal record of the sanitation failures."
       },
       {
-        "section": "Body",
-        "text": "Issuing Statutory Notice and Strict Timelines: Serve an official municipal notice to the college management under public health regulations, ordering a complete restoration of sanitation, running water, and basic hygiene within a non-negotiable 7-day window.",
+        "section": "Point",
         "order": 2,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Issuing Statutory Notice and Strict Timelines: Serve an official municipal notice to the college management under public health regulations, ordering a complete restoration of sanitation, running water, and basic hygiene within a non-negotiable 7-day window."
       },
       {
-        "section": "Body",
-        "text": "Deploying Interim Mobile Sanitation Infrastructure: Station municipal mobile washroom units right outside the college campus as an immediate operational stopgap, ensuring students have access to safe, clean facilities while inside renovations take place.",
+        "section": "Point",
         "order": 3,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Deploying Interim Mobile Sanitation Infrastructure: Station municipal mobile washroom units right outside the college campus as an immediate operational stopgap, ensuring students have access to safe, clean facilities while inside renovations take place."
       },
       {
-        "section": "Body",
-        "text": "Enforcing Institutional Financial and Administrative Penalties: If management's indifference continues, implement escalating statutory fines, lock non-academic administrative offices, and officially alert the university affiliation board to review the institution's operating license.",
+        "section": "Point",
         "order": 4,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Enforcing Institutional Financial and Administrative Penalties: If management's indifference continues, implement escalating statutory fines, lock non-academic administrative offices, and officially alert the university affiliation board to review the institution's operating license."
       },
       {
-        "section": "Body",
-        "text": "Structuring a Joint Citizen Oversight Mechanism: Mandate the formation of a permanent campus health committee including student representatives, parents, and municipal health staff to perform unannounced weekly checks, ensuring long-term maintenance.",
+        "section": "Point",
         "order": 5,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Structuring a Joint Citizen Oversight Mechanism: Mandate the formation of a permanent campus health committee including student representatives, parents, and municipal health staff to perform unannounced weekly checks, ensuring long-term maintenance."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP4_16",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 16,
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "16",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
     "question_text": "Critically evaluate the role of society in shaping and internationalizing political attitudes. (200 words)",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Attitude",
+    "topic": "How society shapes a political attitude",
     "topics": [
-      "Attitude"
+      "How society shapes a political attitude"
     ],
     "subTopics": [
       "Society and political attitudes"
     ],
     "keyPointers": [
-      "Family, school, media and a peer teach a stance",
-      "Internalising means it becomes automatic",
-      "Society can teach a democratic habit or a prejudice",
-      "The role is early and continuous"
+      "Attitude",
+      "Media and socialisation",
+      "Education and social change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Family, a caste, a school and a screen teach a person whom to trust",
+      "Internalising is how that teaching becomes a feeling of one's own",
+      "The role of society is large, and it is not total, because a person can still refuse it"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Society functions as the primary matrix for political socialization, using interconnected networks—family, educational institutions, peer circles, and religious groups—to continuously shape an individual's ideological worldview.",
         "order": 1,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Society functions as the primary matrix for political socialization, using interconnected networks—family, educational institutions, peer circles, and religious groups—to continuously shape an individual's ideological worldview."
       },
       {
         "section": "Body",
-        "text": "The Pillars of Domestic Political Socialization: Early childhood environments instill baseline concepts of hierarchy and community loyalty. These initial perspectives are later expanded within formal schools, where structured curricula either reinforce or question state narratives.",
         "order": 2,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "The Pillars of Domestic Political Socialization: Early childhood environments instill baseline concepts of hierarchy and community loyalty. These initial perspectives are later expanded within formal schools, where structured curricula either reinforce or question state narratives."
       },
       {
         "section": "Body",
-        "text": "Internationalization via Transnational Media: In a globalized world, modern digital platforms enable domestic social movements to instantly coordinate with international advocacy networks, creating cross-border awareness on climate action and human rights.",
         "order": 3,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Internationalization via Transnational Media: In a globalized world, modern digital platforms enable domestic social movements to instantly coordinate with international advocacy networks, creating cross-border awareness on climate action and human rights."
       },
       {
         "section": "Body",
-        "text": "The Risk of Regressive Echo Chambers: Conversely, uncontrolled social clustering can trigger severe downsides. Algorithmic sorting across online communities often hardens historical prejudices, causing intense domestic political polarization and generating cross-border cyber-extremism.",
         "order": 4,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "The Risk of Regressive Echo Chambers: Conversely, uncontrolled social clustering can trigger severe downsides. Algorithmic sorting across online communities often hardens historical prejudices, causing intense domestic political polarization and generating cross-border cyber-extremism."
       },
       {
         "section": "Body",
-        "text": "The Balance of Civil Society Power: Constructive civic networks use open public spaces to challenge authoritarian state policies, transforming local citizen demands into internationally recognized policy reforms.",
         "order": 5,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "The Balance of Civil Society Power: Constructive civic networks use open public spaces to challenge authoritarian state policies, transforming local citizen demands into internationally recognized policy reforms."
       },
       {
         "section": "Conclusion",
-        "text": "While society serves as an essential channel for democratic awareness, it requires a persistent commitment to open media and critical thinking to prevent the global spread of polarized, extremist ideologies.",
         "order": 6,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "While society serves as an essential channel for democratic awareness, it requires a persistent commitment to open media and critical thinking to prevent the global spread of polarized, extremist ideologies."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP4_17",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 17,
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "17",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
     "question_text": "As an administrator, develop an intervention programme for attitude change in \"corruption free India\". (200 words)",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Attitude",
+    "topic": "Changing the attitude to corruption",
     "topics": [
-      "Attitude"
+      "Changing the attitude to corruption"
     ],
     "subTopics": [
       "Attitude change against corruption"
     ],
     "keyPointers": [
-      "Name the normal bribe",
-      "Show a clean process that works",
-      "Reward refusal and punish the demand",
-      "Attitude changes when the shortcut stops paying"
+      "Corruption",
+      "Attitude",
+      "Education and social change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "An intervention has to make a bribe shameful, not only illegal",
+      "A public example, a simple process and a punishment that is seen can shift the habit",
+      "A poster alone does not change an attitude"
+    ],
     "points": [
       {
-        "section": "Body",
-        "text": "Phase 1 - Cognitive Restructuring via Transparency: Dismantle administrative opportunities for corruption by migrating high-friction public services to transparent, automated digital systems, breaking middleman networks and demonstrating that integrity is a built-in operational standard.",
+        "section": "Point",
         "order": 1,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Phase 1 - Cognitive Restructuring via Transparency: Dismantle administrative opportunities for corruption by migrating high-friction public services to transparent, automated digital systems, breaking middleman networks and demonstrating that integrity is a built-in operational standard."
       },
       {
-        "section": "Body",
-        "text": "Phase 2 - Behavioral Incentives and Peer Recognition: Re-engineer institutional rewards by introducing prominent public honors and fast-track career progression for exemplars of absolute integrity, utilizing cognitive consistency to make ethical behavior an aspirational standard.",
+        "section": "Point",
         "order": 2,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Phase 2 - Behavioral Incentives and Peer Recognition: Re-engineer institutional rewards by introducing prominent public honors and fast-track career progression for exemplars of absolute integrity, utilizing cognitive consistency to make ethical behavior an aspirational standard."
       },
       {
-        "section": "Body",
-        "text": "Phase 3 - Institutionalizing Social Sanctions and Audit: Leverage social proof by publishing anonymized case histories of dismissed, corrupt personnel, while simultaneously partnering with resident groups to run regular social audits that empower communities to report misconduct.",
+        "section": "Point",
         "order": 3,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Phase 3 - Institutionalizing Social Sanctions and Audit: Leverage social proof by publishing anonymized case histories of dismissed, corrupt personnel, while simultaneously partnering with resident groups to run regular social audits that empower communities to report misconduct."
       },
       {
-        "section": "Body",
-        "text": "Phase 4 - Grassroots Cultural Integration: Launch values-driven workshops within local schools and community hubs, using interactive theater and civic storytelling to reframe corruption as a damaging social crime rather than an unavoidable cost of business.",
+        "section": "Point",
         "order": 4,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Phase 4 - Grassroots Cultural Integration: Launch values-driven workshops within local schools and community hubs, using interactive theater and civic storytelling to reframe corruption as a damaging social crime rather than an unavoidable cost of business."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP4_18",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 18,
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "18",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
     "question_text": "What are the key difference between ethics in private relations (family, friendships) and public relations (business, politics)? Explain. (200 words)",
     "subjectId": "ethics",
     "subjects": [
@@ -1112,188 +1083,179 @@
       "Private and public ethics"
     ],
     "keyPointers": [
-      "Family ethics is partial by nature",
-      "Public ethics must be impartial",
-      "Loyalty that is a virtue at home can be a vice in office",
-      "The key difference is who is owed the duty"
+      "Ethics and morals",
+      "Conflict of interest",
+      "Integrity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "In a family a partiality toward one's own can be a duty",
+      "In a public office the same partiality is a breach",
+      "The difference is who is owed the fairness"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Human actions are guided by distinct ethical expectations depending on whether they occur within informal, close-knit private circles or formal, institutional public spaces.",
         "order": 1,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Human actions are guided by distinct ethical expectations depending on whether they occur within informal, close-knit private circles or formal, institutional public spaces."
       },
       {
         "section": "Body",
-        "text": "The Foundation of Private Ethics: Anchored in deep emotional bonds, loyalty, and unconditional mutual care. These relationships are inherently voluntary, personal, and permissive, allowing personal affection to naturally guide choices without explicit legal oversight.",
         "order": 2,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "The Foundation of Private Ethics: Anchored in deep emotional bonds, loyalty, and unconditional mutual care. These relationships are inherently voluntary, personal, and permissive, allowing personal affection to naturally guide choices without explicit legal oversight."
       },
       {
         "section": "Body",
-        "text": "The Architecture of Public Ethics: Governed by strict statutory frameworks, structural equality, and institutional accountability. In business and politics, administrators must practice absolute non-partisanship, ensuring every transaction is completely transparent.",
         "order": 3,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "The Architecture of Public Ethics: Governed by strict statutory frameworks, structural equality, and institutional accountability. In business and politics, administrators must practice absolute non-partisanship, ensuring every transaction is completely transparent."
       },
       {
         "section": "Body",
-        "text": "The Divergence in Loyalty and Fairness: Private ethics prioritizes dedicated loyalty to family and friends. Conversely, public ethics treats nepotism as a serious violation of accountability, demanding that decisions remain objective and free from personal favoritism.",
         "order": 4,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "The Divergence in Loyalty and Fairness: Private ethics prioritizes dedicated loyalty to family and friends. Conversely, public ethics treats nepotism as a serious violation of accountability, demanding that decisions remain objective and free from personal favoritism."
       },
       {
         "section": "Body",
-        "text": "Managing the Interface Conflict: Public servants often face severe ethical stress when private family expectations collide with formal administrative rules, requiring a clear commitment to prioritizing public laws over private relationships.",
         "order": 5,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Managing the Interface Conflict: Public servants often face severe ethical stress when private family expectations collide with formal administrative rules, requiring a clear commitment to prioritizing public laws over private relationships."
       },
       {
         "section": "Conclusion",
-        "text": "While private life thrives on deep personal attachments, public administration demands strict adherence to institutional laws to safeguard democratic integrity.",
         "order": 6,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "While private life thrives on deep personal attachments, public administration demands strict adherence to institutional laws to safeguard democratic integrity."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP4_19",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 19,
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "19",
     "marks": 14,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
     "question_text": "\"A person's real behaviour was be contrary to the person's attitude towards specific subject.\" Do you agree with this statement? Answer with suitable argument. (200 words)",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Attitude",
+    "topic": "When behaviour and attitude split",
     "topics": [
-      "Attitude"
+      "When behaviour and attitude split"
     ],
     "subTopics": [
       "Attitude and actual behaviour"
     ],
     "keyPointers": [
-      "Agree: a person can praise honesty and still pay a bribe",
-      "Situation, habit and a cost decide the act",
-      "Attitude is not the behaviour",
-      "The statement warns against trusting the speech"
+      "Attitude",
+      "Moral reasoning",
+      "Integrity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Agree: a stated dislike of a bribe can sit beside a person who still pays one",
+      "Pressure, a habit and a fear explain the split",
+      "The argument is that an attitude is not yet a conduct"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "I agree with the statement. Social psychology consistently demonstrates that an individual’s internal attitude does not automatically dictate their external actions, as behavior is continuously shaped by situational pressures.",
         "order": 1,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "I agree with the statement. Social psychology consistently demonstrates that an individual’s internal attitude does not automatically dictate their external actions, as behavior is continuously shaped by situational pressures."
       },
       {
         "section": "Body",
-        "text": "The Power of Immediate Situational Constraints: Deeply held personal beliefs often bend when facing powerful immediate pressures, such as an official who personally values transparency remaining silent about institutional misconduct out of fear of severe career retaliation.",
         "order": 2,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "The Power of Immediate Situational Constraints: Deeply held personal beliefs often bend when facing powerful immediate pressures, such as an official who personally values transparency remaining silent about institutional misconduct out of fear of severe career retaliation."
       },
       {
         "section": "Body",
-        "text": "Social Conformity and Peer Pressure: Human beings have a natural desire for group acceptance and safety. An administrator might value progressive gender equality, yet passively tolerate discriminatory remarks within a senior executive meeting to avoid social exclusion.",
         "order": 3,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Social Conformity and Peer Pressure: Human beings have a natural desire for group acceptance and safety. An administrator might value progressive gender equality, yet passively tolerate discriminatory remarks within a senior executive meeting to avoid social exclusion."
       },
       {
         "section": "Body",
-        "text": "The Challenge of Cognitive Dissonance: When actions diverge from internal values, individuals experience psychological discomfort. They typically resolve this by creating post-hoc justifications, such as framing compromise as a necessary step for broader institutional survival.",
         "order": 4,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "The Challenge of Cognitive Dissonance: When actions diverge from internal values, individuals experience psychological discomfort. They typically resolve this by creating post-hoc justifications, such as framing compromise as a necessary step for broader institutional survival."
       },
       {
         "section": "Body",
-        "text": "The Value of Institutional Guardrails: Recognizing this gap, robust administrative systems deploy clear behavioral enforcement mechanisms—like independent anti-corruption channels and strict whistleblower protections—to align daily conduct with ethical codes.",
         "order": 5,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "The Value of Institutional Guardrails: Recognizing this gap, robust administrative systems deploy clear behavioral enforcement mechanisms—like independent anti-corruption channels and strict whistleblower protections—to align daily conduct with ethical codes."
       },
       {
         "section": "Conclusion",
-        "text": "Because immediate external pressures frequently override internal values, maintaining ethical consistency requires pairing individual character building with robust institutional accountability.",
         "order": 6,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Because immediate external pressures frequently override internal values, maintaining ethical consistency requires pairing individual character building with robust institutional accountability."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP4_20",
-    "paper_title": "GS Paper 4",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 20,
+    "year": 2024,
+    "paper_title": "GS Paper 4",
+    "q_number": "20",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2024 GS Paper 4",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 4",
     "question_text": "\"An environmental movement led by youth's gain popularity through social media, rallies and collaboration with influences and scientists with time the movement gained public support and let the government to propose changes in the policy.\" What will be your stand to cope with the situation as a civil servant? (200 words)",
-    "subjectId": "cases",
+    "subjectId": "ethics",
     "subjects": [
-      "Case Studies"
+      "Ethics"
     ],
-    "topic": "Case Study",
+    "topic": "A youth environmental movement",
     "topics": [
-      "Case Study"
+      "A youth environmental movement"
     ],
     "subTopics": [
       "A civil servant and a youth environmental movement"
     ],
     "keyPointers": [
-      "Treat it as a democratic input, not only a law-and-order event",
-      "Check the science and the livelihood",
-      "Propose a policy that can be implemented",
-      "The stand is constructive and public"
+      "Sustainable development",
+      "Civil society and NGOs",
+      "Attitude"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A rally, a scientist and a screen can make a local harm visible",
+      "Popularity is a strength and also a risk of a slogan without a plan",
+      "The ethical test is whether the movement stays with the people who live with the damage"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "As a civil servant, my stand will be entirely constructive, objective, and collaborative, treating this youth-led environmental mobilization not as a public order challenge, but as a vital democratic opportunity to build a sustainable, science-based public policy.",
         "order": 1,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "As a civil servant, my stand will be entirely constructive, objective, and collaborative, treating this youth-led environmental mobilization not as a public order challenge, but as a vital democratic opportunity to build a sustainable, science-based public policy."
       },
       {
         "section": "Body",
-        "text": "Establishing a Formal Institutional Dialogue: Proactively create a dedicated, institutional channel to meet with youth leaders, academic scientists, and community advocates, validating their civic participation and documenting their core ecological concerns.",
         "order": 2,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Establishing a Formal Institutional Dialogue: Proactively create a dedicated, institutional channel to meet with youth leaders, academic scientists, and community advocates, validating their civic participation and documenting their core ecological concerns."
       },
       {
         "section": "Body",
-        "text": "Conducting Rigorous, Evidence-Based Appraisals: Convene an independent technical evaluation panel to review the scientific data provided by the movement against current industrial and economic metrics, ensuring policy recommendations remain rational and effective.",
         "order": 3,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Conducting Rigorous, Evidence-Based Appraisals: Convene an independent technical evaluation panel to review the scientific data provided by the movement against current industrial and economic metrics, ensuring policy recommendations remain rational and effective."
       },
       {
         "section": "Body",
-        "text": "Drafting Balanced and Inclusive Policy Proposals: Package these scientific findings into a comprehensive policy brief for government review, carefully balancing immediate environmental protection with long-term industrial stability to prevent sudden regional unemployment.",
         "order": 4,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Drafting Balanced and Inclusive Policy Proposals: Package these scientific findings into a comprehensive policy brief for government review, carefully balancing immediate environmental protection with long-term industrial stability to prevent sudden regional unemployment."
       },
       {
         "section": "Body",
-        "text": "Managing Public Communication and Safety: Utilize official digital platforms to transparently communicate evaluation updates, while working closely with local police to ensure ongoing street rallies remain peaceful and secure.",
         "order": 5,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "Managing Public Communication and Safety: Utilize official digital platforms to transparently communicate evaluation updates, while working closely with local police to ensure ongoing street rallies remain peaceful and secure."
       },
       {
         "section": "Conclusion",
-        "text": "By channeling public energy into formal, evidence-based policy review, an administrator turns popular environmental awareness into a transparent, legally sound framework for sustainable development.",
         "order": 6,
-        "cite": "UPPSC Mains 2024 GS Paper 4"
+        "text": "By channeling public energy into formal, evidence-based policy review, an administrator turns popular environmental awareness into a transparent, legally sound framework for sustainable development."
       }
     ]
   }

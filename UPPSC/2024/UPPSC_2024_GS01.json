@@ -1,16 +1,16 @@
 [
   {
     "uid": "UPPSC_2024_GSP1_01",
-    "paper_title": "GS Paper 1",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 1,
+    "year": 2024,
+    "paper_title": "GS Paper 1",
+    "q_number": "1",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "1",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 1",
     "question_text": "Introduce the literary sources for the study of Ancient Indian History.",
     "subjectId": "ancient",
     "subjects": [
@@ -24,51 +24,49 @@
       "Literary sources of ancient India"
     ],
     "keyPointers": [
-      "Vedas, epics, Puranas and a later chronicle",
-      "Foreign accounts and a play sit beside them",
-      "A text is a source and also a point of view",
-      "Use it with archaeology, not alone"
+      "Literature as a social record",
+      "Continuity and change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The Vedas, the epics, the plays and the foreign accounts are the written door into the period",
+      "They show a belief, a court and a social rank",
+      "They are a source, and they are not a neutral chronicle"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Literary sources are fundamental pillars for reconstructing ancient Indian history, broadly classified into religious texts, secular literature, and foreign accounts.",
         "order": 1,
-        "cite": "1"
+        "text": "Literary sources are fundamental pillars for reconstructing ancient Indian history, broadly classified into religious texts, secular literature, and foreign accounts."
       },
       {
         "section": "Body",
-        "text": "Religious literature includes Vedic texts, the Epics (Ramayana and Mahabharata), Puranas, and Buddhist (Tripitakas, Jatakas) and Jain (Angas) canonical works that reflect prevailing socio-religious realities.",
         "order": 2,
-        "cite": "1"
+        "text": "Religious literature includes Vedic texts, the Epics (Ramayana and Mahabharata), Puranas, and Buddhist (Tripitakas, Jatakas) and Jain (Angas) canonical works that reflect prevailing socio-religious realities."
       },
       {
         "section": "Body",
-        "text": "Secular literature comprises historical and administrative treatises like Kautilya's Arthashastra, biographies like Banabhatta's Harshacharita, and dramatic works by Kalidasa, providing insights into ancient polity and governance.",
         "order": 3,
-        "cite": "1"
+        "text": "Secular literature comprises historical and administrative treatises like Kautilya's Arthashastra, biographies like Banabhatta's Harshacharita, and dramatic works by Kalidasa, providing insights into ancient polity and governance."
       },
       {
         "section": "Conclusion",
-        "text": "Complemented by the chronicles of foreign travelers like Megasthenes and Faxian, these literary sources provide a rich textual narrative that balances and contextualizes archaeological discoveries.",
         "order": 4,
-        "cite": "1"
+        "text": "Complemented by the chronicles of foreign travelers like Megasthenes and Faxian, these literary sources provide a rich textual narrative that balances and contextualizes archaeological discoveries."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP1_02",
-    "paper_title": "GS Paper 1",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 2,
+    "year": 2024,
+    "paper_title": "GS Paper 1",
+    "q_number": "2",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "1",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 1",
     "question_text": "Give an account of the challenges faced by India immediately after Independence.",
     "subjectId": "postindep",
     "subjects": [
@@ -82,51 +80,50 @@
       "Challenges after independence"
     ],
     "keyPointers": [
-      "Partition, refugees and a communal wound",
-      "Princely states still outside the Union",
-      "A poor economy and a food gap",
-      "The challenge was to make one state out of a broken start"
+      "Federalism",
+      "Poverty and nutrition",
+      "Linguistic reorganisation"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A divided country, a refugee and a princely state that had not joined",
+      "Poverty, food and a constitution still to be worked",
+      "The challenge was to hold a new state together"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Emerging from colonial rule in August 1947, India faced monumental and compounding existential challenges that severely threatened its survival as a unified democratic nation.",
         "order": 1,
-        "cite": "1"
+        "text": "Emerging from colonial rule in August 1947, India faced monumental and compounding existential challenges that severely threatened its survival as a unified democratic nation."
       },
       {
         "section": "Body",
-        "text": "The immediate humanitarian crisis involved the partition-induced rehabilitation of over 8 million refugees and widespread communal violence, alongside severe structural food shortages.",
         "order": 2,
-        "cite": "1"
+        "text": "The immediate humanitarian crisis involved the partition-induced rehabilitation of over 8 million refugees and widespread communal violence, alongside severe structural food shortages."
       },
       {
         "section": "Body",
-        "text": "Politically and economically, the nation had to integrate over 560 princely states into the Indian Union while simultaneously tackling deep-rooted rural poverty, mass illiteracy, and a stagnant colonial economy.",
         "order": 3,
-        "cite": "1"
+        "text": "Politically and economically, the nation had to integrate over 560 princely states into the Indian Union while simultaneously tackling deep-rooted rural poverty, mass illiteracy, and a stagnant colonial economy."
       },
       {
         "section": "Conclusion",
-        "text": "Overcoming these foundational hurdles required resilient political leadership, successfully laying the groundwork for a sovereign, constitutional democracy and systematic economic planning.",
         "order": 4,
-        "cite": "1"
+        "text": "Overcoming these foundational hurdles required resilient political leadership, successfully laying the groundwork for a sovereign, constitutional democracy and systematic economic planning."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP1_03",
-    "paper_title": "GS Paper 1",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 3,
+    "year": 2024,
+    "paper_title": "GS Paper 1",
+    "q_number": "3",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 1",
     "question_text": "Napoleon was the son of the Revolution. - Explain.",
     "subjectId": "world",
     "subjects": [
@@ -140,51 +137,50 @@
       "Napoleon and the French Revolution"
     ],
     "keyPointers": [
-      "He rose from the Revolution’s army and its careers open to talent",
-      "He kept equality before the law and the end of feudal privilege",
-      "He buried the republic in an empire",
-      "Son of the Revolution, and its closer"
+      "American and French revolutions",
+      "Nationalism in Europe",
+      "Balance of power"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "He rose because the revolution had broken the old order and opened the army to talent",
+      "He then crowned himself and closed the republic",
+      "Son of the revolution is the rise, and not the empire he built on it"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Napoleon Bonaparte is considered the 'son of the Revolution' because his meteoric rise to power and institutional frameworks were directly enabled and shaped by the socio-political ideals of the French Revolution of 1789.",
         "order": 1,
-        "cite": "1"
+        "text": "Napoleon Bonaparte is considered the 'son of the Revolution' because his meteoric rise to power and institutional frameworks were directly enabled and shaped by the socio-political ideals of the French Revolution of 1789."
       },
       {
         "section": "Body",
-        "text": "The revolution destroyed the rigid feudal privileges of the ancient regime, introducing a merit-based social system that allowed a low-ranking artillery officer from Corsica to ascend to the pinnacle of state leadership.",
         "order": 2,
-        "cite": "1"
+        "text": "The revolution destroyed the rigid feudal privileges of the ancient regime, introducing a merit-based social system that allowed a low-ranking artillery officer from Corsica to ascend to the pinnacle of state leadership."
       },
       {
         "section": "Body",
-        "text": "He permanented revolutionary ideals across Europe through the Napoleonic Code, which institutionalized civil equality, protected private property rights, and abolished feudal manorial dues.",
         "order": 3,
-        "cite": "1"
+        "text": "He permanented revolutionary ideals across Europe through the Napoleonic Code, which institutionalized civil equality, protected private property rights, and abolished feudal manorial dues."
       },
       {
         "section": "Conclusion",
-        "text": "While he eventually subverted democratic processes by declaring himself Emperor, his legal and administrative systems permanently solidified the core social achievements of the revolution.",
         "order": 4,
-        "cite": "1"
+        "text": "While he eventually subverted democratic processes by declaring himself Emperor, his legal and administrative systems permanently solidified the core social achievements of the revolution."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP1_04",
-    "paper_title": "GS Paper 1",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 4,
+    "year": 2024,
+    "paper_title": "GS Paper 1",
+    "q_number": "4",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "1",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 1",
     "question_text": "Discuss the impacts of Globalisation on Indian Society.",
     "subjectId": "society",
     "subjects": [
@@ -198,51 +194,50 @@
       "Globalisation and Indian society"
     ],
     "keyPointers": [
-      "New goods, media and a job in a service",
-      "Family, language and a local craft feel the pressure",
-      "Inequality of who can join",
-      "The impact is mixed, not only loss or only gain"
+      "Globalisation and culture",
+      "Inequality",
+      "Continuity and change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A job, a screen and a good travel in",
+      "A caste practice and a joint roof are pressed",
+      "The impact is a wider choice and a sharper gap"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Globalisation has initiated profound structural and cultural transformations across Indian society, acting as a powerful catalyst for modernization while presenting unique challenges to traditional institutions.",
         "order": 1,
-        "cite": "1"
+        "text": "Globalisation has initiated profound structural and cultural transformations across Indian society, acting as a powerful catalyst for modernization while presenting unique challenges to traditional institutions."
       },
       {
         "section": "Body",
-        "text": "Culturally, it has popularized cosmopolitan lifestyles, food habits, and global media, though it has also sparked 'glocalisation,' where global brands adapt to fit local cultural sensibilities.",
         "order": 2,
-        "cite": "1"
+        "text": "Culturally, it has popularized cosmopolitan lifestyles, food habits, and global media, though it has also sparked 'glocalisation,' where global brands adapt to fit local cultural sensibilities."
       },
       {
         "section": "Body",
-        "text": "Socially, it has accelerated the transition from joint family structures to nuclear units, enhanced women's urban workforce participation, and connected rural fringes through digital communication technologies.",
         "order": 3,
-        "cite": "1"
+        "text": "Socially, it has accelerated the transition from joint family structures to nuclear units, enhanced women's urban workforce participation, and connected rural fringes through digital communication technologies."
       },
       {
         "section": "Conclusion",
-        "text": "While boosting economic mobility, navigating globalization requires strategic policy support to protect indigenous arts and mitigate widening urban-rural socio-economic disparities.",
         "order": 4,
-        "cite": "1"
+        "text": "While boosting economic mobility, navigating globalization requires strategic policy support to protect indigenous arts and mitigate widening urban-rural socio-economic disparities."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP1_05",
-    "paper_title": "GS Paper 1",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 5,
+    "year": 2024,
+    "paper_title": "GS Paper 1",
+    "q_number": "5",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 1",
     "question_text": "Explain the contribution of woman's organisation in the development of Indian rural society.",
     "subjectId": "society",
     "subjects": [
@@ -256,51 +251,50 @@
       "Women’s organisations in rural India"
     ],
     "keyPointers": [
-      "Self-help groups, a cooperative and a campaign",
-      "They push school, health and a voice in the panchayat",
-      "They reach women the state office misses",
-      "Contribution is organisation, not only a scheme"
+      "Women and work",
+      "Education and social change",
+      "Civil society and NGOs"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A women's group has pushed a school, a saving and a protest against a local wrong",
+      "In a village that is often the only organised voice women have",
+      "The contribution is practical, and it is still uneven"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Women's organizations have played a transformative role in rural India by actively driving social empowerment, financial self-reliance, and political awareness at the grassroots level.",
         "order": 1,
-        "cite": "1"
+        "text": "Women's organizations have played a transformative role in rural India by actively driving social empowerment, financial self-reliance, and political awareness at the grassroots level."
       },
       {
         "section": "Body",
-        "text": "Through Self-Help Groups (SHGs) under the National Rural Livelihoods Mission (NRLM), these organizations provide institutional micro-credit, fostering rural entrepreneurship and reducing dependence on informal moneylenders.",
         "order": 2,
-        "cite": "1"
+        "text": "Through Self-Help Groups (SHGs) under the National Rural Livelihoods Mission (NRLM), these organizations provide institutional micro-credit, fostering rural entrepreneurship and reducing dependence on informal moneylenders."
       },
       {
         "section": "Body",
-        "text": "They spearhead campaigns against localized social evils like child marriage, domestic violence, and female feticide, while improving maternal health, rural sanitation, and girl-child education.",
         "order": 3,
-        "cite": "1"
+        "text": "They spearhead campaigns against localized social evils like child marriage, domestic violence, and female feticide, while improving maternal health, rural sanitation, and girl-child education."
       },
       {
         "section": "Conclusion",
-        "text": "By preparing rural women for active leadership in Panchayati Raj Institutions (PRIs), these groups are successfully dismantling patriarchal barriers and ensuring an inclusive rural economy.",
         "order": 4,
-        "cite": "1"
+        "text": "By preparing rural women for active leadership in Panchayati Raj Institutions (PRIs), these groups are successfully dismantling patriarchal barriers and ensuring an inclusive rural economy."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP1_06",
-    "paper_title": "GS Paper 1",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 6,
+    "year": 2024,
+    "paper_title": "GS Paper 1",
+    "q_number": "6",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "1",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 1",
     "question_text": "Describe the main characteristics of Indian culture.",
     "subjectId": "culture",
     "subjects": [
@@ -314,51 +308,50 @@
       "Characteristics of Indian culture"
     ],
     "keyPointers": [
-      "Continuity with change",
-      "Many traditions inside one civilisation",
-      "Absorption of a new practice",
-      "Unity is not sameness"
+      "Diversity and pluralism",
+      "Continuity and change",
+      "Literature as a social record"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Many faiths, many tongues and a habit of absorbing a new form",
+      "Continuity is the thread, and change is constant",
+      "The characteristic is plurality, not a single style"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Indian culture is a complex, ancient civilizational tapestry renowned globally for its deep continuity, structural resilience, and unique ability to absorb diverse external influences.",
         "order": 1,
-        "cite": "1"
+        "text": "Indian culture is a complex, ancient civilizational tapestry renowned globally for its deep continuity, structural resilience, and unique ability to absorb diverse external influences."
       },
       {
         "section": "Body",
-        "text": "Its defining feature is 'Unity in Diversity,' where an immense array of languages, religions, local festivals, and geographic variations coexist harmoniously under a shared civilizational identity.",
         "order": 2,
-        "cite": "1"
+        "text": "Its defining feature is 'Unity in Diversity,' where an immense array of languages, religions, local festivals, and geographic variations coexist harmoniously under a shared civilizational identity."
       },
       {
         "section": "Body",
-        "text": "Core philosophical tenets include spiritual pluralism, tolerance, respect for elders, and foundational values like 'Vasudhaiva Kutumbakam' (the world is one family) and 'Ahimsa' (non-violence).",
         "order": 3,
-        "cite": "1"
+        "text": "Core philosophical tenets include spiritual pluralism, tolerance, respect for elders, and foundational values like 'Vasudhaiva Kutumbakam' (the world is one family) and 'Ahimsa' (non-violence)."
       },
       {
         "section": "Conclusion",
-        "text": "This ongoing synthesis of tradition and progressive thinking allows Indian culture to retain its core ethos while dynamically evolving in a rapidly modernizing world.",
         "order": 4,
-        "cite": "1"
+        "text": "This ongoing synthesis of tradition and progressive thinking allows Indian culture to retain its core ethos while dynamically evolving in a rapidly modernizing world."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP1_07",
-    "paper_title": "GS Paper 1",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 7,
+    "year": 2024,
+    "paper_title": "GS Paper 1",
+    "q_number": "7",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 1",
     "question_text": "What is the use of oceans for humans?",
     "subjectId": "geo",
     "subjects": [
@@ -372,51 +365,50 @@
       "Human uses of the ocean"
     ],
     "keyPointers": [
-      "Food, a route and a mineral",
-      "Climate and a coast that the ocean protects or hits",
-      "Energy and a dump, both",
-      "Use without a limit spends the sea"
+      "Marine resources",
+      "Straits and trade routes",
+      "Ocean currents"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Food, a mineral, a route and a climate",
+      "The ocean is a store and a road",
+      "The use turns into a loss if the taking destroys the stock"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Oceans serve as indispensable global life-support systems that provide vital economic, ecological, and strategic resources necessary for human civilization.",
         "order": 1,
-        "cite": "1"
+        "text": "Oceans serve as indispensable global life-support systems that provide vital economic, ecological, and strategic resources necessary for human civilization."
       },
       {
         "section": "Body",
-        "text": "Economically, oceans support international trade routes facilitating over 80% of global commerce by volume, while providing food and livelihoods to billions through marine fisheries and off-shore hydrocarbon extraction.",
         "order": 2,
-        "cite": "1"
+        "text": "Economically, oceans support international trade routes facilitating over 80% of global commerce by volume, while providing food and livelihoods to billions through marine fisheries and off-shore hydrocarbon extraction."
       },
       {
         "section": "Body",
-        "text": "Ecologically, they act as primary climate regulators, generating over half of the world's oxygen supply via marine phytoplankton and acting as a massive carbon sink for greenhouse gases.",
         "order": 3,
-        "cite": "1"
+        "text": "Ecologically, they act as primary climate regulators, generating over half of the world's oxygen supply via marine phytoplankton and acting as a massive carbon sink for greenhouse gases."
       },
       {
         "section": "Conclusion",
-        "text": "Recognizing their potential for tidal energy and biotechnology, adopting sustainable ocean management practices (the Blue Economy) is essential to combat marine pollution and overexploitation.",
         "order": 4,
-        "cite": "1"
+        "text": "Recognizing their potential for tidal energy and biotechnology, adopting sustainable ocean management practices (the Blue Economy) is essential to combat marine pollution and overexploitation."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP1_08",
-    "paper_title": "GS Paper 1",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 8,
+    "year": 2024,
+    "paper_title": "GS Paper 1",
+    "q_number": "8",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 1",
     "question_text": "Explain the interrelationship between climate, soils and vegetation.",
     "subjectId": "geo",
     "subjects": [
@@ -430,51 +422,50 @@
       "Climate, soil and vegetation"
     ],
     "keyPointers": [
-      "Rain and heat decide the soil’s pace",
-      "The soil and the climate decide the plant",
-      "The plant in turn holds the soil",
-      "The three are one system"
+      "Climate and agriculture",
+      "Soil types",
+      "Monsoon"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Rain and heat decide what can grow",
+      "The plant then builds and protects the soil",
+      "The three are one system, and a change in one moves the other two"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Climate, soil, and vegetation form a deeply interconnected ecological triad where variations in any single component directly alter the properties and stability of the other two.",
         "order": 1,
-        "cite": "1"
+        "text": "Climate, soil, and vegetation form a deeply interconnected ecological triad where variations in any single component directly alter the properties and stability of the other two."
       },
       {
         "section": "Body",
-        "text": "Climate acts as the overarching determinant; temperature and precipitation patterns dictate rock weathering and organic decomposition to form specific soils, which subsequently support corresponding vegetation zones.",
         "order": 2,
-        "cite": "1"
+        "text": "Climate acts as the overarching determinant; temperature and precipitation patterns dictate rock weathering and organic decomposition to form specific soils, which subsequently support corresponding vegetation zones."
       },
       {
         "section": "Body",
-        "text": "In reverse, dense vegetation protects the topsoil from wind and water erosion while enriching it with organic humus, and expansive forest covers alter regional microclimates via transpiration and carbon sequestration.",
         "order": 3,
-        "cite": "1"
+        "text": "In reverse, dense vegetation protects the topsoil from wind and water erosion while enriching it with organic humus, and expansive forest covers alter regional microclimates via transpiration and carbon sequestration."
       },
       {
         "section": "Conclusion",
-        "text": "This delicate feedback loop underscores the critical need for conservation, as disruption like deforestation or climate change rapidly triggers soil degradation and ecosystem collapse.",
         "order": 4,
-        "cite": "1"
+        "text": "This delicate feedback loop underscores the critical need for conservation, as disruption like deforestation or climate change rapidly triggers soil degradation and ecosystem collapse."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP1_09",
-    "paper_title": "GS Paper 1",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 9,
+    "year": 2024,
+    "paper_title": "GS Paper 1",
+    "q_number": "9",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "1",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 1",
     "question_text": "What is smart city? Describe its main characteristics.",
     "subjectId": "society",
     "subjects": [
@@ -488,51 +479,50 @@
       "Smart city"
     ],
     "keyPointers": [
-      "Technology used for a service: water, waste, a bus, a grievance",
-      "Characteristics: data, integration and a citizen interface",
-      "A label is not the city",
-      "Smart only if the ordinary resident can use it"
+      "Urbanisation",
+      "Digital public infrastructure",
+      "Infrastructure"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A smart city uses data to run a road, a water line and a grievance",
+      "The characteristic is a service that can be seen and fixed, not a gadget",
+      "Smart without a drain and a bus is only a label"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "A smart city is an urban development model that utilizes digital technologies, data analytics, and ICT solutions to optimize infrastructure, improve institutional efficiency, and enhance citizen well-being.",
         "order": 1,
-        "cite": "1"
+        "text": "A smart city is an urban development model that utilizes digital technologies, data analytics, and ICT solutions to optimize infrastructure, improve institutional efficiency, and enhance citizen well-being."
       },
       {
         "section": "Body",
-        "text": "Key physical features include integrated multi-modal public transport networks, smart grids for energy conservation, automated waste monitoring, and sustainable water management systems.",
-        "order": 3,
-        "cite": "1"
-      },
-      {
-        "section": "Body",
-        "text": "Administrative attributes emphasize responsive e-governance, real-time public safety surveillance, and inclusive public spaces that prioritize pedestrian safety, green corridors, and environmental resilience.",
         "order": 2,
-        "cite": "1"
+        "text": "Key physical features include integrated multi-modal public transport networks, smart grids for energy conservation, automated waste monitoring, and sustainable water management systems."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Administrative attributes emphasize responsive e-governance, real-time public safety surveillance, and inclusive public spaces that prioritize pedestrian safety, green corridors, and environmental resilience."
       },
       {
         "section": "Conclusion",
-        "text": "Ultimately, a smart city synergizes data-driven intelligence with citizen-centric planning to foster economic innovation and build highly livable, sustainable urban spaces.",
         "order": 4,
-        "cite": "1"
+        "text": "Ultimately, a smart city synergizes data-driven intelligence with citizen-centric planning to foster economic innovation and build highly livable, sustainable urban spaces."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP1_10",
-    "paper_title": "GS Paper 1",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 10,
+    "year": 2024,
+    "paper_title": "GS Paper 1",
+    "q_number": "10",
     "marks": 8,
+    "word_limit": 125,
     "importance": 3,
-    "cite": "1",
-    "last_updated": 1779105600,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 1",
     "question_text": "Write a note on seismic zones of India.",
     "subjectId": "geo",
     "subjects": [
@@ -546,51 +536,49 @@
       "Seismic zones of India"
     ],
     "keyPointers": [
-      "The country is zoned by earthquake risk",
-      "The Himalaya and the north-east are the highest",
-      "A zone is a probability, not a prediction of a date",
-      "Building rules should follow the zone"
+      "Earthquakes and volcanoes",
+      "Disaster risk reduction"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The map grades the country by how likely a damaging shake is",
+      "The Himalaya and some other belts sit in the higher zones",
+      "A note on the zones is also a note on where the building rule has to be stricter"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "India's dynamic tectonic setting, primarily driven by the continuous collision of the Indian Plate with the Eurasian Plate, renders a vast portion of the country highly vulnerable to earthquakes.",
         "order": 1,
-        "cite": "1"
+        "text": "India's dynamic tectonic setting, primarily driven by the continuous collision of the Indian Plate with the Eurasian Plate, renders a vast portion of the country highly vulnerable to earthquakes."
       },
       {
         "section": "Body",
-        "text": "The Bureau of Indian Standards (BIS) maps the country into four distinct macro-seismic zones based on intensity risk factors: Zone II (low active), Zone III (moderate), Zone IV (severe), and Zone V (very severe).",
         "order": 2,
-        "cite": "1"
+        "text": "The Bureau of Indian Standards (BIS) maps the country into four distinct macro-seismic zones based on intensity risk factors: Zone II (low active), Zone III (moderate), Zone IV (severe), and Zone V (very severe)."
       },
       {
         "section": "Body",
-        "text": "Zone V encompasses high-risk territories including the entire North-Eastern region, parts of Jammu & Kashmir, Himachal Pradesh, Uttarakhand, the Rann of Kutch in Gujarat, and North Bihar.",
         "order": 3,
-        "cite": "1"
+        "text": "Zone V encompasses high-risk territories including the entire North-Eastern region, parts of Jammu & Kashmir, Himachal Pradesh, Uttarakhand, the Rann of Kutch in Gujarat, and North Bihar."
       },
       {
         "section": "Conclusion",
-        "text": "Systematic micro-zonation and mapping are vital to strictly enforce earthquake-resistant building codes and strengthen structural disaster preparedness across these high-risk areas.",
         "order": 4,
-        "cite": "1"
+        "text": "Systematic micro-zonation and mapping are vital to strictly enforce earthquake-resistant building codes and strengthen structural disaster preparedness across these high-risk areas."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP1_11",
-    "paper_title": "GS Paper 1",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 11,
+    "year": 2024,
+    "paper_title": "GS Paper 1",
+    "q_number": "11",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1779109200,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 1",
     "question_text": "\"The French Revolution was a great result of enlightenment period.\" - Comment.",
     "subjectId": "world",
     "subjects": [
@@ -604,51 +592,48 @@
       "Enlightenment and the French Revolution"
     ],
     "keyPointers": [
-      "Reason, rights and a challenge to privilege",
-      "The ideas were in the books before the street",
-      "The Revolution also had bread, tax and a class",
-      "A great result, and not of ideas alone"
+      "American and French revolutions"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The writers of the enlightenment put reason, a right and a consent above a divine king",
+      "1789 took those ideas into the street",
+      "A great result is fair, and hunger and a bankrupt state were also causes"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The French Revolution of 1789 was not an isolated outburst of political anger, but rather the structural and intellectual culmination of the European Enlightenment period.",
         "order": 1,
-        "cite": "1"
+        "text": "The French Revolution of 1789 was not an isolated outburst of political anger, but rather the structural and intellectual culmination of the European Enlightenment period."
       },
       {
         "section": "Body",
-        "text": "Philosophers of the Enlightenment—such as Rousseau, Voltaire, and Montesquieu—critically undermined the divine right of kings, attacked religious orthodoxy, and advocated for the separation of state powers.",
         "order": 2,
-        "cite": "1"
+        "text": "Philosophers of the Enlightenment—such as Rousseau, Voltaire, and Montesquieu—critically undermined the divine right of kings, attacked religious orthodoxy, and advocated for the separation of state powers."
       },
       {
         "section": "Body",
-        "text": "These revolutionary ideas of rationalism, liberty, and civic equality provided the rising French bourgeoisie with an ideological vocabulary to challenge the systemic tax exemptions and feudal privileges of the nobility.",
         "order": 3,
-        "cite": "1"
+        "text": "These revolutionary ideas of rationalism, liberty, and civic equality provided the rising French bourgeoisie with an ideological vocabulary to challenge the systemic tax exemptions and feudal privileges of the nobility."
       },
       {
         "section": "Conclusion",
-        "text": "Therefore, the Enlightenment functioned as the conceptual catalyst, providing the philosophical architecture that dismantled the ancient regime and birthed modern democratic values.",
         "order": 4,
-        "cite": "1"
+        "text": "Therefore, the Enlightenment functioned as the conceptual catalyst, providing the philosophical architecture that dismantled the ancient regime and birthed modern democratic values."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP1_12",
-    "paper_title": "GS Paper 1",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 12,
+    "year": 2024,
+    "paper_title": "GS Paper 1",
+    "q_number": "12",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "1",
-    "last_updated": 1779109200,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 1",
     "question_text": "Outline the development of revolutionary movement in Bengal.",
     "subjectId": "modern",
     "subjects": [
@@ -662,109 +647,104 @@
       "Revolutionary movement in Bengal"
     ],
     "keyPointers": [
-      "Secret societies after the Swadeshi years",
-      "Anushilan, Jugantar and a turn to arms",
-      "It grew from a blocked constitutional path",
-      "Bengal was a centre, not the whole movement"
+      "Revolutionary nationalism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Secret societies, a bomb and a strike grew in Bengal after the moderate method looked too slow",
+      "The movement was urban, educated and often short of a mass base",
+      "Its development is a line from a protest to an armed act"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Bengal emerged as a premier nerve center of radical nationalist militancy in India, developing rapidly as an organized reaction against the colonial Partition of Bengal in 1905.",
         "order": 1,
-        "cite": "1"
+        "text": "Bengal emerged as a premier nerve center of radical nationalist militancy in India, developing rapidly as an organized reaction against the colonial Partition of Bengal in 1905."
       },
       {
         "section": "Body",
-        "text": "The initial phase saw the rise of secret societies like the Anushilan Samiti and Jugantar, which propagated underground physical training, manufactured indigenous explosives, and targeted oppressive British bureaucrats.",
         "order": 2,
-        "cite": "1"
+        "text": "The initial phase saw the rise of secret societies like the Anushilan Samiti and Jugantar, which propagated underground physical training, manufactured indigenous explosives, and targeted oppressive British bureaucrats."
       },
       {
         "section": "Body",
-        "text": "The movement attained a more sophisticated operational model during the late 1920s and 30s under Surya Sen, leading to the historic 1930 Chittagong Armoury Raid which witnessed active participation from women revolutionaries.",
         "order": 3,
-        "cite": "1"
+        "text": "The movement attained a more sophisticated operational model during the late 1920s and 30s under Surya Sen, leading to the historic 1930 Chittagong Armoury Raid which witnessed active participation from women revolutionaries."
       },
       {
         "section": "Conclusion",
-        "text": "Though eventually contained by aggressive colonial legislation and police suppression, Bengal's revolutionary movement permanently weakened British administrative confidence and inspired nationwide anti-colonial struggles.",
         "order": 4,
-        "cite": "1"
+        "text": "Though eventually contained by aggressive colonial legislation and police suppression, Bengal's revolutionary movement permanently weakened British administrative confidence and inspired nationwide anti-colonial struggles."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP1_13",
-    "paper_title": "GS Paper 1",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 13,
+    "year": 2024,
+    "paper_title": "GS Paper 1",
+    "q_number": "13",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1779109200,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 1",
     "question_text": "What are the main features of Sangam Period Culture ?",
-    "subjectId": "ancient",
+    "subjectId": "culture",
     "subjects": [
-      "Ancient & Medieval"
+      "Art & Culture"
     ],
-    "topic": "Ancient Culture",
+    "topic": "Sangam culture",
     "topics": [
-      "Ancient Culture"
+      "Sangam culture"
     ],
     "subTopics": [
       "Sangam culture"
     ],
     "keyPointers": [
-      "Tamil poetry of love and war",
-      "Chiefs, a port and a gift economy",
-      "A distinct south Indian public",
-      "The culture is in the poems and the trade"
+      "Literature as a social record",
+      "Continuity and change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Love and war, a gift and a hero, are the themes the poems keep",
+      "The culture is of a city, a port and a chief",
+      "The feature is a society described by its poets"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The Sangam Period (300 BCE - 300 CE) represents the classical era of early South Indian history, characterized by advanced secular literature, vibrant material progress, and distinct social structures.",
         "order": 1,
-        "cite": "1"
+        "text": "The Sangam Period (300 BCE - 300 CE) represents the classical era of early South Indian history, characterized by advanced secular literature, vibrant material progress, and distinct social structures."
       },
       {
         "section": "Body",
-        "text": "Socio-ecologically, life was categorized across five micro-landscapes (Tinais) ranging from coastal to hilly terrains, which lacked rigid northern varna hierarchies and allowed women considerable creative freedoms as poetesses.",
         "order": 2,
-        "cite": "1"
+        "text": "Socio-ecologically, life was categorized across five micro-landscapes (Tinais) ranging from coastal to hilly terrains, which lacked rigid northern varna hierarchies and allowed women considerable creative freedoms as poetesses."
       },
       {
         "section": "Body",
-        "text": "Material culture thrived on robust maritime trade links with Rome, advanced irrigation systems, and a highly stylized tradition of heroic poetry divided into themes of love (Agam) and valor/warfare (Puram).",
         "order": 3,
-        "cite": "1"
+        "text": "Material culture thrived on robust maritime trade links with Rome, advanced irrigation systems, and a highly stylized tradition of heroic poetry divided into themes of love (Agam) and valor/warfare (Puram)."
       },
       {
         "section": "Conclusion",
-        "text": "Ultimately, Sangam culture established the foundational heritage of Tamil civilization, masterfully blending pragmatic everyday realities with highly advanced artistic and structural achievements.",
         "order": 4,
-        "cite": "1"
+        "text": "Ultimately, Sangam culture established the foundational heritage of Tamil civilization, masterfully blending pragmatic everyday realities with highly advanced artistic and structural achievements."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP1_14",
-    "paper_title": "GS Paper 1",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 14,
+    "year": 2024,
+    "paper_title": "GS Paper 1",
+    "q_number": "14",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "1",
-    "last_updated": 1779109200,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 1",
     "question_text": "Indian society is known for its uniqueness and cultural diversity. Discuss.",
     "subjectId": "society",
     "subjects": [
@@ -778,51 +758,49 @@
       "Uniqueness and diversity of Indian society"
     ],
     "keyPointers": [
-      "Many languages, faiths and regions in one polity",
-      "Uniqueness is the holding together, not one custom",
-      "Diversity is lived, not only listed",
-      "Discuss both the variety and the frame"
+      "Diversity and pluralism",
+      "Unity and diversity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A caste, a language, a faith and a food differ from one district to the next",
+      "The uniqueness claimed is that these have lived in one political frame",
+      "Diversity is a fact, and unity is a task"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Indian society stands out as a unique civilizational entity defined by its immense internal diversity and a historic capacity to maintain unity across varied cultural layers.",
         "order": 1,
-        "cite": "1"
+        "text": "Indian society stands out as a unique civilizational entity defined by its immense internal diversity and a historic capacity to maintain unity across varied cultural layers."
       },
       {
         "section": "Body",
-        "text": "This vast diversity manifests through thousands of distinct linguistic groups, diverse religious beliefs, unique regional artistic traditions, and localized variations in customs and dress.",
         "order": 2,
-        "cite": "1"
+        "text": "This vast diversity manifests through thousands of distinct linguistic groups, diverse religious beliefs, unique regional artistic traditions, and localized variations in customs and dress."
       },
       {
         "section": "Body",
-        "text": "The underlying uniqueness lies in a shared socio-philosophical fabric that emphasizes synthesis over homogenization, fostering syncretic traditions like the 'Ganga-Jamuni tehzeeb' and a resilient joint family system.",
         "order": 3,
-        "cite": "1"
+        "text": "The underlying uniqueness lies in a shared socio-philosophical fabric that emphasizes synthesis over homogenization, fostering syncretic traditions like the 'Ganga-Jamuni tehzeeb' and a resilient joint family system."
       },
       {
         "section": "Conclusion",
-        "text": "This enduring syncretic mechanism ensures that multiculturalism operates as an organic feature of daily life, transforming diversity into a source of societal strength rather than conflict.",
         "order": 4,
-        "cite": "1"
+        "text": "This enduring syncretic mechanism ensures that multiculturalism operates as an organic feature of daily life, transforming diversity into a source of societal strength rather than conflict."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP1_15",
-    "paper_title": "GS Paper 1",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 15,
+    "year": 2024,
+    "paper_title": "GS Paper 1",
+    "q_number": "15",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "1",
-    "last_updated": 1779109200,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 1",
     "question_text": "Discuss the causes and consequences of poverty.",
     "subjectId": "society",
     "subjects": [
@@ -836,51 +814,50 @@
       "Causes and consequences of poverty"
     ],
     "keyPointers": [
-      "Lack of land, skill, health and a job",
-      "Consequences: hunger, a child out of school, a short life",
-      "Poverty also reproduces itself",
-      "Cause and result feed each other"
+      "Poverty and nutrition",
+      "Inequality",
+      "Inclusive growth"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A missing job, a small farm and a poor school are causes",
+      "The consequence is a hunger, a short life and a child pulled into work",
+      "Poverty reproduces itself unless the cause is cut"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Poverty remains a deep multi-dimensional socioeconomic challenge wherein individuals lack access to the basic resources required to achieve a decent standard of living.",
         "order": 1,
-        "cite": "1"
+        "text": "Poverty remains a deep multi-dimensional socioeconomic challenge wherein individuals lack access to the basic resources required to achieve a decent standard of living."
       },
       {
         "section": "Body",
-        "text": "Structural causes include historical colonial draining of resources, rapid population expansion outstripping resources, low agricultural productivity, unequal asset distribution, and a persistent skill deficit.",
         "order": 2,
-        "cite": "1"
+        "text": "Structural causes include historical colonial draining of resources, rapid population expansion outstripping resources, low agricultural productivity, unequal asset distribution, and a persistent skill deficit."
       },
       {
         "section": "Body",
-        "text": "The compounding consequences lead to chronic malnutrition, high infant mortality, the uncontrolled growth of informal urban slums, inter-generational illiteracy, and vulnerability to social crimes.",
         "order": 3,
-        "cite": "1"
+        "text": "The compounding consequences lead to chronic malnutrition, high infant mortality, the uncontrolled growth of informal urban slums, inter-generational illiteracy, and vulnerability to social crimes."
       },
       {
         "section": "Conclusion",
-        "text": "Breaking this vicious cycle demands targeted interventions combining Direct Benefit Transfers (DBT) with institutional investments in healthcare, vocational schooling, and rural job creation.",
         "order": 4,
-        "cite": "1"
+        "text": "Breaking this vicious cycle demands targeted interventions combining Direct Benefit Transfers (DBT) with institutional investments in healthcare, vocational schooling, and rural job creation."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP1_16",
-    "paper_title": "GS Paper 1",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 16,
+    "year": 2024,
+    "paper_title": "GS Paper 1",
+    "q_number": "16",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1779109200,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 1",
     "question_text": "How is the growing regionalism in India affecting the economy and polity? Explain.",
     "subjectId": "society",
     "subjects": [
@@ -894,51 +871,50 @@
       "Regionalism in economy and polity"
     ],
     "keyPointers": [
-      "A demand for a share of investment and a job",
-      "Parties and a state bargain around identity",
-      "It can correct neglect and can also fragment a policy",
-      "Economy and polity both feel the pressure"
+      "Regionalism",
+      "Federalism",
+      "Inclusive growth"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A demand for a state or a preference for a local firm can split a market",
+      "It also forces the polity to share power",
+      "The effect is a tension, and sometimes a fairer bargain"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Regionalism involves an intense political and cultural attachment to a sub-national geographic zone, often catalyzed by real or perceived economic imbalances.",
         "order": 1,
-        "cite": "1"
+        "text": "Regionalism involves an intense political and cultural attachment to a sub-national geographic zone, often catalyzed by real or perceived economic imbalances."
       },
       {
         "section": "Body",
-        "text": "On the polity, it drives the rise of regional political parties, transforms national coalitions, sparks center-state frictions, and can lead to nativist policies like the 'sons of the soil' doctrine.",
         "order": 2,
-        "cite": "1"
+        "text": "On the polity, it drives the rise of regional political parties, transforms national coalitions, sparks center-state frictions, and can lead to nativist policies like the 'sons of the soil' doctrine."
       },
       {
         "section": "Body",
-        "text": "On the economy, it often triggers sub-optimal interstate resource squabbles (like river water disputes) and prompts states to shift funds toward populist local subsidies rather than long-term infrastructure assets.",
         "order": 3,
-        "cite": "1"
+        "text": "On the economy, it often triggers sub-optimal interstate resource squabbles (like river water disputes) and prompts states to shift funds toward populist local subsidies rather than long-term infrastructure assets."
       },
       {
         "section": "Conclusion",
-        "text": "While regionalism can decentralize development, balancing local identity with national integration requires a proactive commitment to institutional cooperative federalism.",
         "order": 4,
-        "cite": "1"
+        "text": "While regionalism can decentralize development, balancing local identity with national integration requires a proactive commitment to institutional cooperative federalism."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP1_17",
-    "paper_title": "GS Paper 1",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 17,
+    "year": 2024,
+    "paper_title": "GS Paper 1",
+    "q_number": "17",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1779109200,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 1",
     "question_text": "'Population explosion is a serious challenge to India's holistic development.' Examine the statement.",
     "subjectId": "society",
     "subjects": [
@@ -952,51 +928,50 @@
       "Population and holistic development"
     ],
     "keyPointers": [
-      "Numbers press school, health, land and a job",
-      "Holistic development needs quality, not only a headcount",
-      "The rate has slowed; the size is still the challenge",
-      "Examine, do not treat it as the only cause"
+      "Human development",
+      "Inequality",
+      "Urbanisation"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A fast rise in numbers presses a school, a job, a house and a field",
+      "Holistic development needs all of these together",
+      "The challenge is the pace, and also the quality of each added life"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Rapid population expansion exerts significant structural pressure on India's socioeconomic architecture, directly complicating the execution of sustainable developmental goals.",
         "order": 1,
-        "cite": "1"
+        "text": "Rapid population expansion exerts significant structural pressure on India's socioeconomic architecture, directly complicating the execution of sustainable developmental goals."
       },
       {
         "section": "Body",
-        "text": "Ecologically and socially, it depletes per-capita water security, accelerates unplanned urban migration, causes severe waste management crises, and dilutes the per-capita impact of public health and school funding.",
         "order": 2,
-        "cite": "1"
+        "text": "Ecologically and socially, it depletes per-capita water security, accelerates unplanned urban migration, causes severe waste management crises, and dilutes the per-capita impact of public health and school funding."
       },
       {
         "section": "Body",
-        "text": "Economically, the massive supply of labor consistently outpaces formal employment creation, threatening to transform a potential demographic dividend into an underemployment crisis.",
         "order": 3,
-        "cite": "1"
+        "text": "Economically, the massive supply of labor consistently outpaces formal employment creation, threatening to transform a potential demographic dividend into an underemployment crisis."
       },
       {
         "section": "Conclusion",
-        "text": "Mitigating this threat requires stable reproductive health policies alongside massive scale-up investments in vocational skill development to enrich human capital.",
         "order": 4,
-        "cite": "1"
+        "text": "Mitigating this threat requires stable reproductive health policies alongside massive scale-up investments in vocational skill development to enrich human capital."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP1_18",
-    "paper_title": "GS Paper 1",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 18,
+    "year": 2024,
+    "paper_title": "GS Paper 1",
+    "q_number": "18",
     "marks": 12,
+    "word_limit": 200,
     "importance": 3,
-    "cite": "1",
-    "last_updated": 1779109200,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 1",
     "question_text": "Throw light on the concept of smart village in India and describe the main features of smart village.",
     "subjectId": "society",
     "subjects": [
@@ -1010,109 +985,107 @@
       "Smart village"
     ],
     "keyPointers": [
-      "A village with power, a road, health, school and a digital service",
-      "Not a small copy of a smart city",
-      "Local livelihood stays the centre",
-      "Features are basic services that actually work"
+      "Inclusive growth",
+      "Digital public infrastructure",
+      "Infrastructure"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A smart village is a connected village with a school, a health point and a livelihood",
+      "The feature is a service, not a screen alone",
+      "The concept fails if the last hamlet is left off the map"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The 'Smart Village' model focuses on modernizing rural zones by embedding digital tools, sustainable energy, and upgraded livelihoods to mitigate forced urban migration.",
         "order": 1,
-        "cite": "1"
+        "text": "The 'Smart Village' model focuses on modernizing rural zones by embedding digital tools, sustainable energy, and upgraded livelihoods to mitigate forced urban migration."
       },
       {
         "section": "Body",
-        "text": "Key technological features include 100% digital connectivity via broadband, decentralized solar energy grids, custom e-governance kiosks for public services, and tech-enabled farming portals.",
         "order": 2,
-        "cite": "1"
+        "text": "Key technological features include 100% digital connectivity via broadband, decentralized solar energy grids, custom e-governance kiosks for public services, and tech-enabled farming portals."
       },
       {
         "section": "Body",
-        "text": "Socio-economic attributes feature smart primary classrooms, scientific solid-liquid waste treatment, modern micro-cold storage facilities, and clean drinking water purification plants.",
         "order": 3,
-        "cite": "1"
+        "text": "Socio-economic attributes feature smart primary classrooms, scientific solid-liquid waste treatment, modern micro-cold storage facilities, and clean drinking water purification plants."
       },
       {
         "section": "Conclusion",
-        "text": "By providing modern amenities while preserving rural ways of life, smart villages construct independent local economies capable of sustainable growth.",
         "order": 4,
-        "cite": "1"
+        "text": "By providing modern amenities while preserving rural ways of life, smart villages construct independent local economies capable of sustainable growth."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP1_19",
-    "paper_title": "GS Paper 1",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 19,
+    "year": 2024,
+    "paper_title": "GS Paper 1",
+    "q_number": "19",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1779109200,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 1",
     "question_text": "Biodiversity conservation of forest and water bodies in India is essential to maintain ecological balance. Elucidate in detail.",
-    "subjectId": "geo",
+    "subjectId": "energyenv",
     "subjects": [
-      "Geography"
+      "Environment & Ecology"
     ],
-    "topic": "Environment",
+    "topic": "Forests, water and the balance",
     "topics": [
-      "Environment"
+      "Forests, water and the balance"
     ],
     "subTopics": [
       "Forest and wetland biodiversity"
     ],
     "keyPointers": [
-      "Species hold soil, water and a food chain",
-      "A forest and a wetland are not spare land",
-      "Balance fails when one link is cut",
-      "Conservation is the condition of the rest of the system"
+      "Biodiversity loss",
+      "Forest conservation",
+      "Freshwater availability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A forest and a water body hold species that a field cannot",
+      "Losing them breaks a chain of food, a flood and a drought",
+      "Conservation is essential because the balance is not replaced by a park notice"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Preserving the biological diversity within India's extensive forests and aquatic networks is a prerequisite for maintaining fundamental planetary and regional life-support loops.",
         "order": 1,
-        "cite": "1"
+        "text": "Preserving the biological diversity within India's extensive forests and aquatic networks is a prerequisite for maintaining fundamental planetary and regional life-support loops."
       },
       {
         "section": "Body",
-        "text": "Forest diversity drives rainfall reliability, secures topsoil matrix from erosion, and locks away carbon, while healthy aquatic wetlands purify water and house fragile micro-organisms.",
         "order": 2,
-        "cite": "1"
+        "text": "Forest diversity drives rainfall reliability, secures topsoil matrix from erosion, and locks away carbon, while healthy aquatic wetlands purify water and house fragile micro-organisms."
       },
       {
         "section": "Body",
-        "text": "Degradation collapses natural predator-prey dynamics, fuels severe human-wildlife encounters, disrupts localized micro-climates, and undermines the livelihoods of millions of tribal and forest-dwelling communities.",
         "order": 3,
-        "cite": "1"
+        "text": "Degradation collapses natural predator-prey dynamics, fuels severe human-wildlife encounters, disrupts localized micro-climates, and undermines the livelihoods of millions of tribal and forest-dwelling communities."
       },
       {
         "section": "Conclusion",
-        "text": "Securing ecological balance demands strict community-led preservation models, rejuvenation of traditional water bodies, and enforcement of eco-sensitive buffer protections.",
         "order": 4,
-        "cite": "1"
+        "text": "Securing ecological balance demands strict community-led preservation models, rejuvenation of traditional water bodies, and enforcement of eco-sensitive buffer protections."
       }
     ]
   },
   {
     "uid": "UPPSC_2024_GSP1_20",
-    "paper_title": "GS Paper 1",
-    "year": 2024,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 20,
+    "year": 2024,
+    "paper_title": "GS Paper 1",
+    "q_number": "20",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "1",
-    "last_updated": 1779109200,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2024 GS Paper 1",
     "question_text": "Discuss the characteristics, causes and effects of Tsunami with example.",
     "subjectId": "geo",
     "subjects": [
@@ -1126,36 +1099,35 @@
       "Tsunamis"
     ],
     "keyPointers": [
-      "A sudden sea-floor shift, usually a quake",
-      "A long wave that grows at a shallow coast",
-      "The 2004 Indian Ocean is the example",
-      "Effect is a coast destroyed in minutes"
+      "Coastal hazards",
+      "Disaster risk reduction",
+      "Earthquakes and volcanoes"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A sudden displacement of the sea floor sends a long wave",
+      "The cause is usually a quake under the sea, and the effect is a coast that is flooded in minutes",
+      "The example is a warning that the wave travels farther than the shake"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "A tsunami is a series of exceptionally powerful oceanic waves caused by the sudden, massive displacement of the marine water column.",
         "order": 1,
-        "cite": "1"
+        "text": "A tsunami is a series of exceptionally powerful oceanic waves caused by the sudden, massive displacement of the marine water column."
       },
       {
         "section": "Body",
-        "text": "Primary causes include under-sea megathrust earthquakes at subduction zones, submarine volcanic eruptions, coastal landslides, or oceanic bolide impacts.",
         "order": 2,
-        "cite": "1"
+        "text": "Primary causes include under-sea megathrust earthquakes at subduction zones, submarine volcanic eruptions, coastal landslides, or oceanic bolide impacts."
       },
       {
         "section": "Body",
-        "text": "Characteristics include very long wavelengths traveling at high speeds in deep water, which rapidly compress into towering walls of water upon striking shallow coasts, as seen in the devastating 2004 Indian Ocean tragedy.",
         "order": 3,
-        "cite": "1"
+        "text": "Characteristics include very long wavelengths traveling at high speeds in deep water, which rapidly compress into towering walls of water upon striking shallow coasts, as seen in the devastating 2004 Indian Ocean tragedy."
       },
       {
         "section": "Conclusion",
-        "text": "Mitigating this hazard relies on the deployment of deep-ocean sensor buoys (DART), rapid automated early-warning telemetry, and the preservation of coastal mangrove bio-shields.",
         "order": 4,
-        "cite": "1"
+        "text": "Mitigating this hazard relies on the deployment of deep-ocean sensor buoys (DART), rapid automated early-warning telemetry, and the preservation of coastal mangrove bio-shields."
       }
     ]
   }

@@ -1,16 +1,16 @@
 [
   {
     "uid": "UPPSC_2018_GS4_Q1",
-    "paper_title": "General Studies Paper 4",
-    "year": 2018,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 1,
+    "year": 2018,
+    "paper_title": "GS Paper 4",
+    "q_number": "1",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2018 GS Paper 4",
-    "last_updated": 1778972500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2018 GS Paper 4",
     "question_text": "What are the values? Throw light over their central elements.",
     "subjectId": "ethics",
     "subjects": [
@@ -24,51 +24,50 @@
       "Values and their elements"
     ],
     "keyPointers": [
-      "A value is what a person holds worth doing",
-      "Central elements: a belief, a feeling and a tendency to act",
-      "Throw light on the core",
-      "A value is deeper than a passing opinion"
+      "Moral reasoning",
+      "Attitude",
+      "Integrity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A value is a settled sense of what matters",
+      "The central elements are what is chosen and what is refused",
+      "Throw light means the content, not only the definition"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Values are enduring beliefs or ideals shared by the members of a culture about what is good or bad, desirable or undesirable. They serve as broad guidelines in all situations of human life.",
         "order": 1,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Values are enduring beliefs or ideals shared by the members of a culture about what is good or bad, desirable or undesirable. They serve as broad guidelines in all situations of human life."
       },
       {
         "section": "Body",
-        "text": "Highlight central elements - Subjectivity and Objectivity: While some values are universal and objective (like truth and non-violence), many are subjective and vary across cultures and individuals.",
         "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Highlight central elements - Subjectivity and Objectivity: While some values are universal and objective (like truth and non-violence), many are subjective and vary across cultures and individuals."
       },
       {
         "section": "Body",
-        "text": "Highlight central elements - Hierarchy and Dynamism: Values exist in a hierarchy; when two values conflict, the higher value prevails (e.g., duty to nation over loyalty to family). Furthermore, they are dynamic and evolve over time with societal changes.",
         "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Highlight central elements - Hierarchy and Dynamism: Values exist in a hierarchy; when two values conflict, the higher value prevails (e.g., duty to nation over loyalty to family). Furthermore, they are dynamic and evolve over time with societal changes."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that values form the fundamental bedrock of an individual's character and an organization's ethical culture, dictating the ultimate choices they make.",
         "order": 4,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Conclude that values form the fundamental bedrock of an individual's character and an organization's ethical culture, dictating the ultimate choices they make."
       }
     ]
   },
   {
     "uid": "UPPSC_2018_GS4_Q2",
-    "paper_title": "General Studies Paper 4",
-    "year": 2018,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 2,
+    "year": 2018,
+    "paper_title": "GS Paper 4",
+    "q_number": "2",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2018 GS Paper 4",
-    "last_updated": 1778972500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2018 GS Paper 4",
     "question_text": "Define the ethical concerns in Government and Private Institutions.",
     "subjectId": "ethics",
     "subjects": [
@@ -82,51 +81,51 @@
       "Ethics in government and private bodies"
     ],
     "keyPointers": [
-      "Government: public money, impartiality and a right",
-      "Private: profit against a worker, a customer and a river",
-      "The concerns differ because the duty differs",
-      "Define both"
+      "Conflict of interest",
+      "Probity",
+      "Integrity",
+      "Corruption"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A public office can hide a file; a private firm can hide an account",
+      "The concern in both is a power used for a private gain",
+      "The setting differs, and the ethic of a trust does not"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Ethical concerns refer to situations or issues that raise moral dilemmas regarding right and wrong conduct within organizational frameworks.",
         "order": 1,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Ethical concerns refer to situations or issues that raise moral dilemmas regarding right and wrong conduct within organizational frameworks."
       },
       {
         "section": "Body",
-        "text": "Define concerns in Government Institutions: The primary ethical concerns revolve around the abuse of discretionary power, nepotism, bribery, lack of transparency (red tape), and a compromise in providing equitable justice and service to the marginalized. Conflict of interest is a recurring theme.",
         "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Define concerns in Government Institutions: The primary ethical concerns revolve around the abuse of discretionary power, nepotism, bribery, lack of transparency (red tape), and a compromise in providing equitable justice and service to the marginalized. Conflict of interest is a recurring theme."
       },
       {
         "section": "Body",
-        "text": "Define concerns in Private Institutions: Ethical issues primarily stem from the pursuit of absolute profit maximization at the expense of stakeholders. This includes exploitative labor practices, misleading advertising, corporate fraud (fudging balance sheets), and ignoring environmental externalities (CSR violations).",
         "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Define concerns in Private Institutions: Ethical issues primarily stem from the pursuit of absolute profit maximization at the expense of stakeholders. This includes exploitative labor practices, misleading advertising, corporate fraud (fudging balance sheets), and ignoring environmental externalities (CSR violations)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while government concerns center around the breach of public trust, private sector concerns center around predatory capitalism; both require robust codes of ethics and strict regulatory oversight.",
         "order": 4,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Conclude that while government concerns center around the breach of public trust, private sector concerns center around predatory capitalism; both require robust codes of ethics and strict regulatory oversight."
       }
     ]
   },
   {
     "uid": "UPPSC_2018_GS4_Q3",
-    "paper_title": "General Studies Paper 4",
-    "year": 2018,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 3,
+    "year": 2018,
+    "paper_title": "GS Paper 4",
+    "q_number": "3",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2018 GS Paper 4",
-    "last_updated": 1778972500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2018 GS Paper 4",
     "question_text": "What is the philosophical basis of probity in the governance? Discuss critically.",
     "subjectId": "ethics",
     "subjects": [
@@ -140,116 +139,113 @@
       "Philosophical basis of probity"
     ],
     "keyPointers": [
-      "Office is a trust",
-      "Probity is conduct that can be shown and that matches the duty",
-      "Critically: a philosophy without a consequence stays a speech",
-      "Discuss the basis"
+      "Probity",
+      "Integrity",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The basis is that a public power is a trust, not a property",
+      "Probity is the cleanness that can be shown",
+      "Critical means asking whether a procedure alone produces that cleanness"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define probity in governance as the strict adherence to the highest principles of integrity, honesty, and uprightness, ensuring that public administration operates free from corruption.",
         "order": 1,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Define probity in governance as the strict adherence to the highest principles of integrity, honesty, and uprightness, ensuring that public administration operates free from corruption."
       },
       {
         "section": "Body",
-        "text": "Discuss the philosophical basis (Trusteeship and Utilitarianism): It is rooted in the Social Contract theory and Gandhi's concept of Trusteeship, which posit that civil servants are fiduciary custodians of state resources, meant to serve the public.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 2
+        "order": 2,
+        "text": "Discuss the philosophical basis (Trusteeship and Utilitarianism): It is rooted in the Social Contract theory and Gandhi's concept of Trusteeship, which posit that civil servants are fiduciary custodians of state resources, meant to serve the public."
       },
       {
         "section": "Body",
-        "text": "Utilitarianism further provides a basis by mandating that governance must seek the 'greatest good for the greatest number.'.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 3
+        "order": 3,
+        "text": "Utilitarianism further provides a basis by mandating that governance must seek the 'greatest good for the greatest number.'."
       },
       {
         "section": "Body",
-        "text": "Discuss critically (Deontology vs Realism): From a Kantian perspective, probity is a categorical duty, irrespective of outcomes. However, a critical view reveals that strict probity can sometimes cause administrative paralysis (risk aversion) in highly complex, pragmatic governance environments where minor procedural deviations might yield massive public benefits.",
         "order": 4,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Discuss critically (Deontology vs Realism): From a Kantian perspective, probity is a categorical duty, irrespective of outcomes. However, a critical view reveals that strict probity can sometimes cause administrative paralysis (risk aversion) in highly complex, pragmatic governance environments where minor procedural deviations might yield massive public benefits."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the philosophical core of probity remains public welfare and justice; it must be implemented intelligently to foster transparency without causing bureaucratic inertia.",
         "order": 5,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Conclude that the philosophical core of probity remains public welfare and justice; it must be implemented intelligently to foster transparency without causing bureaucratic inertia."
       }
     ]
   },
   {
     "uid": "UPPSC_2018_GS4_Q4",
-    "paper_title": "General Studies Paper 4",
-    "year": 2018,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 4,
+    "year": 2018,
+    "paper_title": "GS Paper 4",
+    "q_number": "4",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2018 GS Paper 4",
-    "last_updated": 1778972500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2018 GS Paper 4",
     "question_text": "Examine the ethical and social ideas of Gandhi.",
-    "subjectId": "thinkers",
+    "subjectId": "ethics",
     "subjects": [
-      "Thinkers"
+      "Ethics"
     ],
-    "topic": "Thinkers",
+    "topic": "Gandhi's ethical and social ideas",
     "topics": [
-      "Thinkers"
+      "Gandhi's ethical and social ideas"
     ],
     "subTopics": [
       "Gandhi’s ethical and social ideas"
     ],
     "keyPointers": [
-      "Truth, non-violence and a means that matches the end",
-      "Social ideas: the village, the dignity of labour, the removal of untouchability",
-      "Examine them",
-      "They are an ethic, not only a tactic"
+      "Gandhi's ethics",
+      "Means and ends",
+      "Socio-religious reform"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Truth, non-violence and a limit on one's own want run through both",
+      "The social idea was a village, a dignity of labour and an end to untouchability",
+      "Examine means the idea and the limit of applying it"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Mahatma Gandhi's philosophy was a seamless blend of ethical ideals and social pragmatism, fundamentally resting on the pillars of truth and non-violence.",
         "order": 1,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Mahatma Gandhi's philosophy was a seamless blend of ethical ideals and social pragmatism, fundamentally resting on the pillars of truth and non-violence."
       },
       {
         "section": "Body",
-        "text": "Examine his ethical ideas: Gandhi equated Truth (Satya) with God. He believed in the purity of means and ends, arguing that a just end cannot be achieved through unjust, violent means. He advocated for internal moral discipline through 'Satyagraha' (soul force) and simple living (Aparigraha).",
         "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Examine his ethical ideas: Gandhi equated Truth (Satya) with God. He believed in the purity of means and ends, arguing that a just end cannot be achieved through unjust, violent means. He advocated for internal moral discipline through 'Satyagraha' (soul force) and simple living (Aparigraha)."
       },
       {
         "section": "Body",
-        "text": "Examine his social ideas: Socially, he championed 'Sarvodaya' (the upliftment of all, starting from the weakest). He vehemently fought against the social evil of untouchability (advocating for Harijans), promoted Hindu-Muslim unity, and championed women's participation in public life.",
         "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Examine his social ideas: Socially, he championed 'Sarvodaya' (the upliftment of all, starting from the weakest). He vehemently fought against the social evil of untouchability (advocating for Harijans), promoted Hindu-Muslim unity, and championed women's participation in public life."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that Gandhi's ideas transcend political boundaries, offering a timeless moral compass to build an egalitarian, non-violent, and sustainable society.",
         "order": 4,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Conclude that Gandhi's ideas transcend political boundaries, offering a timeless moral compass to build an egalitarian, non-violent, and sustainable society."
       }
     ]
   },
   {
     "uid": "UPPSC_2018_GS4_Q5",
-    "paper_title": "General Studies Paper 4",
-    "year": 2018,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 5,
+    "year": 2018,
+    "paper_title": "GS Paper 4",
+    "q_number": "5",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2018 GS Paper 4",
-    "last_updated": 1778972500,
+    "origin": "PYQ",
     "is_structured": 0,
-    "question_text": "Evaluate the relevance of the following in the contest of Civil service:\n(a) Conscience\n(b) Spirit of service\n(c) Discipline.",
+    "cite": "UPPSC Mains 2018 GS Paper 4",
+    "question_text": "Evaluate the relevance of the following in the contest of Civil service: (a) Conscience (b) Spirit of service (c) Discipline.",
     "subjectId": "ethics",
     "subjects": [
       "Ethics & Values"
@@ -262,46 +258,46 @@
       "Conscience and the spirit of service"
     ],
     "keyPointers": [
-      "Conscience is the inner check when the order and the right diverge",
-      "The spirit of service is for the citizen, not the chair",
-      "Both are relevant",
-      "Evaluate each"
+      "Integrity",
+      "Dedication to public service",
+      "Impartiality"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Conscience is the inner check when the rule is silent",
+      "Spirit of service is why the work is done",
+      "Discipline is staying inside the lawful method"
+    ],
     "points": [
       {
-        "section": "Body",
-        "text": "(A) Conscience: It is the inner moral voice that evaluates the rightness of an act. In civil service, rules and laws are often ambiguous or silent. A well-developed conscience guides an officer through these ethical dilemmas, ensuring their discretionary power is used for public welfare and not personal gain.",
+        "section": "Point",
         "order": 1,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "(A) Conscience: It is the inner moral voice that evaluates the rightness of an act. In civil service, rules and laws are often ambiguous or silent. A well-developed conscience guides an officer through these ethical dilemmas, ensuring their discretionary power is used for public welfare and not personal gain."
       },
       {
-        "section": "Body",
-        "text": "(B) Spirit of service: It signifies a deep, intrinsic motivation to work for the betterment of society, beyond mere monetary compensation. This spirit ensures that a civil servant remains dedicated, empathetic to the marginalized, and resilient in the face of immense bureaucratic and political challenges.",
+        "section": "Point",
         "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "(B) Spirit of service: It signifies a deep, intrinsic motivation to work for the betterment of society, beyond mere monetary compensation. This spirit ensures that a civil servant remains dedicated, empathetic to the marginalized, and resilient in the face of immense bureaucratic and political challenges."
       },
       {
-        "section": "Body",
-        "text": "(C) Discipline: It involves strict adherence to organizational rules, protocols, and the rule of law. Discipline ensures efficiency, punctuality, and hierarchical coordination, preventing the administrative machinery from collapsing into chaos and arbitrariness.",
+        "section": "Point",
         "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "(C) Discipline: It involves strict adherence to organizational rules, protocols, and the rule of law. Discipline ensures efficiency, punctuality, and hierarchical coordination, preventing the administrative machinery from collapsing into chaos and arbitrariness."
       }
     ]
   },
   {
     "uid": "UPPSC_2018_GS4_Q6",
-    "paper_title": "General Studies Paper 4",
-    "year": 2018,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 6,
+    "year": 2018,
+    "paper_title": "GS Paper 4",
+    "q_number": "6",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2018 GS Paper 4",
-    "last_updated": 1778972500,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "\"Public service is recognised on the basis of tolerance and compassion towards the weaker section of the society.\"\nExplain the values of tolerance and compassion in this context.",
+    "cite": "UPPSC Mains 2018 GS Paper 4",
+    "question_text": "\"Public service is recognised on the basis of tolerance and compassion towards the weaker section of the society.\" Explain the values of tolerance and compassion in this context.",
     "subjectId": "ethics",
     "subjects": [
       "Ethics & Values"
@@ -314,173 +310,166 @@
       "Tolerance, compassion and public service"
     ],
     "keyPointers": [
-      "The weak meet the state already at a disadvantage",
-      "Tolerance bears the difference; compassion moves to help",
-      "The statement is largely right",
-      "Recognition is the citizen’s experience"
+      "Compassion",
+      "Diversity and pluralism",
+      "Inequality"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Tolerance bears a difference; compassion moves to relieve a suffering",
+      "A public service is recognised when the weaker person is not humiliated by the rule",
+      "The values show in the act, not in the speech"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "True public service transcends the mechanical execution of laws; it is fundamentally defined by its humanistic approach towards those who are the most marginalized and vulnerable in society.",
         "order": 1,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "True public service transcends the mechanical execution of laws; it is fundamentally defined by its humanistic approach towards those who are the most marginalized and vulnerable in society."
       },
       {
         "section": "Body",
-        "text": "Explain Tolerance: India is a highly diverse nation with varied religions, castes, and ideologies. Tolerance ensures that a civil servant remains objective, non-partisan, and respectful of differing views, preventing personal prejudices from denying constitutional rights or services to minority or weaker groups.",
         "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Explain Tolerance: India is a highly diverse nation with varied religions, castes, and ideologies. Tolerance ensures that a civil servant remains objective, non-partisan, and respectful of differing views, preventing personal prejudices from denying constitutional rights or services to minority or weaker groups."
       },
       {
         "section": "Body",
-        "text": "Explain Compassion: While tolerance is passive acceptance, compassion is an active, empathetic desire to alleviate suffering. It drives an administrator to bend rigid procedural red tape to provide substantive, immediate relief to the destitute, illiterate, or disabled who cannot navigate bureaucratic mazes.",
         "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Explain Compassion: While tolerance is passive acceptance, compassion is an active, empathetic desire to alleviate suffering. It drives an administrator to bend rigid procedural red tape to provide substantive, immediate relief to the destitute, illiterate, or disabled who cannot navigate bureaucratic mazes."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that tolerance ensures equality before the law, while compassion guarantees equity and social justice, together validating the true ethos of public service.",
         "order": 4,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Conclude that tolerance ensures equality before the law, while compassion guarantees equity and social justice, together validating the true ethos of public service."
       }
     ]
   },
   {
     "uid": "UPPSC_2018_GS4_Q7",
-    "paper_title": "General Studies Paper 4",
-    "year": 2018,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 7,
+    "year": 2018,
+    "paper_title": "GS Paper 4",
+    "q_number": "7",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2018 GS Paper 4",
-    "last_updated": 1778972500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2018 GS Paper 4",
     "question_text": "Discuss the functions of the attitude.",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Aptitude",
+    "topic": "What an attitude does",
     "topics": [
-      "Aptitude"
+      "What an attitude does"
     ],
     "subTopics": [
       "Functions of attitude"
     ],
     "keyPointers": [
-      "It organises a view",
-      "It guides an action",
-      "It can defend the self",
-      "Discuss what an attitude does, not only what it is"
+      "Attitude"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It filters what a person notices and how he is ready to act",
+      "The function is a guide and also a bias",
+      "A function can help a decision and can also close it"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Attitude is a psychological tendency expressed by evaluating an entity with some degree of favor or disfavor. According to Daniel Katz, attitudes serve crucial psychological functions for an individual.",
         "order": 1,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Attitude is a psychological tendency expressed by evaluating an entity with some degree of favor or disfavor. According to Daniel Katz, attitudes serve crucial psychological functions for an individual."
       },
       {
         "section": "Body",
-        "text": "Discuss Knowledge and Utilitarian functions: The 'Knowledge function' helps individuals organize and make sense of a complex world by providing a frame of reference. The 'Utilitarian (Instrumental) function' helps individuals maximize rewards and minimize punishments by adopting attitudes that yield positive outcomes.",
         "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Discuss Knowledge and Utilitarian functions: The 'Knowledge function' helps individuals organize and make sense of a complex world by providing a frame of reference. The 'Utilitarian (Instrumental) function' helps individuals maximize rewards and minimize punishments by adopting attitudes that yield positive outcomes."
       },
       {
         "section": "Body",
-        "text": "Discuss Value-expressive and Ego-defensive functions: The 'Value-expressive function' allows individuals to express their core beliefs and central values, establishing their identity. The 'Ego-defensive function' protects an individual's self-esteem from internal anxieties and harsh external realities by forming defensive attitudes (e.g., prejudice).",
         "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Discuss Value-expressive and Ego-defensive functions: The 'Value-expressive function' allows individuals to express their core beliefs and central values, establishing their identity. The 'Ego-defensive function' protects an individual's self-esteem from internal anxieties and harsh external realities by forming defensive attitudes (e.g., prejudice)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that understanding these functions is vital for administrators, as successfully changing a negative public attitude requires targeting the specific psychological function it serves.",
         "order": 4,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Conclude that understanding these functions is vital for administrators, as successfully changing a negative public attitude requires targeting the specific psychological function it serves."
       }
     ]
   },
   {
     "uid": "UPPSC_2018_GS4_Q8",
-    "paper_title": "General Studies Paper 4",
-    "year": 2018,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 8,
+    "year": 2018,
+    "paper_title": "GS Paper 4",
+    "q_number": "8",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2018 GS Paper 4",
-    "last_updated": 1778972500,
+    "origin": "PYQ",
     "is_structured": 0,
-    "question_text": "Differentiate between the following:\n(a) Attitude and value.\n(b) Attitude and opinion.",
-    "subjectId": "attitude",
+    "cite": "UPPSC Mains 2018 GS Paper 4",
+    "question_text": "Differentiate between the following: (a) Attitude and value. (b) Attitude and opinion.",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Aptitude",
+    "topic": "Attitude against a value and an opinion",
     "topics": [
-      "Aptitude"
+      "Attitude against a value and an opinion"
     ],
     "subTopics": [
       "Attitude, value and opinion"
     ],
     "keyPointers": [
-      "A value is deeper and more lasting than an attitude",
-      "An opinion is a stated view; an attitude includes a feeling and a tendency to act",
-      "Differentiate both pairs",
-      "An example helps"
+      "Attitude",
+      "Moral reasoning"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A value is what ought to matter; an attitude is a settled readiness to act",
+      "An opinion is a view that can change more easily",
+      "The pairs are close, and they are not the same"
+    ],
     "points": [
       {
-        "section": "Body",
-        "text": "(a) Attitude vs. Value: Values are broad, deeply held global beliefs about what is fundamentally good or bad (e.g., honesty, freedom). They act as overarching life guides. An attitude is a specific evaluation (like or dislike) directed toward a particular object, person, or situation (e.g., a.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 1
+        "section": "Point",
+        "order": 1,
+        "text": "(a) Attitude vs. Value: Values are broad, deeply held global beliefs about what is fundamentally good or bad (e.g., honesty, freedom). They act as overarching life guides. An attitude is a specific evaluation (like or dislike) directed toward a particular object, person, or situation (e.g., a."
       },
       {
-        "section": "Body",
-        "text": "positive attitude toward a specific anti-corruption law). Values are fewer in number and more permanent, whereas attitudes are numerous and derived from core values.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 2
+        "section": "Point",
+        "order": 2,
+        "text": "positive attitude toward a specific anti-corruption law). Values are fewer in number and more permanent, whereas attitudes are numerous and derived from core values."
       },
       {
-        "section": "Body",
-        "text": "(b) Attitude vs. Opinion: An opinion is a conscious, cognitive judgment or belief about a factual matter, often verbalized and open to debate (e.g., 'I believe the new tax rate is too high').",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 3
+        "section": "Point",
+        "order": 3,
+        "text": "(b) Attitude vs. Opinion: An opinion is a conscious, cognitive judgment or belief about a factual matter, often verbalized and open to debate (e.g., 'I believe the new tax rate is too high')."
       },
       {
-        "section": "Body",
-        "text": "An attitude is a deeper, often subconscious psychological state that includes strong emotional (affective) and behavioral components.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 4
+        "section": "Point",
+        "order": 4,
+        "text": "An attitude is a deeper, often subconscious psychological state that includes strong emotional (affective) and behavioral components."
       },
       {
-        "section": "Body",
-        "text": "Opinions are generally surface-level and easier to change with logic, while attitudes are deeply ingrained and harder to alter.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 5
+        "section": "Point",
+        "order": 5,
+        "text": "Opinions are generally surface-level and easier to change with logic, while attitudes are deeply ingrained and harder to alter."
       }
     ]
   },
   {
     "uid": "UPPSC_2018_GS4_Q9",
-    "paper_title": "General Studies Paper 4",
-    "year": 2018,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 9,
+    "year": 2018,
+    "paper_title": "GS Paper 4",
+    "q_number": "9",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2018 GS Paper 4",
-    "last_updated": 1778972500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2018 GS Paper 4",
     "question_text": "\"Effective administration requires dedication towards Public Service.\" Explain.",
     "subjectId": "ethics",
     "subjects": [
@@ -494,51 +483,50 @@
       "Dedication to public service"
     ],
     "keyPointers": [
-      "Dedication is staying with the citizen’s work",
-      "Without it the rule becomes a delay",
-      "Explain the claim",
-      "Effective means the service arrives"
+      "Dedication to public service",
+      "Good governance",
+      "Integrity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Dedication is staying with the work when the attention has moved on",
+      "Effective administration needs that stamina",
+      "A cleverness without it produces a file that is never finished"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Dedication to public service refers to an intense, unwavering commitment to achieving the goals of public welfare, often transcending the formal call of duty and personal comfort.",
         "order": 1,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Dedication to public service refers to an intense, unwavering commitment to achieving the goals of public welfare, often transcending the formal call of duty and personal comfort."
       },
       {
         "section": "Body",
-        "text": "Explain why it is required for perseverance: The bureaucratic machinery is frequently characterized by slow procedures, resource deficits, and political interference. Without deep intrinsic dedication, civil servants easily succumb to apathy, cynicism, and procedural inertia.",
         "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Explain why it is required for perseverance: The bureaucratic machinery is frequently characterized by slow procedures, resource deficits, and political interference. Without deep intrinsic dedication, civil servants easily succumb to apathy, cynicism, and procedural inertia."
       },
       {
         "section": "Body",
-        "text": "Explain its role in crisis and innovation: During crises (natural disasters, pandemics), dedicated administrators work relentlessly beyond office hours to save lives. Dedication also drives innovation, pushing officers to find creative solutions to chronic social problems rather than merely maintaining the status quo.",
         "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Explain its role in crisis and innovation: During crises (natural disasters, pandemics), dedicated administrators work relentlessly beyond office hours to save lives. Dedication also drives innovation, pushing officers to find creative solutions to chronic social problems rather than merely maintaining the status quo."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that dedication converts a purely transactional administrative job into a transformational vocation, ensuring the state machinery remains responsive to citizen needs.",
         "order": 4,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Conclude that dedication converts a purely transactional administrative job into a transformational vocation, ensuring the state machinery remains responsive to citizen needs."
       }
     ]
   },
   {
     "uid": "UPPSC_2018_GS4_Q10",
-    "paper_title": "General Studies Paper 4",
-    "year": 2018,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 10,
+    "year": 2018,
+    "paper_title": "GS Paper 4",
+    "q_number": "10",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2018 GS Paper 4",
-    "last_updated": 1778972500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2018 GS Paper 4",
     "question_text": "Recently you have taken charge as the head of a government organisation. On the very first day in your office, you observe that the organisation is crippled with many irregularities such as: (i) The staff is not punctual. (ii) The staff waste their time in unnecessary talks. (iii) Speedy action is not taken on public grievances. (iv) There is rampant corruption at every level in the organisation. (v) The quality of the services provided by the organisation is very poor. How would you inspire you staff so that the above deficiencies of the above deficiencies of the organisation get removed? Discuss.",
     "subjectId": "cases",
     "subjects": [
@@ -552,63 +540,61 @@
       "Reforming a demoralised office"
     ],
     "keyPointers": [
-      "Set the example on time and on the file",
-      "Make a grievance visible and a bribe costly",
-      "Inspire by a clear standard and a consequence, not a speech",
-      "Remove the deficiencies in that order"
+      "Conflict of values",
+      "Integrity",
+      "Good governance",
+      "Corruption"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "On the first day he finds an organisation that does not work",
+      "The case is what he changes first, and whom he trusts",
+      "A new head inherits both the rot and the people who live in it"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The scenario presents a classic case of institutional decay, characterized by poor work culture, inefficiency, and deeply entrenched corruption. Reforming this requires a blend of emotional intelligence, strict enforcement, and transformational leadership.",
         "order": 1,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "The scenario presents a classic case of institutional decay, characterized by poor work culture, inefficiency, and deeply entrenched corruption. Reforming this requires a blend of emotional intelligence, strict enforcement, and transformational leadership."
       },
       {
         "section": "Body",
-        "text": "Action plan for punctuality, time-wasting, and service quality: I will lead by.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 2
+        "order": 2,
+        "text": "Action plan for punctuality, time-wasting, and service quality: I will lead by."
       },
       {
         "section": "Body",
-        "text": "example by being strictly punctual myself. I will implement biometric attendance and define clear daily output targets (Key Performance Indicators) for staff. I will hold weekly motivational meetings emphasizing the nobility of public service and reward high-performing, efficient employees to foster a.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 3
+        "order": 3,
+        "text": "example by being strictly punctual myself. I will implement biometric attendance and define clear daily output targets (Key Performance Indicators) for staff. I will hold weekly motivational meetings emphasizing the nobility of public service and reward high-performing, efficient employees to foster a."
       },
       {
         "section": "Body",
-        "text": "Action plan for grievances and corruption: I will digitize the grievance redressal mechanism (e.g., a tracking portal) to eliminate physical human interface, setting strict, unalterable deadlines for file clearance.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 4
+        "order": 4,
+        "text": "Action plan for grievances and corruption: I will digitize the grievance redressal mechanism (e.g., a tracking portal) to eliminate physical human interface, setting strict, unalterable deadlines for file clearance."
       },
       {
         "section": "Body",
-        "text": "To tackle corruption, I will adopt a 'Zero Tolerance' policy, install CCTVs, establish a direct anonymous complaint line for citizens, and initiate swift disciplinary action against identified corrupt elements as a deterrent.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 5
+        "order": 5,
+        "text": "To tackle corruption, I will adopt a 'Zero Tolerance' policy, install CCTVs, establish a direct anonymous complaint line for citizens, and initiate swift disciplinary action against identified corrupt elements as a deterrent."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that inspiration must be coupled with strict accountability. By demonstrating unwavering personal integrity and rewarding merit, the toxic organizational culture can be systematically overhauled.",
         "order": 6,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Conclude that inspiration must be coupled with strict accountability. By demonstrating unwavering personal integrity and rewarding merit, the toxic organizational culture can be systematically overhauled."
       }
     ]
   },
   {
     "uid": "UPPSC_2018_GS4_Q11",
-    "paper_title": "General Studies Paper 4",
-    "year": 2018,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 11,
+    "year": 2018,
+    "paper_title": "GS Paper 4",
+    "q_number": "11",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2018 GS Paper 4",
-    "last_updated": 1778972500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2018 GS Paper 4",
     "question_text": "Differentiate between ethics and morality and explain the determinants of ethical actions.",
     "subjectId": "ethics",
     "subjects": [
@@ -622,127 +608,121 @@
       "Ethics, morality and the determinants of action"
     ],
     "keyPointers": [
-      "Morality is the lived sense of right; ethics is its reasoned account",
-      "An ethical act is shaped by intention, knowledge and the situation",
-      "Explain the difference",
-      "Then the determinants"
+      "Moral reasoning",
+      "Integrity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Morality is the lived sense of right in a community; ethics is the reasoned account of it",
+      "A determinant is a rule, a consequence, a character and a situation",
+      "The action follows more than one of them"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "While often used interchangeably, ethics and morality have distinct philosophical nuances regarding the source and application of right and wrong conduct.",
         "order": 1,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "While often used interchangeably, ethics and morality have distinct philosophical nuances regarding the source and application of right and wrong conduct."
       },
       {
         "section": "Body",
-        "text": "Differentiate between Ethics and Morality: 'Morality' refers to an individual's internal, deeply personal beliefs and principles about right and wrong, often shaped by religion, culture, and upbringing. 'Ethics' refers to the external rules of conduct recognized in respect to a particular class of human actions or a particular group (e.g., medical ethics, legal ethics).",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 2
+        "order": 2,
+        "text": "Differentiate between Ethics and Morality: 'Morality' refers to an individual's internal, deeply personal beliefs and principles about right and wrong, often shaped by religion, culture, and upbringing. 'Ethics' refers to the external rules of conduct recognized in respect to a particular class of human actions or a particular group (e.g., medical ethics, legal ethics)."
       },
       {
         "section": "Body",
-        "text": "A person can act ethically by following a professional code, even if it conflicts with their personal morality.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 3
+        "order": 3,
+        "text": "A person can act ethically by following a professional code, even if it conflicts with their personal morality."
       },
       {
         "section": "Body",
-        "text": "Explain the determinants of ethical actions: The ethicality of an action is determined by three main components. 1) The Object/Action itself (e.g., murder is inherently wrong). 2) The Intention/Motive (a good action done with a malicious intent diminishes its ethical value). 3) The Circumstances (stealing food to prevent starvation alters the ethical gravity compared to stealing for greed).",
         "order": 4,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Explain the determinants of ethical actions: The ethicality of an action is determined by three main components. 1) The Object/Action itself (e.g., murder is inherently wrong). 2) The Intention/Motive (a good action done with a malicious intent diminishes its ethical value). 3) The Circumstances (stealing food to prevent starvation alters the ethical gravity compared to stealing for greed)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that for an action to be perfectly ethical, the action itself, the intention behind it, and the surrounding circumstances must all be aligned with moral goodness.",
         "order": 5,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Conclude that for an action to be perfectly ethical, the action itself, the intention behind it, and the surrounding circumstances must all be aligned with moral goodness."
       }
     ]
   },
   {
     "uid": "UPPSC_2018_GS4_Q12",
-    "paper_title": "General Studies Paper 4",
-    "year": 2018,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 12,
+    "year": 2018,
+    "paper_title": "GS Paper 4",
+    "q_number": "12",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2018 GS Paper 4",
-    "last_updated": 1778972500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2018 GS Paper 4",
     "question_text": "\"Kan's ethics is formalist and rigorist.\" Critically examine this view and evaluate the importance of Kantain ethical principles in moral life.",
-    "subjectId": "thinkers",
+    "subjectId": "ethics",
     "subjects": [
-      "Thinkers"
+      "Ethics"
     ],
-    "topic": "Thinkers",
+    "topic": "Kant's duty",
     "topics": [
-      "Thinkers"
+      "Kant's duty"
     ],
     "subTopics": [
       "Kant’s formalist ethics"
     ],
     "keyPointers": [
-      "The rightness is in the form of the duty, not the result",
-      "Rigorist: the rule does not bend for a convenient exception",
-      "Critically: this can ignore a tragic conflict",
-      "Importance: it stops treating people as a means"
+      "Moral reasoning",
+      "Means and ends",
+      "Dedication to public service"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Formalist means the right act is judged by its form, not by its result",
+      "Rigorist means few exceptions",
+      "The importance in a moral life is a check on a convenient excuse, and the limit is a case where the consequence is terrible"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Immanuel Kant's Deontological ethics is centered around the concept of duty and the 'Categorical Imperative'. It asserts that the morality of an action depends solely on the nature of the duty, not on its consequences.",
         "order": 1,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Immanuel Kant's Deontological ethics is centered around the concept of duty and the 'Categorical Imperative'. It asserts that the morality of an action depends solely on the nature of the duty, not on its consequences."
       },
       {
         "section": "Body",
-        "text": "Examine 'Formalist and Rigorist': It is 'formalist' because it provides a universal formula (act only according to a maxim that can become a universal law) without dictating specific situational contents. It is 'rigorist' because it allows absolutely no exceptions.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 2
+        "order": 2,
+        "text": "Examine 'Formalist and Rigorist': It is 'formalist' because it provides a universal formula (act only according to a maxim that can become a universal law) without dictating specific situational contents. It is 'rigorist' because it allows absolutely no exceptions."
       },
       {
         "section": "Body",
-        "text": "example, lying is considered inherently wrong even if it saves a life. Kant dismisses human emotions, empathy, and outcomes as irrelevant to moral worth.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 3
+        "order": 3,
+        "text": "example, lying is considered inherently wrong even if it saves a life. Kant dismisses human emotions, empathy, and outcomes as irrelevant to moral worth."
       },
       {
         "section": "Body",
-        "text": "importance in moral life: Despite its rigid harshness, Kantian ethics holds immense.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 4
+        "order": 4,
+        "text": "importance in moral life: Despite its rigid harshness, Kantian ethics holds immense."
       },
       {
         "section": "Body",
-        "text": "importance. It establishes the absolute dignity of human beings, asserting they must always be treated as an 'end in themselves' and never merely as a 'means'. It provides a strong foundation for universal human rights and demands uncompromising integrity and objectivity, which is particularly vital for impartial public administration.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 5
+        "order": 5,
+        "text": "importance. It establishes the absolute dignity of human beings, asserting they must always be treated as an 'end in themselves' and never merely as a 'means'. It provides a strong foundation for universal human rights and demands uncompromising integrity and objectivity, which is particularly vital for impartial public administration."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while Kant's rigorism may clash with pragmatic compassion in extreme dilemmas, his insistence on universal duty and human dignity remains the bedrock of a just moral order.",
         "order": 6,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Conclude that while Kant's rigorism may clash with pragmatic compassion in extreme dilemmas, his insistence on universal duty and human dignity remains the bedrock of a just moral order."
       }
     ]
   },
   {
     "uid": "UPPSC_2018_GS4_Q13",
-    "paper_title": "General Studies Paper 4",
-    "year": 2018,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 13,
+    "year": 2018,
+    "paper_title": "GS Paper 4",
+    "q_number": "13",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2018 GS Paper 4",
-    "last_updated": 1778972500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2018 GS Paper 4",
     "question_text": "Explain the ethical dilemmas faced by the public servants. Will conscience be helpful in their solution? Discuss.",
     "subjectId": "ethics",
     "subjects": [
@@ -756,63 +736,60 @@
       "Ethical dilemmas and conscience"
     ],
     "keyPointers": [
-      "Two duties pull apart: the order and the harm",
-      "Conscience names the pull",
-      "It helps and it is not a private licence",
-      "The solution still has to fit the law"
+      "Conflict of values",
+      "Integrity",
+      "Moral reasoning"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A lawful order and a harm, or a rule and a compassion, are the usual dilemmas",
+      "Conscience can name the right side",
+      "It helps, and it does not replace the law or the consequence"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "An ethical dilemma arises when a public servant is forced to choose between two competing moral imperatives or values, where adhering to one results in the transgression of the other (a 'right vs. right' situation).",
         "order": 1,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "An ethical dilemma arises when a public servant is forced to choose between two competing moral imperatives or values, where adhering to one results in the transgression of the other (a 'right vs. right' situation)."
       },
       {
         "section": "Body",
-        "text": "Explain the dilemmas: Common dilemmas include Secrecy vs. Transparency (protecting classified data vs. public right to know), Strict Rule compliance vs. Compassion (denying rations due to lack of a document vs. preventing starvation), and Personal Loyalty/Orders vs. Public Interest (obeying a legally questionable order from a political superior vs. upholding constitutional morality).",
         "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Explain the dilemmas: Common dilemmas include Secrecy vs. Transparency (protecting classified data vs. public right to know), Strict Rule compliance vs. Compassion (denying rations due to lack of a document vs. preventing starvation), and Personal Loyalty/Orders vs. Public Interest (obeying a legally questionable order from a political superior vs. upholding constitutional morality)."
       },
       {
         "section": "Body",
-        "text": "Discuss the role of conscience: Conscience acts as the inner moral compass.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 3
+        "order": 3,
+        "text": "Discuss the role of conscience: Conscience acts as the inner moral compass."
       },
       {
         "section": "Body",
-        "text": "When laws are silent, contradictory, or blindly oppressive, conscience helps an administrator weigh the human impact of their decisions.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 4
+        "order": 4,
+        "text": "When laws are silent, contradictory, or blindly oppressive, conscience helps an administrator weigh the human impact of their decisions."
       },
       {
         "section": "Body",
-        "text": "It provides the moral courage to blow the whistle against corruption or to prioritize human life over rigid procedural red tape.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 5
+        "order": 5,
+        "text": "It provides the moral courage to blow the whistle against corruption or to prioritize human life over rigid procedural red tape."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while laws and codes of conduct provide the structural framework, a well-developed, empathetic conscience is the ultimate arbiter for resolving complex ethical dilemmas in public service.",
         "order": 6,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Conclude that while laws and codes of conduct provide the structural framework, a well-developed, empathetic conscience is the ultimate arbiter for resolving complex ethical dilemmas in public service."
       }
     ]
   },
   {
     "uid": "UPPSC_2018_GS4_Q14",
-    "paper_title": "General Studies Paper 4",
-    "year": 2018,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 14,
+    "year": 2018,
+    "paper_title": "GS Paper 4",
+    "q_number": "14",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2018 GS Paper 4",
-    "last_updated": 1778972500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2018 GS Paper 4",
     "question_text": "What are the challenge of corruption? What steps should be taken according to you to prevent them from the society? Explain.",
     "subjectId": "ethics",
     "subjects": [
@@ -826,63 +803,60 @@
       "Preventing corruption"
     ],
     "keyPointers": [
-      "A shortcut that pays, a weak detection and a norm that excuses",
-      "Steps: a usable clean path, a record and a punishment",
-      "Challenge is the ordinary bribe as much as the large one",
-      "Prevention is system plus habit"
+      "Corruption",
+      "Accountability",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The challenge is a small bribe and a large capture of a decision",
+      "A step is a simpler process, a visible punishment and a protection for the person who reports",
+      "Prevention has to hit the system, not only the one officer"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Corruption is a pervasive moral and institutional decay where public office is abused for private gain. It represents a fundamental breach of the social contract between the state and its citizens.",
         "order": 1,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Corruption is a pervasive moral and institutional decay where public office is abused for private gain. It represents a fundamental breach of the social contract between the state and its citizens."
       },
       {
         "section": "Body",
-        "text": "Explain the challenges of corruption: Economically, it severely stunts national development by siphoning off funds meant for infrastructure and welfare.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 2
+        "order": 2,
+        "text": "Explain the challenges of corruption: Economically, it severely stunts national development by siphoning off funds meant for infrastructure and welfare."
       },
       {
         "section": "Body",
-        "text": "Socially, it disproportionately harms the poor, widening inequality.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 3
+        "order": 3,
+        "text": "Socially, it disproportionately harms the poor, widening inequality."
       },
       {
         "section": "Body",
-        "text": "Politically, it erodes the legitimacy of democratic institutions and compromises national security (e.g., through porous borders or compromised defense deals).",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 4
+        "order": 4,
+        "text": "Politically, it erodes the legitimacy of democratic institutions and compromises national security (e.g., through porous borders or compromised defense deals)."
       },
       {
         "section": "Body",
-        "text": "Explain prevention steps: Institutionally, human interface must be minimized through aggressive e-governance (DBT, online tenders) and empowering anti-graft bodies (Lokpal, CVC). Procedurally, reducing complex bureaucratic red tape limits extortion opportunities. Behaviorally, integrating value-based education in schools and ensuring societal boycott of corrupt individuals—rather than glorifying ill-gotten wealth—are critical.",
         "order": 5,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Explain prevention steps: Institutionally, human interface must be minimized through aggressive e-governance (DBT, online tenders) and empowering anti-graft bodies (Lokpal, CVC). Procedurally, reducing complex bureaucratic red tape limits extortion opportunities. Behaviorally, integrating value-based education in schools and ensuring societal boycott of corrupt individuals—rather than glorifying ill-gotten wealth—are critical."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that defeating corruption requires a dual approach: a sharp, punitive sword of law from above, and a strong foundation of moral integrity cultivated from below.",
         "order": 6,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Conclude that defeating corruption requires a dual approach: a sharp, punitive sword of law from above, and a strong foundation of moral integrity cultivated from below."
       }
     ]
   },
   {
     "uid": "UPPSC_2018_GS4_Q15",
-    "paper_title": "General Studies Paper 4",
-    "year": 2018,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 15,
+    "year": 2018,
+    "paper_title": "GS Paper 4",
+    "q_number": "15",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2018 GS Paper 4",
-    "last_updated": 1778972500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2018 GS Paper 4",
     "question_text": "Case: Nishant is a socially sensitive, socialist, intellectual and professor. Through his articles, speeches and media, he raises the voices of labourers, minorities, downtroddens, women and tribals. A party keeps him in its think tank. In this sequence once he calls the members of civil society, intellectuals, politicians and officers to get their children admitted in the government schools. In the season of admissions, the elite schools are highly criticised for their criteria and its impact on education and Nishant also joins in these criticism; meanwhile it comes out that Nishant himself is trying to get his child admitted in an elite school. People condemn this attitude of Nishant and say that his 'action and words are mismatched'. Question therefore is: (i) Should Nishant get his child admitted in the government school? (ii) Should Nishant leave his intellectual discourses? (iii) Should he call his party followers in his favour? (iv) Or should he try to get the admission of his child in the elite school? Discuss",
     "subjectId": "cases",
     "subjects": [
@@ -896,350 +870,342 @@
       "A public stand contradicted by a private choice"
     ],
     "keyPointers": [
-      "The speech and the act diverge",
-      "People condemn the gap, not only the school",
-      "Options: admit the contradiction, or show a reason that still respects the principle",
-      "The case is integrity of example"
+      "Conflict of values",
+      "Integrity",
+      "Freedom of speech and its limits"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A professor uses his writing and his speech for workers and other weaker groups",
+      "The case is the cost of that voice, and how far it may go",
+      "Social sensitivity and the duty of the post arrive together"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The core ethical issue in this case study is the severe cognitive dissonance and hypocrisy between a public intellectual's professed socialist ideology and his personal, elitist actions, which erodes his moral authority and public trust.",
         "order": 1,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "The core ethical issue in this case study is the severe cognitive dissonance and hypocrisy between a public intellectual's professed socialist ideology and his personal, elitist actions, which erodes his moral authority and public trust."
       },
       {
         "section": "Body",
-        "text": "Discussing options (ii, iii, and iv): (ii) Leaving intellectual discourses is an escapist approach; society needs advocates for the marginalized, but they must possess integrity. (iii) Calling party followers to defend his hypocrisy is highly unethical and relies on majoritarian bullying to mask a moral failure. (iv) Admitting his child to an elite school definitively shatters his credibility; he cannot demand sacrifices from society while insulating his own family from the consequences of his ideology.",
         "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Discussing options (ii, iii, and iv): (ii) Leaving intellectual discourses is an escapist approach; society needs advocates for the marginalized, but they must possess integrity. (iii) Calling party followers to defend his hypocrisy is highly unethical and relies on majoritarian bullying to mask a moral failure. (iv) Admitting his child to an elite school definitively shatters his credibility; he cannot demand sacrifices from society while insulating his own family from the consequences of his ideology."
       },
       {
         "section": "Body",
-        "text": "Discussing option (i) - The Ethical Path: Yes, Nishant should get his child admitted to a government school. True leadership requires leading by example ('walking the talk'). By placing his own child in the public system, his activism to improve government schools becomes authentic and driven by personal stakes, instantly restoring his moral authority.",
         "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Discussing option (i) - The Ethical Path: Yes, Nishant should get his child admitted to a government school. True leadership requires leading by example ('walking the talk'). By placing his own child in the public system, his activism to improve government schools becomes authentic and driven by personal stakes, instantly restoring his moral authority."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that intellectual integrity demands alignment between public preaching and private practice. A leader's values are validated only by their personal sacrifices.",
         "order": 4,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Conclude that intellectual integrity demands alignment between public preaching and private practice. A leader's values are validated only by their personal sacrifices."
       }
     ]
   },
   {
     "uid": "UPPSC_2018_GS4_Q16",
-    "paper_title": "General Studies Paper 4",
-    "year": 2018,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 16,
+    "year": 2018,
+    "paper_title": "GS Paper 4",
+    "q_number": "16",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2018 GS Paper 4",
-    "last_updated": 1778972500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2018 GS Paper 4",
     "question_text": "Explain the importance of persuasive communication to change the attiudes of the masses.",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Aptitude",
+    "topic": "Persuasion and a mass attitude",
     "topics": [
-      "Aptitude"
+      "Persuasion and a mass attitude"
     ],
     "subTopics": [
       "Persuasive communication"
     ],
     "keyPointers": [
-      "A clear reason, a trusted speaker and repetition",
-      "It changes a habit more than an order",
-      "Importance is a civic attitude",
-      "Persuasion is not manipulation"
+      "Attitude",
+      "Media and socialisation",
+      "Education and social change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A reason, a trusted voice and a repeated message can move a crowd",
+      "Persuasion works better than an order when the habit is old",
+      "Importance is that a behaviour follows the changed view"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Persuasive communication is the deliberate, strategic effort to influence or alter a group's deeply held attitudes, beliefs, or behaviors using reasoned dialogue, emotional appeals, and credible messaging.",
         "order": 1,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Persuasive communication is the deliberate, strategic effort to influence or alter a group's deeply held attitudes, beliefs, or behaviors using reasoned dialogue, emotional appeals, and credible messaging."
       },
       {
         "section": "Body",
-        "text": "Explain the importance over coercion: Legal coercion or force often yields temporary compliance and breeds long-term resentment. Persuasive communication, however, targets the cognitive and affective domains of attitude, creating internalized, voluntary, and sustainable behavioral changes (e.g., shifting attitudes towards female infanticide or open defecation).",
         "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Explain the importance over coercion: Legal coercion or force often yields temporary compliance and breeds long-term resentment. Persuasive communication, however, targets the cognitive and affective domains of attitude, creating internalized, voluntary, and sustainable behavioral changes (e.g., shifting attitudes towards female infanticide or open defecation)."
       },
       {
         "section": "Body",
-        "text": "Explain the components of successful persuasion: It requires Ethos (the credibility and moral authority of the communicator, such as a respected local leader), Pathos (connecting with the masses emotionally), and Logos (providing factual, logical reasons for the change).",
         "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Explain the components of successful persuasion: It requires Ethos (the credibility and moral authority of the communicator, such as a respected local leader), Pathos (connecting with the masses emotionally), and Logos (providing factual, logical reasons for the change)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that for modern administrators handling complex socio-cultural issues (like vaccine hesitancy or caste prejudices), persuasion is an indispensable soft-power tool to engineer peaceful societal transformation.",
         "order": 4,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Conclude that for modern administrators handling complex socio-cultural issues (like vaccine hesitancy or caste prejudices), persuasion is an indispensable soft-power tool to engineer peaceful societal transformation."
       }
     ]
   },
   {
     "uid": "UPPSC_2018_GS4_Q17",
-    "paper_title": "General Studies Paper 4",
-    "year": 2018,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 17,
+    "year": 2018,
+    "paper_title": "GS Paper 4",
+    "q_number": "17",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2018 GS Paper 4",
-    "last_updated": 1778972500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2018 GS Paper 4",
     "question_text": "\"In essence emotional intelligence is not a theorietical concept but a multidimensional social skill.\" Explain the concept and dimensions of emotional intelligence in teh context of the statement.",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Aptitude",
+    "topic": "Emotional intelligence as a social skill",
     "topics": [
-      "Aptitude"
+      "Emotional intelligence as a social skill"
     ],
     "subTopics": [
       "Emotional intelligence as a social skill"
     ],
     "keyPointers": [
-      "Knowing one’s feeling and another’s",
-      "Using it in a team, a crowd and a hearing",
-      "Multidimensional: self, other, and the choice",
-      "The statement is right: it is practised"
+      "Emotional intelligence",
+      "Good governance",
+      "Compassion"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It is the ability to read one's own feeling and the other person's",
+      "The dimensions are a self-awareness, a control, a motivation and a relation",
+      "A skill means it is used with people, not only studied"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Emotional Intelligence (EI) transcends theoretical psychology; it is an applied, practical competence. It is the ability to perceive, evaluate, and manage one's own emotions and navigate interpersonal relationships judiciously and empathetically.",
         "order": 1,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Emotional Intelligence (EI) transcends theoretical psychology; it is an applied, practical competence. It is the ability to perceive, evaluate, and manage one's own emotions and navigate interpersonal relationships judiciously and empathetically."
       },
       {
         "section": "Body",
-        "text": "Explain the internal dimensions (Self-Skill): According to Daniel Goleman, EI begins with 'Self-Awareness'—recognizing one's own emotional triggers and biases. This is followed by 'Self-Regulation'—the critical ability to control disruptive impulses, maintain composure under stress, and adapt to changing circumstances.",
         "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Explain the internal dimensions (Self-Skill): According to Daniel Goleman, EI begins with 'Self-Awareness'—recognizing one's own emotional triggers and biases. This is followed by 'Self-Regulation'—the critical ability to control disruptive impulses, maintain composure under stress, and adapt to changing circumstances."
       },
       {
         "section": "Body",
-        "text": "Explain the external dimensions (Social Skill): EI extends outward through 'Empathy'—the ability to understand the emotional makeup of others and treat them accordingly. The final dimension is 'Social Skills'—proficiency in managing relationships, building networks, inspiring teams, and effectively resolving conflicts.",
         "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Explain the external dimensions (Social Skill): EI extends outward through 'Empathy'—the ability to understand the emotional makeup of others and treat them accordingly. The final dimension is 'Social Skills'—proficiency in managing relationships, building networks, inspiring teams, and effectively resolving conflicts."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the statement is accurate; EI is not about intellectualizing emotions, but the active, real-world application of these skills to foster collaboration, leadership, and humane administration.",
         "order": 4,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Conclude that the statement is accurate; EI is not about intellectualizing emotions, but the active, real-world application of these skills to foster collaboration, leadership, and humane administration."
       }
     ]
   },
   {
     "uid": "UPPSC_2018_GS4_Q18",
-    "paper_title": "General Studies Paper 4",
-    "year": 2018,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 18,
+    "year": 2018,
+    "paper_title": "GS Paper 4",
+    "q_number": "18",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2018 GS Paper 4",
-    "last_updated": 1778972500,
+    "origin": "PYQ",
     "is_structured": 0,
-    "question_text": "Discuss and evaluate the relevance of the following in the context of the civil service:\n(a) Integrity\n(b) Impartiality\n(c) Objectivity\n(d) Non-partisanship",
-    "subjectId": "cases",
+    "cite": "UPPSC Mains 2018 GS Paper 4",
+    "question_text": "Discuss and evaluate the relevance of the following in the context of the civil service: (a) Integrity (b) Impartiality (c) Objectivity (d) Non-partisanship",
+    "subjectId": "ethics",
     "subjects": [
-      "Case Studies"
+      "Ethics"
     ],
-    "topic": "Case Study",
+    "topic": "Four qualities of a civil servant",
     "topics": [
-      "Case Study"
+      "Four qualities of a civil servant"
     ],
     "subTopics": [
       "Integrity and impartiality"
     ],
     "keyPointers": [
-      "Integrity is not being buyable",
-      "Impartiality is the same rule for all",
-      "Both are relevant",
-      "Evaluate each in an act"
+      "Integrity",
+      "Impartiality",
+      "Dedication to public service",
+      "Probity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Integrity is not being bought; impartiality is not favouring a side",
+      "Objectivity is the fact; non-partisanship is staying out of the party",
+      "Each is relevant because a skill without it can be used against the citizen"
+    ],
     "points": [
       {
-        "section": "Body",
-        "text": "(a) Integrity: It is the alignment of one's actions with moral principles, even when unobserved. In civil services, it means absolute financial honesty and resisting bribes or undue favors. It ensures that the immense power of the state is not used for private, corrupt gains, maintaining public trust.",
+        "section": "Point",
         "order": 1,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "(a) Integrity: It is the alignment of one's actions with moral principles, even when unobserved. In civil services, it means absolute financial honesty and resisting bribes or undue favors. It ensures that the immense power of the state is not used for private, corrupt gains, maintaining public trust."
       },
       {
-        "section": "Body",
-        "text": "(b) Impartiality: It is the principle of acting without prejudice or bias. A civil servant must serve all citizens equally, regardless of their caste, religion, gender, or economic status. This is highly relevant in India's diverse society to ensure equitable justice and welfare distribution.",
+        "section": "Point",
         "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "(b) Impartiality: It is the principle of acting without prejudice or bias. A civil servant must serve all citizens equally, regardless of their caste, religion, gender, or economic status. This is highly relevant in India's diverse society to ensure equitable justice and welfare distribution."
       },
       {
-        "section": "Body",
-        "text": "(c) Objectivity: It requires decisions to be based strictly on empirical evidence, factual analysis, and law, rather than intuition or personal whim. It is crucial for fair recruitment, awarding tenders, and designing logical, effective public policies.",
+        "section": "Point",
         "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "(c) Objectivity: It requires decisions to be based strictly on empirical evidence, factual analysis, and law, rather than intuition or personal whim. It is crucial for fair recruitment, awarding tenders, and designing logical, effective public policies."
       },
       {
-        "section": "Body",
-        "text": "(d) Non-partisanship: It signifies political neutrality. A civil servant must implement the policies of the elected government with equal vigor, irrespective of which political party is in power. This guarantees administrative continuity and prevents the bureaucracy from becoming a political tool.",
+        "section": "Point",
         "order": 4,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "(d) Non-partisanship: It signifies political neutrality. A civil servant must implement the policies of the elected government with equal vigor, irrespective of which political party is in power. This guarantees administrative continuity and prevents the bureaucracy from becoming a political tool."
       }
     ]
   },
   {
     "uid": "UPPSC_2018_GS4_Q19",
-    "paper_title": "General Studies Paper 4",
-    "year": 2018,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 19,
+    "year": 2018,
+    "paper_title": "GS Paper 4",
+    "q_number": "19",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2018 GS Paper 4",
-    "last_updated": 1778972500,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2018 GS Paper 4",
     "question_text": "\"Attitudes ar the result of our experiences.\" Explain and evaluate the factors responsible for attitude formation in the context of this statement.",
-    "subjectId": "thinkers",
+    "subjectId": "ethics",
     "subjects": [
-      "Thinkers"
+      "Ethics"
     ],
-    "topic": "Thinkers",
+    "topic": "Where an attitude comes from",
     "topics": [
-      "Thinkers"
+      "Where an attitude comes from"
     ],
     "subTopics": [
       "Experience and the formation of attitudes"
     ],
     "keyPointers": [
-      "Experience is a main source",
-      "Family, a group and a repeated message also form them",
-      "Explain and evaluate",
-      "An attitude is learnt, so it can be reviewed"
+      "Attitude",
+      "Education and social change",
+      "Media and socialisation"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A family, a school, a group and a personal event form it",
+      "Experience is the fair word, and not every experience weighs the same",
+      "An attitude can be revised by a later experience"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Attitudes are not innate; they are psychological constructs acquired and shaped throughout life. The statement rightly posits that our evaluation of the world is a direct culmination of our varied life experiences.",
         "order": 1,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Attitudes are not innate; they are psychological constructs acquired and shaped throughout life. The statement rightly posits that our evaluation of the world is a direct culmination of our varied life experiences."
       },
       {
         "section": "Body",
-        "text": "Evaluate direct experience: Personal encounters strongly solidify attitudes. For example, a person who has consistently suffered harassment by corrupt officials will develop a deeply entrenched, negative attitude toward the bureaucracy. Traumatic or highly positive direct experiences create the most resistant attitudes.",
         "order": 2,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Evaluate direct experience: Personal encounters strongly solidify attitudes. For example, a person who has consistently suffered harassment by corrupt officials will develop a deeply entrenched, negative attitude toward the bureaucracy. Traumatic or highly positive direct experiences create the most resistant attitudes."
       },
       {
         "section": "Body",
-        "text": "Evaluate indirect experiences (Socialization): Attitudes are profoundly shaped by observational learning (Social Learning Theory). Children internalize the prejudices and preferences of their parents and peers. Furthermore, modern experiences mediated through mass media and social networks heavily influence attitudes on complex social issues like politics or gender roles.",
         "order": 3,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Evaluate indirect experiences (Socialization): Attitudes are profoundly shaped by observational learning (Social Learning Theory). Children internalize the prejudices and preferences of their parents and peers. Furthermore, modern experiences mediated through mass media and social networks heavily influence attitudes on complex social issues like politics or gender roles."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that since attitudes are learned through experiences, they can be unlearned or modified by exposing individuals to new, corrective, and positive experiences, which is key for social reform.",
         "order": 4,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Conclude that since attitudes are learned through experiences, they can be unlearned or modified by exposing individuals to new, corrective, and positive experiences, which is key for social reform."
       }
     ]
   },
   {
     "uid": "UPPSC_2018_GS4_Q20",
-    "paper_title": "General Studies Paper 4",
-    "year": 2018,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 20,
+    "year": 2018,
+    "paper_title": "GS Paper 4",
+    "q_number": "20",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2018 GS Paper 4",
-    "last_updated": 1778972500,
+    "origin": "PYQ",
     "is_structured": 1,
-    "question_text": "A Public Information Officer has received an application under 'Right To Information (RTI) Act'. After gathering the required information, he finds that the informations pertain to some of the decisions taken by him, which were not totally correct. Some other employees were also a party to these decisions. Disclosure of the informations may lead towards disciplinary action against him and his other colleagues including probable punishment. Non-disclosure of information or partial disclosure of information may result to less or no punishment.\nThe Public Information Officer is an honest and conscientious person but the particular decision regarding which an application under the RTI Act was lodged was a wrong decision.\nThe officer comes to you for your advice under the above conditions what will be your advice to the officer? Explain logically.",
-    "subjectId": "attitude",
+    "cite": "UPPSC Mains 2018 GS Paper 4",
+    "question_text": "A Public Information Officer has received an application under 'Right To Information (RTI) Act'. After gathering the required information, he finds that the informations pertain to some of the decisions taken by him, which were not totally correct. Some other employees were also a party to these decisions. Disclosure of the informations may lead towards disciplinary action against him and his other colleagues including probable punishment. Non-disclosure of information or partial disclosure of information may result to less or no punishment. The Public Information Officer is an honest and conscientious person but the particular decision regarding which an application under the RTI Act was lodged was a wrong decision. The officer comes to you for your advice under the above conditions what will be your advice to the officer? Explain logically.",
+    "subjectId": "cases",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Case Studies"
     ],
-    "topic": "Aptitude",
+    "topic": "A right-to-information file that implicates seniors",
     "topics": [
-      "Aptitude"
+      "A right-to-information file that implicates seniors"
     ],
     "subTopics": [
       "RTI disclosure against oneself"
     ],
     "keyPointers": [
-      "The information is about a flawed decision he shared in",
-      "Hiding it to avoid punishment betrays the Act",
-      "An honest officer discloses and faces the discipline",
-      "Partial disclosure to save colleagues is still a concealment"
+      "Conflict of values",
+      "Transparency and the right to information",
+      "Integrity",
+      "Accountability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The information is ready, and it shows a wrong by people above him",
+      "The case is whether he gives it, delays it or softens it",
+      "The Act and his career pull in different directions"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "The core ethical dilemma involves a clash between the statutory duty of transparency (upholding the RTI Act) and the instinct for self-preservation and protecting colleagues from disciplinary action due to past administrative errors.",
         "order": 1,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "The core ethical dilemma involves a clash between the statutory duty of transparency (upholding the RTI Act) and the instinct for self-preservation and protecting colleagues from disciplinary action due to past administrative errors."
       },
       {
         "section": "Body",
-        "text": "Logical advice against non-disclosure: I would strongly advise the PIO against hiding or tampering with the information.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 2
+        "order": 2,
+        "text": "Logical advice against non-disclosure: I would strongly advise the PIO against hiding or tampering with the information."
       },
       {
         "section": "Body",
-        "text": "Under the RTI Act, a PIO is legally bound to provide factual records.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 3
+        "order": 3,
+        "text": "Under the RTI Act, a PIO is legally bound to provide factual records."
       },
       {
         "section": "Body",
-        "text": "Concealing information constitutes a deliberate, secondary ethical and legal offense (fraud and violation of the RTI Act), which destroys his foundational identity as an \"honest and conscientious\" officer.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 4
+        "order": 4,
+        "text": "Concealing information constitutes a deliberate, secondary ethical and legal offense (fraud and violation of the RTI Act), which destroys his foundational identity as an \"honest and conscientious\" officer."
       },
       {
         "section": "Body",
-        "text": "A cover-up is often worse than the original mistake.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 5
+        "order": 5,
+        "text": "A cover-up is often worse than the original mistake."
       },
       {
         "section": "Body",
-        "text": "Logical advice for the correct path: I will advise him to disclose the information completely and transparently as mandated by law.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 6
+        "order": 6,
+        "text": "Logical advice for the correct path: I will advise him to disclose the information completely and transparently as mandated by law."
       },
       {
         "section": "Body",
-        "text": "Simultaneously, since it was a genuine error in decision-making and not malicious corruption, he should proactively draft a detailed note to his superiors owning up to the mistake, explaining the context/pressures under which the flawed decision was made, and suggesting corrective measures.",
-        "cite": "UPPSC Mains 2018 GS Paper 4",
-        "order": 7
+        "order": 7,
+        "text": "Simultaneously, since it was a genuine error in decision-making and not malicious corruption, he should proactively draft a detailed note to his superiors owning up to the mistake, explaining the context/pressures under which the flawed decision was made, and suggesting corrective measures."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that taking moral responsibility requires courage. Honest admission of a past procedural error earns long-term institutional respect and aligns perfectly with the principles of accountability and absolute integrity.",
         "order": 8,
-        "cite": "UPPSC Mains 2018 GS Paper 4"
+        "text": "Conclude that taking moral responsibility requires courage. Honest admission of a past procedural error earns long-term institutional respect and aligns perfectly with the principles of accountability and absolute integrity."
       }
     ]
   }

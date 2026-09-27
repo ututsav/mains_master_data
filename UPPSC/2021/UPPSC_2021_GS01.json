@@ -1,16 +1,16 @@
 [
   {
     "uid": "UPPSC_2021_GS1_Q1",
-    "paper_title": "General Studies Paper 1",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 1,
+    "year": 2021,
+    "paper_title": "GS Paper 1",
+    "q_number": "1",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 1",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 1",
     "question_text": "Describe the geographical features of India mentioned in the vedic literatures.",
     "subjectId": "ancient",
     "subjects": [
@@ -24,109 +24,104 @@
       "Geography in Vedic literature"
     ],
     "keyPointers": [
-      "Rivers, mountains and a land named in the hymns",
-      "The picture is sacred as well as geographical",
-      "It is a source, not a modern map",
-      "Read it beside archaeology"
+      "Literature as a social record",
+      "Continuity and change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The hymns name rivers, mountains and a land the people knew",
+      "Those names are a geography, and they are also a sacred map",
+      "The feature has to be read from the text, not from a modern atlas alone"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Vedic texts (Rigveda, Atharvaveda, Brahmanas) as crucial historical sources that map the geographical awareness and expansion of the Indo-Aryans.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Introduce the Vedic texts (Rigveda, Atharvaveda, Brahmanas) as crucial historical sources that map the geographical awareness and expansion of the Indo-Aryans."
       },
       {
         "section": "Body",
-        "text": "Describe the rivers: The Rigveda prominently mentions the 'Sapta Sindhu' (the land of seven rivers, including the Indus and its tributaries) and the highly revered Saraswati. Later texts mention the Ganga, Yamuna, and Sadanira (Gandak).",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Describe the rivers: The Rigveda prominently mentions the 'Sapta Sindhu' (the land of seven rivers, including the Indus and its tributaries) and the highly revered Saraswati. Later texts mention the Ganga, Yamuna, and Sadanira (Gandak)."
       },
       {
         "section": "Body",
-        "text": "Describe mountains and regions: The texts reference the Himalayas (Himavant) and peaks like Mujavant (source of Soma). The geographical shift from the North-West (Punjab) in the Early Vedic period to the Doab and eastern Gangetic plains (Aryavarta) in the Later Vedic period is heavily documented.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Describe mountains and regions: The texts reference the Himalayas (Himavant) and peaks like Mujavant (source of Soma). The geographical shift from the North-West (Punjab) in the Early Vedic period to the Doab and eastern Gangetic plains (Aryavarta) in the Later Vedic period is heavily documented."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the geographical markers in Vedic literature perfectly trace the migration, settlement patterns, and evolving agrarian lifestyle of the early Vedic civilization.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Conclude that the geographical markers in Vedic literature perfectly trace the migration, settlement patterns, and evolving agrarian lifestyle of the early Vedic civilization."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS1_Q2",
-    "paper_title": "General Studies Paper 1",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 2,
+    "year": 2021,
+    "paper_title": "GS Paper 1",
+    "q_number": "2",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 1",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 1",
     "question_text": "Evaluate the contribution of revolutionaries of Uttar Pradesh in the Indian freedom struggle.",
-    "subjectId": "up-history",
+    "subjectId": "modern",
     "subjects": [
-      "UP History & Culture"
+      "Modern India"
     ],
-    "topic": "UP Modern History",
+    "topic": "Revolutionaries from the state",
     "topics": [
-      "UP Modern History"
+      "Revolutionaries from the state"
     ],
     "subTopics": [
       "Revolutionaries of UP"
     ],
     "keyPointers": [
-      "Secret societies, Kakori and a later socialist line",
-      "They chose arms when petition seemed useless",
-      "UP was a major field, not the only one",
-      "Contribution is courage and a widened idea of freedom"
+      "Revolutionary nationalism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Secret groups, an armed act and a later socialist aim had strong centres in the state",
+      "The contribution was courage and a pressure on the moderate method",
+      "Evaluation has to include how limited their mass base was"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Establish Uttar Pradesh as a premier epicenter of revolutionary nationalism, hosting critical events and legendary figures who chose armed resistance against British imperialism.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Establish Uttar Pradesh as a premier epicenter of revolutionary nationalism, hosting critical events and legendary figures who chose armed resistance against British imperialism."
       },
       {
         "section": "Body",
-        "text": "Evaluate the foundation period: Trace the origins from the 1857 revolt, where figures like Mangal Pandey (Ballia/Meerut), Rani Lakshmibai (Jhansi), and Begum Hazrat Mahal (Awadh) set the precedent for armed struggle.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Evaluate the foundation period: Trace the origins from the 1857 revolt, where figures like Mangal Pandey (Ballia/Meerut), Rani Lakshmibai (Jhansi), and Begum Hazrat Mahal (Awadh) set the precedent for armed struggle."
       },
       {
         "section": "Body",
-        "text": "Evaluate the 20th-century movement: The formation of the Hindustan Republican Association (HRA) in Kanpur (1924) by Sachindra Nath Sanyal. Highlight the Kakori Train Action (1925) involving Ram Prasad Bismil and Ashfaqulla Khan, and the legendary leadership of Chandrashekhar Azad (who was martyred in Allahabad).",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Evaluate the 20th-century movement: The formation of the Hindustan Republican Association (HRA) in Kanpur (1924) by Sachindra Nath Sanyal. Highlight the Kakori Train Action (1925) involving Ram Prasad Bismil and Ashfaqulla Khan, and the legendary leadership of Chandrashekhar Azad (who was martyred in Allahabad)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the revolutionaries of UP broke the myth of British invincibility, injecting immense courage into the youth and accelerating the broader mass movements for independence.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Conclude that the revolutionaries of UP broke the myth of British invincibility, injecting immense courage into the youth and accelerating the broader mass movements for independence."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS1_Q3",
-    "paper_title": "General Studies Paper 1",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 3,
+    "year": 2021,
+    "paper_title": "GS Paper 1",
+    "q_number": "3",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 1",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 1",
     "question_text": "The industrial Revolution was not only a technological revolution but also socio-economic revolution that changes the way people lived. Comment.",
     "subjectId": "world",
     "subjects": [
@@ -140,51 +135,50 @@
       "Industrial Revolution"
     ],
     "keyPointers": [
-      "Machines changed how goods were made",
-      "Class, the city and the family changed with them",
-      "Technology and society were one event",
-      "It transformed India later as a colony, not as the first workshop"
+      "Economic growth",
+      "Urbanisation",
+      "Inequality"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The machine changed how a good was made",
+      "It also moved people into a town, a factory hour and a new class",
+      "Socio-economic is the fair half of the comment, not a side note"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define the Industrial Revolution (starting late 18th century) as a structural shift from agrarian, hand-crafted economies to machine-driven, capitalist manufacturing.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Define the Industrial Revolution (starting late 18th century) as a structural shift from agrarian, hand-crafted economies to machine-driven, capitalist manufacturing."
       },
       {
         "section": "Body",
-        "text": "Discuss the technological aspect: Innovations like the steam engine, mechanization of textiles (Spinning Jenny), and advancements in metallurgy drastically multiplied production capacities.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Discuss the technological aspect: Innovations like the steam engine, mechanization of textiles (Spinning Jenny), and advancements in metallurgy drastically multiplied production capacities."
       },
       {
         "section": "Body",
-        "text": "Discuss the socio-economic aspect: It triggered massive rural-to-urban migration leading to urbanization, created new social classes (the industrial bourgeoisie and the proletariat), altered family structures by introducing factory wage-labor (including child labor), and eventually improved long-term living standards.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Discuss the socio-economic aspect: It triggered massive rural-to-urban migration leading to urbanization, created new social classes (the industrial bourgeoisie and the proletariat), altered family structures by introducing factory wage-labor (including child labor), and eventually improved long-term living standards."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the revolution completely overhauled the human experience, dictating modern capitalism, labor rights, and the geopolitical dominance of industrialized nations.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Conclude that the revolution completely overhauled the human experience, dictating modern capitalism, labor rights, and the geopolitical dominance of industrialized nations."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS1_Q4",
-    "paper_title": "General Studies Paper 1",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 4,
+    "year": 2021,
+    "paper_title": "GS Paper 1",
+    "q_number": "4",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 1",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 1",
     "question_text": "Discuss the scientific aspects of Indian cultural heritage.",
     "subjectId": "culture",
     "subjects": [
@@ -198,51 +192,50 @@
       "Science in Indian heritage"
     ],
     "keyPointers": [
-      "Mathematics, astronomy, medicine and metallurgy",
-      "A cultural practice can hold a tested knowledge",
-      "Separate what was known from later legend",
-      "The aspect is method, not only pride"
+      "Scientific temper",
+      "Continuity and change",
+      "Literature as a social record"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A mathematics, a medicine, a metallurgy and a calendar sit inside the tradition",
+      "Scientific aspect means a method, not only a wonder",
+      "Heritage holds both a ritual and a knowledge"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "State that ancient Indian cultural heritage is deeply intertwined with rational, empirical, and scientific understanding, predating many modern discoveries.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "State that ancient Indian cultural heritage is deeply intertwined with rational, empirical, and scientific understanding, predating many modern discoveries."
       },
       {
         "section": "Body",
-        "text": "Discuss Mathematics and Astronomy: The invention of the zero and decimal system, Aryabhata's calculation of pi and heliocentric theories, and the precision of astronomical observatories like Jantar Mantar.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Discuss Mathematics and Astronomy: The invention of the zero and decimal system, Aryabhata's calculation of pi and heliocentric theories, and the precision of astronomical observatories like Jantar Mantar."
       },
       {
         "section": "Body",
-        "text": "Discuss Medicine, Metallurgy, and Architecture: The holistic healing and surgical advancements in Ayurveda (Sushruta Samhita, Charaka Samhita), exceptional metallurgy (Wootz steel, the rust-free Iron Pillar of Delhi), and the precise geometric/acoustic engineering in temple architecture (Vastu Shastra).",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Discuss Medicine, Metallurgy, and Architecture: The holistic healing and surgical advancements in Ayurveda (Sushruta Samhita, Charaka Samhita), exceptional metallurgy (Wootz steel, the rust-free Iron Pillar of Delhi), and the precise geometric/acoustic engineering in temple architecture (Vastu Shastra)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that acknowledging these scientific foundations bridges the gap between traditional wisdom and modern scientific temper.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Conclude that acknowledging these scientific foundations bridges the gap between traditional wisdom and modern scientific temper."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS1_Q5",
-    "paper_title": "General Studies Paper 1",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 5,
+    "year": 2021,
+    "paper_title": "GS Paper 1",
+    "q_number": "5",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 1",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 1",
     "question_text": "Do you agree that urbanization and slums are inseparable? Explain.",
     "subjectId": "society",
     "subjects": [
@@ -256,51 +249,50 @@
       "Urbanisation and slums"
     ],
     "keyPointers": [
-      "A city that grows faster than housing produces a slum",
-      "They often arrive together and need not",
-      "Planning, land and a transit can separate them",
-      "Agree only as a present failure, not a law"
+      "Urbanisation",
+      "Inequality",
+      "Informal economy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A city that grows faster than its houses produces a slum",
+      "They often arrive together, and they are not a law of nature",
+      "The agreement holds only where the arrival is not planned"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define urbanization. Note that while rapid urban growth in developing countries like India has historically resulted in slum proliferation, the two are not inherently inseparable.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Define urbanization. Note that while rapid urban growth in developing countries like India has historically resulted in slum proliferation, the two are not inherently inseparable."
       },
       {
         "section": "Body",
-        "text": "Explain why they seem inseparable: High rural-to-urban distress migration, lack of affordable urban housing, extremely high land costs, and a massive reliance on the informal sector for cheap labor force migrants into spontaneous squatter settlements.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Explain why they seem inseparable: High rural-to-urban distress migration, lack of affordable urban housing, extremely high land costs, and a massive reliance on the informal sector for cheap labor force migrants into spontaneous squatter settlements."
       },
       {
         "section": "Body",
-        "text": "Explain why they can be separated: Proper city planning, robust public housing initiatives (e.g., Singapore's HDB model), inclusive zoning laws, and proactive slum rehabilitation programs (like PMAY-U) can decouple urbanization from slum creation.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Explain why they can be separated: Proper city planning, robust public housing initiatives (e.g., Singapore's HDB model), inclusive zoning laws, and proactive slum rehabilitation programs (like PMAY-U) can decouple urbanization from slum creation."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that slums are the result of policy failure and exclusionary planning, not an inevitable by-product of urbanization itself.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Conclude that slums are the result of policy failure and exclusionary planning, not an inevitable by-product of urbanization itself."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS1_Q6",
-    "paper_title": "General Studies Paper 1",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 6,
+    "year": 2021,
+    "paper_title": "GS Paper 1",
+    "q_number": "6",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 1",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 1",
     "question_text": "Examine how regionalism affects the national integration.",
     "subjectId": "society",
     "subjects": [
@@ -314,283 +306,278 @@
       "Regionalism and national integration"
     ],
     "keyPointers": [
-      "A demand for language, a job and a share",
-      "It can voice neglect and can also split a belonging",
-      "Integration weakens when the region denies the larger whole",
-      "Examine the effect, do not only condemn"
+      "Regionalism",
+      "Unity and diversity",
+      "Federalism"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A demand that treats the rest of the country as the other weakens a shared feeling",
+      "It can also be a fair claim inside the Union",
+      "The effect on integration depends on whether the demand stops at a share or denies the whole"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define regionalism as a strong attachment to one's own region, language, or culture, which acts as a double-edged sword for India's national integration.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Define regionalism as a strong attachment to one's own region, language, or culture, which acts as a double-edged sword for India's national integration."
       },
       {
         "section": "Body",
-        "text": "Examine the negative effects: Toxic regionalism threatens integration through secessionist demands, violent 'sons-of-the-soil' movements targeting migrants, inter-state boundary/water disputes, and political polarization.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Examine the negative effects: Toxic regionalism threatens integration through secessionist demands, violent 'sons-of-the-soil' movements targeting migrants, inter-state boundary/water disputes, and political polarization."
       },
       {
         "section": "Body",
-        "text": "Examine the positive effects: Healthy regionalism preserves India's unique cultural mosaic, highlights regional economic imbalances forcing equitable central policies, and fosters competitive federalism for better governance.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Examine the positive effects: Healthy regionalism preserves India's unique cultural mosaic, highlights regional economic imbalances forcing equitable central policies, and fosters competitive federalism for better governance."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that accommodating legitimate regional aspirations within the constitutional framework (cooperative federalism) strengthens national integration, while ignoring them breeds alienation.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Conclude that accommodating legitimate regional aspirations within the constitutional framework (cooperative federalism) strengthens national integration, while ignoring them breeds alienation."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS1_Q7",
-    "paper_title": "General Studies Paper 1",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 7,
+    "year": 2021,
+    "paper_title": "GS Paper 1",
+    "q_number": "7",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 1",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 1",
     "question_text": "Describe the main industries and major industrial centers of Uttar Pradesh.",
-    "subjectId": "up-economy",
+    "subjectId": "economy",
     "subjects": [
-      "UP Economy & Agri"
+      "Economy & Development"
     ],
-    "topic": "UP Industry",
+    "topic": "Industries and their centres",
     "topics": [
-      "UP Industry"
+      "Industries and their centres"
     ],
     "subTopics": [
       "Industries of UP"
     ],
     "keyPointers": [
-      "Sugar, textiles, leather, cement and a growing electronics belt",
-      "Centres follow a crop, a city and a corridor",
-      "Name places, not only sectors",
-      "The map is uneven between west and east"
+      "Manufacturing",
+      "Infrastructure",
+      "Inclusive growth"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Sugar, a textile, a leather and a later electronics sit in named towns",
+      "The centre follows a raw material, a power and a road",
+      "A list without the reason the town grew is incomplete"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce Uttar Pradesh as a rapidly industrializing state, transitioning from a purely agrarian economy to a diversified manufacturing and service hub.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Introduce Uttar Pradesh as a rapidly industrializing state, transitioning from a purely agrarian economy to a diversified manufacturing and service hub."
       },
       {
         "section": "Body",
-        "text": "Describe main industries: Agro-based (sugar, food processing), traditional/handicrafts (textiles, brassware, carpets), heavy manufacturing (defense, electronics), and leather processing.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Describe main industries: Agro-based (sugar, food processing), traditional/handicrafts (textiles, brassware, carpets), heavy manufacturing (defense, electronics), and leather processing."
       },
       {
         "section": "Body",
-        "text": "Identify major centers: Kanpur (leather and textiles), Noida/Greater Noida (IT, electronics, and automobiles), Agra (footwear, tourism), Moradabad (brassware), Bhadohi (carpets), and the emerging nodes of the UP Defence Corridor.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Identify major centers: Kanpur (leather and textiles), Noida/Greater Noida (IT, electronics, and automobiles), Agra (footwear, tourism), Moradabad (brassware), Bhadohi (carpets), and the emerging nodes of the UP Defence Corridor."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that initiatives like One District One Product (ODOP) and massive expressway infrastructure are successfully decentralizing this industrial base across the state.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Conclude that initiatives like One District One Product (ODOP) and massive expressway infrastructure are successfully decentralizing this industrial base across the state."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS1_Q8",
-    "paper_title": "General Studies Paper 1",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 8,
+    "year": 2021,
+    "paper_title": "GS Paper 1",
+    "q_number": "8",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 1",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 1",
     "question_text": "Illustrate the major features of Wildlife-Eco Tourism Circuits of Uttar Pradesh.",
-    "subjectId": "up-geo",
+    "subjectId": "energyenv",
     "subjects": [
-      "UP Geography & Environment"
+      "Environment & Ecology"
     ],
-    "topic": "UP Environment",
+    "topic": "Wildlife tourism circuits",
     "topics": [
-      "UP Environment"
+      "Wildlife tourism circuits"
     ],
     "subTopics": [
       "Wildlife eco-tourism circuits of UP"
     ],
     "keyPointers": [
-      "Protected areas linked as a travel circuit",
-      "Terai parks and wetlands are the core",
-      "Feature: wildlife plus a local stay",
-      "Tourism helps only if the habitat is not the product that is spent"
+      "Biodiversity loss",
+      "Forest conservation",
+      "Inclusive growth"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A circuit joins a sanctuary so a visitor can see more than one site",
+      "The feature is the animal and the route",
+      "Tourism helps if the habitat, and the village beside it, both gain"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "State that UP boasts rich biodiversity across the Terai, Vindhyan, and Gangetic belts, which is heavily promoted through structured Eco-Tourism circuits.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "State that UP boasts rich biodiversity across the Terai, Vindhyan, and Gangetic belts, which is heavily promoted through structured Eco-Tourism circuits."
       },
       {
         "section": "Body",
-        "text": "Illustrate key circuits: The Terai Tiger Circuit (Dudhwa National Park, Katarniaghat, Pilibhit), the Lion Safari in Etawah, and the avifauna circuits covering Nawabganj, Sandi, and Okhla bird sanctuaries.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Illustrate key circuits: The Terai Tiger Circuit (Dudhwa National Park, Katarniaghat, Pilibhit), the Lion Safari in Etawah, and the avifauna circuits covering Nawabganj, Sandi, and Okhla bird sanctuaries."
       },
       {
         "section": "Body",
-        "text": "Discuss major features: These circuits focus on sustainable tourism, integrating local communities (Tharu tribes) for livelihood generation, preserving natural habitats without heavy infrastructural disruption, and promoting environmental awareness.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Discuss major features: These circuits focus on sustainable tourism, integrating local communities (Tharu tribes) for livelihood generation, preserving natural habitats without heavy infrastructural disruption, and promoting environmental awareness."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that eco-tourism in UP effectively balances the state's revenue generation with the imperative of wildlife conservation.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Conclude that eco-tourism in UP effectively balances the state's revenue generation with the imperative of wildlife conservation."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS1_Q9",
-    "paper_title": "General Studies Paper 1",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 9,
+    "year": 2021,
+    "paper_title": "GS Paper 1",
+    "q_number": "9",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 1",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 1",
     "question_text": "What is water crisis? Suggest suitable measures for water resource management.",
-    "subjectId": "geo",
+    "subjectId": "energyenv",
     "subjects": [
-      "Geography"
+      "Environment & Ecology"
     ],
-    "topic": "Physical Geography",
+    "topic": "A water crisis",
     "topics": [
-      "Physical Geography"
+      "A water crisis"
     ],
     "subTopics": [
       "Water crisis and management"
     ],
     "keyPointers": [
-      "Demand above a reliable supply",
-      "Measures: store rain, use less, recharge and price the waste",
-      "Crisis is regional, not one drought",
-      "Management is the crop and the city together"
+      "Freshwater availability",
+      "Sustainable development",
+      "Climate and agriculture"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It is a shortage of usable water, not always a shortage of rain",
+      "The measure is a saving, a recharge and a share that is enforced",
+      "Management fails if only the supply is increased"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define water crisis as the situation where the available unpolluted water within a region is less than the region's demand, leading to acute scarcity for drinking, agriculture, and industry.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Define water crisis as the situation where the available unpolluted water within a region is less than the region's demand, leading to acute scarcity for drinking, agriculture, and industry."
       },
       {
         "section": "Body",
-        "text": "Outline the causes: Over-extraction of groundwater (especially for water-guzzling crops), rapid industrial pollution, climate change altering monsoon patterns, and massive urbanization.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Outline the causes: Over-extraction of groundwater (especially for water-guzzling crops), rapid industrial pollution, climate change altering monsoon patterns, and massive urbanization."
       },
       {
         "section": "Body",
-        "text": "Suggest suitable measures: Mandatory rainwater harvesting, watershed management, shifting to micro-irrigation (drip/sprinkler), recycling and reusing industrial/municipal wastewater, and strategic inter-linking of rivers.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Suggest suitable measures: Mandatory rainwater harvesting, watershed management, shifting to micro-irrigation (drip/sprinkler), recycling and reusing industrial/municipal wastewater, and strategic inter-linking of rivers."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that a paradigm shift from water exploitation to water conservation, driven by community participation (Jal Andolan), is crucial for future water security.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Conclude that a paradigm shift from water exploitation to water conservation, driven by community participation (Jal Andolan), is crucial for future water security."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS1_Q10",
-    "paper_title": "General Studies Paper 1",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 10,
+    "year": 2021,
+    "paper_title": "GS Paper 1",
+    "q_number": "10",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 1",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 1",
     "question_text": "Discuss the patterns of rural settlements in Gangetic Plain.",
-    "subjectId": "up-geo",
+    "subjectId": "geo",
     "subjects": [
-      "UP Geography & Environment"
+      "Geography"
     ],
-    "topic": "UP Geography",
+    "topic": "Villages on the Gangetic plain",
     "topics": [
-      "UP Geography"
+      "Villages on the Gangetic plain"
     ],
     "subTopics": [
       "Rural settlements of the Gangetic plain"
     ],
     "keyPointers": [
-      "Compact villages on a flat, wet, farmed land",
-      "A river, a flood and a caste hamlet shape the pattern",
-      "Linear along a road or a canal in places",
-      "The plain favours clustering"
+      "Agricultural regions",
+      "Inequality",
+      "Climate and agriculture"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A flood, a road and a caste decide whether houses cluster or string along a river",
+      "The pattern is of a wet, fertile plain",
+      "It is not the same as a dry plateau village"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Gangetic Plain as one of the most fertile and densely populated agrarian regions globally, dictating distinct rural settlement patterns.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Introduce the Gangetic Plain as one of the most fertile and densely populated agrarian regions globally, dictating distinct rural settlement patterns."
       },
       {
         "section": "Body",
-        "text": "Discuss Compact/Clustered settlements: Found heavily in the upper and middle Gangetic plains (Doab). Houses are closely built together around a central feature (like a pond or temple) due to the high yield of land and historical defense needs.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Discuss Compact/Clustered settlements: Found heavily in the upper and middle Gangetic plains (Doab). Houses are closely built together around a central feature (like a pond or temple) due to the high yield of land and historical defense needs."
       },
       {
         "section": "Body",
-        "text": "Discuss Semi-clustered and Hamleted settlements: Found in the middle and lower plains. These arise from caste-based segregation or large families moving out of the main cluster to live closer to their fields, forming fragmented units (purvas, pannas).",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Discuss Semi-clustered and Hamleted settlements: Found in the middle and lower plains. These arise from caste-based segregation or large families moving out of the main cluster to live closer to their fields, forming fragmented units (purvas, pannas)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that these settlement patterns are a direct spatial reflection of the region's agricultural intensity, water availability, and rigid socio-cultural stratification.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Conclude that these settlement patterns are a direct spatial reflection of the region's agricultural intensity, water availability, and rigid socio-cultural stratification."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS1_Q11",
-    "paper_title": "General Studies Paper 1",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 11,
+    "year": 2021,
+    "paper_title": "GS Paper 1",
+    "q_number": "11",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 1",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 1",
     "question_text": "Throw light on the development of science and technology during the Gupta period.",
     "subjectId": "ancient",
     "subjects": [
@@ -604,51 +591,50 @@
       "Gupta science and technology"
     ],
     "keyPointers": [
-      "Astronomy, mathematics and a metal craft",
-      "Aryabhata belongs to this horizon",
-      "A high point of systematic knowledge",
-      "Technology here is also the temple and the coin"
+      "Scientific temper",
+      "Patronage and art",
+      "Continuity and change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A mathematics, a medicine and a metal work advanced under a court that paid for learning",
+      "Development is what was written and made",
+      "The period is remembered for that, and not every craft was new"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Designate the Gupta period (c. 4th–6th century CE) as the 'Golden Age' of ancient India, primarily due to unprecedented, rational advancements in science and technology.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Designate the Gupta period (c. 4th–6th century CE) as the 'Golden Age' of ancient India, primarily due to unprecedented, rational advancements in science and technology."
       },
       {
         "section": "Body",
-        "text": "Detail developments in Mathematics and Astronomy: Aryabhata authored the 'Aryabhatiya', proposing the heliocentric theory, Earth's rotation on its axis, and accurate calculations of pi. Varahamihira compiled the 'Pancha Siddhantika', advancing foundational astronomy.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Detail developments in Mathematics and Astronomy: Aryabhata authored the 'Aryabhatiya', proposing the heliocentric theory, Earth's rotation on its axis, and accurate calculations of pi. Varahamihira compiled the 'Pancha Siddhantika', advancing foundational astronomy."
       },
       {
         "section": "Body",
-        "text": "Detail developments in Metallurgy and Medicine: The era produced the marvel of the rust-resistant Mehrauli Iron Pillar and massive bronze/copper statues. In medicine, scholars like Vagbhata expanded Ayurveda, and specialized veterinary sciences (like Hastyayurveda for elephants) were documented.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Detail developments in Metallurgy and Medicine: The era produced the marvel of the rust-resistant Mehrauli Iron Pillar and massive bronze/copper statues. In medicine, scholars like Vagbhata expanded Ayurveda, and specialized veterinary sciences (like Hastyayurveda for elephants) were documented."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the Gupta period transitioned Indian thought from mythology to empirical observation, creating a scientific legacy that profoundly influenced later Islamic and European sciences.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Conclude that the Gupta period transitioned Indian thought from mythology to empirical observation, creating a scientific legacy that profoundly influenced later Islamic and European sciences."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS1_Q12",
-    "paper_title": "General Studies Paper 1",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 12,
+    "year": 2021,
+    "paper_title": "GS Paper 1",
+    "q_number": "12",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 1",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 1",
     "question_text": "How did Indian Renaissance Movement of 19th Century help in the development of India? Describe.",
     "subjectId": "modern",
     "subjects": [
@@ -662,51 +648,49 @@
       "19th-century Indian renaissance"
     ],
     "keyPointers": [
-      "Social reform, print and a modern education",
-      "It built a public that could imagine a nation",
-      "Help was ideas and institutions",
-      "Development later used that base"
+      "Socio-religious reform",
+      "Education and social change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A school, a press and a questioning of custom opened a path the later national movement used",
+      "The help was a new public and a new idea of the self",
+      "It developed a class, and it did not by itself free the country"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define the 19th-century Indian Renaissance as a socio-religious reform movement, spearheaded by intellectuals like Raja Ram Mohan Roy, Ishwar Chandra Vidyasagar, and Swami Vivekananda.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Define the 19th-century Indian Renaissance as a socio-religious reform movement, spearheaded by intellectuals like Raja Ram Mohan Roy, Ishwar Chandra Vidyasagar, and Swami Vivekananda."
       },
       {
         "section": "Body",
-        "text": "Describe social and educational development: It aggressively campaigned against regressive practices like Sati, child marriage, and untouchability. It heavily promoted Western scientific education and women's education, creating a modern, rational middle class.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Describe social and educational development: It aggressively campaigned against regressive practices like Sati, child marriage, and untouchability. It heavily promoted Western scientific education and women's education, creating a modern, rational middle class."
       },
       {
         "section": "Body",
-        "text": "Describe political and national development: By reviving pride in India's ancient past (e.g., Arya Samaj) while accepting modern humanism, it fostered a unified national consciousness, laying the direct ideological groundwork for the Indian National Movement.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Describe political and national development: By reviving pride in India's ancient past (e.g., Arya Samaj) while accepting modern humanism, it fostered a unified national consciousness, laying the direct ideological groundwork for the Indian National Movement."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the Renaissance was the vital bridge that transitioned India from medieval orthodoxy into a modern, democratic, and politically awakened nation.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Conclude that the Renaissance was the vital bridge that transitioned India from medieval orthodoxy into a modern, democratic, and politically awakened nation."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS1_Q13",
-    "paper_title": "General Studies Paper 1",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 13,
+    "year": 2021,
+    "paper_title": "GS Paper 1",
+    "q_number": "13",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 1",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 1",
     "question_text": "What do you understand by the Balkan Crisis? What was its role in the First World War?",
     "subjectId": "world",
     "subjects": [
@@ -720,51 +704,49 @@
       "Balkan crisis and the First World War"
     ],
     "keyPointers": [
-      "Competing nationalisms and empires in the Balkans",
-      "The 1914 spark was there, the rivalries were older",
-      "It turned a local murder into a general war",
-      "Role: the occasion, on top of an armed peace"
+      "Balance of power",
+      "Nationalism in Europe"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Rival claims over the Balkan lands pulled the great powers in",
+      "The crisis was a local nationalism inside a larger alliance system",
+      "Its role in 1914 was the spark, not the only cause"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define the Balkan Crisis as the severe geopolitical instability in the Balkan Peninsula (the 'powder keg' of Europe) during the late 19th and early 20th centuries, triggered by the collapse of the Ottoman Empire.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Define the Balkan Crisis as the severe geopolitical instability in the Balkan Peninsula (the 'powder keg' of Europe) during the late 19th and early 20th centuries, triggered by the collapse of the Ottoman Empire."
       },
       {
         "section": "Body",
-        "text": "Understand the Crisis: It involved fierce ethnic nationalism (Pan-Slavism) driven by Serbia, deeply entangled with the imperial expansionist rivalries between the Austro-Hungarian Empire and the Russian Empire.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Understand the Crisis: It involved fierce ethnic nationalism (Pan-Slavism) driven by Serbia, deeply entangled with the imperial expansionist rivalries between the Austro-Hungarian Empire and the Russian Empire."
       },
       {
         "section": "Body",
-        "text": "Explain its role in WWI: The tension peaked with the assassination of Archduke Franz Ferdinand of Austria in Sarajevo (Balkans) in 1914 by a Serbian nationalist. This local crisis immediately activated the complex web of European military alliances.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Explain its role in WWI: The tension peaked with the assassination of Archduke Franz Ferdinand of Austria in Sarajevo (Balkans) in 1914 by a Serbian nationalist. This local crisis immediately activated the complex web of European military alliances."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that the Balkan Crisis acted as the direct catalyst, escalating a regional ethnic dispute into a catastrophic global war.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Conclude that the Balkan Crisis acted as the direct catalyst, escalating a regional ethnic dispute into a catastrophic global war."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS1_Q14",
-    "paper_title": "General Studies Paper 1",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 14,
+    "year": 2021,
+    "paper_title": "GS Paper 1",
+    "q_number": "14",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 1",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 1",
     "question_text": "Why social empowerment of women is necessary for inclusive development? Elaborate in detail.",
     "subjectId": "society",
     "subjects": [
@@ -778,51 +760,51 @@
       "Women’s empowerment and inclusion"
     ],
     "keyPointers": [
-      "A development that leaves women out is not inclusive",
-      "School, work, safety and a voice",
-      "The household and the economy both move when women do",
-      "Necessary because half the people are the condition of the whole"
+      "Women and work",
+      "Inclusive growth",
+      "Patriarchy",
+      "Education and social change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A development that leaves women out is not inclusive",
+      "Empowerment is a school, a property and a voice",
+      "Necessary means the growth itself is smaller without it"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define inclusive development as growth that benefits all sections of society equitably. Note that women constitute half the demographic, making their social empowerment the absolute prerequisite for true development.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Define inclusive development as growth that benefits all sections of society equitably. Note that women constitute half the demographic, making their social empowerment the absolute prerequisite for true development."
       },
       {
         "section": "Body",
-        "text": "Elaborate on health and economic linkages: Socially empowered, educated women make better reproductive and nutritional choices, drastically reducing maternal and infant mortality. Furthermore, breaking patriarchal social barriers allows women to enter the formal workforce, boosting national GDP.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Elaborate on health and economic linkages: Socially empowered, educated women make better reproductive and nutritional choices, drastically reducing maternal and infant mortality. Furthermore, breaking patriarchal social barriers allows women to enter the formal workforce, boosting national GDP."
       },
       {
         "section": "Body",
-        "text": "Elaborate on political and intergenerational impact: Empowerment ensures female representation in decision-making, leading to welfare-oriented policies. Crucially, an empowered mother breaks the intergenerational cycle of poverty by prioritizing her children's education and health.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Elaborate on political and intergenerational impact: Empowerment ensures female representation in decision-making, leading to welfare-oriented policies. Crucially, an empowered mother breaks the intergenerational cycle of poverty by prioritizing her children's education and health."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that without dismantling the social constraints on women, any macroeconomic growth remains superficial and fundamentally exclusive.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Conclude that without dismantling the social constraints on women, any macroeconomic growth remains superficial and fundamentally exclusive."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS1_Q15",
-    "paper_title": "General Studies Paper 1",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 15,
+    "year": 2021,
+    "paper_title": "GS Paper 1",
+    "q_number": "15",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 1",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 1",
     "question_text": "Define globalization. Assess its impacts on rural social structure in India.",
     "subjectId": "society",
     "subjects": [
@@ -836,51 +818,50 @@
       "Globalisation and rural society"
     ],
     "keyPointers": [
-      "New goods, migration and a cash crop",
-      "Joint family, caste work and a local craft shift",
-      "Impact is uneven",
-      "Assess change, not only loss"
+      "Globalisation and culture",
+      "Inequality",
+      "Continuity and change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It is an opening of the economy and of the culture to the world",
+      "In a village it changes a crop, a job and a joint roof",
+      "The impact is a choice for some and a pressure for many"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define globalization as the process of rapid integration and interconnectedness of countries through free trade, capital flows, migration, and technology exchange.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Define globalization as the process of rapid integration and interconnectedness of countries through free trade, capital flows, migration, and technology exchange."
       },
       {
         "section": "Body",
-        "text": "Assess economic impacts on structure: It has commercialized agriculture (shift to cash crops), broken down the traditional Jajmani (patron-client) system, and increased rural-to-urban out-migration of youth, altering village demographics.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Assess economic impacts on structure: It has commercialized agriculture (shift to cash crops), broken down the traditional Jajmani (patron-client) system, and increased rural-to-urban out-migration of youth, altering village demographics."
       },
       {
         "section": "Body",
-        "text": "Assess socio-cultural impacts: Globalization has weakened rigid caste barriers due to new non-farm economic opportunities, led to the fragmentation of joint families into nuclear units, and introduced global consumerism via mass media.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Assess socio-cultural impacts: Globalization has weakened rigid caste barriers due to new non-farm economic opportunities, led to the fragmentation of joint families into nuclear units, and introduced global consumerism via mass media."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while globalization has modernized rural aspirations and provided economic mobility, it has also introduced severe agrarian distress and the erosion of traditional community support systems.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Conclude that while globalization has modernized rural aspirations and provided economic mobility, it has also introduced severe agrarian distress and the erosion of traditional community support systems."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS1_Q16",
-    "paper_title": "General Studies Paper 1",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 16,
+    "year": 2021,
+    "paper_title": "GS Paper 1",
+    "q_number": "16",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 1",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 1",
     "question_text": "Highlight the salient features of India's Population Policy (2000). Suggest some measures for population stabilization.",
     "subjectId": "society",
     "subjects": [
@@ -894,51 +875,50 @@
       "National Population Policy 2000"
     ],
     "keyPointers": [
-      "A focus on health, unmet need and a voluntary small family",
-      "Not a coercive target as the main tool",
-      "Measures: women’s education, services and a later marriage",
-      "Control follows capability"
+      "Human development",
+      "Inequality",
+      "Education and social change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The policy aimed at a slower growth, a later marriage and a health that includes family planning",
+      "The salient feature is a target and a voluntary method",
+      "Stabilisation needs the school and the service, not only the announcement"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the National Population Policy (NPP) 2000, aimed at addressing the unmet needs for contraception and achieving a stable population by 2045 (later revised to 2070).",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Introduce the National Population Policy (NPP) 2000, aimed at addressing the unmet needs for contraception and achieving a stable population by 2045 (later revised to 2070)."
       },
       {
         "section": "Body",
-        "text": "Highlight salient features: A strictly target-free, voluntary approach to family planning. It aimed to reduce the Infant Mortality Rate (IMR) to below 30, Maternal Mortality Rate (MMR) to below 100, achieve universal immunization, and promote delayed marriage for girls.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Highlight salient features: A strictly target-free, voluntary approach to family planning. It aimed to reduce the Infant Mortality Rate (IMR) to below 30, Maternal Mortality Rate (MMR) to below 100, achieve universal immunization, and promote delayed marriage for girls."
       },
       {
         "section": "Body",
-        "text": "Suggest measures for stabilization: Emphasize female education and workforce participation, improve the accessibility of spacing contraceptives, eradicate the socio-cultural son meta-preference, and incentivize small family norms without coercion.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Suggest measures for stabilization: Emphasize female education and workforce participation, improve the accessibility of spacing contraceptives, eradicate the socio-cultural son meta-preference, and incentivize small family norms without coercion."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that population stabilization cannot be achieved through punitive laws, but rather by ensuring that 'development is the best contraceptive.'",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Conclude that population stabilization cannot be achieved through punitive laws, but rather by ensuring that 'development is the best contraceptive.'"
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS1_Q17",
-    "paper_title": "General Studies Paper 1",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 17,
+    "year": 2021,
+    "paper_title": "GS Paper 1",
+    "q_number": "17",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 1",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 1",
     "question_text": "Examine the nature of Urbanization in India and discuss the social implication of fast pace of urbanization.",
     "subjectId": "society",
     "subjects": [
@@ -952,51 +932,51 @@
       "Fast urbanisation in India"
     ],
     "keyPointers": [
-      "Urbanisation without enough jobs and housing",
-      "Social effects: a slum, a changed family, a new inequality",
-      "The nature is demographic and economic",
-      "Speed outruns the city’s capacity"
+      "Urbanisation",
+      "Inequality",
+      "Informal economy",
+      "Sustainable development"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The nature is a few large cities growing faster than the small towns",
+      "The social implication is a slum, a commute and a life without a contract",
+      "Fast pace is the problem the services cannot match"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define urbanization in India. Note that it is characterized as rapid, top-heavy (concentrated in megacities), and largely unplanned, driven by rural distress migration.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Define urbanization in India. Note that it is characterized as rapid, top-heavy (concentrated in megacities), and largely unplanned, driven by rural distress migration."
       },
       {
         "section": "Body",
-        "text": "Examine the nature: Urbanization is outpacing industrialization, leading to a massive expansion of the informal sector, peri-urban sprawl, and the rise of unrecognized 'census towns'.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Examine the nature: Urbanization is outpacing industrialization, leading to a massive expansion of the informal sector, peri-urban sprawl, and the rise of unrecognized 'census towns'."
       },
       {
         "section": "Body",
-        "text": "Discuss social implications: The fast pace leads to severe spatial inequality (slum proliferation), breakdowns in traditional family support systems resulting in urban alienation, increased crime rates, and extreme strain on civic amenities (water, sanitation, healthcare).",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Discuss social implications: The fast pace leads to severe spatial inequality (slum proliferation), breakdowns in traditional family support systems resulting in urban alienation, increased crime rates, and extreme strain on civic amenities (water, sanitation, healthcare)."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that to mitigate these social fractures, India must shift towards sustainable urban planning, inclusive housing, and the development of tier-2 counter-magnet cities.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Conclude that to mitigate these social fractures, India must shift towards sustainable urban planning, inclusive housing, and the development of tier-2 counter-magnet cities."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS1_Q18",
-    "paper_title": "General Studies Paper 1",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 18,
+    "year": 2021,
+    "paper_title": "GS Paper 1",
+    "q_number": "18",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 1",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 1",
     "question_text": "What is cyclone? Explain the causes of the origin of temperate cyclones.",
     "subjectId": "geo",
     "subjects": [
@@ -1010,152 +990,148 @@
       "Temperate cyclones"
     ],
     "keyPointers": [
-      "A large rotating low in the mid-latitudes",
-      "Born where warm and cold air masses meet",
-      "They travel and bring a front of rain",
-      "Cause is the contrast of air, not a warm sea alone"
+      "Disaster risk reduction",
+      "Climate and agriculture"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A cyclone is a rotating low with a strong wind and a rain",
+      "A temperate one is born outside the tropics, where cold and warm air meet",
+      "The cause is that meeting, and the effect in India is often a winter rain"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define a cyclone as a large-scale air mass that rotates around a strong center of low atmospheric pressure. Classify them into tropical and temperate (extra-tropical) cyclones.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Define a cyclone as a large-scale air mass that rotates around a strong center of low atmospheric pressure. Classify them into tropical and temperate (extra-tropical) cyclones."
       },
       {
         "section": "Body",
-        "text": "Explain Temperate Cyclones: These occur in the mid-latitudes (between 30° and 60° north and south) and are highly dynamic weather systems associated with fronts.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Explain Temperate Cyclones: These occur in the mid-latitudes (between 30° and 60° north and south) and are highly dynamic weather systems associated with fronts."
       },
       {
         "section": "Body",
-        "text": "Explain the causes of origin (Polar Front Theory): They originate from the convergence of two contrasting air masses: the warm, moist westerlies from the tropics and the cold, dry easterlies from the poles. This interaction creates an unstable front, leading to a massive cyclonic circulation and varying precipitation.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Explain the causes of origin (Polar Front Theory): They originate from the convergence of two contrasting air masses: the warm, moist westerlies from the tropics and the cold, dry easterlies from the poles. This interaction creates an unstable front, leading to a massive cyclonic circulation and varying precipitation."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude by noting their significance, such as 'Western Disturbances' which are temperate cyclones that bring crucial winter rainfall to the Indian subcontinent.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Conclude by noting their significance, such as 'Western Disturbances' which are temperate cyclones that bring crucial winter rainfall to the Indian subcontinent."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS1_Q19",
-    "paper_title": "General Studies Paper 1",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 19,
+    "year": 2021,
+    "paper_title": "GS Paper 1",
+    "q_number": "19",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 1",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 1",
     "question_text": "Describe the areas of Uttar Pradesh affected by soil erosion and also identify the factors responsible for it.",
-    "subjectId": "up-geo",
+    "subjectId": "geo",
     "subjects": [
-      "UP Geography & Environment"
+      "Geography"
     ],
-    "topic": "UP Geography",
+    "topic": "Soil erosion in the state",
     "topics": [
-      "UP Geography"
+      "Soil erosion in the state"
     ],
     "subTopics": [
       "Soil erosion in UP"
     ],
     "keyPointers": [
-      "Ravines, a river bank and a bare slope",
-      "Causes: deforestation, overgrazing and a concentrated rain",
-      "The worst belts are not the whole state",
-      "Factors are land use on a vulnerable soil"
+      "Soil types",
+      "Sustainable development",
+      "Climate and agriculture"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A ravine, a river bank and a bare slope are the areas",
+      "Water, a wind and a field left without a cover are the factors",
+      "The map and the cause have to be named together"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Highlight soil erosion as a severe ecological and agricultural challenge in Uttar Pradesh, depleting topsoil fertility and causing extensive land degradation.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Highlight soil erosion as a severe ecological and agricultural challenge in Uttar Pradesh, depleting topsoil fertility and causing extensive land degradation."
       },
       {
         "section": "Body",
-        "text": "Describe affected areas: The south-western region (Chambal-Yamuna basin in Agra, Etawah, Bundelkhand) is severely affected by gully erosion (ravines). Meanwhile, the Terai/Bhabar and eastern UP face extensive sheet and riverbank erosion due to recurrent floods.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Describe affected areas: The south-western region (Chambal-Yamuna basin in Agra, Etawah, Bundelkhand) is severely affected by gully erosion (ravines). Meanwhile, the Terai/Bhabar and eastern UP face extensive sheet and riverbank erosion due to recurrent floods."
       },
       {
         "section": "Body",
-        "text": "Identify responsible factors: Natural factors include intense monsoonal downpours, friable alluvial soils, and steep gradients in the Vindhyan plateau. Anthropogenic factors include rampant deforestation, overgrazing, unscientific farming practices, and illegal sand mining.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Identify responsible factors: Natural factors include intense monsoonal downpours, friable alluvial soils, and steep gradients in the Vindhyan plateau. Anthropogenic factors include rampant deforestation, overgrazing, unscientific farming practices, and illegal sand mining."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that arresting this degradation requires urgent watershed management, large-scale afforestation, and the promotion of contour farming.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Conclude that arresting this degradation requires urgent watershed management, large-scale afforestation, and the promotion of contour farming."
       }
     ]
   },
   {
     "uid": "UPPSC_2021_GS1_Q20",
-    "paper_title": "General Studies Paper 1",
-    "year": 2021,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 20,
+    "year": 2021,
+    "paper_title": "GS Paper 1",
+    "q_number": "20",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2021 GS Paper 1",
-    "last_updated": 1715867095,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2021 GS Paper 1",
     "question_text": "What are the means of irrigation in Uttar Pradesh? Discuss the role of irrigation in agricultural development.",
-    "subjectId": "up-economy",
+    "subjectId": "agri",
     "subjects": [
-      "UP Economy & Agri"
+      "Agriculture"
     ],
-    "topic": "UP Agriculture",
+    "topic": "Irrigation and the farm",
     "topics": [
-      "UP Agriculture"
+      "Irrigation and the farm"
     ],
     "subTopics": [
       "Irrigation and agriculture in UP"
     ],
     "keyPointers": [
-      "Canals, tube-wells and a tank",
-      "Irrigation made a second crop possible",
-      "Role: yield and also a falling water table where pumping is free",
-      "Development and the limit together"
+      "Irrigation",
+      "Farmer income",
+      "Freshwater availability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A canal, a tube well and a tank are the means",
+      "Irrigation lets a second crop stand where the rain would not",
+      "Its role in development is that security, and also the risk of a falling water table"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Establish Uttar Pradesh as India's largest food grain producer, heavily reliant on a vast and diverse artificial irrigation network to counter erratic monsoons.",
         "order": 1,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Establish Uttar Pradesh as India's largest food grain producer, heavily reliant on a vast and diverse artificial irrigation network to counter erratic monsoons."
       },
       {
         "section": "Body",
-        "text": "Discuss the means of irrigation: Tubewells and borewells are the dominant source, especially in Western UP. Extensive canal networks (like Sharda, Upper/Lower Ganga) serve the Doab region. Traditional ponds and tanks are utilized primarily in Bundelkhand and eastern parts.",
         "order": 2,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Discuss the means of irrigation: Tubewells and borewells are the dominant source, especially in Western UP. Extensive canal networks (like Sharda, Upper/Lower Ganga) serve the Doab region. Traditional ponds and tanks are utilized primarily in Bundelkhand and eastern parts."
       },
       {
         "section": "Body",
-        "text": "Discuss its role in agricultural development: Assured irrigation is the backbone of the Green Revolution. It allows for multi-cropping (increasing cropping intensity), stabilizes yields against droughts, and enables the cultivation of high-value, water-intensive cash crops like sugarcane and paddy.",
         "order": 3,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Discuss its role in agricultural development: Assured irrigation is the backbone of the Green Revolution. It allows for multi-cropping (increasing cropping intensity), stabilizes yields against droughts, and enables the cultivation of high-value, water-intensive cash crops like sugarcane and paddy."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while crucial for food security, UP must transition from flood irrigation to micro-irrigation techniques to prevent alarming groundwater depletion and soil salinization.",
         "order": 4,
-        "cite": "UPPSC Mains 2021 GS Paper 1"
+        "text": "Conclude that while crucial for food security, UP must transition from flood irrigation to micro-irrigation techniques to prevent alarming groundwater depletion and soil salinization."
       }
     ]
   }

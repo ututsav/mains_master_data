@@ -1,16 +1,16 @@
 [
   {
     "uid": "UPPSC_2023_GS4_Q1",
-    "paper_title": "General Studies Paper 4",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 1,
+    "year": 2023,
+    "paper_title": "GS Paper 4",
+    "q_number": "1",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
-    "last_updated": 1778947153,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
     "question_text": "What do you understand by Moral insight? How does it help in Moral situation of civil servants?",
     "subjectId": "ethics",
     "subjects": [
@@ -24,45 +24,45 @@
       "Moral insight"
     ],
     "keyPointers": [
-      "Seeing the ethical point of a situation, not only the rule",
-      "It helps when two duties conflict",
-      "A servant with insight names the harm",
-      "Insight is judgement, not a feeling"
+      "Moral reasoning",
+      "Conscience",
+      "Dedication to public service"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Moral insight is seeing the right and the wrong in a concrete case, not only knowing a rule",
+      "For a civil servant it is the moment before the order",
+      "It helps when the rule is silent or when following it would harm the person it was meant to protect"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define moral insight as the intuitive or analytical ability to perceive the ethical dimensions and underlying values of a given situation.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Define moral insight as the intuitive or analytical ability to perceive the ethical dimensions and underlying values of a given situation."
       },
       {
         "section": "Body",
-        "text": "Discuss how it helps civil servants by enabling them to identify conflicts of interest, anticipate the social impact of policies, and navigate complex ethical dilemmas.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Discuss how it helps civil servants by enabling them to identify conflicts of interest, anticipate the social impact of policies, and navigate complex ethical dilemmas."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that moral insight ensures administrative decisions are not just legally sound but also ethically just and public-welfare oriented.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Conclude that moral insight ensures administrative decisions are not just legally sound but also ethically just and public-welfare oriented."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS4_Q2",
-    "paper_title": "General Studies Paper 4",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 2,
+    "year": 2023,
+    "paper_title": "GS Paper 4",
+    "q_number": "2",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
-    "last_updated": 1778947153,
+    "origin": "PYQ",
     "is_structured": 0,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
     "question_text": "Examine the relevance of the following in the context of civil service. a) Spirit of service b) Courage of firm conviction.",
     "subjectId": "ethics",
     "subjects": [
@@ -76,39 +76,39 @@
       "Service and conviction"
     ],
     "keyPointers": [
-      "Service is for the citizen, not the chair",
-      "Conviction is holding the lawful line under pressure",
-      "Both are relevant every day",
-      "One without the other is softness or stubbornness"
+      "Dedication to public service",
+      "Integrity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Spirit of service is doing the work for the citizen, not for a favour",
+      "Courage of firm conviction is refusing a wrong order and standing by a right one",
+      "Both are relevant because the post will test them"
+    ],
     "points": [
       {
-        "section": "Body",
-        "text": "a) Spirit of service: It ensures that a civil servant prioritizes public welfare over personal ambition, fostering empathy, dedication, and responsiveness toward marginalized communities.",
+        "section": "Point",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "a) Spirit of service: It ensures that a civil servant prioritizes public welfare over personal ambition, fostering empathy, dedication, and responsiveness toward marginalized communities."
       },
       {
-        "section": "Body",
-        "text": "b) Courage of firm conviction: It empowers a civil servant to withstand political pressure, adhere strictly to the rule of law, and make objective, impartial decisions even in hostile circumstances.",
+        "section": "Point",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "b) Courage of firm conviction: It empowers a civil servant to withstand political pressure, adhere strictly to the rule of law, and make objective, impartial decisions even in hostile circumstances."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS4_Q3",
-    "paper_title": "General Studies Paper 4",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 3,
+    "year": 2023,
+    "paper_title": "GS Paper 4",
+    "q_number": "3",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
-    "last_updated": 1778947153,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
     "question_text": "\"A child learns values by what he observes around him\". Discuss the role of family and society in the formation of values in the light of this statement.",
     "subjectId": "ethics",
     "subjects": [
@@ -122,167 +122,164 @@
       "Family, society and values"
     ],
     "keyPointers": [
-      "The child copies the act, not the lecture",
-      "Family is the first pattern",
-      "Society confirms or corrects it",
-      "Formation is observation"
+      "Education and social change",
+      "Attitude",
+      "Gender and the household"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A child copies what is praised and what is done at home",
+      "The family is the first school of a value, and the street and the screen are the next",
+      "The statement is largely true, and a later choice can still revise what was observed"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Acknowledge observational learning (Bandura's theory) as the primary mechanism for early value acquisition.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Acknowledge observational learning (Bandura's theory) as the primary mechanism for early value acquisition."
       },
       {
         "section": "Body",
-        "text": "Discuss the role of the family (primary socialization) in imparting foundational values like honesty, empathy, and respect through parental modeling and disciplinary practices.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Discuss the role of the family (primary socialization) in imparting foundational values like honesty, empathy, and respect through parental modeling and disciplinary practices."
       },
       {
         "section": "Body",
-        "text": "Examine the role of society (secondary socialization) where peers, educational institutions, and cultural norms reinforce or challenge these internalized values.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Examine the role of society (secondary socialization) where peers, educational institutions, and cultural norms reinforce or challenge these internalized values."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that a cohesive ethical environment across both family and society is critical for developing a morally sound individual.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Conclude that a cohesive ethical environment across both family and society is critical for developing a morally sound individual."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS4_Q4",
-    "paper_title": "General Studies Paper 4",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 4,
+    "year": 2023,
+    "paper_title": "GS Paper 4",
+    "q_number": "4",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
-    "last_updated": 1778947153,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
     "question_text": "\"In the era of Globalization International ethics is the need of hour for ensuring peace and stability among the nations\". Explain critically.",
-    "subjectId": "thinkers",
+    "subjectId": "ethics",
     "subjects": [
-      "Thinkers"
+      "Ethics"
     ],
-    "topic": "Thinkers",
+    "topic": "An ethic between nations",
     "topics": [
-      "Thinkers"
+      "An ethic between nations"
     ],
     "subTopics": [
       "International ethics"
     ],
     "keyPointers": [
-      "A shared restraint on war, trade and a border",
-      "Need rises when power is unequal",
-      "Peace needs a rule both sides will keep",
-      "Ethics between states is interest plus a limit"
+      "Ethics and morals",
+      "Multilateralism",
+      "Strategic autonomy"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A shared limit on force, on a trade trick and on a climate harm is what international ethics asks",
+      "Peace needs it, because power alone does not restrain itself",
+      "The criticism is that a weak state is asked to be ethical while a strong one is not"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define international ethics as the moral principles guiding the interaction between sovereign states in a globally interconnected world.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Define international ethics as the moral principles guiding the interaction between sovereign states in a globally interconnected world."
       },
       {
         "section": "Body",
-        "text": "Explain why it is needed: addressing transnational challenges (climate change, pandemics, refugee crises), ensuring equitable trade, and preventing conflict.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Explain why it is needed: addressing transnational challenges (climate change, pandemics, refugee crises), ensuring equitable trade, and preventing conflict."
       },
       {
         "section": "Body",
-        "text": "Critically analyze the challenges: the clash between universal human rights and state sovereignty, and the prioritization of narrow national interests (realism) over global welfare.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Critically analyze the challenges: the clash between universal human rights and state sovereignty, and the prioritization of narrow national interests (realism) over global welfare."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that establishing robust global ethical frameworks is non-negotiable for collective human survival and sustainable peace.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Conclude that establishing robust global ethical frameworks is non-negotiable for collective human survival and sustainable peace."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS4_Q5",
-    "paper_title": "General Studies Paper 4",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 5,
+    "year": 2023,
+    "paper_title": "GS Paper 4",
+    "q_number": "5",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
-    "last_updated": 1778947153,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
     "question_text": "\"Concealment of Information impedes public access and involvement\". In the light of this statement discuss the importance of information sharing and transparency in Government.",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Aptitude",
+    "topic": "Hiding a file",
     "topics": [
-      "Aptitude"
+      "Hiding a file"
     ],
     "subTopics": [
       "Concealment and public involvement"
     ],
     "keyPointers": [
-      "A hidden file cannot be questioned",
-      "Involvement needs the facts",
-      "Some secrets are real; most concealment is convenience",
-      "The importance is a default of openness"
+      "Transparency and the right to information",
+      "Accountability",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "If the information is concealed, the citizen cannot join the decision",
+      "Sharing is how a public involvement becomes real",
+      "The importance is a trust, and also a better decision"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Connect the concealment of information to democratic deficit, breeding corruption, and public distrust.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Connect the concealment of information to democratic deficit, breeding corruption, and public distrust."
       },
       {
         "section": "Body",
-        "text": "Discuss the importance of transparency: it acts as a deterrent to maladministration, makes government operations predictable, and holds officials accountable.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Discuss the importance of transparency: it acts as a deterrent to maladministration, makes government operations predictable, and holds officials accountable."
       },
       {
         "section": "Body",
-        "text": "Highlight how information sharing (e.g., RTI Act, open data portals) empowers citizens, leading to active public participation in governance.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Highlight how information sharing (e.g., RTI Act, open data portals) empowers citizens, leading to active public participation in governance."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that transparency transforms subjects into active stakeholders, ensuring a participatory and robust democracy.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Conclude that transparency transforms subjects into active stakeholders, ensuring a participatory and robust democracy."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS4_Q6",
-    "paper_title": "General Studies Paper 4",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 6,
+    "year": 2023,
+    "paper_title": "GS Paper 4",
+    "q_number": "6",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
-    "last_updated": 1778947153,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
     "question_text": "Describe various components of attitude and discuss factors that influence attitude formation.",
     "subjectId": "ethics",
     "subjects": [
@@ -296,109 +293,107 @@
       "Components of attitude"
     ],
     "keyPointers": [
-      "A thought, a feeling and a tendency to act",
-      "Family, experience and a group form it",
-      "The three parts can conflict",
-      "Formation is slow and can be reviewed"
+      "Attitude",
+      "Prejudice",
+      "Education and social change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A thought, a feeling and a tendency to act are the components",
+      "Family, a group and an experience form them",
+      "A factor can build a fair attitude, and the same kind of factor can build a prejudice"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define attitude as a psychological tendency expressed by evaluating a particular entity with some degree of favor or disfavor.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Define attitude as a psychological tendency expressed by evaluating a particular entity with some degree of favor or disfavor."
       },
       {
         "section": "Body",
-        "text": "Describe the CAB model components: Cognitive (beliefs/knowledge), Affective (emotions/feelings), and Behavioral (actions/intentions).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Describe the CAB model components: Cognitive (beliefs/knowledge), Affective (emotions/feelings), and Behavioral (actions/intentions)."
       },
       {
         "section": "Body",
-        "text": "Discuss influencing factors: direct personal experience, classical/operant conditioning, social learning (observing role models), and cultural/institutional norms.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Discuss influencing factors: direct personal experience, classical/operant conditioning, social learning (observing role models), and cultural/institutional norms."
       },
       {
         "section": "Conclusion",
-        "text": "Briefly note that understanding these factors is crucial for civil servants to design effective behavioral change campaigns.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Briefly note that understanding these factors is crucial for civil servants to design effective behavioral change campaigns."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS4_Q7",
-    "paper_title": "General Studies Paper 4",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 7,
+    "year": 2023,
+    "paper_title": "GS Paper 4",
+    "q_number": "7",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
-    "last_updated": 1778947153,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
     "question_text": "Discuss any two important attributes which you consider important for public servant. Justify your answer.",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Attitude",
+    "topic": "Two qualities of a public servant",
     "topics": [
-      "Attitude"
+      "Two qualities of a public servant"
     ],
     "subTopics": [
       "Attributes of a public servant"
     ],
     "keyPointers": [
-      "Integrity and empathy are a fair pair",
-      "Integrity stops the corrupt exit",
-      "Empathy stops a lawful cruelty",
-      "Justify with a decision, not a definition only"
+      "Integrity",
+      "Dedication to public service",
+      "Compassion"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Integrity, so the decision is not for sale",
+      "Compassion, so the person across the table is seen",
+      "They matter because a clever servant without either can do more harm"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the foundational values of civil services essential for ethical administration.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Introduce the foundational values of civil services essential for ethical administration."
       },
       {
         "section": "Body",
-        "text": "Discuss Integrity: Justify it as the cornerstone that prevents corruption, ensures consistency in actions, and builds public trust.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Discuss Integrity: Justify it as the cornerstone that prevents corruption, ensures consistency in actions, and builds public trust."
       },
       {
         "section": "Body",
-        "text": "Discuss Empathy/Compassion: Justify it as necessary for understanding the ground realities of marginalized sections, ensuring inclusive and humane service delivery.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Discuss Empathy/Compassion: Justify it as necessary for understanding the ground realities of marginalized sections, ensuring inclusive and humane service delivery."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that while integrity ensures a clean administration, empathy ensures a caring one.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Conclude that while integrity ensures a clean administration, empathy ensures a caring one."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS4_Q8",
-    "paper_title": "General Studies Paper 4",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 8,
+    "year": 2023,
+    "paper_title": "GS Paper 4",
+    "q_number": "8",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
-    "last_updated": 1778947153,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
     "question_text": "How can liberality and objectivity be fostered among civil servants? Give your suggestion.",
     "subjectId": "ethics",
     "subjects": [
@@ -412,51 +407,50 @@
       "Liberality and objectivity"
     ],
     "keyPointers": [
-      "A habit of hearing the other side",
-      "A reason written on the file",
-      "Training and a posting that does not reward bias",
-      "Suggestions must be practicable"
+      "Impartiality",
+      "Integrity",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Objectivity is a file decided on the fact",
+      "A wider spirit is a willingness to hear the person the rule did not imagine",
+      "They are fostered by a transparent process and a review that punishes a bias"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define liberality (open-mindedness and tolerance) and objectivity (basing decisions on facts and merit rather than bias).",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Define liberality (open-mindedness and tolerance) and objectivity (basing decisions on facts and merit rather than bias)."
       },
       {
         "section": "Body",
-        "text": "Suggest training measures: immersive ethical training programs at academies, exposure to diverse socio-cultural realities, and case-study-based decision-making workshops.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Suggest training measures: immersive ethical training programs at academies, exposure to diverse socio-cultural realities, and case-study-based decision-making workshops."
       },
       {
         "section": "Body",
-        "text": "Suggest institutional measures: enforcing strict codes of conduct, minimizing political interference, promoting workplace diversity, and implementing transparent appraisal systems.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Suggest institutional measures: enforcing strict codes of conduct, minimizing political interference, promoting workplace diversity, and implementing transparent appraisal systems."
       },
       {
         "section": "Conclusion",
-        "text": "Summarize that a combination of foundational training and strong institutional frameworks is required to foster these traits.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Summarize that a combination of foundational training and strong institutional frameworks is required to foster these traits."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS4_Q9",
-    "paper_title": "General Studies Paper 4",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 9,
+    "year": 2023,
+    "paper_title": "GS Paper 4",
+    "q_number": "9",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
-    "last_updated": 1778947153,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
     "question_text": "Explain the role of emotional intelligence for good governance and administration.",
     "subjectId": "ethics",
     "subjects": [
@@ -470,51 +464,50 @@
       "Emotional intelligence in administration"
     ],
     "keyPointers": [
-      "Know one’s feeling and the citizen’s",
-      "It improves a hearing and a team",
-      "It does not replace the rule",
-      "Governance is calmer and fairer because of it"
+      "Emotional intelligence",
+      "Good governance",
+      "Compassion"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A servant who can read his own anger and the citizen's fear administers better",
+      "It reduces a quarrel at the counter and a panic in a crisis",
+      "Good governance needs that skill, not only a rule"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define Emotional Intelligence (EI) using Goleman's model: the ability to recognize and manage one's own emotions and those of others.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Define Emotional Intelligence (EI) using Goleman's model: the ability to recognize and manage one's own emotions and those of others."
       },
       {
         "section": "Body",
-        "text": "Explain its role internally: aids in stress management, conflict resolution among teams, and maintaining self-motivation in high-pressure administrative environments.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Explain its role internally: aids in stress management, conflict resolution among teams, and maintaining self-motivation in high-pressure administrative environments."
       },
       {
         "section": "Body",
-        "text": "Explain its role externally: enables empathetic public grievance redressal, effective communication with diverse citizen groups, and better crisis management.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Explain its role externally: enables empathetic public grievance redressal, effective communication with diverse citizen groups, and better crisis management."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that EI is indispensable for transforming bureaucratic machinery into a responsive and humane governance structure.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Conclude that EI is indispensable for transforming bureaucratic machinery into a responsive and humane governance structure."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS4_Q10",
-    "paper_title": "General Studies Paper 4",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 10,
+    "year": 2023,
+    "paper_title": "GS Paper 4",
+    "q_number": "10",
     "marks": 8,
+    "word_limit": 125,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
-    "last_updated": 1778947153,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
     "question_text": "What is the role of social influence in public administration? Elucidate with examples.",
     "subjectId": "ethics",
     "subjects": [
@@ -528,167 +521,165 @@
       "Social influence in administration"
     ],
     "keyPointers": [
-      "A norm, a leader and a peer shape compliance",
-      "Used for a tax, a scheme and a behaviour",
-      "Example: a local person adopting first",
-      "Influence can also capture the office"
+      "Attitude",
+      "Media and socialisation",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A caste, a union, a senior and a screen all push an official",
+      "The role is real in who gets the file moved",
+      "An example is a transfer decided by a pressure, not by a vacancy"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define social influence as the process by which individuals change their attitudes or behavior to meet the demands of a social environment or authority.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Define social influence as the process by which individuals change their attitudes or behavior to meet the demands of a social environment or authority."
       },
       {
         "section": "Body",
-        "text": "Explain its role: civil servants use it to persuade citizens, mobilize community participation, and implement policies without relying solely on coercion or legal mandates.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Explain its role: civil servants use it to persuade citizens, mobilize community participation, and implement policies without relying solely on coercion or legal mandates."
       },
       {
         "section": "Body",
-        "text": "Provide examples: utilizing local influencers to overcome vaccine hesitancy, or employing behavioral nudges in the Swachh Bharat Abhiyan to end open defecation.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Provide examples: utilizing local influencers to overcome vaccine hesitancy, or employing behavioral nudges in the Swachh Bharat Abhiyan to end open defecation."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that social influence is a vital soft-power tool for modern administrators to drive societal reform.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Conclude that social influence is a vital soft-power tool for modern administrators to drive societal reform."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS4_Q11",
-    "paper_title": "General Studies Paper 4",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 11,
+    "year": 2023,
+    "paper_title": "GS Paper 4",
+    "q_number": "11",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
-    "last_updated": 1778947153,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
     "question_text": "What do you understand by Ethical Governance? Elucidate with example.",
-    "subjectId": "thinkers",
+    "subjectId": "ethics",
     "subjects": [
-      "Thinkers"
+      "Ethics"
     ],
-    "topic": "Thinkers",
+    "topic": "Ethical governance",
     "topics": [
-      "Thinkers"
+      "Ethical governance"
     ],
     "subTopics": [
       "Ethical governance"
     ],
     "keyPointers": [
-      "Decisions that are legal and fair",
-      "A process a citizen can see",
-      "Example: refusing a pressure and recording why",
-      "Governance without ethics is only power"
+      "Good governance",
+      "Integrity",
+      "Probity",
+      "Accountability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "It is a government whose means are as defensible as its results",
+      "An example is a tender that is open and a refusal that is explained",
+      "The idea fails if only the outcome is shown"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define Ethical Governance as the application of moral principles—such as justice, equity, transparency, and accountability—in managing public affairs.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Define Ethical Governance as the application of moral principles—such as justice, equity, transparency, and accountability—in managing public affairs."
       },
       {
         "section": "Body",
-        "text": "Elaborate on its key pillars: adherence to the rule of law, participatory decision-making, zero tolerance for corruption, and prioritizing the welfare of the most vulnerable.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Elaborate on its key pillars: adherence to the rule of law, participatory decision-making, zero tolerance for corruption, and prioritizing the welfare of the most vulnerable."
       },
       {
         "section": "Body",
-        "text": "Provide examples: Implementation of the Right to Information (RTI) to ensure transparency, or the protection of whistleblowers exposing systemic fraud.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Provide examples: Implementation of the Right to Information (RTI) to ensure transparency, or the protection of whistleblowers exposing systemic fraud."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that ethical governance bridges the gap between the state and its citizens, transforming administrative processes into mechanisms of true public service.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Conclude that ethical governance bridges the gap between the state and its citizens, transforming administrative processes into mechanisms of true public service."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS4_Q12",
-    "paper_title": "General Studies Paper 4",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 12,
+    "year": 2023,
+    "paper_title": "GS Paper 4",
+    "q_number": "12",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
-    "last_updated": 1778947153,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
     "question_text": "While formulating public policies a civil servant must safely focus on the public welfare and while implementing those policies he must have a foresight to infer possible unexpected consequences. Do you agree with this statement? Give arguments and justifications for your answer.",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Aptitude",
+    "topic": "Welfare in the policy, foresight in the rollout",
     "topics": [
-      "Aptitude"
+      "Welfare in the policy, foresight in the rollout"
     ],
     "subTopics": [
       "Welfare in design and care in implementation"
     ],
     "keyPointers": [
-      "The aim must be the public, not a section",
-      "Implementation is where the weak are dropped",
-      "A civil servant watches both",
-      "Focus on welfare is useless if the last step fails"
+      "Moral reasoning",
+      "Good governance",
+      "Conflict of values"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The aim while writing is the public good",
+      "The duty while implementing is to see who will be hurt",
+      "Foresight is the ethical part of execution"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Express strong agreement with the statement, noting that it balances deontological intent (welfare) with consequentialist pragmatism (foresight).",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Express strong agreement with the statement, noting that it balances deontological intent (welfare) with consequentialist pragmatism (foresight)."
       },
       {
         "section": "Body",
-        "text": "Argue for public welfare focus during formulation: Policies must be rooted in utilitarianism (greatest good for the greatest number) and constitutional morality to ensure equitable development.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Argue for public welfare focus during formulation: Policies must be rooted in utilitarianism (greatest good for the greatest number) and constitutional morality to ensure equitable development."
       },
       {
         "section": "Body",
-        "text": "Argue for foresight during implementation: Civil servants must anticipate negative externalities, such as ecological damage from infrastructure projects, social resistance, or bureaucratic loopholes.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Argue for foresight during implementation: Civil servants must anticipate negative externalities, such as ecological damage from infrastructure projects, social resistance, or bureaucratic loopholes."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that an effective civil servant acts as both a moral architect and a strategic implementer to ensure policies achieve their true intent.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Conclude that an effective civil servant acts as both a moral architect and a strategic implementer to ensure policies achieve their true intent."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS4_Q13",
-    "paper_title": "General Studies Paper 4",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 13,
+    "year": 2023,
+    "paper_title": "GS Paper 4",
+    "q_number": "13",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
-    "last_updated": 1778947153,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
     "question_text": "Can Bhagavadgita be an ethical guide for civil servants? Comment.",
     "subjectId": "ethics",
     "subjects": [
@@ -702,51 +693,50 @@
       "The Gita as an ethical guide"
     ],
     "keyPointers": [
-      "Do the duty without clinging to the fruit",
-      "It can steady a servant under pressure",
-      "It is a guide, not a substitute for the law",
-      "Comment: useful, and not a full code"
+      "Moral reasoning",
+      "Means and ends",
+      "Dedication to public service"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "The text asks for a duty done without a private gain and without attachment to the reward",
+      "That can guide a servant",
+      "It cannot replace a law, and a verse can also be used to excuse a harsh order"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Acknowledge the Bhagavadgita as a profound philosophical text that offers timeless principles for duty, morality, and leadership.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Acknowledge the Bhagavadgita as a profound philosophical text that offers timeless principles for duty, morality, and leadership."
       },
       {
         "section": "Body",
-        "text": "Discuss the concept of 'Nishkama Karma' (selfless action), which teaches civil servants to perform their duties without attachment to personal rewards or political favor.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Discuss the concept of 'Nishkama Karma' (selfless action), which teaches civil servants to perform their duties without attachment to personal rewards or political favor."
       },
       {
         "section": "Body",
-        "text": "Discuss 'Sthitaprajna' (emotional stability in success and failure) for crisis management, and 'Lokasamgraha' (welfare of the world) as the ultimate administrative goal.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Discuss 'Sthitaprajna' (emotional stability in success and failure) for crisis management, and 'Lokasamgraha' (welfare of the world) as the ultimate administrative goal."
       },
       {
         "section": "Conclusion",
-        "text": "Comment that its non-sectarian, duty-bound philosophy provides an excellent internal compass for modern civil servants facing ethical dilemmas.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Comment that its non-sectarian, duty-bound philosophy provides an excellent internal compass for modern civil servants facing ethical dilemmas."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS4_Q14",
-    "paper_title": "General Studies Paper 4",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 14,
+    "year": 2023,
+    "paper_title": "GS Paper 4",
+    "q_number": "14",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
-    "last_updated": 1778947153,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
     "question_text": "What is meant by Human Action in Ethics? Discuss the determinants and consequences of ethics in Human Action.",
     "subjectId": "ethics",
     "subjects": [
@@ -760,51 +750,50 @@
       "Human action in ethics"
     ],
     "keyPointers": [
-      "Intention, knowledge and the situation determine an act",
-      "Consequences fall on others, not only the actor",
-      "Ethics judges both",
-      "An action is not only a result"
+      "Moral reasoning",
+      "Ethics and morals",
+      "Means and ends"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Human action in ethics is a chosen act, not a reflex",
+      "The determinants are the motive, the means and the situation",
+      "The consequence is the harm or the good the act leaves"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Define Human Action in ethics as deliberate, conscious actions performed with free will and knowledge, distinguishing them from involuntary acts.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Define Human Action in ethics as deliberate, conscious actions performed with free will and knowledge, distinguishing them from involuntary acts."
       },
       {
         "section": "Body",
-        "text": "Discuss the determinants of ethical action: the object (the act itself), the end or motive (the intention behind the act), and the circumstances (contextual factors).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Discuss the determinants of ethical action: the object (the act itself), the end or motive (the intention behind the act), and the circumstances (contextual factors)."
       },
       {
         "section": "Body",
-        "text": "Discuss the consequences: ethical actions lead to societal harmony, individual character building, and accountability, whereas unethical actions lead to moral degradation and social trust deficits.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Discuss the consequences: ethical actions lead to societal harmony, individual character building, and accountability, whereas unethical actions lead to moral degradation and social trust deficits."
       },
       {
         "section": "Conclusion",
-        "text": "Summarize that evaluating human action is foundational to ethics, providing the framework for judging right from wrong in public and private life.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Summarize that evaluating human action is foundational to ethics, providing the framework for judging right from wrong in public and private life."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS4_Q15",
-    "paper_title": "General Studies Paper 4",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 15,
+    "year": 2023,
+    "paper_title": "GS Paper 4",
+    "q_number": "15",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
-    "last_updated": 1778947153,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
     "question_text": "Rajeev is an idealist. He believes that, \"Service to humanity is service to God\". One day he was going for an interview for government Job. He saw a severely injured person lying on the road who was asking for help. No one came forward to help. Rajeev took the injured person to the hospital and saved his life. But due to this reason, he lost the opportunity to get a government Job. Comment on Rajeev's decision in the light of above circumstance.",
     "subjectId": "cases",
     "subjects": [
@@ -818,167 +807,165 @@
       "Duty to a stranger against a personal exam"
     ],
     "keyPointers": [
-      "The dilemma is one’s chance against a human need",
-      "Options: stop and help, pass by, or help and still try to reach",
-      "Service to humanity is tested in the delay",
-      "Choose by the seriousness of the harm, not the slogan alone"
+      "Compassion",
+      "Conflict of values",
+      "Dedication to public service"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "An interview and a person in distress arrive at the same hour",
+      "The ideal of service is tested by which one he stops for",
+      "The case is a private appointment against a public harm in front of him"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Summarize the ethical dilemma: a conflict between personal ambition/duty to self (attending the interview) and the supreme moral duty to save a human life (altruism).",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Summarize the ethical dilemma: a conflict between personal ambition/duty to self (attending the interview) and the supreme moral duty to save a human life (altruism)."
       },
       {
         "section": "Body",
-        "text": "Analyze the decision using Deontological ethics (Kant's categorical imperative): saving a life is an absolute moral duty that supersedes any personal or professional gain.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Analyze the decision using Deontological ethics (Kant's categorical imperative): saving a life is an absolute moral duty that supersedes any personal or professional gain."
       },
       {
         "section": "Body",
-        "text": "Evaluate his character: Rajeev demonstrated high moral courage, compassion, and true adherence to his stated values ('Service to humanity is service to God'), breaking the bystander effect.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Evaluate his character: Rajeev demonstrated high moral courage, compassion, and true adherence to his stated values ('Service to humanity is service to God'), breaking the bystander effect."
       },
       {
         "section": "Conclusion",
-        "text": "Comment that although he lost a specific job opportunity, his action proves he inherently possesses the highest qualities required for public service.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Comment that although he lost a specific job opportunity, his action proves he inherently possesses the highest qualities required for public service."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS4_Q16",
-    "paper_title": "General Studies Paper 4",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 16,
+    "year": 2023,
+    "paper_title": "GS Paper 4",
+    "q_number": "16",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
-    "last_updated": 1778947153,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
     "question_text": "What are the major principles of public life? Discuss with suitable examples.",
-    "subjectId": "attitude",
+    "subjectId": "ethics",
     "subjects": [
-      "Attitude, EI, Aptitude"
+      "Ethics"
     ],
-    "topic": "Attitude",
+    "topic": "Principles of public life",
     "topics": [
-      "Attitude"
+      "Principles of public life"
     ],
     "subTopics": [
       "Principles of public life"
     ],
     "keyPointers": [
-      "Selflessness, integrity, objectivity",
-      "Accountability, openness, honesty",
-      "An example must be an act",
-      "Name the principle and show it"
+      "Integrity",
+      "Impartiality",
+      "Probity",
+      "Accountability"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Selflessness, integrity, objectivity, accountability, openness, honesty and leadership are the usual list",
+      "An example makes each one concrete",
+      "A principle that is only recited does not govern"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Introduce the Nolan Committee's Seven Principles of Public Life, which serve as an ethical benchmark for public officials globally.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Introduce the Nolan Committee's Seven Principles of Public Life, which serve as an ethical benchmark for public officials globally."
       },
       {
         "section": "Body",
-        "text": "Discuss principles like Selflessness (acting solely in public interest), Integrity (refusing financial/other obligations from outside organizations), and Objectivity (merit-based appointments).",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Discuss principles like Selflessness (acting solely in public interest), Integrity (refusing financial/other obligations from outside organizations), and Objectivity (merit-based appointments)."
       },
       {
         "section": "Body",
-        "text": "Discuss Accountability (submitting to public scrutiny), Openness (transparency in decisions), Honesty, and Leadership (promoting principles by example). Provide brief examples for each.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Discuss Accountability (submitting to public scrutiny), Openness (transparency in decisions), Honesty, and Leadership (promoting principles by example). Provide brief examples for each."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that strict adherence to these principles is essential for maintaining institutional credibility and citizen trust.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Conclude that strict adherence to these principles is essential for maintaining institutional credibility and citizen trust."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS4_Q17",
-    "paper_title": "General Studies Paper 4",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 17,
+    "year": 2023,
+    "paper_title": "GS Paper 4",
+    "q_number": "17",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
-    "last_updated": 1778947153,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
     "question_text": "Now a days social media is used to influence public opinion either in positive or in negative way. Being a civil servant, how will you solve this issue?",
-    "subjectId": "cases",
+    "subjectId": "ethics",
     "subjects": [
-      "Case Studies"
+      "Ethics"
     ],
-    "topic": "Case Study",
+    "topic": "A civil servant and social media",
     "topics": [
-      "Case Study"
+      "A civil servant and social media"
     ],
     "subTopics": [
       "Social media and public opinion"
     ],
     "keyPointers": [
-      "It can inform and it can incite",
-      "A servant does not join the pile-on",
-      "Correct a falsehood with a fact",
-      "The response is calm and public"
+      "Media and socialisation",
+      "Cyber security",
+      "Good governance"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A false forward can move a crowd faster than a notice",
+      "The servant's answer is a true information, a quick correction and a case where a crime is made",
+      "Influence is not stopped by a ban alone"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Acknowledge social media as a double-edged sword capable of democratic mobilization as well as spreading misinformation, polarization, and panic.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Acknowledge social media as a double-edged sword capable of democratic mobilization as well as spreading misinformation, polarization, and panic."
       },
       {
         "section": "Body",
-        "text": "Outline a proactive strategy: establishing an official, verified digital presence for real-time fact-checking, rumor-busting, and transparent communication during crises.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Outline a proactive strategy: establishing an official, verified digital presence for real-time fact-checking, rumor-busting, and transparent communication during crises."
       },
       {
         "section": "Body",
-        "text": "Discuss regulatory and educational steps: collaborating with cyber cells to monitor hate speech, and initiating digital literacy campaigns to help citizens identify fake news.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Discuss regulatory and educational steps: collaborating with cyber cells to monitor hate speech, and initiating digital literacy campaigns to help citizens identify fake news."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that an administrator must use social media ethically to amplify positive narratives while strictly maintaining political neutrality.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Conclude that an administrator must use social media ethically to amplify positive narratives while strictly maintaining political neutrality."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS4_Q18",
-    "paper_title": "General Studies Paper 4",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 18,
+    "year": 2023,
+    "paper_title": "GS Paper 4",
+    "q_number": "18",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
-    "last_updated": 1778947153,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
     "question_text": "\"Integrity without knowledge is weak and useless, but knowledge without integrity is dangerous and terrible\". What do you understand by this statement? Discuss.",
     "subjectId": "ethics",
     "subjects": [
@@ -992,152 +979,149 @@
       "Integrity and knowledge"
     ],
     "keyPointers": [
-      "A good person who does not know can still harm",
-      "A skilled person without integrity can harm on purpose",
-      "Both are required",
-      "The line is a warning to the competent"
+      "Integrity",
+      "Moral reasoning",
+      "Probity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A clean person who does not know the file cannot serve",
+      "A skilled person without integrity can use the file against the citizen",
+      "The statement asks for both, and says the second lack is the more dangerous"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Analyze the quote by Samuel Johnson, highlighting the required synthesis of competence (knowledge) and character (integrity) in administration.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Analyze the quote by Samuel Johnson, highlighting the required synthesis of competence (knowledge) and character (integrity) in administration."
       },
       {
         "section": "Body",
-        "text": "Discuss 'Integrity without knowledge': An honest official lacking administrative skills or legal knowledge will be ineffective, unable to execute welfare schemes, and easily manipulated.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Discuss 'Integrity without knowledge': An honest official lacking administrative skills or legal knowledge will be ineffective, unable to execute welfare schemes, and easily manipulated."
       },
       {
         "section": "Body",
-        "text": "Discuss 'Knowledge without integrity': A highly skilled but corrupt official can cause massive systemic harm, orchestrating sophisticated frauds or abusing power for personal gain.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Discuss 'Knowledge without integrity': A highly skilled but corrupt official can cause massive systemic harm, orchestrating sophisticated frauds or abusing power for personal gain."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that true public service demands both high moral grounding and continuous capacity building.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Conclude that true public service demands both high moral grounding and continuous capacity building."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS4_Q19",
-    "paper_title": "General Studies Paper 4",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 19,
+    "year": 2023,
+    "paper_title": "GS Paper 4",
+    "q_number": "19",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
-    "last_updated": 1778947153,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
     "question_text": "\"Non-performance of duty by a public servant is a type of corruption\". Do you agree with this statement? Explain logically.",
-    "subjectId": "thinkers",
+    "subjectId": "ethics",
     "subjects": [
-      "Thinkers"
+      "Ethics"
     ],
-    "topic": "Thinkers",
+    "topic": "Not doing the work as a corruption",
     "topics": [
-      "Thinkers"
+      "Not doing the work as a corruption"
     ],
     "subTopics": [
       "Non-performance as corruption"
     ],
     "keyPointers": [
-      "Agree where the delay is wilful",
-      "A right denied by a sleeping file is a loss",
-      "Distinguish a real constraint from a refusal",
-      "Corruption is not only a bribe"
+      "Corruption",
+      "Dedication to public service",
+      "Integrity"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "Agree, if the duty was owed and the delay was a choice",
+      "A file that sleeps can extract a bribe as surely as a hand that asks",
+      "It is a corruption of the office even when no money moves"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Express agreement, expanding the definition of corruption beyond financial bribery to include moral and functional decay.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Express agreement, expanding the definition of corruption beyond financial bribery to include moral and functional decay."
       },
       {
         "section": "Body",
-        "text": "Explain logically: Non-performance (omission) breaches the social contract, wastes public exchequer resources (drawing salary without output), and causes systemic policy paralysis.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Explain logically: Non-performance (omission) breaches the social contract, wastes public exchequer resources (drawing salary without output), and causes systemic policy paralysis."
       },
       {
         "section": "Body",
-        "text": "Highlight the impact: Delaying files or ignoring grievances directly harms vulnerable citizens, denying them their rightful entitlements, which is functionally equivalent to extortion.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Highlight the impact: Delaying files or ignoring grievances directly harms vulnerable citizens, denying them their rightful entitlements, which is functionally equivalent to extortion."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that efficiency and timely delivery of services are ethical imperatives, making non-performance a clear act of administrative corruption.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Conclude that efficiency and timely delivery of services are ethical imperatives, making non-performance a clear act of administrative corruption."
       }
     ]
   },
   {
     "uid": "UPPSC_2023_GS4_Q20",
-    "paper_title": "General Studies Paper 4",
-    "year": 2023,
     "exam": "UPPSC",
-    "origin": "PYQ",
-    "q_number": 20,
+    "year": 2023,
+    "paper_title": "GS Paper 4",
+    "q_number": "20",
     "marks": 12,
+    "word_limit": 200,
     "importance": 2,
-    "cite": "UPPSC Mains 2023 GS Paper 4",
-    "last_updated": 1778947153,
+    "origin": "PYQ",
     "is_structured": 1,
+    "cite": "UPPSC Mains 2023 GS Paper 4",
     "question_text": "Describe the strategies that civil servants can employ to overcome resistance to change and effectively persuade stakeholders to support new policies and initiatives.",
-    "subjectId": "cases",
+    "subjectId": "ethics",
     "subjects": [
-      "Case Studies"
+      "Ethics"
     ],
-    "topic": "Case Study",
+    "topic": "Persuading people to accept a change",
     "topics": [
-      "Case Study"
+      "Persuading people to accept a change"
     ],
     "subTopics": [
       "Persuading stakeholders to change"
     ],
     "keyPointers": [
-      "Explain the reason and the cost of not changing",
-      "Involve the people who must live with it",
-      "Start with a visible small success",
-      "Persuasion is not an order alone"
+      "Attitude",
+      "Good governance",
+      "Education and social change"
     ],
-    "vault_path": null,
+    "customKeyPointers": [
+      "A reason, a pilot and a person who is heard reduce the resistance",
+      "Stakeholders move when the cost to them is named and met",
+      "Persuasion fails if it is only an order with a softer voice"
+    ],
     "points": [
       {
         "section": "Intro",
-        "text": "Acknowledge that change implementation often faces resistance due to fear of the unknown, loss of status, or bureaucratic inertia.",
         "order": 1,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Acknowledge that change implementation often faces resistance due to fear of the unknown, loss of status, or bureaucratic inertia."
       },
       {
         "section": "Body",
-        "text": "Detail communication strategies: clearly articulating the 'why' behind the change, ensuring transparency, and actively listening to the concerns of stakeholders to build trust.",
         "order": 2,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Detail communication strategies: clearly articulating the 'why' behind the change, ensuring transparency, and actively listening to the concerns of stakeholders to build trust."
       },
       {
         "section": "Body",
-        "text": "Detail participatory strategies: involving stakeholders early in the decision-making process, providing necessary capacity building/training, and identifying 'change champions' to influence peers.",
         "order": 3,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Detail participatory strategies: involving stakeholders early in the decision-making process, providing necessary capacity building/training, and identifying 'change champions' to influence peers."
       },
       {
         "section": "Conclusion",
-        "text": "Conclude that empathetic, persuasive leadership rather than authoritative mandates is key to institutionalizing sustainable change.",
         "order": 4,
-        "cite": "UPPSC Mains 2023 GS Paper 4"
+        "text": "Conclude that empathetic, persuasive leadership rather than authoritative mandates is key to institutionalizing sustainable change."
       }
     ]
   }
