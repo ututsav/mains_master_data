@@ -1,0 +1,1562 @@
+[
+  {
+    "uid": "UPSC_2014_GSP1_01",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "1",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "To what extent has the urban planning and culture of the Indus Valley Civilization provided inputs to the present day urbanization? Discuss. (200 words)",
+    "subjectId": "ancient",
+    "subjects": [
+      "Ancient & Medieval"
+    ],
+    "topic": "Ancient History",
+    "topics": [
+      "Ancient History"
+    ],
+    "subTopics": [
+      "Indus planning and modern cities"
+    ],
+    "keyPointers": [
+      "Urbanisation",
+      "Continuity and change"
+    ],
+    "customKeyPointers": [
+      "A grid, a drain and a standard brick are still the language of a planned city",
+      "The input is the idea of public water and waste, not a copied street",
+      "Present cities rarely match the old regularity"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Indus Valley (Harappan) civilization – advanced urban planning (2500-1900 BCE); grid patterns, drainage, water management"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Inputs to present urbanization: grid street layout (Mohenjo-Daro), standardized brick sizes, underground drainage systems, public baths (Great Bath), granaries, citadel versus lower town concept"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Limitations: lack of monumental architecture (palaces/temples), no clear evidence of urban planning continuity after decline; modern cities evolved from medieval/colonial planning"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Direct influence minimal – Harappan sites abandoned; rediscovered in 1920s. However, principles (zoning, sanitation) resonate with modern urban design (e.g., smart cities, drainage)"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Indirect inspiration rather than direct input; Harappan model validates importance of planned sanitation and order in urban settlements"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_02",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "2",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "Gandhara sculpture owed as much to the Romans as to the Greeks. Explain. (200 words)",
+    "subjectId": "culture",
+    "subjects": [
+      "Art & Culture"
+    ],
+    "topic": "Indian Culture",
+    "topics": [
+      "Indian Culture"
+    ],
+    "subTopics": [
+      "Gandhara art: Greek and Roman"
+    ],
+    "keyPointers": [
+      "Sculpture and iconography",
+      "Patronage and art"
+    ],
+    "customKeyPointers": [
+      "The face and the drape recall a Greek model",
+      "The heavy fold and the realistic portrait also recall Rome",
+      "Gandhara is a meeting, not a copy of one school"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Gandhara school of art (1st-5th century CE, present-day Pakistan/Afghanistan) – Greco-Buddhist art, influenced by Hellenistic and Roman styles"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Greek influence: idealized human forms, realistic drapery, Apollo-like Buddha figures, use of Corinthian columns, Hellenistic motifs (acanthus leaves)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Roman influence: toga-like robes on Buddha and bodhisattvas, Roman imperial hairstyles, narrative panels with perspective (continuous narration), stucco technique, use of cherubs (putti), grapevine motifs"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Roman influence via trade routes (Indo-Roman trade) and influx of Roman craftsmen; Gandhara shows syncretism of Greek anatomy, Roman composition, Indian spirituality"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Thus Gandhara art is a fusion – Greek form and Roman stylistic elements with Buddhist themes – hence owed equally to both"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_03",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "3",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "Taxila university was one of the oldest universities of the world with which were associated a number of renowned learned personalities of different disciplines. Its strategic location caused its fame to flourish, but unlike Nalanda, it is not considered as a university in the modern sense. Discuss. (200 words)",
+    "subjectId": "ancient",
+    "subjects": [
+      "Ancient India"
+    ],
+    "topic": "Taxila",
+    "topics": [
+      "Taxila"
+    ],
+    "subTopics": [
+      "Taxila as a centre of learning"
+    ],
+    "keyPointers": [
+      "Education and social change",
+      "Continuity and change"
+    ],
+    "customKeyPointers": [
+      "It drew teachers and students across regions, not only from one kingdom",
+      "The learning was debate, medicine and statecraft as well as a scripture",
+      "Its fame is the range of people attached to it"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Taxila (Takshashila) – ancient centre of learning (6th century BCE to 5th century CE) in present-day Pakistan; attracted scholars worldwide"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Renowned personalities: Panini (grammar), Chanakya/Kautilya (economics/politics), Charaka (medicine), Jivaka (physician), scholars from China and Greece"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Strategic location: on Uttarapatha trade route, connecting Gandhara, Magadha, Central Asia; crossroads of cultures – Persian, Greek, Indian"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Why not a university in modern sense: no centralized campus, no formal admission/examinations, no fixed curriculum; rather, guild-like system of individual teachers (gurus) teaching various subjects (vedas, archery, medicine) in scattered institutions; no degree granting"
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Nalanda (5th-12th century) had formal residential university with standardized curriculum, entrance exams, central library, international faculty; Taxila was more a collection of autonomous schools"
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "Taxila was a great educational hub but lacked institutional unity of modern university; thus not considered a university in contemporary sense"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_04",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "4",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "The third battle of Panipat was fought in 1761. Why were so many empire-shaking battles fought at Panipat? (200 words)",
+    "subjectId": "medieval",
+    "subjects": [
+      "Medieval India"
+    ],
+    "topic": "Why Panipat",
+    "topics": [
+      "Why Panipat"
+    ],
+    "subTopics": [
+      "Why Panipat"
+    ],
+    "keyPointers": [
+      "Mughal administration"
+    ],
+    "customKeyPointers": [
+      "The plain north of Delhi is open ground for a large army",
+      "A power coming from the north-west had to be met before it reached the capital",
+      "The site was repeated because the geography and the road did not change"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Three major battles at Panipat (1526, 1556, 1761) – each decisive for Indian history; Panipat's geography a key factor"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Geographical reasons: Located on Grand Trunk Road (Uttarapatha) – main route from northwest (Khyber Pass) to Delhi/Gangetic plains; flat, open plain ideal for cavalry and artillery warfare"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Strategic location: Proximity to Delhi (90 km) – control of Panipat meant gateway to capital; invaders from Afghanistan had to pass through Panipat to reach Delhi"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Availability of water (Yamuna river) and supplies for large armies; dry climate suitable for warfare without monsoon hindrance"
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Historical continuity: after first battle (Babur vs Ibrahim Lodi), it became symbolic battlefield for contesting north Indian hegemony"
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "Panipat's location on invasion route combined with suitable terrain made it inevitable as site for empire-deciding conflicts"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_05",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "5",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "Sufis and medieval mystic saints failed to modify either the religious ideas and practices or the outward structure of Hindu/Muslim societies to any appreciable extent. Comment. (200 words)",
+    "subjectId": "medieval",
+    "subjects": [
+      "Medieval India"
+    ],
+    "topic": "Medieval History",
+    "topics": [
+      "Medieval History"
+    ],
+    "subTopics": [
+      "Limits of Sufi and Bhakti change"
+    ],
+    "keyPointers": [
+      "Literature as a social record",
+      "Diversity and pluralism"
+    ],
+    "customKeyPointers": [
+      "The saints changed a personal devotion more than a law or a caste order",
+      "The outward structure of both societies stayed",
+      "The failure claimed is of social reform, not of the poetry"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Statement challenges impact of Sufi and Bhakti saints; however, historical evidence suggests significant but subtle changes"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Counter-argument: Sufis (Khwaja Moinuddin Chishti, Nizamuddin Auliya) promoted syncretism – shared shrines, qawwali, Persian/Awadhi poetry; influenced Kabir, Guru Nanak; Bhakti saints (Ramananda, Chaitanya, Mirabai, Tukaram) challenged caste hierarchy and ritualism"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Evidence of modification: devotional (bhakti) movement made worship more personal and accessible; rejected idolatry (Kabir) or redefined it; Sufi concept of 'Fana' (annihilation) influenced Islamic mysticism"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Limitations: orthodox ulema and brahmins retained control; caste system persisted; communal identities remained separate; Sufi influence mostly confined to urban centres and lower classes"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Partial failure if expecting structural overhaul; succeeded in creating space for tolerance and devotional alternatives, but did not transform core religious orthodoxy"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_06",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "6",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "Examine critically the various facets of economic policies of the British in India from mid-eighteenth century till independence. (200 words)",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "subTopics": [
+      "British economic policy in India"
+    ],
+    "keyPointers": [
+      "Drain of wealth",
+      "Deindustrialisation",
+      "Land revenue systems",
+      "Railways and the colonial economy"
+    ],
+    "customKeyPointers": [
+      "Revenue, a one-way trade and a railway were facets of one policy",
+      "The test is whose surplus left and whose industry shrank",
+      "A critique has to separate a road that was built from the purpose it served"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "British economic policies evolved from mercantilism to free trade and then protectionism; overall designed to serve British industrial interests"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Phases: (a) 1757-1813 – plunder, drain of wealth (Dadabhai Naoroji's theory), destruction of Indian handicrafts; (b) 1813-1858 – free trade, raw material extraction, railways, commercialization of agriculture; (c) 1858-1947 – colonial finance, taxes, famine policies, limited industrialization"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Negative facets: deindustrialization, forced cash crops (indigo, cotton, opium), land revenue systems (Zamindari, Ryotwari) led to peasant indebtedness, recurring famines, drain of wealth estimated at £12 billion by Naoroji"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Positive facets (limited): railways, telegraph, modern banking, legal framework, plantation industries; but all served colonial extraction, not indigenous development"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "British policies deindustrialized India, impoverished peasants, and integrated India as raw material supplier; industrialization was stunted until independence"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_07",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "7",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "In what ways did the naval mutiny prove to be the last nail in the coffin of British colonial aspirations in India? (200 words)",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "subTopics": [
+      "1946 naval mutiny"
+    ],
+    "keyPointers": [
+      "Quit India",
+      "Revolutionary nationalism"
+    ],
+    "customKeyPointers": [
+      "Ratings across ports refused the order in 1946",
+      "The mutiny showed that the armed instrument itself was no longer reliable",
+      "That loss of the instrument, more than one more protest, closed the colonial plan"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Royal Indian Navy mutiny (Feb 1946) – uprising of 20,000+ sailors across Bombay, Karachi, Madras; represented breakdown of loyalty in armed forces"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Significance: Mutiny spread to army and police (e.g., signals corps in Jabalpur); for first time, British realized loyal Indian troops could not be relied upon; followed INA trials (1930s-40s) which had already shaken loyalty"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Impact on British decision: Clement Attlee later admitted that Navy mutiny made them realize armed forces could no longer be trusted to suppress nationalist movement; accelerated timeline for transfer of power (August 1947)"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Mutiny suppressed but demonstrated nationwide anti-British sentiment; Congress and Muslim League both called for end to violence but supported sailors' grievances"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Naval mutiny was the final demonstration that British could no longer command obedience of Indian forces, making continued rule impossible – indeed the last nail in the coffin"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_08",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "8",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "What were the major political, economic and social developments in the world which motivated the anti-colonial struggle in India? (200 words)",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "A world that pushed the Indian struggle",
+    "topics": [
+      "A world that pushed the Indian struggle"
+    ],
+    "subTopics": [
+      "World events behind Indian nationalism"
+    ],
+    "keyPointers": [
+      "Decolonisation",
+      "First World War",
+      "Second World War",
+      "Nationalism in Europe"
+    ],
+    "customKeyPointers": [
+      "War, a depression and other peoples throwing off empire changed what seemed possible",
+      "The Indian struggle had its own leaders, and it read those events",
+      "The motivation was both a wound at home and an example abroad"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Anti-colonial struggle in India (late 19th–mid 20th century) was inspired by global events beyond India's borders"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Political developments: Irish Home Rule movement (example of constitutional agitation), Russian Revolution 1917 (socialism, anti-imperialism), formation of League of Nations (self-determination principle), Italian and German unification (nationalism), American Revolution (republicanism)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Economic developments: Great Depression 1929 (exposed flaws of colonial economy), rise of socialist economic planning (USSR), Keynesian economics (state intervention), anti-capitalist movements"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Social developments: abolition of slavery (UK 1833, US 1865), suffragette movements (women's rights), labour rights movements, spread of education and press, communist ideology (Marx/Engels), pan-Asianism (Japan's victory over Russia 1905)"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "These global currents provided ideological ammunition and moral encouragement to Indian nationalists, shaping their demands for Swaraj, social justice, and economic freedom"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_09",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "9",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "What were the events that led to the Suez Crisis in 1956? How did it deal a final blow to Britain's self-image as a world power? (200 words)",
+    "subjectId": "world",
+    "subjects": [
+      "World History"
+    ],
+    "topic": "The Suez crisis",
+    "topics": [
+      "The Suez crisis"
+    ],
+    "subTopics": [
+      "Suez Crisis, 1956"
+    ],
+    "keyPointers": [
+      "Cold War",
+      "Decolonisation",
+      "Balance of power"
+    ],
+    "customKeyPointers": [
+      "The nationalisation of the canal, and the Anglo-French-Israeli response, set the crisis off",
+      "The United States and the Soviet Union both refused the old imperial move",
+      "Britain's picture of itself as a power that could still act alone did not survive that refusal"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Suez Crisis (July-Nov 1956) – triggered by Egyptian President Nasser's nationalization of Suez Canal Company"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Events leading: withdrawal of US/UK funding for Aswan Dam, Nasser's recognition of China, Britain's refusal to sell arms to Egypt, Nasser's nationalization to fund dam; secret alliance Israel-France-UK (Protocol of Sevres); Israeli invasion followed by Anglo-French ultimatum and military intervention"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "US reaction: President Eisenhower condemned invasion, applied economic pressure (sterling crisis); UN ceasefire resolution; Anglo-French forces humiliated and withdrew"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Blow to Britain's self-image: exposed Britain's dependence on US; revealed inability to act independently as a global power; ended illusion of empire; accelerated decolonization; Prime Minister Eden resigned; Suez marked end of Britain's role as a first-rank power"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Suez confirmed that superpower status had passed to US and USSR; Britain never again attempted unilateral military intervention without US backing"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_10",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "10",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "The New Economic Policy 1921 of Lenin had influenced the policies adopted by India soon after independence. Evaluate. (200 words)",
+    "subjectId": "postindep",
+    "subjects": [
+      "Post-Independence India"
+    ],
+    "topic": "Lenin's new policy and early India",
+    "topics": [
+      "Lenin's new policy and early India"
+    ],
+    "subTopics": [
+      "Lenin's NEP and Nehru's mixed economy"
+    ],
+    "keyPointers": [
+      "Economic growth",
+      "Land reforms",
+      "Inclusive growth"
+    ],
+    "customKeyPointers": [
+      "The 1921 turn allowed a controlled private trade after a rigid command",
+      "Early India also mixed a plan with a private farm and a private firm",
+      "The influence is the mix, not a copy of the Soviet state"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Lenin's New Economic Policy (NEP) 1921 – mixed economy: state control of heavy industry (commanding heights) with private trade and agriculture; replaced War Communism"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Similarities with India's policies: Nehru's vision of mixed economy (Industrial Policy Resolution 1948/56), public sector dominance in strategic industries, private sector in consumer goods; emphasis on planning (Five Year Plans inspired by Soviet model)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Direct influence: Indian leaders visited USSR (Nehru 1955), Soviet technical assistance for Bhilai, Bokaro steel plants; NEP's pragmatic retreat from state monopoly influenced Indian approach – not full socialism but mixed"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Differences: NEP was temporary tactical retreat (later Stalin reversed); India continued mixed economy for decades; India also borrowed from Western welfare state (Fabian socialism) and Gandhi's trusteeship"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "NEP provided a template for state-guided but not total state-controlled economy, influencing India's pragmatic socialist model post-independence"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_11",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "11",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "How does patriarchy impact the position of a middle class working woman in India? (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "subTopics": [
+      "Patriarchy and the working woman"
+    ],
+    "keyPointers": [
+      "Patriarchy",
+      "Women and work",
+      "Gender and the household"
+    ],
+    "customKeyPointers": [
+      "She earns, and the house and the care are still treated as hers",
+      "The office can add a second shift and a ceiling",
+      "The position is changed by the wage, and not freed from the old expectation"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Patriarchy – system of male dominance and female subordination; persists in middle class Indian families despite women's education and employment"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Workplace impacts: glass ceiling, pay gap, sexual harassment, lack of maternity benefits, career breaks due to family duties, lack of senior leadership representation"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Domestic sphere: double burden (paid work + unpaid domestic work), decision-making power often with male relatives (husband/father-in-law), pressure to prioritize family over career, restrictions on mobility and late hours"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Social attitudes: expectations of 'ideal woman' (caring, sacrificing), criticism for being 'too ambitious', balancing act between traditional roles and professional aspirations, mental stress"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Patriarchy hinders true empowerment; requires structural changes (childcare support, paternity leave, workplace policies) and cultural shift towards gender equality"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_12",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "12",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "Why do some of the most prosperous regions of India have an adverse sex ratio for women? Give your arguments. (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "subTopics": [
+      "Prosperity and a missing girl"
+    ],
+    "keyPointers": [
+      "Patriarchy",
+      "Inequality",
+      "Regional disparity"
+    ],
+    "customKeyPointers": [
+      "Prosperity can buy a scan and a small family, and still prefer a son",
+      "The adverse ratio is stronger where the practice and the money meet",
+      "A rich region is not automatically a fair one"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Prosperous regions like Haryana, Punjab, Gujarat, and Maharashtra (excluding Mumbai) show low sex ratios (under 950 females per 1000 males) despite economic growth"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Reasons: son preference due to patrilineal inheritance, dowry system, son's role in elderly care; technological access (ultrasound) enabling sex-selective abortion despite PCNDT Act"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Prosperity paradox: wealth enables access to illegal sex determination, large families not needed for labour, but cultural norms persist; also, migration of men to cities leaves women behind, but regional data still shows deficit at birth"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Social factors: patriarchal kinship (land ownership through male lineage), lower female labour force participation in prosperous agrarian regions (Punjab, Haryana), lack of women's property rights"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Economic prosperity alone does not improve sex ratio; deep-rooted patriarchy and son preference need targeted interventions (Beti Bachao Beti Padhao, strict enforcement, awareness)"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_13",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "13",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "The life cycle of a joint family depends on economic factors rather than social values. Discuss. (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "The joint family",
+    "topics": [
+      "The joint family"
+    ],
+    "subTopics": [
+      "Joint family: economy or values"
+    ],
+    "keyPointers": [
+      "Gender and the household",
+      "Urbanisation",
+      "Economic growth"
+    ],
+    "customKeyPointers": [
+      "A shared roof lasts while the income, the land and the authority hold",
+      "A job in a city and a separate wage pull it apart",
+      "Social values explain the wish to stay, and the economic fact often decides the split"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Debate: whether joint family persists due to social values (collectivism, duty) or economic factors (land, labour, income pooling)"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Economic factors favouring joint family: agricultural economies (need for shared labour), common property (land, business), risk pooling, old-age security without pensions, shared living costs, family business advantages"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Breakdown due to economic changes: industrialization (migration for jobs), urbanization (space constraints, anonymity), economic independence of youth, women's employment (demand for nuclear family), rising incomes enabling separate households"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Social values alone insufficient to sustain joint families when economic logic fades (e.g., among urban professionals). Conversely, joint families persist where economic interdependence remains (agriculture, joint business)"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Thus, economic factors are primary drivers; social values play supporting role but cannot override economic realities"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_14",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "14",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "Discuss the various economic and socio-cultural forces that are driving increasing feminization of agriculture in India. (200 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture"
+    ],
+    "topic": "Women and the farm",
+    "topics": [
+      "Women and the farm"
+    ],
+    "subTopics": [
+      "Feminisation of agriculture"
+    ],
+    "keyPointers": [
+      "Women and work",
+      "Migration",
+      "Small and marginal farmers",
+      "Farmer income"
+    ],
+    "customKeyPointers": [
+      "Men leave for a wage, and the woman stays with the field",
+      "The work has feminised faster than the title to the land",
+      "The force is economic, and the unpaid status is social"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Feminization of agriculture – rising proportion of women in agricultural workforce (from 50% to 70% in recent decades), due to male out-migration and economic distress"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Economic forces: male migration to cities for non-farm jobs (construction, industry, services), agrarian distress (small and marginal farms), need for women to supplement income, MGNREGA providing wage labour but also bringing women into workforce"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Socio-cultural forces: changing norms allowing women to work outside, decline of joint family, need for childcare (women left behind), women's empowerment programs (SHGs, microfinance), widow-headed households due to migration or death"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Concerns: women's work remains unpaid or underpaid, lack of land rights (only 13% women own land), limited access to credit, technology, extension services; feminization without empowerment"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Feminization driven by distress rather than agency; requires policy focus on women's land rights, credit, and training for sustainable agricultural productivity"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_15",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "15",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "How do the Indian debates on secularism differ from the debates in the West? (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "subTopics": [
+      "Indian and Western secularism"
+    ],
+    "keyPointers": [
+      "Secularism",
+      "Diversity and pluralism",
+      "Minority rights"
+    ],
+    "customKeyPointers": [
+      "The Indian debate is about equal respect and a reform of practice, not only a wall between state and church",
+      "The Western debate is more often about keeping religion out of the state",
+      "The difference is the number of faiths already inside the public life"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Secularism in West (especially France – laïcité, US – separation of church and state) differs fundamentally from Indian model of 'principled distance' and 'equal respect for all religions' (sarva dharma sambhava)"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Western secularism: strict separation of religion and state, religion as private affair, no state intervention in religious affairs, neutrality (e.g., French ban on religious symbols in schools)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Indian secularism: state can intervene to reform religious practices (e.g., temple entry, triple talaq), state supports religious institutions (Hindu temple management, Haj subsidy earlier), celebrates all festivals (holiday list), allows personal law based on religion"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Debate in India: focus on minority rights (positive discrimination), accommodation of religious diversity, prevention of majority communalism; Western debate focuses on protecting state from religion (French) or neutrality (US)"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Indian secularism is 'contextual' and 'positive' – engaging with religion rather than separating – due to India's unique socio-religious fabric and colonial legacy"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_16",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "16",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "Most of the unusual climatic happenings are explained as an outcome of the El-Nino effect. Do you agree? (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "El Nino and odd weather",
+    "topics": [
+      "El Nino and odd weather"
+    ],
+    "subTopics": [
+      "El Niño and other climate causes"
+    ],
+    "keyPointers": [
+      "Monsoon",
+      "Global warming",
+      "Climate and agriculture"
+    ],
+    "customKeyPointers": [
+      "A warm Pacific can weaken the Indian rain and shift storms",
+      "Not every flood, drought or heat is that one cause",
+      "Agreeing in part is more honest than treating it as the explanation of everything"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "El-Nino (ENSO) – warming of eastern Pacific waters; affects global weather patterns, but not the sole cause of all unusual climatic events"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "El-Nino explains many: Indian monsoon failure, droughts in Australia/Indonesia, floods in South America (Peru/Ecuador), Pacific typhoon activity shift, global temperature rise (El-Nino years warmer)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Other factors: La-Nina (opposite phase) also causes extremes (floods in India, droughts in South America), Indian Ocean Dipole (IOD) affects regional climate, Madden-Julian Oscillation (MJO), Arctic Oscillation, North Atlantic Oscillation, Pacific Decadal Oscillation"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Climate change also causing unusual events (heatwaves, extreme rainfall) independent of ENSO. Over-attribution to El-Nino is common but scientifically incomplete"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "El-Nino is a major driver but not the only one; holistic understanding requires considering multiple climatic oscillations and anthropogenic factors"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_17",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "17",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "Why are the world's fold mountain systems located along the margins of continents? Bring out the association between the global distribution of fold mountains and the earthquakes and volcanoes. (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "subTopics": [
+      "Fold mountains, quakes and volcanoes"
+    ],
+    "keyPointers": [
+      "Plate tectonics",
+      "Earthquakes and volcanoes"
+    ],
+    "customKeyPointers": [
+      "Fold mountains rise where plates meet, and many of those meetings are near a continental edge",
+      "The same margin often carries the quake and the volcano",
+      "The location and the hazard are one association"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Fold mountains (Himalayas, Andes, Rockies, Alps) formed by tectonic plate convergence – occur at convergent plate boundaries along continental margins"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Why along margins: where two plates collide (continent-continent or ocean-continent) – compression leads to folding, faulting, and uplift; ocean-continent convergence (Andes) produces volcanic mountains; continent-continent convergence (Himalayas) produces non-volcanic fold mountains"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Association with earthquakes: convergent boundaries are seismically active – thrust faults, subduction zones cause shallow to deep earthquakes (e.g., Himalayan seismic belt, Pacific Ring of Fire)"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Association with volcanoes: subduction zones (oceanic plate sinking) generate magma – volcanic arcs on overriding plate (e.g., Andes, Cascades, Japan); fold mountains often coincide with volcanic belts (Pacific Ring of Fire)"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Thus, plate tectonics explains the coincidence of fold mountains, earthquakes, and volcanoes along continental margins and subduction zones"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_18",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "18",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "Explain the formation of thousands of islands in Indonesian and Philippines archipelagos. (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "The island chains of South-East Asia",
+    "topics": [
+      "The island chains of South-East Asia"
+    ],
+    "subTopics": [
+      "Island arcs of Indonesia and the Philippines"
+    ],
+    "keyPointers": [
+      "Plate tectonics",
+      "Earthquakes and volcanoes"
+    ],
+    "customKeyPointers": [
+      "An oceanic plate diving under another builds a line of volcanoes",
+      "Those volcanoes become islands",
+      "The thousands of islands are that line, repeated"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Indonesia and Philippines have thousands of islands due to complex tectonic settings – convergence of Eurasian, Indo-Australian, and Pacific plates"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Formation process: subduction of Indo-Australian plate under Eurasian plate (Java Trench) and Pacific plate under Philippine plate (Philippine Trench) – leads to volcanic arcs (Sunda Arc, Philippine Arc)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Volcanic activity builds islands (Java, Sumatra, Bali, Luzon, Mindanao). Additionally, coral reef growth on volcanic foundations creates atolls and limestone islands (e.g., Karimunjawa, Togean)"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Rising sea levels after last ice age (10,000 years ago) drowned low-lying areas, separating landmasses into distinct islands (archipelagic nature). Also, island arcs fragmented by tectonic movements, strike-slip faults"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Combination of volcanic arc formation, coral growth, and post-glacial sea-level rise explains the thousands of islands in these archipelagos"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_19",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "19",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "Tropical cyclones are largely confined to South China Sea, Bay of Bengal and Gulf of Mexico. Why? (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "subTopics": [
+      "Where tropical cyclones form"
+    ],
+    "keyPointers": [
+      "Coastal hazards",
+      "Monsoon",
+      "Disaster risk reduction"
+    ],
+    "customKeyPointers": [
+      "Warm water, a spin away from the equator and a long fetch of sea",
+      "Those three seas provide them, and many other seas do not",
+      "The confinement is physical, not accidental"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Tropical cyclones form over warm ocean waters (≥26.5°C) between 5° and 30° latitude; their geographical confinement due to specific oceanic and atmospheric conditions"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Why these regions: South China Sea and Bay of Bengal – warm tropical waters, high humidity, pre-existing disturbances (monsoon trough), low vertical wind shear, Coriolis force sufficient for rotation; also proximity to equator ensures needed vorticity"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Gulf of Mexico – warm Loop Current, shallow warm shelf waters, favorable atmospheric conditions; also north Indian Ocean (Arabian Sea) produces fewer cyclones due to higher wind shear and cooler waters"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Other cyclone-prone regions: Caribbean Sea, western Pacific (Philippines Sea), eastern Pacific off Mexico; but the three mentioned are most notorious due to geography (semi-enclosed seas with warm pool)"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Tropical cyclones not exclusively confined to these three, but they experience high frequency due to optimal combination of warmth, moisture, and low shear"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_20",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "20",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "Bring out the relationship between the shrinking Himalayan glaciers and the symptoms of climate change in the Indian sub-continent. (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "subTopics": [
+      "Himalayan glaciers and climate change"
+    ],
+    "keyPointers": [
+      "Glacier retreat",
+      "Global warming",
+      "Monsoon",
+      "Freshwater availability"
+    ],
+    "customKeyPointers": [
+      "A smaller glacier is both a sign of a warmer climate and a change in the river",
+      "The symptoms downstream are a flood, a drying spring and a less reliable melt",
+      "The relationship runs both ways: the climate shrinks the ice, and the ice then changes the season"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Himalayan glaciers (source of major rivers – Ganga, Indus, Brahmaputra) are retreating due to global warming; this has direct and indirect climate change symptoms"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Direct symptoms: reduction in glacial mass, formation of glacial lakes (GLOF risk), altered river flow patterns (initial increase followed by long-term decline), reduced summer meltwater affecting irrigation and drinking water"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Indirect symptoms: erratic monsoons (teleconnections), increased frequency of extreme weather (cloudbursts, flash floods – e.g., Kedarnath 2013), rising temperatures in foothills, loss of biodiversity in alpine ecosystems"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Impact on subcontinent: water security for 1.3 billion people, food security (irrigation), hydropower generation, increased disasters (landslides, floods), sea-level rise contribution (though small)"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Shrinking glaciers are both a symptom (of warming) and a driver (of hydrological changes) of climate change impacts across the Indian subcontinent"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_21",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "21",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "Whereas the British planters had developed tea gardens all along the Shivaliks and Lesser Himalayas from Assam to Himachal Pradesh, in effect they did not succeed beyond the Darjeeling area. Explain. (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Tea on the Himalayan slopes",
+    "topics": [
+      "Tea on the Himalayan slopes"
+    ],
+    "subTopics": [
+      "Why tea stopped at Darjeeling"
+    ],
+    "keyPointers": [
+      "Climate and agriculture",
+      "Monsoon",
+      "Soil types"
+    ],
+    "customKeyPointers": [
+      "A slope, a rain and an acidic soil suited the bush",
+      "The planter chose that belt, and the same conditions did not hold on the hotter plain",
+      "The limit is the climate, not only the colonial will"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "British attempted tea cultivation across Himalayan foothills (Assam, Darjeeling, Himachal, Kumaon) but commercial success limited to Assam and Darjeeling"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Reasons: Tea (Camellia sinensis) requires specific climate – high rainfall (200 cm+), well-drained acidic soil, moderate temperatures (10-30°C), humid conditions; Darjeeling and Assam meet these; Shivaliks in Himachal have lower rainfall, colder winters, poorer soil"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Altitude and terrain: Darjeeling (600-2000 m) ideal; Himachal's higher altitude (>1500 m) unsuitable for Chinese or Assam tea varieties; also logistics – Darjeeling closer to Calcutta port and markets"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "British invested heavily in Darjeeling after discovery of indigenous tea plants in Assam (1820s); efforts in Kumaon and Kangra (Himachal) produced inferior quality, could not compete, and were abandoned by late 19th century"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Agro-climatic unsuitability and inferior tea quality beyond Darjeeling limited commercial success; only Assam and Darjeeling became world-renowned"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_22",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "22",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "Why did the Green Revolution in India virtually by-pass the eastern region despite fertile soil and good availability of water? (200 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture"
+    ],
+    "topic": "Why the east missed the Green Revolution",
+    "topics": [
+      "Why the east missed the Green Revolution"
+    ],
+    "subTopics": [
+      "Green Revolution and the east"
+    ],
+    "keyPointers": [
+      "Irrigation",
+      "Food security",
+      "Small and marginal farmers"
+    ],
+    "customKeyPointers": [
+      "Water was there, and the control, the tenancy and the institution were not",
+      "The package needed a farmer who could buy the seed and be sure of the field",
+      "Fertile soil did not replace those missing conditions"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Green Revolution (late 1960s-70s) successful in Punjab, Haryana, Western UP; eastern region (Bihar, West Bengal, Odisha, Eastern UP) remained largely untouched despite rich alluvial soil and ample water"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Infrastructure deficit: lack of assured irrigation (tube wells, canals), poor electricity supply for pump sets, inadequate roads and market access, lack of storage facilities (godowns)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Social and institutional factors: fragmented landholdings, tenancy issues (sharecropping), poor credit access, illiteracy, lack of extension services, resistance to new technology, flood-prone areas (Bihar, WB)"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Government policy bias: priority given to Punjab and Haryana (food security for army, political patronage); eastern region neglected in fertilizer subsidy, HYV seed distribution, irrigation projects"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Green Revolution bypassed east due to poor infrastructure, weak institutions, and policy neglect; region remains agriculturally backward despite natural advantage"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_23",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "23",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "Account for the change in the spatial pattern of the Iron and Steel industry in the world. (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Where iron and steel moved",
+    "topics": [
+      "Where iron and steel moved"
+    ],
+    "subTopics": [
+      "Shifting location of iron and steel"
+    ],
+    "keyPointers": [
+      "Location of industries",
+      "Energy minerals",
+      "Manufacturing"
+    ],
+    "customKeyPointers": [
+      "The old site sat on coal and ore",
+      "The later site moved toward the coast, the scrap and the market",
+      "The pattern changed because the raw material was no longer the only cost"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Iron and steel industry location has shifted from traditional coal-based regions (Ruhr, Pittsburgh, UK) to coastal locations and emerging economies (China, India, Brazil)"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Reasons for change: depletion of high-grade coking coal near old plants, availability of cheap imported iron ore and coal via sea routes (coastal plants), development of large ore carriers (economies of scale)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Technological changes: shift from blast furnace to electric arc furnace (EAF) using scrap; minimills located near markets; direct reduced iron (DRI) process using natural gas instead of coal"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Economic factors: lower labour costs in developing countries (China, India), environmental regulations in developed countries (shifting production to less regulated regions), demand growth in Asia (China's infrastructure boom), deindustrialization in West (steel plant closures)"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Global steel production now centred in China (50%+), followed by India, Japan; spatial pattern transformed from inland coal-fields to coastal and emerging economies"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_24",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "24",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "Critically evaluate the various resources of the oceans which can be harnessed to meet the resource crisis in the world. (200 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "subTopics": [
+      "Resources of the ocean"
+    ],
+    "keyPointers": [
+      "Marine resources",
+      "Energy minerals",
+      "Biodiversity loss"
+    ],
+    "customKeyPointers": [
+      "Fish, minerals, energy and a route",
+      "Harnessing them can ease a shortage on land",
+      "The crisis is not solved if the taking destroys the stock"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Oceans cover 71% of Earth; offer vast resources – food, energy, minerals, freshwater – to address global resource scarcity"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Marine living resources: fisheries (90 million tonnes/year), aquaculture potential; but overfishing and sustainability concerns limit extraction"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Energy resources: offshore oil and gas (30% of global production); methane hydrates (vast but technologically challenging); tidal and wave energy (renewable but costly, location-specific); offshore wind (growing rapidly)"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Mineral resources: polymetallic nodules (manganese, nickel, cobalt, copper) in deep seabed; rare earth elements; challenges: technology, environmental impact, International Seabed Authority regulation, high extraction costs"
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Desalination: provides freshwater but energy-intensive and produces brine waste. Also, genetic resources (marine biotechnology) for pharmaceuticals"
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "Oceans hold potential but exploitation is constrained by cost, technology, environmental risks, and legal regimes (UNCLOS); sustainable use requires international cooperation"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2014_GSP1_25",
+    "exam": "UPSC",
+    "year": 2014,
+    "paper_title": "GS Paper 1",
+    "q_number": "25",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2014 GS Paper 1",
+    "question_text": "How does India see its place in the economic space of rising natural resource rich Africa? (200 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "India and resource-rich Africa",
+    "topics": [
+      "India and resource-rich Africa"
+    ],
+    "subTopics": [
+      "India and resource-rich Africa"
+    ],
+    "keyPointers": [
+      "Trade and foreign policy",
+      "Energy minerals",
+      "Strategic autonomy"
+    ],
+    "customKeyPointers": [
+      "India looks for energy, minerals and a market",
+      "The place it wants is a partner, not only a buyer of ore",
+      "The African side will judge the jobs and the terms, not the speech"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Africa holds 30% of world's mineral reserves, 60% of uncultivated arable land; India sees Africa as strategic partner for energy, minerals, and markets"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "India's approach (unlike China's resource grab) focuses on 'South-South cooperation', capacity building, and mutual development; India-Africa Forum Summits (since 2008), duty-free access for LDCs"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Key sectors: oil and gas (Nigeria, Angola, Sudan, Mozambique), minerals (gold, diamonds, cobalt, platinum, uranium in South Africa, Zambia, Tanzania), agriculture (land leases, technology transfer), pharmaceuticals (generic drugs), IT, education (scholarships, e-Network)"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "India's companies (ONGC Videsh, Tata, Mahindra, Bharti) have invested in telecom, banking, automobiles, infrastructure. India also provides lines of credit (Exim Bank) and development assistance"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "India positions itself as a developmental partner, not extractive colonial power; balancing resource needs with African aspirations, competing with China while leveraging historical ties (diaspora, non-alignment)"
+      }
+    ]
+  }
+]

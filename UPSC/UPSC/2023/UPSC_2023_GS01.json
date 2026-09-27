@@ -1,0 +1,1180 @@
+[
+  {
+    "uid": "UPSC_2023_GSP1_1",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "GS Paper 1",
+    "q_number": "1",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 GS Paper 1",
+    "question_text": "Explain the role of geographical factors towards the development of Ancient India.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Geography in the making of ancient India",
+    "topics": [
+      "Geography in the making of ancient India"
+    ],
+    "subTopics": [
+      "Geography and ancient Indian development"
+    ],
+    "keyPointers": [
+      "River systems",
+      "Monsoon",
+      "Soil types",
+      "Mineral distribution"
+    ],
+    "customKeyPointers": [
+      "Rivers, soil and a monsoon made the first surplus",
+      "Mountains and seas set the limits of kingdoms and of trade",
+      "Geography shaped India; it did not write its history alone"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Ancient India grew where the land made a surplus possible."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "The Indus and the Ganga plains, alluvial soil and a seasonal rain supported dense farming, towns and a state that could tax grain."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "The Himalaya, the oceans and the passes decided invasion, pilgrimage and trade, while iron, forests and coasts fed crafts and ports."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "Geography set the stage. Kings, faith and technology decided what was built on it."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_GSP1_2",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "GS Paper 1",
+    "q_number": "2",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 GS Paper 1",
+    "question_text": "What was the difference between Mahatma Gandhi and Rabindranath Tagore in their approach towards education and nationalism?",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Gandhi and Tagore on education and nationalism",
+    "topics": [
+      "Gandhi and Tagore on education and nationalism"
+    ],
+    "subTopics": [
+      "Gandhi and Tagore"
+    ],
+    "keyPointers": [
+      "Gandhi's mass politics",
+      "Education and social change"
+    ],
+    "customKeyPointers": [
+      "Gandhi wanted a village school tied to work and swaraj",
+      "Tagore wanted a free mind, art and the world, not only the nation",
+      "Both rejected colonial schooling, and they did not reject it for the same end"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Both men refused the colonial classroom. They wanted different human beings to come out of the refusal."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Gandhi tied education to the mother tongue, craft and a village nationalism that would spin, clean and govern itself."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Tagore feared a narrow nation. His school opened the child to nature, art and the world, and he warned Gandhi that a charkha is not a whole education."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "Gandhi educated for swaraj. Tagore educated for a free person who could belong to a nation without being shut inside it."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_GSP1_3",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "GS Paper 1",
+    "q_number": "3",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 GS Paper 1",
+    "question_text": "Bring out the socio-economic effects of the introduction of railways in different countries of the world.",
+    "subjectId": "world",
+    "subjects": [
+      "World History"
+    ],
+    "topic": "Railways and socio-economic change",
+    "topics": [
+      "Railways and socio-economic change"
+    ],
+    "subTopics": [
+      "Railways and social change"
+    ],
+    "keyPointers": [
+      "Industrial revolution"
+    ],
+    "customKeyPointers": [
+      "Railways shrank distance and enlarged the market",
+      "They built nations and they also extracted colonies",
+      "The same machine integrated some people and displaced others"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The railway was an economic machine that rearranged society wherever it was laid."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "In industrial countries it created a national market, standard time, commuting and a working class that could move."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "In colonies it moved troops, grain and raw material to ports, often before it served the people who lived beside the line."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "Railways connected the world and, at the same time, decided who that connection was for."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_GSP1_4",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "GS Paper 1",
+    "q_number": "4",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 GS Paper 1",
+    "question_text": "Discuss the consequence of Climate change on the food security in tropical countries.",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Climate change and tropical food security",
+    "topics": [
+      "Climate change and tropical food security"
+    ],
+    "subTopics": [
+      "Climate and tropical food"
+    ],
+    "keyPointers": [
+      "Heat and food security",
+      "Climate and agriculture",
+      "Food security"
+    ],
+    "customKeyPointers": [
+      "Heat, flood and a failed rain hit the tropics first",
+      "Yields fall where farmers already have thin margins",
+      "Food security fails as access, not only as a harvest"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Tropical countries grow much of the world's food and have the least room for a hotter climate."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Erratic monsoon, heat stress, flood and salt in coastal fields cut the yield of rice, maize and millets."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "A smaller harvest raises prices, and the poor lose access even when some grain is still in the market."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "The consequence is hunger with a climate cause, and it falls on the countries least responsible for the warming."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_GSP1_5",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "GS Paper 1",
+    "q_number": "5",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 GS Paper 1",
+    "question_text": "Why is the world today confronted with a crisis of availability of and access to freshwater resources?",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "The freshwater crisis of availability and access",
+    "topics": [
+      "The freshwater crisis of availability and access"
+    ],
+    "subTopics": [
+      "Freshwater availability and access"
+    ],
+    "keyPointers": [
+      "Freshwater availability",
+      "Groundwater depletion",
+      "River pollution"
+    ],
+    "customKeyPointers": [
+      "The stock of usable water is uneven and overdrawn",
+      "Pollution turns available water into unusable water",
+      "Access fails where pipes, rights and money are missing"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The crisis is not that the planet has no water. It is that usable water is in the wrong place, and many people cannot reach it."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Aquifers are mined, rivers are dammed and diverted, and a growing city, farm and industry drink the same finite stock."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Sewage and industry spoil what remains, while the poor pay more for a tanker than the rich pay for a tap."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "Availability is a physical shortage. Access is a political one. Both are now present together."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_GSP1_6",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "GS Paper 1",
+    "q_number": "6",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 GS Paper 1",
+    "question_text": "How are the fjords formed? Why do they constitute some of the most picturesque areas of the world?",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "How fjords are formed",
+    "topics": [
+      "How fjords are formed"
+    ],
+    "subTopics": [
+      "Fjord formation"
+    ],
+    "keyPointers": [
+      "Glaciated coasts"
+    ],
+    "customKeyPointers": [
+      "A fjord is a glacial valley drowned by the sea",
+      "Ice cut a deep U-shape that water later filled",
+      "Steep walls and still water are the exposed work of ice"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "A fjord is a long, steep-sided sea inlet that a glacier cut and the sea then occupied."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Valley glaciers over-deepened a river valley into a U-shape, often below sea level, and left a shallow threshold at the mouth."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "When the ice melted, the sea entered. The walls, the waterfalls and the dark water are what the visitor calls picturesque."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "The view is famous because the glacier removed everything except the rock it could not."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_GSP1_7",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "GS Paper 1",
+    "q_number": "7",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 GS Paper 1",
+    "question_text": "Why is the South-West Monsoon called 'Purvaiya' (easterly) in Bhojpur Region? How has this directional seasonal wind system influenced the cultural ethos of the region?",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Purvaiya and the Bhojpur cultural ethos",
+    "topics": [
+      "Purvaiya and the Bhojpur cultural ethos"
+    ],
+    "subTopics": [
+      "Purvaiya in Bhojpur"
+    ],
+    "keyPointers": [
+      "Monsoon"
+    ],
+    "customKeyPointers": [
+      "The same monsoon arrives in Bhojpur from the east",
+      "Local direction, not the ocean source, gave it the name Purvaiya",
+      "The wind entered song, farming and the calendar"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "In Bhojpur the south-west monsoon is called Purvaiya because, by the time it reaches the region, it blows from the east."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "The Bay of Bengal branch curves and enters Bihar and eastern Uttar Pradesh as an easterly, bringing the rain the fields wait for."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Songs, sowing dates and the mood of the season took their name from that wind, so a direction became part of the ethos."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "The monsoon is a weather system. Purvaiya is what a region made of the direction it arrives from."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_GSP1_8",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "GS Paper 1",
+    "q_number": "8",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 GS Paper 1",
+    "question_text": "Do you think marriage as a sacrament is losing its value in Modern India?",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Marriage as a sacrament in modern India",
+    "topics": [
+      "Marriage as a sacrament in modern India"
+    ],
+    "subTopics": [
+      "Marriage as sacrament"
+    ],
+    "keyPointers": [
+      "Marriage and kinship",
+      "Family and household",
+      "Continuity and change"
+    ],
+    "customKeyPointers": [
+      "The sacrament treated marriage as a rite, not a contract",
+      "Choice, law and divorce have made it more negotiable",
+      "The rite survives; the unquestioned duty does not"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Marriage in India was long treated as a sacrament, a rite that joined families rather than a contract two adults could exit."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Education, urban work, love marriage and a legal right of divorce have made the bond look more like a choice."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "The wedding ritual is still lavish. What has weakened is the idea that the bond cannot be questioned."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "The sacrament has not vanished. It now shares the ground with a companionate and a legal marriage."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_GSP1_9",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "GS Paper 1",
+    "q_number": "9",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 GS Paper 1",
+    "question_text": "Explain why suicide among young women is increasing in Indian society.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Suicide among young women",
+    "topics": [
+      "Suicide among young women"
+    ],
+    "subTopics": [
+      "Suicide among young women"
+    ],
+    "keyPointers": [
+      "Patriarchy",
+      "Gender and the household",
+      "Women and work"
+    ],
+    "customKeyPointers": [
+      "Early marriage, violence and a denied education sit close to the numbers",
+      "Exam pressure and a public failure add a newer layer",
+      "A death is counted; the isolation before it is not"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "A rising suicide rate among young women is a social fact, not only a private illness."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Domestic violence, early marriage, dowry pressure and the blocking of study or work leave many women with no acceptable exit."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "In cities and campuses, academic rank, a broken relationship and social media shame add a public kind of failure."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "The increase points to a society that still polices young women and offers too few places where distress can be said aloud."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_GSP1_10",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "GS Paper 1",
+    "q_number": "10",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 GS Paper 1",
+    "question_text": "Child cuddling is now being replaced by mobile phones. Discuss its impact on the socialization of children.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Mobile phones and the socialisation of children",
+    "topics": [
+      "Mobile phones and the socialisation of children"
+    ],
+    "subTopics": [
+      "Screens and child socialisation"
+    ],
+    "keyPointers": [
+      "Media and socialisation"
+    ],
+    "customKeyPointers": [
+      "Socialisation needs a responding adult, not a glowing screen",
+      "The phone soothes the child and skips the relationship",
+      "The device is a tool; using it as a parent is the harm"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "A phone can quiet a child. It cannot do the work of being held."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Early socialisation is learnt in eye contact, refusal, comfort and play with a person who answers back."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "A screen gives stimulus without that answer, so speech, attention and the habit of waiting for another person grow thin."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "The phone has not replaced childhood. It has replaced the adult in the room, and that is the impact."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_GSP1_11",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "GS Paper 1",
+    "q_number": "11",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 GS Paper 1",
+    "question_text": "What are the main features of Vedic society and religion? Do you think some of the features are still prevailing in Indian society?",
+    "subjectId": "ancient",
+    "subjects": [
+      "Ancient & Medieval"
+    ],
+    "topic": "Vedic society",
+    "topics": [
+      "Vedic society"
+    ],
+    "subTopics": [
+      "Vedic society and religion"
+    ],
+    "keyPointers": [
+      "Vedic society",
+      "Patriarchy"
+    ],
+    "customKeyPointers": [
+      "Vedic society was pastoral, patriarchal and arranged by varna",
+      "Religion moved from outdoor ritual toward a more inward search",
+      "Some forms remain, and they do not remain unchanged"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Vedic society was a cattle-keeping, Sanskrit-speaking order organised around the sacrifice and a graded status."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "The family was patriarchal. Varna sorted work and rank. The king protected the sacrifice, and the ritualist held knowledge the ordinary householder did not."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Early religion was hymnal and fire-centred. Later layers added philosophy, the idea of karma, and a turn inward that the Upanishads record."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "What still shows is a household rite, a priest at a life-cycle ceremony, and a status that people deny in public and practise in marriage."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "The features that prevail have been edited by caste reform, law and a different economy. They prevail as habit, not as the Vedic world itself."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_GSP1_12",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "GS Paper 1",
+    "q_number": "12",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 GS Paper 1",
+    "question_text": "What were the major technological changes introduced during the Sultanate period? How did those technological changes influence the Indian society?",
+    "subjectId": "medieval",
+    "subjects": [
+      "Medieval India"
+    ],
+    "topic": "Sultanate technology",
+    "topics": [
+      "Sultanate technology"
+    ],
+    "subTopics": [
+      "Sultanate technology"
+    ],
+    "keyPointers": [
+      "Medieval technology",
+      "Delhi Sultanate"
+    ],
+    "customKeyPointers": [
+      "The new tools included the wheel, the arch, paper and a geared water lift",
+      "They changed building, cloth, irrigation and the written record",
+      "The influence was urban and craft-based before it was rural"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The Sultanate brought a set of tools that altered how India built, spun, lifted water and kept a record."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "The spinning wheel, the drawloom, paper, the true arch and dome, and the Persian wheel or saqiya are the changes usually named."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Cloth became cheaper and more varied. Paper enlarged the chancery and the copyist. The arch changed the skyline of mosque, tomb and fort. The water-lift extended irrigation."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "New crafts made new urban groups. They did not abolish the village order, and many tools were adopted slowly and unevenly."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "The social influence was a wider market, a written state and a changed city, not a single revolution in the countryside."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_GSP1_13",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "GS Paper 1",
+    "q_number": "13",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 GS Paper 1",
+    "question_text": "How did the colonial rule affect the tribals in India and what was the tribal response to the colonial oppression?",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Colonial rule and the tribal response",
+    "topics": [
+      "Colonial rule and the tribal response"
+    ],
+    "subTopics": [
+      "Tribes under colonial rule"
+    ],
+    "keyPointers": [
+      "Peasant and tribal movements",
+      "Tribal communities",
+      "Colonial conquest"
+    ],
+    "customKeyPointers": [
+      "Forest, land and tax were taken out of tribal control",
+      "Outsiders entered as moneylender, trader and contractor",
+      "The response was revolt, migration and a religious renewal"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Colonial rule reached the tribes mainly as a new owner of the forest and a new claimant of their labour."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Reserved forests, a cash rent, bans on shifting cultivation and on customary use, and the arrival of the diku broke the old subsistence."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Many were pushed into plantation, mine and bonded work. Others lost land to a settler who had a paper the tribe did not."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "The reply was revolt: Santhal, Munda under Birsa, Bhil, Kol and others, often led by a figure who joined a religious promise to a demand for the old land."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "The tribal response was not a footnote to the national movement. It was a defence of a forest economy the colony had decided to administer."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_GSP1_14",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "GS Paper 1",
+    "q_number": "14",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 GS Paper 1",
+    "question_text": "Comment on the resource potentials of the long coastline of India and highlight the status of natural hazard preparedness in these areas.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Coastal resources and hazard preparedness",
+    "topics": [
+      "Coastal resources and hazard preparedness"
+    ],
+    "subTopics": [
+      "India's coastline"
+    ],
+    "keyPointers": [
+      "Coastal plains",
+      "Marine resources",
+      "Cyclone",
+      "Coastal erosion"
+    ],
+    "customKeyPointers": [
+      "The coast is fisheries, ports, energy and a living shore",
+      "The same length is exposed to cyclone, surge and erosion",
+      "Warning has improved faster than the last mile"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "India's long coastline is a resource and a hazard line at the same time."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Fisheries, ports, offshore energy, salt, tourism and a dense coastal population are the potential."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Cyclone, storm surge, tsunami, erosion and a rising sea are the hazards, and they fall on the same districts that hold the resource."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Forecasting and evacuation have improved since the great cyclones. Shelters, mangrove buffers, enforcing the setback and a plan for the poorest hamlet are still uneven."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Preparedness is no longer the absence of a warning. It is whether the last village can act on one."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_GSP1_15",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "GS Paper 1",
+    "q_number": "15",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 GS Paper 1",
+    "question_text": "Identify and discuss the factors responsible for diversity of natural vegetation in India. Assess the significance of wildlife sanctuaries in rain forest regions of India.",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Vegetation diversity and rainforest sanctuaries",
+    "topics": [
+      "Vegetation diversity and rainforest sanctuaries"
+    ],
+    "subTopics": [
+      "Natural vegetation diversity"
+    ],
+    "keyPointers": [
+      "Natural vegetation",
+      "Forest types",
+      "Protected areas",
+      "Biodiversity loss"
+    ],
+    "customKeyPointers": [
+      "Climate, relief, soil and a long human use make the diversity",
+      "Rainforest is the wet end of that range",
+      "A sanctuary holds species that a timber line will not"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "India's vegetation runs from alpine pasture to rainforest because the land itself runs through many climates."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Rainfall, temperature, altitude, soil and the length of the dry season sort the types. Human clearing, fire and grazing have sorted them further."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Rainforests of the Western Ghats, the Northeast and the islands hold endemics, watersheds and a stock of species found nowhere else."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "A sanctuary there limits logging, a plantation and a road, and it keeps a corridor that a reserved forest on paper often does not."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Sanctuaries matter because the rainforest's value is the whole stand, and that stand does not survive as a calculation of timber."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_GSP1_16",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "GS Paper 1",
+    "q_number": "16",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 GS Paper 1",
+    "question_text": "Why did human development fail to keep pace with economic development in India?",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Human development lagging economic growth",
+    "topics": [
+      "Human development lagging economic growth"
+    ],
+    "subTopics": [
+      "Human development and growth"
+    ],
+    "keyPointers": [
+      "Human development",
+      "Economic growth",
+      "Inequality"
+    ],
+    "customKeyPointers": [
+      "Growth raised income faster than it raised capability",
+      "Health, schooling and nutrition were not the first claim on the surplus",
+      "A rising GDP can coexist with a stalled human outcome"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "India's income grew faster than the health, learning and nutrition of its people."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Public spending on school, primary care and a child diet stayed thin while growth was led by services that employ the already educated."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Regional and gender gaps meant a state average hid a district where the child was still stunted."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Jobs of poor quality, an informal workforce and a weak local state slowed the conversion of income into capability."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Human development failed to keep pace because growth was not aimed at it, and the institutions that could have aimed it were underbuilt."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_GSP1_17",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "GS Paper 1",
+    "q_number": "17",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 GS Paper 1",
+    "question_text": "From being a net food importer in 1960, India has emerged as a net food exporter to the world. Provide reasons.",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "From food importer to food exporter",
+    "topics": [
+      "From food importer to food exporter"
+    ],
+    "subTopics": [
+      "India as a net food exporter"
+    ],
+    "keyPointers": [
+      "Food security",
+      "Irrigation",
+      "Minimum support price",
+      "Buffer stock"
+    ],
+    "customKeyPointers": [
+      "The break was the green revolution, not a single policy",
+      "Procurement and irrigation locked the surplus in",
+      "A national surplus can still leave a household hungry"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "In 1960 India imported grain to avoid a famine. It now exports a surplus of several foods."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "High-yielding wheat and rice, irrigation, fertiliser and a public research system created the first dependable surplus."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Procurement, a minimum price and the public stock turned that surplus into a policy, not a one-year accident."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Horticulture, basmati, buffalo meat, fish and sugar widened the export basket beyond the two cereals."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "The reasons are technological and institutional. They produced a national surplus, which is not the same thing as food for every household."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_GSP1_18",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "GS Paper 1",
+    "q_number": "18",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 GS Paper 1",
+    "question_text": "Does urbanization lead to more segregation and/or marginalization of the poor in Indian metropolises?",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Urbanisation and the marginalisation of the poor",
+    "topics": [
+      "Urbanisation and the marginalisation of the poor"
+    ],
+    "subTopics": [
+      "Segregation in Indian cities"
+    ],
+    "keyPointers": [
+      "Urbanisation",
+      "Urban poor",
+      "Inequality"
+    ],
+    "customKeyPointers": [
+      "The city sorts people by what they can pay for land",
+      "Work pulls the poor in; housing and services push them out",
+      "Urbanisation segregates when the plan does not include the worker"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Indian metropolises grow by pulling in labour and then housing that labour at the edge."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Land price, a slum clearance and a gated colony separate the poor from the services, the schools and the jobs they serve."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Informal work, a missing title and a distant resettlement colony make the separation durable."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "It is not urbanisation as such. A city that builds rental housing and transport for the worker segregates less."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "In the form Indian metros have actually taken, urbanisation has increased both segregation and the marginalisation of the poor."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_GSP1_19",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "GS Paper 1",
+    "q_number": "19",
+    "marks": 15,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 GS Paper 1",
+    "question_text": "Why is caste identity in India both fluid and static?",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Caste identity as fluid and static",
+    "topics": [
+      "Caste identity as fluid and static"
+    ],
+    "subTopics": [
+      "Caste identity"
+    ],
+    "keyPointers": [
+      "Caste as identity",
+      "Social mobility",
+      "Inter-caste marriage"
+    ],
+    "customKeyPointers": [
+      "The label sticks; the person can move around it",
+      "Migration, education and a new job loosen daily practice",
+      "Marriage and politics re-fasten the same label"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Caste in India changes its behaviour without giving up its name."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "A person can change occupation, city and party, so the identity looks fluid in work and in public life."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Marriage, surname, a reservation claim and a local vote keep the same identity fixed."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "It is fluid in practice and static as a boundary. Both descriptions are true of the same institution."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2023_GSP1_20",
+    "exam": "UPSC",
+    "year": 2023,
+    "paper_title": "GS Paper 1",
+    "q_number": "20",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2023 GS Paper 1",
+    "question_text": "Discuss the impact of post-liberal economy on ethnic identity and communalism.",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "The post-liberal economy, ethnicity and communalism",
+    "topics": [
+      "The post-liberal economy, ethnicity and communalism"
+    ],
+    "subTopics": [
+      "Liberalisation and communal identity"
+    ],
+    "keyPointers": [
+      "Communalism",
+      "Globalisation and culture",
+      "Inequality"
+    ],
+    "customKeyPointers": [
+      "A market economy unsettled old securities",
+      "Identity became a way to claim a share of the new growth",
+      "Communalism was not caused by reform alone, but reform fed it"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "After 1991 the economy opened, and ethnic and religious identities did not fade. Several of them hardened."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Lost job security, a new middle class and a visible inequality gave people a reason to look for a group that would claim a share."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Competition for education, contracts and a city job was easily narrated as a contest between communities."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Private media and a political party could sell that narration cheaper than before, because the audience was already unsettled."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "The post-liberal economy did not invent communalism. It gave ethnic identity a new stake, and communal politics a larger market."
+      }
+    ]
+  }
+]

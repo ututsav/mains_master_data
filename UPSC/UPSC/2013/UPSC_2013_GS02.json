@@ -1,0 +1,1531 @@
+[
+  {
+    "uid": "UPSC_2013_GSP2_01",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "1",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "The role of individual MPs (Members of Parliament) has diminished over the years and as a result healthy constructive debates on policy issues are not usually witnessed. How far can this be attributed to the anti-defection law which was legislated but with a different intention? (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "subTopics": [
+      "Anti-defection and the silent MP"
+    ],
+    "keyPointers": [
+      "Parliamentary accountability",
+      "Questions, debates and committees"
+    ],
+    "customKeyPointers": [
+      "A whip, a short session and a camera have shrunk the independent member",
+      "Policy is then announced more often than it is debated",
+      "The loss is of a constructive argument, not only of a speech"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Anti-defection law (52nd Amendment, 1985, Tenth Schedule) – intended to bring stability, prevent horse-trading"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "How it diminished individual MP role: binding to party whip (no dissent), fear of disqualification, reduced parliamentary debate, MPs reduced to voting machines"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Other contributing factors: coalition politics, increased executive dominance, reduced committee efficacy, lack of minimum attendance norms, criminalization of politics"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Exceptions: only exempts 'split' (1/3rd) or 'merger' (2/3rd); Kihoto Hollohan case (1992) upheld but restricted judicial review; 91st Amendment (2003) limited exemption size"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Anti-defection law partly responsible but not solely; need reforms (e.g., allow dissent on policy, restrict only to survival votes)"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_02",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "2",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "Discuss Section 66A of IT Act, with reference to its alleged violation of Article 19 of the Constitution. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "subTopics": [
+      "Section 66A and free speech"
+    ],
+    "keyPointers": [
+      "Freedom of speech and its limits",
+      "Rule of law"
+    ],
+    "customKeyPointers": [
+      "Section 66A punished a message that caused annoyance or inconvenience",
+      "That width was alleged to silence opinion, which Article 19 protects",
+      "A limit on speech has to be narrow, and this one was not"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Section 66A of IT Act, 2000 – punishment for sending 'offensive' messages online; up to 3 years imprisonment"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Violation of Article 19(1)(a) – freedom of speech and expression; terms 'annoyance', 'inconvenience' were vague, overbroad, chilled free speech"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Shreya Singhal v. Union of India (2015) – struck down Section 66A as unconstitutional; failed Article 19(2) reasonable restrictions test"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Court held: vague terms lead to arbitrary enforcement; chilling effect on legitimate speech; not narrowly tailored; examples of arrests for innocuous posts"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Section 66A violative of fundamental rights; struck down as disproportionate; reinforced constitutional protection for online speech"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_03",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "3",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "Recent directives from Ministry of Petroleum and Natural Gas are perceived by the 'Nagas' as a threat to override the exceptional status enjoyed by the State. Discuss in light of Article 371A of the Indian Constitution. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "subTopics": [
+      "Article 371A and natural resources"
+    ],
+    "keyPointers": [
+      "Federalism",
+      "Tribal communities",
+      "Cooperative federalism"
+    ],
+    "customKeyPointers": [
+      "A central directive on petroleum was read as stepping over a special protection",
+      "The Naga fear is that an exceptional status can be overridden by a ministry order",
+      "The dispute is about who decides, not only about the fuel"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Article 371A – special provision for Nagaland (16th Amendment, 1962); protects Naga customary law, land resources, religion, social practices"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Petroleum directives issue: Centre's exploration rights in Naga areas; perceived override of Article 371A protection over land and natural resources"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Article 371A(1)(a) – Parliamentary acts on land/resources applicable only with Nagaland Legislative Assembly's concurrence; creates veto power"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Exceptions: Article 371A(2) – Parliament can still legislate on internal security, defence, essential commodities; petroleum argued under 'essential commodities'?"
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Naga perception: threat to territorial autonomy, fear of resource exploitation without local consent, historical distrust"
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "Centre must respect Article 371A, seek Naga Assembly's concurrence; need dialogue to balance development with special status"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_04",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "4",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "The Supreme Court of India keeps a check on arbitrary power of the Parliament in amending the Constitution. Discuss critically. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "subTopics": [
+      "Judicial check on constitutional amendment"
+    ],
+    "keyPointers": [
+      "Basic structure",
+      "Judicial review",
+      "Separation of powers"
+    ],
+    "customKeyPointers": [
+      "Parliament can amend, and the court has said it cannot destroy the basic structure",
+      "That is a check on an arbitrary use of the amending power",
+      "The criticism is that the court, not the text, decides what is basic"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "SC's power to review constitutional amendments – derived from Basic Structure Doctrine (Kesavananda Bharati, 1973)"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "How SC checks arbitrary power: strikes down amendments that destroy basic structure (e.g., 24th, 25th, 39th Amendment partially struck; 99th Amendment (NJAC) struck)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Key cases: Golaknath (1967) – amendments subject to fundamental rights; Kesavananda – limited amending power; Indira Nehru Gandhi (1975) – struck down election clause; Minerva Mills (1980) – judicial review and harmony essential"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Criticisms: Undemocratic – unelected judges overriding parliamentary sovereignty; vague basic structure; potential judicial overreach"
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Defence: Essential to preserve constitutional supremacy, prevent tyranny of majority; protects fundamental rights; Parliament can still amend non-basic features"
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "SC plays crucial but contested role; balance between judicial review and parliamentary sovereignty remains dynamic"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_05",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "5",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "Many State Governments further bifurcate geographical administrative areas like Districts and Talukas for better governance. In light of the above, can it also be justified that more number of smaller States would bring in effective governance at State level ? Discuss. (200 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "subTopics": [
+      "Smaller states and better governance"
+    ],
+    "keyPointers": [
+      "Good governance"
+    ],
+    "customKeyPointers": [
+      "A smaller district can bring the office closer",
+      "It can also multiply posts, cost and a political boundary",
+      "Better governance is the service, not the number of headquarters"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Smaller states vs better governance debate; analogy from district/taluka bifurcation"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Arguments for: localized policies, reduced administrative distance, Ambedkar's support, success stories (Uttarakhand, Jharkhand, Chhattisgarh showed improved indicators)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Arguments against: resource fragmentation, loss of economies of scale, heightened regionalism, high creation cost, Telangana's post-bifurcation fiscal stress"
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "Smaller states not automatic solution; need viability, institutional capacity, political consensus, and fiscal prudence"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_06",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "6",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "Constitutional mechanisms to resolve the inter-state water disputes have failed to address and solve the problems. Is the failure due to structural or process inadequacy or both ? Discuss. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "subTopics": [
+      "Failure of inter-state water tribunals"
+    ],
+    "keyPointers": [
+      "Federalism",
+      "Freshwater availability",
+      "Cooperative federalism"
+    ],
+    "customKeyPointers": [
+      "A tribunal can give an award, and a state can still refuse to live by it",
+      "The failure is political will and enforcement, not only a missing clause",
+      "The structure provides a forum, and it cannot force a river to be shared"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Article 262 and ISWD Act, 1956 – ad-hoc tribunals; persistent delays (Cauvery, Mahadayi, Ravi-Beas)"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Structural inadequacies: lack of permanent body, no appellate mechanism, ambiguous water allocation principles, no data-sharing mandate"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Process inadequacies: no fixed timeline, tribunal awards often challenged via SLPs in SC, political interference, bureaucratic delays"
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "Failure due to both; need permanent NWDT with time-bound dispute resolution and institutional reforms"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_07",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "7",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "Discuss the recommendations of the 13th Finance Commission which have been a departure from the previous commissions for strengthening the local government finances. (200 words)",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitution",
+    "topics": [
+      "Constitution"
+    ],
+    "subTopics": [
+      "13th Finance Commission"
+    ],
+    "keyPointers": [
+      "Centre-state finance",
+      "Local body finance",
+      "73rd and 74th Amendments"
+    ],
+    "customKeyPointers": [
+      "The thirteenth commission set aside money for the local bodies in a more direct way",
+      "It also tied a part of the grant to a condition",
+      "The departure was to treat the panchayat and the municipality as a fiscal level, not as a leftover"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "13th FC (2010-15, Dr. Vijay Kelkar) – shifted focus to fiscal decentralization for local bodies"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Key departures: increased states' share from 30.5% to 32%; 2.5% of divisible pool as local body grants (1% performance-based)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Introduced grants-as-entitlement, performance incentives, greater autonomy in fund utilization, revised rural-urban distribution based on population"
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "Laid foundation for bottom-up fiscal planning, empowering grassroots governance"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_08",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "8",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "The product diversification of financial institutions and insurance companies, resulting in overlapping of products and services strengthens the case for the merger of the two regulatory agencies, namely SEBI and IRDA. Justify. (200 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "When finance and insurance overlap",
+    "topics": [
+      "When finance and insurance overlap"
+    ],
+    "subTopics": [
+      "SEBI–IRDA overlap"
+    ],
+    "keyPointers": [
+      "Financial inclusion",
+      "Good governance"
+    ],
+    "customKeyPointers": [
+      "A bank and an insurer selling similar products can widen the choice",
+      "The same overlap can confuse the buyer and hide a risk",
+      "A stronger case for the consumer needs a regulator who can see across the products"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Hybrid products (ULIPs) blurred lines between investment and insurance; SEBI-IRDA turf war (2010)"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Arguments for merger: eliminates regulatory overlap, reduces arbitrage, unified oversight for cross-sectoral products, global precedent (UK's FCA)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Counterpoints: loss of domain expertise, increased bureaucratic complexity, existing coordination mechanisms (FSDC)"
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "Overlap strengthens case, but merger must balance unified regulation with specialized expertise"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_09",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "9",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "The concept of Mid Day Meal (MDM) scheme is almost a century old in India with early beginnings in Madras Presidency in pre-independent India. The scheme has again been given impetus in most states in the last two decades. Critically examine its twin objectives, latest mandates and success. (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "The midday meal",
+    "topics": [
+      "The midday meal"
+    ],
+    "subTopics": [
+      "Midday meal scheme"
+    ],
+    "keyPointers": [
+      "Education and social change",
+      "Poverty and nutrition",
+      "Health as welfare"
+    ],
+    "customKeyPointers": [
+      "The idea began long before independence, in a presidency school",
+      "The present scheme uses the meal to keep a child in class and to feed her",
+      "The success is attendance and nutrition, and the failure is quality and a leak"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "MDM – world's largest school feeding program; origins in 1920s Madras Presidency"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Twin objectives: combat malnutrition & hunger; improve enrollment, attendance & retention"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Latest mandates: nutritional norms (450 cal, 12g protein), cooking in hygienic conditions, social audit, payment through DBT"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Success: increased enrollment, reduced dropout, improved socialization, some nutrition impact. Challenges: quality variation, infrastructure gaps, caste-based discrimination"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Significant strides but needs better monitoring and community oversight"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_10",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "10",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "Pressure group politics is sometimes seen as the informal face of politics. With regards to the above, assess the structure and functioning of pressure groups in India. (200 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "subTopics": [
+      "Pressure groups"
+    ],
+    "keyPointers": [
+      "Pressure groups"
+    ],
+    "customKeyPointers": [
+      "They have no election and still shape a bill",
+      "The informal face is a lobby, a protest and a direct line",
+      "Their structure is often tighter than a party branch, and less accountable"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Pressure groups – non-electoral intermediaries influencing policy; informal but powerful"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Structure: business associations (FICCI, CII), trade unions (AITUC, BMS), peasant groups (BKU), caste/religious, professional (IMA), NGOs"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Functioning: lobbying, strikes, litigation, media campaigns, electoral funding, parliamentary committees, bureaucratic contacts"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Assessment: strengthens pluralism, gives voice to marginalised (e.g., RTI movement by MKSS). Issues: elite capture, opaque funding, unequal access"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Essential for deepening democracy but needs transparency and regulation"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_11",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "11",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "The legitimacy and accountability of Self Help Groups (SHGs) and their patrons, the micro-finance outfits, need systematic assessment and scrutiny for the sustained success of the concept. Discuss. (200 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "subTopics": [
+      "SHGs and microfinance scrutiny"
+    ],
+    "keyPointers": [
+      "Self-help groups",
+      "Financial inclusion",
+      "Accountability",
+      "Women and work"
+    ],
+    "customKeyPointers": [
+      "A group can be captured by a patron, and a micro-finance firm can lend beyond what can be repaid",
+      "Legitimacy is who the group really speaks for",
+      "The scrutiny has to cover the interest rate and the recovery, not only the formation"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "SHGs – vehicles for women's empowerment and financial inclusion; MFIs as patrons"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Legitimacy issues: democratic functioning, inclusive decision-making, equitable benefit distribution"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Accountability issues: misuse of funds, coercive recovery, high interest rates (AP microfinance crisis 2010), lack of transparency"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Need for assessment: regular audits, grievance redressal, NABARD oversight, MFI regulation by RBI (Malegam Committee)"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Systematic scrutiny essential for sustainable and ethical micro-finance ecosystem"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_12",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "12",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "The Central Government frequently complains on the poor performance of the State Governments in eradicating suffering of the vulnerable sections of the society. Restructuring of Centrally sponsored schemes across the sectors for ameliorating the cause of vulnerable sections of population aims at providing flexibility to the States in better implementation. Critically evaluate. (200 words)",
+    "subjectId": "justice",
+    "subjects": [
+      "Social Justice"
+    ],
+    "topic": "Social Justice",
+    "topics": [
+      "Social Justice"
+    ],
+    "subTopics": [
+      "Flexible centrally sponsored schemes"
+    ],
+    "keyPointers": [
+      "Welfare state",
+      "Inequality",
+      "Cooperative federalism"
+    ],
+    "customKeyPointers": [
+      "The Centre funds a scheme and the state has to deliver it",
+      "A complaint about poor performance can be true, and it can also hide a design the state cannot run",
+      "The vulnerable person sits between the two"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "CSS restructuring – increasing state flexibility for better implementation (e.g., flexi-funds, core-of-core schemes)"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Positive aspects: tailoring to local contexts, cooperative federalism, reduced one-size-fits-all, innovation at grassroots"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Criticisms: poor monitoring, lack of outcome focus, trust deficit leading to policy duplication, potential misuse of flexibility, vulnerable groups' low awareness"
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "Flexibility not sufficient; needs robust accountability, outcome-based evaluation, and community participation"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_13",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "13",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "Electronic cash transfer system for the welfare schemes is an ambitious project to minimize corruption, eliminate wastage and facilitate reforms. Comment. (200 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Cash transfer of a welfare payment",
+    "topics": [
+      "Cash transfer of a welfare payment"
+    ],
+    "subTopics": [
+      "Electronic cash transfers"
+    ],
+    "keyPointers": [
+      "Financial inclusion",
+      "Corruption",
+      "Digital public infrastructure",
+      "Welfare state"
+    ],
+    "customKeyPointers": [
+      "An electronic transfer can skip a middleman",
+      "It still needs an account, a correct list and a grievance when the money does not come",
+      "Ambition is not the same as a last-mile system"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "DBT – Direct Benefit Transfer; JAM trinity (Jan Dhan, Aadhaar, Mobile)"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Minimizes corruption by reducing intermediaries, eliminates ghost beneficiaries, plugs leakages (e.g., LPG subsidy savings of ₹21,000 crore)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Facilitates reforms: process re-engineering, faster fund flow, better targeting"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Challenges: technological gaps in remote areas, financial illiteracy, exclusion errors, last-mile connectivity, grievance redressal"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Ambitious and largely successful but needs continuous refinement and inclusion"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_14",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "14",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "The basis of providing urban amenities in rural areas (PURA) is rooted in establishing connectivity. Comment. (200 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "subTopics": [
+      "PURA and rural connectivity"
+    ],
+    "keyPointers": [
+      "Infrastructure",
+      "Urbanisation",
+      "Inequality"
+    ],
+    "customKeyPointers": [
+      "The amenities of a town reach a village only if a road, a power line and a signal do",
+      "Connectivity is the root, and the amenity is what travels on it",
+      "Without that link, a rural scheme copies the name of a city service and not the service"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "PURA – Dr. A.P.J. Abdul Kalam's concept; physical, electronic, knowledge connectivity linking rural to urban"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Physical connectivity: roads, transport – enables market access, mobility"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Electronic connectivity: broadband, internet – enables e-governance, telemedicine, digital literacy"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Knowledge connectivity: schools, skill centers – creates human capital"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Connectivity is the backbone; without it, amenities cannot be sustained or scaled"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_15",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "15",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 0,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "Identify the Millennium Development Goals (MDGs) that are related to health. Discuss the success of the actions taken by the Government for achieving the same. (200 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Health goals",
+    "topics": [
+      "Health goals"
+    ],
+    "subTopics": [
+      "Health Millennium Development Goals"
+    ],
+    "keyPointers": [
+      "Health as welfare",
+      "Poverty and nutrition",
+      "Inequality"
+    ],
+    "customKeyPointers": [
+      "The health goals covered a child's survival, a mother's survival and the big diseases",
+      "Government action moved some numbers and left others behind",
+      "Success is uneven across states, which is the point of the discussion"
+    ],
+    "points": [
+      {
+        "section": "Point",
+        "order": 1,
+        "text": "Health-related Millennium Development Goals (MDGs): Goal 4 – Reduce child mortality; Goal 5 – Improve maternal health; Goal 6 – Combat HIV/AIDS, malaria and other diseases"
+      },
+      {
+        "section": "Point",
+        "order": 2,
+        "text": "Government actions: National Rural Health Mission (NRHM, now NHM), Janani Suraksha Yojana (JSY) for institutional deliveries, Janani Shishu Suraksha Karyakram (JSSK), Rashtriya Bal Swasthya Karyakram (RBSK), National AIDS Control Programme (NACP), Revised National Tuberculosis Control Programme (RNTCP), National Vector Borne Disease Control Programme (NVBDCP)"
+      },
+      {
+        "section": "Point",
+        "order": 3,
+        "text": "Success indicators: Maternal Mortality Ratio (MMR) reduced from 398 (1997-98) to 167 (2011-13); Infant Mortality Rate (IMR) from 66 to 40; Under-5 mortality declined; TB incidence and mortality reduced; Malaria deaths decreased significantly"
+      },
+      {
+        "section": "Point",
+        "order": 4,
+        "text": "Shortfalls: MDG 5 target (MMR 109) missed; malnutrition remained high (stunting, wasting); regional disparities persisted (UP, Bihar, MP lagged); HIV targets partially met"
+      },
+      {
+        "section": "Point",
+        "order": 5,
+        "text": "Key takeaways: Significant progress but uneven; lessons inform SDG 3 (Good Health and Well-being) targets; need focus on quality, equity, and social determinants"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_16",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "16",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "Though Citizens' charters have been formulated by many public service delivery organizations, there is no corresponding improvement in the level of citizens' satisfaction and quality of services being provided. Analyse. (200 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Citizen charters",
+    "topics": [
+      "Citizen charters"
+    ],
+    "subTopics": [
+      "Why citizen charters fail"
+    ],
+    "keyPointers": [
+      "Citizen charter",
+      "Accountability",
+      "Good governance"
+    ],
+    "customKeyPointers": [
+      "A charter names a service and a time",
+      "There is no matching penalty when the time is missed",
+      "The level of service stays the same because the document does not bind the counter"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Citizen's Charter – commitment to service standards, transparency, accountability; introduced in India post-1996"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Reasons for poor impact: lack of public awareness, non-justiciable nature, no grievance redressal mechanism, lack of periodic review"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Other factors: bureaucratic indifference, tokenistic formulation, no citizen feedback loop, absence of penalties for non-compliance"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "What's needed: legal backing (like Right to Public Service Acts in some states), social audits, performance monitoring, regular revisions"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Charters alone insufficient; need culture change and enforceable accountability"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_17",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "17",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "A national Lokpal, however strong it may be, cannot resolve the problems of immorality in public affairs. Discuss. (200 words)",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Governance",
+    "topics": [
+      "Governance"
+    ],
+    "subTopics": [
+      "Limits of a Lokpal"
+    ],
+    "keyPointers": [
+      "Corruption",
+      "Accountability",
+      "Probity",
+      "Integrity"
+    ],
+    "customKeyPointers": [
+      "A Lokpal can inquire into a complaint against a high office",
+      "It cannot supply the everyday honesty of a thousand counters",
+      "Immorality in public affairs is wider than one institution, however strong"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Lokpal – apex anti-corruption ombudsman (enacted 2013); addresses corruption but immorality is broader"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Immoral practices beyond Lokpal's ambit: nepotism, cronyism, conflict of interest, lobbying, misuse of discretionary powers, political funding opacity"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Why Lokpal insufficient: only deals with criminal misconduct, not ethical lapses; limited to certain officials; slow process; lacks preventive mechanisms"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Need complementary measures: Code of Ethics, whistleblower protection, electoral reforms, independent prosecution, ethics committees in Parliament, citizen's charters"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Lokpal is necessary but not sufficient; immorality requires systemic ethical reform, not just punitive institution"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_18",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "18",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "The proposed withdrawal of International Security Assistance Force (ISAF) from Afghanistan in 2014 is fraught with major security implications for the countries of the region. Examine in light of the fact that India is faced with a plethora of challenges and needs to safeguard its own strategic interests. (200 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "The withdrawal from Afghanistan",
+    "topics": [
+      "The withdrawal from Afghanistan"
+    ],
+    "subTopics": [
+      "ISAF withdrawal and India"
+    ],
+    "keyPointers": [
+      "Terrorism",
+      "Cross-border threats",
+      "Strategic autonomy"
+    ],
+    "customKeyPointers": [
+      "A departing force leaves a vacuum on India's north-west",
+      "The implication is a revived camp, a refugee and a pressure on the border",
+      "India's interest is stability, and it does not control the timetable"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "ISAF withdrawal (2014) – end of NATO combat mission; power vacuum concerns"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Security implications for India: resurgence of Taliban, safe havens for anti-India terror groups (LeT, JeM), increased Pakistan's proxy warfare, drug trafficking, refugee influx"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "India's strategic interests: protecting $3 billion investment, ensuring connectivity (Chabahar port), preventing Pakistan's dominance, maintaining influence in Central Asia, countering China's Belt and Road in region"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "India's responses: development assistance ($2 billion +), training Afghan security forces, strategic partnerships with Iran (Chabahar) and Central Asia"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "India must adopt multi-pronged strategy: diplomatic, development, and security engagement without troop commitment"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_19",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "19",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "What do you understand by 'The String of Pearls' ? How does it impact India ? Briefly outline the steps taken by India to counter this. (200 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "The string of pearls",
+    "topics": [
+      "The string of pearls"
+    ],
+    "subTopics": [
+      "String of Pearls"
+    ],
+    "keyPointers": [
+      "Maritime interest",
+      "India and China",
+      "Indo-Pacific",
+      "Strategic autonomy"
+    ],
+    "customKeyPointers": [
+      "The phrase means a chain of ports and facilities around India",
+      "The impact is a presence on the sea lanes India uses",
+      "The steps in reply are partnerships, a port of one's own and a closer watch"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "String of Pearls – China's strategy of building maritime infrastructure and strategic relationships from South China Sea to Arabian Sea"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Pearls: Gwadar (Pakistan), Hambantota (Sri Lanka), Chittagong (Bangladesh), Kyaukpyu (Myanmar), Sittwe, and Maldives"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Impact on India: encirclement, naval presence in Indian Ocean Region, threat to energy security, access to China for anti-India activities, maritime chokepoint pressure"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "India's counter-steps: Act East Policy, SAGAR doctrine, building own maritime infrastructure (Andaman & Nicobar), security agreements (Sri Lanka, Maldives, Mauritius), Chabahar port (Iran), India-Myanmar-Thailand trilateral highway, Quad (informal), naval exercises"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "India enhancing maritime capabilities and regional partnerships to maintain strategic autonomy"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_20",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "20",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "Economic ties between India and Japan while growing in the recent years are still far below their potential. Elucidate the policy constraints which are inhibiting this growth. (200 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "India and Japan",
+    "topics": [
+      "India and Japan"
+    ],
+    "subTopics": [
+      "India–Japan economic ties"
+    ],
+    "keyPointers": [
+      "Trade and foreign policy",
+      "Strategic autonomy",
+      "Infrastructure"
+    ],
+    "customKeyPointers": [
+      "The political warmth has run ahead of the trade and the investment",
+      "A constraint is a slow project, a nuclear hesitation and a thin manufacturing link",
+      "The potential is infrastructure and technology, and it is still unused"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "India-Japan economic ties – growing but below potential; both democracies with shared strategic interests"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Policy constraints from Indian side: infrastructure deficits, complex land acquisition, bureaucratic delays, taxation issues, lack of regulatory predictability, poor logistics connectivity"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Constraints from Japanese side: risk aversion of Japanese firms, slow decision-making, preference for existing markets (China, ASEAN), limited SME participation, cultural and language barriers"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Bilateral issues: slow progress on Japan-India nuclear deal (operationalization), lack of an FTA/EPA (negotiations stalled), limited people-to-people exchange"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Need to address structural bottlenecks, expedite reforms, and deepen strategic convergence beyond economic ties"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_21",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "21",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "The protests in Shahbag Square in Dhaka in Bangladesh reveal a fundamental split in society between the nationalists and Islamic forces. What is its significance for India ? (200 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "The split in Dhaka",
+    "topics": [
+      "The split in Dhaka"
+    ],
+    "subTopics": [
+      "Shahbag and Bangladesh's split"
+    ],
+    "keyPointers": [
+      "Communalism",
+      "Strategic autonomy"
+    ],
+    "customKeyPointers": [
+      "The square asked for a trial of 1971, and a religious force opposed the way it was done",
+      "The split is about the nation's story",
+      "For India it matters because an unstable neighbour changes the border"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Shahbag protests (2013) – demanded death penalty for 1971 war criminals (Jamaat-e-Islami leaders); reflected secular-nationalist vs Islamist divide"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Significance for India: instability in Bangladesh affects India's security (porous border, illegal migration, insurgent safe havens, anti-India activities by certain groups)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Impact on India's interests: risk to bilateral trade ($10 billion+), connectivity projects (BBIN, Indo-Pacific), energy security (LNG transit), Teesta river water sharing (already stalled)"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Opportunities: support secular, democratic forces; counter China's influence in Bangladesh; strengthen people-to-people ties"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "India must engage all stakeholders while supporting stability, secularism, and democratic processes in Bangladesh"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_22",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "22",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "Discuss the political developments in Maldives in the last two years. Should they be of any cause of concern to India ? (200 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "The trouble in the Maldives",
+    "topics": [
+      "The trouble in the Maldives"
+    ],
+    "subTopics": [
+      "Maldives politics and India"
+    ],
+    "keyPointers": [
+      "Strategic autonomy",
+      "Maritime interest"
+    ],
+    "customKeyPointers": [
+      "A change of government and a cancelled contract showed a volatile politics",
+      "Yes, it is a concern, because the islands sit on a sea India treats as close",
+      "The concern is influence and stability, not only a bilateral nicety"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Maldives political turmoil (2011-13): President Nasheed resigned in Feb 2012 under controversial circumstances; succeeded by Waheed"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Developments: political arrests, suppression of opposition, judicial crisis, allegations of coup, withdrawal from Commonwealth, growing Chinese influence (infrastructure, debt trap)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Concerns for India: strategic location in IOR, India's radar and monitoring facilities, risk of anti-India activities, China's footprint (MCC, ports), Indian diaspora safety, maritime security chokepoint"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "India's response: diplomatic engagement, 'Neighbourhood First', development assistance (US$ 2.4 billion over years), humanitarian aid during water crisis 2014"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Yes, cause for concern; India must maintain proactive diplomatic and security engagement to counter Chinese influence and ensure stability"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_23",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "23",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "In respect of India – Sri Lanka relations, discuss how domestic factors influence foreign policy. (200 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "subTopics": [
+      "Domestic politics in India–Sri Lanka ties"
+    ],
+    "keyPointers": [
+      "Strategic autonomy",
+      "Federalism"
+    ],
+    "customKeyPointers": [
+      "A state government, a refugee question and a domestic vote shape what Delhi can say",
+      "Foreign policy is not made in a closed room",
+      "The Sri Lanka case shows a neighbour policy bent by a home pressure"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "India's foreign policy shaped by domestic factors; India-Sri Lanka relations case study"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Domestic factors: Tamil Nadu's electoral politics (strong sentiment on Sri Lankan Tamils' plight), regional parties' pressure (DMK, AIADMK), fishing communities' livelihood concerns (Palk Bay), refugee influx"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Examples of influence: India's abstention on UNHRC vote on Sri Lanka (2012-13), conditional support on reconciliation, pressure on devolution of powers (13th Amendment), fishing disputes"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Other domestic factors: national security (Chinese port at Hambantota), economic interests (trade, investment, connectivity), diaspora"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Domestic compulsions often constrain India's foreign policy; balancing act between strategic interests and sub-national pressures"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_24",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "24",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "What is meant by Gujral doctrine ? Does it have any relevance today ? Discuss. (200 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "The Gujral doctrine",
+    "topics": [
+      "The Gujral doctrine"
+    ],
+    "subTopics": [
+      "Gujral doctrine"
+    ],
+    "keyPointers": [
+      "Strategic autonomy",
+      "Regional groupings",
+      "Trade and foreign policy"
+    ],
+    "customKeyPointers": [
+      "It offered neighbours a non-reciprocal generosity from the larger country",
+      "The relevance is a reminder that a quarrel has a cost",
+      "It is harder to apply when a security threat, not only a trade dispute, is on the table"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Gujral Doctrine – I.K. Gujral's foreign policy framework (1996-97) for India's relations with neighbours"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Five principles: unilateral concessions to neighbours (no reciprocity expected), non-interference, respect for sovereignty, peaceful resolution, rejection of extra-regional intervention"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Examples: India gave concessions to Bangladesh (Ganga water), Nepal (trade), Sri Lanka (fishing), Bhutan (hydro projects)"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Relevance today: Partly continued in 'Neighbourhood First' policy; but modified due to changed realities – China's growing influence, cross-border terrorism, Pakistan's hostility, reciprocity expectation"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Core spirit of building trust remains relevant, but implementation now more calibrated and reciprocal"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP2_25",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 2",
+    "q_number": "25",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 2",
+    "question_text": "The World Bank and the IMF, collectively known as the Bretton Woods Institutions, are the two inter-governmental pillars supporting the structure of the world's economic and financial order. Superficially, the World Bank and the IMF exhibit many common characteristics, yet their role, functions and mandate are distinctly different. Elucidate. (200 words)",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "International Relations",
+    "topics": [
+      "International Relations"
+    ],
+    "subTopics": [
+      "World Bank and IMF"
+    ],
+    "keyPointers": [
+      "Multilateralism",
+      "Strategic autonomy",
+      "Economic growth"
+    ],
+    "customKeyPointers": [
+      "One lends for a project and the other watches the currency and the balance",
+      "Together they have held up a money and a trade order since the 1940s",
+      "The pillar is real, and the vote inside it is not equal"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Bretton Woods twin institutions (1944) – World Bank (IBRD) and IMF; both promote global economic stability but distinct mandates"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "IMF: short-term balance of payments support; surveillance of exchange rates; provides loans with conditionalities (SAPs); focus on macroeconomic stability; quota-based governance"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "World Bank: long-term development finance; poverty reduction; funds projects (infrastructure, health, education); provides technical assistance; IBRD + IDA (concessional loans)"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Commonalities: headquartered in Washington, D.C., US-dominated voting structure (though reforms), use of special drawing rights (SDRs) indirectly, focus on global economic governance"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Though superficially similar, their core functions – stabilization vs development – are fundamentally different"
+      }
+    ]
+  }
+]

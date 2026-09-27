@@ -1,0 +1,1700 @@
+[
+  {
+    "uid": "UPSC_2013_GSP3_01",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "1",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "With a consideration towards the strategy of inclusive growth, the new Companies Bill, 2013 has indirectly made CSR a mandatory obligation. Discuss the challenges expected in its implementation in right earnest. Also discuss other provisions in the Bill and their implications. (200 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "subTopics": [
+      "Corporate social responsibility and inclusive growth"
+    ],
+    "keyPointers": [
+      "Corporate social responsibility",
+      "Inclusive growth"
+    ],
+    "customKeyPointers": [
+      "The Bill turned a voluntary spend into something a company of a certain size must explain",
+      "Inclusive growth is the reason given",
+      "The obligation is to report and to spend, and it is still not a tax"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Companies Act 2013 mandated CSR for qualifying companies (net worth ₹500 cr+, turnover ₹1000 cr+, net profit ₹5 cr+) – 2% of average net profits"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Implementation challenges: lack of clarity on eligible activities, capacity gaps in NGOs, monitoring mechanisms, greenwashing risk, penal provisions weak (only disclosure-based compliance)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Other provisions: mandatory woman director, National Company Law Tribunal (NCLT), class action suits, stricter independent director norms, enhanced board accountability"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Implications: improved governance, investor protection, but increased compliance burden for small companies"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "CSR mandatory on 'comply or explain' basis; success depends on robust implementation and impact assessment"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_02",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "2",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "What were the reasons for the introduction of Fiscal Responsibility and Budget Management (FRBM) Act, 2003? Discuss critically its salient features and their effectiveness. (200 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "subTopics": [
+      "Fiscal responsibility law"
+    ],
+    "keyPointers": [
+      "Fiscal deficit"
+    ],
+    "customKeyPointers": [
+      "The Act was brought in because the deficit and the debt were no longer a one-year slip",
+      "A target, a statement and an escape clause are the salient features",
+      "The criticism is that the target was missed, and the escape was used"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "FRBM Act 2003 aimed to bring fiscal discipline, reduce fiscal deficit, and eliminate revenue deficit"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Reasons: high fiscal deficits (6%+ of GDP), rising debt-to-GDP ratio, macroeconomic instability, pressure from rating agencies, need for inter-generational equity"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Salient features: fiscal deficit target (3% of GDP), revenue deficit elimination, escape clauses, medium-term fiscal policy statement, quarterly review"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Effectiveness: initial success (2004-08), but suspended during global crisis (2008), post-2020 relaxation under NK Singh Committee, escape clauses diluted discipline"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "FRBM strengthened fiscal transparency but compliance cyclical; need counter-cyclical fiscal framework"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_03",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "3",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "What is the meaning of the term 'tax expenditure'? Taking housing sector as an example, discuss how it influences the budgetary policies of the government. (200 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "subTopics": [
+      "Tax expenditure"
+    ],
+    "keyPointers": [
+      "Fiscal deficit",
+      "Subsidy"
+    ],
+    "customKeyPointers": [
+      "A tax expenditure is revenue given up through an exemption, not money spent from a head",
+      "A housing deduction is a hidden subsidy to the buyer who can use it",
+      "The budget looks smaller than the support the state is actually giving"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Tax expenditure – revenue foregone due to exemptions, deductions, credits, preferential rates (alternative to direct spending)"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Housing sector examples: Section 80C (principal repayment), Section 24(b) (interest deduction up to ₹2 lakh), Section 80EEA (affordable housing), deduction of stamp duty"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Influence on budgetary policies: reduces revenue base, creates fiscal illusion, distorts resource allocation (over-investment in housing), benefits high-income groups disproportionately"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Trade-offs: promotes affordable housing, demand stimulation, but foregone revenue could fund public housing directly"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Tax expenditures need periodic review (Tax Expenditure Budget) for efficacy and equity"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_04",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "4",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "Food Security Bill is expected to eliminate hunger and malnutrition in India. Critically discuss various apprehensions in its effective implementation along with the concerns it has generated in WTO. (200 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "subTopics": [
+      "Food security law"
+    ],
+    "keyPointers": [
+      "Food security",
+      "Poverty and nutrition"
+    ],
+    "customKeyPointers": [
+      "The Bill promised grain to a very large number",
+      "The fear is the grain, the storage, the list and the cost",
+      "A law can name the right, and the hunger ends only if the grain arrives"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "National Food Security Act (NFSA) 2013 – legal entitlement to subsidized food grains for 2/3rd population (75% rural, 50% urban)"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Implementation apprehensions: identification of beneficiaries (exclusion/inclusion errors), procurement & storage capacity, fiscal burden (₹1.25 lakh cr annual), leakages, nutritional adequacy (only wheat/rice)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "WTO concerns: violation of de minimis limit (10% of agri production value) on subsidies, India sought permanent solution for public stockholding (Peace Clause, Bali 2013)"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Counter-arguments: food security as sovereign right, existing subsidies within limits if calculated at reference prices (old WTO formula criticized)"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "NFSA addresses hunger but needs improved targeting, diversification (millets), and WTO safeguard extension"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_05",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "5",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "What are the different types of agriculture subsidies given to farmers at the national and at state levels? Critically analyse the agricultural subsidy regime with reference to the distortions created by it. (200 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture & Food"
+    ],
+    "topic": "Agriculture",
+    "topics": [
+      "Agriculture"
+    ],
+    "subTopics": [
+      "Farm subsidies and cropping pattern"
+    ],
+    "keyPointers": [
+      "Subsidy",
+      "Cropping pattern",
+      "Farmer income"
+    ],
+    "customKeyPointers": [
+      "The support is on a fertiliser, a power, a credit, a price and a premium",
+      "The Centre and the states do not give the same set",
+      "The criticism is a crop pulled toward the subsidised input, and a bill that does not shrink"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Agri subsidies in India – input subsidies (fertilizer, power, irrigation, seeds), output subsidies (MSP, procurement, PDS, export subsidies), and interest subvention"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "National level: fertilizer subsidy (₹1.5 lakh cr+), MSP (rice/wheat dominant), crop insurance premium subsidy, PM-KISAN direct income support"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "State level: free electricity (Punjab, UP), irrigation water, seed subsidies, farm loan waivers"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Distortions: overuse of water (Punjab groundwater depletion), soil degradation (imbalanced NPK), cropping pattern skewed towards rice/wheat, neglect of pulses/oilseeds, regional disparities"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Need rationalization: DBT for fertilizers, decouple subsidies from input use, promote millets and sustainable practices"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_06",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "6",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "India needs to strengthen measures to promote the pink revolution in food industry for ensuring better nutrition and health. Critically elucidate the statement. (200 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture"
+    ],
+    "topic": "The pink revolution",
+    "topics": [
+      "The pink revolution"
+    ],
+    "subTopics": [
+      "Meat, poultry and the pink revolution"
+    ],
+    "keyPointers": [
+      "Food processing",
+      "Poverty and nutrition"
+    ],
+    "customKeyPointers": [
+      "It means a modern, hygienic chain for meat",
+      "The nutrition case is protein, and the health case is a clean slaughter",
+      "The criticism is the animal, the environment and the small keeper left out of the chain"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Pink revolution refers to meat and poultry processing industry; critical for food security, nutrition, and employment"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Why needed: high protein deficiency (NFHS-5), rising demand, underutilized livestock sector (₹7 lakh cr output), export potential (frozen meat)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Measures needed: cold chain expansion, FSSAI modernization, disease control (AI, FMD), veterinary infrastructure, farmer-producer organizations, export facilitation"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Challenges: religious sensitivities (cow slaughter), fragmented supply chain, high input costs, infrastructure gaps, global competition (Brazil, US)"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Balanced approach with quality control, inclusive growth, and hygiene standards can boost nutrition and farmer incomes"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_07",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "7",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "Examine the impact of liberalization on companies owned by Indians. Are they competing with the MNCs satisfactorily? Discuss. (200 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "subTopics": [
+      "Indian firms after liberalisation"
+    ],
+    "keyPointers": [
+      "Economic growth",
+      "Foreign direct investment",
+      "Manufacturing"
+    ],
+    "customKeyPointers": [
+      "Liberalisation opened the Indian firm to a foreign product and a foreign buyer",
+      "Some competed, and some stayed in a protected niche",
+      "Satisfactory is uneven across sectors"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Post-1991 liberalization exposed Indian firms to domestic and global competition; impact varied across sectors"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Positive impacts: efficiency gains, technology upgradation, global acquisitions (Tata-Corus, Hindalco-Novelis), emergence of Indian MNCs (IT, pharma, auto)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Negative: consumer electronics, toys, capital goods decimated; small-scale units closed; foreign dominance in strategic sectors (FMCG, pharma via acquisitions)"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Competition with MNCs: IT (TCS, Infosys) and pharma (Sun, Dr. Reddy's) compete globally; auto (Maruti, Mahindra, Tata) holds own; others lag due to R&D deficit, brand value, scale"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Satisfactory in select sectors; need policy support for manufacturing (PLI), innovation, and level playing field"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_08",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "8",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "Establish relationship between land reforms, agriculture productivity and elimination of poverty in the Indian economy. Discuss the difficulties in designing and implementation of agriculture-friendly land reforms in India. (200 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture"
+    ],
+    "topic": "Land, yield and poverty",
+    "topics": [
+      "Land, yield and poverty"
+    ],
+    "subTopics": [
+      "Land reform, yield and poverty"
+    ],
+    "keyPointers": [
+      "Land reforms",
+      "Agrarian relations",
+      "Poverty and nutrition",
+      "Farmer income"
+    ],
+    "customKeyPointers": [
+      "A tenant who is sure of the field invests, and the yield can rise",
+      "A higher yield in the hands of the poor is one path out of poverty",
+      "The difficulty is a record, a political will and a ceiling that was never enforced"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Land reforms aim to redistribute land, provide tenurial security, consolidate holdings – directly linked to productivity and poverty reduction"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Relationship: secure tenancy encourages investment → higher productivity; redistribution reduces landlessness → poverty alleviation; consolidation enables mechanization"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Success stories: Kerala, West Bengal (Operation Barga) showed positive impact; failure in Bihar, UP due to poor implementation"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Difficulties in design: ceiling limits varying by state, exempted categories (plantation, orchards), benami transfers, lack of political will"
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Implementation challenges: poor land records (DILRMP slow), litigation delays, landlord dominance in legislatures, inadequate tenancy reform (leasing still illegal in many states)"
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "Land reforms unfinished agenda; need digitization, tenancy legalization, and political consensus"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_09a",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "9(a)",
+    "marks": 5,
+    "word_limit": 100,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "Discuss the impact of FDI entry into Multi-trade retail sector on supply chain management in commodity trade pattern of the economy. (100 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Foreign retail and the supply chain",
+    "topics": [
+      "Foreign retail and the supply chain"
+    ],
+    "subTopics": [
+      "Retail FDI and supply chains"
+    ],
+    "keyPointers": [
+      "Foreign direct investment",
+      "Logistics",
+      "Agricultural marketing"
+    ],
+    "customKeyPointers": [
+      "A large retailer wants a cold store, a standard and a direct buy",
+      "That can shorten the chain",
+      "It can also bypass the small trader who lived on the old chain"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "FDI in multi-brand retail (51% via JV route allowed in 2012) aimed to modernize fragmented agri-supply chains"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Positive impacts: cold chain investment, reduced post-harvest losses (20-30% currently), better farmer price realization, organized warehousing, efficient logistics, quality control"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Concerns: displacement of traditional intermediaries, small retailers, potential monopsony power over farmers, regional concentration"
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "Can transform commodity trade pattern if balanced with safeguards for small retailers and mandis"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_09b",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "9(b)",
+    "marks": 5,
+    "word_limit": 100,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "Though India allowed Foreign Direct Investment (FDI) in what is called multi-brand retail through the joint venture route in September 2012, the FDI, even after a year, has not picked up. Discuss the reasons. (100 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "subTopics": [
+      "Political resistance to retail FDI"
+    ],
+    "keyPointers": [
+      "Foreign direct investment",
+      "Agricultural marketing",
+      "Farmer income"
+    ],
+    "customKeyPointers": [
+      "The 2012 opening was a joint venture, not a free entry",
+      "The political condition and the sourcing rule slowed the actual shop",
+      "Allowed on paper is not the same as opened on the ground"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Despite government approval, FDI in multi-brand retail remained minimal due to multiple constraints"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Reasons: mandatory 30% sourcing from small industries (MSMEs) – difficult for global chains; state government discretion (only few states like Maharashtra, Rajasthan agreed), political opposition, infrastructure gaps"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Additional factors: $100 million minimum investment, lack of clarity on backend infrastructure norms, fear of regulatory changes, low consumer purchasing power parity"
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "Restrictive conditions and political economy deterred investors; no major FDI entry till 2013"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_10",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "10",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 3,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "Discuss the rationale for introducing Goods and Services (GST) in India. Bring out critically the reasons for the delay in roll out for its regime. (200 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "subTopics": [
+      "Why GST was delayed"
+    ],
+    "keyPointers": [
+      "Goods and Services Tax",
+      "Cooperative federalism",
+      "Centre-state finance"
+    ],
+    "customKeyPointers": [
+      "The rationale is one tax, less cascading and a common market",
+      "The delay was a rate, a compensation and the states' fear of losing their own tax",
+      "A good design still needed a political bargain"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "GST proposed as a comprehensive indirect tax reform to create a unified national market (One Nation, One Tax)"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Rationale: eliminates cascading (tax on tax), reduces compliance burden, widens tax base, boosts GDP by 1-2%, improves ease of doing business, removes inter-state trade barriers"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Reasons for delay (finally introduced July 2017): political consensus (states' revenue concerns), rate structure dispute (standard 12/18/28 + cess), compensation formula (full compensation for 5 years), exclusion of petroleum/alcohol, GST Council formation under Article 279A"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Other hurdles: IT infrastructure (GSTN), constitutional amendment ratification (122nd Amendment needed 50% state ratification), opposition from manufacturing states (Gujarat, TN), dual control issue (cross-empowerment)"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Delay due to federal complexities; eventual rollout after GST Council consensus"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_11",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "11",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "Write a note on India's green energy corridor to alleviate the problem of conventional energy. (200 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Environment & Ecology"
+    ],
+    "topic": "The green energy corridor",
+    "topics": [
+      "The green energy corridor"
+    ],
+    "subTopics": [
+      "Green energy corridor"
+    ],
+    "keyPointers": [
+      "Renewable energy",
+      "Energy access",
+      "Infrastructure"
+    ],
+    "customKeyPointers": [
+      "Wind and solar are often far from the city that needs the power",
+      "The corridor is the line that carries that power",
+      "It eases the limit of the old grid, and it does not by itself build the plant"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Green Energy Corridor (GEC) – intra-state and inter-state transmission infrastructure for renewable energy evacuation"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Objectives: integrate large-scale renewable capacity (solar, wind) into national grid, reduce congestion, minimize curtailment, address intermittency"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Phases: Phase I (8 renewable-rich states: Tamil Nadu, Gujarat, Karnataka, Rajasthan, etc.) with REC and KfW funding; Phase II (pan-India)"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Alleviates conventional energy problems: reduces fossil fuel dependence (coal), lowers carbon emissions, improves grid stability, enables renewable targets (500 GW by 2030), reduces transmission losses"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "GEC critical for energy security, climate goals, and sustainable development"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_12",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "12",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "Adoption of PPP model for infrastructure development of the country has not been free of criticism. Critically discuss pros and cons of the model. (200 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Economy",
+    "topics": [
+      "Economy"
+    ],
+    "subTopics": [
+      "Criticism of public-private partnerships"
+    ],
+    "keyPointers": [
+      "Infrastructure",
+      "Fiscal deficit"
+    ],
+    "customKeyPointers": [
+      "A private partner can bring money and a speed the budget does not have",
+      "The criticism is a renegotiated contract, a user charge and a public risk that stays",
+      "The model is a tool, and it has been used as a way to hide a liability"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "PPP model leverages private efficiency and capital for public infrastructure projects (roads, ports, airports, power)"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Pros: risk sharing (construction, financial, operational), innovation, faster execution, reduced fiscal burden, life-cycle cost optimization, technology transfer, asset monetization (TOT)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Cons: complex contract renegotiations, toll fatigue for users, private monopolies, high transaction costs (5-10% of project cost), viability gap funding burden on government, regulatory uncertainty"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Indian experience: success (Mumbai-Pune Expressway, Delhi-Mumbai freight corridor, airports), failures (highway projects under stress due to land acquisition delays, traffic shortfall, bankruptcy cases like IL&FS)"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Need robust PPP framework, independent regulator, standardized contracts, and balanced risk allocation (Hybrid Annuity Model now preferred)"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_13",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "13",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "Bringing out the circumstances in 2005 which forced amendment to the section 3(d) in Indian Patent Law, 1970, discuss how it has been utilized by the Supreme Court in its judgement in rejecting Novratis' patent application for 'Glivec'. Discuss briefly the pros and cons of the decision. (200 words)",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Section 3(d) of the patent law",
+    "topics": [
+      "Section 3(d) of the patent law"
+    ],
+    "subTopics": [
+      "Section 3(d) and evergreening"
+    ],
+    "keyPointers": [
+      "Patents and commercialisation"
+    ],
+    "customKeyPointers": [
+      "The 2005 change came as India had to allow medicine patents",
+      "Section 3(d) refused a new patent for a trivial tweak of a known drug",
+      "It has been used to keep a life-saving medicine from an endless extension"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Section 3(d) of Patents Act prevents evergreening – denies patents on new forms of known substances unless efficacy significantly enhanced"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "2005 circumstances: TRIPS compliance (India introduced product patents after 30 years process patents), need to balance innovation with access to affordable medicines, public health crisis (HIV treatment cost), Doha Declaration on TRIPS and Public Health"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Novartis Glivec case (2013): SC rejected patent on beta-crystalline form of imatinib mesylate; held no significant therapeutic efficacy enhancement over known substance; generic versions saved patient costs (₹1.2 lakh/month vs ₹8,000)"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Pros: protects generic industry (Lifesaver for millions), affordable drugs, prevents evergreening, aligns with Doha Declaration, upheld India's public health commitment"
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Cons: criticized by pharma MNCs as innovation disincentive, may deter R&D investment in India, ambiguity in 'efficacy' interpretation"
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "Decision balanced patent rights and access; India remains pharmacy of developing world"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_14",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "14",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "What do you understand by Fixed Dose Drug Combinations (FDCs)? Discuss their merits and demerits. (200 words)",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Fixed-dose combinations",
+    "topics": [
+      "Fixed-dose combinations"
+    ],
+    "subTopics": [
+      "Fixed-dose combinations"
+    ],
+    "keyPointers": [
+      "Health technology",
+      "Health as welfare"
+    ],
+    "customKeyPointers": [
+      "Two or more drugs are put in one dose",
+      "The merit is convenience and a better chance the patient finishes the course",
+      "The demerit is an irrational mix, a side effect that cannot be separated, and a sale without a real need"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "FDCs combine two or more active pharmaceutical ingredients in a single dosage form (tablet/capsule/injection)"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Merits: improved patient compliance (fewer pills), reduced pill burden, synergy effects (e.g., anti-TB: RIPE regimen), lower cost, prevention of resistance (ART, malaria ACT, leprosy), convenience for chronic conditions"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Demerits: fixed dose ratio may not suit all patients, adverse drug interaction risks, pharmacokinetic mismatch (different half-lives), difficulty in dose adjustment (e.g., pediatric), irrational combinations common (e.g., anti-diarrheals with antibiotics without indication), masking of side effects"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Regulation: Kokate Committee (2016) banned 344 irrational FDCs; DCGI approval required; WHO Essential Medicines List includes only rational FDCs"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Rational FDCs beneficial; irrational ones harmful; need scientific justification, pharmacovigilance, and periodic review"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_15",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "15",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "What do you understand by Umpire Decision Review System in Cricket? Discuss its various components. Explain how silicone tape on the edge of a bat may fool the system? (200 words)",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "The cricket review system",
+    "topics": [
+      "The cricket review system"
+    ],
+    "subTopics": [
+      "Cricket decision review and ball-tracking"
+    ],
+    "keyPointers": [],
+    "customKeyPointers": [
+      "It lets a team ask the umpire to check a decision with a machine",
+      "The components are a camera, a sound, a ball-track and a heat image",
+      "A silicone tape on the edge can change the sound the machine hears, which is why the equipment of the bat matters"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "UDRS (DRS) allows players to challenge on-field umpire decisions using technology; limited reviews per innings"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Components: Hawk-Eye (ball tracking predicting trajectory), Hot Spot (thermal imaging detects ball contact), UltraEdge/Snicko (audio analysis of edge), ball spin data, slow-motion replays, virtual replay (pitch map)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "How silicone tape fools: adds extra layer on bat edge – Hot Spot may show mark even without ball contact (heat from friction or tape itself); also dampens sound edge, confusing Snicko; can create false positive for caught-behind"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Limitations: technology not 100% accurate (prediction error margin), hotspot requires high-speed cameras (expensive), snicko not real-time initially"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "DRS improves accuracy but not foolproof; ICC regulations now restrict bat coatings to prevent manipulation"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_16a",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "16(a)",
+    "marks": 5,
+    "word_limit": 100,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "What is a digital signature? What does its authentication mean? Give various salient built-in features of a digital signature. (100 words)",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "A digital signature",
+    "topics": [
+      "A digital signature"
+    ],
+    "subTopics": [
+      "Digital signature"
+    ],
+    "keyPointers": [
+      "Cyber security",
+      "Data protection"
+    ],
+    "customKeyPointers": [
+      "It is a cryptographic mark that a named person sent the file",
+      "Authentication means the mark matches that person and the file was not altered",
+      "The built-in features are the key, the certificate and the check"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Digital signature – electronic equivalent of physical signature using asymmetric cryptography (public-private key pair)"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Authentication means: verifies sender identity (non-repudiation), ensures document integrity (no tampering after signing), provides timestamping, confirms sender's consent"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Built-in features: - hash function (creates message digest) - private key encryption - public key decryption - certificate authority (CA) issued digital certificate - tamper-evident - legally valid under IT Act 2000 - globally recognized"
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "Essential for e-governance, secure electronic transactions, and paperless authentication"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_16b",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "16(b)",
+    "marks": 5,
+    "word_limit": 100,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "How does the 3D printing technology work? List out the advantages and disadvantages of the technology. (100 words)",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Three-dimensional printing",
+    "topics": [
+      "Three-dimensional printing"
+    ],
+    "subTopics": [
+      "3D printing"
+    ],
+    "keyPointers": [
+      "Manufacturing"
+    ],
+    "customKeyPointers": [
+      "The machine adds material layer by layer from a digital design",
+      "The advantage is a custom part without a mould",
+      "The disadvantage is speed, a material limit and a copy that can ignore a patent"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "3D printing (additive manufacturing) builds objects layer by layer from digital 3D models (CAD files)"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Working: - CAD design - slicing software - material deposition (plastic filament, metal powder, resin) - layer curing/adhesion (by laser, UV, heat) - post-processing"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Advantages: - rapid prototyping - customization (medical implants) - minimal waste (additive vs subtractive) - complex geometries - distributed manufacturing - reduced inventory"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Disadvantages: - slow for mass production - limited material options - high cost for metal printing - post-processing needed - intellectual property issues - quality consistency challenges"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Transformative for prototyping and niche applications (aerospace, medical) but not yet mainstream manufacturing"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_17a",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "17(a)",
+    "marks": 5,
+    "word_limit": 100,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "What is an FRP composite material? How are they manufactured? Discuss their applications in aviation and automobile industries. (100 words)",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "Fibre-reinforced composites",
+    "topics": [
+      "Fibre-reinforced composites"
+    ],
+    "subTopics": [
+      "Fibre-reinforced composites"
+    ],
+    "keyPointers": [
+      "Manufacturing"
+    ],
+    "customKeyPointers": [
+      "A fibre is set inside a binder so the part is strong and light",
+      "They are laid up and cured",
+      "Aircraft and cars use them where weight matters more than a cheap metal"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "FRP (Fiber Reinforced Polymer) – composite of polymer matrix (epoxy, polyester) reinforced with fibers (glass, carbon, aramid)"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Manufacturing methods: - hand lay-up - compression molding - filament winding - pultrusion - resin transfer molding (RTM) - autoclave curing"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Aviation applications: - aircraft fuselage (Boeing 787 Dreamliner, Airbus A350) - wings, tail, interior panels - weight reduction (20-30%) - fuel efficiency - corrosion resistance"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Automobile applications: - body panels - chassis components - leaf springs (mono-leaf) - battery enclosures for EVs - drive shafts - design flexibility - crash energy absorption"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "FRPs enable lightweighting, improving fuel economy and performance in transport sectors"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_17b",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "17(b)",
+    "marks": 5,
+    "word_limit": 100,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "What do you understand by Run-of-river hydroelectricity project? How is it different from any other hydroelectricity project? (100 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Environment & Ecology"
+    ],
+    "topic": "Run-of-river power",
+    "topics": [
+      "Run-of-river power"
+    ],
+    "subTopics": [
+      "Run-of-river hydro"
+    ],
+    "keyPointers": [
+      "Renewable energy",
+      "Freshwater availability",
+      "Biodiversity loss"
+    ],
+    "customKeyPointers": [
+      "It uses the flow of the river, with little storage",
+      "A conventional project holds a large reservoir",
+      "The difference is the dam, the submerged land and the change to the flow"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Run-of-river (RoR) hydro project – diverts a portion of river flow through a channel/tunnel to turbines, without large reservoir storage"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Key features: - minimal storage (pondage only) - lower environmental footprint - seasonal power generation dependent on river flow - smaller land submergence"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Differences from conventional storage hydro: - no large dam - no reservoir - less displacement - lower capital cost - lower capacity factor (30-40% vs 50-60%) - limited peaking capability - no irrigation/flood control benefits"
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "RoR preferred in ecologically sensitive Himalayan regions (e.g., Teesta, Sikkim projects) but less reliable for base load"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_18",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "18",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "How important are vulnerability and risk assessment for pre-disaster management? As an administrator, what are key areas that you would focus on in a Disaster Management System. (200 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "subTopics": [
+      "Pre-disaster risk assessment"
+    ],
+    "keyPointers": [
+      "Disaster risk reduction"
+    ],
+    "customKeyPointers": [
+      "Vulnerability is who will be hurt, and risk is how likely and how badly",
+      "A pre-disaster plan that skips this spends on the wrong place",
+      "An administrator would look at the weak house, the cut-off village and the single hospital"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Vulnerability and risk assessment (VRA) is the foundation of pre-disaster management under Disaster Management Act 2005"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Importance of VRA: identifies high-risk zones (seismic, flood, cyclone), vulnerable populations (poor, elderly, disabled), critical infrastructure (hospitals, schools), enables resource allocation, early warning systems, land-use planning"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Key focus areas for administrator: early warning dissemination (mobile alerts, sirens), community-based disaster preparedness (mock drills, first aid training), evacuation planning and shelter management (cyclone shelters, flood-safe zones)"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Additional areas: stockpiling of relief material, capacity building of local bodies (NDRF, SDRF), retrofitting critical infrastructure (hospitals), disaster-resistant construction codes (NBC enforcement), insurance coverage"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "VRA enables proactive rather than reactive disaster management; administrator must prioritize prevention, mitigation, and preparedness"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_19",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "19",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "What are the consequences of Illegal mining? Discuss the Ministry of Environment and Forests' concept of GO AND NO GO zones for coal mining sector. (200 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "subTopics": [
+      "Illegal mining and no-go forests"
+    ],
+    "keyPointers": [
+      "Coal dependence",
+      "Biodiversity loss",
+      "Environment versus livelihood"
+    ],
+    "customKeyPointers": [
+      "Illegal mining takes the mineral, the revenue and the safety",
+      "A go zone is where mining may be considered, and a no-go zone is a forest that should not be opened",
+      "The concept tries to draw the line before the pit, not after the protest"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Illegal mining – extraction without legal permit, outside lease area, or exceeding authorized limit"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Consequences: environmental (deforestation, groundwater depletion, biodiversity loss, air/water pollution), social (land displacement, health hazards, child labor, loss of livelihood), economic (revenue loss, black economy, price distortion)"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "MOEF's Go/No-Go zones (2010, later revised): Go zones – areas where coal mining permitted without restrictions (degraded forests, non-forest land); No-Go zones – areas with dense forests (70%+ canopy cover) or ecologically sensitive (critical wildlife habitats, national parks)"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Criticism: classification arbitrary, affected coal availability, later replaced with 'inviolate' and 'non-inviolate' under Forest Rights Act lens"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Need balance between resource extraction and environmental conservation; technology for monitoring (GIS, satellite) and strict enforcement required"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_20",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "20",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "Enumerate the National Water Policy of India. Taking river Ganges as an example, discuss the strategies which may be adopted for river water pollution control and management. What are the legal provisions of management and handling of hazardous wastes in India? (200 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "subTopics": [
+      "National Water Policy and the Ganga"
+    ],
+    "keyPointers": [
+      "Freshwater availability",
+      "Industrial discharge"
+    ],
+    "customKeyPointers": [
+      "The policy speaks of the river as a system, a priority for drinking water and a basin plan",
+      "On the Ganga the strategy is sewage, the industrial drain and a flow that is not entirely diverted",
+      "A policy without those three stays a document"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "National Water Policy (2012 updated) – framework for water governance: integrated water resources management, demand management, pricing, groundwater regulation, water quality, inter-state basins"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Ganga pollution control strategies: - Namami Gange (sewage treatment capacity, industrial effluent monitoring, riverfront development) - zero liquid discharge (ZLD) for industries - real-time water quality monitoring - ghat cleaning - biodiversity conservation (dolphins) - afforestation"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Legal provisions for hazardous waste management: - Hazardous and Other Wastes (Management and Transboundary Movement) Rules, 2016 (under EP Act 1986) - Basel Convention compliance - authorization for generators, transporters, recyclers - disposal in TSDF (Treatment, Storage, Disposal Facilities) - E-waste Management Rules - Bio-medical Waste Rules - Batteries Rules - liability for damage - State Pollution Control Boards as implementing agencies"
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "Effective implementation, public-private partnership, and behavior change critical for river rejuvenation and waste management"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_21",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "21",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "Money laundering poses a serious security threat to a country's economic sovereignty. What is its significance for India and what steps are required to be taken to control this menace? (200 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "subTopics": [
+      "Money laundering"
+    ],
+    "keyPointers": [
+      "Money laundering",
+      "Terror funding"
+    ],
+    "customKeyPointers": [
+      "Dirty money enters the legal economy and then funds a crime or a political hold",
+      "For India the significance is terror finance, a tax loss and a distorted market",
+      "The steps are a law, a reporting duty on the bank and a pursuit across a border"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Money laundering – process of making illegally-gained proceeds appear legitimate (placement, layering, integration)"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Significance for India: black economy (estimated 20-30% of GDP), hawala networks funding terrorism, election funding opacity, real estate and bullion sector misuse, tax evasion, impact on rupee stability, FATF grey list risk"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Steps required: strengthen PMLA (2002) enforcement, enhance FIU-IND capabilities, vigil on shell companies (Benami Act), banking supervision (KYC norms), cross-border currency movement tracking, cryptocurrency regulation"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "International cooperation: Egmont Group, FATF compliance, mutual legal assistance treaties (MLATs), exchange of financial intelligence"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Money laundering undermines economic sovereignty; need multi-agency approach, technology (AI-based detection), and political will"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_22",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "22",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "What are social networking sites and what security implications do these sites present? (200 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Social networking sites",
+    "topics": [
+      "Social networking sites"
+    ],
+    "subTopics": [
+      "Social networks and security"
+    ],
+    "keyPointers": [
+      "Cyber security",
+      "Cyber attacks",
+      "Data protection"
+    ],
+    "customKeyPointers": [
+      "They are platforms where people post, share and are sorted by a company",
+      "The risk is a fraud, a radical sermon, a leak of a personal detail and a lie that spreads",
+      "The implication is security, and also the privacy of the user"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Social networking sites (SNS) – online platforms for creating, sharing, and exchanging user-generated content and building social networks (Facebook, X, Instagram, LinkedIn)"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Security implications for individuals: - identity theft - cyber-stalking - phishing - reputation damage (revenge porn) - online grooming of minors - doxxing - account hacking"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "National security implications: - spread of fake news and misinformation (communal tension) - radicalization and terror recruitment - espionage via fake profiles - data harvesting (Cambridge Analytica) - social engineering attacks"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Organizational implications: - corporate espionage - data leaks - brand reputation damage - ransomware propagation"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Need digital literacy, robust privacy settings, IT Act provisions (Section 66A struck down but 69A for blocking), CERT-In advisories, and platform accountability (Intermediary Guidelines 2021)"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_23",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "23",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "Cyber warfare is considered by some defense analysts to be a larger threat than even Al Qaeda or terrorism. What do you understand by Cyber warfare? Outline the cyber threats which India is vulnerable to and bring out the state of the country's preparedness to deal with the same. (200 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "subTopics": [
+      "Cyber warfare"
+    ],
+    "keyPointers": [
+      "Cyber attacks",
+      "Cyber security",
+      "Terrorism"
+    ],
+    "customKeyPointers": [
+      "Cyber warfare is a state or a group attacking a network to damage a real service",
+      "It can be larger than a terror group because it can touch a grid, a bank and a command",
+      "The understanding has to separate a crime from an act aimed at the country"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Cyber warfare – politically motivated hacking targeting critical infrastructure, military systems, and government networks to disrupt, damage, or gain advantage"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Cyber threats to India: - nation-state attacks (China, Pakistan) - critical infrastructure (power grid, banking, railways, nuclear plants, UPI systems) - data breaches (Aadhaar, health records) - supply chain attacks - ransomware (e.g., AIIMS 2022) - disinformation campaigns"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "State of preparedness: - National Cyber Security Policy (2013, updated 2020) - CERT-In as nodal agency - National Critical Information Infrastructure Protection Centre (NCIIPC) - Cyber Command (Defence Cyber Agency – DCA, tri-services) - Cyber Swachhta Kendra"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Gaps: - shortage of trained cybersecurity professionals - legacy systems - limited public-private info sharing - no comprehensive data protection law (DPDP Act 2023 recent) - patchy implementation across states"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Need increased investment, cyber hygiene awareness, international cooperation, and offensive cyber capabilities"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_24",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "24",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "Article 244 of the Indian Constitution relates to administration of scheduled areas and tribal areas. Analyse the impact of non-implementation of the provisions of the Fifth schedule on the growth of Left Wing extremism. (200 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "subTopics": [
+      "Fifth Schedule and left-wing extremism"
+    ],
+    "keyPointers": [
+      "Tribal communities",
+      "Left-wing extremism",
+      "Development and security"
+    ],
+    "customKeyPointers": [
+      "Article 244 gives scheduled and tribal areas a different administration",
+      "Not applying it means the land and the custom are decided as if they were ordinary",
+      "The impact is alienation, and that alienation feeds the armed group"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Fifth Schedule (Article 244(1)) – administration of Scheduled Areas (tribal dominated); provides for Tribes Advisory Council, Governor's special powers to regulate land transfer, money lending, and protect tribal customs"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Non-implementation: Governors often failed to exercise special powers (land alienation rampant), Tribes Advisory Councils not consulted (Panchayat Extension to Scheduled Areas – PESA 1996 also weakly enforced), forest rights under FRA 2006 not fully implemented"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Impact on LWE (Naxalism): alienation due to land encroachment by non-tribals, mining (coal, bauxite) without consent, displacement without rehabilitation, lack of basic infrastructure, exploitation by moneylenders – created fertile ground for Maoist ideology (promising land to tiller, end to exploitation)"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "LWE affected areas (Red Corridor) coincide with Scheduled Areas: Bastar (Chhattisgarh), Jharkhand, Odisha, Andhra – where Fifth Schedule protections remained on paper"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Strengthening Fifth Schedule implementation (tribal land rights, self-governance) is essential for addressing root causes of LWE; development+security approach needed"
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2013_GSP3_25",
+    "exam": "UPSC",
+    "year": 2013,
+    "paper_title": "GS Paper 3",
+    "q_number": "25",
+    "marks": 10,
+    "word_limit": 200,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2013 GS Paper 3",
+    "question_text": "How far are India's internal security challenges linked with border management particularly in view of the long porous borders with most countries of South Asia and Myanmar? (200 words)",
+    "subjectId": "security",
+    "subjects": [
+      "Internal Security"
+    ],
+    "topic": "Internal Security",
+    "topics": [
+      "Internal Security"
+    ],
+    "subTopics": [
+      "Borders and internal security"
+    ],
+    "keyPointers": [
+      "Border management",
+      "Cross-border threats"
+    ],
+    "customKeyPointers": [
+      "A long porous border lets in a militant, a smuggler and an unrecorded migrant",
+      "The internal problem often starts on the line",
+      "The link is strong, and an internal failure of policing is still a separate cause"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "India shares 15,106 km land border with 7 countries; much of it porous and unfenced, especially with Nepal, Bhutan, Bangladesh, and Myanmar"
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Internal security challenges linked to porous borders: - illegal immigration (Bangladesh infiltration into Assam, West Bengal) - trans-border smuggling (arms, narcotics, fake currency) - cross-border terrorism (Pakistan, Bangladesh based groups) - human trafficking"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Myanmar border (1643 km, unfenced): - insurgent groups (NSCN-K, ULFA, KYKL) have camps - arms flow - drug route (Golden Triangle) - free movement regime (FMR) abused"
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Steps taken: - Integrated Check Posts - border fencing (Indo-Bangla almost complete) - CIBMS (smart fences) - riverine patrolling - BSF/SSB/ITBP deployment - FMR regulation - border infrastructure development - coordination with neighboring countries (Joint Working Groups)"
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Comprehensive border management (technological surveillance, community engagement, and diplomatic push for border demarcation) is vital for internal security"
+      }
+    ]
+  }
+]

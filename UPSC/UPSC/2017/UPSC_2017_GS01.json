@@ -1,0 +1,1448 @@
+[
+  {
+    "uid": "UPSC_2017_GSP1_01",
+    "exam": "UPSC",
+    "year": 2017,
+    "paper_title": "GS Paper 1",
+    "q_number": "1",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2017 GS Paper 1",
+    "question_text": "How do you justify the view that the level of excellence of the Gupta numismatic art is not at all noticeable in later times? (150 words)",
+    "subjectId": "culture",
+    "subjects": [
+      "Art & Culture"
+    ],
+    "topic": "Gupta coin art",
+    "topics": [
+      "Gupta coin art"
+    ],
+    "subTopics": [
+      "Gupta coin art",
+      "Decline of numismatic art after the Guptas"
+    ],
+    "keyPointers": [
+      "Gupta age",
+      "Patronage and art"
+    ],
+    "customKeyPointers": [
+      "The Gupta coin carries a portrait, a legend and a finish later issues rarely match",
+      "Later coinage becomes more a stamp of a ruler than a work of art",
+      "The claim is about that drop in craft, not about the metal alone"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Gupta period (c. 4th-6th century CE) is known as the 'Golden Age' of Indian numismatic art, producing coins of exceptional artistic merit and technical refinement."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Excellence of Gupta coins: Die-struck gold dinaras with intricate designs – king standing, queen type, lyrist type, horseman type. High relief, graceful human figures, Sanskrit legends in Brahmi script. Later periods (Post-Gupta, Rajput, Sultanate) saw decline: crude casting, debased metals, stylized or degenerate figures, loss of aesthetic sensibility."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Reasons: political fragmentation, economic decline, changing patronage (feudal lords vs imperial court), and influence of foreign (Scytho-Sassanian) designs."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "Thus, Gupta numismatic excellence remained unmatched due to a unique confluence of imperial patronage, artistic sophistication, and economic prosperity not replicated later."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP1_02",
+    "exam": "UPSC",
+    "year": 2017,
+    "paper_title": "GS Paper 1",
+    "q_number": "2",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2017 GS Paper 1",
+    "question_text": "Clarify how mid-eighteenth century India was beset with the spectre of a fragmented polity. (150 words)",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "A fragmented India",
+    "topics": [
+      "A fragmented India"
+    ],
+    "subTopics": [
+      "Fragmented polity in the mid-18th century"
+    ],
+    "keyPointers": [
+      "Colonial conquest",
+      "Mughal administration"
+    ],
+    "customKeyPointers": [
+      "The Mughal centre no longer held the provinces",
+      "Regional powers, and the Company, filled the gap",
+      "The polity was many courts, not one state"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "By mid-18th century, the Mughal Empire had disintegrated, leaving a power vacuum and a fragmented political landscape across India."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Signs of fragmentation: Emergence of regional powers – Bengal (Murshid Quli Khan), Awadh (Saadat Khan), Hyderabad (Nizam-ul-Mulk), Mysore (Haidar Ali), Maratha confederacy, Sikh misls."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Conflicts among these states (e.g., Maratha vs Nizam, Carnatic wars)."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "European trading companies (British, French) exploited this fragmentation through rivalries."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Absence of a central authority led to constant warfare, weak administration, and vulnerability to foreign intervention."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "Thus, mid-18th century India was a patchwork of competing regional kingdoms – a fragmented polity that paved the way for British colonial consolidation."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP1_03",
+    "exam": "UPSC",
+    "year": 2017,
+    "paper_title": "GS Paper 1",
+    "q_number": "3",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2017 GS Paper 1",
+    "question_text": "Why did the 'Moderates' fail to carry conviction with the nation about their proclaimed ideology and political goals by the end of the nineteenth century? (150 words)",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "Modern History",
+    "topics": [
+      "Modern History"
+    ],
+    "subTopics": [
+      "Failure of the Moderates"
+    ],
+    "keyPointers": [
+      "Moderates and Extremists"
+    ],
+    "customKeyPointers": [
+      "Petitions and faith in British justice no longer convinced a wider public",
+      "The methods looked slow, and the social base stayed narrow",
+      "By the end of the century the proclaimed goal and the public had parted"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The Moderates (early Indian National Congress, c.1885-1905) believed in constitutional agitation, petitions, and slow reform within British framework."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Reasons for failure to convince the nation: Their methods (prayers, petitions) yielded few tangible results."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "narrow social base (urban intelligentsia, professionals) – failed to mobilize masses."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "perceived as elitist and pro-landlord."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "lacked economic analysis of colonial exploitation (drain theory came later)."
+      },
+      {
+        "section": "Body",
+        "order": 6,
+        "text": "rise of extremist critique (Tilak, Bipin Chandra Pal) demanding swaraj and direct action. The partition of Bengal (1905) exposed Moderates' impotence, leading to mass disillusionment."
+      },
+      {
+        "section": "Conclusion",
+        "order": 7,
+        "text": "Thus, Moderates' moderate ideology and tactics appeared inadequate by 1900, leading to the rise of militant nationalism."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP1_04",
+    "exam": "UPSC",
+    "year": 2017,
+    "paper_title": "GS Paper 1",
+    "q_number": "4",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2017 GS Paper 1",
+    "question_text": "What problems were germane to the decolonization process in the Malay Peninsula? (150 words)",
+    "subjectId": "world",
+    "subjects": [
+      "World History"
+    ],
+    "topic": "Decolonisation of Malaya",
+    "topics": [
+      "Decolonisation of Malaya"
+    ],
+    "subTopics": [
+      "Decolonization of the Malay Peninsula"
+    ],
+    "keyPointers": [
+      "Decolonisation"
+    ],
+    "customKeyPointers": [
+      "Malays, Chinese and Indians did not share one political identity",
+      "A communist insurgency and British strategic interests complicated the exit",
+      "Rubber, tin and the later separation of Singapore kept the settlement fragile"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The Malay Peninsula (British Malaya, including Singapore) faced unique decolonization challenges after WWII due to its multi-ethnic composition and colonial economic structure."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Problems: Ethnic divisions – Malays (indigenous), Chinese (economic dominance), Indians (plantation workers) – lacked shared identity. Communist insurgency (Malayan Emergency 1948-60) delayed transfer of power. British strategy of 'divide and rule' exacerbated tensions. Disagreements over citizenship, language, Malay special rights (ketuanan Melayu). The Malayan Union (1946) rejected due to Malay opposition."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "replaced by Federation of Malaya (1948). Singapore's separation (1965) added complexity. Economic dependency on rubber and tin."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "Decolonization was thus fraught with communal conflict, communist threats, and British strategic interests, leading to a negotiated but fragile independence in 1957."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP1_05",
+    "exam": "UPSC",
+    "year": 2017,
+    "paper_title": "GS Paper 1",
+    "q_number": "5",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2017 GS Paper 1",
+    "question_text": "How does the Juno Mission of NASA help to understand the origin and evolution of the Earth? (150 words)",
+    "subjectId": "stech",
+    "subjects": [
+      "Science & Technology"
+    ],
+    "topic": "The Juno mission",
+    "topics": [
+      "The Juno mission"
+    ],
+    "subTopics": [
+      "Juno and the origin of Earth"
+    ],
+    "keyPointers": [
+      "Space programme",
+      "Plate tectonics"
+    ],
+    "customKeyPointers": [
+      "Jupiter is a surviving record of the material that built the planets",
+      "Reading its water, its core and its magnetic field is a way of reading how Earth formed",
+      "The help is comparative, not a photograph of early Earth"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "NASA's Juno Mission (launched 2011, orbiting Jupiter since 2016) studies Jupiter's composition, gravity, magnetic field, and polar magnetosphere."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Relevance to Earth's origin: Jupiter is a 'gas giant' that preserved primordial solar system materials. Juno."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "measures water abundance and core mass – helping test solar system formation models. Understanding Jupiter's formation (core accretion vs disk instability) informs how terrestrial planets like Earth formed. Juno's magnetic field data reveals dynamo mechanisms – similar to Earth's core."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Also, Jupiter's composition (hydrogen, helium, heavy elements) reflects early solar nebula conditions, offering a baseline to compare with Earth's building blocks."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Thus, Juno provides critical comparative planetology data, helping reconstruct Earth's formation and early evolutionary path."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP1_06",
+    "exam": "UPSC",
+    "year": 2017,
+    "paper_title": "GS Paper 1",
+    "q_number": "6",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2017 GS Paper 1",
+    "question_text": "\"In spite of adverse environmental impact, coal mining is still inevitable for development.\" Discuss. (150 words)",
+    "subjectId": "energyenv",
+    "subjects": [
+      "Energy, Environment, Disaster"
+    ],
+    "topic": "Environment",
+    "topics": [
+      "Environment"
+    ],
+    "subTopics": [
+      "Coal mining and development"
+    ],
+    "keyPointers": [
+      "Coal dependence",
+      "Energy minerals",
+      "Sustainable development"
+    ],
+    "customKeyPointers": [
+      "Coal still carries a large part of India's electricity and industry",
+      "The harm is local pollution, land, and carbon",
+      "Inevitable for now is not the same as harmless, or permanent"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Coal remains a primary energy source for many developing countries, despite significant environmental costs including land degradation, water pollution, and greenhouse gas emissions."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "arguments: Coal provides affordable base-load power."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "essential for steel, cement, and heavy industries."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "many countries lack viable alternatives."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "energy security concerns. Environmental impacts: Deforestation, displacement, air pollution (fly ash, SOx, NOx), water contamination (acid mine drainage), and CO2 emissions accelerating climate change. The inevitability is contested – renewable costs are falling."
+      },
+      {
+        "section": "Body",
+        "order": 6,
+        "text": "carbon capture technologies exist but are expensive. A just transition is needed."
+      },
+      {
+        "section": "Conclusion",
+        "order": 7,
+        "text": "Coal mining's inevitability is not absolute but context-dependent. Developing economies may need coal temporarily, but with strict environmental safeguards and a clear roadmap for phasing down."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP1_07",
+    "exam": "UPSC",
+    "year": 2017,
+    "paper_title": "GS Paper 1",
+    "q_number": "7",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2017 GS Paper 1",
+    "question_text": "Mention the advantages of the cultivation of pulses because of which the year 2016 was declared as the International Year of Pulses by the United Nations. (150 words)",
+    "subjectId": "agri",
+    "subjects": [
+      "Agriculture"
+    ],
+    "topic": "Why pulses were honoured",
+    "topics": [
+      "Why pulses were honoured"
+    ],
+    "subTopics": [
+      "Why pulses matter"
+    ],
+    "keyPointers": [
+      "Crop diversification",
+      "Food security",
+      "Poverty and nutrition",
+      "Climate and agriculture"
+    ],
+    "customKeyPointers": [
+      "They are a cheap protein, and they add nitrogen to the soil",
+      "They use less water than animal protein and fit a rotation with cereals",
+      "That mix of nutrition, soil and a small farm is why 2016 was marked for them"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The UN declared 2016 as the International Year of Pulses to highlight their nutritional, environmental, and economic benefits."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Advantages: Nutritionally rich – high protein, fibre, low fat."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "rich in iron, zinc, folate. Environmental benefits – nitrogen fixation reduces fertilizer."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "low water footprint compared to animal protein. Economic benefits – affordable protein source for smallholders."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "crop rotation with cereals reduces pests and diseases."
+      },
+      {
+        "section": "Body",
+        "order": 6,
+        "text": "can be stored long without refrigeration."
+      },
+      {
+        "section": "Body",
+        "order": 7,
+        "text": "Also support food security and sustainable agriculture (SDG 2)."
+      },
+      {
+        "section": "Conclusion",
+        "order": 8,
+        "text": "These advantages made pulses a strategic crop for combating malnutrition, climate resilience, and sustainable farming, prompting UN recognition."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP1_08",
+    "exam": "UPSC",
+    "year": 2017,
+    "paper_title": "GS Paper 1",
+    "q_number": "8",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2017 GS Paper 1",
+    "question_text": "How does the cryosphere affect global climate? (150 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Ice and the climate",
+    "topics": [
+      "Ice and the climate"
+    ],
+    "subTopics": [
+      "Cryosphere and climate"
+    ],
+    "keyPointers": [
+      "Glacier retreat",
+      "Global warming",
+      "Sea level rise"
+    ],
+    "customKeyPointers": [
+      "Ice reflects sunlight; open water and bare ground absorb it",
+      "Melting ice changes sea level and the circulation of the ocean",
+      "The cryosphere is both a record of the climate and a driver of it"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The cryosphere includes all frozen water on Earth – ice sheets, glaciers, sea ice, snow cover, permafrost. It plays a critical role in regulating global climate."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Mechanisms: Albedo effect – white ice reflects solar radiation back to space."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "melting reduces albedo, amplifying warming (positive feedback). Ocean circulation – dense cold water from melting ice drives thermohaline circulation (e.g., North Atlantic Deep Water). Sea ice acts as insulation between ocean and atmosphere. Permafrost stores methane – thawing releases potent greenhouse gases. Glacier melt affects sea level rise and freshwater availability. Changes in cryosphere."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "also affect jet streams and weather patterns."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Thus, the cryosphere is a key component of the Earth's climate system; its rapid degradation accelerates global warming and alters climate dynamics."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP1_09",
+    "exam": "UPSC",
+    "year": 2017,
+    "paper_title": "GS Paper 1",
+    "q_number": "9",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2017 GS Paper 1",
+    "question_text": "In the context of the diversity of India, can it be said that the regions form cultural units rather than the States? Give reasons with examples for your viewpoint. (150 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "subTopics": [
+      "Cultural regions versus States"
+    ],
+    "keyPointers": [
+      "Diversity and pluralism",
+      "Regionalism",
+      "Unity and diversity"
+    ],
+    "customKeyPointers": [
+      "A language, a food and a festival often stop at a cultural region, not at a state line",
+      "States were drawn for administration and politics",
+      "The cultural unit is older, and it can sit inside one state or across two"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "India's cultural landscape is shaped more by historical regions (e.g., Bundelkhand, Mithila, Malwa) than by modern administrative States drawn on linguistic lines."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Evidence: Cultural practices – cuisine, festivals, dialects, folk art often transcend state boundaries."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Examples: Bhojpuri region spans Bihar and eastern UP."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Punjab region includes Indian Punjab, Haryana, Himachal parts, and Pakistan Punjab."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Tulu region across coastal Karnataka and Kerala."
+      },
+      {
+        "section": "Body",
+        "order": 6,
+        "text": "Braj region in UP and Rajasthan. States like Maharashtra contain distinct cultural sub-regions (Konkan, Marathwada, Vidarbha)."
+      },
+      {
+        "section": "Body",
+        "order": 7,
+        "text": "Thus, regions are organic cultural units."
+      },
+      {
+        "section": "Body",
+        "order": 8,
+        "text": "States are political constructs, though linguistic reorganization aligned them partially."
+      },
+      {
+        "section": "Conclusion",
+        "order": 9,
+        "text": "Therefore, regions, not States, are the more authentic cultural units in India's civilizational mosaic."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP1_10",
+    "exam": "UPSC",
+    "year": 2017,
+    "paper_title": "GS Paper 1",
+    "q_number": "10",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2017 GS Paper 1",
+    "question_text": "What are the two major legal initiatives by the State since Independence, addressing discrimination against Scheduled Tribes (STs)? (150 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "subTopics": [
+      "Legal protection of Scheduled Tribes"
+    ],
+    "keyPointers": [
+      "Tribal communities",
+      "Forest conservation"
+    ],
+    "customKeyPointers": [
+      "The Prevention of Atrocities Act, 1989, names the violence and gives a special court and relief",
+      "The Forest Rights Act, 2006, recognises individual and community rights on forest land",
+      "Both are legal answers to an older exclusion"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Since 1947, the Indian State has enacted several laws to protect STs from discrimination and safeguard their rights."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 – prohibits atrocities against STs, provides special courts, and mandates relief and rehabilitation."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "The Forest Rights Act (FRA), 2006 (Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act) – recognizes individual and community forest rights, addressing historical injustices of displacement and denial of access to forest resources. Other important: Panchayats (Extension to Scheduled Areas) Act (PESA), 1996 – empowers Gram Sabhas in tribal areas."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "These legal initiatives aim to undo discrimination, restore rights, and ensure socio-economic justice for STs."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP1_11",
+    "exam": "UPSC",
+    "year": 2017,
+    "paper_title": "GS Paper 1",
+    "q_number": "11",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2017 GS Paper 1",
+    "question_text": "The spirit of tolerance and love is not only an interesting feature of Indian society from very early times, but it is also playing an important part at the present. Elaborate. (250 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Tolerance and love",
+    "topics": [
+      "Tolerance and love"
+    ],
+    "subTopics": [
+      "Tolerance and pluralism in Indian society"
+    ],
+    "keyPointers": [
+      "Diversity and pluralism",
+      "Secularism",
+      "Continuity and change"
+    ],
+    "customKeyPointers": [
+      "The habit of living with more than one faith is old in the society",
+      "It still does work when a quarrel is refused",
+      "The feature matters now because the alternative is a politics of exclusion"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "India's civilizational ethos has historically embraced tolerance, pluralism, and universal love – from Vedic 'Vasudhaiva Kutumbakam' to Sufi and Bhakti traditions."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Historical evidence: Ashoka's edicts promoting religious harmony."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Gupta and Mughal patronage of multiple faiths."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Bhakti saints (Kabir, Nanak, Chaitanya) transcending sectarian boundaries."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Sufi mystics spreading love (Nizamuddin Auliya). Continuing."
+      },
+      {
+        "section": "Body",
+        "order": 6,
+        "text": "relevance: Indian Constitution guarantees secularism and freedom of religion. Contemporary."
+      },
+      {
+        "section": "Body",
+        "order": 7,
+        "text": "examples: communal harmony committees during riots."
+      },
+      {
+        "section": "Body",
+        "order": 8,
+        "text": "'Ganga-Jamuni tehzeeb' in Lucknow and Hyderabad."
+      },
+      {
+        "section": "Body",
+        "order": 9,
+        "text": "relief work by all communities during disasters (e.g., Gujarat earthquake, Covid-19)."
+      },
+      {
+        "section": "Body",
+        "order": 10,
+        "text": "Challenges: periodic communal violence, hate speech, but the underlying spirit of tolerance has prevented societal collapse. The courts and civil society actively defend pluralism."
+      },
+      {
+        "section": "Conclusion",
+        "order": 11,
+        "text": "Thus, tolerance and love remain integral to Indian society, facing pressures but resiliently asserting themselves as a core national character."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP1_12",
+    "exam": "UPSC",
+    "year": 2017,
+    "paper_title": "GS Paper 1",
+    "q_number": "12",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2017 GS Paper 1",
+    "question_text": "Examine how the decline of traditional artisanal industry in colonial India crippled the rural economy. (250 words)",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "The artisan and the village",
+    "topics": [
+      "The artisan and the village"
+    ],
+    "subTopics": [
+      "Colonial decline of village crafts"
+    ],
+    "keyPointers": [
+      "Deindustrialisation",
+      "Drain of wealth",
+      "Agrarian relations"
+    ],
+    "customKeyPointers": [
+      "The village spinner and weaver lost the market to imported cloth",
+      "The rural economy lost a second income, not only a craft",
+      "What remained was a farm under heavier pressure"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Pre-colonial India had a vibrant network of traditional artisans – weavers, potters, metalworkers, carpenters – who supplied local and export markets."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Colonial policies caused decline: British industrial revolution – machine-made textiles flooded Indian markets (Manchester cotton)."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "high duties on Indian exports, free imports to India."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "destruction of zamindari and princely patronage."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "railways disrupted local supply chains."
+      },
+      {
+        "section": "Body",
+        "order": 6,
+        "text": "Consequences for rural economy: Massive unemployment of artisans forced back to agriculture, increasing land pressure and fragmentation."
+      },
+      {
+        "section": "Body",
+        "order": 7,
+        "text": "loss of non-farm income made villages dependent solely on erratic monsoons."
+      },
+      {
+        "section": "Body",
+        "order": 8,
+        "text": "decline of urban centers (Dacca, Murshidabad)."
+      },
+      {
+        "section": "Body",
+        "order": 9,
+        "text": "rise of rural indebtedness and poverty."
+      },
+      {
+        "section": "Body",
+        "order": 10,
+        "text": "contributed to famines (e.g., 1876-78). The 'de-industrialization' thesis (R.C. Dutt, Dadabhai Naoroji) highlights how colonial policy deliberately crippled Indian manufacturing to serve British interests."
+      },
+      {
+        "section": "Conclusion",
+        "order": 11,
+        "text": "Thus, the destruction of traditional artisanal industry transformed a diversified rural economy into an overburdened agrarian one, with lasting underdevelopment."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP1_13",
+    "exam": "UPSC",
+    "year": 2017,
+    "paper_title": "GS Paper 1",
+    "q_number": "13",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2017 GS Paper 1",
+    "question_text": "Highlight the importance of the new objectives that got added to the vision of Indian independence since the twenties of the last century. (250 words)",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "What independence came to mean",
+    "topics": [
+      "What independence came to mean"
+    ],
+    "subTopics": [
+      "Widening aims of swaraj after the 1920s"
+    ],
+    "keyPointers": [
+      "Gandhi's mass politics",
+      "Non-cooperation",
+      "Civil disobedience",
+      "Women in the national movement"
+    ],
+    "customKeyPointers": [
+      "From the 1920s the aim was no longer only a larger share of office",
+      "Swaraj came to include the peasant, the worker, the woman and the end of untouchability",
+      "The vision widened because the movement itself widened"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The Indian freedom struggle initially aimed for colonial reform (Moderates). From the 1920s, under Gandhi's leadership, new socio-economic objectives transformed the vision of swaraj."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "New objectives added: Economic self-reliance (swadeshi, khadi, boycott of foreign cloth) – revived village industries."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Social justice – removal of untouchability (Harijan seva), Hindu-Muslim unity, women's participation."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Complete independence (Purna Swaraj – Lahore Congress 1929) replacing dominion status."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Fundamental Rights and economic programme – Karachi Resolution 1931 included rights to speech, assembly, and socialist ideas like state ownership."
+      },
+      {
+        "section": "Body",
+        "order": 6,
+        "text": "Mass mobilization – non-violent civil disobedience brought peasants, workers, and youth into movement."
+      },
+      {
+        "section": "Body",
+        "order": 7,
+        "text": "These objectives made independence not just a political transfer but a project of social transformation and economic reconstruction."
+      },
+      {
+        "section": "Conclusion",
+        "order": 8,
+        "text": "Thus, the 1920s onwards expanded the vision of freedom to include economic, social, and moral dimensions, shaping the post-independence Constitution and development agenda."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP1_14",
+    "exam": "UPSC",
+    "year": 2017,
+    "paper_title": "GS Paper 1",
+    "q_number": "14",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2017 GS Paper 1",
+    "question_text": "Account for variations in oceanic salinity and discuss its multi-dimensional effects. (250 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "subTopics": [
+      "Ocean salinity"
+    ],
+    "keyPointers": [
+      "Ocean currents",
+      "Marine resources"
+    ],
+    "customKeyPointers": [
+      "Salinity changes with evaporation, rain, rivers and ice",
+      "A saltier or fresher sea changes density, life and the movement of water",
+      "The effects are on climate, fisheries and the coast, not on one number only"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Oceanic salinity (average 35 ppt) varies spatially due to factors affecting evaporation, precipitation, freshwater influx, and ocean currents."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Variations: Highest in subtropical belts (20°-30° N/S) due to high evaporation, low rainfall (Red Sea ~40 ppt). Low at equator due to high rainfall; low at high latitudes due to ice melt and low evaporation; very low near river mouths (Baltic Sea). Effects of salinity variations:"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Ocean circulation – density differences drive thermohaline circulation (global conveyor belt), influencing climate (e.g., North Atlantic Deep Water)."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Marine life – species have salinity tolerance ranges; estuaries are high-productivity zones due to mixing."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Freezing point – higher salinity lowers freezing point, affecting sea ice formation."
+      },
+      {
+        "section": "Body",
+        "order": 6,
+        "text": "Stratification – salinity gradients create stable layers, limiting vertical mixing and nutrient upwelling."
+      },
+      {
+        "section": "Body",
+        "order": 7,
+        "text": "Human uses – desalination costs, fisheries distribution."
+      },
+      {
+        "section": "Conclusion",
+        "order": 8,
+        "text": "Thus, salinity variations are not just chemical but profoundly influence climate, ecosystems, and oceanography."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP1_15",
+    "exam": "UPSC",
+    "year": 2017,
+    "paper_title": "GS Paper 1",
+    "q_number": "15",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2017 GS Paper 1",
+    "question_text": "Petroleum refineries are not necessarily located nearer to crude oil producing areas, particularly in many of the developing countries. Explain its implications. (250 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Where refineries sit",
+    "topics": [
+      "Where refineries sit"
+    ],
+    "subTopics": [
+      "Where oil refineries are placed"
+    ],
+    "keyPointers": [
+      "Location of industries",
+      "Energy minerals",
+      "Straits and trade routes"
+    ],
+    "customKeyPointers": [
+      "Crude can travel by pipeline or ship more cheaply than every finished fuel",
+      "Many poor producers export cheap crude and import expensive products",
+      "The site is a choice about the market, not only about the oilfield"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "While intuitively refineries should be near oil fields, many developing countries import crude and refine it elsewhere due to market, infrastructure, or strategic reasons."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Reasons for distance: Refineries locate near consumption centers to reduce transport costs of finished products (pipelines cheaper for crude); coastal locations for imported crude (e.g., India's Jamnagar, Paradip); political stability; economies of scale at export-oriented refineries. Implications:"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Positive – employment and industrial development in consuming regions; energy security through strategic storage; ability to process multiple crude types."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Negative – higher transport costs and emissions; vulnerability to supply disruptions (straits, piracy); refining margins squeezed if crude price spikes; developing countries often lack bargaining power in crude purchase."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "For oil-producing developing countries – they export crude cheaply and import expensive refined products (value loss). Example: Nigeria, Angola. India, despite some domestic crude, imports ~85% and has built coastal refineries."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "The mismatch between refinery location and crude production has economic, strategic, and environmental implications, often disadvantaging poorer resource-rich nations."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP1_16",
+    "exam": "UPSC",
+    "year": 2017,
+    "paper_title": "GS Paper 1",
+    "q_number": "16",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2017 GS Paper 1",
+    "question_text": "In what way can floods be converted into a sustainable source of irrigation and all-weather inland navigation in India? (250 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Floods as a resource",
+    "topics": [
+      "Floods as a resource"
+    ],
+    "subTopics": [
+      "Floods as irrigation and navigation"
+    ],
+    "keyPointers": [
+      "Floods",
+      "Irrigation",
+      "Freshwater availability"
+    ],
+    "customKeyPointers": [
+      "The same water that destroys a crop can be stored for a dry month",
+      "A linked river and a maintained channel can also carry a boat in every season",
+      "The conversion needs storage, a fair share, and a channel that is not allowed to silt up"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Floods are often seen as disasters, but they can be managed as a resource for irrigation and navigation through integrated water management."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Converting floods to irrigation:"
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Floodwater harvesting – constructing check dams, percolation tanks, and recharge structures in floodplains."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Artificial recharge of groundwater – using excess monsoon runoff to replenish aquifers (e.g., Maharashtra's Jalyukt Shivar)."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Spreading basins – diverting floodwater to agricultural fields during non-crop season to improve soil moisture and fertility. All-weather inland navigation:"
+      },
+      {
+        "section": "Body",
+        "order": 6,
+        "text": "Maintaining minimum depth in rivers through controlled flood releases from dams."
+      },
+      {
+        "section": "Body",
+        "order": 7,
+        "text": "Building navigation locks and barrages to regulate flow (e.g., National Waterway 1 on Ganga)."
+      },
+      {
+        "section": "Body",
+        "order": 8,
+        "text": "Creating flood bypass channels that double as navigation canals. India's National Water Policy and Jal Shakti Abhiyan promote such approaches. Examples: The Mahanadi delta's flood diversion for irrigation; Kerala's backwaters use flood flows for navigation. Need for flood forecasting, reservoir operation optimization, and basin-level planning."
+      },
+      {
+        "section": "Conclusion",
+        "order": 9,
+        "text": "With appropriate infrastructure and governance, floods can be transformed from a liability to a valuable resource for irrigation, navigation, and groundwater recharge."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP1_17",
+    "exam": "UPSC",
+    "year": 2017,
+    "paper_title": "GS Paper 1",
+    "q_number": "17",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2017 GS Paper 1",
+    "question_text": "What characteristics can be assigned to monsoon climate that succeeds in feeding more than 50 percent of the world population residing in Monsoon Asia? (250 words)",
+    "subjectId": "geo",
+    "subjects": [
+      "Geography"
+    ],
+    "topic": "Physical Geography",
+    "topics": [
+      "Physical Geography"
+    ],
+    "subTopics": [
+      "Monsoon climate and food"
+    ],
+    "keyPointers": [
+      "Monsoon",
+      "Agricultural regions",
+      "Food security",
+      "Population distribution"
+    ],
+    "customKeyPointers": [
+      "A seasonal rain, a warm temperature and a long growing period",
+      "Rice and other crops can support a dense population",
+      "The climate feeds the people only while the rain arrives and the soil holds it"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Monsoon Asia (Indian subcontinent, Southeast Asia, East Asia) supports over half of humanity due to the unique agricultural productivity enabled by the monsoon climate."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Key characteristics: Seasonal reversal of winds bringing concentrated rainfall (June-September) – 80% of annual rain. High total rainfall (500-2500 mm) allowing rain-fed rice cultivation. Spatial and temporal variability – creates."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "also replenishes rivers and groundwater. High humidity and temperatures support multiple cropping cycles. The rhythm of monsoon dictates agricultural calendars – sowing, transplanting, harvesting. Monsoon."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "also recharges reservoirs for irrigation during dry seasons."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "However, its unpredictability (droughts/floods) poses risks. Societies adapted through tank irrigation, floodplains, and terraced farming. The monsoon's reliability historically enabled high-yield rice civilization (paddy requires standing water). Without the monsoon, the dense population of Asia could not be fed."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "Thus, the monsoon's seasonal, abundant, and dependable (though variable) rainfall regime is the hydro-climatic basis for feeding billions in Monsoon Asia."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP1_18",
+    "exam": "UPSC",
+    "year": 2017,
+    "paper_title": "GS Paper 1",
+    "q_number": "18",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2017 GS Paper 1",
+    "question_text": "The women's questions arose in modern India as a part of the 19th century social reform movement. What were the major issues and debates concerning women in that period? (250 words)",
+    "subjectId": "modern",
+    "subjects": [
+      "Modern India"
+    ],
+    "topic": "The women's question",
+    "topics": [
+      "The women's question"
+    ],
+    "subTopics": [
+      "19th-century women's reform"
+    ],
+    "keyPointers": [
+      "Socio-religious reform",
+      "Women and work",
+      "Patriarchy"
+    ],
+    "customKeyPointers": [
+      "Sati, widow remarriage, the age of consent and women's education were the public debates",
+      "The argument was inside the reform movement, not separate from it",
+      "The question was who may decide a woman's life"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The 19th century Indian social reform movement, led by figures like Raja Rammohan Roy, Ishwar Chandra Vidyasagar, and Jyotiba Phule, first raised the 'women's question'."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Sati (widow burning) – abolished by Bengal Sati Regulation (1829) after Roy's campaign."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Widow remarriage – legalized by Hindu Widows' Remarriage Act (1856) due to Vidyasagar's efforts."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Child marriage and age of consent – Age of Consent Act (1891) raised age from 10 to 12; debates pitted reformers against orthodox Hindus."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Female infanticide – prohibited by British regulations."
+      },
+      {
+        "section": "Body",
+        "order": 6,
+        "text": "Education for girls – schools established by reformers (Bethune, Karve)."
+      },
+      {
+        "section": "Body",
+        "order": 7,
+        "text": "Caste and gender intersection – Phule and Ambedkar highlighted Brahmanical patriarchy. Debates: Reformers vs orthodox (scriptural authority vs humanism); British intervention vs native agency; whether reform should precede or follow social acceptance; limitations of colonial law in changing customs. The movement was largely led by men, with women's voices emerging later (Pandita Ramabai, Tarabai Shinde)."
+      },
+      {
+        "section": "Conclusion",
+        "order": 8,
+        "text": "These 19th century debates laid the groundwork for the 20th century women's movement and constitutional provisions for gender equality."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP1_19",
+    "exam": "UPSC",
+    "year": 2017,
+    "paper_title": "GS Paper 1",
+    "q_number": "19",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2017 GS Paper 1",
+    "question_text": "Distinguish between religiousness/religiosity and communalism giving one example of how the former has got transformed into the latter in independent India. (250 words)",
+    "subjectId": "society",
+    "subjects": [
+      "Indian Society"
+    ],
+    "topic": "Indian Society",
+    "topics": [
+      "Indian Society"
+    ],
+    "subTopics": [
+      "Religiousness and communalism"
+    ],
+    "keyPointers": [
+      "Communalism",
+      "Secularism",
+      "Diversity and pluralism"
+    ],
+    "customKeyPointers": [
+      "Religiousness is a person's faith and practice",
+      "Communalism is that identity used against another group for power",
+      "The change happens when a belief becomes a political boundary"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Religiousness (or religiosity) is personal faith, devotion, and practice of one's religion. Communalism is the politicization of religion to promote the interests of one religious community against others."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Distinction: Religiousness is spiritual, inward, and tolerant."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "communalism is political, outward, and divisive. Religiousness respects pluralism (e.g., Hindu visiting dargah)."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "communalism creates 'other' and fuels hatred (e.g., stereotypes, vote banks). Transformation."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "example in independent India: The Ayodhya Ram Janmabhoomi movement. Initially, it was a religious sentiment for a temple at a site revered by Hindus."
+      },
+      {
+        "section": "Body",
+        "order": 6,
+        "text": "However, political mobilization by parties (1980s-90s) turned it into a communal issue, leading to the Babri Masjid demolition (1992) and widespread riots."
+      },
+      {
+        "section": "Body",
+        "order": 7,
+        "text": "Thus, religious devotion (religiousness) was exploited and transformed into anti-Muslim communalism, with lasting."
+      },
+      {
+        "section": "Conclusion",
+        "order": 8,
+        "text": "Thus, while religiousness is a personal virtue, communalism is a social and political pathology that often masquerades as religious piety."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2017_GSP1_20",
+    "exam": "UPSC",
+    "year": 2017,
+    "paper_title": "GS Paper 1",
+    "q_number": "20",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2017 GS Paper 1",
+    "question_text": "\"The growth of cities as I.T. hubs has opened up new avenues of employment, but has also created new problems.\" Substantiate this statement with examples. (250 words)",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Cities as technology hubs",
+    "topics": [
+      "Cities as technology hubs"
+    ],
+    "subTopics": [
+      "IT cities and urban stress"
+    ],
+    "keyPointers": [
+      "Urbanisation",
+      "Digital economy",
+      "Digital divide",
+      "Regional disparity"
+    ],
+    "customKeyPointers": [
+      "New jobs arrived in software, services and the work around them",
+      "The same cities drew migrants faster than housing, water and transport",
+      "The avenue is real, and so is the strain on the people who do not share the wage"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "India's IT revolution transformed cities like Bengaluru, Hyderabad, Pune, and Gurugram into global tech hubs, driving economic growth and employment."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "New employment avenues: Direct IT jobs (millions of engineers, programmers, BPO workers)."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "indirect jobs (catering, transport, security, real estate)."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "gig economy (Zomato, Uber). Rise of startup ecosystem and unicorns (Flipkart, Ola)."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Problems created: Infrastructure stress – traffic congestion (Bengaluru), water scarcity, power outages. Housing unaffordability – real estate speculation, slum proliferation (Koramangala vs Ejipura). Social issues – cultural displacement, influx of migrants leading to local-nonlocal tensions (Kannada vs Hindi), increased crime, pollution. Environmental degradation – lake encroachment, waste management crisis."
+      },
+      {
+        "section": "Body",
+        "order": 6,
+        "text": "Also, IT's boom-bust cycles affect job security."
+      },
+      {
+        "section": "Body",
+        "order": 7,
+        "text": "Example: Bengaluru's lake foam, nightmarish traffic, and flash floods (2022) epitomize these."
+      },
+      {
+        "section": "Conclusion",
+        "order": 8,
+        "text": "Thus, IT-driven urban growth is a double-edged sword – it creates wealth and jobs but also exacerbates inequality, infrastructure deficits, and environmental challenges."
+      }
+    ]
+  }
+]

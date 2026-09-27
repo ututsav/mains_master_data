@@ -1,0 +1,1104 @@
+[
+  {
+    "uid": "UPSC_2021_GSP4_01a",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "GS Paper 4",
+    "q_number": "1(a)",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 GS Paper 4",
+    "question_text": "Identify five ethical traits on which one can plot the performance of a civil servant. Justify their inclusion in the matrix.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Ethical traits of a civil servant",
+    "topics": [
+      "Ethical traits of a civil servant"
+    ],
+    "subTopics": [
+      "Ethical traits for appraisal"
+    ],
+    "keyPointers": [
+      "Integrity",
+      "Impartiality",
+      "Compassion",
+      "Courage of conviction",
+      "Accountability"
+    ],
+    "customKeyPointers": [
+      "A trait counts only if it shows in a decision",
+      "The list fails if it is only a score on a form",
+      "Each trait earns its place by the harm its absence causes"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "A servant's performance can be plotted on traits that show in a file, not on a speech."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Integrity: the decision is not for sale."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Impartiality and accountability: the same rule, and a name on the order."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Empathy and courage: the weak are seen, and a wrong order is refused."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "These five belong because the service fails in a predictable way when each is missing."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP4_01b",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "GS Paper 4",
+    "q_number": "1(b)",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 GS Paper 4",
+    "question_text": "Identify ten essential values that are needed to be an effective public servant. Describe the ways and means to prevent non-ethical behaviour in the public servants.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Values and prevention of unethical conduct",
+    "topics": [
+      "Values and prevention of unethical conduct"
+    ],
+    "subTopics": [
+      "Values of an effective public servant"
+    ],
+    "keyPointers": [
+      "Integrity",
+      "Impartiality",
+      "Transparency and the right to information",
+      "Accountability",
+      "Dedication to public service"
+    ],
+    "customKeyPointers": [
+      "The needed values also include objectivity, empathy, compassion, tolerance and courage",
+      "Prevention is a system, not a sermon",
+      "A clean path that can be used, and a real consequence, matter more than a poster"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "An effective servant needs values that survive pressure."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Ten: integrity, impartiality, objectivity, dedication to public service, empathy, compassion, tolerance, courage, transparency and accountability."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Prevention: a clear rule, a disclosure, a rotation, a protected refusal and a punishment that arrives."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "Non-ethical behaviour is prevented when the value is backed by a consequence."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP4_02a",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "GS Paper 4",
+    "q_number": "2(a)",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 GS Paper 4",
+    "question_text": "Impact of digital technology as a reliable source of input for rational decision making is a debatable issue. Critically evaluate with suitable example.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Digital inputs and rational decisions",
+    "topics": [
+      "Digital inputs and rational decisions"
+    ],
+    "subTopics": [
+      "Digital data and rational choice"
+    ],
+    "keyPointers": [
+      "Ethics of digital government",
+      "Digital divide",
+      "Moral reasoning"
+    ],
+    "customKeyPointers": [
+      "A dashboard can inform a decision and can also mislead it",
+      "The person who is offline does not appear in the data",
+      "A welfare list that drops the offline poor is the example"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "A digital input can make a decision faster and can make a biased one look objective."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Clean administrative data helps a rational choice of where a scheme should go."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "A predictive score or an incomplete list hides the person who is offline."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Example: a welfare cutoff that drops the undocumented poor."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Technology is a reliable input only after a human checks who is missing."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP4_02b",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "GS Paper 4",
+    "q_number": "2(b)",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 GS Paper 4",
+    "question_text": "Besides domain knowledge, a public official needs innovativeness and creativity of a high order as well, while resolving ethical dilemmas. Discuss with suitable example.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Creativity in ethical dilemmas",
+    "topics": [
+      "Creativity in ethical dilemmas"
+    ],
+    "subTopics": [
+      "Innovation in ethical dilemmas"
+    ],
+    "keyPointers": [
+      "Moral reasoning",
+      "Conflict of values",
+      "Creativity",
+      "Dedication to public service"
+    ],
+    "customKeyPointers": [
+      "The rule book often offers two bad options",
+      "Creativity looks for a third that still keeps the duty",
+      "It is not a trick around the law"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Domain knowledge says what the rule is; a dilemma is when two duties pull apart."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Creativity finds a lawful third path: a recorded delay, a partial step, a redesigned process."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Example: a crack that politics wants ignored. The creative duty is a recorded stop and an independent test, not a secret patch."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "Innovation here serves the ethic; it does not dodge it."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP4_03a",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "GS Paper 4",
+    "q_number": "3(a)",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 GS Paper 4",
+    "question_text": "What does this quotation mean to you? \"Every work has got to pass through hundreds of difficulties before succeeding. Those that persevere will see the light, sooner or later.\" — Swami Vivekananda",
+    "subjectId": "thinkers",
+    "subjects": [
+      "Thinkers"
+    ],
+    "topic": "Vivekananda on perseverance",
+    "topics": [
+      "Vivekananda on perseverance"
+    ],
+    "subTopics": [
+      "Vivekananda on perseverance"
+    ],
+    "keyPointers": [
+      "Vivekananda",
+      "Dedication to public service",
+      "Courage of conviction"
+    ],
+    "customKeyPointers": [
+      "Difficulty is the normal path of a serious work",
+      "Perseverance is for a public task, not for a wrong method",
+      "The light in the line is the completed duty"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Vivekananda treats the obstacle as the ordinary price of a serious work."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "For a servant, a reform will meet a file, a vested interest and a delay."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Perseverance means staying with the lawful aim, not forcing a shortcut."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "The line is a call to endurance with a clean means."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP4_03b",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "GS Paper 4",
+    "q_number": "3(b)",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 GS Paper 4",
+    "question_text": "What does this quotation mean to you? \"We can never obtain peace in the outer world until and unless we obtain peace within ourselves.\" — Dalai Lama",
+    "subjectId": "thinkers",
+    "subjects": [
+      "Thinkers"
+    ],
+    "topic": "Inner peace and public peace",
+    "topics": [
+      "Inner peace and public peace"
+    ],
+    "subTopics": [
+      "Dalai Lama on inner peace"
+    ],
+    "keyPointers": [
+      "Emotional intelligence",
+      "Self-knowledge",
+      "Compassion"
+    ],
+    "customKeyPointers": [
+      "A disturbed officer spreads the disturbance",
+      "Inner peace is not withdrawal from the work",
+      "It steadies a decision"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The Dalai Lama ties public peace to the state of the person who acts."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "An angry or fearful official humiliates, delays or uses force."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Inner peace is a discipline of attention, not an escape from the file."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "A calmer servant makes a less violent administration."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP4_03c",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "GS Paper 4",
+    "q_number": "3(c)",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 GS Paper 4",
+    "question_text": "What does this quotation mean to you? \"Life doesn't make any sense without interdependence. We need each other, and the sooner we learn that, it is better for us all.\" — Erik Erikson",
+    "subjectId": "thinkers",
+    "subjects": [
+      "Thinkers"
+    ],
+    "topic": "Erikson on interdependence",
+    "topics": [
+      "Erikson on interdependence"
+    ],
+    "subTopics": [
+      "Interdependence"
+    ],
+    "keyPointers": [
+      "Compassion",
+      "Dedication to public service"
+    ],
+    "customKeyPointers": [
+      "No public good is a solo act",
+      "The servant depends on the citizen and on the colleague",
+      "Learning this early prevents contempt for the weak"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Erikson locates a meaningful life in needing others, not in standing alone."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "A scheme works only when the official, the worker and the citizen each do a part."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Contempt for dependence produces a harsh office."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "The sooner a servant accepts interdependence, the fairer the service."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP4_04a",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "GS Paper 4",
+    "q_number": "4(a)",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 GS Paper 4",
+    "question_text": "Attitude is an important component that goes as input in the development of human being. How to build a suitable attitude needed for a public servant?",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Building a public-service attitude",
+    "topics": [
+      "Building a public-service attitude"
+    ],
+    "subTopics": [
+      "Building a service attitude"
+    ],
+    "keyPointers": [
+      "Attitude",
+      "Dedication to public service",
+      "Civil service neutrality"
+    ],
+    "customKeyPointers": [
+      "A suitable attitude is learnt, not announced",
+      "Training, an example and a consequence shape it",
+      "Suitable means treating the citizen as the person the office serves"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "A servant's attitude toward the citizen is learnt, so it can be built."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Training on real cases, a senior who models the counter, and a reward that notices the last person."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "A posting and a punishment that do not teach contempt."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "The suitable attitude is built by example and feedback, not by a circular."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP4_04b",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "GS Paper 4",
+    "q_number": "4(b)",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 GS Paper 4",
+    "question_text": "In case of crisis of conscience does emotional intelligence help to overcome the same without compromising the ethical or moral stand that you are likely to follow? Critically examine.",
+    "subjectId": "attitude",
+    "subjects": [
+      "Attitude, EI, Aptitude"
+    ],
+    "topic": "Emotional intelligence and conscience",
+    "topics": [
+      "Emotional intelligence and conscience"
+    ],
+    "subTopics": [
+      "Emotional intelligence and conscience"
+    ],
+    "keyPointers": [
+      "Emotional intelligence",
+      "Conscience",
+      "Moral reasoning"
+    ],
+    "customKeyPointers": [
+      "Emotional skill names the feeling; conscience names the duty",
+      "It can help a person hold the stand without an outburst",
+      "It can also be used to dress up a compromise"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "A crisis of conscience is a clash between an order, a fear and a moral stand."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Emotional intelligence helps you see the fear and still speak calmly."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "It does not decide the stand; a clever reading of one's feelings can also justify bending."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "It helps you keep the stand; it must not be used to dilute it."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP4_05a",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "GS Paper 4",
+    "q_number": "5(a)",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 GS Paper 4",
+    "question_text": "\"Refugees should not be turned back to the country where they would face persecution or human right violation.\" Examine the statement with reference to the ethical dimension being violated by a nation claiming to be democratic with an open society.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Non-refoulement and democratic ethics",
+    "topics": [
+      "Non-refoulement and democratic ethics"
+    ],
+    "subTopics": [
+      "Non-refoulement"
+    ],
+    "keyPointers": [
+      "Compassion",
+      "Conflict of values",
+      "Rule of law"
+    ],
+    "customKeyPointers": [
+      "Sending a person back to persecution breaks a basic duty",
+      "A security concern is a real limit, not a blanket excuse",
+      "The violation is treating the weak person as the threat"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The line is the rule that a person is not returned to torture or persecution."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "A democracy that turns them back violates the dignity it claims to hold."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "A check for a real security risk can be lawful; a blanket pushback is not."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "The ethical failure is greatest when an open society closes the door it advertises."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP4_05b",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "GS Paper 4",
+    "q_number": "5(b)",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 GS Paper 4",
+    "question_text": "Should impartial and being non-partisan be considered as indispensable qualities to make a successful civil servant? Discuss with illustrations.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Impartiality and non-partisanship",
+    "topics": [
+      "Impartiality and non-partisanship"
+    ],
+    "subTopics": [
+      "Impartial and non-partisan service"
+    ],
+    "keyPointers": [
+      "Impartiality",
+      "Civil service neutrality",
+      "Integrity"
+    ],
+    "customKeyPointers": [
+      "The same rule for everyone, and no party as the client",
+      "These qualities are indispensable in a permanent service",
+      "An election, or a scheme bent toward a party worker, shows why"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "A permanent service serves successive governments and one public."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Impartiality is the same rule; non-partisanship is refusing a party as the master."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Illustration: an election duty, or a benefit not steered to a worker of the ruling side."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "Yes, they are indispensable. A partisan career that looks successful has failed the public."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP4_06a",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "GS Paper 4",
+    "q_number": "6(a)",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 GS Paper 4",
+    "question_text": "An independent and empowered social audit mechanism is an absolute must in every sphere of public service, including judiciary, to ensure performance, accountability and ethical conduct. Elaborate.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Social audit of public service",
+    "topics": [
+      "Social audit of public service"
+    ],
+    "subTopics": [
+      "Social audit"
+    ],
+    "keyPointers": [
+      "Accountability",
+      "Transparency and the right to information",
+      "Civil society and NGOs"
+    ],
+    "customKeyPointers": [
+      "The user of a service can see whether it happened",
+      "The auditor must be independent of the office being checked",
+      "The judiciary needs a careful form, not a crowd reviewing a judgment"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Social audit lets the people affected check a work, a wage or a service."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "It needs an independent facilitator and a record the office cannot quietly rewrite."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "For the judiciary the form is transparency of process and a complaint system, not a crowd judging a verdict."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "Without an outside check, performance and ethics stay a claim."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP4_06b",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "GS Paper 4",
+    "q_number": "6(b)",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2021 GS Paper 4",
+    "question_text": "\"Integrity is a value that empowers the human being.\" Justify with suitable illustration.",
+    "subjectId": "ethics",
+    "subjects": [
+      "Ethics & Values"
+    ],
+    "topic": "Integrity as empowerment",
+    "topics": [
+      "Integrity as empowerment"
+    ],
+    "subTopics": [
+      "Integrity empowers"
+    ],
+    "keyPointers": [
+      "Integrity",
+      "Courage of conviction",
+      "Personal cost of doing right"
+    ],
+    "customKeyPointers": [
+      "A person who cannot be bought can refuse",
+      "The strength is the freedom of that refusal",
+      "An officer who records a wrong order is the illustration"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Integrity is doing what you ought to do when it costs."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "It empowers because the person is not trapped by a bribe, a fear or a favour already taken."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Illustration: an officer who stops unsafe work and can defend the written note."
+      },
+      {
+        "section": "Conclusion",
+        "order": 4,
+        "text": "The value gives a spine. Its absence hands the person to whoever pays."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP4_07",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "GS Paper 4",
+    "q_number": "7",
+    "marks": 20,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 0,
+    "cite": "UPSC Mains 2021 GS Paper 4",
+    "question_text": "Sunil, a young civil servant posted in a tribal district, acts against an illegal sand-mining mafia linked to some of his own staff and to local musclemen. The mafia threatens him, his wife and mother are stalked, and he is reminded that an officer was killed ten years earlier. (a) Identify the options available to Sunil. (b) Critically evaluate each option. (c) Which option should he adopt and why?",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Illegal sand mining and a threat to the officer",
+    "topics": [
+      "Illegal sand mining and a threat to the officer"
+    ],
+    "subTopics": [
+      "Courage against a local mafia"
+    ],
+    "keyPointers": [
+      "Integrity",
+      "Courage of conviction",
+      "Personal cost of doing right",
+      "Tribal communities"
+    ],
+    "customKeyPointers": [
+      "Stopping now would betray the duty already begun",
+      "A lone raid may repeat an earlier killing",
+      "The fitting path is lawful action together with protection"
+    ],
+    "points": [
+      {
+        "section": "Point",
+        "order": 1,
+        "text": "Options: stop the raids; continue alone; seek a quiet transfer; or continue with a written record, protection for the family, and action against the colluding staff."
+      },
+      {
+        "section": "Point",
+        "order": 2,
+        "text": "Stopping saves the family today and abandons the law and the next officer. A lone raid repeats the risk that killed a predecessor."
+      },
+      {
+        "section": "Point",
+        "order": 3,
+        "text": "The appropriate option is to persist through the system: inform seniors in writing, protect the family, use a legal force, and separate the poor tribal from the mafia."
+      },
+      {
+        "section": "Point",
+        "order": 4,
+        "text": "Courage here is organised, not theatrical."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP4_08",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "GS Paper 4",
+    "q_number": "8",
+    "marks": 20,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 0,
+    "cite": "UPSC Mains 2021 GS Paper 4",
+    "question_text": "You are Vice Principal of a degree college. A flying squad catches two students cheating with help from a senior lecturer close to the management. One student is a local politician's son; the other is the son of a major donor. Management tells you to settle it with the squad at any cost and hints that your promotion to Principal depends on it. Students are protesting for strict action. (a) Discuss the ethical issues. (b) Critically examine your options and state which you will adopt and why.",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Exam cheating and a hinted promotion",
+    "topics": [
+      "Exam cheating and a hinted promotion"
+    ],
+    "subTopics": [
+      "Integrity against a promotion bargain"
+    ],
+    "keyPointers": [
+      "Integrity",
+      "Political pressure",
+      "Corruption",
+      "Rule of law"
+    ],
+    "customKeyPointers": [
+      "The cheating, the lecturer's help and the cover-up are three separate wrongs",
+      "A promotion that depends on a cover is a bribe in kind",
+      "The lawful report has to stand, even if a protest follows"
+    ],
+    "points": [
+      {
+        "section": "Point",
+        "order": 1,
+        "text": "Ethical issues: fairness of the exam, misuse of influence, and a personal promotion set against the truth."
+      },
+      {
+        "section": "Point",
+        "order": 2,
+        "text": "Options: hush the squad; punish only the students; or record the facts, support the squad, and refuse the hinted bargain."
+      },
+      {
+        "section": "Point",
+        "order": 3,
+        "text": "Adopt the third. A principalship bought by burying a cheat is not a post worth holding."
+      },
+      {
+        "section": "Point",
+        "order": 4,
+        "text": "The students outside should be told that action will follow the university rule."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP4_09",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "GS Paper 4",
+    "q_number": "9",
+    "marks": 20,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 0,
+    "cite": "UPSC Mains 2021 GS Paper 4",
+    "question_text": "As project manager of an elevated corridor meant to be inaugurated before an election, you find a crack in a pier, likely from poor material, and assess that at least three piers must be rebuilt, delaying the work by four to six months. The chief engineer overrules you, citing the minister, a contractor who is the minister's relative, and your pending promotion. (a) What options do you have? (b) What ethical dilemmas do you face? (c) What professional challenges arise and how should you respond? (d) What follows if the inspection is overlooked?",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "A structural crack and a political deadline",
+    "topics": [
+      "A structural crack and a political deadline"
+    ],
+    "subTopics": [
+      "Public safety against a deadline"
+    ],
+    "keyPointers": [
+      "Integrity",
+      "Personal cost of doing right",
+      "Political pressure",
+      "Conflict of values"
+    ],
+    "customKeyPointers": [
+      "A crack in a pier is a future collapse",
+      "An inauguration date and a relative are not engineering facts",
+      "The stop has to be recorded in writing"
+    ],
+    "points": [
+      {
+        "section": "Point",
+        "order": 1,
+        "text": "Options: obey and continue; resign quietly; or stop the unsafe work, record the assessment, and escalate in writing above the chief engineer."
+      },
+      {
+        "section": "Point",
+        "order": 2,
+        "text": "Dilemmas: safety against a career, and loyalty to a senior against loyalty to the user of the bridge."
+      },
+      {
+        "section": "Point",
+        "order": 3,
+        "text": "The professional pressure is isolation. Respond with a written technical note and a request for an independent test. Do not accept an oral waiver."
+      },
+      {
+        "section": "Point",
+        "order": 4,
+        "text": "Overlooking the crack can mean a later failure, deaths, and a blame that still finds the manager who knew."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP4_10",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "GS Paper 4",
+    "q_number": "10",
+    "marks": 20,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 0,
+    "cite": "UPSC Mains 2021 GS Paper 4",
+    "question_text": "You administer a public hospital during the COVID-19 surge. Patients arrive continuously, and beds, oxygen, staff and cremation capacity are short. (a) What criteria and justification would you use to put clinical and non-clinical staff on duty, knowing the disease is highly infectious? (b) Would the decision be the same if the hospital were private?",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Allocating hospital staff in a pandemic",
+    "topics": [
+      "Allocating hospital staff in a pandemic"
+    ],
+    "subTopics": [
+      "Duty of care in a shortage"
+    ],
+    "keyPointers": [
+      "Conflict of values",
+      "Compassion",
+      "Health as welfare",
+      "Dedication to public service"
+    ],
+    "customKeyPointers": [
+      "Staff are not an unlimited resource",
+      "The criteria are skill, rotation and protection of the staff",
+      "A public hospital cannot choose only the easy patient"
+    ],
+    "points": [
+      {
+        "section": "Point",
+        "order": 1,
+        "text": "Criteria: competence for the task, a rotation so no one is exhausted, proper protection, and non-clinical staff on logistics rather than unprotected clinical work."
+      },
+      {
+        "section": "Point",
+        "order": 2,
+        "text": "Justification: the public hospital exists for this surge. Refusing to deploy is abandonment. Deploying without gear is also wrong."
+      },
+      {
+        "section": "Point",
+        "order": 3,
+        "text": "A private hospital owes the same care to the patient in front of it and the same protection to its staff."
+      },
+      {
+        "section": "Point",
+        "order": 4,
+        "text": "It may not dump the severe poor case onto the public system in order to protect profit. Staff safety stays the same; freedom to refuse the poor does not."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP4_11",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "GS Paper 4",
+    "q_number": "11",
+    "marks": 20,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 0,
+    "cite": "UPSC Mains 2021 GS Paper 4",
+    "question_text": "A reputed food company sold in India a product that random tests found did not match its domestic approval, and it also sold rejected export stock in the home market. (a) What should the competent authority do? (b) What can the company do to resolve the crisis and recover reputation? (c) Examine the ethical dilemma.",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Unsafe food sold at home",
+    "topics": [
+      "Unsafe food sold at home"
+    ],
+    "subTopics": [
+      "A double standard in food safety"
+    ],
+    "keyPointers": [
+      "Corporate governance",
+      "Integrity",
+      "Conflict of values"
+    ],
+    "customKeyPointers": [
+      "Stock rejected for export must not become the meal at home",
+      "The authority should stop the sale, recall the product and penalise the firm",
+      "A stricter standard for the foreign buyer and a looser one at home is the ethical failure"
+    ],
+    "points": [
+      {
+        "section": "Point",
+        "order": 1,
+        "text": "The authority should stop the sale, order a recall, test what remains, suspend the approval and penalise, with prosecution if harm is shown."
+      },
+      {
+        "section": "Point",
+        "order": 2,
+        "text": "The company should admit the variance, recall, compensate, and open the process to an independent audit before it claims the brand back."
+      },
+      {
+        "section": "Point",
+        "order": 3,
+        "text": "The ethical dilemma was a known standard for the export buyer and a weaker product for the domestic one."
+      },
+      {
+        "section": "Point",
+        "order": 4,
+        "text": "Reputation follows the corrected product, not an advertisement."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2021_GSP4_12",
+    "exam": "UPSC",
+    "year": 2021,
+    "paper_title": "GS Paper 4",
+    "q_number": "12",
+    "marks": 20,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 0,
+    "cite": "UPSC Mains 2021 GS Paper 4",
+    "question_text": "Pawan, a state-government officer, is repeatedly humiliated by his senior despite no serious failure in the work. The abuse damages his confidence and then his temper at home. (a) What options does he have? (b) What approach should he take for peace at office and at home? (c) What would you suggest to the boss and to the subordinate? (d) What training would you suggest for officers?",
+    "subjectId": "cases",
+    "subjects": [
+      "Case Studies"
+    ],
+    "topic": "Workplace humiliation",
+    "topics": [
+      "Workplace humiliation"
+    ],
+    "subTopics": [
+      "Toxic supervision"
+    ],
+    "keyPointers": [
+      "Pressure from a superior",
+      "Integrity",
+      "Emotional intelligence",
+      "Dedication to public service"
+    ],
+    "customKeyPointers": [
+      "Humiliation is not a style of management",
+      "The officer should record it, ask for clarity, and use a formal channel",
+      "The anger should not be carried home"
+    ],
+    "points": [
+      {
+        "section": "Point",
+        "order": 1,
+        "text": "Options: endure; retaliate; seek a transfer; or record the incidents, ask for a calm clarification, and use the grievance channel if it continues."
+      },
+      {
+        "section": "Point",
+        "order": 2,
+        "text": "Separate work feedback from insult. Do not punish the family for the office. A colleague or a counsellor can witness the pattern."
+      },
+      {
+        "section": "Point",
+        "order": 3,
+        "text": "To the boss: criticise in private and on the work. To Pawan: do not answer abuse with abuse."
+      },
+      {
+        "section": "Point",
+        "order": 4,
+        "text": "Training: a workplace code, emotional intelligence for supervising officers, and a redress that juniors trust."
+      }
+    ]
+  }
+]

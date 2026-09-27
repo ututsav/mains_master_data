@@ -1,0 +1,1292 @@
+[
+  {
+    "uid": "UPSC_2022_GSP2_01",
+    "exam": "UPSC",
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "1",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2022 GS Paper 2",
+    "question_text": "“The most significant achievement of modern law in India is the constitutionalization of environmental problems by the Supreme Court.” Discuss this statement with the help of relevant case laws.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Constitutionalisation of the environment",
+    "topics": [
+      "Constitutionalisation of the environment"
+    ],
+    "subTopics": [
+      "Environment in constitutional law"
+    ],
+    "keyPointers": [
+      "Life and personal liberty",
+      "Public interest litigation",
+      "Polluter pays",
+      "Precautionary principle"
+    ],
+    "customKeyPointers": [
+      "The Court read a right to environment into Article 21",
+      "Public-interest cases turned a local harm into a constitutional case",
+      "The achievement is real, and it is not a substitute for a statute"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The Supreme Court made environmental harm a breach of the right to life, not only a breach of a licence."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Cases such as Subhash Kumar, M.C. Mehta, Vellore and the public-trust line in M.C. Mehta (Span Motel) did this work."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Polluter pays, precaution and absolute liability gave the Court a remedy where the statute was slow."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "The limit is that a judgment is case-wise, and enforcement still needs a board, a budget and a law."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Constitutionalisation is the Court's large achievement. It does not retire the need for ordinary environmental law."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2022_GSP2_02",
+    "exam": "UPSC",
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "2",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2022 GS Paper 2",
+    "question_text": "“Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute.” Comment.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Movement and residence are not absolute",
+    "topics": [
+      "Movement and residence are not absolute"
+    ],
+    "subTopics": [
+      "Article 19 movement and residence"
+    ],
+    "keyPointers": [
+      "Rights and reasonable restrictions"
+    ],
+    "customKeyPointers": [
+      "Article 19 gives this freedom to the citizen, not to every person",
+      "The Constitution itself lists the limits",
+      "A restriction must be a law, and it must be reasonable"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The freedom to move and reside anywhere in India is wide, and it is fenced."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Article 19(1)(d) and (e) belong to citizens."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Article 19(5) allows a reasonable restriction in the interests of the general public or for the protection of a Scheduled Tribe."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "An externment order, a curfew under a lawful regime, or a land law that shields tribal land can therefore stand, if the restriction is proportionate."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "The right is free inside the territory, and it stops where a stated public interest, by law, begins."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2022_GSP2_03",
+    "exam": "UPSC",
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "3",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2022 GS Paper 2",
+    "question_text": "To what extent, in your opinion, has the decentralisation of power in India changed the governance landscape at the grassroots?",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "What decentralisation changed at the grassroots",
+    "topics": [
+      "What decentralisation changed at the grassroots"
+    ],
+    "subTopics": [
+      "Panchayat and municipal decentralisation"
+    ],
+    "keyPointers": [
+      "73rd and 74th Amendments",
+      "Devolution of functions",
+      "Reservation in local bodies",
+      "Local body finance"
+    ],
+    "customKeyPointers": [
+      "The amendments created an elected local state",
+      "Money, staff and the function list did not follow fully",
+      "The landscape changed more in representation than in power"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Decentralisation changed who sits at the local table more than it changed who decides."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Regular elections, reservation and a gram sabha made a local political class that did not exist in this form."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Funds and functions remain tied to the state department and the scheme."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Where a state devolved, local works and local accountability improved. Where it did not, the panchayat is a counter."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "The landscape has changed, but the change is uneven and still short of self-government."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2022_GSP2_04",
+    "exam": "UPSC",
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "4",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2022 GS Paper 2",
+    "question_text": "Discuss the role of the Vice-President of India as the Chairman of the Rajya Sabha.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Vice-President as Chairman of the Rajya Sabha",
+    "topics": [
+      "Vice-President as Chairman of the Rajya Sabha"
+    ],
+    "subTopics": [
+      "Rajya Sabha Chairman"
+    ],
+    "keyPointers": [
+      "Parliamentary accountability"
+    ],
+    "customKeyPointers": [
+      "The Vice-President's working office is the Chair of the Rajya Sabha",
+      "The Chair runs the sitting and guards the procedure",
+      "The vote is a casting vote, not a political lead"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "As Chairman, the Vice-President is the presiding officer of the Rajya Sabha."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "The Chair decides points of order, maintains the list of business and can adjourn a disorderly sitting."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Bills, resolutions and a member's conduct are handled under the rules the Chair applies."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "A casting vote is used only in a tie, and the Chair does not join the government's whip."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "The role is to keep the Council of States a deliberating House."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2022_GSP2_05",
+    "exam": "UPSC",
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "5",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2022 GS Paper 2",
+    "question_text": "Discuss the role of the National Commission for Backward Classes in the wake of its transformation from a statutory body to a constitutional body.",
+    "subjectId": "justice",
+    "subjects": [
+      "Social Justice"
+    ],
+    "topic": "NCBC after it became constitutional",
+    "topics": [
+      "NCBC after it became constitutional"
+    ],
+    "subTopics": [
+      "National Commission for Backward Classes"
+    ],
+    "keyPointers": [
+      "National commissions for weaker sections",
+      "Affirmative action",
+      "Caste and reservation"
+    ],
+    "customKeyPointers": [
+      "The 102nd Amendment lifted the Commission into the Constitution",
+      "It now has the powers of a civil court",
+      "A constitutional status raises the duty, not automatically the result"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The NCBC moved from a law-made body to a body the Constitution requires."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Article 338B mandates it to monitor safeguards, inquire into complaints and advise on the social and economic development of backward classes."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "It has civil-court powers for a summons and a document."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Advice on lists is now structurally harder for a government to ignore, though the last word on policy remains political."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "The transformation matters because advice on backward classes now comes from a body the Constitution itself protects."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2022_GSP2_06",
+    "exam": "UPSC",
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "6",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2022 GS Paper 2",
+    "question_text": "The Gati-Shakti Yojana needs meticulous coordination between the government and the private sector to achieve the goal of connectivity. Discuss.",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Gati-Shakti and public-private coordination",
+    "topics": [
+      "Gati-Shakti and public-private coordination"
+    ],
+    "subTopics": [
+      "PM Gati-Shakti"
+    ],
+    "keyPointers": [
+      "Infrastructure",
+      "Logistics",
+      "Ease of doing business"
+    ],
+    "customKeyPointers": [
+      "Gati-Shakti is a map of projects, not a new road by itself",
+      "Ministries, states and a private builder must use the same plan",
+      "Coordination fails when land, a clearance and a contract run on different clocks"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Gati-Shakti reaches connectivity only if the public plan and the private builder share one timeline."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "The platform is meant to stop a rail, a road, a port and a power line being planned in ignorance of each other."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Private capital builds stations, freight parks and last-mile links, but it will not come without a clear contract and a land that is actually free."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "A state delay or a ministry that will not share its layer breaks the whole corridor."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "The goal is coordination. Without it the scheme is a dashboard."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2022_GSP2_07",
+    "exam": "UPSC",
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "7",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2022 GS Paper 2",
+    "question_text": "The Rights of Persons with Disabilities Act, 2016 remains only a legal document without intense sensitisation of government functionaries and citizens regarding disability. Comment.",
+    "subjectId": "justice",
+    "subjects": [
+      "Social Justice"
+    ],
+    "topic": "Disability rights need more than the Act",
+    "topics": [
+      "Disability rights need more than the Act"
+    ],
+    "subTopics": [
+      "Rights of Persons with Disabilities Act"
+    ],
+    "keyPointers": [
+      "Disability rights"
+    ],
+    "customKeyPointers": [
+      "The 2016 Act widened the rights and the list of disabilities",
+      "A right that the clerk and the neighbour do not accept stays unused",
+      "The law is necessary and not sufficient"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The Act creates the right. Sensitisation decides whether a person can use it."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Reservation, accessibility and a reason-based distinction mean little if an office still treats disability as charity."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Officials who do not know the law delay certificates, buildings and a reasonable accommodation."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Citizens who stare, exclude or design only for themselves undo the public duty the Act states."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Without that change of habit the Act stays a document."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2022_GSP2_08",
+    "exam": "UPSC",
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "8",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2022 GS Paper 2",
+    "question_text": "Reforming the government delivery system through the Direct Benefit Transfer Scheme is a progressive step, but it has its own limitations too. Comment.",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Direct Benefit Transfer and its limits",
+    "topics": [
+      "Direct Benefit Transfer and its limits"
+    ],
+    "subTopics": [
+      "Direct Benefit Transfer"
+    ],
+    "keyPointers": [
+      "Digital public infrastructure",
+      "Digital divide",
+      "Welfare state",
+      "Grievance redress"
+    ],
+    "customKeyPointers": [
+      "Direct transfer cuts a leak by paying the person, not the middleman",
+      "It needs a bank account, a number and a working authentication",
+      "Exclusion of the eligible person is the new failure"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "DBT is progressive because it replaces a leaky chain with a credit to the beneficiary."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Ghost names and a diverted sack become harder."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "The person without a reliable account, a mobile link or a fingerprint match is now excluded by the reform itself."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "A delay, a wrong seeding and a weak grievance system reproduce the old hardship in a digital form."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "The step is real. Its limit is that a transfer is only as fair as the list and the authentication."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2022_GSP2_09",
+    "exam": "UPSC",
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "9",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2022 GS Paper 2",
+    "question_text": "‘India is an age-old friend of Sri Lanka.’ Discuss India's role in the recent crisis in Sri Lanka in the light of the preceding statement.",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "India and Sri Lanka's recent crisis",
+    "topics": [
+      "India and Sri Lanka's recent crisis"
+    ],
+    "subTopics": [
+      "India and the Sri Lanka crisis"
+    ],
+    "keyPointers": [
+      "Neighbourhood first",
+      "Development partnership",
+      "Maritime interest"
+    ],
+    "customKeyPointers": [
+      "The friendship was tested by a collapse of Sri Lanka's foreign exchange",
+      "India answered with credit, fuel, food and currency support",
+      "The help was timely assistance, not a takeover of the politics"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "India treated the Sri Lankan collapse as a neighbour's emergency, and acted like one."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Credit lines for fuel and essentials, currency support and supplies arrived when reserves had failed."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "This matched an old relationship and a current interest: a stable island, and no vacuum for another power."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "India did not, and could not, replace Sri Lanka's own reform of tax, debt and the political crisis."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "The role fits the claim of friendship if it is read as first help, not as ownership."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2022_GSP2_10",
+    "exam": "UPSC",
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "10",
+    "marks": 10,
+    "word_limit": 150,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2022 GS Paper 2",
+    "question_text": "Do you think that BIMSTEC is a parallel organisation like the SAARC? What are the similarities and dissimilarities between the two? How are Indian foreign policy objectives realized by forming this new organisation?",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "BIMSTEC and SAARC",
+    "topics": [
+      "BIMSTEC and SAARC"
+    ],
+    "subTopics": [
+      "BIMSTEC compared with SAARC"
+    ],
+    "keyPointers": [
+      "Regional groupings",
+      "Neighbourhood first",
+      "Trade and foreign policy"
+    ],
+    "customKeyPointers": [
+      "BIMSTEC is not a copy of SAARC with a new name",
+      "SAARC is stalled by India-Pakistan politics",
+      "BIMSTEC leaves that dispute out and adds South East Asia"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "BIMSTEC looks parallel to SAARC, but it was built to go around SAARC's blockage."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Both group neighbours for trade, connectivity and a shared problem. SAARC is South Asia including Pakistan. BIMSTEC is the Bay, linking South Asia to ASEAN without Pakistan."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "SAARC's summit diplomacy froze. BIMSTEC lets India pursue connectivity, a blue economy and Act East with willing partners."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "It does not replace SAARC's unfinished South Asian business."
+      },
+      {
+        "section": "Conclusion",
+        "order": 5,
+        "text": "Indian objectives are met by having a regional table that still meets."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2022_GSP2_11",
+    "exam": "UPSC",
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "11",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2022 GS Paper 2",
+    "question_text": "Discuss the procedures to decide the disputes arising out of the election of a Member of the Parliament or State Legislature under The Representation of the People Act, 1951. What are the grounds on which the election of any returned candidate may be declared void? What remedy is available to the aggrieved party against the decision? Refer to the case laws.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Election disputes under the RPA 1951",
+    "topics": [
+      "Election disputes under the RPA 1951"
+    ],
+    "subTopics": [
+      "Election petitions"
+    ],
+    "keyPointers": [
+      "Election Commission",
+      "Electoral reforms",
+      "Criminalisation of politics"
+    ],
+    "customKeyPointers": [
+      "An election dispute goes to a High Court, not to the House",
+      "Corrupt practice, a wrong nomination and a bad count are core grounds",
+      "The appeal lies to the Supreme Court"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The Representation of the People Act, 1951, takes an election dispute out of the legislature and into a court."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "An election petition is filed in the High Court of the state, within the limitation the Act sets."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "The returned candidate's election can be declared void for a disqualification, a nomination wrongly accepted or rejected, a corrupt practice, or a result materially affected by improper acceptance, rejection or a wrong count."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "The High Court tries the petition with the powers of a trial."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "The aggrieved party appeals to the Supreme Court. The courts have treated the right to challenge as statutory, so the procedure in the Act is the procedure."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "The remedy against the decision is that appeal, not a second political vote."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2022_GSP2_12",
+    "exam": "UPSC",
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "12",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2022 GS Paper 2",
+    "question_text": "Discuss the essential conditions for exercise of the legislative powers by the Governor. Discuss the legality of re-promulgation of ordinances by the Governor without placing them before the Legislature.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Governor's ordinance and re-promulgation",
+    "topics": [
+      "Governor's ordinance and re-promulgation"
+    ],
+    "subTopics": [
+      "Governor's legislative power"
+    ],
+    "keyPointers": [
+      "Ordinance",
+      "Governor",
+      "Separation of powers"
+    ],
+    "customKeyPointers": [
+      "The Governor legislates by ordinance only when the House is not sitting",
+      "There must be a need for immediate action",
+      "Re-promulgation to avoid the House is an abuse, and the Court has said so"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The Governor's legislative power is an emergency pen, not a second assembly."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Under Article 213 the House or Houses must not be in session, and the Governor must be satisfied that circumstances exist which render it necessary to act at once."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "The ordinance has the force of an Act and dies if it is not laid and approved within the period the Constitution sets."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "It cannot do what the state legislature cannot do, and a few matters need the President's instruction."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "In D.C. Wadhwa the Court held that repeated re-promulgation, without placing the ordinance before the legislature, subverts the democratic process and is unconstitutional."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "Re-promulgation as a method of bypassing the House is not a legal use of the power."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2022_GSP2_13",
+    "exam": "UPSC",
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "13",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2022 GS Paper 2",
+    "question_text": "“While the national political parties in India favour centralisation, the regional parties are in favour of State autonomy.” Comment.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "National parties, regional parties and autonomy",
+    "topics": [
+      "National parties, regional parties and autonomy"
+    ],
+    "subTopics": [
+      "Centralisation and State autonomy"
+    ],
+    "keyPointers": [
+      "Federalism",
+      "Cooperative federalism",
+      "Union, state and concurrent lists"
+    ],
+    "customKeyPointers": [
+      "The contrast is a tendency, not a law of parties",
+      "A national party in office at the Centre defends the Union's instruments",
+      "A regional party is built on a state grievance and a state vote"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The statement catches a real tilt, and it overstates it."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "National parties draw a vote from many states and staff the Union, so they defend a strong Centre, governors, and central schemes."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "Regional parties win on language, a regional hurt or a state service, so they argue for the State List, fiscal room and a say in national coalitions."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "The same national party, when it sits only in a state, can talk like a regional one. A regional party inside the Union cabinet defends a central law that helps its state."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Federal practice since the 1990s is this bargain, not a clean two-party theory."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "The comment is a useful first cut. Office, not the label alone, decides who wants the Centre strong."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2022_GSP2_14",
+    "exam": "UPSC",
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "14",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2022 GS Paper 2",
+    "question_text": "Critically examine the procedures through which the Presidents of India and France are elected.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "How India and France elect a President",
+    "topics": [
+      "How India and France elect a President"
+    ],
+    "subTopics": [
+      "Presidential elections compared"
+    ],
+    "keyPointers": [
+      "Federalism",
+      "Separation of powers",
+      "Presidential discretion"
+    ],
+    "customKeyPointers": [
+      "Both elections are designed, and they are designed for different presidents",
+      "India's President is chosen by a weighted electoral college",
+      "France's President is chosen directly by the people in two rounds"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The two procedures produce two different presidencies."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "India: elected members of both Houses of Parliament and of the state legislative assemblies vote. The value of a vote is weighted so that the Union and the states, and large and small states, are balanced. The vote is single transferable."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "The Indian President is a constitutional head, so the election keeps the office above a direct popular mandate."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "France: any voter may vote. A second round between the top two follows if no one has a majority. The president who emerges leads the government and foreign policy."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "A direct mandate can also polarise, which the two-round system only partly contains."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "India's procedure protects a federal and nominal head. France's procedure creates a political one."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2022_GSP2_15",
+    "exam": "UPSC",
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "15",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2022 GS Paper 2",
+    "question_text": "Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct.",
+    "subjectId": "constitution",
+    "subjects": [
+      "Constitution & Polity"
+    ],
+    "topic": "Election Commission and the Model Code",
+    "topics": [
+      "Election Commission and the Model Code"
+    ],
+    "subTopics": [
+      "Model Code of Conduct"
+    ],
+    "keyPointers": [
+      "Election Commission",
+      "Electoral reforms",
+      "Money in elections"
+    ],
+    "customKeyPointers": [
+      "The Model Code began as a party agreement, not as a statute",
+      "The Commission turned it into the rule of the campaign",
+      "A code without a criminal penalty depends on the Commission's standing"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The Model Code grew from a voluntary restraint into the Election Commission's main instrument during a campaign."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Parties first agreed it in Kerala and then nationally. The Commission expanded it to cover speeches, meetings, manifestos and the conduct of the government in power."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "From the announcement of the election, a new scheme, a discretionary transfer and the use of public money for a campaign are policed under it."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "The Commission issues notices, stops a speech's abuse and orders the administration."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Critics note that the Code is not itself a law, so a determined violator meets a rebuke more often than a disqualification. The Commission's authority has been the real sanction."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "The Commission's role has been to make a moral code operate as the campaign's constitution."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2022_GSP2_16",
+    "exam": "UPSC",
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "16",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2022 GS Paper 2",
+    "question_text": "Besides the welfare schemes, India needs deft management of inflation and unemployment to serve the poor and the underprivileged sections of the society. Discuss.",
+    "subjectId": "economy",
+    "subjects": [
+      "Economy & Development"
+    ],
+    "topic": "Prices, jobs and the poor",
+    "topics": [
+      "Prices, jobs and the poor"
+    ],
+    "subTopics": [
+      "Inflation and unemployment as social justice"
+    ],
+    "keyPointers": [
+      "Prices, jobs and the poor",
+      "Inflation",
+      "Unemployment",
+      "Welfare state"
+    ],
+    "customKeyPointers": [
+      "A scheme pays the poor; a price rise taxes them",
+      "Unemployment removes the wage that a scheme cannot replace",
+      "The poor need a transfer, a stable price and a job"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Welfare schemes are not enough if prices and the lack of work undo them."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Food inflation hits a household that spends most of its income on food, even if a ration softens one part of the basket."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "A jobless recovery leaves the underprivileged outside the growth that the schemes are funded by."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Managing inflation without crushing the very employment the poor need is the 'deft' part: supply of food, a careful credit stance, and works that hire."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "A transfer helps. It does not hold a price down or create a regular wage."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "Serving the poor requires the schemes and the two macro conditions the question names."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2022_GSP2_17",
+    "exam": "UPSC",
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "17",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2022 GS Paper 2",
+    "question_text": "Do you agree with the view that increasing dependence on donor agencies for development reduces the importance of community participation in the development process? Justify your answer.",
+    "subjectId": "governance",
+    "subjects": [
+      "Governance"
+    ],
+    "topic": "Donors and community participation",
+    "topics": [
+      "Donors and community participation"
+    ],
+    "subTopics": [
+      "Donor dependence and participation"
+    ],
+    "keyPointers": [
+      "Civil society and NGOs",
+      "Development partnership",
+      "Good governance"
+    ],
+    "customKeyPointers": [
+      "A donor can fund a project the community asked for, or replace the community",
+      "Dependence shifts the report from the village to the donor",
+      "The view is largely right, and it is not automatic"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "Yes, growing dependence on donors tends to shrink community participation, because the person who pays sets the question."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "A project then answers the donor's format, timeline and definition of success."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "The gram sabha is consulted late, or as a photograph, because the decision has already been logged."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Local knowledge about what will be maintained after the grant ends is the first casualty."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "A donor that funds a community's own plan, and then leaves the choice of work to it, can do the opposite. That is the exception, and it requires the state to refuse a tied design."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "Dependence reduces participation unless the money is deliberately made the servant of a local decision."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2022_GSP2_18",
+    "exam": "UPSC",
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "18",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2022 GS Paper 2",
+    "question_text": "The Right of Children to Free and Compulsory Education Act, 2009 remains inadequate in promoting incentive-based system for children's education without generating awareness about the importance of schooling. Analyse.",
+    "subjectId": "justice",
+    "subjects": [
+      "Social Justice"
+    ],
+    "topic": "RTE and why enrolment is not enough",
+    "topics": [
+      "RTE and why enrolment is not enough"
+    ],
+    "subTopics": [
+      "Right to Education Act"
+    ],
+    "keyPointers": [
+      "Education and social change",
+      "Welfare state",
+      "Inequality"
+    ],
+    "customKeyPointers": [
+      "The Act made schooling a right and put a duty on the state",
+      "An incentive brings a child in; a belief keeps the child there",
+      "Without that awareness, the seat stays empty"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "The RTE Act builds the supply of a school. It does not, by itself, build a family's reasons to use it."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Free seats, a neighbourhood school, no detention in the early years and a private school's quota are incentives of a kind."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "A family that does not see a return, or that needs the child's labour, treats the incentive as a cash point."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "Girls, migrants and children with a disability lose most where the community does not value the school."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Awareness, a teacher who stays, and a learning the parent can see are what make the legal incentive work."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "The Act is inadequate on this point because a right that parents do not want to spend a day on remains unused."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2022_GSP2_19",
+    "exam": "UPSC",
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "19",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2022 GS Paper 2",
+    "question_text": "How will I2U2 (India, Israel, UAE and USA) grouping transform India's position in global politics?",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "I2U2 and India's position",
+    "topics": [
+      "I2U2 and India's position"
+    ],
+    "subTopics": [
+      "I2U2 grouping"
+    ],
+    "keyPointers": [
+      "India and the United States",
+      "Regional groupings",
+      "Strategic autonomy",
+      "Trade and foreign policy"
+    ],
+    "customKeyPointers": [
+      "The group places India at a West Asian table with the United States, Israel and the UAE",
+      "The agenda is food, water, energy and projects, not a military pact",
+      "The change is real, and it is limited to one region"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "I2U2 changes India's position by seating it with the United States, Israel and the UAE on practical projects."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "Food parks, water, clean energy and a corridor of investment give India a role in West Asian economic security."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "The grouping shows that India's ties with Israel and the Gulf can run together, which an older politics thought impossible."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "It does not make India a treaty ally, and it does not settle India's other balances, with Russia or in the Indo-Pacific."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Its value is a new minilateral habit: small, project-based, and useful."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "India's position shifts from being courted by each capital separately to helping design a regional economic architecture."
+      }
+    ]
+  },
+  {
+    "uid": "UPSC_2022_GSP2_20",
+    "exam": "UPSC",
+    "year": 2022,
+    "paper_title": "GS Paper 2",
+    "q_number": "20",
+    "marks": 15,
+    "word_limit": 250,
+    "importance": 2,
+    "origin": "PYQ",
+    "is_structured": 1,
+    "cite": "UPSC Mains 2022 GS Paper 2",
+    "question_text": "‘Clean energy is the order of the day.’ Describe briefly India's changing policy towards climate change in various international fora in the context of geopolitics.",
+    "subjectId": "ir",
+    "subjects": [
+      "International Relations"
+    ],
+    "topic": "India's climate policy and geopolitics",
+    "topics": [
+      "India's climate policy and geopolitics"
+    ],
+    "subTopics": [
+      "India's climate diplomacy"
+    ],
+    "keyPointers": [
+      "Paris Agreement",
+      "Common but differentiated responsibility",
+      "Climate conference commitments",
+      "Energy access"
+    ],
+    "customKeyPointers": [
+      "India moved from defending a right to emit toward offering a transition",
+      "Equity and a promise of finance are still the condition",
+      "The shift also tracks energy security, not only a moral change"
+    ],
+    "points": [
+      {
+        "section": "Intro",
+        "order": 1,
+        "text": "India's climate policy has changed from a defensive developing-country line to an active offer, without dropping equity."
+      },
+      {
+        "section": "Body",
+        "order": 2,
+        "text": "At the UNFCCC and the Paris Agreement India accepted a national contribution and later raised its non-fossil and intensity targets, including a net-zero year."
+      },
+      {
+        "section": "Body",
+        "order": 3,
+        "text": "In the same halls it insists that finance and technology from those who emitted first are a condition, not a favour."
+      },
+      {
+        "section": "Body",
+        "order": 4,
+        "text": "The International Solar Alliance and a green hydrogen push are geopolitical tools: they make India a rule-maker in the energy the world is moving to."
+      },
+      {
+        "section": "Body",
+        "order": 5,
+        "text": "Choices at these fora are also about not being locked into one camp's supply chain."
+      },
+      {
+        "section": "Conclusion",
+        "order": 6,
+        "text": "Clean energy is the order of the day, and India is using that order to change its place, not only its fuel."
+      }
+    ]
+  }
+]
